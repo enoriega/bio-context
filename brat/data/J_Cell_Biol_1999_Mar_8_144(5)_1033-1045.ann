@@ -1,0 +1,296 @@
+T1	Gene_or_gene_product 47601 47610	pp60v-src
+T2	Gene_or_gene_product 47622 47626	Cx43
+T3	Site 47718 47722	Y247
+T4	Gene_or_gene_product 41307 41311	Cx43
+T5	Gene_or_gene_product 30181 30186	v-src
+T6	Gene_or_gene_product 30198 30202	Cx43
+T7	Gene_or_gene_product 33452 33455	Lau
+T8	Gene_or_gene_product 33438 33447	Kanemitsu
+T9	Phosphorylation 33413 33428	phosphorylation
+T10	Gene_or_gene_product 33432 33436	Cx43
+T11	Family 25960 25968	connexin
+T12	Site 25932 25940	tyrosine
+T13	Gene_or_gene_product 25535 25540	v-src
+T14	Gene_or_gene_product 18882 18887	v-src
+T15	Gene_or_gene_product 18906 18910	Cx43
+T16	Gene_or_gene_product 21093 21097	Cx43
+T17	Gene_or_gene_product 41389 41394	v-src
+T18	Gene_or_gene_product 1392 1397	v-src
+T19	Gene_or_gene_product 1401 1405	Cx43
+T20	Gene_or_gene_product 28468 28472	Cx43
+T21	Gene_or_gene_product 28477 28486	pp60v-src
+T22	Gene_or_gene_product 26466 26470	Cx43
+T23	Gene_or_gene_product 26475 26484	pp60v-src
+T24	Site 26553 26563	methionine
+T25	Gene_or_gene_product 30874 30878	Cx43
+T26	Gene_or_gene_product 30865 30870	v-src
+T27	Gene_or_gene_product 42645 42650	v-src
+T28	Gene_or_gene_product 42662 42666	Cx43
+T29	Gene_or_gene_product 41551 41555	Cx43
+T30	Site 41525 41531	serine
+T31	Gene_or_gene_product 53048 53049	P
+T32	Gene_or_gene_product 44926 44931	v-src
+T33	Gene_or_gene_product 44940 44944	Cx43
+T34	Gene_or_gene_product 18771 18778	insulin
+T35	Gene_or_gene_product 18806 18810	Cx43
+T36	Gene_or_gene_product 23511 23515	Cx43
+T37	Gene_or_gene_product 44345 44350	v-src
+T38	Gene_or_gene_product 44369 44373	Cx43
+T39	Gene_or_gene_product 39459 39463	Cx43
+T40	Gene_or_gene_product 34701 34706	v-src
+T41	Gene_or_gene_product 26234 26239	v-src
+T42	Gene_or_gene_product 26251 26255	Cx43
+T43	Gene_or_gene_product 25544 25547	MAP
+T44	Gene_or_gene_product 25860 25865	v-src
+T45	Gene_or_gene_product 25869 25873	Cx43
+T46	Gene_or_gene_product 39634 39639	v-src
+T47	Gene_or_gene_product 23148 23153	v-src
+T48	Site 23185 23189	Y265
+T49	Gene_or_gene_product 21691 21696	v-src
+T50	Site 21714 21720	Tyr247
+T51	Gene_or_gene_product 33963 33967	Cx43
+T52	Gene_or_gene_product 26192 26195	SH3
+T53	Gene_or_gene_product 18033 18037	Cx43
+T54	Gene_or_gene_product 43619 43627	cadherin
+T55	Gene_or_gene_product 40327 40331	Cx43
+T56	Site 40299 40307	tyrosine
+T57	Gene_or_gene_product 17065 17070	v-src
+T58	Binding 47611 47618	binding
+T59	Phosphorylation 41288 41303	phosphorylation
+T60	Binding 30187 30194	binding
+T61	Positive_regulation 33404 33412	mediated
+T62	Phosphorylation 25941 25956	phosphorylation
+T63	Phosphorylation 25555 25570	phosphorylation
+T64	Positive_activation 18888 18895	induced
+T65	Phosphorylation 21074 21089	Phosphorylation
+T66	Phosphorylation 41356 41371	phosphorylation
+T67	Binding 1381 1388	binding
+T68	Binding 28453 28464	interaction
+T69	Binding 26446 26457	association
+T70	Binding 30854 30861	binding
+T71	Binding 42651 42658	binding
+T72	Phosphorylation 41532 41547	phosphorylation
+T73	Phosphorylation 53032 53046	phosphorylated
+T74	Positive_activation 44932 44939	induced
+T75	Positive_activation 18779 18786	induced
+T76	Phosphorylation 23492 23507	phosphorylation
+T77	Positive_activation 44351 44358	induced
+T78	Phosphorylation 39440 39455	phosphorylation
+T79	Transcription 34707 34717	expression
+T80	Binding 26240 26247	binding
+T81	Binding 25849 25856	binding
+T82	Transcription 39640 39650	expression
+T83	Phosphorylation 23154 23169	phosphorylation
+T84	Phosphorylation 21697 21712	phosphorylation
+T85	Phosphorylation 33944 33959	phosphorylation
+T86	Phosphorylation 26173 26188	phosphorylation
+T87	Transcription 18015 18025	expression
+T88	Transcription 43628 43638	expression
+T89	Phosphorylation 40308 40323	phosphorylation
+T90	Transcription 17071 17081	expression
+E1	Phosphorylation:T9 theme:T10
+E2	Phosphorylation:T9 theme:T7
+E3	Binding:T58 theme:T1 theme:T2 site:T3
+E4	Phosphorylation:T59 theme:T4
+E5	Binding:T60 theme:T5 theme:T6
+E6	Positive_regulation:T61 controller:T8 controlled:E1
+E7	Positive_regulation:T61 controller:T8 controlled:E2
+E8	Positive_regulation:T61 controller:T7 controlled:E1
+E9	Positive_regulation:T61 controller:T7 controlled:E2
+E10	Positive_regulation:T61 controlled:E2
+E11	Phosphorylation:T62 theme:T11 site:T12
+E12	Phosphorylation:T62 theme:T11
+E13	Phosphorylation:T63 theme:T13
+E14	Positive_activation:T64 controller:T14 controlled:T15
+E15	Phosphorylation:T65 theme:T16
+E16	Phosphorylation:T66 theme:T17
+E17	Binding:T67 theme:T18 theme:T19
+E18	Binding:T68 theme:T20 theme:T21
+E19	Binding:T69 theme:T22 theme:T23 site:T24
+E20	Binding:T70 theme:T25 theme:T26
+E21	Binding:T71 theme:T27 theme:T28
+E22	Phosphorylation:T72 theme:T29 site:T30
+E23	Phosphorylation:T73 theme:T31
+E24	Phosphorylation:T72 theme:T29
+E25	Positive_activation:T74 controller:T32 controlled:T33
+E26	Positive_activation:T75 controller:T34 controlled:T35
+E27	Phosphorylation:T76 theme:T36
+E28	Positive_activation:T77 controller:T37 controlled:T38
+E29	Phosphorylation:T78 theme:T39
+E30	Transcription:T79 theme:T40
+E31	Binding:T58 theme:T1 theme:T2
+E32	Binding:T80 theme:T41 theme:T42
+E33	Phosphorylation:T63 theme:T43
+E34	Binding:T81 theme:T44 theme:T45
+E35	Transcription:T82 theme:T46
+E36	Phosphorylation:T83 theme:T47 site:T48
+E37	Phosphorylation:T84 theme:T49 site:T50
+E38	Phosphorylation:T84 theme:T49
+E39	Phosphorylation:T83 theme:T47
+E40	Phosphorylation:T85 theme:T51
+E41	Phosphorylation:T86 theme:T52
+E42	Transcription:T87 theme:T53
+E43	Positive_regulation:T61 controlled:E1
+E44	Transcription:T88 theme:T54
+E45	Phosphorylation:T89 theme:T55 site:T56
+E46	Phosphorylation:T89 theme:T55
+E47	Transcription:T90 theme:T57
+#1	FoundByRule T1	ner-gene_or_gene_product-entities
+#2	FoundByRule T2	ner-gene_or_gene_product-entities
+#3	FoundByRule T3	site_1letter
+#4	FoundByRule T4	ner-gene_or_gene_product-entities
+#5	FoundByRule T5	ner-gene_or_gene_product-entities
+#6	FoundByRule T6	ner-gene_or_gene_product-entities
+#7	FoundByRule T7	ner-gene_or_gene_product-entities
+#8	FoundByRule T8	ner-gene_or_gene_product-entities
+#9	FoundByRule E1	Phosphorylation_syntax_1_noun
+#10	FoundByRule E2	Phosphorylation_token_2_noun
+#11	FoundByRule T11	ner-family-entities
+#12	FoundByRule T12	site_long
+#13	FoundByRule T13	ner-gene_or_gene_product-entities
+#14	FoundByRule T14	ner-gene_or_gene_product-entities
+#15	FoundByRule T15	ner-gene_or_gene_product-entities
+#16	FoundByRule T16	ner-gene_or_gene_product-entities
+#17	FoundByRule T17	ner-gene_or_gene_product-entities
+#18	FoundByRule T18	ner-gene_or_gene_product-entities
+#19	FoundByRule T19	ner-gene_or_gene_product-entities
+#20	FoundByRule T20	ner-gene_or_gene_product-entities
+#21	FoundByRule T21	ner-gene_or_gene_product-entities
+#22	FoundByRule T22	ner-gene_or_gene_product-entities
+#23	FoundByRule T23	ner-gene_or_gene_product-entities
+#24	FoundByRule T24	site_long
+#25	FoundByRule T25	ner-gene_or_gene_product-entities
+#26	FoundByRule T26	ner-gene_or_gene_product-entities
+#27	FoundByRule T27	ner-gene_or_gene_product-entities
+#28	FoundByRule T28	ner-gene_or_gene_product-entities
+#29	FoundByRule T29	ner-gene_or_gene_product-entities
+#30	FoundByRule T30	site_long
+#31	FoundByRule T31	ner-gene_or_gene_product-entities
+#32	FoundByRule T32	ner-gene_or_gene_product-entities
+#33	FoundByRule T33	ner-gene_or_gene_product-entities
+#34	FoundByRule T34	ner-gene_or_gene_product-entities
+#35	FoundByRule T35	ner-gene_or_gene_product-entities
+#36	FoundByRule T36	ner-gene_or_gene_product-entities
+#37	FoundByRule T37	ner-gene_or_gene_product-entities
+#38	FoundByRule T38	ner-gene_or_gene_product-entities
+#39	FoundByRule T39	ner-gene_or_gene_product-entities
+#40	FoundByRule T40	ner-gene_or_gene_product-entities
+#41	FoundByRule T41	ner-gene_or_gene_product-entities
+#42	FoundByRule T42	ner-gene_or_gene_product-entities
+#43	FoundByRule T43	ner-gene_or_gene_product-entities
+#44	FoundByRule T44	ner-gene_or_gene_product-entities
+#45	FoundByRule T45	ner-gene_or_gene_product-entities
+#46	FoundByRule T46	ner-gene_or_gene_product-entities
+#47	FoundByRule T47	ner-gene_or_gene_product-entities
+#48	FoundByRule T48	site_1letter
+#49	FoundByRule T49	ner-gene_or_gene_product-entities
+#50	FoundByRule T50	site_3letter
+#51	FoundByRule T51	ner-gene_or_gene_product-entities
+#52	FoundByRule T52	ner-gene_or_gene_product-entities
+#53	FoundByRule T53	ner-gene_or_gene_product-entities
+#54	FoundByRule T10	ner-gene_or_gene_product-entities
+#55	FoundByRule T54	ner-gene_or_gene_product-entities
+#56	FoundByRule T55	ner-gene_or_gene_product-entities
+#57	FoundByRule T56	site_long
+#58	FoundByRule T57	ner-gene_or_gene_product-entities
+#59	FoundByRule E3	binding7
+#60	FoundByRule E4	Phosphorylation_token_1_noun
+#61	FoundByRule E5	binding7
+#62	FoundByRule E6	Positive_regulation_1
+#63	FoundByRule E7	Positive_regulation_1
+#64	FoundByRule E8	Positive_regulation_1
+#65	FoundByRule E9	Positive_regulation_1
+#66	FoundByRule E10	Positive_regulation_3
+#67	FoundByRule E11	Phosphorylation_syntax_1_noun
+#68	FoundByRule E12	Phosphorylation_token_1_noun
+#69	FoundByRule E13	Phosphorylation_syntax_4_noun
+#70	FoundByRule E14	activates_syntax1
+#71	FoundByRule E15	Phosphorylation_syntax_1_noun
+#72	FoundByRule E16	Phosphorylation_token_1_noun
+#73	FoundByRule E17	binding_token_4
+#74	FoundByRule E18	binding9
+#75	FoundByRule E19	binding11
+#76	FoundByRule E20	binding3
+#77	FoundByRule E21	binding_token_1
+#78	FoundByRule E22	Phosphorylation_syntax_1_noun
+#79	FoundByRule E23	Phosphorylation_syntax_1_verb
+#80	FoundByRule E24	Phosphorylation_token_1_noun
+#81	FoundByRule E25	activates_syntax1
+#82	FoundByRule E26	activates_syntax1
+#83	FoundByRule E27	Phosphorylation_syntax_1_noun
+#84	FoundByRule E28	activates_syntax1
+#85	FoundByRule E29	Phosphorylation_syntax_1_noun
+#86	FoundByRule E30	transcription_1
+#87	FoundByRule E31	binding_token_1
+#88	FoundByRule E32	binding7
+#89	FoundByRule E33	Phosphorylation_syntax_4_noun
+#90	FoundByRule E34	binding_token_4
+#91	FoundByRule E35	transcription_1
+#92	FoundByRule E36	Phosphorylation_syntax_4_noun
+#93	FoundByRule E37	Phosphorylation_syntax_4_noun
+#94	FoundByRule E38	Phosphorylation_token_3_noun
+#95	FoundByRule E39	Phosphorylation_token_3_noun
+#96	FoundByRule E40	Phosphorylation_syntax_1_noun
+#97	FoundByRule E41	Phosphorylation_syntax_4_noun
+#98	FoundByRule E42	transcription_1
+#99	FoundByRule E43	Positive_regulation_3
+#100	FoundByRule E44	transcription_1
+#101	FoundByRule E45	Phosphorylation_syntax_1_noun
+#102	FoundByRule E46	Phosphorylation_token_1_noun
+#103	FoundByRule E47	transcription_1
+T91	Cell-Line 1286 1308	rat kidney (NRK) cells
+R1	ContextOf Event:E17 Context:T91	
+T92	Cell-Type 18139 18146	oocytes
+R2	ContextOf Event:E42 Context:T92	
+T93	Cell-Type 16503 16510	oocytes
+R3	ContextOf Event:E47 Context:T93	
+T94	Cell-Line 21356 21363	oocytes
+R4	ContextOf Event:E15 Context:T94	
+T95	Main-Species 21348 21355	Xenopus
+R5	ContextOf Event:E15 Context:T95	
+R6	ContextOf Event:E37 Context:T94	
+R7	ContextOf Event:E38 Context:T94	
+R8	ContextOf Event:E38 Context:T95	
+R9	ContextOf Event:E37 Context:T95	
+R10	ContextOf Event:E36 Context:T94	
+R11	ContextOf Event:E39 Context:T94	
+R12	ContextOf Event:E27 Context:T94	
+T96	Cell-Type 26521 26528	oocytes
+R13	ContextOf Event:E19 Context:T96	
+R14	ContextOf Event:E32 Context:T96	
+R15	ContextOf Event:E41 Context:T96	
+R16	ContextOf Event:E11 Context:T96	
+R17	ContextOf Event:E12 Context:T96	
+R18	ContextOf Event:E34 Context:T96	
+R19	ContextOf Event:E33 Context:T96	
+R20	ContextOf Event:E13 Context:T96	
+T97	Cell-Type 28384 28391	oocytes
+R21	ContextOf Event:E18 Context:T97	
+R22	ContextOf Event:E5 Context:T97	
+T98	Cell-Type 31183 31190	oocytes
+R23	ContextOf Event:E20 Context:T98	
+T99	Cell-Type 32852 32859	oocytes
+T100	Cell-Line 43812 43819	oocytes
+T101	Cell-Type 47127 47134	Oocytes
+R24	ContextOf Event:E3 Context:T101	
+R25	ContextOf Event:E31 Context:T101	
+T102	Cell-Type 53210 53217	oocytes
+R26	ContextOf Event:E23 Context:T102	
+R27	ContextOf Event:E44 Context:T100	
+T103	Cell-Line 42852 42862	LA25 cells
+R28	ContextOf Event:E21 Context:T103	
+T104	Cell-Line 44535 44557	Rat-1 fibroblast cells
+T105	Cell-Type 40680 40686	oocyte
+R29	ContextOf Event:E45 Context:T105	
+R30	ContextOf Event:E46 Context:T105	
+R31	ContextOf Event:E4 Context:T105	
+R32	ContextOf Event:E16 Context:T105	
+R33	ContextOf Event:E29 Context:T105	
+R34	ContextOf Event:E35 Context:T105	
+R35	ContextOf Event:E24 Context:T105	
+R36	ContextOf Event:E22 Context:T105	
+T106	Cell-Type 34086 34092	oocyte
+R37	ContextOf Event:E40 Context:T106	
+R38	ContextOf Event:E30 Context:T106	
+R39	ContextOf Event:E1 Context:T106	
+R40	ContextOf Event:E1 Context:T106	

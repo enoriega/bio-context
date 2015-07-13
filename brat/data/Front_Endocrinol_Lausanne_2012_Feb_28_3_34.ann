@@ -1,0 +1,325 @@
+T25	Phosphorylation 68234 68249	phosphorylation
+T26	Gene_or_gene_product 68253 68256	Akt
+T29	Phosphorylation 49298 49313	phosphorylation
+T30	Gene_or_gene_product 49294 49297	Akt
+T38	Gene_or_gene_product 77116 77119	OGT
+T52	Binding 35518 35523	binds
+T53	Gene_or_gene_product 35497 35502	SH2B1
+T54	Gene_or_gene_product 35524 35528	JAK2
+T64	Ubiquitination 72190 72204	ubiquitination
+T65	Gene_or_gene_product 72208 72213	GLUT4
+T108	Gene_or_gene_product 85085 85089	IRSs
+T109	Gene_or_gene_product 81941 81945	IRSs
+T155	Gene_or_gene_product 62218 62223	STAT3
+T170	Phosphorylation 66363 66382	autophosphorylation
+T171	Gene_or_gene_product 66386 66388	IR
+T172	Phosphorylation 73131 73146	phosphorylation
+T173	Gene_or_gene_product 73150 73152	IR
+T174	Phosphorylation 59384 59398	phosphorylated
+T175	Gene_or_gene_product 59424 59426	IR
+T176	Phosphorylation 62764 62781	dephosphorylating
+T177	Gene_or_gene_product 62782 62784	IR
+T178	Phosphorylation 44127 44145	autophosphorylated
+T179	Gene_or_gene_product 44146 44148	IR
+T180	Phosphorylation 59022 59036	phosphorylated
+T181	Gene_or_gene_product 59037 59039	IR
+T182	Phosphorylation 35046 35064	autophosphorylated
+T183	Gene_or_gene_product 35065 35067	IR
+T184	Phosphorylation 23581 23599	autophosphorylated
+T185	Gene_or_gene_product 23600 23602	IR
+T186	Phosphorylation 40881 40900	autophosphorylation
+T187	Gene_or_gene_product 40878 40880	IR
+T188	Phosphorylation 38671 38690	autophosphorylation
+T189	Gene_or_gene_product 38668 38670	IR
+T195	Binding 9828 9833	binds
+T196	Gene_or_gene_product 9823 9827	IR-A
+T197	Gene_or_gene_product 9834 9839	IGF-2
+T207	Phosphorylation 22205 22219	phosphorylated
+T208	Gene_or_gene_product 22230 22237	insulin
+T211	Phosphorylation 23951 23965	phosphorylated
+T212	Gene_or_gene_product 23976 23983	insulin
+T213	Phosphorylation 62199 62214	phosphorylation
+T225	Phosphorylation 56711 56726	phosphorylation
+T226	Gene_or_gene_product 56736 56738	IR
+T227	Site 56702 56710	tyrosine
+T276	Gene_or_gene_product 14357 14361	IGFs
+T285	Binding 39707 39712	binds
+T286	Gene_or_gene_product 39703 39706	PSM
+T287	Gene_or_gene_product 39761 39764	JAK
+T288	Phosphorylation 5528 5541	phosphorylate
+T289	Gene_or_gene_product 5578 5583	Ramos
+T291	Gene_or_gene_product 50511 50514	PKC
+T298	Gene_or_gene_product 23562 23566	SHP2
+T312	Gene_or_gene_product 59353 59359	STAT5B
+T354	Gene_or_gene_product 33276 33280	Gabs
+T425	Gene_or_gene_product 45483 45485	TK
+T427	Binding 24243 24251	interact
+T428	Gene_or_gene_product 24291 24296	IRS-2
+T429	Gene_or_gene_product 24281 24286	IRS-1
+T432	Gene_or_gene_product 72849 72851	IR
+T433	Site 72876 72885	threonine
+T460	Phosphorylation 41990 42004	phosphorylated
+T461	Gene_or_gene_product 41947 41952	CrkII
+T462	Gene_or_gene_product 57045 57049	FGFR
+T469	Binding 57023 57027	bind
+T470	Protein 57051 57055	PI3K
+T471	Protein 57036 57040	EGFR
+T482	Phosphorylation 58701 58716	phosphorylation
+T483	Gene_or_gene_product 58735 58739	JAK1
+T519	Gene_or_gene_product 52381 52387	SHPS-1
+T528	Gene_or_gene_product 45944 45962	TK regulatory loop
+T539	Binding 31378 31383	bound
+T540	Gene_or_gene_product 31374 31377	IRS
+T541	Gene_or_gene_product 31398 31402	Grb2
+T543	Phosphorylation 45503 45518	phosphorylation
+T544	Gene_or_gene_product 45499 45502	IRS
+T630	Phosphorylation 9258 9273	phosphorylation
+T631	Protein 9303 9306	Ras
+T642	Gene_or_gene_product 59230 59235	STATs
+T646	Phosphorylation 56488 56503	phosphorylation
+T647	Gene_or_gene_product 56515 56519	p110
+T651	Gene_or_gene_product 54883 54886	IRS
+T657	Ubiquitination 70570 70584	ubiquitination
+T658	Gene_or_gene_product 70607 70609	IR
+T659	Ubiquitination 38190 38204	ubiquitination
+T660	Gene_or_gene_product 38208 38210	IR
+T661	Ubiquitination 71537 71551	ubiquitination
+T662	Gene_or_gene_product 71555 71557	IR
+T663	Ubiquitination 70417 70431	ubiquitination
+T664	Gene_or_gene_product 70435 70437	IR
+T682	Binding 53729 53740	interaction
+T683	Gene_or_gene_product 53744 53746	IR
+T684	Gene_or_gene_product 53751 53755	IGFR
+T685	Phosphorylation 45858 45873	phosphorylation
+T686	Gene_or_gene_product 45798 45824	Grb10/14 prolongs receptor
+T687	Phosphorylation 28508 28523	phosphorylation
+T688	Gene_or_gene_product 28527 28530	p52
+T726	Gene_or_gene_product 49564 49567	Src
+T747	Binding 31392 31397	bound
+T748	Gene_or_gene_product 31388 31391	Shc
+T780	Gene_or_gene_product 7993 8009	Hybrid receptors
+T827	Phosphorylation 81922 81937	phosphorylation
+T828	Phosphorylation 85066 85081	phosphorylation
+T842	Gene_or_gene_product 50750 50753	FAK
+T844	Gene_or_gene_product 50150 50153	FAK
+T853	Site 77372 77378	serine
+T876	Phosphorylation 32787 32802	phosphorylation
+T877	Gene_or_gene_product 32781 32786	Gab-1
+T880	Binding 45443 45450	binding
+T881	Gene_or_gene_product 45454 45462	Grb10/14
+T882	Gene_or_gene_product 45466 45468	IR
+T883	Gene_or_gene_product 45469 45473	IGFR
+T910	Gene_or_gene_product 77396 77401	IRS-1
+T923	Phosphorylation 10711 10726	phosphorylation
+T924	Gene_or_gene_product 10730 10733	Shc
+T925	Gene_or_gene_product 81950 81953	Shc
+T926	Phosphorylation 60454 60469	phosphorylation
+T927	Gene_or_gene_product 60473 60476	Shc
+T928	Phosphorylation 67389 67404	phosphorylation
+T929	Gene_or_gene_product 67408 67411	Shc
+T932	Gene_or_gene_product 9277 9280	Shc
+T933	Gene_or_gene_product 85094 85097	Shc
+T934	Phosphorylation 55839 55853	phosphorylated
+T935	Gene_or_gene_product 55863 55866	Shc
+T936	Phosphorylation 31864 31879	Phosphorylation
+T937	Gene_or_gene_product 31896 31899	Shc
+T938	Phosphorylation 67082 67097	phosphorylation
+T939	Gene_or_gene_product 67101 67104	Shc
+T940	Phosphorylation 68006 68021	phosphorylation
+T941	Gene_or_gene_product 68002 68005	Shc
+T942	Phosphorylation 49544 49558	phosphorylated
+T943	Gene_or_gene_product 49559 49562	Shc
+T944	Phosphorylation 29665 29680	phosphorylation
+T945	Gene_or_gene_product 29684 29687	Shc
+T979	Protein 5486 5489	ERK
+T1012	Gene_or_gene_product 59071 59075	Grb2
+T1025	Binding 54863 54872	formation
+T1026	Gene_or_gene_product 54880 54882	IR
+T1028	Phosphorylation 60750 60768	autophosphorylated
+T1029	Gene_or_gene_product 60668 60672	RTKs
+T1030	Phosphorylation 55707 55725	autophosphorylated
+T1031	Gene_or_gene_product 55726 55730	RTKs
+T1037	Gene_or_gene_product 56743 56747	IGFR
+T1043	Phosphorylation 77132 77146	phosphorylated
+T1056	Phosphorylation 33262 33275	phosphorylate
+T1063	Binding 14346 14353	binding
+T1064	Gene_or_gene_product 14365 14369	IGFR
+T1099	Protein 77700 77704	PI3K
+T1186	Binding 8010 8014	bind
+T1187	Gene_or_gene_product 8015 8022	insulin
+T1194	Phosphorylation 50731 50746	phosphorylation
+T1260	Gene_or_gene_product 56507 56510	p85
+T1529	Phosphorylation 72830 72845	phosphorylation
+T1599	Gene_or_gene_product 70614 70618	IGFR
+T1600	Gene_or_gene_product 71562 71566	IGFR
+T1605	Gene_or_gene_product 74390 74395	IRS-1
+T1609	Gene_or_gene_product 60975 60980	IRS-1
+T1622	Gene_or_gene_product 59536 59541	IRS-1
+T1624	Gene_or_gene_product 41354 41359	IRS-1
+T1625	Gene_or_gene_product 67742 67747	IRS-1
+T1629	Gene_or_gene_product 26945 26950	IRS-1
+T1634	Gene_or_gene_product 73649 73654	IRS-1
+T1644	Gene_or_gene_product 69588 69600	nuclear IGFR
+T1809	Binding 50126 50135	interacts
+T1810	Gene_or_gene_product 50120 50125	RACK1
+T1811	Binding 50491 50499	interact
+T1812	Gene_or_gene_product 50520 50534	beta1 integrin
+T1813	Gene_or_gene_product 50505 50509	IGFR
+T1925	Ubiquitination 71215 71228	ubiquitinated
+T1926	Gene_or_gene_product 71199 71204	Grb10
+T1982	Phosphorylation 69604 69618	phosphorylated
+T2058	Positive_regulation 67073 67081	mediated
+T2059	Gene_or_gene_product 67068 67072	IGFR
+T2111	Gene_or_gene_product 84698 84702	IGFR
+T2117	Gene_or_gene_product 59040 59044	IGFR
+T2154	Gene_or_gene_product 23607 23611	IGFR
+T2171	Gene_or_gene_product 73308 73312	IGFR
+T2211	Gene_or_gene_product 52332 52336	IGFR
+T2238	Phosphorylation 59199 59214	phosphorylation
+T2241	Phosphorylation 77668 77683	phosphorylation
+T2243	Phosphorylation 84730 84745	phosphorylation
+T2244	Phosphorylation 73289 73304	phosphorylation
+T2245	Phosphorylation 52337 52352	phosphorylation
+T2317	Phosphorylation 41425 41440	phosphorylation
+T2318	Gene_or_gene_product 41444 41449	SH2B1
+T2405	Phosphorylation 77379 77394	phosphorylation
+T2537	Gene_or_gene_product 19357 19366	tyrosines
+T2597	Gene_or_gene_product 49569 49573	SHP2
+T2664	Phosphorylation 19393 19407	phosphorylated
+T2674	Phosphorylation 26271 26284	phosphorylate
+T2675	Gene_or_gene_product 26326 26331	IRS-2
+T2678	Phosphorylation 26582 26597	phosphorylation
+T2679	Gene_or_gene_product 26601 26606	IRS-2
+T2682	Phosphorylation 27056 27070	phosphorylated
+T2683	Gene_or_gene_product 27047 27052	IRS-2
+T2684	Phosphorylation 74592 74607	phosphorylation
+T2685	Gene_or_gene_product 74611 74616	IRS-2
+T2730	Gene_or_gene_product 45212 45217	Grb10
+T2734	Gene_or_gene_product 75683 75688	Grb10
+T2785	Phosphorylation 74405 74420	phosphorylation
+T2786	Phosphorylation 60960 60974	phosphorylated
+T2788	Phosphorylation 73630 73645	phosphorylation
+T2789	Phosphorylation 41360 41375	phosphorylation
+T2790	Phosphorylation 59522 59535	phosphorylate
+T2791	Phosphorylation 67748 67763	phosphorylation
+T2792	Phosphorylation 26954 26968	phosphorylated
+T2825	Phosphorylation 52391 52405	phosphorylated
+T2855	Phosphorylation 45193 45208	phosphorylation
+T2856	Phosphorylation 75664 75679	phosphorylation
+E3	Phosphorylation:T25 Theme:T26
+E5	Phosphorylation:T29 Theme:T30
+E7	Binding:T52 Theme:T53 Theme:T54
+E8	Ubiquitination:T64 Theme:T65
+E9	Phosphorylation:T2856 Theme:T2734
+E12	Phosphorylation:T170 Theme:T171
+E13	Phosphorylation:T172 Theme:T173
+E14	Phosphorylation:T174 Theme:T175
+E15	Phosphorylation:T176 Theme:T177
+E16	Phosphorylation:T178 Theme:T179
+E17	Phosphorylation:T180 Theme:T181
+E18	Phosphorylation:T182 Theme:T183
+E19	Phosphorylation:T184 Theme:T185
+E20	Phosphorylation:T186 Theme:T187
+E21	Phosphorylation:T188 Theme:T189
+E22	Binding:T195 Theme:T196 Theme:T197
+E25	Phosphorylation:T207 Theme:T208
+E27	Phosphorylation:T211 Theme:T212
+E28	Phosphorylation:T213 Theme:T155
+E29	Phosphorylation:T225 Theme:T226 Site:T227
+E31	Binding:T285 Theme:T286 Theme:T287
+E32	Phosphorylation:T288 Theme:T289
+E33	Phosphorylation:T184 Theme:T2154
+E37	Binding:T427 Theme:T428 Theme:T429
+E42	Phosphorylation:T2682 Theme:T2683
+E43	Phosphorylation:T2678 Theme:T2679
+E44	Phosphorylation:T460 Theme:T461
+E45	Binding:T469 Theme:T470 Theme:T471 Theme:T462
+E47	Phosphorylation:T482 Theme:T483
+E49	Phosphorylation:T2825 Theme:T519
+E51	Binding:T539 Theme:T540 Theme:T541
+E52	Phosphorylation:T543 Theme:T544
+E53	Phosphorylation:T630 Theme:T631
+E54	Phosphorylation:T646 Theme:T647
+E55	Ubiquitination:T657 Theme:T658
+E56	Ubiquitination:T659 Theme:T660
+E57	Ubiquitination:T661 Theme:T662
+E58	Ubiquitination:T663 Theme:T664
+E59	Binding:T682 Theme:T683 Theme:T684
+E60	Phosphorylation:T685 Theme:T686
+E61	Phosphorylation:T687 Theme:T688
+E62	Binding:T747 Theme:T748 Theme:T541
+E65	Phosphorylation:T827 Theme:T109
+E66	Phosphorylation:T828 Theme:T108
+E68	Phosphorylation:T876 Theme:T877
+E69	Binding:T880 Theme:T881 Theme:T544 Theme:T882 Theme:T883 Theme:T425
+E70	Phosphorylation:T923 Theme:T924
+E71	Phosphorylation:T827 Theme:T925
+E72	Phosphorylation:T926 Theme:T927
+E73	Phosphorylation:T928 Theme:T929
+E75	Phosphorylation:T630 Theme:T932
+E76	Phosphorylation:T828 Theme:T933
+E77	Phosphorylation:T934 Theme:T935
+E78	Phosphorylation:T936 Theme:T937
+E79	Phosphorylation:T938 Theme:T939
+E80	Phosphorylation:T940 Theme:T941
+E81	Phosphorylation:T942 Theme:T943
+E82	Phosphorylation:T944 Theme:T945
+E83	Phosphorylation:T2855 Theme:T2730
+E84	Binding:T1025 Theme:T651 Theme:T1026
+E85	Phosphorylation:T1028 Theme:T1029
+E86	Phosphorylation:T1030 Theme:T1031
+E87	Phosphorylation:T180 Theme:T1012
+E88	Phosphorylation:T225 Theme:T1037 Site:T227
+E89	Phosphorylation:T1043 Theme:T38
+E91	Phosphorylation:T1056 Theme:T354
+E92	Binding:T1063 Theme:T276 Theme:T1064
+E95	Phosphorylation:T174 Theme:T312
+E96	Binding:T1186 Theme:T780 Theme:T1187
+E97	Phosphorylation:T1194 Theme:T842
+E101	Ubiquitination:T1925 Theme:T1926
+E103	Phosphorylation:T1529 Theme:T432 Site:T433
+E106	Phosphorylation:T2792 Theme:T1629
+E107	Ubiquitination:T657 Theme:T1599
+E108	Ubiquitination:T661 Theme:T1600
+E114	Binding:T1809 Theme:T1810 Theme:T844
+E115	Binding:T1811 Theme:T1812 Theme:T1813 Theme:T291
+E118	Phosphorylation:T1982 Theme:T1644
+E121	Phosphorylation:T685 Theme:T528
+E122	Phosphorylation:T288 Theme:T979
+E123	Positive_regulation:T2058 Controller:T2059 Controlled:E79
+E124	Phosphorylation:T2238 Theme:T642
+E126	Binding:T1063 Theme:T1064 Theme:T276
+E127	Phosphorylation:T2241 Theme:T1099
+E128	Phosphorylation:T2243 Theme:T2111
+E129	Phosphorylation:T180 Theme:T2117
+E130	Phosphorylation:T2244 Theme:T2171
+E131	Phosphorylation:T2245 Theme:T2211
+E137	Phosphorylation:T2317 Theme:T2318
+E138	Phosphorylation:T2405 Theme:T910 Site:T853
+E139	Phosphorylation:T942 Theme:T726
+E140	Phosphorylation:T2790 Theme:T1622
+E145	Phosphorylation:T646 Theme:T1260
+E146	Phosphorylation:T2664 Theme:T2537
+E147	Phosphorylation:T2674 Theme:T2675
+E149	Phosphorylation:T2684 Theme:T2685
+E151	Phosphorylation:T2785 Theme:T1605
+E152	Phosphorylation:T2786 Theme:T1609
+E153	Phosphorylation:T2788 Theme:T1634
+E154	Phosphorylation:T2789 Theme:T1624
+E155	Phosphorylation:T2791 Theme:T1625
+E159	Phosphorylation:T942 Theme:T2597
+E160	Phosphorylation:T184 Theme:T298
+#1	AnnotatorNotes E25	wrong event
+#2	AnnotatorNotes E160	wrong event
+T1	Cell-Line 62064 62087	In breast cancer cells,
+#3	AnnotatorNotes T1	breast cancer cell
+T4	Main-Species 49145 49387	was reported that RACK1 interacted with Src, SHP2, and p85 in mouse embryonic fibroblasts, and that over-expression of RACK1 inhibited IGF-1-induced Akt phosphorylation and reduced its anti-apoptotic effect but enhanced cellular proliferation
+#5	AnnotatorNotes T4	mouse
+T11	Fibroblast 32743 33186	The major sites of insulin-stimulated Gab-1 phosphorylation have been identified, among which YXXM motifs with capacity to recruit and activate class Ia PI3K are prominent (Rocchi et al., 1998; Lehr et al., 2000). Gabs may play a role in insulin/IGF signaling in cells that do not express high levels of IRSs. For instance, signaling via Gab-1 has been implicated in control of Egr-1 expression by insulin in fibroblasts (Harada et al., 2001).
+T7	Cell-Type 49207 49234	mouse embryonic fibroblasts
+R1	ContextOf Event:E5 Context:T7	
+T3	Cell-Type 50589 50607	NIH3T3 fibroblasts
+R2	ContextOf Event:E115 Context:T3	
+T5	Cell-Line 52006 52033	CHO and smooth muscle cells
+R3	ContextOf Event:E49 Context:T5	
+R4	ContextOf Event:E28 Context:T1	
