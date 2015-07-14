@@ -8,7 +8,7 @@ CELLS_DICT="cells_dict.pickle"
 GENES_DICT="genes_dict.pickle"
 SPECIES_DICT="species_dict.pickle"
 # Avoid time-consuming NLP processing. Set to true only if the processed files already exist
-FAST=true
+FAST=false
 
 if [ ! -d "$OUTDIR" ]; then
   echo "Creating output directory \"$OUTDIR\"..."
