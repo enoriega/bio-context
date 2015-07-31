@@ -1,0 +1,260 @@
+Paper ID	Is title?	Section ID	Passage ID	Line Num	Text
+PMC3174055	true	article-title	0	0	A drug targeting only p110alpha can block phosphoinositide 3-kinase signalling and tumour growth in certain cell types
+PMC3174055	false	abstract	1	1	Genetic alterations in PI3K ( phosphoinositide 3-kinase ) signalling are common in cancer and include deletions in PTEN ( phosphatase and tensin homologue deleted on chromosome 10 ) , amplifications of PIK3CA and mutations in two distinct regions of the PIK3CA gene .
+PMC3174055	false	abstract	1	2	This suggests drugs targeting PI3K , and p110alpha in particular , might be useful in treating cancers .
+PMC3174055	false	abstract	1	3	Broad-spectrum inhibition of PI3K is effective in preventing growth factor signalling and tumour growth , but suitable inhibitors of p110alpha have not been available to study the effects of inhibiting this isoform alone .
+PMC3174055	false	abstract	1	4	In the present study we characterize a novel small molecule , A66 , showing the S-enantiomer to be a highly specific and selective p110alpha inhibitor .
+PMC3174055	false	abstract	1	5	Using molecular modelling and biochemical studies , we explain the basis of this selectivity .
+PMC3174055	false	abstract	1	6	Using a panel of isoform selective inhibitors , we show that insulin signalling to Akt and PKB ( protein kinase B ) is attenuated by the additive effects of inhibiting p110alpha/p110beta/p110delta in all cell lines tested .
+PMC3174055	false	abstract	1	7	However , inhibition of p110alpha alone was sufficient to block insulin signalling to Akt and PKB in certain cell lines .
+PMC3174055	false	abstract	1	8	The responsive cell lines all harboured H1047R mutations in PIK3CA and have high levels of p110alpha and class-Ia PI3K activity .
+PMC3174055	false	abstract	1	9	This may explain the increased sensitivity of these cells to p110alpha inhibitors .
+PMC3174055	false	abstract	1	10	We assessed the activation of Akt and PKB and tumour growth in xenograft models and found that tumours derived from two of the responsive cell lines were also responsive to A66 in vivo .
+PMC3174055	false	abstract	1	11	These results show that inhibition of p110alpha alone has the potential to block growth factor signalling and reduce growth in a subset of tumours .
+PMC3174055	false	sec-1	2	12	The three class-Ia PI3Ks ( phosphoinositide 3-kinases ; p110alpha/p110beta/p110delta ) and the sole class-Ib PI3K ( p110gamma ) couple growth factor receptors and G-protein-coupled receptors to a wide range of downstream pathways      .
+PMC3174055	false	sec-1	2	13	These enzymes have different tissue distributions , difference in methods of activation and different kinetic properties      , but they all use PtdIns ( 4,5 ) P2 to produce PtdIns ( 3,4,5 ) P3 .
+PMC3174055	false	sec-1	2	14	The cellular levels of PtdIns ( 3,4,5 ) P3 are tightly controlled by phosphatases , including PTEN ( phosphatase and tensin homologue deleted on chromosome 10 ) which dephosphorylates PtdIns ( 3,4,5 ) P3 back to PtdIns ( 4,5 ) P2      .
+PMC3174055	false	sec-1	2	15	The importance of this pathway in cancer is highlighted by the fact that defects in both the kinase and phosphatase activities are commonly observed in tumours .
+PMC3174055	false	sec-1	2	16	PTEN is a tumour suppressor gene whose function is commonly lost in tumours      , whereas the PIK3CA gene , which codes for p110alpha , appears to be the most important form of PI3K involved in solid tumours as it is commonly mutated        or amplified      in such cancers .
+PMC3174055	false	sec-1	2	17	The mutations in PIK3CA mainly occur in two distinct regions of the gene .
+PMC3174055	false	sec-1	2	18	It is not fully understood how these mutations contribute to the development of tumours , but they do confer a modest increase in catalytic activity        , are capable of inducing transformation of cultured cells         and are capable of inducing tumours in vivo        .
+PMC3174055	false	sec-1	2	19	However , evidence is emerging that the main two different hot spot mutations in PIK3CA represent functionally distinct oncogenic activities              .
+PMC3174055	false	sec-1	2	20	The full implications of PIK3CA gene amplification are not fully understood , but presumably act by increasing overall PI3K activity levels .
+PMC3174055	false	sec-1	3	21	The identification of oncogenic mutations and amplifications in PIK3CA has spurred the development of a wide range of small molecule inhibitors targeting PI3K , with many of these currently in clinical trials          .
+PMC3174055	false	sec-1	3	22	Most of the compounds developed to date target multiple PI3K isoforms and related kinases such as mTOR ( mammalian target of rapamycin ) .
+PMC3174055	false	sec-1	3	23	Compounds in this class show efficacy in inhibiting growth of cells in culture and xenograft models          .
+PMC3174055	false	sec-1	3	24	However , a question that remains to be answered is whether selectively targeting p110alpha might achieve similar results given that this seems to be the predominant oncogenic form of class-I PI3Ks .
+PMC3174055	false	sec-1	4	25	The potential importance of targeting p110alpha is shown by studies showing specific genetic knockdown of PIK3CA does block cell signalling and cell growth in a range of tumour lines        .
+PMC3174055	false	sec-1	4	26	To date the lack of suitable small-molecule inhibitors has meant that it has not been possible to properly evaluate whether pharmacological inhibition of p110alpha can achieve similar effects .
+PMC3174055	false	sec-1	4	27	Only one series of small molecules has been described that has a high degree of selectivity for p110alpha compared with other PI3K isoforms     .
+PMC3174055	false	sec-1	4	28	One member of this family , PIK-75 , has been used to study the role of p110alpha , but was found to have significant off-target activity     , meaning it is difficult to know whether any actions of this drug are in fact due to its activity against PI3K .
+PMC3174055	false	sec-1	4	29	Despite these limitations , this drug has been used in some studies to infer that blocking p110alpha is sufficient to block signalling to Akt and PKB ( protein kinase B ) in some cell types but not others           .
+PMC3174055	false	sec-1	4	30	Furthermore , compounds related to PIK-75 have shown antitumour activity in vivo , hinting that p110alpha inhibition might be a useful therapeutic strategy        .
+PMC3174055	false	sec-1	4	31	However these findings can not be confirmed until a suitably clean p110alpha selective inhibitor is available .
+PMC3174055	false	sec-1	5	32	In the present paper , we report the properties of A66 , a compound that was recently found to be a potent p110alpha inhibitor     .
+PMC3174055	false	sec-1	5	33	We show that this compound is highly selective for p110alpha over other PI3Ks and has a high degree of specificity as it does not target other protein kinases tested .
+PMC3174055	false	sec-1	5	34	We use this to demonstrate that inhibition of p110alpha attenuates signalling in a subset of cell types that are characterized by having kinase domain mutations in PIK3CA , high p110alpha levels and high total class-1a PI3K activity .
+PMC3174055	false	sec-1	5	35	We go on to show that A66 has efficacy in retarding growth of tumours in in vivo xenograft models that use cell lines that were responsive in culture .
+PMC3174055	false	sec-1	5	36	These results show that inhibition of p110alpha alone has the potential to block growth factor signalling and reduce growth in a subset of tumours .
+PMC3174055	false	sec-3	6	37	The S-enantiomer of A66            was prepared as described in Patent WO 2009 and 080705     , except that 2 - ( tert-butyl ) -4 ' - methyl - [ 4,5 ' - bithiazol ] -2 ' - amine was converted into A66 in one-pot by addition of L-prolinamide directly to the intermediate imidazolide solution .
+PMC3174055	false	sec-3	6	38	Aqueous work-up followed by recrystallization from aqueous methanol gave A66 as a white solid with a 81 % yield .
+PMC3174055	false	sec-3	6	39	1H NMR ( 400 MHz , CDCl3 ) delta 8.56 ( br s , 1H ) , 7.03 ( s , 1H ) , 6.76 ( br s , 1H ) , 5.65 ( br s , 1H ) , 4.62 ( d , J 8.0 Hz , 1H ) , 3.62 ( m , 1H ) , 3.49 ( m , 1H ) , 2.52 ( s , 3H ) , 2.43 ( m , 1H ) , 2.03-2 .20 ( m , 3H ) , 1.45 ( s , 9H ) .
+PMC3174055	false	sec-3	6	40	LC-MS ( APCI+ ) 394 ( MH+ , 100 % ) .
+PMC3174055	false	sec-3	6	41	Analysis calculated for C17H23N5O2S2 : C , 51.89 ; H , 5.89 : N , 17.80 .
+PMC3174055	false	sec-3	6	42	Found C , 51.85 ; H , 5.84 ; N , 17.81 .
+PMC3174055	false	sec-3	6	43	The R-enantiomer of A66 was synthesized in the same way , except that D-prolinamide was used .
+PMC3174055	false	sec-3	6	44	Compound SN34452 was prepared similarly using pyrrolidine .
+PMC3174055	false	sec-3	6	45	1H NMR ( 400 MHz , CDCl3 ) delta 7.78 ( br s , 1H ) , 7.02 ( s , 1H ) , 3.48 ( m , 4H ) , 2.54 ( s , 3H ) , 2.00 ( m , 4H ) , 1.45 ( s , 9H ) .
+PMC3174055	false	sec-3	6	46	LC-MS ( APCI+ ) 351 ( MH+ , 100 % ) .
+PMC3174055	false	sec-3	6	47	Analysis calculated for C16H22N4OS2 : C , 54.83 ; H , 6.33 ; N , 15.98 .
+PMC3174055	false	sec-3	6	48	Found C , 55.10 ; H , 6.47 ; N , 15.94 .
+PMC3174055	true	fig-1	7	49	Structure of A66 and its inactive analogue SN34452
+PMC3174055	false	sec-3	8	50	NVP-BEZ-235 was synthesized as described previously     .
+PMC3174055	false	sec-3	8	51	PIK-75 , TGX-221 and IC87114 were obtained from Symansis .
+PMC3174055	false	sec-3	8	52	LY294002 and wortmannin were obtained from Sigma-Aldrich .
+PMC3174055	false	sec-4	9	53	An energy minimized model of A66 was generated using SKETCHER ( SYBYL8 .2 , Tripos ) and minimized using MAXMIN2 with the MMFF94s forcefield and MMFF94 charges .
+PMC3174055	false	sec-4	9	54	Minimization was performed using 1000 steps of step descents followed by conjugate gradients until convergence at the 0.05 kcal / ( mol.A ) level .
+PMC3174055	false	sec-4	9	55	A distance dependent dielectric function was used with a dielectric constant of 80 .
+PMC3174055	false	sec-4	9	56	The major tautomer at pH 7.4 was generated using ChemAxon software .
+PMC3174055	false	sec-4	9	57	Docking was performed using GOLDv5 .0 .
+PMC3174055	false	sec-4	9	58	The apo p110alpha structure ( PDB code 2RD0 ) was prepared by stripping all water molecules and the addition of protons using SYBYL8 .2 , and side-chain orientations were modified according to the results of MolProbity     .
+PMC3174055	false	sec-4	9	59	The docking site was defined as an 18 A ( 1 A = 0.1 nm ) cavity centred on the Ile800 CD1 atom .
+PMC3174055	false	sec-4	9	60	The Chemscore fitness function with kinase modification was used as the scoring function and 20 Genetic Algorithm runs were performed using a search efficiency of 200 % with all poses were kept .
+PMC3174055	false	sec-4	9	61	Atom types for both protein and ligand were generated automatically and all ligand flexibility terms were turned on , although Ring-NH2 and Ring-NR1R2 were set to flip , other settings were kept at default .
+PMC3174055	false	sec-4	9	62	All docking poses were minimized and rescored using the kinase modified Chemscore with receptor depth scaling implemented .
+PMC3174055	false	sec-4	9	63	X-ray crystal structures for p110gamma ( PDB code 2CHZ ) and p110delta ( PDB code 2WXR ) were superimposed on to p110alpha using PyMOL ( http://www.pymol.org ) and docking was performed under the same conditions with the 18 A cavity centred on the CD1 of Ile744 and Ile777 respectively .
+PMC3174055	false	sec-5	10	64	IC50 values were evaluated using the PI3K ( human ) HTRF Assay ( Millipore , # 33-016 ) .
+PMC3174055	false	sec-5	10	65	p85alpha and p110delta was obtained from Invitrogen .
+PMC3174055	false	sec-5	10	66	All other isoforms were produced in-house by co-expressing full-length human p85alpha with the indicated human full-length catalytic subunit containing a histidine tag at the N-terminus to allow purification .
+PMC3174055	false	sec-5	10	67	The PI3Ks were titrated and used at a concentration between their EC65-EC80 values .
+PMC3174055	false	sec-5	10	68	PI3K activity in immunoprecipitates was assayed as described previously     using an antibody to the N-SH2 ( N-Src homology 2 ) domain of p85alpha ( Symansis ) .
+PMC3174055	false	sec-5	10	69	Assays for other lipid kinases and protein kinases were performed by the National Centre for Protein Kinase Profiling ( Dundee , U.K. ) and Invitrogen Drug Discovery Services ( Madison , WI , U.S.A. ) .
+PMC3174055	false	sec-6	11	70	All animal experiments followed protocols approved by the Animal Ethics Committee of The University of Auckland .
+PMC3174055	false	sec-6	11	71	Age matched specific pathogen-free male CD-1 mice were administered a single dose of A66 ( 10 mg and kg of body weight ) in 20 % 2-hydroxypropyl-beta-cyclodextrin in water or BEZ-235 in 15 % ( v and v ) DMSO , 20 % ( v and v ) 0.1 M HCl , 0.7 % Tween 20 and 64.3 % ( v and v ) saline .
+PMC3174055	false	sec-6	11	72	Mice were killed at five or six time points after dosing ( n = 3 and time point ) and blood was removed by cardiac puncture into EDTA collection tubes ( Becton Dickinson ) .
+PMC3174055	false	sec-6	11	73	Blood samples were centrifuged for 10 min at 6000 rev. / min at 20 degreesC and the plasma supernatant was retained .
+PMC3174055	false	sec-6	11	74	Methanol was added to the plasma for protein extraction .
+PMC3174055	false	sec-6	11	75	Quantitative analysis was performed on an Agilent 6460 triple quadrupole LC-MS and MS ( tandem MS ) ( Agilent Technologies ) using multiple reaction monitoring and electrospray ionization .
+PMC3174055	false	sec-6	11	76	For chromatographic separation , an Agilent Zorbax SB-C18 column ( 2.1 mmx50 mm ; 5 mum ) was used with a mobile phase gradient of 20-100 % methanol in 0.1 % formic acid and 5 mM ammonium formate at a flow rate of 0.4 ml and min .
+PMC3174055	false	sec-6	11	77	Plasma drug concentrations were quantified against a calibration curve of known drug concentrations ranging from 10 to 10000 nM , with quality controls included at 65 , 650 and 6500 nM .
+PMC3174055	false	sec-6	11	78	To prevent contamination from previous samples , a methanol slug was run between each plasma sample .
+PMC3174055	false	sec-6	11	79	Pharmacokinetic parameters were determined by noncompartmental analysis using WinNonlin 5.3 software ( Pharsight ) .
+PMC3174055	true	sec-7	12	80	Cell cultures and Western blotting
+PMC3174055	false	sec-7	13	81	Treatment of cells with drugs and Western blotting was performed as described previously     .
+PMC3174055	false	sec-7	13	82	All antibodies for Western blotting were from Cell Signaling Technologies .
+PMC3174055	false	sec-7	13	83	Melanoma cell cultures were established and genotyped in-house .
+PMC3174055	false	sec-7	13	84	Established cell lines were obtained from A.T.C.C. and genotypes for cell lines were assigned on the basis of data from the COSMIC database ( http://www.sanger.ac.uk/genetics/CGP/CellLines/ ) .
+PMC3174055	false	sec-8	14	85	Age matched specific pathogen-free Rag1-/- or NIH-III mice were subcutaneously inoculated on the right flank with 5x106 U87MG , SK-OV-3 or HCT-116 cells in PBS .
+PMC3174055	false	sec-8	14	86	Tumour diameter as measured by electronic calipers was used to calculate tumour volume ( mm3 ) based on the formula ( Lxw2 ) xpi and 6 ( where L = longest tumour diameter and w = perpendicular diameter ) .
+PMC3174055	false	sec-8	14	87	A66 was administered in 20 % 2-hydroxypropyl-beta-cyclodextrin ( Sigma-Aldrich ) in water , whereas BEZ-235 was administered in 10 % ethanol .
+PMC3174055	false	sec-8	14	88	Control mice were administered the A66 dosing vehicle alone .
+PMC3174055	false	sec-8	14	89	The drugs were dosed by intraperitoneal injection as the free base equivalent at a dosing volume of 10 ml and kg of body weight .
+PMC3174055	false	sec-8	14	90	For tumour pharmacodynamic studies , mice were administered a single dose of A66 or the control vehicle when tumours reached approximately 8-9 mm in diameter .
+PMC3174055	false	sec-8	14	91	Animals were killed 1 or 6 h after dosing and the tumours were removed , biopulverized and assayed for protein concentration ( BCA protein assay ; Sigma-Aldrich ) .
+PMC3174055	false	sec-8	14	92	For antitumour efficacy studies , dosing began when tumours were well established , averaging approximately 7 mm in diameter .
+PMC3174055	false	sec-8	14	93	Doses were administered once daily ( QD ) or twice daily ( BID ) with injections separated by a minimum of approximately 8 h. Different dosing schedules were used for the three xenograft models depending on the rate of tumour growth and the body weight tolerance of control mice .
+PMC3174055	false	sec-8	14	94	Animals were dosed daily for 21 days or twice daily for 16 days ( SK-OV-3 ) , daily for 14 days ( U87MG ) and daily for 7 days ( HCT-116 ) .
+PMC3174055	false	sec-8	14	95	Animals were monitored daily for any signs of emerging toxicity and body weight was recorded .
+PMC3174055	false	sec-8	14	96	Mice were killed if they developed moderate signs of toxicity or if body weight loss exceeded 20 % of starting weight .
+PMC3174055	false	sec-8	14	97	TGI ( tumour growth inhibition ) was calculated on the final day of dosing by determining the relative tumour size of drug treated mice as a percentage of the average relative tumour size of control mice .
+PMC3174055	false	sec-8	14	98	The statistical significance of TGI values was determined by one-way ANOVA with Bonferroni multiple comparison analysis using GraphPad Prism 5.02 .
+PMC3174055	false	sec-10	15	99	We first characterized A66 and confirmed it was a potent inhibitor of the wild-type and oncogenic forms of p110alpha but not other class-I PI3K isoforms          .
+PMC3174055	false	sec-10	15	100	We found A66 has a much greater degree of selectivity for p110alpha than PIK-75 .
+PMC3174055	false	sec-10	15	101	Given the important roles of class-II PI3Ks     , class-III PI3K      and PI4Ks ( phosphoinositide 4-kinases )      in growth factor signalling , we also assessed the activity of A66 towards these and found some limited cross-reactivity with the class-II PI3K PI3K-C2beta and the PI4Kbeta isoform of PI4K          .
+PMC3174055	false	sec-10	15	102	There was no inhibition of other lipid kinases or the related kinases DNA-PK and mTOR          .
+PMC3174055	false	sec-10	15	103	We also tested the inhibitory effects of 10 muM A66 effects on two large panels of 110 protein kinases                                                                              and 318 kinases                                                                             .
+PMC3174055	false	sec-10	15	104	These show A66 is a very specific inhibitor of p110alpha , whereas PIK-75 , the compound described previously as a p110alpha selective inhibitor , inhibited a large number of protein kinases at this concentration                          .
+PMC3174055	false	sec-10	15	105	Our data for TGX-221 and IC87114 generated using the HTRF assay agreed with previous studies using other assay methods and confirmed these are highly selective inhibitors of p110beta and p110delta respectively          , although TGX-221 will cross-react with p110delta at higher concentrations           .
+PMC3174055	false	sec-10	15	106	We report further that these inhibitors do not have any major effects on a panel of 110 protein kinases ( Supplementary Fig 1 ) .
+PMC3174055	true	sec-10	16	107	IC50 for indicated drugs against different PI3K isoforms using HTRF assay
+PMC3174055	false	sec-10	17	108	IC50 values are in nM .
+PMC3174055	false	sec-10	17	109	ND , not determined .
+PMC3174055	true	sec-10	18	110	IC50 against PI3K related kinases of A66 S form with or without the carboximide group
+PMC3174055	false	sec-10	19	111	IC50 values are in nM .
+PMC3174055	false	sec-10	19	112	ND , not determined .
+PMC3174055	false	sec-10	20	113	A66 shares its central aminothiazole scaffold with the known PI3K inhibitor PIK-93 , and the X-ray crystal structure of PIK-93 bound to the related p110gamma isoform ( PDB code 2CHZ ) shows that the embedded hydrogen-bond donor acceptor group in this core interacts with the kinase domain through backbone amide and carbonyl groups of the inter-lobe linker region amino acid Val882     .
+PMC3174055	false	sec-10	20	114	The aminothiazole unit in A66 may also influence its interaction with p110alpha by binding similarly , this is in part supported by the inhibition of PI4K by both these compounds     .
+PMC3174055	false	sec-10	20	115	The availability of the p110alpha X-ray crystal structure      allowed modelling of A66 in the p110alpha kinase domain and the likely mechanisms for its selectivity towards this compound were identified .
+PMC3174055	false	sec-10	20	116	The top ranked binding mode for the A66 S form docked into the p110alpha ATP binding site ( PDB code 2RD0 ) , after minimization and rescoring with the kinase modified Chemscore scoring function using receptor depth scaling , is shown in         .
+PMC3174055	false	sec-10	20	117	Critically in this predicted binding mode , the ligand forms an interaction with Val851 of the inter-lobe linker region .
+PMC3174055	false	sec-10	20	118	Both the backbone amide and carbonyl of Val851 interact with the hydrogen bond donor and acceptor nitrogen atoms embedded in the central aminothiazole core , consistent with the binding mode observed for PIK-93 bound to p110gamma     .
+PMC3174055	false	sec-10	20	119	The tertiary butyl-thiazole moiety extends from the amino-thioazole core into the lipophilic affinity pocket , whereas the pyrrolidine carboxamide group extends in the opposite direction towards a region of the binding site wall defined by the C-terminal lobe that contains p110alpha specific residues , known to affect ligand binding     .
+PMC3174055	false	sec-10	20	120	In this predicted binding pose , the carboxamide amine moiety forms hydrogen bonds with the side-chain carbonyl group of Gln859 and possibly the backbone carbonyl group of Ser854           .
+PMC3174055	false	sec-10	20	121	Notably , the unminimized pose predicted a hydrogen bond interaction between both the carboxamide amide and carbonyl groups of the ligand and those in the Gln859 side chain .
+PMC3174055	false	sec-10	20	122	These residues were predicted previously to be involved in inhibitor interactions in the p110alpha active site     .
+PMC3174055	true	fig-2	21	123	Model of A66 S form in binding pocket of p110alpha
+PMC3174055	false	sec-10	22	124	We also investigated possible binding modes for the A66 R form , and observed that a pose similar to that of the S form was not found , and it failed to form a hydrogen bond interaction with the backbone amide of Val851 as well .
+PMC3174055	false	sec-10	22	125	In the top ranked pose , the R pyrrolidine carboxamide amino group was predicted to form a hydrogen bond with the Val851 backbone carbonyl .
+PMC3174055	false	sec-10	22	126	In this orientation , the ligand 's central urea carbonyl was predicted to interact with the side-chain amino group of Gln859 and also the affinity pocket was not occupied .
+PMC3174055	false	sec-10	22	127	Interestingly , a few clashes between the protein and ligand were observed with the S form , whereas more were present for that of the R form .
+PMC3174055	false	sec-10	22	128	These results , taken together along with the higher Chemscore fitness value ( S , 17.46 compared with R , 13.26 ) , indicate that the A66 S form appears to complement better the p110alpha active site .
+PMC3174055	false	sec-10	22	129	In agreement with this , we find that the A66 R form lost inhibitory activity and did not inhibit p110alpha at 10 muM          .
+PMC3174055	false	sec-9	23	130	Superimposition of the p110gamma and p110delta kinase domains on to that of p110alpha illustrates that in p110gamma Lys890 replaces the p110alpha Gln859 , whereas in p110delta Asn836 is the equivalent residue .
+PMC3174055	false	sec-9	23	131	As both these amino acid side-chains have hydrogen bond donor and acceptor groups that may interact with the ligand 's pyrrolidine carboxamide , A66 was docked into the p110gamma structure with the aminothiazole containing PIK-93 bound ( PDB code 2CHZ ) and the p110delta apo enzyme structure ( PDB code 2WXR ) .
+PMC3174055	false	sec-9	23	132	The top ranked pose predicted for A66 binding to p110gamma had a similar orientation to that predicted with p110alpha ; however , the Chemscore fitness value was much lower , indicating a worse fit ( Chemscore 7.29 compared with 17.46 ) .
+PMC3174055	false	sec-9	23	133	An interaction with the p110gamma Val882 backbone amide ( the equivalent residue to p110alpha Val851 ) was also not predicted , even though the PIK-93 aminothiazole forms this interaction .
+PMC3174055	false	sec-9	23	134	No interaction was observed with Lys890 and , moreover , the pyrrolidine group clashed with Trp812 on the N-terminal lobe wall of the active site , further supporting poor complementarity of this compound with p110gamma .
+PMC3174055	false	sec-9	23	135	A low Chemscore value was also recorded for the top ranked pose in the p110delta active site ( 8.44 compared with 17.46 ) , indicating a poor fit in this isoform .
+PMC3174055	false	sec-9	23	136	In the present study , no pose was found that was similar to those predicted in either the p110alpha apo structure or p110gamma PIK93 structure , and an interaction with the backbone amide of the p110alpha Val851 equivalent , Val828 , was not observed .
+PMC3174055	false	sec-9	23	137	Neither was an interaction with Asn836 .
+PMC3174055	false	sec-9	23	138	The lack of similarity between the binding mode predicted for p110alpha and those for p110gamma and p110delta suggest that other active site features , more than residue substitutions at Gln859 , may influence A66 binding .
+PMC3174055	false	sec-9	23	139	On the basis of the preferred binding model of A66 in p110alpha , we characterized the role of the carboxamide by docking an unsubstituted pyrrolidine derivative SN34552           .
+PMC3174055	false	sec-9	23	140	The binding mode was similar to that of A66 , although the Chemscore was much lower in the absence of the predicted carboxamide mediated hydrogen bonds ( 8.44 compared with 17.46 ) , suggesting reduced potency .
+PMC3174055	false	sec-9	23	141	This was supported by biochemical data which showed that SN34452 has a much lower potency against p110alpha           and clearly indicates that the pyrrolindine carboxamide group makes p110alpha specific contacts that are accessible in both the wild-type and oncogenic forms .
+PMC3174055	false	sec-9	23	142	Interestingly , SN34452 largely retains its potency against PI4K TypeIIIbeta          , which indicates the carboxamide is not critical for binding to this enzyme .
+PMC3174055	true	sec-11	24	143	Effects of specifically inhibiting p110alpha on cell function
+PMC3174055	false	sec-11	25	144	To investigate the role of p110alpha in regulating proximal elements of PI3K dependent signalling pathways , we determined the ability of various concentrations of the A66 S form to acutely block the activation of Akt and PKB in a range of cell lines as assessed by both phosphorylation of Ser473 and Thr308           .
+PMC3174055	false	sec-11	25	145	Loading was controlled for by reprobing for total PKB                                                                                 .
+PMC3174055	false	sec-11	25	146	We found that phosphorylation of both Ser473 and Thr308 is sensitive to LY294002 in all cell lines tested , implying that class-I PI3K activity is required for activation of Akt and PKB .
+PMC3174055	false	sec-11	25	147	However , we found the amount of the A66 S form required to inhibit phosphorylation of Ser473 and Thr308 followed two distinct patterns , being either sensitive to inhibition by the A66 S form at concentrations consistent with it acting through p110alpha or being resistant .
+PMC3174055	false	sec-11	25	148	The most obvious feature of the sensitive cell lines was that they harboured H1047R mutations in PIK3CA , whereas all other cell lines were resistant .
+PMC3174055	false	sec-11	25	149	As a control we tested the effect of the A66 R form and found it was not able to inhibit the phosphorylation of Akt and PKB                                                                                 .
+PMC3174055	true	fig-3	26	150	Effect of A66 S form on activation of Akt and PKB in cell lines
+PMC3174055	false	fig-3	27	151	The indicated cell lines were serum starved overnight and then treated with the indicated concentration of drug or DMSO vehicle for 15 min prior to stimulation with 500 nM insulin for 5 min .
+PMC3174055	false	fig-3	27	152	Cells were lysed and then analysed by Western blotting with the indicated antibody .
+PMC3174055	false	fig-3	27	153	Ly , LY294002 .
+PMC3174055	false	sec-11	28	154	We then went on to investigate this in more detail in a larger panel of cell lines .
+PMC3174055	false	sec-11	28	155	The broader panel included early passage melanoma cultures that were genotyped in-house ( NZM lines )     .
+PMC3174055	false	sec-11	28	156	The latter are likely to have characteristics more representative of real tumour tissue .
+PMC3174055	false	sec-11	28	157	In these studies we used PIK-75 as an alternative p110alpha inhibitor and we found that a low concentration of PIK-75 also blocks the insulin stimulated phosphorylation of Thr308 and Ser473 on Akt and PKB in all lines harbouring PIK3CA H1047R mutations            .
+PMC3174055	false	sec-11	28	158	TGX-221 and IC87114 had no effect in these cells .
+PMC3174055	true	fig-4	29	159	Effect of isoform selective inhibitors of PI3K on activation of Akt and PKB
+PMC3174055	false	fig-4	30	160	The indicated cell lines harbouring H1047R mutations ( A ) or harbouring other mutations ( B ) , were serum starved overnight and then treated with the indicated concentration of drug or DMSO vehicle for 15 min prior to stimulation with 500 nM insulin for 5 min .
+PMC3174055	false	fig-4	30	161	Cells were lysed and then separated by SDS and PAGE using 20 mug of protein per lane for all cell types , except T47D , SK-OV-3 and MCF7 .
+PMC3174055	false	fig-4	30	162	Western blots were performed with the antibodies indicated .
+PMC3174055	false	fig-4	30	163	LY , LY294002 ; PIK , PIK-75 .
+PMC3174055	false	sec-11	31	164	PIK-75 was less effective in cell lines that lack the H1047R mutation            , with the main exception being MCF7 cells , where both PIK-75 and TGX-221 had a partial inhibitory effect .
+PMC3174055	false	sec-11	31	165	In other cells , the activation of Akt and PKB was not inhibited by TGX-221 or IC87114 at concentrations at which they would be specifically inhibiting p110beta or p110delta respectively .
+PMC3174055	false	sec-11	31	166	However , in these cells , the combination of PIK-75 , TGX-221 and IC87114 together did block activation of Akt and PKB , which was consistent with the finding that wortmannin and LY294002 were also effective .
+PMC3174055	false	sec-9	32	167	To further understand why certain cell lines are sensitive to p110alpha inhibitors , we compared total levels of class-Ia PI3K activity in the eight cell lines used in         .
+PMC3174055	false	sec-9	32	168	The cell lines that were responsive to the p110alpha inhibitors have significantly higher total levels of PI3K                    .
+PMC3174055	false	sec-9	32	169	We next compared total levels of p110alpha and p110beta protein in the cell lines used            .
+PMC3174055	false	sec-9	32	170	The levels of p110alpha were highest in the cell lines that were responsive to A66 and PIK-75 .
+PMC3174055	false	sec-9	32	171	These cells also had levels of p110beta that were higher than the other cell lines , with the exception of MCF7 cells which also had high levels of p110beta .
+PMC3174055	false	sec-9	32	172	It is of note that the MCF7 cells were the only cell line that had a partial response to TGX-221             and this may relate to the ratio of p110beta and p110alpha in these cells .
+PMC3174055	true	fig-5	33	173	Levels of PI3K activity in different cell lines
+PMC3174055	false	fig-5	34	174	( A ) To assess the relative levels of PI3K activity in different cell lines , PI3K activity was measured in p85 immunoprecipitates from equivalent amounts of cell lysate .
+PMC3174055	false	fig-5	34	175	Results for the indicated cell lines were normalized to those for PC3 cells and are shown as means+ / - S.E.M. ( n = 4 for each ) .
+PMC3174055	false	fig-5	34	176	( B ) The combined results for all cells of the same genotype .
+PMC3174055	false	fig-5	34	177	Statistical analysis was performed using grouped ANOVA ( * P < 0.05 , *** P < 0.005 ) .
+PMC3174055	false	fig-5	34	178	( C ) Equal amounts of the indicated cell lysates were analysed by Western blotting for p110alpha , p110beta and PTEN and reprobed to test for even loading with beta-actin .
+PMC3174055	true	sec-12	35	179	Demonstrating A66 is effective in vivo
+PMC3174055	false	sec-12	36	180	To investigate whether the inhibitory effects of A66 S on activation of Akt and PKB signalling translated into the ability to block cell growth in vivo , we performed xenograft studies alongside the well established pan-PI3K inhibitor BEZ-235 in U87MG cells , which are PTEN-null , and HCT-116 and SK-OV-3 cells , both of which contain H1047R mutations .
+PMC3174055	false	sec-12	36	181	First , we determined the optimal dosing strategy for xenograft studies by investigating the drug pharmacokinetics after a dose of 10 mg and kg of body weight by intraperitoneal injection in CD-1 mice .
+PMC3174055	false	sec-12	36	182	Despite a short half-life of only 0.42 h , the large Cmax ( 8247 nM ) of A66 S that was reached 30 min after dosing ensured that the AUC0-inf ( area under the curve from zero time to infinity ) ( 6809 nM.h ) was similar to that of BEZ-235 ( 7333 nM.h ) , which has a longer half-life of 2.73 h          .
+PMC3174055	false	sec-12	36	183	Furthermore , we tested the effect of the A66 S form on SK-OV-3 tumour tissue in vivo using a single dose of 100 mg and kg of body weight to determine whether a long lasting effect of the drug could be achieved on target tissues           .
+PMC3174055	false	sec-12	36	184	These studies show that A66 S causes a profound reduction in the phosphorylation of Akt and PKB and p70 S6 kinase , but not of ERK ( extracellular-signal-regulated kinase ) , at both 1 and 6 h after dosing           .
+PMC3174055	false	sec-12	36	185	This is consistent with A66 S having a full inhibitory effect on PI3K signalling in the tumours during this time .
+PMC3174055	false	sec-12	36	186	In the present study , levels of A66 S in plasma were determined to be 21.1+ / -1.2 muM and 9.1+ / -1.1 muM at 1 and 6 h after drug injection , whereas levels of A66 S in the tumour were 22.7+ / -2.1 muM and 16.0+ / -1.3 muM at the same time points .
+PMC3174055	false	sec-12	36	187	Thus , the retention of drug in the tumour is likely to explain the persistence of the inhibitory effect .
+PMC3174055	true	sec-12	37	188	Plasma pharmacokinetic properties of A66 S form and BEZ-235 in mice after a single intraperitoneal dose of 10 mg and kg of body weight
+PMC3174055	true	fig-6	38	189	Effect of A66 S form on PI3K signalling in SK-OV-3 tumours
+PMC3174055	false	fig-6	39	190	Western blotting was used to determine the phosphorylation status of Akt and PKB , p70 S6 kinase ( pS6RbP ) and ERK in SK-OV-3 tumours from mice 1 and 6 h after a single dose of A66 ( 100 mg and kg of body weight ) or the control vehicle ( n = 5 ) .
+PMC3174055	false	sec-12	40	191	On the basis of the pharmacokinetic and pharmacodynamic findings , A66 S was dosed QD at 100 mg and kg of body weight for up to 21 days or BID at 75 mg and kg of body weight for 16 days in tumour efficacy studies .
+PMC3174055	false	sec-12	40	192	Both dosing strategies induced a significant delay in growth of SK-OV-3 xenografted tumours , which was even greater than that induced by the well established pan-PI3K inhibitor BEZ-235            .
+PMC3174055	false	sec-12	40	193	At the final day of dosing , the average TGI for A66 S form was 45.9 % of control ( QD ; P < 0.05 ) and 29.9 % of control ( BID ; P < 0.01 )          .
+PMC3174055	false	sec-12	40	194	QD A66 S was well tolerated in this xenograft model with minimum body weight loss ; however BID treatment was associated with moderate body weight loss and two deaths , although it is not clear whether the deaths were due to drug toxicity or other causes since these mice did not show significant body weight loss            .
+PMC3174055	false	sec-12	40	195	In comparison , BEZ-235 induced a non significant reduction in tumour growth and was even less tolerated , with moderate body weight loss and four deaths .
+PMC3174055	false	sec-12	40	196	QD dosing of A66 S in an HCT-116 xenograft model also induced a significant reduction in tumour volume with a TGI of 77.2 % of control ( P < 0.01 ) at the end of dosing , but caused a non significant reduction in tumour volume in the U87MG xenograft model                                                                                         .
+PMC3174055	false	sec-12	40	197	In contrast , BEZ-235 significantly reduced U87MG tumour growth ( TGI = 61.1 % of control ; P < 0.05 ) , but had no effect on HCT-116 tumours .
+PMC3174055	false	sec-12	40	198	The drugs were well tolerated in both the U87MG model , despite the toxicity with the same dose level of BEZ-235 in the SK-OV-3 study , and in the HCT-116 model , where a lower dose ( 10 mg and kg of body weight ) of BEZ-235 was used due to the moderate body weight loss of control treated mice .
+PMC3174055	true	fig-7	41	199	In vivo antitumour efficacy and body weight change following treatment with A66 S form and BEZ-235 in a SK-OV-3 tumour xenograft model
+PMC3174055	false	fig-7	42	200	A66 was administered QDx21 at 100 mg and kg of body weight or BID until day 16 at 75 mg and kg of body weight , and BEZ-235 was administered QDx21 at 15 mg and kg of body weight .
+PMC3174055	false	fig-7	42	201	( A ) Relative mean tumour volume following treatment with A66 and BEZ-235 .
+PMC3174055	false	fig-7	42	202	Using one-way ANOVA analysis , the significance of tumour shrinkage compared with controls was calculated at days 8,12 , 16 and 20 and found to be significantly different in the following conditions ; BID A66 day 8 ( P < 0.05 ) , BID A66 day 12 ( P < 0.005 ) , BID A66 day 12 ( P < 0.005 ) , BID A66 day 16 ( P < 0.005 ) , BID A66 day 20 ( P < 0.01 ) , QD A66 day 16 ( P < 0.05 ) and QD A66 day 20 ( P < 0.05 ) .
+PMC3174055	false	fig-7	42	203	( B ) Bod yweight change from start of treatment in mice treated with A66 and BEZ-235 .
+PMC3174055	false	fig-7	42	204	Values are means+ / - S.E.M. for seven or eight mice per group .
+PMC3174055	true	sec-12	43	205	Summary of TGI and toxicity parameters for BEZ-235 and A66 S form in the SK-OV-3 , HCT-116 and U87MG xenograft models
+PMC3174055	false	fig-5	44	206	BWL , body weight loss ; NS , not significant .
+PMC3174055	false	sec-13	45	207	The present study demonstrates that A66 S is a highly specific and selective inhibitor of p110alpha that is suitable for in vitro and in vivo studies .
+PMC3174055	false	sec-13	45	208	The contacts made by the carboxamide group give A66 S its potency and selectivity for p110alpha but , interestingly , it does inhibit PI4K IIIbeta at concentrations approximately one order of magnitude higher .
+PMC3174055	false	sec-13	45	209	This is not surprising given the degree of homology between these enzymes in the catalytic sites     .
+PMC3174055	false	sec-13	45	210	However , SN34452 retains this activity against PI4K IIIbeta when the carboxamide is removed          , which makes this one of the more selective PI4K IIIbeta inhibitors described to date     .
+PMC3174055	false	sec-13	45	211	The other is PIK-93 , which is structurally quite different from A66 apart from sharing an amino thiazole core , but it also inhibits both p110alpha and PI4K IIIbeta , again highlighting the similarities in the catalytic site of these two enzymes     .
+PMC3174055	false	sec-13	46	212	Our results confirm previous studies that highlight the limitations of using PIK-75 and related compounds     .
+PMC3174055	false	sec-13	46	213	However , PIK-75 can still play a useful role as a backup for confirmatory experiments and it is worth noting that PIK-75 complements A66 in that it does not inhibit the two non p110alpha lipid kinases that A66 targets , i.e. PI4K IIIbeta and PI3K-C2beta .
+PMC3174055	false	sec-13	46	214	Our studies also add extra weight to the case for TGX-221 and IC87114 being considered as highly selective inhibitors of p110beta and p110delta if used at suitable concentrations .
+PMC3174055	false	sec-13	47	215	The finding that A66 S potently blocks phosphorylation of Akt and PKB in a subgroup of the cell lines tested demonstrates that some cell types are highly dependent on p110alpha activity .
+PMC3174055	false	sec-13	47	216	This is consistent with genetic studies which show that knockdown of p110alpha blocked signalling to Akt and PKB in cell lines harbouring mutations in PI3K        .
+PMC3174055	false	sec-13	47	217	It also supports previous studies using PIK-75            and A66      and suggests at least some cell types are more sensitive to p110alpha inhibitors .
+PMC3174055	false	sec-13	47	218	The finding that TGX-221 and IC87114 alone do not inhibit the phosphorylation of Akt and PKB at Ser473 or Thr308 in any of the cell lines tested , with the exception of a partial effect of TGX-221 in MCF7 cells , indicates that this pathway is not reliant on the catalytic activities of p110beta and p110delta in most cells .
+PMC3174055	false	sec-13	47	219	The findings with regard to p110delta are not unexpected , but the findings with TGX-221 are somewhat at odds with some previous studies .
+PMC3174055	false	sec-13	47	220	Although no oncogenic mutations have been found in p110beta , overexpression of p110beta is capable of inducing transformation     .
+PMC3174055	false	sec-13	47	221	Knockdown of PIK3CB has been shown to block the ability of PTEN deficient cell lines to form foci in in vitro transformation assays            and in in vivo tumour models .
+PMC3174055	false	sec-13	47	222	The knockdown of PIK3CB has also been reported to result in a small reduction in Akt and PKB phosphorylation in PTEN deficient cells           .
+PMC3174055	false	sec-13	47	223	Although some functions of p110beta appear to be independent of its lipid kinase activity     , the finding that TGX-221 blocks signalling to Akt and PKB in PTEN deficient cells has been taken as evidence that the catalytic activity of p110beta is required in this context        .
+PMC3174055	false	sec-13	47	224	However , it should be pointed out that those studies used a 20- to 100-fold higher concentration of TGX-221 than those used in the present study , which would provide for a significant opportunity for cross-reactivity with other PI3K isoforms .
+PMC3174055	false	sec-13	47	225	In support of this , Wee et al. .
+PMC3174055	false	sec-13	47	226	found that 2 muM TGX-221 was required to induce reduction in Akt and PKB activation in PTEN deficient cell lines , but that at these concentrations also partially reduced activation of Akt and PKB in the DLD1 cell line that harbours a PIK3CA mutation .
+PMC3174055	false	sec-13	47	227	This would be consistent with our results from the present study which demonstrate that binary combinations of A66 S , TGX-221 and IC87114 induce varying degrees of partial inhibition of activation of Akt and PKB , whereas the combination of all three drugs induced maximal inhibition .
+PMC3174055	false	sec-13	47	228	This indicates that the three class-Ia PI3K isoforms are functionally redundant to some extent and can substitute each other in signalling to Akt and PKB in these PTEN-null cells , as has been observed previously in other cell types           .
+PMC3174055	false	sec-13	48	229	In the present study , activation of Akt and PKB was sensitive to p110alpha inhibitors in H1047R cells but not in PTEN-null cell lines and those harbouring E545K mutations , which is in agreement with the studies of Torbett et al. .
+PMC3174055	false	sec-13	48	230	who used PIK-75 .
+PMC3174055	false	sec-13	48	231	It would be tempting to conclude that the sensitivity to p110alpha inhibitors is a direct consequence of the presence of the H1047R mutation , since this isoform has increased catalytic activity     .
+PMC3174055	false	sec-13	48	232	However , the PIK3CA mutants are not intrinsically sensitive to A66 or PIK-75          , and gene knockout studies have shown that sensitivity of HCT-116 cells to p110alpha selective PIK-75 analogues is not changed by deletion of the H1047R allele of PIK3CA     .
+PMC3174055	false	sec-13	48	233	Furthermore , the study by Torbett et al. .
+PMC3174055	false	sec-13	48	234	showed that MCF10A cells and Hs578t cells were also sensitive to PIK-75 .
+PMC3174055	false	sec-13	48	235	The latter can be explained by the fact that this line was subsequently found to have a mutation in PIK3R1 ( Cosmic database ) and such mutations have been shown to be sensitive to p110alpha inhibitors     .
+PMC3174055	false	sec-13	48	236	Although MCF10A cells have no reported mutations in PI3K signalling pathways , a certain sub-population of these cells has been reported to have high PI3K activity     .
+PMC3174055	false	sec-13	48	237	This is consistent with another study which observed PI3K is not mutated in medulloblastoma , but that p110alpha is overexpressed and that such cells are very sensitive to PIK-75     .
+PMC3174055	false	sec-13	48	238	Furthermore , we have observed previously in other cells that the degree of PIK-75 sensitivity is proportional to the relative amount of the total PI3K activity that is attributable to p110alpha     .
+PMC3174055	false	sec-13	48	239	Our results from the present study also show that the cells with high overall class-Ia PI3K and p110alpha protein levels are the ones that are sensitive to p110alpha inhibitors .
+PMC3174055	false	sec-13	48	240	Therefore the increased catalytic activity of the H1047 mutant may not be sufficient on its own to confer sensitivity to p110alpha inhibitors , but rather it may be the total levels of p110alpha ( mutant or wild-type ) in the cells that is most important .
+PMC3174055	false	sec-13	48	241	In this regard it is worth noting that evidence has recently been presented to indicate that at least part of the effect of the H1047R mutant might be to stabilize p110alpha levels in the cell     .
+PMC3174055	false	sec-13	48	242	The relative levels of class-Ia PI3K isoforms is also likely to be important and it is in this regard it is noteworthy that MCF7 cells are partially responsive to TGX-221 , suggesting a dependence on p110beta , and this cell line is the only one where we found high p110beta and low p110alpha levels .
+PMC3174055	false	sec-13	48	243	Further studies will be required to clarify these issues .
+PMC3174055	false	sec-13	49	244	The reason for the difference in characteristics between the H1047R and E545K cell lines is not clear .
+PMC3174055	false	sec-13	49	245	However , a number of studies have indicated that these two main oncogenic forms of p110alpha are likely to function differently in vitro and in vivo              .
+PMC3174055	false	sec-13	49	246	In particular , the helical domain mutants appear to signal independently of the p85 adapter subunit , and hence of activation by receptor tyrosine kinases , but require Ras     .
+PMC3174055	false	sec-13	49	247	The kinase domain mutants , on the other hand , require p85 but are independent of Ras     .
+PMC3174055	false	sec-13	49	248	Again it will require further studies to clarify this issue .
+PMC3174055	false	sec-13	50	249	The finding that A66 S is more effective at inducing growth delay in the HCT-116 and SK-OV-3 xenograft models than the pan-PI3K / mTOR inhibitor BEZ-235      demonstrates that a p110alpha selective inhibitor can be effective at slowing cell growth in the absence of mTOR inhibition in certain cell types .
+PMC3174055	false	sec-13	50	250	In addition , although A66 S did not induce tumour regression in xenograft models , the ability to induce growth delay indicates p110alpha selective inhibitors have to ability to be effective as cytostatic agents in some tumour types .
+PMC3174055	false	sec-13	50	251	Further studies will be required to determine whether A66 might contribute to tumour regression as part of a combination drug treatment strategy .
+PMC3174055	true	sec-15	51	252	AUTHOR CONTRIBUTION
+PMC3174055	false	sec-15	52	253	Stephen Jamieson , Jack Flanagan , Bruce Baguley and Peter Shepherd developed concepts , and designed and supervised experiments .
+PMC3174055	false	sec-15	52	254	Jackie Kendall , Gordon Rewcastle and William Denny designed and performed the chemical synthesis .
+PMC3174055	false	sec-15	52	255	Stephen Jamieson , Jack Flanagan , Sharada Kolekar , Christina Buchanan , Jackie Kendall , Woo-Jeong Lee , Gordon Rewcastle , Ripudaman Singh and James Dickson performed experiments .
+PMC3174055	false	sec-15	52	256	Peter Shepherd , Jack Flanagan , Gordon Rewcastle and Stephen Jamieson were the main contributors in the writing of the paper .
+PMC3174055	false	sec-15	52	257	Sharada Kolekar , Christina Buchanan and William Denny made minor contributions in the writing of the paper .
+PMC3174055	false	sec-16	53	258	We thank Aaron Thompson and Phil Kestell for their help with tumour xenograft and pharmacokinetic studies , and Dr Graham Atwell for synthesizing the A66 R form .

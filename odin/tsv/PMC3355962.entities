@@ -1,0 +1,1296 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC3355962	0	uniprot:P01308	Insulin	Gene_or_gene_product
+PMC3355962	0	uniprot:UNRESOLVED ID	IGF Receptors	Gene_or_gene_product
+PMC3355962	1	uniprot:P01308	Insulin	Gene_or_gene_product
+PMC3355962	1	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	1	uniprot:UNRESOLVED ID	phosphoinositide 3-kinase	Gene_or_gene_product
+PMC3355962	1	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	1	uniprot:UNRESOLVED ID	extracellular signal-regulated kinase	Gene_or_gene_product
+PMC3355962	2	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	2	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	3	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	3	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	4	uniprot:P01308	Insulin	Gene_or_gene_product
+PMC3355962	4	uniprot:UNRESOLVED ID	IGF receptors	Gene_or_gene_product
+PMC3355962	4	uniprot:P35568	IRS-1	Gene_or_gene_product
+PMC3355962	4	uniprot:Q9Y4H2	IRS-2	Gene_or_gene_product
+PMC3355962	4	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	5	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC3355962	5	uniprot:UNRESOLVED ID	SH2Bs	Gene_or_gene_product
+PMC3355962	5	uniprot:P46108	Crk	Gene_or_gene_product
+PMC3355962	5	uniprot:P63244	RACK1	Gene_or_gene_product
+PMC3355962	5	uniprot:UNRESOLVED ID	beta-arrestins	Gene_or_gene_product
+PMC3355962	5	uniprot:UNRESOLVED ID	cytohesins	Gene_or_gene_product
+PMC3355962	5	uniprot:UNRESOLVED ID	phosphoinositide kinases	Gene_or_gene_product
+PMC3355962	9	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	9	uniprot:UNRESOLVED ID	insulin receptors	Gene_or_gene_product
+PMC3355962	9	uniprot:UNRESOLVED ID	IGF receptors	Gene_or_gene_product
+PMC3355962	10	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	10	uniprot:UNRESOLVED ID	IGFs	Gene_or_gene_product
+PMC3355962	11	uniprot:P01308	Insulin	Gene_or_gene_product
+PMC3355962	12	uniprot:P01308	Insulin	Gene_or_gene_product
+PMC3355962	12	uazid:UA-ORG-599	muscle	Organ
+PMC3355962	12	uazid:UA-ORG-520	liver	Organ
+PMC3355962	13	ncbitax:species:ncbi:10090	mouse	Species
+PMC3355962	13	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	13	uazid:UA-ORG-114	brain	Organ
+PMC3355962	13	uniprot:UNRESOLVED ID	endothelium	CellType
+PMC3355962	13	ncbitax:species:ncbi:3758	Plum	Species
+PMC3355962	14	uniprot:UNRESOLVED ID	IGFs	Gene_or_gene_product
+PMC3355962	14	uniprot:P01344	IGF-2	Gene_or_gene_product
+PMC3355962	14	uniprot:P05019	IGF-1	Gene_or_gene_product
+PMC3355962	15	ncbitax:species:ncbi:10090	mouse	Species
+PMC3355962	15	uniprot:UNRESOLVED ID	IGF receptor	Gene_or_gene_product
+PMC3355962	16	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	16	uniprot:UNRESOLVED ID	IGFs	Gene_or_gene_product
+PMC3355962	17	uniprot:UNRESOLVED ID	phosphoinositide 3-kinase	Gene_or_gene_product
+PMC3355962	17	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	17	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	17	uniprot:UNRESOLVED ID	extracellular signal-regulated kinase	Gene_or_gene_product
+PMC3355962	17	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	17	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	17	uniprot:P06213	insulin receptor	Gene_or_gene_product
+PMC3355962	17	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	17	uniprot:UNRESOLVED ID	insulin-like growth factor receptor	Gene_or_gene_product
+PMC3355962	17	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	19	uniprot:P42345	mTOR	Gene_or_gene_product
+PMC3355962	19	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	19	ncbitax:species:ncbi:37334	Yu	Species
+PMC3355962	20	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	20	uniprot:UNRESOLVED ID	Ramos	Gene_or_gene_product
+PMC3355962	21	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	21	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	21	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	22	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	23	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	23	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	24	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	24	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	24	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	24	uniprot:P29401	TK	Gene_or_gene_product
+PMC3355962	24	uniprot:P26599	PTB	Gene_or_gene_product
+PMC3355962	24	uniprot:P01298	PH	Gene_or_gene_product
+PMC3355962	24	uniprot:P08567	pleckstrin	Gene_or_gene_product
+PMC3355962	24	uniprot:P55241	SH2	Gene_or_gene_product
+PMC3355962	24	uniprot:P12931	Src	Gene_or_gene_product
+PMC3355962	24	uniprot:UNRESOLVED ID	KRLB	Gene_or_gene_product
+PMC3355962	25	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	25	uniprot:UNRESOLVED ID	IGFs	Gene_or_gene_product
+PMC3355962	26	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	27	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	27	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	27	uniprot:P02730	Di	Gene_or_gene_product
+PMC3355962	28	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	28	uniprot:UNRESOLVED ID	IGFs	Gene_or_gene_product
+PMC3355962	28	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	28	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	29	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	29	uniprot:UNRESOLVED ID	IGF hybrid receptors	Gene_or_gene_product
+PMC3355962	29	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	29	uniprot:UNRESOLVED ID	IGFR homodimers	Gene_or_gene_product
+PMC3355962	30	uniprot:UNRESOLVED ID	Hybrid receptors	Gene_or_gene_product
+PMC3355962	30	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	31	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	31	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	32	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	32	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	32	uniprot:UNRESOLVED ID	class II RTK family	Gene_or_gene_product
+PMC3355962	33	uniprot:P14616	IR-related receptor	Gene_or_gene_product
+PMC3355962	33	uniprot:P14616	IRR	Gene_or_gene_product
+PMC3355962	34	uniprot:UNRESOLVED ID	class II RTKs	Gene_or_gene_product
+PMC3355962	34	uniprot:P29401	TK	Gene_or_gene_product
+PMC3355962	35	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	35	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	38	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	38	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	38	uniprot:UNRESOLVED ID	IGFs	Gene_or_gene_product
+PMC3355962	38	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	39	uniprot:P05019	IGF-1	Gene_or_gene_product
+PMC3355962	39	uniprot:P01344	IGF-2	Gene_or_gene_product
+PMC3355962	39	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	41	uniprot:UNRESOLVED ID	~250	Gene_or_gene_product
+PMC3355962	41	uniprot:UNRESOLVED ID	~45	Gene_or_gene_product
+PMC3355962	42	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	42	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	42	uniprot:UNRESOLVED ID	IGFR 1131/35/36	Gene_or_gene_product
+PMC3355962	42	uniprot:Q13322	Grb10	Gene_or_gene_product
+PMC3355962	42	uniprot:O14492	APS	Gene_or_gene_product
+PMC3355962	42	uniprot:UNRESOLVED ID	SH2-B families	Gene_or_gene_product
+PMC3355962	43	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	45	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	45	uniprot:UNRESOLVED ID	IGFR 1162 and 1221	Gene_or_gene_product
+PMC3355962	47	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	47	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	48	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	48	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	48	uniprot:P06213	insulin receptor	Gene_or_gene_product
+PMC3355962	48	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	49	uniprot:P41252	IRS	Gene_or_gene_product
+PMC3355962	49	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	49	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	49	uniprot:P35568	IRS-1	Gene_or_gene_product
+PMC3355962	49	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	50	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	50	uniprot:P35568	IRS-1	Gene_or_gene_product
+PMC3355962	51	uniprot:P08567	pleckstrin	Gene_or_gene_product
+PMC3355962	51	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	51	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	52	uniprot:UNRESOLVED ID	NPEpY beta-turn motif	Gene_or_gene_product
+PMC3355962	52	uniprot:P35568	IRS-1	Gene_or_gene_product
+PMC3355962	52	uniprot:P29317	Eck	Gene_or_gene_product
+PMC3355962	52	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	52	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	52	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	53	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	53	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	54	uniprot:UNRESOLVED ID	IRSs	Gene_or_gene_product
+PMC3355962	54	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	54	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	54	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	55	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	56	uniprot:UNRESOLVED ID	NPEY972	Gene_or_gene_product
+PMC3355962	56	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	56	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	56	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	56	uniprot:UNRESOLVED ID	GVLY943	Gene_or_gene_product
+PMC3355962	57	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	57	uniprot:UNRESOLVED ID	LL998	Gene_or_gene_product
+PMC3355962	57	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	57	uniprot:UNRESOLVED ID	MS971/2	Gene_or_gene_product
+PMC3355962	57	uniprot:UNRESOLVED ID	VV991/2	Gene_or_gene_product
+PMC3355962	58	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	58	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	59	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	60	uniprot:UNRESOLVED ID	IR1328	Gene_or_gene_product
+PMC3355962	60	uniprot:UNRESOLVED ID	IR1334	Gene_or_gene_product
+PMC3355962	60	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	61	uniprot:UNRESOLVED ID	IR1328	Gene_or_gene_product
+PMC3355962	61	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	61	uniprot:UNRESOLVED ID	twin	Gene_or_gene_product
+PMC3355962	61	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	62	uniprot:UNRESOLVED ID	IGFR twin	Gene_or_gene_product
+PMC3355962	62	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	63	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	63	uniprot:UNRESOLVED ID	cluster S1280/1/2/3	Gene_or_gene_product
+PMC3355962	63	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	64	uniprot:P55241	SH2	Gene_or_gene_product
+PMC3355962	64	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	64	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	66	uniprot:P01308	Insulin	Gene_or_gene_product
+PMC3355962	66	uniprot:P06213	Insulin receptor	Gene_or_gene_product
+PMC3355962	66	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	66	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	66	uniprot:UNRESOLVED ID	IGFR TKs	Gene_or_gene_product
+PMC3355962	66	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	66	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	66	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	68	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC3355962	69	uniprot:Q9NRF2	SH2B	Gene_or_gene_product
+PMC3355962	69	uniprot:P22681	Cbl	Gene_or_gene_product
+PMC3355962	70	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	71	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	72	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC3355962	72	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	72	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	72	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	72	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	73	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	73	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	73	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	73	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	73	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	74	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	74	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	75	uniprot:P01308	Insulin	Gene_or_gene_product
+PMC3355962	75	uniprot:P06213	Insulin receptor	Gene_or_gene_product
+PMC3355962	76	uniprot:P01308	Insulin	Gene_or_gene_product
+PMC3355962	76	uniprot:P06213	Insulin receptor	Gene_or_gene_product
+PMC3355962	76	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	76	uniprot:UNRESOLVED ID	IGFR TKs	Gene_or_gene_product
+PMC3355962	76	uniprot:P26599	PTB	Gene_or_gene_product
+PMC3355962	77	uniprot:P35568	IRS-1	Gene_or_gene_product
+PMC3355962	77	uniprot:Q9Y4H2	IRS-2	Gene_or_gene_product
+PMC3355962	77	uniprot:UNRESOLVED ID	IRS-3	Gene_or_gene_product
+PMC3355962	77	uniprot:O14654	IRS-4	Gene_or_gene_product
+PMC3355962	78	uniprot:P35568	IRS-1	Gene_or_gene_product
+PMC3355962	78	uniprot:Q9Y4H2	IRS-2	Gene_or_gene_product
+PMC3355962	78	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	78	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	79	uniprot:UNRESOLVED ID	PI3K regulatory subunits	Gene_or_gene_product
+PMC3355962	79	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC3355962	79	uniprot:Q06124	SHP2	Gene_or_gene_product
+PMC3355962	79	uniprot:UNRESOLVED ID	TK Fyn	Gene_or_gene_product
+PMC3355962	80	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	80	uniprot:Q06124	SHP2	Gene_or_gene_product
+PMC3355962	81	uniprot:Q06124	SHP2	Gene_or_gene_product
+PMC3355962	82	uniprot:P35568	IRS-1	Gene_or_gene_product
+PMC3355962	82	uniprot:UNRESOLVED ID	vascular smooth muscle	CellType
+PMC3355962	82	uniprot:Q06124	SHP2	Gene_or_gene_product
+PMC3355962	82	uniprot:UNRESOLVED ID	IRS/Grb2/Sos	Gene_or_gene_product
+PMC3355962	82	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	83	uniprot:Q06124	SHP2	Gene_or_gene_product
+PMC3355962	83	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	83	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	83	uniprot:P05019	IGF-1	Gene_or_gene_product
+PMC3355962	83	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	83	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	84	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	84	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	84	uniprot:Q06124	SHP2	Gene_or_gene_product
+PMC3355962	85	uniprot:Q06124	SHP2	Gene_or_gene_product
+PMC3355962	85	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	85	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	85	uniprot:P78324	SHPS-1	Gene_or_gene_product
+PMC3355962	86	uniprot:P41252	IRS	Gene_or_gene_product
+PMC3355962	86	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	86	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	87	uniprot:P35568	IRS-1	Gene_or_gene_product
+PMC3355962	87	uniprot:Q9Y4H2	IRS-2	Gene_or_gene_product
+PMC3355962	88	uniprot:P55241	SH2	Gene_or_gene_product
+PMC3355962	88	uniprot:P41252	IRS	Gene_or_gene_product
+PMC3355962	89	uniprot:P35568	IRS-1	Gene_or_gene_product
+PMC3355962	89	uniprot:Q9Y4H2	IRS-2	Gene_or_gene_product
+PMC3355962	92	uniprot:P35568	IRS-1	Gene_or_gene_product
+PMC3355962	92	uniprot:Q9Y4H2	IRS-2	Gene_or_gene_product
+PMC3355962	94	uniprot:O89094	mice	Species
+PMC3355962	94	uniprot:P35568	IRS-1	Gene_or_gene_product
+PMC3355962	94	uniprot:Q9Y4H2	IRS-2	Gene_or_gene_product
+PMC3355962	95	uniprot:Q9Y4H2	IRS-2	Gene_or_gene_product
+PMC3355962	95	uniprot:P05019	IGF-1	Gene_or_gene_product
+PMC3355962	96	uazid:UA-ORG-520	liver	Organ
+PMC3355962	96	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC3355962	96	uniprot:P35568	IRS-1	Gene_or_gene_product
+PMC3355962	96	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	96	uniprot:Q9Y4H2	IRS-2	Gene_or_gene_product
+PMC3355962	96	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	97	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	97	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	98	uniprot:Q9Y4H2	IRS-2	Gene_or_gene_product
+PMC3355962	98	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	98	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	98	uniprot:UNRESOLVED ID	KRLB	Gene_or_gene_product
+PMC3355962	98	uniprot:Q15025	Van	Gene_or_gene_product
+PMC3355962	99	uniprot:Q9Y4H2	IRS-2	Gene_or_gene_product
+PMC3355962	99	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	99	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	100	uniprot:P41252	IRS	Gene_or_gene_product
+PMC3355962	100	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	100	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	101	uniprot:P35568	IRS-1	Gene_or_gene_product
+PMC3355962	101	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	101	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	101	uniprot:Q9Y4H2	IRS-2	Gene_or_gene_product
+PMC3355962	102	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	102	uniprot:P35568	IRS-1	Gene_or_gene_product
+PMC3355962	102	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	102	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	102	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC3355962	103	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC3355962	103	uniprot:UNRESOLVED ID	fibroblasts	CellType
+PMC3355962	103	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	103	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	103	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC3355962	103	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	104	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	104	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	104	uniprot:UNRESOLVED ID	adipocytes	CellType
+PMC3355962	104	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	104	uniprot:P05019	IGF-1	Gene_or_gene_product
+PMC3355962	105	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	105	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	106	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	107	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	107	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	107	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	108	uniprot:P29353	ShcA	Gene_or_gene_product
+PMC3355962	108	uniprot:P0C6Y5	p66	Gene_or_gene_product
+PMC3355962	108	uniprot:O75439	p52	Gene_or_gene_product
+PMC3355962	108	uniprot:Q9BY77	p46	Gene_or_gene_product
+PMC3355962	109	uniprot:O75439	p52	Gene_or_gene_product
+PMC3355962	109	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	109	uniprot:P0C6Y5	p66	Gene_or_gene_product
+PMC3355962	110	uniprot:UNRESOLVED ID	p66Shc	Gene_or_gene_product
+PMC3355962	110	uniprot:P08922	ROS	Gene_or_gene_product
+PMC3355962	111	uniprot:P29353	ShcA	Gene_or_gene_product
+PMC3355962	111	uniprot:UNRESOLVED ID	p52Shc	Gene_or_gene_product
+PMC3355962	112	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC3355962	112	uniprot:UNRESOLVED ID	Sos adaptor	Gene_or_gene_product
+PMC3355962	112	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC3355962	113	uniprot:UNRESOLVED ID	fibroblasts	CellType
+PMC3355962	113	uniprot:UNRESOLVED ID	p52Shc	Gene_or_gene_product
+PMC3355962	113	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	113	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	114	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	114	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	114	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	114	uniprot:UNRESOLVED ID	RTKs	Gene_or_gene_product
+PMC3355962	115	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	116	uniprot:UNRESOLVED ID	IRSs	Gene_or_gene_product
+PMC3355962	116	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	116	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	116	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	117	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	117	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	118	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	118	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	118	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	118	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	118	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	119	uniprot:P01308	Insulin	Gene_or_gene_product
+PMC3355962	119	uniprot:P06213	Insulin receptor	Gene_or_gene_product
+PMC3355962	119	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	119	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	119	uniprot:Q4H3K6	fibroblast growth factor receptor	Gene_or_gene_product
+PMC3355962	119	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC3355962	119	uniprot:Q06124	SHP2	Gene_or_gene_product
+PMC3355962	120	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	120	uniprot:UNRESOLVED ID	IRSs	Gene_or_gene_product
+PMC3355962	120	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC3355962	120	uniprot:P26675	Sos	Gene_or_gene_product
+PMC3355962	120	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	120	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	121	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	121	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	121	uniprot:UNRESOLVED ID	Yamauchi	Gene_or_gene_product
+PMC3355962	121	uniprot:UNRESOLVED ID	Pessin	Gene_or_gene_product
+PMC3355962	121	uniprot:P41252	IRS	Gene_or_gene_product
+PMC3355962	122	uniprot:P41252	IRS	Gene_or_gene_product
+PMC3355962	122	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	123	uniprot:P41252	IRS	Gene_or_gene_product
+PMC3355962	123	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	123	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC3355962	123	uniprot:P26675	Sos	Gene_or_gene_product
+PMC3355962	124	uniprot:P26675	Sos	Gene_or_gene_product
+PMC3355962	124	uniprot:UNRESOLVED ID	Sos autoinhibitory domain	Gene_or_gene_product
+PMC3355962	125	N/A	Shc	Gene_or_gene_product
+PMC3355962	125	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	125	uniprot:Q06124	SHP2	Gene_or_gene_product
+PMC3355962	125	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC3355962	126	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	126	uniprot:Q06124	SHP2	Gene_or_gene_product
+PMC3355962	126	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC3355962	126	uniprot:P26675	Sos	Gene_or_gene_product
+PMC3355962	126	uniprot:Q9UBX5	Dance	Gene_or_gene_product
+PMC3355962	127	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC3355962	128	uniprot:UNRESOLVED ID	IRSs	Gene_or_gene_product
+PMC3355962	128	uniprot:UNRESOLVED ID	Gabs	Gene_or_gene_product
+PMC3355962	128	uazid:UA-CT-9	immune cell	CellType
+PMC3355962	129	uniprot:Q13480	Gab-1	Gene_or_gene_product
+PMC3355962	129	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	129	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC3355962	130	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	130	uniprot:Q13480	Gab-1	Gene_or_gene_product
+PMC3355962	130	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	131	uniprot:UNRESOLVED ID	Gabs	Gene_or_gene_product
+PMC3355962	131	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	131	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	132	uniprot:Q13480	Gab-1	Gene_or_gene_product
+PMC3355962	132	uniprot:P18146	Egr-1	Gene_or_gene_product
+PMC3355962	132	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	132	uniprot:UNRESOLVED ID	fibroblasts	CellType
+PMC3355962	133	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	133	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	133	uniprot:UNRESOLVED ID	Gabs	Gene_or_gene_product
+PMC3355962	134	uniprot:P01298	PH	Gene_or_gene_product
+PMC3355962	135	uniprot:UNRESOLVED ID	Gabs	Gene_or_gene_product
+PMC3355962	135	uniprot:UNRESOLVED ID	DOKs	Gene_or_gene_product
+PMC3355962	135	uniprot:UNRESOLVED ID	receptor and non-receptor TKs	Gene_or_gene_product
+PMC3355962	135	uazid:UA-CT-22	lymphocytes	CellType
+PMC3355962	136	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	136	uniprot:P05019	IGF-1	Gene_or_gene_product
+PMC3355962	136	uniprot:UNRESOLVED ID	Src family kinases	Gene_or_gene_product
+PMC3355962	137	uniprot:Q8TEW6	DOK4	Gene_or_gene_product
+PMC3355962	137	uniprot:Q9P104	DOK5	Gene_or_gene_product
+PMC3355962	137	uniprot:Q8TEW6	IRS-5	Gene_or_gene_product
+PMC3355962	137	uniprot:Q9P104	IRS-6	Gene_or_gene_product
+PMC3355962	137	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	138	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	139	uniprot:Q93070	DOK1	Gene_or_gene_product
+PMC3355962	139	uniprot:O60496	DOK2	Gene_or_gene_product
+PMC3355962	139	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	139	uniprot:P20936	RasGAP	Gene_or_gene_product
+PMC3355962	140	uniprot:Q8TEW6	DOK4	Gene_or_gene_product
+PMC3355962	140	uniprot:P20936	RasGAP	Gene_or_gene_product
+PMC3355962	140	uniprot:P46108	Crk	Gene_or_gene_product
+PMC3355962	140	uniprot:P12931	Src	Gene_or_gene_product
+PMC3355962	140	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC3355962	140	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	140	uniprot:Q06124	SHP2	Gene_or_gene_product
+PMC3355962	140	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC3355962	141	uniprot:Q9P104	DOK5	Gene_or_gene_product
+PMC3355962	142	uniprot:Q93070	DOK1	Gene_or_gene_product
+PMC3355962	142	uniprot:UNRESOLVED ID	p62dok	Gene_or_gene_product
+PMC3355962	142	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	142	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	143	uniprot:O14492	APS	Gene_or_gene_product
+PMC3355962	143	uniprot:Q9NRF2	SH2B	Gene_or_gene_product
+PMC3355962	143	uniprot:P22681	Cbl	Gene_or_gene_product
+PMC3355962	144	uniprot:O14492	APS	Gene_or_gene_product
+PMC3355962	144	uniprot:Q9NRF2	SH2-B	Gene_or_gene_product
+PMC3355962	144	uniprot:Q04609	PSM	Gene_or_gene_product
+PMC3355962	144	uniprot:P04629	TrkA	Gene_or_gene_product
+PMC3355962	144	uniprot:UNRESOLVED ID	JAK	Gene_or_gene_product
+PMC3355962	146	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	146	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	147	uniprot:O14492	APS	Gene_or_gene_product
+PMC3355962	147	uniprot:UNRESOLVED ID	SHB2	Gene_or_gene_product
+PMC3355962	147	uniprot:Q9NRF2	SH2-B	Gene_or_gene_product
+PMC3355962	147	uniprot:Q9NRF2	SH2B1	Gene_or_gene_product
+PMC3355962	147	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	147	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	148	uniprot:O14492	APS	Gene_or_gene_product
+PMC3355962	148	uniprot:Q9NRF2	SH2B1	Gene_or_gene_product
+PMC3355962	148	uniprot:O60674	JAK2	Gene_or_gene_product
+PMC3355962	148	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	149	uniprot:Q9NRF2	SH2B1	Gene_or_gene_product
+PMC3355962	149	uniprot:O14492	APS	Gene_or_gene_product
+PMC3355962	149	uniprot:O60674	JAK2	Gene_or_gene_product
+PMC3355962	149	uniprot:Q9NRF2	SH2B	Gene_or_gene_product
+PMC3355962	150	uniprot:O14492	APS	Gene_or_gene_product
+PMC3355962	150	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	150	uniprot:Q54KM6	c-Cbl	Gene_or_gene_product
+PMC3355962	150	uniprot:P0CG47	ubiquitin	Gene_or_gene_product
+PMC3355962	151	uniprot:P22681	Cbl	Gene_or_gene_product
+PMC3355962	151	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	151	uniprot:O14492	APS	Gene_or_gene_product
+PMC3355962	152	uniprot:P22681	Cbl	Gene_or_gene_product
+PMC3355962	152	uniprot:B0YJ81	CAP	CellType
+PMC3355962	152	uniprot:UNRESOLVED ID	phospho-Cbl	Gene_or_gene_product
+PMC3355962	152	uniprot:P46108	Crk	Gene_or_gene_product
+PMC3355962	152	uniprot:P17081	TC10	Gene_or_gene_product
+PMC3355962	152	uniprot:P08100	Rho	Gene_or_gene_product
+PMC3355962	152	uniprot:UNRESOLVED ID	small GTPases	Gene_or_gene_product
+PMC3355962	153	uniprot:P17081	TC10	Gene_or_gene_product
+PMC3355962	153	uniprot:P14672	GLUT4	Gene_or_gene_product
+PMC3355962	153	uniprot:P13678	PKC	Gene_or_gene_product
+PMC3355962	153	uniprot:UNRESOLVED ID	PtdIns3P	Gene_or_gene_product
+PMC3355962	154	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	154	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	154	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	155	uniprot:B0YJ81	CAP	CellType
+PMC3355962	155	uniprot:P22681	Cbl	Gene_or_gene_product
+PMC3355962	156	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC3355962	156	uniprot:UNRESOLVED ID	adipocytes	CellType
+PMC3355962	156	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	157	uniprot:O14492	APS	Gene_or_gene_product
+PMC3355962	157	uniprot:Q54KM6	c-Cbl	Gene_or_gene_product
+PMC3355962	157	uniprot:O89094	mice	Species
+PMC3355962	157	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	157	uniprot:P26205	Li	Species
+PMC3355962	158	uniprot:Q54KM6	c-Cbl	Gene_or_gene_product
+PMC3355962	158	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	158	ncbitax:species:ncbi:10090	mouse	Species
+PMC3355962	158	uniprot:P0CG47	ubiquitin	Gene_or_gene_product
+PMC3355962	158	uniprot:O14492	APS	Gene_or_gene_product
+PMC3355962	158	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	159	uniprot:UNRESOLVED ID	APS/CAP/Cbl	Gene_or_gene_product
+PMC3355962	159	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	160	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	160	uniprot:O14492	APS	Gene_or_gene_product
+PMC3355962	161	uniprot:O14492	APS	Gene_or_gene_product
+PMC3355962	161	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	162	uniprot:O14492	APS	Gene_or_gene_product
+PMC3355962	162	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	162	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	163	uazid:UA-ORG-381	hand	Organ
+PMC3355962	163	uniprot:O14492	APS	Gene_or_gene_product
+PMC3355962	163	uniprot:O14492	SH2B2	Gene_or_gene_product
+PMC3355962	163	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	163	uniprot:P26205	Li	Species
+PMC3355962	164	uniprot:O14492	APS	Gene_or_gene_product
+PMC3355962	164	uniprot:Q9NR12	Enigma	Gene_or_gene_product
+PMC3355962	164	uniprot:UNRESOLVED ID	PDZ	Gene_or_gene_product
+PMC3355962	164	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	164	uniprot:P14672	GLUT4	Gene_or_gene_product
+PMC3355962	164	uniprot:Q9NWX5	Asb6	Gene_or_gene_product
+PMC3355962	164	uniprot:UNRESOLVED ID	adipocyte	CellType
+PMC3355962	164	uniprot:UNRESOLVED ID	ankyrin	Gene_or_gene_product
+PMC3355962	164	uniprot:Q9NSE2	SOCS	Gene_or_gene_product
+PMC3355962	164	uniprot:O15357	SHIP2	Gene_or_gene_product
+PMC3355962	165	uniprot:O14492	APS	Gene_or_gene_product
+PMC3355962	165	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	165	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	165	uniprot:Q99623	Rea	Gene_or_gene_product
+PMC3355962	165	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	166	uniprot:Q9NRF2	SH2B1	Gene_or_gene_product
+PMC3355962	166	uniprot:Q04609	PSM	Gene_or_gene_product
+PMC3355962	166	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	166	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	166	uniprot:UNRESOLVED ID	JAK	Gene_or_gene_product
+PMC3355962	166	uniprot:P41159	leptin	Gene_or_gene_product
+PMC3355962	166	uniprot:UNRESOLVED ID	leptin receptors	Gene_or_gene_product
+PMC3355962	167	uniprot:Q9NRF2	SH2B1	Gene_or_gene_product
+PMC3355962	168	uniprot:Q9NRF2	SH2B1	Gene_or_gene_product
+PMC3355962	168	uniprot:O89094	mice	Species
+PMC3355962	168	uniprot:P41159	leptin	Gene_or_gene_product
+PMC3355962	168	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	168	uniprot:UNRESOLVED ID	JAK	Gene_or_gene_product
+PMC3355962	169	ncbitax:species:ncbi:9606	humans	Species
+PMC3355962	169	uniprot:Q9NRF2	Sh2b1	Gene_or_gene_product
+PMC3355962	170	uniprot:Q9NRF2	SH2B1	Gene_or_gene_product
+PMC3355962	170	uazid:UA-ORG-77	balance	Organ
+PMC3355962	170	uniprot:P00797	Ren	Gene_or_gene_product
+PMC3355962	170	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	170	uazid:UA-ORG-520	liver	Organ
+PMC3355962	170	uazid:UA-ORG-599	muscle	Organ
+PMC3355962	170	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	171	uniprot:Q9NRF2	SH2B1	Gene_or_gene_product
+PMC3355962	171	uniprot:O14492	APS	Gene_or_gene_product
+PMC3355962	171	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	171	uniprot:P29401	TK	Gene_or_gene_product
+PMC3355962	172	uniprot:Q9NRF2	SH2B1	Gene_or_gene_product
+PMC3355962	172	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	173	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	173	uniprot:Q9NRF2	SH2B1	Gene_or_gene_product
+PMC3355962	173	uniprot:P35568	IRS-1	Gene_or_gene_product
+PMC3355962	173	uniprot:O60674	JAK2	Gene_or_gene_product
+PMC3355962	173	uniprot:P26205	Li	Species
+PMC3355962	174	uniprot:Q9NRF2	SH2B1	Gene_or_gene_product
+PMC3355962	175	uniprot:Q9P2X3	impact	Gene_or_gene_product
+PMC3355962	175	uniprot:Q9NRF2	SH2B1	Gene_or_gene_product
+PMC3355962	175	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	175	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	176	uniprot:P46108	Crk	Gene_or_gene_product
+PMC3355962	177	uniprot:P46108	Crk	Gene_or_gene_product
+PMC3355962	178	uniprot:P46108	Crk	Gene_or_gene_product
+PMC3355962	178	uniprot:P55241	SH2	Gene_or_gene_product
+PMC3355962	179	uniprot:UNRESOLVED ID	CrkII	Gene_or_gene_product
+PMC3355962	179	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	179	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	180	uniprot:UNRESOLVED ID	fibroblasts	CellType
+PMC3355962	180	uniprot:UNRESOLVED ID	CrkII	Gene_or_gene_product
+PMC3355962	180	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	180	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	181	uniprot:P46108	Crk	Gene_or_gene_product
+PMC3355962	181	uniprot:P05019	IGF-1	Gene_or_gene_product
+PMC3355962	181	uniprot:UNRESOLVED ID	adipocyte	CellType
+PMC3355962	182	uniprot:P46108	Crk	Gene_or_gene_product
+PMC3355962	182	uniprot:B0YJ81	CAP	CellType
+PMC3355962	182	uniprot:P22681	Cbl	Gene_or_gene_product
+PMC3355962	183	uniprot:UNRESOLVED ID	CrkII	Gene_or_gene_product
+PMC3355962	183	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	183	uniprot:P14672	GLUT4	Gene_or_gene_product
+PMC3355962	183	uniprot:P46108	Crk	Gene_or_gene_product
+PMC3355962	183	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	184	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	184	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	186	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC3355962	187	uniprot:UNRESOLVED ID	Grb7/10/14	Gene_or_gene_product
+PMC3355962	188	uniprot:UNRESOLVED ID	Grb7/10/14 adaptors	Gene_or_gene_product
+PMC3355962	188	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	188	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	188	ncbitax:species:ncbi:4932	yeast	Species
+PMC3355962	189	uniprot:O14492	APS	Gene_or_gene_product
+PMC3355962	189	uniprot:Q9NRF2	SH2-B	Gene_or_gene_product
+PMC3355962	190	uniprot:UNRESOLVED ID	Grb7/10/14	Gene_or_gene_product
+PMC3355962	191	uniprot:UNRESOLVED ID	RTKs	Gene_or_gene_product
+PMC3355962	191	uniprot:Q13322	Grb10	Gene_or_gene_product
+PMC3355962	191	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	191	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	192	uniprot:UNRESOLVED ID	IR TK	Gene_or_gene_product
+PMC3355962	192	uniprot:Q14449	Grb14	Gene_or_gene_product
+PMC3355962	192	uniprot:Q13322	Grb10	Gene_or_gene_product
+PMC3355962	192	uniprot:Q14451	Grb7	Gene_or_gene_product
+PMC3355962	193	uniprot:Q14449	Grb14	Gene_or_gene_product
+PMC3355962	193	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	193	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	194	uniprot:UNRESOLVED ID	Grbs	Gene_or_gene_product
+PMC3355962	194	uniprot:O14492	APS	Gene_or_gene_product
+PMC3355962	194	uniprot:Q9NRF2	SH2-B	Gene_or_gene_product
+PMC3355962	194	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	194	uniprot:UNRESOLVED ID	IGFR kinase regulatory loop	Gene_or_gene_product
+PMC3355962	194	uniprot:P29401	TK	Gene_or_gene_product
+PMC3355962	195	uniprot:O14492	APS	Gene_or_gene_product
+PMC3355962	195	uniprot:Q9NRF2	SH2-B	Gene_or_gene_product
+PMC3355962	195	uniprot:Q13322	Grb10	Gene_or_gene_product
+PMC3355962	195	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	195	uniprot:UNRESOLVED ID	IGFR TKs	Gene_or_gene_product
+PMC3355962	195	uniprot:UNRESOLVED ID	Sturk	Gene_or_gene_product
+PMC3355962	196	N/A	Grb10	Gene_or_gene_product
+PMC3355962	196	uniprot:UNRESOLVED ID	mTORC1	Gene_or_gene_product
+PMC3355962	196	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	196	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	196	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	196	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	196	ncbitax:species:ncbi:37334	Yu	Species
+PMC3355962	197	uniprot:Q13322	Grb10	Gene_or_gene_product
+PMC3355962	197	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	197	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	197	uniprot:P29401	TK	Gene_or_gene_product
+PMC3355962	197	uniprot:P41252	IRS	Gene_or_gene_product
+PMC3355962	198	uniprot:Q13322	Grb10	Gene_or_gene_product
+PMC3355962	199	uniprot:Q13322	Grb10	Gene_or_gene_product
+PMC3355962	199	uniprot:P29401	TK	Gene_or_gene_product
+PMC3355962	200	uniprot:Q13322	Grb10	Gene_or_gene_product
+PMC3355962	200	uniprot:Q14449	Grb14	Gene_or_gene_product
+PMC3355962	200	uniprot:O15530	PDK1	Gene_or_gene_product
+PMC3355962	200	uniprot:P46934	NEDD4	Gene_or_gene_product
+PMC3355962	200	uniprot:Q8N5A5	ZIP	Gene_or_gene_product
+PMC3355962	200	uniprot:UNRESOLVED ID	PKCzeta	Gene_or_gene_product
+PMC3355962	200	uniprot:Q9VBP3	tankyrase	Gene_or_gene_product
+PMC3355962	201	uniprot:O15530	PDK1	Gene_or_gene_product
+PMC3355962	201	uniprot:Q13322	Grb10	Gene_or_gene_product
+PMC3355962	201	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	201	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	202	uniprot:Q14449	Grb14	Gene_or_gene_product
+PMC3355962	202	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	203	uniprot:O89094	mice	Species
+PMC3355962	203	uniprot:Q13322	Grb10	Gene_or_gene_product
+PMC3355962	203	uniprot:Q14449	Grb14	Gene_or_gene_product
+PMC3355962	203	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	204	uniprot:Q13322	Grb10-	Gene_or_gene_product
+PMC3355962	204	uniprot:Q14449	Grb14	Gene_or_gene_product
+PMC3355962	204	uniprot:O89094	mice	Species
+PMC3355962	204	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	205	ncbitax:species:ncbi:9606	humans	Species
+PMC3355962	205	uniprot:Q13322	Grb10	Gene_or_gene_product
+PMC3355962	206	uniprot:Q13322	Grb10	Gene_or_gene_product
+PMC3355962	206	uazid:UA-ORG-114	brain	Organ
+PMC3355962	208	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	208	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	208	uniprot:Q13322	Grb10	Gene_or_gene_product
+PMC3355962	209	uniprot:Q14449	Grb14	Gene_or_gene_product
+PMC3355962	209	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	210	uniprot:P63244	RACK1	Gene_or_gene_product
+PMC3355962	211	uniprot:P63244	RACK1	Gene_or_gene_product
+PMC3355962	211	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	212	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	213	uniprot:P63244	RACK1	Gene_or_gene_product
+PMC3355962	213	uniprot:UNRESOLVED ID	activated C-kinases	Gene_or_gene_product
+PMC3355962	213	uniprot:UNRESOLVED ID	G protein beta-subunits	Gene_or_gene_product
+PMC3355962	213	uniprot:Q04912	Ron	Gene_or_gene_product
+PMC3355962	214	uniprot:UNRESOLVED ID	IGFR-interacting protein	Gene_or_gene_product
+PMC3355962	214	ncbitax:species:ncbi:4932	yeast	Species
+PMC3355962	215	uniprot:P63244	RACK1	Gene_or_gene_product
+PMC3355962	215	uniprot:P29401	TK	Gene_or_gene_product
+PMC3355962	216	uniprot:P63244	RACK1	Gene_or_gene_product
+PMC3355962	216	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	216	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	217	uniprot:P63244	RACK1	Gene_or_gene_product
+PMC3355962	217	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	217	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	218	uniprot:P63244	RACK1	Gene_or_gene_product
+PMC3355962	219	uniprot:P63244	RACK1	Gene_or_gene_product
+PMC3355962	219	uniprot:P12931	Src	Gene_or_gene_product
+PMC3355962	219	uniprot:Q06124	SHP2	Gene_or_gene_product
+PMC3355962	219	uniprot:O43439	p85	Gene_or_gene_product
+PMC3355962	219	ncbitax:species:ncbi:10090	mouse	Species
+PMC3355962	219	uniprot:UNRESOLVED ID	fibroblasts	CellType
+PMC3355962	219	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	220	uniprot:P05019	IGF-1	Gene_or_gene_product
+PMC3355962	220	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	220	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC3355962	220	uniprot:P63244	RACK1	Gene_or_gene_product
+PMC3355962	220	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	220	uniprot:P12931	Src	Gene_or_gene_product
+PMC3355962	220	uniprot:Q06124	SHP2	Gene_or_gene_product
+PMC3355962	221	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	221	uniprot:P63244	RACK1	Gene_or_gene_product
+PMC3355962	221	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	222	uniprot:P63244	RACK1	Gene_or_gene_product
+PMC3355962	222	uniprot:Q9XZE5	PP2A	Gene_or_gene_product
+PMC3355962	222	uniprot:UNRESOLVED ID	serum	CellType
+PMC3355962	222	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC3355962	223	uniprot:P63244	RACK1	Gene_or_gene_product
+PMC3355962	223	uniprot:Q9XZE5	PP2A	Gene_or_gene_product
+PMC3355962	223	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC3355962	224	uniprot:P63244	RACK1	Gene_or_gene_product
+PMC3355962	224	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC3355962	224	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	225	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC3355962	225	uniprot:UNRESOLVED ID	integrins	Gene_or_gene_product
+PMC3355962	225	uniprot:P05019	IGF-1	Gene_or_gene_product
+PMC3355962	225	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	226	uniprot:P63244	RACK1	Gene_or_gene_product
+PMC3355962	226	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	226	uniprot:P13678	PKC	Gene_or_gene_product
+PMC3355962	226	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC3355962	226	uniprot:P05019	IGF-1	Gene_or_gene_product
+PMC3355962	226	uniprot:UNRESOLVED ID	fibroblasts	CellType
+PMC3355962	227	uniprot:P63244	RACK1	Gene_or_gene_product
+PMC3355962	227	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC3355962	227	uniprot:P41252	IRS	Gene_or_gene_product
+PMC3355962	227	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	227	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	227	uniprot:P12872	MAP	Gene_or_gene_product
+PMC3355962	228	uniprot:P63244	RACK1	Gene_or_gene_product
+PMC3355962	228	uniprot:P40763	STAT3	Gene_or_gene_product
+PMC3355962	228	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	229	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC3355962	229	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	229	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	229	uniprot:P35568	IRS-1	Gene_or_gene_product
+PMC3355962	229	uniprot:UNRESOLVED ID	beta1A	Gene_or_gene_product
+PMC3355962	229	uniprot:Q13480	Gab-1	Gene_or_gene_product
+PMC3355962	229	uniprot:Q06124	SHP2	Gene_or_gene_product
+PMC3355962	229	uniprot:UNRESOLVED ID	beta1C	Gene_or_gene_product
+PMC3355962	230	uazid:UA-ORG-759	prostate	Organ
+PMC3355962	230	uniprot:UNRESOLVED ID	beta1A	Gene_or_gene_product
+PMC3355962	230	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	231	uniprot:UNRESOLVED ID	beta1C IGFR	Gene_or_gene_product
+PMC3355962	232	uniprot:P63244	RACK1	Gene_or_gene_product
+PMC3355962	232	uniprot:P05019	IGF-1	Gene_or_gene_product
+PMC3355962	233	uniprot:UNRESOLVED ID	cardiomyocyte	CellType
+PMC3355962	233	uniprot:P05019	IGF-1	Gene_or_gene_product
+PMC3355962	233	uniprot:P12931	Src	Gene_or_gene_product
+PMC3355962	233	uniprot:P17252	PKCalpha	Gene_or_gene_product
+PMC3355962	233	uniprot:P63244	RACK1	Gene_or_gene_product
+PMC3355962	233	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	234	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	234	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC3355962	235	uniprot:F1Q4R9	CHO	CellType
+PMC3355962	235	uazid:UA-ORG-888	smooth muscle	Organ
+PMC3355962	235	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	235	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	235	uniprot:Q08722	integrin-associated protein	Gene_or_gene_product
+PMC3355962	235	uniprot:P78324	SHPS-1	Gene_or_gene_product
+PMC3355962	236	uniprot:Q06124	SHP2	Gene_or_gene_product
+PMC3355962	236	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	237	uniprot:P78324	SHPS-1	Gene_or_gene_product
+PMC3355962	237	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	237	uniprot:Q06124	SHP2	Gene_or_gene_product
+PMC3355962	237	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	238	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	239	uniprot:UNRESOLVED ID	beta-Arrestins	Gene_or_gene_product
+PMC3355962	240	uniprot:UNRESOLVED ID	beta-Arrestins	Gene_or_gene_product
+PMC3355962	240	uniprot:UNRESOLVED ID	GPCRs	Gene_or_gene_product
+PMC3355962	240	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	240	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	240	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	240	uniprot:UNRESOLVED ID	RTKs	Gene_or_gene_product
+PMC3355962	241	uniprot:UNRESOLVED ID	beta-arrestins	Gene_or_gene_product
+PMC3355962	241	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	241	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	242	uniprot:UNRESOLVED ID	beta-arrestins	Gene_or_gene_product
+PMC3355962	242	uniprot:UNRESOLVED ID	clathrin	Gene_or_gene_product
+PMC3355962	242	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	242	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	242	uniprot:P49407	beta-arrestin1	Gene_or_gene_product
+PMC3355962	242	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	242	uniprot:P29401	TK	Gene_or_gene_product
+PMC3355962	243	uniprot:P32121	beta-arrestin2	Gene_or_gene_product
+PMC3355962	243	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	243	uniprot:UNRESOLVED ID	scaffolding Akt	Gene_or_gene_product
+PMC3355962	243	uniprot:P12931	Src	Gene_or_gene_product
+PMC3355962	243	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	243	uniprot:O89094	mice	Species
+PMC3355962	243	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	244	uniprot:UNRESOLVED ID	G proteins	Gene_or_gene_product
+PMC3355962	244	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	244	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	244	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	244	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	245	uniprot:P50148	Gaq	Gene_or_gene_product
+PMC3355962	245	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	245	uniprot:P14672	GLUT4	Gene_or_gene_product
+PMC3355962	245	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	245	uniprot:Q77NN4	Gi	Gene_or_gene_product
+PMC3355962	245	uniprot:P49407	beta-arrestin1	Gene_or_gene_product
+PMC3355962	245	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	246	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	248	uniprot:UNRESOLVED ID	Cytohesins	Gene_or_gene_product
+PMC3355962	248	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	248	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	248	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	248	uniprot:B4JSC2	FOXO	Gene_or_gene_product
+PMC3355962	249	uniprot:UNRESOLVED ID	Cytohesin	Gene_or_gene_product
+PMC3355962	249	uniprot:B4JSC2	FOXO	Gene_or_gene_product
+PMC3355962	249	uazid:UA-ORG-520	liver	Organ
+PMC3355962	249	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	250	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	250	uniprot:P41252	IRS	Gene_or_gene_product
+PMC3355962	251	uniprot:UNRESOLVED ID	Cytohesins	Gene_or_gene_product
+PMC3355962	251	uniprot:Q9H4B4	CNK	Gene_or_gene_product
+PMC3355962	251	uniprot:P01298	PH	Gene_or_gene_product
+PMC3355962	251	uniprot:P04049	Raf	Gene_or_gene_product
+PMC3355962	252	uniprot:Q969H4	CNK1	Gene_or_gene_product
+PMC3355962	252	uniprot:UNRESOLVED ID	cytohesin	Gene_or_gene_product
+PMC3355962	252	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	252	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	252	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	252	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	252	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	252	uniprot:UNRESOLVED ID	PtdIns 4-phosphate 5-kinases	Gene_or_gene_product
+PMC3355962	252	uniprot:UNRESOLVED ID	PIP5Ks	Gene_or_gene_product
+PMC3355962	252	uniprot:UNRESOLVED ID	PI3K substrate PtdIns	Gene_or_gene_product
+PMC3355962	253	uniprot:P06213	IR-	Gene_or_gene_product
+PMC3355962	253	uniprot:UNRESOLVED ID	IGFR-specific interactors	Gene_or_gene_product
+PMC3355962	254	uniprot:UNRESOLVED ID	RTKs	Gene_or_gene_product
+PMC3355962	255	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	255	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	255	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	255	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	255	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	256	uniprot:O43439	p85	Gene_or_gene_product
+PMC3355962	256	uniprot:Q06124	SHP2	Gene_or_gene_product
+PMC3355962	256	uniprot:UNRESOLVED ID	tail	CellType
+PMC3355962	256	uniprot:P20936	RasGAP	Gene_or_gene_product
+PMC3355962	256	uniprot:P20936	GTPase activating protein	Gene_or_gene_product
+PMC3355962	257	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	257	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	258	uniprot:O43439	p85	Gene_or_gene_product
+PMC3355962	258	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	258	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	258	uniprot:P14907	p110	Gene_or_gene_product
+PMC3355962	259	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	259	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	260	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	260	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC3355962	260	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	260	uniprot:UNRESOLVED ID	Src family kinases	Gene_or_gene_product
+PMC3355962	260	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC3355962	260	uniprot:UNRESOLVED ID	Grb7/10/14	Gene_or_gene_product
+PMC3355962	260	uniprot:Q9NRF2	SH2-B	Gene_or_gene_product
+PMC3355962	260	uniprot:UNRESOLVED ID	JAKs	Gene_or_gene_product
+PMC3355962	260	uniprot:UNRESOLVED ID	STATs	Gene_or_gene_product
+PMC3355962	260	uniprot:P46108	Crk	Gene_or_gene_product
+PMC3355962	260	uniprot:P22681	Cbl	Gene_or_gene_product
+PMC3355962	261	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	261	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	261	uniprot:Q06124	SHP2	Gene_or_gene_product
+PMC3355962	262	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	262	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	263	uniprot:UNRESOLVED ID	PDZ protein IIP-1	Gene_or_gene_product
+PMC3355962	263	uniprot:O14908	GIPC	Gene_or_gene_product
+PMC3355962	263	uniprot:UNRESOLVED ID	tail	CellType
+PMC3355962	263	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	263	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	263	uniprot:Q77NN4	Gi	Gene_or_gene_product
+PMC3355962	263	uniprot:P08922	ROS	Gene_or_gene_product
+PMC3355962	264	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	264	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	265	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	265	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	265	uniprot:UNRESOLVED ID	RTKs	Gene_or_gene_product
+PMC3355962	265	uniprot:UNRESOLVED ID	redox	Gene_or_gene_product
+PMC3355962	266	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	266	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	268	uniprot:UNRESOLVED ID	STATs	Gene_or_gene_product
+PMC3355962	269	uniprot:P23458	JAK1	Gene_or_gene_product
+PMC3355962	269	uniprot:O60674	JAK2	Gene_or_gene_product
+PMC3355962	269	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	269	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	270	uniprot:UNRESOLVED ID	JAKs	Gene_or_gene_product
+PMC3355962	270	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	270	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	270	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC3355962	271	uniprot:UNRESOLVED ID	JAKs	Gene_or_gene_product
+PMC3355962	271	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	271	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	271	uniprot:UNRESOLVED ID	STATs	Gene_or_gene_product
+PMC3355962	271	uniprot:P51692	STAT5B	Gene_or_gene_product
+PMC3355962	271	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	271	uniprot:UNRESOLVED ID	IGFR TKs	Gene_or_gene_product
+PMC3355962	272	uniprot:UNRESOLVED ID	JAKs	Gene_or_gene_product
+PMC3355962	272	uniprot:P35568	IRS-1	Gene_or_gene_product
+PMC3355962	272	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	272	uniprot:UNRESOLVED ID	IGFR TKs	Gene_or_gene_product
+PMC3355962	272	uniprot:P26205	Li	Species
+PMC3355962	273	uniprot:UNRESOLVED ID	JAK	Gene_or_gene_product
+PMC3355962	273	uniprot:P35610	STAT	Gene_or_gene_product
+PMC3355962	273	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	273	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	274	uniprot:Q9NSE2	SOCS	Gene_or_gene_product
+PMC3355962	274	uniprot:UNRESOLVED ID	JAK	Gene_or_gene_product
+PMC3355962	274	uniprot:P35610	STAT	Gene_or_gene_product
+PMC3355962	274	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	274	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	274	uniprot:P41252	IRS	Gene_or_gene_product
+PMC3355962	274	uniprot:Q15025	Van	Gene_or_gene_product
+PMC3355962	274	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	274	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	275	uniprot:UNRESOLVED ID	Src family kinases	Gene_or_gene_product
+PMC3355962	275	uniprot:P12931	Src	Gene_or_gene_product
+PMC3355962	275	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC3355962	276	uniprot:UNRESOLVED ID	Src family kinases	Gene_or_gene_product
+PMC3355962	276	uniprot:P05019	IGF-1	Gene_or_gene_product
+PMC3355962	276	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	276	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	277	uniprot:UNRESOLVED ID	Src family kinases	Gene_or_gene_product
+PMC3355962	277	uniprot:UNRESOLVED ID	RTKs	Gene_or_gene_product
+PMC3355962	278	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	278	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	278	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC3355962	278	uniprot:P35568	IRS-1	Gene_or_gene_product
+PMC3355962	279	uniprot:Q06124	SHP2	Gene_or_gene_product
+PMC3355962	279	uniprot:P78324	SHPS-1	Gene_or_gene_product
+PMC3355962	279	uniprot:P12931	Src	Gene_or_gene_product
+PMC3355962	279	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	280	uniprot:UNRESOLVED ID	Src family kinases	Gene_or_gene_product
+PMC3355962	280	uniprot:UNRESOLVED ID	RTKs	Gene_or_gene_product
+PMC3355962	281	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	281	uniprot:P05019	IGF-1	Gene_or_gene_product
+PMC3355962	281	uniprot:UNRESOLVED ID	c-Abl	Gene_or_gene_product
+PMC3355962	281	uniprot:P29401	TK	Gene_or_gene_product
+PMC3355962	282	uniprot:UNRESOLVED ID	c-Abl	Gene_or_gene_product
+PMC3355962	282	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	282	uniprot:P05019	IGF-1	Gene_or_gene_product
+PMC3355962	282	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	282	uniprot:Q388M1	GSK3	Gene_or_gene_product
+PMC3355962	282	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	283	uniprot:UNRESOLVED ID	c-Abl	Gene_or_gene_product
+PMC3355962	283	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC3355962	284	uazid:UA-ORG-116	breast	Organ
+PMC3355962	284	uniprot:UNRESOLVED ID	c-Abl	Gene_or_gene_product
+PMC3355962	284	uniprot:P05019	IGF-1	Gene_or_gene_product
+PMC3355962	284	uniprot:P40763	STAT3	Gene_or_gene_product
+PMC3355962	285	uniprot:UNRESOLVED ID	c-Abl	Gene_or_gene_product
+PMC3355962	285	uniprot:UNRESOLVED ID	Src family kinases	Gene_or_gene_product
+PMC3355962	286	uniprot:UNRESOLVED ID	c-Abl	Gene_or_gene_product
+PMC3355962	286	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	286	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	287	uniprot:UNRESOLVED ID	Redox	Gene_or_gene_product
+PMC3355962	287	uniprot:Q03393	PTPs	Gene_or_gene_product
+PMC3355962	287	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3355962	288	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	288	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	289	uniprot:P18031	PTP1B	Gene_or_gene_product
+PMC3355962	289	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	289	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	289	uniprot:UNRESOLVED ID	IRSs	Gene_or_gene_product
+PMC3355962	289	uniprot:Q06124	SHP2	Gene_or_gene_product
+PMC3355962	290	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3355962	290	uniprot:O15357	SHIP2	Gene_or_gene_product
+PMC3355962	290	uniprot:P09131	P3	Gene_or_gene_product
+PMC3355962	291	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	291	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	292	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	292	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	292	uniprot:UNRESOLVED ID	RTKs	Gene_or_gene_product
+PMC3355962	292	uniprot:P18031	PTP1B	Gene_or_gene_product
+PMC3355962	292	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3355962	292	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	294	ncbitax:species:ncbi:10090	mouse	Species
+PMC3355962	294	uniprot:P08922	ROS	Gene_or_gene_product
+PMC3355962	294	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	295	uniprot:Q9NPH5	Nox4	Gene_or_gene_product
+PMC3355962	295	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	295	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	295	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	296	uniprot:O14908	GIPC	Gene_or_gene_product
+PMC3355962	296	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	296	uniprot:P08922	ROS	Gene_or_gene_product
+PMC3355962	297	uniprot:O14908	GIPC	Gene_or_gene_product
+PMC3355962	297	uniprot:UNRESOLVED ID	tail	CellType
+PMC3355962	297	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	297	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	297	uniprot:P08922	ROS	Gene_or_gene_product
+PMC3355962	298	uniprot:P08922	ROS	Gene_or_gene_product
+PMC3355962	298	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	298	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	299	uniprot:UNRESOLVED ID	PtdIns	Gene_or_gene_product
+PMC3355962	299	uniprot:P09131	P3	Gene_or_gene_product
+PMC3355962	299	uniprot:Q9Y2I7	PIKfyve	Gene_or_gene_product
+PMC3355962	300	uniprot:UNRESOLVED ID	class II PI3Ks	Gene_or_gene_product
+PMC3355962	300	uniprot:UNRESOLVED ID	PtdIns 3-P	Gene_or_gene_product
+PMC3355962	300	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	301	uniprot:O00443	PI3K-C2alpha	Gene_or_gene_product
+PMC3355962	301	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	301	uniprot:UNRESOLVED ID	small GTPase TC-10	Gene_or_gene_product
+PMC3355962	301	uniprot:B0YJ81	CAP	CellType
+PMC3355962	301	uniprot:P22681	Cbl	Gene_or_gene_product
+PMC3355962	302	uniprot:Q9Y2I7	PIKfyve	Gene_or_gene_product
+PMC3355962	302	uniprot:UNRESOLVED ID	PtdIns 3-P	Gene_or_gene_product
+PMC3355962	303	uniprot:Q9Y2I7	PIKfyve	Gene_or_gene_product
+PMC3355962	303	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	303	uniprot:P14672	GLUT4	Gene_or_gene_product
+PMC3355962	304	uniprot:Q9Y2I7	PIKfyve	Gene_or_gene_product
+PMC3355962	304	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	305	uniprot:UNRESOLVED ID	class II PI3K	Gene_or_gene_product
+PMC3355962	305	uniprot:Q9Y2I7	PIKfyve	Gene_or_gene_product
+PMC3355962	305	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	305	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	306	uniprot:UNRESOLVED ID	Receptor	Gene_or_gene_product
+PMC3355962	307	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	307	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	307	uniprot:UNRESOLVED ID	clathrin	Gene_or_gene_product
+PMC3355962	309	uniprot:P02730	Di	Gene_or_gene_product
+PMC3355962	311	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	311	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	312	uniprot:UNRESOLVED ID	IR-A	Gene_or_gene_product
+PMC3355962	312	uniprot:UNRESOLVED ID	IR-B	Gene_or_gene_product
+PMC3355962	312	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	313	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	313	uniprot:UNRESOLVED ID	NPxY	Gene_or_gene_product
+PMC3355962	313	uniprot:UNRESOLVED ID	LL motifs	Gene_or_gene_product
+PMC3355962	314	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	314	uniprot:P35568	IRS-1	Gene_or_gene_product
+PMC3355962	314	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	314	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	314	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	314	uniprot:P02730	Di	Gene_or_gene_product
+PMC3355962	315	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	315	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	315	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	315	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	316	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	316	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	317	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	317	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	318	uniprot:UNRESOLVED ID	fibroblasts	CellType
+PMC3355962	318	uniprot:P05019	IGF-1	Gene_or_gene_product
+PMC3355962	318	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	319	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	320	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	320	uniprot:P05019	IGF-1	Gene_or_gene_product
+PMC3355962	321	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	321	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	321	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	322	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	322	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	323	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	323	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	323	uniprot:UNRESOLVED ID	nuclear IGFR	Gene_or_gene_product
+PMC3355962	325	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	327	uniprot:UNRESOLVED ID	ubiquitin chains	Gene_or_gene_product
+PMC3355962	328	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	328	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	329	uniprot:Q13322	Grb10	Gene_or_gene_product
+PMC3355962	329	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	329	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	329	uniprot:P0CG47	ubiquitin	Gene_or_gene_product
+PMC3355962	329	uniprot:P46934	Nedd4	Gene_or_gene_product
+PMC3355962	329	uniprot:UNRESOLVED ID	Ramos	Gene_or_gene_product
+PMC3355962	330	uniprot:P29401	TK	Gene_or_gene_product
+PMC3355962	330	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	330	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	330	uniprot:Q13322	Grb10	Gene_or_gene_product
+PMC3355962	331	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	331	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	331	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	331	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	331	uniprot:O89094	mice	Species
+PMC3355962	331	uniprot:P46934	Nedd4	Gene_or_gene_product
+PMC3355962	332	uniprot:P46934	Nedd4	Gene_or_gene_product
+PMC3355962	332	uniprot:Q13322	Grb10	Gene_or_gene_product
+PMC3355962	333	uniprot:P0CG47	ubiquitin	Gene_or_gene_product
+PMC3355962	333	uniprot:P22681	Cbl	Gene_or_gene_product
+PMC3355962	333	uniprot:P29401	TK	Gene_or_gene_product
+PMC3355962	333	uniprot:O14492	APS	Gene_or_gene_product
+PMC3355962	333	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	333	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	334	uniprot:P0CG47	ubiquitin	Gene_or_gene_product
+PMC3355962	334	uniprot:Q00987	Mdm2	Gene_or_gene_product
+PMC3355962	334	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	334	uniprot:UNRESOLVED ID	beta-arrestin	Gene_or_gene_product
+PMC3355962	335	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	335	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	335	ncbitax:species:ncbi:8164	Suzuki	Species
+PMC3355962	336	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	336	uniprot:P14672	GLUT4	Gene_or_gene_product
+PMC3355962	336	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	337	uniprot:P01308	Insulin	Gene_or_gene_product
+PMC3355962	337	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	338	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	338	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	340	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	340	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	341	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	341	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	341	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	341	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	341	uniprot:UNRESOLVED ID	PKCs	Gene_or_gene_product
+PMC3355962	342	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	342	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	343	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	344	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	344	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	345	uniprot:P35568	IRS-1	Gene_or_gene_product
+PMC3355962	345	uniprot:B1JJH6	Sun	Gene_or_gene_product
+PMC3355962	345	uniprot:UNRESOLVED ID	Liu	Gene_or_gene_product
+PMC3355962	346	uniprot:P35568	IRS-1	Gene_or_gene_product
+PMC3355962	346	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	346	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	346	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3355962	346	uniprot:Q388M1	GSK3	Gene_or_gene_product
+PMC3355962	346	uniprot:P23443	S6K1	Gene_or_gene_product
+PMC3355962	346	uniprot:P54646	AMPK	Gene_or_gene_product
+PMC3355962	346	uniprot:UNRESOLVED ID	PKCs	Gene_or_gene_product
+PMC3355962	346	uniprot:Q966Y3	Jnk	Gene_or_gene_product
+PMC3355962	346	uniprot:O14920	IKKbeta	Gene_or_gene_product
+PMC3355962	347	uniprot:P35568	IRS-1	Gene_or_gene_product
+PMC3355962	349	uniprot:Q9Y4H2	IRS-2	Gene_or_gene_product
+PMC3355962	350	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	350	uniprot:P41252	IRS	Gene_or_gene_product
+PMC3355962	350	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	350	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	350	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	350	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	351	uniprot:P41252	IRS	Gene_or_gene_product
+PMC3355962	351	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	351	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	351	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	352	uniprot:P41252	IRS	Gene_or_gene_product
+PMC3355962	352	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	352	uniprot:B1JJH6	Sun	Gene_or_gene_product
+PMC3355962	352	uniprot:UNRESOLVED ID	Liu	Gene_or_gene_product
+PMC3355962	353	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	353	uniprot:P26205	Li	Species
+PMC3355962	353	uniprot:Q92686	Ng	Gene_or_gene_product
+PMC3355962	354	uniprot:P42345	mTOR	Gene_or_gene_product
+PMC3355962	354	uniprot:Q13322	Grb10	Gene_or_gene_product
+PMC3355962	354	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	354	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	354	ncbitax:species:ncbi:37334	Yu	Species
+PMC3355962	358	uniprot:UNRESOLVED ID	O-GlcNAc moiety	Gene_or_gene_product
+PMC3355962	358	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	359	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	359	uniprot:UNRESOLVED ID	O-GlcNAc transferase	Gene_or_gene_product
+PMC3355962	359	uniprot:O15294	OGT	Gene_or_gene_product
+PMC3355962	359	uniprot:P09131	P3	Gene_or_gene_product
+PMC3355962	359	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	360	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	360	uniprot:UNRESOLVED ID	IRbeta	Gene_or_gene_product
+PMC3355962	360	uniprot:P35568	IRS-1	Gene_or_gene_product
+PMC3355962	360	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	360	uniprot:O18158	O-GlcNAc	Gene_or_gene_product
+PMC3355962	361	uniprot:P35568	IRS-1	Gene_or_gene_product
+PMC3355962	361	uniprot:O18158	O-GlcNac	Gene_or_gene_product
+PMC3355962	361	uniprot:UNRESOLVED ID	PI3K binding motif	Gene_or_gene_product
+PMC3355962	362	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	363	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	363	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	364	uniprot:Q9NSE2	SOCS	Gene_or_gene_product
+PMC3355962	364	uniprot:Q15025	Van	Gene_or_gene_product
+PMC3355962	364	uniprot:UNRESOLVED ID	PKCs	Gene_or_gene_product
+PMC3355962	365	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	365	uazid:UA-ORG-77	balance	Organ
+PMC3355962	366	uniprot:O43439	p85	Gene_or_gene_product
+PMC3355962	366	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	366	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC3355962	367	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	368	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	369	uniprot:P13688	CEACAM-1	Gene_or_gene_product
+PMC3355962	369	uniprot:UNRESOLVED ID	C-CAM	Gene_or_gene_product
+PMC3355962	369	uniprot:Q9D646	HA4	Gene_or_gene_product
+PMC3355962	369	uniprot:Q00839	pp120	Gene_or_gene_product
+PMC3355962	369	uniprot:P16573	ecto-ATPase	Gene_or_gene_product
+PMC3355962	369	uazid:UA-ORG-520	liver	Organ
+PMC3355962	369	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	369	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	370	uazid:UA-ORG-725	Plasma	Organ
+PMC3355962	370	uniprot:P22413	PC-1	Gene_or_gene_product
+PMC3355962	370	uniprot:P22413	ENPP1	Gene_or_gene_product
+PMC3355962	370	uniprot:UNRESOLVED ID	phosphodiesterase	Gene_or_gene_product
+PMC3355962	370	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	370	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	370	uniprot:P29401	TK	Gene_or_gene_product
+PMC3355962	371	uniprot:P22413	PC-1	Gene_or_gene_product
+PMC3355962	371	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	372	uniprot:P13688	CEACAM-1	Gene_or_gene_product
+PMC3355962	372	uniprot:P22413	PC-1	Gene_or_gene_product
+PMC3355962	372	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	373	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	373	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	373	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	374	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	374	uniprot:UNRESOLVED ID	IGFs	Gene_or_gene_product
+PMC3355962	375	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	375	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	376	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	376	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	377	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	377	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	378	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	378	uniprot:P05019	IGF-1	Gene_or_gene_product
+PMC3355962	378	uniprot:UNRESOLVED ID	adipocytes	CellType
+PMC3355962	378	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	378	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	379	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	379	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	380	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	380	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	380	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	380	uniprot:UNRESOLVED ID	IRSs	Gene_or_gene_product
+PMC3355962	380	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	380	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	381	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	381	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	381	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC3355962	382	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	382	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	385	uniprot:UNRESOLVED ID	APS/CAP/Cbl	Gene_or_gene_product
+PMC3355962	385	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	385	uniprot:UNRESOLVED ID	adipocytes	CellType
+PMC3355962	385	uniprot:P63244	RACK1	Gene_or_gene_product
+PMC3355962	385	uniprot:UNRESOLVED ID	fibroblasts	CellType
+PMC3355962	386	uniprot:O14492	APS	Gene_or_gene_product
+PMC3355962	386	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	386	uniprot:P63244	RACK1	Gene_or_gene_product
+PMC3355962	386	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	387	uniprot:UNRESOLVED ID	IIP-1	Gene_or_gene_product
+PMC3355962	387	uniprot:O14908	GIPC	Gene_or_gene_product
+PMC3355962	387	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	387	uniprot:UNRESOLVED ID	IGFs	Gene_or_gene_product
+PMC3355962	389	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	389	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	390	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	390	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	391	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	391	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3355962	391	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	391	uniprot:P29401	TK	Gene_or_gene_product
+PMC3355962	391	uniprot:P26599	PTB	Gene_or_gene_product
+PMC3355962	391	uniprot:P01298	PH	Gene_or_gene_product
+PMC3355962	391	uniprot:P08567	pleckstrin	Gene_or_gene_product
+PMC3355962	391	uniprot:P55241	SH2	Gene_or_gene_product
+PMC3355962	391	uniprot:P12931	Src	Gene_or_gene_product
+PMC3355962	392	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	392	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	393	uniprot:UNRESOLVED ID	IRSs	Gene_or_gene_product
+PMC3355962	393	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	394	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	394	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	394	uniprot:P35568	IRS-1	Gene_or_gene_product
+PMC3355962	394	uniprot:Q9Y4H2	IRS-2	Gene_or_gene_product
+PMC3355962	394	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3355962	395	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	395	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	396	uniprot:P63244	RACK1	Gene_or_gene_product
+PMC3355962	396	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	396	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	396	uniprot:UNRESOLVED ID	Gabs	Gene_or_gene_product
+PMC3355962	396	uniprot:UNRESOLVED ID	DOKs	Gene_or_gene_product
+PMC3355962	396	uniprot:UNRESOLVED ID	SH2Bs	Gene_or_gene_product
+PMC3355962	396	uniprot:UNRESOLVED ID	Grbs	Gene_or_gene_product
+PMC3355962	397	uniprot:UNRESOLVED ID	JAK	Gene_or_gene_product
+PMC3355962	397	uniprot:P12931	Src	Gene_or_gene_product
+PMC3355962	397	uniprot:P00519	Abl	Gene_or_gene_product
+PMC3355962	397	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	397	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	398	uniprot:UNRESOLVED ID	beta-arrestins	Gene_or_gene_product
+PMC3355962	398	uniprot:UNRESOLVED ID	cytohesins	Gene_or_gene_product
+PMC3355962	399	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	399	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	399	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	399	uniprot:UNRESOLVED ID	IGFs	Gene_or_gene_product
+PMC3355962	400	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	400	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	400	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	405	uniprot:UNRESOLVED ID	BBSRC	Gene_or_gene_product
+PMC3355962	407	uniprot:O14492	APS	Gene_or_gene_product
+PMC3355962	407	uniprot:P01298	PH	Gene_or_gene_product
+PMC3355962	407	uniprot:B0YJ81	CAP	CellType
+PMC3355962	407	uniprot:P22681	Cbl	Gene_or_gene_product
+PMC3355962	407	uniprot:UNRESOLVED ID	lymphoma	CellType
+PMC3355962	407	uniprot:UNRESOLVED ID	kinase	Gene_or_gene_product
+PMC3355962	407	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3355962	407	uniprot:UNRESOLVED ID	extracellular signal-regulated kinase	Gene_or_gene_product
+PMC3355962	407	uniprot:P76621	Gab	Gene_or_gene_product
+PMC3355962	407	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC3355962	407	uniprot:P22618	IGF	Gene_or_gene_product
+PMC3355962	407	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
+PMC3355962	407	uniprot:UNRESOLVED ID	insulin-like growth factor receptor	Gene_or_gene_product
+PMC3355962	407	uniprot:P06213	IR	Gene_or_gene_product
+PMC3355962	407	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3355962	407	uniprot:P06213	insulin receptor	Gene_or_gene_product
+PMC3355962	407	uniprot:P41252	IRS	Gene_or_gene_product
+PMC3355962	407	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
+PMC3355962	407	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC3355962	407	uniprot:P08567	pleckstrin	Gene_or_gene_product
+PMC3355962	407	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3355962	407	uniprot:UNRESOLVED ID	phosphoinositide 3-kinase	Gene_or_gene_product
+PMC3355962	407	uniprot:P26599	PTB	Gene_or_gene_product
+PMC3355962	407	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC3355962	407	uniprot:P55241	SH2	Gene_or_gene_product
+PMC3355962	407	uniprot:UNRESOLVED ID	Src-homology-2	Gene_or_gene_product

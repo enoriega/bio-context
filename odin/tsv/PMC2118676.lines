@@ -1,0 +1,254 @@
+Paper ID	Is title?	Section ID	Passage ID	Line Num	Text
+PMC2118676	true	article-title	0	0	The SCFFBW7 ubiquitin ligase complex as a tumor suppressor in T cell leukemia
+PMC2118676	false	abstract	1	1	Recent studies have shown that activating mutations of NOTCH1 are responsible for the majority of T cell acute lymphoblastic leukemia ( T-ALL ) cases .
+PMC2118676	false	abstract	1	2	Most of these mutations truncate its C-terminal domain , a region that is important for the NOTCH1 proteasome mediated degradation .
+PMC2118676	false	abstract	1	3	We report that the E3 ligase FBW7 targets NOTCH1 for ubiquitination and degradation .
+PMC2118676	false	abstract	1	4	Our studies map in detail the amino acid degron sequence required for NOTCH1-FBW7 interaction .
+PMC2118676	false	abstract	1	5	Furthermore , we identify inactivating FBW7 mutations in a large fraction of human T-ALL lines and primary leukemias .
+PMC2118676	false	abstract	1	6	These mutations abrogate the binding of FBW7 not only to NOTCH1 but also to the two other characterized targets , c-Myc and cyclin E .
+PMC2118676	false	abstract	1	7	The majority of the FBW7 mutations were present during relapse , and they were associated with NOTCH1 HD mutations .
+PMC2118676	false	abstract	1	8	Interestingly , most of the T-ALL lines harboring FBW7 mutations were resistant to gamma-secretase inhibitor treatment and this resistance appeared to be related to the stabilization of the c-Myc protein .
+PMC2118676	false	abstract	1	9	Our data suggest that FBW7 is a novel tumor suppressor in T cell leukemia , and implicate the loss of FBW7 function as a potential mechanism of drug resistance in T-ALL .
+PMC2118676	true	sec-2	2	10	Physical and functional interaction between FBW7 and oncogenic NOTCH1 mutants
+PMC2118676	false	sec-2	3	11	schematically displays the NOTCH1 and N1-IC proteins and maps the potential sites of the FBW7 interactions discussed in our article .
+PMC2118676	false	sec-2	3	12	To confirm that NOTCH1 and FBW7 physically interact , we performed coimmunoprecipitation studies using a dominant negative ( DN ) FBW7 that contains the substrate recognizing WD40 repeats of FBW7 , but lacks the F-box domain that recruits ubiquitination machinery           .
+PMC2118676	false	sec-2	3	13	As shown in                 , we detected both N1-IC and DN FBW7 in the same precipitated immunocomplex .
+PMC2118676	false	sec-2	3	14	Importantly , this interaction required an intact PEST domain , as two different N1 IC mutants lacking the C-terminal 162 or 82 amino acids ( N1-ICDelta162 and N1-ICDelta82 , respectively ) failed to coimmunoprecipitate with DN FBW7           .
+PMC2118676	false	fig-1	4	15	Physical and functional association between FBW7 and NOTCH1 .
+PMC2118676	false	fig-1	4	16	( A ) Schematic depiction of the NOTCH1 ( N1 ) protein domains , and N1-IC WT ( N1-ICWT ) and 82 and 162 DeltaPEST mutants ( N1-ICDelta82 and N1-ICDelta162 ) .
+PMC2118676	false	fig-1	4	17	Asterisk denotes L1601P mutation .
+PMC2118676	false	fig-1	4	18	The FBW7 degron is highlighted in gray .
+PMC2118676	false	fig-1	4	19	LNR , LIN-Notch repeat domain ; RAM , RBJ-kappa-associated module ; TAD , transcriptional activation domain ; PEST , P-E-S-T-rich domain ; HD , heterodimerization domain .
+PMC2118676	false	fig-1	4	20	( B and C ) Coimmunoprecipitation experiments using anti-Flag beads or anti-HA beads , showing interaction between DN FBW7 and N1-ICWT , but DN FBW7 ( D ) does not interact with N1-ICDelta82 and N1-ICDelta162 .
+PMC2118676	false	fig-1	4	21	( E ) Cotransfection with FBW7alpha repressed N1L1601P ( P < 0.02 ) , but not N1L1601P-Delta82 , in reporter assays using a CSL luciferase reporter .
+PMC2118676	false	fig-1	4	22	pCDNA3 .1 represents the control , " empty " expression vector .
+PMC2118676	false	fig-1	4	23	Error bars represent the SD of duplicate wells .
+PMC2118676	false	sec-2	5	24	We then assessed the functionality of this interaction by monitoring the ability of FBW7 ( alpha isoform ) to reduce the activation of a NOTCH1 ( RBP-J and CSL ) - dependent luciferase reporter .
+PMC2118676	false	sec-2	5	25	To induce NOTCH1 activation , we generated a full-length NOTCH1 construct that contains a leucine-to-proline substitution in the heterodimerization ( HD ) domain ( N1L1601P ) .
+PMC2118676	false	sec-2	5	26	We and others have previously shown that this mutation found in T-ALL patients     can induce NOTCH1 activity     .
+PMC2118676	false	sec-2	5	27	As evident from         , FBW7alpha significantly ( P < 0.02 ) blocked the activation induced by N1L1601P .
+PMC2118676	false	sec-2	5	28	Similar results were obtained using N1-IC ( unpublished data ) .
+PMC2118676	false	sec-2	5	29	Cotransfection of DN FBW7 enhanced NOTCH1 activation            and could antagonize the effect of the full-length FBW7alpha ( not depicted ) .
+PMC2118676	false	sec-2	5	30	On the other hand , an L1601P mutant that also lacked the C-terminal 82 amino acids of the PEST domain ( N1L1601P-Delta82 ) was unaffected by FBW7alpha .
+PMC2118676	false	sec-2	5	31	These observations confirm that FBW7 can target and suppress the activity of NOTCH1 HD mutants found in T-ALL , and suggest that PEST deletion is an efficient " escape " mechanism that promotes cell transformation .
+PMC2118676	true	sec-3	6	32	A T2512 centered degron controls the interaction of NOTCH1 with FBW7
+PMC2118676	false	sec-3	7	33	Specific F-box protein binding sites , termed degrons , have been characterized for several FBW7 substrates .
+PMC2118676	false	sec-3	7	34	In each confirmed case , the degron contains a crucial threonine residue that must be phosphorylated to allow recognition by FBW7 .
+PMC2118676	false	sec-3	7	35	This in mind , we chose to analyze four threonine- containing potential degrons in N1-IC that could be targeted by FBW7 .
+PMC2118676	false	sec-3	7	36	One site fell outside of the PEST domain ( T2133 ) , but was chosen because it was previously suggested as a potential GSK3-beta phosphorylation site and FBW7 degron     .
+PMC2118676	false	sec-3	7	37	The other three sites were within the PEST domain and included two potential phosphorylation sites for a proline directed kinase ( T2484 and T2512 ) and one nonproline directed site ( T2467 ) .
+PMC2118676	false	sec-3	7	38	We generated four N1-IC constructs , in which one of these threonines was replaced with alanine ( N1-ICT2133A , N1-ICT2467A , N1-ICT2484A , and N1-ICT2512A ) , and tested each one 's ability to interact with DN FBW7 .
+PMC2118676	false	sec-3	7	39	Of the four mutants , only N1-ICT2512A failed to coimmunoprecipitate with DN FBW7 , suggesting that the N1-IC degron recognized by FBW7 depends on phosphorylation of T2512           .
+PMC2118676	false	fig-2	8	40	Mutational analysis of the FBW7 NOTCH1 degron .
+PMC2118676	false	fig-2	8	41	( A ) Coimmunoprecipitation experiment using threonine mutants of N1-IC ( N1-ICT2133A , N1-ICT2467A , N1-ICT2484A , and N1-ICT2512A ) and DN FBW7 .
+PMC2118676	false	fig-2	8	42	Only N1-ICT2512A was unable to coimmunoprecipitate with DN FBW7 .
+PMC2118676	false	fig-2	8	43	( B ) Cell lysates from Bosc23 cells transfected with N1L1601P or N1L1601P-T2512A and FBW7alpha were used for luciferase reporter assays .
+PMC2118676	false	fig-2	8	44	N1L1601P-T2512A was not repressed by FBW7alpha .
+PMC2118676	false	fig-2	8	45	( C ) Cell lysates from HeLa cells transfected with full-length N1 mutants were used for luciferase reporter assays .
+PMC2118676	false	fig-2	8	46	N1L1601P-Delta82 and N1L1601P-T2512A induced a 15- and 5-fold increase in transcriptional activity , respectively , compared with N1L1601P .
+PMC2118676	false	fig-2	8	47	( D ) In vivo ubiquitination assay using Bosc23 cells transfected with N1-ICWT , N1-ICDelta82 , or N1-ICT2512A with or without SCFFBW7alpha ( SKP1 , CUL1 , ROC1 , and FBW7alpha ) and Ub-HA .
+PMC2118676	false	fig-2	8	48	SCFFBW7alpha enhanced polyubiquitination of N1-ICWT , but not of N1-ICDelta82 or N1-ICT2512A .
+PMC2118676	false	fig-2	8	49	( E ) A negative charge is required at position 2516 ( T +4 ) .
+PMC2118676	false	fig-2	8	50	Interaction with DN FBW7 is partially preserved with N1-ICE2516D , but abolished with N1-ICE2516A .
+PMC2118676	false	fig-2	8	51	( F ) Mutation of two CDK8 phosphorylation sites prevents N1-IC interaction with FBW7 .
+PMC2118676	false	fig-2	8	52	A mutant lacking both S2514 and S2517 ( N1-ICS2514A-S2517A ) did not coimmunoprecipitate with DN FBW7 .
+PMC2118676	false	fig-2	8	53	Error bars represent the SD of duplicate wells .
+PMC2118676	false	sec-3	9	54	Next , we verified the functionality of these results using transcriptional reporter assays .
+PMC2118676	false	sec-3	9	55	In contrast to N1L1601P , FBW7alpha failed to suppress the activation of a NOTCH1 dependent luciferase reporter by N1L1601P that also contained a T2512A substitution ( N1L1601P-T2512A ;          .
+PMC2118676	false	sec-3	9	56	Furthermore , DN FBW7 was unable to augment NOTCH1 activation induced by that construct in Bosc23 cells ( unpublished data ) .
+PMC2118676	false	sec-3	9	57	Thus , mutation of a single residue ( T2512 ) could recapitulate the effects of a DeltaPEST mutation in this specific assay .
+PMC2118676	false	sec-3	9	58	Finally , we have previously hypothesized that loss of FBW7-NOTCH1 interactions could be a mechanism for enhancing NOTCH1 dependent transcriptional induction .
+PMC2118676	false	sec-3	9	59	To address this issue , we compared the activity of each mutant and found that N1L1601P-T2512A produced a five-fold increase in NOTCH1 activity in HeLa cells compared with N1L1601P           .
+PMC2118676	false	sec-3	9	60	We should note that the difference in N1L1601P induced transcriptional activation in                  is caused by the utilization of two different cell lines for the luciferase reporter assays .
+PMC2118676	false	sec-2	10	61	To confirm that N1-ICT2512A can not be ubiquitinated by FBW7 , we transfected Bosc23 cells with N1-ICWT , N1-ICDelta82 , or N1-ICT2512A in the presence or absence of the SCFFBW7alpha complex .
+PMC2118676	false	sec-2	10	62	To preserve ubiquitin conjugates , cells were treated with the proteasome inhibitor MG132 6 h before lysis in a buffer containing N-ethyl maleimide .
+PMC2118676	false	sec-2	10	63	HA-ubiquitin immuno precipitates were further probed for NOTCH1 expression           .
+PMC2118676	false	sec-2	10	64	Cotransfection of SCFFBW7alpha increased polyubiquitination of N1-ICWT , but not N1-ICDelta82 or N1-ICT2512A .
+PMC2118676	false	sec-2	10	65	The point mutant retained a higher level of polyubiquitination compared with N1-ICDelta82 that was not enhanced by SCFFBW7alpha , suggesting that an additional E3 ligase can promote ubiquitination of N1-IC .
+PMC2118676	false	sec-2	10	66	This is consistent with a recent report of an FBW7 independent destabilizing element in the PEST domain     .
+PMC2118676	false	sec-2	10	67	These experiments identify a conserved FBW7 degron in the N1-IC PEST domain and demonstrate its ability to alter NOTCH1 signaling .
+PMC2118676	true	sec-4	11	68	Molecular analysis of the NOTCH1 FBW7 degron
+PMC2118676	false	sec-4	12	69	FBW7 degrons in most other substrates contain a serine residue at the T +4 position .
+PMC2118676	false	sec-4	12	70	Welcker et al. have demonstrated that a negative charge at that position -- either from a phospho-serine and threonine or an acidic residue -- is required for recognition by FBW7         .
+PMC2118676	false	sec-4	12	71	To determine if this is true for recognition of NOTCH1 by FBW7 , we substituted E2516 with either alanine or aspartate ( N1-ICE2516A and N1-ICE2516D , respectively ) .
+PMC2118676	false	sec-4	12	72	As shown in         , N1-ICE2516A was unable to bind to DN FBW7 ; however , we observed partial binding with N1-ICE2516D .
+PMC2118676	false	sec-4	12	73	Thus , although glutamate appears to be required at T +4 for optimal binding , substituting a negatively charged aspartate at that position permits at least some interaction with FBW7 .
+PMC2118676	false	sec-4	13	74	The degron we identified in N1-IC contains serine-proline motifs at T +2 and T +5 , either of which could be targeted by a proline directed kinase .
+PMC2118676	false	sec-4	13	75	Indeed , both S2514 and S2517 have been previously suggested to be CDK8 phosphorylation sites     .
+PMC2118676	false	sec-4	13	76	To evaluate their importance for recognition by FBW7 , we generated N1-IC constructs in which one or both residues were replaced with alanine ( N1-ICS2514A , N1-ICS2517A , and N1-ICS2514A-S2517A ) .
+PMC2118676	false	sec-4	13	77	Although mutation of S2517 did not affect binding , mutation of S2514 impaired it , and binding was completely abolished in the N1 IC mutant lacking both residues           .
+PMC2118676	false	sec-4	13	78	These studies demonstrate that the FBW7 degron in NOTCH1 requires a conserved charged residue and is potentially targeted by CDK8 .
+PMC2118676	true	sec-5	14	79	PEST mutations in primary T-ALL disrupt the FBW7 degron
+PMC2118676	false	sec-5	15	80	To further test the hypothesis that mutations of the FBW7 degron ( spanning from L2511 to P2519 ) could be a mechanism that promotes transformation in T-ALL , we have studied the pattern of PEST mutations found in T-ALL lines and primary tumors    .
+PMC2118676	false	sec-5	15	81	PEST mutations appear to be of great importance , as they have been found in the majority of Notch1 induced T-ALL samples of both human and mouse origin .
+PMC2118676	false	sec-5	15	82	These mutations fell into three categories relative to the FBW7 degron .
+PMC2118676	false	sec-5	15	83	The majority of the mutations introduced translational termination codons starting as early as amino acid 2342 ( sample T-ALL 44 ) , and thus deleting almost the entire PEST domain .
+PMC2118676	false	sec-5	15	84	A second category included mutations that introduced termination codons immediately upstream of the L2511 residue ( sample T-ALL 63 ) .
+PMC2118676	false	sec-5	15	85	A third category of at least nine identified mutants included mutations that specifically targeted the FBW7 degron                                                                             .
+PMC2118676	false	sec-5	15	86	For example , the mutant found in the KOPTK1 T-ALL sample replaced the WT LTPSPESP degron with a mutated LTPSRVP sequence .
+PMC2118676	false	sec-5	15	87	These findings support our hypothesis and suggest that abrogation of the FBW7 controlled NOTCH1 degradation is an important transforming event in T-ALL .
+PMC2118676	true	sec-6	16	88	T-ALL cell lines and primary tumors carry conserved FBW7 mutations
+PMC2118676	false	sec-6	17	89	Our previous observations suggested an " indirect " way to inactivate FBW7 by deleting the degron on NOTCH1 .
+PMC2118676	false	sec-6	17	90	As PEST mutations occur in a fraction of T-ALL tumors , we wondered whether selective pressure might exist for these cancers to develop FBW7 mutations that abrogate NOTCH1 recognition .
+PMC2118676	false	sec-6	17	91	Although FBW7 mutations underlie a wide variety of solid human cancers , it is unknown whether they occur in T-ALL .
+PMC2118676	false	sec-6	17	92	To address this , we sequenced the F-box and WD40 repeat regions of FBXW7 from 13 T-ALL cell lines .
+PMC2118676	false	sec-6	17	93	We found single-nucleotide substitutions that resulted in point mutations in 4 lines ( 30.8 % , Table S1 , available at http://www.jem.org/cgi/content/full/jem.20070872/DC1 ) .
+PMC2118676	false	sec-6	17	94	We also found that one T-ALL line ( Be13 ) does not express any FBW7 message , likely because of a chromosomal deletion near the FBXW7 locus     .
+PMC2118676	false	sec-6	17	95	In addition to the cell lines , we sequenced FBXW7 from 95 primary T-ALL patient samples ; 15 of these samples ( 16 % ) carried an FBW7 mutation          .
+PMC2118676	false	sec-6	17	96	Further analysis revealed that 12 % ( 7 and 58 ) of the diagnostic and 22 % ( 8 and 37 ) of the relapse samples sequenced harbored FBW7 mutations .
+PMC2118676	false	sec-6	17	97	For 7 of those relapse samples , we were able to locate and sequence their diagnostic counterparts , and we discovered that 4 ( 57 % ) of these patients acquired the mutation only at relapse          , suggesting that such mutations could serve as a mechanism of drug resistance in T-ALL .
+PMC2118676	false	sec-6	18	98	FBW7 is mutated in a high percentage of primary human T-ALL samples
+PMC2118676	true	sec-7	19	99	T-ALL FBW7 mutants lose their ability to bind NOTCH1 , c-Myc , and cyclin E
+PMC2118676	false	sec-7	20	100	All of the mutations identified affected one of three conserved arginine residues ( R465 , R479 , and R505 ) in WD40 repeats III and IV of FBW7                              .
+PMC2118676	false	sec-7	20	101	These three residues            comprise the binding pocket of FBW7 that permits substrate recognition , and all of them contact the phosphothreonine in the consensus degron     .
+PMC2118676	false	sec-7	20	102	Nash et al. have shown that mutations of any of these three arginine residues prevent yeast Cdc4 from associating with cyclin E     .
+PMC2118676	false	sec-7	20	103	To determine whether the NOTCH1 degron is recognized by FBW7 in the same manner , we generated DN FBW7 mutants in which R465 , R479 , or R505 was replaced with cysteine ( DN FBW7R465C and DN FBW7R505C ) or glutamine ( DN FBW7R479Q ) and tested their abilities to interact with N1-IC .
+PMC2118676	false	sec-7	20	104	We chose these substitutions because they recapitulated FBW7 mutations found in our T-ALL samples .
+PMC2118676	false	sec-7	20	105	All three FBW7 mutants failed to bind            and ubiquitinate ( not depicted ) N1-IC .
+PMC2118676	false	sec-7	20	106	They also failed to bind to two other characterized FBW7 substrates , c-Myc and cyclin E                  .
+PMC2118676	false	fig-3	21	107	FBW7 mutations in T-ALL preclude interaction with NOTCH1 , c-Myc , and cyclin E. ( A ) Schematic depiction of the positions of the FBW7 binding pocket and DN FBW7 .
+PMC2118676	false	fig-3	21	108	( B ) Chromatograms showing mutations of FBW7 R465 and R505 found in CEM and P12-ICHIKAWA T-ALL cell lines .
+PMC2118676	false	fig-3	21	109	DND41 cells express WT FBW7 .
+PMC2118676	false	fig-3	21	110	Arrows indicate mutated nucleotides .
+PMC2118676	false	fig-3	21	111	( C ) Coimmunoprecipitation experiments demonstrating the inability of DN FBW7R465C , DN FBW7R479Q , and DN FBW7R505C to interact with N1-IC .
+PMC2118676	false	fig-3	21	112	( D and E ) The same DN FBW7 mutants as in C do not interact with c-Myc and cyclin E. Asterisk in E indicates a nonspecific band .
+PMC2118676	true	sec-8	22	113	Analysis of the mutational status of the NOTCH1 locus in FBW7 mutants
+PMC2118676	false	sec-8	23	114	Interestingly , subsequent analysis of the NOTCH1 locus demonstrated that none of the T-ALL lines bearing FBW7 mutations ( 0 and 5 ) had any NOTCH1 PEST mutations .
+PMC2118676	false	sec-8	23	115	Indeed , all of them had either NOTCH1 HD mutations ( RPMI 8402 , P12-ICHIKAWA , and CEM ) or expressed WT NOTCH1 alleles ( Be13 and Jurkat E6 ) .
+PMC2118676	false	sec-8	23	116	Furthermore , all sequenced T-ALL lines carrying NOTCH1 PEST mutations expressed WT FBW7 .
+PMC2118676	false	sec-8	23	117	These observations            suggested that a NOTCH1 PEST mutation relieves the mutational " pressure " on the FBW7 gene .
+PMC2118676	false	sec-8	23	118	They also suggested that an FBW7 muta tion could be a mechanism of signal amplification for the NOTCH1 HD mutants that are weak transcriptional activators .
+PMC2118676	false	sec-8	23	119	This scenario was supported by our reporter analysis shown in         , where introduction of a T2512 mutation abolishes FBW7 binding and induces a fivefold increase in NOTCH1 transcriptional activation .
+PMC2118676	false	sec-8	23	120	To further prove this hypothesis , we have sequenced the NOTCH1 locus in the previously described cohort of primary T-ALL patient samples .
+PMC2118676	false	sec-8	23	121	As evident from         , almost 43 % ( 38 and 89 ) of the patient samples harbored NOTCH1 mutations .
+PMC2118676	false	sec-8	23	122	In agreement with our previous observations , none of the FBW7mut samples ( 0 and 15 ) had a PEST mutation .
+PMC2118676	false	sec-8	23	123	On the other hand , 60 % ( 9 and 15 ) of the FBW7mut samples had NOTCH1 HD mutations .
+PMC2118676	false	sec-8	23	124	The remaining 40 % of the FBW7mut samples had no NOTCH1 mutations .
+PMC2118676	false	sec-8	23	125	These results suggested that cooperation of FBW7 and NOTCH1 mutations can be found in a substantial fraction of T-ALL , and could be critical for disease progression and treatment outcome .
+PMC2118676	false	sec-8	24	126	Notch1 mutational analysis of the primary T-ALL patient samples
+PMC2118676	false	sec-8	25	127	PEST , HD , and TAD denote the NOTCH1 domains where the mutations are located .
+PMC2118676	true	sec-9	26	128	Restoration of FBW7 function decreases activation of the NOTCH1 pathway
+PMC2118676	false	sec-9	27	129	If our hypothesis that FBW7 mutations in T-ALL lines contribute to NOTCH1 induced transformation is correct , then restoration of FBW7 expression should suppress NOTCH1 pathway activation in these cells .
+PMC2118676	false	sec-9	27	130	We thus used retroviral gene transfer to restore WT FBW7alpha expression in mutant T ALL lines .
+PMC2118676	false	sec-9	27	131	Our initial observations , using both RT-PCR and immunofluorescence detection , was that Flag-FBW7alpha was efficiently expressed and had a characteristic nuclear localization                  .
+PMC2118676	false	sec-9	27	132	To directly connect targeting of the NOTCH1 pathway by FBW7 , we quantified the expression of two well characterized direct transcriptional targets of NOTCH1 , HES1 and DELTEX1     .
+PMC2118676	false	sec-9	27	133	As shown by real-time RT-PCR experiments           , expression of both genes was significantly ( P < 0.001 ) decreased upon FBW7 expression .
+PMC2118676	false	sec-9	27	134	These observations demonstrate that restoration of FBW7 expression specifically targets the NOTCH1 pathway in T-ALL cells .
+PMC2118676	false	fig-4	28	135	Restoration of FBW7 expression in CEM cells ( FBW7MUT ) suppresses NOTCH1 target genes .
+PMC2118676	false	fig-4	28	136	( A and B ) Efficient restoration of FBW7WT in CEM T-ALL cells after transduction with a Flag-FBW7alpha-expressing retrovirus ( MigR1-FBW7alpha ) .
+PMC2118676	false	fig-4	28	137	Cells were infected with empty MigR1 vector as a control .
+PMC2118676	false	fig-4	28	138	( A ) RT-PCR amplified Flag-FBW7alpha only in cells infected with MigR1-FBW7alpha .
+PMC2118676	false	fig-4	28	139	( B ) Immunofluorescence staining of FACS sorted CEM cells infected with MigR1-FBW7alpha using FITC conjugated anti-Flag antibody shows nuclear localization of the construct .
+PMC2118676	false	fig-4	28	140	( C ) Real-time RT-PCR was used to quantify the expression of the NOTCH1 target genes , DELTEX1 , and HES1 in CEM cells infected as in A Infection with MigR1-FBW7alpha suppressed the two genes ( P < 0.0001 for both ) .
+PMC2118676	false	fig-4	28	141	Error bars represent the SD of triplicate wells .
+PMC2118676	true	sec-10	29	142	c-Myc stabilization in FBW7MUT as a mechanism of resistance to gamma-secretase inhibition
+PMC2118676	false	sec-10	30	143	In line with the hypothesis that FBW7 mutations could be a novel mechanism of treatment resistance , we have seen that all T-ALL lines ( 5 and 5 ) bearing FBW7 mutations were resistant to treatment with gamma-secretase inhibitors ( GSIs ; unpublished data )    .
+PMC2118676	false	sec-10	30	144	The most attractive mechanism of resistance was the stabilization of c-Myc , as c-Myc was previously shown to be a direct target of NOTCH1 activation        .
+PMC2118676	false	sec-10	30	145	Thus , we decided to study the regulation of c-Myc in T-ALL lines that bear FBW7 mutations .
+PMC2118676	false	sec-10	30	146	Initially , to demonstrate that c-Myc is regulated by FBW7 in T-ALL , we have shown that the mutated FBW7 proteins fail to interact with c-Myc                  .
+PMC2118676	false	sec-10	30	147	Moreover , treatment of WT FBW7 ( FBW7WT ) T-ALL lines with the proteasome inhibitor MG132 for 6 h resulted in the accumulation of c-Myc caused by the inhibition of SCFFBW7 mediated proteolysis .
+PMC2118676	false	sec-10	30	148	On the other hand , similar treatment of mutant FBW7 ( FBW7MUT ) T-ALL lines showed no c-Myc protein accumulation           .
+PMC2118676	false	sec-10	30	149	To directly address the mechanism of gamma-secretase inhibitor resistance in the FBW7MUT T-ALL lines , we treated KOPTK ( FBW7WT ) , Be13 ( FBW7MUT ) , P12-ICHICAWA ( FBW7MUT ) , and CEM ( FBW7MUT ) cells with gamma-secretase inhibitor ( Compound E ) for 1-4 d .
+PMC2118676	false	sec-10	30	150	As shown in         , N1-IC protein expression was drastically and rapidly down regulated in all four lines because the inhibition of gamma-secretase-mediated cleavage .
+PMC2118676	false	sec-10	30	151	c-Myc protein declined after 1 d of Compound E treatment in KOPTK ( FBW7WT ) cells ( note the ~ 2-fold increase in protein loading in days 1-4 compared with day 0 ) .
+PMC2118676	false	sec-10	30	152	In contrast , c-Myc protein levels remained stable in the 3 FBW7MUT lines during the 4 d of treatment .
+PMC2118676	false	sec-10	30	153	Together , these studies suggest that blocking NOTCH1 signaling alone can not down-regulate c-Myc protein expression in the context of a coexisting FBW7 mutation .
+PMC2118676	false	sec-10	30	154	As a result , FBW7 inactivating mutations could provide an " escape " mechanism for GSI treated T-ALLs caused by the stabilization of c-Myc .
+PMC2118676	false	fig-5	31	155	FBW7 mutations as a mechanism of resistance to gamma-secretase inhibition .
+PMC2118676	false	fig-5	31	156	( A ) T-ALL cell lines were treated with MG132 ( 20 muM for 6 h ) and analyzed for expression of c-Myc and actin .
+PMC2118676	false	fig-5	31	157	Treatment with MG132 resulted in accumulation of c-Myc in KOPTK cells , which express WT FBW7 , but not in Be13 and P12-ICHIKAWA cells , which express no and mutant FBW7 , respectively .
+PMC2118676	false	fig-5	31	158	( B ) Expression of N1-IC and c-Myc after treatment with Compound E ( CompE ) for 1-4 d. c-Myc expression declines only in KOPTK1 cells , which are sensitive to this treatment , but not in Be13 and P12-ICHIKAWA cells , which are resistant .
+PMC2118676	false	fig-5	31	159	N1-IC expression decreased in all of the cell lines , reflecting inhibition of gamma-secretase-mediated cleavage of NOTCH1 .
+PMC2118676	false	fig-5	31	160	Actin expression was used as a loading control for both A and B.
+PMC2118676	false	sec-11	32	161	The discovery that hyperactivation of the NOTCH1 pathway contributes to the majority of T-ALL cases revolutionized both scientific and clinical perspectives in this field , and has spurred a search for NOTCH1 silencing therapeutic agents .
+PMC2118676	false	sec-11	32	162	At the core of this search is the need for a more complete understanding of NOTCH1 protein stability regulation , as the majority of the mutations affect proteasome mediated degradation .
+PMC2118676	false	sec-11	32	163	We demonstrate that FBW7 targets NOTCH1 for ubiquitination and map in detail the amino acid degron sequence required for this interaction .
+PMC2118676	false	sec-11	32	164	Furthermore , we identify inactivating FBW7 mutations in ~ 40 % of human T-ALL lines and 16 % of primary leukemias .
+PMC2118676	false	sec-11	32	165	These mutations abolish the ability of FBW7 to interact with its targets , including NOTCH1 , c-Myc , and cyclin E.
+PMC2118676	false	sec-11	33	166	Initially , using a series of amino acid point mutants , we have mapped the N1-IC-FBW7 interaction to a degron centered around T2512 .
+PMC2118676	false	sec-11	33	167	We further analyzed the degron , demonstrating that a T +4 acidic glutamate is necessary for interaction with FBW7 .
+PMC2118676	false	sec-11	33	168	The reason for this requirement is not clear .
+PMC2118676	false	sec-11	33	169	Possibly , a negative charge at position 2516 either facilitates the phosphorylation of T2512 or directly promotes interaction with FBW7 .
+PMC2118676	false	sec-11	33	170	Current evidence suggests that phosphorylation of N1-IC by CDK8 plays a key role in recognition by FBW7 .
+PMC2118676	false	sec-11	33	171	Work by Fryer et al. showed that MAML1 recruits CDK8 to the N1-IC transcriptional activation complex , and this kinase phosphorylates N1-IC to promote its degradation     .
+PMC2118676	false	sec-11	33	172	Two of the three CDK8 phosphorylation sites reported in that study are within the T2512 degron we identified .
+PMC2118676	false	sec-11	33	173	Although mutation of either S2514 or S2517 by itself allowed at least some interaction with FBW7 ( albeit compromised in the case of S2514 ) , a N1-IC with both residues mutated lost all ability to bind FBW7 .
+PMC2118676	false	sec-11	33	174	Together with the work of Fryer et al. , our observations suggest that CDK8 must phosphorylate N1-IC ( minimally at S2514 ) for it to be efficiently recognized by FBW7 , either by priming the site for a different kinase that phosphorylates T2512 , or by directly facilitating physical interaction with FBW7 .
+PMC2118676	false	sec-11	33	175	We do not know the identity of the kinase that phosphorylates T2512 ; CDK8 might be responsible for this , too , but that possibility has not been directly tested .
+PMC2118676	false	sec-11	33	176	Although the N1-IC degron identified here is both similar to and different from degrons in other FBW7 substrates , it appears to occupy the canonical FBW7 binding pocket .
+PMC2118676	false	sec-11	33	177	Crystal structures of Cdc4 bound to a cyclin E peptide show that the phospho-T in the degron makes physical contact with three arginine residues , R465 , R479 , and R505 , in WD40 repeats III and IV ( numbering based on FBW7alpha isoform )     .
+PMC2118676	false	sec-11	33	178	We have found that the FBW7 point mutations identified in T-ALL cell lines and primary leukemia affect these arginine residues , which is consistent with findings in solid human tumors         .
+PMC2118676	false	sec-11	33	179	It has been suggested that Fbw7 is a haploinsufficient tumor suppressor in p53+ /- mice     , which supports the idea that decreased gene dosage stabilizes FBW7 targets in vivo .
+PMC2118676	false	sec-11	33	180	However , it is also possible that these mutations act as DNs because their inabilities to interact with the NOTCH1 and c-Myc degrons might create a pool of nonfunctional SCFFBW7 complexes .
+PMC2118676	false	sec-11	34	181	Although previously detected in certain solid tumors , FBW7 inactivating mutations do not appear to be a general oncogenic trigger in leukemia .
+PMC2118676	false	sec-11	34	182	Indeed , a recent sequencing of a large number of acute myeloid leukemia ( AML ) patient samples failed to detect any such mutations     .
+PMC2118676	false	sec-11	34	183	Thus , it was a surprise to detect FBW7 inactivating mutations in both T-ALL lines and primary T-ALL samples .
+PMC2118676	false	sec-11	34	184	These findings suggested that FBW7 mutations could be frequent in T-ALL because of the ability of FBW7 to recognize , bind to , and degrade important oncogenes , including N1-IC and its transcriptional target c-Myc .
+PMC2118676	false	sec-11	34	185	Interestingly , it seems that FBW7 deficiency could either activate the NOTCH pathway in the absence of NOTCH1 mutations or amplify its signaling strength by cooperating with already existing NOTCH1 HD mutations .
+PMC2118676	false	sec-11	34	186	If loss of FBW7 is , indeed , a NOTCH1 signal amplifier that facilitates NOTCH1 induced transformation , one would predict that selective pressure to acquire an FBW7 mutation preferentially affects lymphocytes in which the NOTCH1 PEST domain remains intact , as no increase in NOTCH1 signaling capacity could be gained by eliminating FBW7 function in the context of an existing PEST deletion .
+PMC2118676	false	sec-11	34	187	In agreement with this hypothesis , none of the 13 T-ALL cell lines or 96 primary samples showed any coexisting FBW7 and NOTCH1 PEST mutations .
+PMC2118676	false	sec-11	34	188	On the other hand , 60 % of FBW7mut samples had mutations in the NOTCH1-HD domain .
+PMC2118676	false	sec-11	34	189	These results suggest that , in T-ALL , the selective pressure to increase NOTCH1 stability and signaling strength is a primary force that drives oncogenesis .
+PMC2118676	false	sec-11	34	190	However , we do not want to imply that FBW7 mediated transformation depends solely on NOTCH1 activation .
+PMC2118676	false	sec-11	34	191	Both c-Myc and cyclin E could also be the mediators of this process .
+PMC2118676	false	sec-11	34	192	However , c-Myc is also a direct target of NOTCH signaling , so it is possible that FBW7 could impinge on both signaling pathways .
+PMC2118676	false	sec-11	34	193	The specific contribution and the importance of each FBW7 target in the induction of T-ALL remains to be analyzed using in vivo genetic approaches .
+PMC2118676	false	sec-11	35	194	Moreover , we found that FBW7 mutations were more frequent in relapse samples and that more than half of the patients with FBW7 mutations at relapse did not carry the mutation at diagnosis , suggesting that FBW7 mutation might be an event that confers resistance to treatment .
+PMC2118676	false	sec-11	35	195	Interestingly , all T-ALL lines carrying FBW7 mutations were resistant to treatment with GSI .
+PMC2118676	false	sec-11	35	196	FBW7 is a very attractive treatment resistance candidate because of its ubiquitin ligase function and its ability to target c-Myc protein stability .
+PMC2118676	false	sec-11	35	197	c-Myc is a direct tran scriptional target of NOTCH1 , and overexpression of c-Myc can rescue most T-ALL lines treated with GSI            .
+PMC2118676	false	sec-11	35	198	As c-Myc is a posttranslational target of FBW7     , but -- at the same time -- a transcriptional target of NOTCH activity        , the transforming ability of FBW7 inactivation could be twofold ; by losing FBW7 function , a cell should not only stabilize c-Myc but also produce more of it because of increased NOTCH1 signaling .
+PMC2118676	false	sec-11	35	199	In agreement with this hypothesis , we have shown that T-ALL FBW7 mutants lose their ability to recognize c-Myc .
+PMC2118676	false	sec-11	35	200	Also , our experiments demonstrate that c-Myc protein remains stable upon GSI treatment of lines carrying FBW7 inhibitors .
+PMC2118676	false	sec-11	35	201	Although these experiments strongly argue for a role for FBW7 , further experimentation , preferably in vivo , is required to prove the role of FBW7 deficiency in GSI resistance .
+PMC2118676	false	sec-11	35	202	Moreover , it is possible that there are multiple resistance mechanisms , as we have found that a T-ALL line ( PF382 ) was FBW7WT , yet resistant to GSI treatment .
+PMC2118676	false	sec-11	36	203	We report the identification of FBW7 mutations in human T-ALL and their direct connection to the NOTCH1-c-Myc oncogenic pathway caused by the ability of FBW7 to recognize , bind , and ubiquitinate these target proteins .
+PMC2118676	false	sec-11	36	204	These mutations target conserved arginines that form the binding pocket of FBW7 and abolish its binding to its targets .
+PMC2118676	false	sec-11	36	205	We believe that the identification of FBW7 mutations is of unique importance for the design of future molecular therapies for T-ALL .
+PMC2118676	false	sec-11	36	206	Indeed , our data suggest that these treatments should be multifaceted , covering both NOTCH1 activation and potential escape mechanisms , such as FBW7 mutations , and their effects on the stability of downstream target proteins .
+PMC2118676	true	sec-13	37	207	FBW7 and NOTCH1 mutational analysis .
+PMC2118676	false	sec-13	38	208	Genomic DNA extracted from cryopreserved lymphoblast samples provided by collaborating institutions in the United States ( St. Jude Children 's Research Hospital , Memphis , TN ) and Canada ( Hospital for Sick Children , Toronto , Canada ) .
+PMC2118676	false	sec-13	38	209	Analysis of FBW7 mutations in DNA samples from paired diagnostic and relapse T-ALLs was performed in samples from patients enrolled in Associazione Italiana Ematologia Oncologia Pediatrica-Berlin-Frankfurt-Munster Study Group protocols     .
+PMC2118676	true	sec-14	39	210	Recombinant DNA constructs and retrovirus production .
+PMC2118676	false	sec-14	40	211	Expression vectors carrying Flag tagged NOTCH1 , NOTCH1L1601P-Delta82 , and NOTCH1L1601P T2512A mutants were created by multistep insertion of PCR amplified human NOTCH1 sequences into pcDNA3 .1 ( Invitrogen ) .
+PMC2118676	false	sec-14	40	212	The DeltaPEST mutants ( Delta82 and Delta162 ) were generated by PCR and cloned into the pCS2-N1-IC HA .
+PMC2118676	false	sec-14	40	213	The Flag tagged FBW7alpha and DN FBW7 expression plasmids were a gift from B. Clurman ( Fred Hutchinson Cancer Research Center , Seattle , WA ) ; the cyclin E , Ub-HA , and SCF ( CUL1 , ROC1 , and SKP1 ) mammalian expression vectors were gifts from M. Pagano ( New York University , New York , NY ) .
+PMC2118676	false	sec-14	40	214	The Flag tagged DN FBW7 and N1-IC HA point mutants were generated by site directed mutagenesis following the manufacturer 's protocol ( Stratagene ) .
+PMC2118676	false	sec-14	40	215	Integrity of all constructs was verified by sequencing and protein expression was confirmed by Western blotting .
+PMC2118676	false	sec-15	41	216	Bosc23 cells were plated in 6-cm plates and transfected with expression plasmids using FuGENE 6 Transfection Reagent , according to the manufacturer 's protocols ( Roche ) .
+PMC2118676	false	sec-15	41	217	Cells were lysed using TENT buffer ( 50 mM Tris pH 8 , 150 mM NaCl , 2 mM EDTA , 1 % Triton X-100 , 1 mM PMSF , 1 mM NaF , 1 mM Na3VO4 , and 0.2 % protease inhibitor cocktail [ Sigma-Aldrich ] ) .
+PMC2118676	false	sec-15	41	218	Total cell extracts were incubated with HA or Flag beads and rocked for 1 h at 4degreesC .
+PMC2118676	false	sec-15	41	219	Bead bound proteins were collected by centrifugation , and after being washed three times they were loaded in 8 % SDS based gels and analyzed by Western blotting using Flag M2 ( Sigma-Aldrich ) , HA probe ( Santa Cruz Biotechnology ) , and Notch1 ( C20 ; Santa Cruz Biotechnology ) antibodies .
+PMC2118676	false	sec-15	41	220	The T-ALL lines cultured at 37degreesC under 5 % CO2 in RPMI 1640 supplemented with 10 % FBS , penicillin , and streptomycin were lysed using TENT buffer after incubation with 1 muM Compound E or 20 muM MG132 , as specified in the text .
+PMC2118676	false	sec-15	41	221	Total cell lysates were loaded and run in 12 % SDS gels and analyzed by Western blot using antibody against Notch1 Val1744 ( Cell Signaling Technology ) , c-Myc ( N-262 ; Santa Cruz Biotechnology ) , cyclin E ( HE12 ; Santa Cruz Biotechnology ) , and actin ( CHEMICON International , Inc. ) .
+PMC2118676	false	sec-16	42	222	Total cellular RNA treated with DNaseI was extracted as described in the QIAGEN handbook ( QIAGEN ) .
+PMC2118676	false	sec-16	42	223	cDNA was prepared according to the First Strand cDNA Synthesis kit protocol ( Invitrogen ) .
+PMC2118676	false	sec-16	42	224	RT-PCR was performed in 25-mul reactions containing 1.5 mul cDNA , 1 mul Taq Red DNA Polymerase ( Sigma-Aldrich ) , and 200 nM forward and reverse primers .
+PMC2118676	false	sec-16	42	225	For detection of Flag-FBW7alpha , the following primers were used : Flag forward 5 ' - TACAAGGATGACGATGACAAGC-3 ' and FBW7alpha reverse 5 ' - CACTCTCCTGGTCCATCTCC-3 ' .
+PMC2118676	false	sec-16	42	226	For sequencing of FBW7 in human T-ALL lines , ~ 1.2 kb of cDNA that encodes the FBW7 F-box and WD40 repeats domains was amplified using the FastStart High Fidelity PCR kit ( Roche ) according to manufacturer 's instructions , using the following primers : FB2 forward 5 ' - AACAACTTTTGGGGACCTC-3 ' and WD1 reverse 5 ' - ACACAACTCCCCCACTCCC-3 ' .
+PMC2118676	false	sec-16	42	227	PCR products were run on 1 % Agarose gels , and the appropriate amplicon was purified and sent for direct bidirectional sequencing with the same primers .
+PMC2118676	false	sec-16	42	228	Sequencing of FBW7 from primary human samples was done by amplifying exons 9 and 10 from genomic DNA with the following primers : exon 9 forward 5 ' - TGATGGGATCATTTTATACGGATG-3 ' , exon 9 reverse 5 ' - GACAAAACGCTATGGCTTTCC-3 ' , exon 10 forward 5 ' - CCC AACTTCCCATTCCCTTA-3 ' , and exon 10 reverse 5 ' - TTTCTTCATGCCAATTTTAACG-3 ' .
+PMC2118676	false	sec-16	42	229	The amplicon was sequenced with the following primers : exon 9seq forward 5 ' - TTTAAATCACTTTTCCTTTCTACCC-3 ' and exon 10seq forward 5 ' - TGACTAAATCTACCATGTTTTCTCA .
+PMC2118676	false	sec-16	42	230	Quantitative RT-PCR was performed in a 50-mul reaction containing 2 mul of cDNA , 12.5 mul of the SYBR Green SuperMix ( Bio-Rad Laboratories ) , 200 nM forward and reverse primers .
+PMC2118676	false	sec-16	42	231	Real-time RT-PCR amplification was performed on the iCycler iQ detection system , and the data were collected and analyzed using iCycler iQ version 3.1 software ( Bio-Rad Laboratories ) .
+PMC2118676	false	sec-16	42	232	The primers used were as follows : DELTEX1 forward 5 ' - TGGTCACAGCATCAGGCTAC-3 ' and DELTEX1 reverse 5 ' - TGGTCTGGGTATCAGGGAAG-3 ' ; HES1 forward 5 ' - TGAGCCAGCTGAAAACACTG-3 ' and HES1 reverse 5 ' - CATTGATCTGGGTCATGCAG-3 ' ; and ACTIN forward 5 ' - TCGTGCGTGACATTAAGGAG-3 ' and ACTIN reverse 5 ' - AGC ACTGTGTTGGCGTACAG-3 ' .
+PMC2118676	false	sec-17	43	233	The CEM T-ALL line cells infected with FBW7alpha were washed three times with PBS and fixed in 4 % paraformaldehyde in PBS for 15 min .
+PMC2118676	false	sec-17	43	234	The cell membrane was permeabilized by treatment with 0.5 % Triton X-100 for 12 min .
+PMC2118676	false	sec-17	43	235	The cells were washed with PBS , and nonspecific antibody binding was blocked with 5 % bovine serum albumin ( Sigma-Aldrich ) .
+PMC2118676	false	sec-17	43	236	The cells were treated with anti-Flag-FITC antibody ( Sigma-Aldrich ) diluted 1:100 for 1 h .
+PMC2118676	false	sec-17	43	237	After washing with PBS , the cells were stained with 4,6-diamidino-2-phenylindole , and treated with a prolonged antifading medium ( Invitrogen ) .
+PMC2118676	false	sec-17	43	238	Images were acquired on a confocal station ( Leica ) and analyzed using ImageJ ( National Institutes of Health ) software .
+PMC2118676	true	sec-18	44	239	Luciferase assays .
+PMC2118676	false	sec-18	45	240	Bosc23 or HeLa cells cultured at 37degreesC under 5 % CO2 in IMDM supplemented with 10 % FBS , penicillin , and streptomycin were seeded on 24-well plates at 8 x 104 cells per well and transiently transfected with expression constructs using FuGENE 6 Transfection Reagent ( Roche ) , according to the manufacturer 's protocols .
+PMC2118676	false	sec-18	45	241	Equivalent DNA concentrations were maintained by adding the appropriate amounts of pCDNA3 .1 vector .
+PMC2118676	false	sec-18	45	242	Whole-cell lysates were prepared 48 h after transfection , and luciferase activity was determined using a Dual-Luciferase Reporter Assay System ( Promega ) .
+PMC2118676	false	sec-19	46	243	Table S1 shows that FBW7 mutations are only present in human T-ALL cell lines with HD mutations or WT NOTCH1 .
+PMC2118676	false	sec-19	46	244	Fig .
+PMC2118676	false	sec-19	46	245	S1 shows a comparative analysis of NOTCH1 PEST domain mutations found in human T-ALL lines and patients .
+PMC2118676	false	sec-19	46	246	The online version of this article is available at http://www.jem.org/cgi/content/full/jem.20070872/DC1 .
+PMC2118676	false	sec-20	47	247	We would like to thank Michele Pagano , Piers Nash , William Carroll , Elizabeth Raetz , and Jane Skok for discussions and technical guidance .
+PMC2118676	false	sec-20	47	248	We also thank Bruce Clurman and Tasuku Honjo for sharing materials , and Mark Minden and A. Thomas Look for valuable clinical samples and communicating unpublished results .
+PMC2118676	false	sec-19	48	249	This work was supported by the Fondazione Citta Della Speranza ( G. Basso ) , the WOLF Foundation ( A. Ferrando ) , and National Institutes of Health ( NIH ) grant CA120196 ( A. Ferrando ) .
+PMC2118676	false	sec-19	48	250	I. Aifantis is supported by the Cancer Research Institute , the Sidney Kimmel Foundation for Cancer Research , the G&P Foundation for Cancer Research , the Penelope London Fund , the Friedman Fund for Childhood Leukemia , and NIH grant R01CA105129 .
+PMC2118676	false	sec-19	48	251	S. Buonamici is supported by the New York University Molecular Oncology and Immunology Training grant .
+PMC2118676	false	sec-19	48	252	A. Ferrando is a Leukemia and Lymphoma Society Scholar .

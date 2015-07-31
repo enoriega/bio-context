@@ -1,0 +1,361 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2168101	0	uniprot:P12872	Map	Gene_or_gene_product
+PMC2168101	1	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	2	uniprot:P54829	STEP	Gene_or_gene_product
+PMC2168101	2	uniprot:P49913	cAMP	Gene_or_gene_product
+PMC2168101	2	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	3	uniprot:UNRESOLVED ID	PKA phosphorylation site	Gene_or_gene_product
+PMC2168101	3	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	4	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	4	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	4	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2168101	4	uniprot:UNRESOLVED ID	p38alpha	Gene_or_gene_product
+PMC2168101	5	uniprot:UNRESOLVED ID	PKA activators	Gene_or_gene_product
+PMC2168101	5	uniprot:UNRESOLVED ID	Calpha	Gene_or_gene_product
+PMC2168101	5	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	5	uniprot:P28482	ERK2	Gene_or_gene_product
+PMC2168101	5	uniprot:UNRESOLVED ID	p38alpha	Gene_or_gene_product
+PMC2168101	5	uniprot:UNRESOLVED ID	wild-type PTP-SL	Gene_or_gene_product
+PMC2168101	5	uniprot:UNRESOLVED ID	PTP-SL S231A mutant	Gene_or_gene_product
+PMC2168101	6	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	6	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	7	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	7	uniprot:P54829	STEP	Gene_or_gene_product
+PMC2168101	7	uniprot:P28482	ERK2	Gene_or_gene_product
+PMC2168101	8	ncbitax:species:ncbi:10090	mouse	Species
+PMC2168101	9	uniprot:UNRESOLVED ID	pECE-HA-p38MAPK	Gene_or_gene_product
+PMC2168101	9	uniprot:UNRESOLVED ID	p38alpha	Gene_or_gene_product
+PMC2168101	9	ncbitax:species:ncbi:10090	mouse	Species
+PMC2168101	10	uniprot:UNRESOLVED ID	S. Japanicum glutathione-S-transferase	Gene_or_gene_product
+PMC2168101	10	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2168101	12	ncbitax:species:ncbi:9986	Rabbit	Species
+PMC2168101	12	uniprot:Q9SDN0	C-20	Gene_or_gene_product
+PMC2168101	13	ncbitax:species:ncbi:41568	muM	Species
+PMC2168101	14	uniprot:UNRESOLVED ID	ICN Pharmaceuticals Inc.	Gene_or_gene_product
+PMC2168101	14	ncbitax:species:ncbi:41568	muM	Species
+PMC2168101	15	ncbitax:species:ncbi:41568	muM	Species
+PMC2168101	16	uniprot:UNRESOLVED ID	IBMX	Gene_or_gene_product
+PMC2168101	17	uniprot:UNRESOLVED ID	bovine PKA catalytic subunit	Gene_or_gene_product
+PMC2168101	17	uniprot:Q5JHG5	cPKA	Gene_or_gene_product
+PMC2168101	18	uniprot:UNRESOLVED ID	Vitro Kinase and Phosphatase Assays	Gene_or_gene_product
+PMC2168101	19	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	19	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2168101	19	uniprot:Q5JHG5	cPKA	Gene_or_gene_product
+PMC2168101	19	uniprot:UNRESOLVED ID	mM MgCl2	Gene_or_gene_product
+PMC2168101	20	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2168101	21	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2168101	21	uniprot:Q5JHG5	cPKA	Gene_or_gene_product
+PMC2168101	22	uniprot:P01298	pH	Gene_or_gene_product
+PMC2168101	23	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2168101	24	uniprot:Q2G0B1	Rat	Species
+PMC2168101	24	uniprot:UNRESOLVED ID	fibroblast	CellType
+PMC2168101	24	ncbitax:species:ncbi:9606	human	Species
+PMC2168101	24	uazid:UA-ORG-461	kidney	Organ
+PMC2168101	26	uniprot:UNRESOLVED ID	cPKAalpha	Gene_or_gene_product
+PMC2168101	28	uniprot:UNRESOLVED ID	HA-ERK2	Gene_or_gene_product
+PMC2168101	28	uniprot:UNRESOLVED ID	HA-p38alpha	Gene_or_gene_product
+PMC2168101	28	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2168101	31	uniprot:UNRESOLVED ID	IPBS buffer	Gene_or_gene_product
+PMC2168101	31	uniprot:UNRESOLVED ID	1.5 mM KH2PO4, 4.3 mM Na2HPO4	Gene_or_gene_product
+PMC2168101	31	uniprot:P01298	pH	Gene_or_gene_product
+PMC2168101	34	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	34	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	34	uniprot:P54829	STEP	Gene_or_gene_product
+PMC2168101	35	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	35	uniprot:P54829	STEP	Gene_or_gene_product
+PMC2168101	35	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	36	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	36	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	37	uniprot:UNRESOLVED ID	GST-PTP-SL	Gene_or_gene_product
+PMC2168101	37	uniprot:UNRESOLVED ID	-STEP fusion proteins	Gene_or_gene_product
+PMC2168101	37	uniprot:Q5JHG5	cPKA	Gene_or_gene_product
+PMC2168101	38	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	38	uniprot:P54829	STEP	Gene_or_gene_product
+PMC2168101	38	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2168101	38	uniprot:P05451	PTP	Gene_or_gene_product
+PMC2168101	38	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	39	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	39	uniprot:Q5JHG5	cPKA	Gene_or_gene_product
+PMC2168101	40	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	40	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	41	uniprot:UNRESOLVED ID	PTP-SL 1-549	Gene_or_gene_product
+PMC2168101	41	uniprot:UNRESOLVED ID	PTP-SL 147-549	Gene_or_gene_product
+PMC2168101	41	uniprot:UNRESOLVED ID	PTP-SL isoforms	Gene_or_gene_product
+PMC2168101	41	uniprot:UNRESOLVED ID	PKA activators	Gene_or_gene_product
+PMC2168101	42	uniprot:P49913	cAMP	Gene_or_gene_product
+PMC2168101	42	uniprot:UNRESOLVED ID	wild-type PTP-SL isoforms	Gene_or_gene_product
+PMC2168101	43	uniprot:UNRESOLVED ID	wild-type PTP-SL	Gene_or_gene_product
+PMC2168101	43	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	44	ncbitax:species:ncbi:41568	muM	Species
+PMC2168101	44	uniprot:UNRESOLVED ID	wild-type PTP-SL	Gene_or_gene_product
+PMC2168101	45	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	45	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	45	uniprot:Q9XZE5	PP2A	Gene_or_gene_product
+PMC2168101	46	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	46	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	46	uniprot:P27361	ERK1	Gene_or_gene_product
+PMC2168101	46	uniprot:UNRESOLVED ID	p38alpha	Gene_or_gene_product
+PMC2168101	47	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	47	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	47	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	48	uniprot:UNRESOLVED ID	GST-PTP-SL	Gene_or_gene_product
+PMC2168101	48	uniprot:Q5JHG5	cPKA	Gene_or_gene_product
+PMC2168101	48	uniprot:Q2UCP5	Rat-1	Gene_or_gene_product
+PMC2168101	49	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	49	uniprot:P27361	ERK1	Gene_or_gene_product
+PMC2168101	49	uniprot:UNRESOLVED ID	p38alpha	Gene_or_gene_product
+PMC2168101	50	uniprot:UNRESOLVED ID	GST-PTP-SL	Gene_or_gene_product
+PMC2168101	50	uniprot:Q5JHG5	cPKA	Gene_or_gene_product
+PMC2168101	50	uniprot:P27361	ERK1	Gene_or_gene_product
+PMC2168101	50	uniprot:UNRESOLVED ID	p38alpha	Gene_or_gene_product
+PMC2168101	50	uniprot:UNRESOLVED ID	GST-PTP-SL S231A mutant	Gene_or_gene_product
+PMC2168101	51	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	51	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	51	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	51	uniprot:UNRESOLVED ID	GST-PTP-SL	Gene_or_gene_product
+PMC2168101	52	uniprot:P27361	ERK1	Gene_or_gene_product
+PMC2168101	52	uniprot:UNRESOLVED ID	HA-p38alpha	Gene_or_gene_product
+PMC2168101	52	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	53	uniprot:P27361	ERK1	Gene_or_gene_product
+PMC2168101	53	uniprot:UNRESOLVED ID	p38alpha	Gene_or_gene_product
+PMC2168101	53	uniprot:UNRESOLVED ID	PTP-SL S231E mutant	Gene_or_gene_product
+PMC2168101	54	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	54	uniprot:UNRESOLVED ID	GST-PTP-SL S231E	Gene_or_gene_product
+PMC2168101	54	uniprot:UNRESOLVED ID	GST-PTP-SL	Gene_or_gene_product
+PMC2168101	55	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	55	uniprot:P27361	ERK1	Gene_or_gene_product
+PMC2168101	55	uniprot:UNRESOLVED ID	p38alpha	Gene_or_gene_product
+PMC2168101	55	uniprot:P05451	PTP	Gene_or_gene_product
+PMC2168101	56	uniprot:UNRESOLVED ID	HA-ERK2	Gene_or_gene_product
+PMC2168101	56	uniprot:UNRESOLVED ID	HA-p38alpha	Gene_or_gene_product
+PMC2168101	56	uniprot:UNRESOLVED ID	anti-phosphotyrosine 4G10 mAb	Gene_or_gene_product
+PMC2168101	57	uniprot:UNRESOLVED ID	HA-ERK2	Gene_or_gene_product
+PMC2168101	57	uniprot:UNRESOLVED ID	HA-p38alpha	Gene_or_gene_product
+PMC2168101	57	uniprot:UNRESOLVED ID	GST-PTP-SL S231E mutant	Gene_or_gene_product
+PMC2168101	57	uniprot:UNRESOLVED ID	GST-PTP-SL	Gene_or_gene_product
+PMC2168101	58	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	58	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	58	uniprot:P27361	ERK1	Gene_or_gene_product
+PMC2168101	58	uniprot:UNRESOLVED ID	p38alpha	Gene_or_gene_product
+PMC2168101	58	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	59	uniprot:P28482	ERK2	Gene_or_gene_product
+PMC2168101	59	uniprot:UNRESOLVED ID	p38alpha	Gene_or_gene_product
+PMC2168101	59	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	59	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	60	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	60	uniprot:P28482	ERK2	Gene_or_gene_product
+PMC2168101	61	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	61	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	61	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	61	uniprot:UNRESOLVED ID	HA-ERK2	Gene_or_gene_product
+PMC2168101	61	uniprot:UNRESOLVED ID	HA-p38alpha	Gene_or_gene_product
+PMC2168101	62	uniprot:UNRESOLVED ID	HA-ERK2	Gene_or_gene_product
+PMC2168101	62	uniprot:UNRESOLVED ID	HA-p38alpha	Gene_or_gene_product
+PMC2168101	62	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	63	uniprot:P05451	PTP	Gene_or_gene_product
+PMC2168101	63	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	63	uniprot:UNRESOLVED ID	HA-ERK2	Gene_or_gene_product
+PMC2168101	63	uniprot:UNRESOLVED ID	PTP-SL 1-288	Gene_or_gene_product
+PMC2168101	64	uazid:UA-ORG-381	hand	Organ
+PMC2168101	64	uniprot:UNRESOLVED ID	PTP-SL S231E mutant	Gene_or_gene_product
+PMC2168101	64	uniprot:UNRESOLVED ID	HA-ERK2	Gene_or_gene_product
+PMC2168101	64	uniprot:UNRESOLVED ID	HA-p38alpha	Gene_or_gene_product
+PMC2168101	64	uniprot:UNRESOLVED ID	wild-type PTP-SL	Gene_or_gene_product
+PMC2168101	65	uniprot:UNRESOLVED ID	wild-type PTP-SL	Gene_or_gene_product
+PMC2168101	65	uniprot:UNRESOLVED ID	HA-ERK2	Gene_or_gene_product
+PMC2168101	65	uniprot:UNRESOLVED ID	HA-p38alpha	Gene_or_gene_product
+PMC2168101	65	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	66	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2168101	67	uniprot:UNRESOLVED ID	Calpha	Gene_or_gene_product
+PMC2168101	67	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	67	uniprot:UNRESOLVED ID	cPKAalpha	Gene_or_gene_product
+PMC2168101	67	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	67	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	68	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	68	uniprot:UNRESOLVED ID	HA-ERK2	Gene_or_gene_product
+PMC2168101	68	uniprot:UNRESOLVED ID	HA-p38alpha	Gene_or_gene_product
+PMC2168101	68	uniprot:UNRESOLVED ID	PTP-SL S231A mutant	Gene_or_gene_product
+PMC2168101	68	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	69	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	69	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	69	uniprot:UNRESOLVED ID	GTPases	Gene_or_gene_product
+PMC2168101	69	uniprot:Q9NYB0	Rap1	Gene_or_gene_product
+PMC2168101	69	uniprot:Q12967	RalGDS	Gene_or_gene_product
+PMC2168101	70	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	70	uniprot:P27361	ERK1	Gene_or_gene_product
+PMC2168101	70	uazid:UA-ORG-623	neurons	Organ
+PMC2168101	70	uazid:UA-ORG-861	sensory neurons	Organ
+PMC2168101	71	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	71	uniprot:P27361	ERK1	Gene_or_gene_product
+PMC2168101	71	uniprot:UNRESOLVED ID	p38alpha kinases	Gene_or_gene_product
+PMC2168101	71	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	72	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	72	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	72	uniprot:Q03393	PTPs	Gene_or_gene_product
+PMC2168101	72	uniprot:P54829	STEP	Gene_or_gene_product
+PMC2168101	72	uniprot:P35236	HePTP	Gene_or_gene_product
+PMC2168101	73	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	73	uniprot:P05451	PTP	Gene_or_gene_product
+PMC2168101	74	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	74	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	75	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	75	uazid:UA-ORG-114	brain	Organ
+PMC2168101	75	uniprot:UNRESOLVED ID	Purkinje cells	CellType
+PMC2168101	75	uazid:UA-ORG-149	cerebellum	Organ
+PMC2168101	75	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	75	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	76	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	76	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	76	uniprot:P27361	ERK1	Gene_or_gene_product
+PMC2168101	77	uniprot:P54829	STEP	Gene_or_gene_product
+PMC2168101	77	uniprot:P35236	HePTP	Gene_or_gene_product
+PMC2168101	77	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	78	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	78	uniprot:P35236	HePTP	Gene_or_gene_product
+PMC2168101	78	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	79	uniprot:UNRESOLVED ID	PTP-ER	Gene_or_gene_product
+PMC2168101	79	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	79	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	80	uniprot:P28482	ERK2	Gene_or_gene_product
+PMC2168101	80	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	80	uniprot:UNRESOLVED ID	PTP-SL molecules	Gene_or_gene_product
+PMC2168101	81	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	81	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	82	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	82	uniprot:P05451	PTP	Gene_or_gene_product
+PMC2168101	83	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	83	uniprot:P27361	ERK1	Gene_or_gene_product
+PMC2168101	83	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2168101	84	uniprot:P13678	PKC	Gene_or_gene_product
+PMC2168101	84	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	85	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	85	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	85	uniprot:Q8IWZ3	mask	Gene_or_gene_product
+PMC2168101	85	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	85	uniprot:UNRESOLVED ID	KIM	Gene_or_gene_product
+PMC2168101	86	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	86	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	87	uazid:UA-ORG-381	hand	Organ
+PMC2168101	87	uniprot:P27361	ERK1	Gene_or_gene_product
+PMC2168101	88	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	88	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	88	uniprot:P35236	HePTP	Gene_or_gene_product
+PMC2168101	89	uniprot:P28482	ERK2	Gene_or_gene_product
+PMC2168101	89	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	89	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2168101	90	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	91	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	92	uniprot:Q9XZE5	PP2A	Gene_or_gene_product
+PMC2168101	93	uniprot:Q9XZE5	PP2A	Gene_or_gene_product
+PMC2168101	93	uniprot:P07978	PP2C	Gene_or_gene_product
+PMC2168101	93	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	94	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	95	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	96	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	96	uniprot:P27361	ERK1	Gene_or_gene_product
+PMC2168101	96	uniprot:UNRESOLVED ID	p38alpha kinases	Gene_or_gene_product
+PMC2168101	97	uniprot:UNRESOLVED ID	Max-Planck Institut fur Biochemie	Gene_or_gene_product
+PMC2168101	98	uniprot:UNRESOLVED ID	PB96-0278	Gene_or_gene_product
+PMC2168101	98	uniprot:UNRESOLVED ID	Generalitat Valenciana	Gene_or_gene_product
+PMC2168101	98	uniprot:UNRESOLVED ID	GV-C-VS-20-047-96	Gene_or_gene_product
+PMC2168101	100	uniprot:UNRESOLVED ID	PKA catalytic subunit	Gene_or_gene_product
+PMC2168101	100	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2168101	100	uniprot:UNRESOLVED ID	extracellular signal-regulated kinase	Gene_or_gene_product
+PMC2168101	100	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2168101	100	uniprot:O60760	glutathione-S-transferase	Gene_or_gene_product
+PMC2168101	100	uniprot:P69208	HA	Gene_or_gene_product
+PMC2168101	100	uniprot:P33807	hemagglutinin	Gene_or_gene_product
+PMC2168101	100	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2168101	100	uniprot:UNRESOLVED ID	c-Jun NH2-terminal kinase	Gene_or_gene_product
+PMC2168101	100	uniprot:UNRESOLVED ID	KIM	Gene_or_gene_product
+PMC2168101	100	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	100	uniprot:UNRESOLVED ID	mitogen-activated protein	Gene_or_gene_product
+PMC2168101	100	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	100	uniprot:Q05608	protein kinase A	Gene_or_gene_product
+PMC2168101	100	uniprot:P13678	PKC	Gene_or_gene_product
+PMC2168101	100	uniprot:P05451	PTP	Gene_or_gene_product
+PMC2168101	101	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	101	uniprot:P54829	STEP	Gene_or_gene_product
+PMC2168101	101	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	102	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2168101	102	uniprot:Q5JHG5	cPKA	Gene_or_gene_product
+PMC2168101	103	uniprot:UNRESOLVED ID	pRK5 PTP-SL wild type	Gene_or_gene_product
+PMC2168101	105	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	107	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	107	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	107	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	108	uniprot:UNRESOLVED ID	GST-PTP-SL 147-288	Gene_or_gene_product
+PMC2168101	108	uniprot:Q5JHG5	cPKA	Gene_or_gene_product
+PMC2168101	110	uniprot:UNRESOLVED ID	anti-ERK1/2	Gene_or_gene_product
+PMC2168101	113	uniprot:UNRESOLVED ID	pRK5 GST-PTP-SL 147-549	Gene_or_gene_product
+PMC2168101	113	uniprot:UNRESOLVED ID	pECE-HA-p38MAPK	Gene_or_gene_product
+PMC2168101	115	uniprot:UNRESOLVED ID	GST-PTP-SL	Gene_or_gene_product
+PMC2168101	115	uniprot:UNRESOLVED ID	anti-ERK1/2	Gene_or_gene_product
+PMC2168101	116	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2168101	116	uniprot:UNRESOLVED ID	pRK5 GST-PTP-SL 147-549 wild type	Gene_or_gene_product
+PMC2168101	116	uniprot:UNRESOLVED ID	anti-ERK1/2	Gene_or_gene_product
+PMC2168101	116	uniprot:UNRESOLVED ID	anti-p38alpha antibodies	Gene_or_gene_product
+PMC2168101	118	uniprot:UNRESOLVED ID	GST-PTP-SL proteins	Gene_or_gene_product
+PMC2168101	119	uniprot:UNRESOLVED ID	HA-ERK2	Gene_or_gene_product
+PMC2168101	119	uniprot:UNRESOLVED ID	HA-p38alpha	Gene_or_gene_product
+PMC2168101	119	uniprot:UNRESOLVED ID	anti-HA 12CA5 mAb	Gene_or_gene_product
+PMC2168101	119	uniprot:UNRESOLVED ID	pCDNA3-HA-ERK2	Gene_or_gene_product
+PMC2168101	119	uniprot:UNRESOLVED ID	pECE-HA-p38MAPK	Gene_or_gene_product
+PMC2168101	119	uniprot:UNRESOLVED ID	GST-PTP-SL 147-549	Gene_or_gene_product
+PMC2168101	121	uniprot:UNRESOLVED ID	anti-phosphotyrosine 4G10 mAb	Gene_or_gene_product
+PMC2168101	122	uniprot:UNRESOLVED ID	HA-ERK2	Gene_or_gene_product
+PMC2168101	122	uniprot:UNRESOLVED ID	HA-p38alpha	Gene_or_gene_product
+PMC2168101	122	uniprot:UNRESOLVED ID	anti-HA 12CA5 mAb	Gene_or_gene_product
+PMC2168101	123	uniprot:UNRESOLVED ID	GST-PTP-SL	Gene_or_gene_product
+PMC2168101	123	uniprot:UNRESOLVED ID	pNPP	Gene_or_gene_product
+PMC2168101	125	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	125	uniprot:P28482	ERK2	Gene_or_gene_product
+PMC2168101	125	uniprot:UNRESOLVED ID	p38alpha	Gene_or_gene_product
+PMC2168101	126	uniprot:UNRESOLVED ID	pcDNA3-HA-ERK2	Gene_or_gene_product
+PMC2168101	126	uniprot:UNRESOLVED ID	pECE-HA-p38MAPK	Gene_or_gene_product
+PMC2168101	126	uniprot:UNRESOLVED ID	pRK5-PTP-SL 1-549	Gene_or_gene_product
+PMC2168101	128	uniprot:UNRESOLVED ID	HA-ERK2	Gene_or_gene_product
+PMC2168101	128	uniprot:UNRESOLVED ID	HA-p38alpha	Gene_or_gene_product
+PMC2168101	128	ncbitax:species:ncbi:10090	mouse	Species
+PMC2168101	128	uniprot:Q96T53	goat	Species
+PMC2168101	129	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	129	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2168101	129	uniprot:Q96T53	goat	Species
+PMC2168101	129	uniprot:UNRESOLVED ID	PTP-SL 1-549	Gene_or_gene_product
+PMC2168101	130	uniprot:UNRESOLVED ID	HA-ERK2	Gene_or_gene_product
+PMC2168101	130	uniprot:UNRESOLVED ID	HA-p38alpha	Gene_or_gene_product
+PMC2168101	130	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	131	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	131	uniprot:UNRESOLVED ID	HA-ERK2	Gene_or_gene_product
+PMC2168101	132	uniprot:UNRESOLVED ID	pcDNA3-HA-ERK2	Gene_or_gene_product
+PMC2168101	132	uniprot:Q9LPT1	pRK5	Gene_or_gene_product
+PMC2168101	132	uniprot:UNRESOLVED ID	pRK5 PTP-SL 147-549	Gene_or_gene_product
+PMC2168101	134	uniprot:UNRESOLVED ID	PTP-SL 147-549	Gene_or_gene_product
+PMC2168101	135	uniprot:UNRESOLVED ID	PTP-SL 1-549 and 1-288	Gene_or_gene_product
+PMC2168101	136	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	136	uniprot:UNRESOLVED ID	HA-ERK2	Gene_or_gene_product
+PMC2168101	136	uniprot:UNRESOLVED ID	HA-p38alpha	Gene_or_gene_product
+PMC2168101	136	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	137	uniprot:UNRESOLVED ID	pcDNA3-HA-ERK2	Gene_or_gene_product
+PMC2168101	137	uniprot:UNRESOLVED ID	pECE-HA-p38MAPK	Gene_or_gene_product
+PMC2168101	138	uniprot:UNRESOLVED ID	double mutant C480S	Gene_or_gene_product
+PMC2168101	138	uniprot:UNRESOLVED ID	single mutant S231A	Gene_or_gene_product
+PMC2168101	139	uniprot:UNRESOLVED ID	cPKAalpha	Gene_or_gene_product
+PMC2168101	141	uniprot:UNRESOLVED ID	HA-ERK2	Gene_or_gene_product
+PMC2168101	141	uniprot:UNRESOLVED ID	HA-p38alpha nuclear localization	Gene_or_gene_product
+PMC2168101	141	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	141	uniprot:UNRESOLVED ID	HA-p38alpha	Gene_or_gene_product
+PMC2168101	141	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	143	uniprot:P46060	SD	Gene_or_gene_product
+PMC2168101	144	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	144	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	144	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	145	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	145	uazid:UA-ORG-77	balance	Organ
+PMC2168101	145	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	145	uniprot:Q03393	PTPs	Gene_or_gene_product
+PMC2168101	146	uniprot:Q90Z06	PKA	Gene_or_gene_product
+PMC2168101	146	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
+PMC2168101	146	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2168101	147	uniprot:P01298	PP	Gene_or_gene_product
+PMC2168101	147	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product

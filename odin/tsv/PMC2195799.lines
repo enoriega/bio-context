@@ -1,0 +1,338 @@
+Paper ID	Is title?	Section ID	Passage ID	Line Num	Text
+PMC2195799	true	article-title	0	0	The Src Homology 2 Domain of Vav Is Required for Its Compartmentation to the Plasma Membrane and Activation of C-Jun Nh2-Terminal Kinase 1
+PMC2195799	false	abstract	1	1	Vav is a hematopoietic cell specific guanine nucleotide exchange factor ( GEF ) whose activation is mediated by receptor engagement .
+PMC2195799	false	abstract	1	2	The relationship of Vav localization to its function is presently unclear .
+PMC2195799	false	abstract	1	3	We found that Vav redistributes to the plasma membrane in response to Fcin receptor I ( FcinRI ) engagement .
+PMC2195799	false	abstract	1	4	The redistribution of Vav was mediated by its Src homology 2 ( SH2 ) domain and required Syk activity .
+PMC2195799	false	abstract	1	5	The FcinRI and Vav were found to colocalize and were recruited to glycosphingolipid enriched microdomains ( GEMs ) .
+PMC2195799	false	abstract	1	6	The scaffold protein , linker for activation of T cells ( LAT ) , and Rac1 ( a target of Vav activity ) were constitutively present in GEMs .
+PMC2195799	false	abstract	1	7	Expression of an SH2 domain containing COOH-terminal fragment of Vav inhibited Vav phosphorylation and movement to the GEMs but had no effect on the tyrosine phosphorylation of the adaptor protein , SLP-76 ( SH2 domain containing leukocyte protein of 76 kD ) , and LAT .
+PMC2195799	false	abstract	1	8	However , assembly of the multiprotein complex containing these proteins was inhibited .
+PMC2195799	false	abstract	1	9	In addition , FcinRI dependent activation of c-Jun NH2-terminal kinase 1 ( JNK1 ) was also inhibited .
+PMC2195799	false	abstract	1	10	Thus , Vav localization to the plasma membrane is mediated by its SH2 domain and may serve to regulate downstream effectors like JNK1 .
+PMC2195799	false	sec-1	2	11	Understanding how receptors communicate with downstream effectors poses a significant challenge in biology .
+PMC2195799	false	sec-1	2	12	Recent studies have begun to elucidate some of the workings , suggesting that receptor induced formation of macromolecular signaling complexes , mediated by molecular scaffolds and adaptors    , can link receptors to multiple signaling pathways .
+PMC2195799	false	sec-1	2	13	However , where and how receptors engage these macromolecular complexes are still unresolved questions .
+PMC2195799	false	sec-1	2	14	The recognition that plasma membrane proteins and lipids can differentially partition , forming discrete microdomains that are enriched in particular types of proteins and lipids , has prompted investigative efforts to determine if such domains are critical components of receptor mediated cellular signaling      .
+PMC2195799	false	sec-1	2	15	Glycosphingolipid enriched microdomains ( GEMs ) constitute one such membrane domain that concentrates sphingolipids , cholesterol , glycophosphatidylinositol linked proteins , and numerous signaling molecules    .
+PMC2195799	false	sec-1	2	16	The concentration of diverse signaling molecules in these domains suggests their importance in multiple signaling pathways .
+PMC2195799	false	sec-1	3	17	Recently , Ag receptors ( including FcinRI ) and costimulatory molecules have been shown to be constitutively present or to partition to these domains upon their engagement      .
+PMC2195799	false	sec-1	3	18	Furthermore , recent work suggests that Vav can be found complexed with linker for activation of T cells ( LAT ) , a scaffolding protein that partially partitions to GEMs  .
+PMC2195799	false	sec-1	3	19	Thus , GEMs are reasonable candidates as sites for receptor-downstream effector coupling .
+PMC2195799	false	sec-1	3	20	In a prior study , we found that FcinRI could be coimmunoprecipitated with the hematopoietic cell specific protein , Vav , after receptor aggregation   .
+PMC2195799	false	sec-1	3	21	Because FcinRI engagement results in the movement of a considerable fraction of these receptors into GEMs  , perhaps GEMs might be sites of interaction between FcinRI and Vav and thus Vav localization to GEMs a required step for its function .
+PMC2195799	false	sec-1	4	22	Tyrosine phosphorylation of Vav is important for its GDP and GTP exchange activity that activates Rho family GTPases like Rac1 , which function ( s ) in the regulation of cellular architechture      .
+PMC2195799	false	sec-1	4	23	The guanine nucleotide exchange factor ( GEF ) activity of Vav is encoded by the Dbl homology ( DH ) domain , whose function has also been demonstrated to contribute to c-Jun NH2-terminal kinase ( JNK ) activation      .
+PMC2195799	false	sec-1	4	24	In addition to tyrosine phosphorylation , products of phosphatidylinositol 3-kinase activation can also contribute to the activation of Vav by binding to the Vav pleckstrin homology ( PH ) domain , thus increasing its activity   .
+PMC2195799	false	sec-1	4	25	Among other structural domains of Vav are two Src homology 3 ( SH3 ) domains and an SH2 domain    that can interact with a diverse array of proteins       and thus contribute to Vav function .
+PMC2195799	false	sec-1	4	26	For example , the Vav SH2 domain interacts with tyrosine kinases Syk and ZAP-70       and adaptor molecules such as SH2 domain containing leukocyte protein of 76 kD ( SLP-76 [ 19 ] ) and Cbl   .
+PMC2195799	false	sec-1	4	27	Another adaptor molecule , Grb2 , binds to the NH2-terminal SH3 domain of Vav      .
+PMC2195799	false	sec-1	4	28	In addition , the Vav COOH-terminal SH3 domain binds the heterogeneous ribonuclear proteins ( hnRNPs ) K and C      , the nuclear protein Ku-70   , and the cytoskeletal protein zyxin   .
+PMC2195799	false	sec-1	4	29	Given the diversity of proteins with which Vav can interact , enormous potential exists for the modulation of its localization in response to cellular stimuli .
+PMC2195799	false	sec-1	5	30	To investigate the localization of Vav and its functional consequences , we tagged Vav with green fluorescent protein ( GFP ) and followed its distribution in the RBL-2H3 mast cell line before and after FcinRI engagement .
+PMC2195799	false	sec-1	5	31	Phosphorylation of the immunoreceptor tyrosine based activation motifs ( ITAMs     of the FcinRI by Lyn , after FcinRI engagement , results in the recruitment and activation of Syk by its interaction with FcinRIgamma ITAM   .
+PMC2195799	false	sec-1	5	32	Because Vav phosphorylation is downstream of Syk activation      , we also investigated the importance of Syk to Vav localization .
+PMC2195799	false	sec-1	5	33	Furthermore , as a measure of whether the intracellular localization of Vav is important to its function , we assessed the activation of JNK1 , as FcinRI dependent JNK1 activation is mediated by Vav   .
+PMC2195799	false	sec-1	5	34	Our findings show that phosphorylation and recruitment of Vav to the plasma membrane is an important step in Vav function in mast cells .
+PMC2195799	true	sec-3	6	35	Antibodies , Reagents , and Cell Cultures .
+PMC2195799	false	sec-3	7	36	Mouse mAbs to Vav , Rac1 , LAT , phosphotyrosine ( 4G10 ) , Grb2 , SLP-76 , and GFP were purchased from Upstate Biotechnology , Transduction Laboratories , and Clontech .
+PMC2195799	false	sec-3	7	37	A rabbit polyclonal antibody to LAT was a gift of Lawrence Samelson ( National Cancer Institute , National Institutes of Health , Bethesda , MD ) .
+PMC2195799	false	sec-3	7	38	A rabbit polyclonal antibody to Vav and a goat polyclonal antibody to JNK1 were from Santa Cruz Biotechnology .
+PMC2195799	false	sec-3	7	39	Fluorescently labeled secondary antibodies ( Cy-5 or fluorescein conjugated ) were purchased from Jackson ImmunoResearch Labs .
+PMC2195799	false	sec-3	7	40	Mouse mAb to FcinRI beta chain has been described   , and a mouse monoclonal to Syk was a gift from Petr Draber ( Institute of Molecular Genetics , Prague , Czech Republic ) .
+PMC2195799	false	sec-3	7	41	Anti-dinitrophenyl ( DNP ) specific murine IgE was purified as described previously   .
+PMC2195799	false	sec-3	7	42	DNP-human serum albumin ( HSA ) was from Sigma Chemical Co. .
+PMC2195799	false	sec-3	7	43	Mounting medium ( PermaFluor ( R ) aqueous mounting medium ) was from Immunon .
+PMC2195799	false	sec-3	7	44	Enzymes used in this study were purchased from Life Technologies , Inc. , and New England Biolabs .
+PMC2195799	false	sec-3	7	45	Piceatannol was purchased from Calbiochem .
+PMC2195799	false	sec-3	7	46	The rat basophilic leukemia cell line ( RBL-2H3 ) , RBL-2H3 TB1A2 ( Syk - ) , RBL-2H3 3A1 ( Syk+ ) , and RBL-2H3 3BA12 ( kinase-dead Syk+ ) were cultured as described previously   .
+PMC2195799	false	sec-3	7	47	Baby hamster kidney ( BHK ) cells were cultured as described by the American Type Culture Collection .
+PMC2195799	true	sec-4	8	48	DNA Constructs , Recombinant Semliki Forest Virus , and Infection .
+PMC2195799	false	sec-4	9	49	The Semliki Forest virus ( SFV ) expression system , pSFV1 and helper pSFV2 , was purchased from Life Technologies , Inc. .
+PMC2195799	false	sec-4	9	50	All Vav constructs were generated from the previously described rat Vav   .
+PMC2195799	false	sec-4	9	51	The pSFV1-GFP expression vector and Vav-GFP were generated as described   .
+PMC2195799	false	sec-4	9	52	Vav ( R694K ) was PCR amplified from plasmid SRalphaVav and cloned into pSFV1-GFP to generate the pSFV1-VavSH2 ( R694K ) - GFP as stated above .
+PMC2195799	false	sec-4	9	53	The calponin homology ( CH ) domain deleted , DH domain deleted , PH domain deleted , and SH2 domain deleted Vav constructs were generated from pZeoSV-Vav plasmid by overlapping extension PCR with primers to selectively delete the CH domain ( from M1 to I126 ) , DH domain ( from K194 to I405 ) , PH domain ( from R402 to N505 ) , and SH2 domain ( from W669 to L758 ) .
+PMC2195799	false	sec-4	9	54	The COOH-terminal region of Vav encoding the SH3-SH2-SH3 domains ( Vav-C ) , starting at amino acid I567 to C845 , was also PCR amplified .
+PMC2195799	false	sec-4	9	55	Vav-C encoding the R694K mutation was also PCR amplified from SRalphaVav .
+PMC2195799	false	sec-4	9	56	Full-length rat Syk was PCR amplified from plasmid SRalphaSyk .
+PMC2195799	false	sec-4	9	57	PCR reactions used the proof reading Pfu DNA polymerase ( Stratagene ) .
+PMC2195799	false	sec-4	9	58	Fidelity was confirmed by direct sequencing .
+PMC2195799	false	sec-4	10	59	Recombinant SFV generation and infection of RBL-2H3 cells with the recombinant viruses were as described   .
+PMC2195799	false	sec-4	10	60	Infectivity of cells with Vav ranged from 75 to 90 % .
+PMC2195799	false	sec-5	11	61	RBL-2H3 cells were grown on acid washed no. 1 coverslips in a 24-well plate as a subconfluent monolayer culture for 16 h .
+PMC2195799	false	sec-5	11	62	After infection , cells were incubated for an additional 4-6 h and sensitized with DNP specific IgE   .
+PMC2195799	false	sec-5	11	63	Stimulation with varying concentrations of DNP-HSA was for 3 min or as indicated .
+PMC2195799	false	sec-5	11	64	Coverslips were washed with PBS and fixed with 3 % paraformaldehyde in PBS .
+PMC2195799	false	sec-5	11	65	Fixed cells were either directly analyzed or permeabilized with 0.5 % Triton X-100 for 5 min at room temperature for immunostaining with primary antibodies to FcinRI beta chain , Grb2 , LAT , Rac1 , or Syk followed by a fluorescent secondary antibody ( Cy-5-labeled goat anti-mouse or anti-rabbit ) .
+PMC2195799	false	sec-5	11	66	Coverslips were air dried and mounted on glass slides using PermaFluor ( R ) aqueous mounting medium .
+PMC2195799	false	sec-5	11	67	Slides were examined on a Zeiss LSM 410 confocal microscope using a 63x Plan Apochromat objective ( N.A. 1.4 ) .
+PMC2195799	false	sec-5	11	68	GFP fluorescence was visualized with 488-nm krypton and argon laser excitation and a 515-540-nm band pass emission filter .
+PMC2195799	false	sec-5	11	69	Cy-5 fluorescence was simultaneously viewed using 633-nm helium and neon excitation and a 670-810-nm band pass emission filter .
+PMC2195799	false	sec-5	11	70	Brightness and contrast settings for acquired images were adjusted to maximize dynamic range and prevent detector saturation .
+PMC2195799	true	sec-6	12	71	Isolation of GEMs , Immunoprecipitations , Western Blots , and In-Gel Kinase Assays .
+PMC2195799	false	sec-6	13	72	GEMs were isolated from transfected 125I-IgE-labeled RBL-2H3 cells as described previously   , except that 0.1 % Triton X-100 was used for cell solubilization .
+PMC2195799	false	sec-6	13	73	Fractions were collected , and aliquots were counted for 125I-IgE distribution , then diluted 1:1 with lysis buffer    and subjected sequentially to Vav , LAT , or FcinRI immunoprecipitation or to precipitation of all proteins with 20 % trichloroacetic acid ( TCA ) .
+PMC2195799	false	sec-6	13	74	For immunoprecipitations , lysis buffer ( which for solubilization of GEMs included 0.5 % beta-octyl glucoside ) was added for 30 min at 4degreesC .
+PMC2195799	false	sec-6	13	75	Lysates were incubated with protein A or protein G Sepharose bound antibodies to SLP-76 , Vav , JNK1 , Syk , Grb2 , or LAT overnight at 4degreesC as indicated .
+PMC2195799	false	sec-6	13	76	SDS solubilized proteins were resolved by SDS-PAGE , transferred to nitrocellulose , and probed with 4G10 antibody .
+PMC2195799	false	sec-6	13	77	For TCA precipitates , recovered pellets were washed once in ice-cold acetone , dried , and resuspended in 50 mul of 1 % SDS in 50 mM Tricine and 50 mul of twofold concentrated SDS sample buffer .
+PMC2195799	false	sec-6	13	78	Proteins were resolved and probed with antibodies to Grb2 , LAT , Lyn , paxillin , Rac1 , SLP-76 , Syk , and Vav as indicated .
+PMC2195799	false	sec-6	13	79	In-gel kinase assays for JNK1 activation were done as described   .
+PMC2195799	false	sec-6	13	80	In brief , transfected cells were lysed as described   , and soluble lysates were incubated with goat anti-JNK1 .
+PMC2195799	false	sec-6	13	81	Immunoprecipitates were resolved by SDS-PAGE gels containing glutathione S-transferase ( GST ) - ATF2 ( 300 mug and ml ) as the substrate for JNK1 .
+PMC2195799	false	sec-6	13	82	The resolved proteins in the gel were denatured , and the kinase reaction was carried out in kinase buffer   .
+PMC2195799	true	sec-8	14	83	Vav Redistributes to the Plasma Membrane after FcinRI Engagement .
+PMC2195799	false	sec-8	15	84	RBL-2H3 cells expressing either GFP or Vav-GFP were analyzed for the distribution of Vav .
+PMC2195799	false	sec-8	15	85	As shown in        A , GFP was evenly distributed throughout the cell and was included in the nucleus .
+PMC2195799	false	sec-8	15	86	No apparent association of GFP with the plasma membrane was evident (        A ) .
+PMC2195799	false	sec-8	15	87	In contrast , the addition of Vav to GFP caused a dramatic change in the distribution of GFP , with little inclusion of Vav-GFP in the nucleus .
+PMC2195799	false	sec-8	15	88	This suggested that Vav is primarily localized to the cytosol and sequesters the fused GFP in the cytosol .
+PMC2195799	false	sec-8	15	89	To verify that the addition of GFP to Vav did not affect its localization , we determined the distribution of endogenous Vav by immunofluorescence and found it to be essentially identical (        A ) .
+PMC2195799	false	sec-8	15	90	A consistently higher background was found for the immunofluorescence staining with antibody to Vav , and thus we focused on Vav-GFP redistribution .
+PMC2195799	false	sec-8	16	91	FcinRI engagement resulted in the redistribution of a significant fraction of Vav to the plasma membrane as a submembranous aggregate at the indicated Ag concentrations (        B ) .
+PMC2195799	false	sec-8	16	92	In contrast , no change in the distribution of GFP was observed in response to FcinRI engagement , although the cells treated with 300 ng Ag showed increased spreading or flattening (        B ) .
+PMC2195799	false	sec-8	16	93	Two distinct features of Vav overexpression and its relationship to FcinRI engagement were observed .
+PMC2195799	false	sec-8	16	94	First , Vav overexpression resulted in the spreading or flattening of the cells (        B ) , and this was further enhanced by FcinRI engagement .
+PMC2195799	false	sec-8	16	95	Second , the redistribution of Vav was not uniform and seemed to be most prominent at cell-cell contacts where one might expect larger aggregates of FcinRI to form , provided that receptors on contacting cells bound the same Ag (        B ) .
+PMC2195799	false	sec-8	16	96	In kinetic experiments , Vav moved to the plasma membrane within 1 min and persisted in the plasma membrane even at 27 min after receptor engagement .
+PMC2195799	true	sec-9	17	97	Vav Colocalization with FcinRI Is Dependent on an Intact SH2 Domain .
+PMC2195799	false	sec-9	18	98	We previously reported the specific coimmunoprecipitation of FcinRI with Vav in response to FcinRI engagement   .
+PMC2195799	false	sec-9	18	99	We revisited this issue to explore whether the observed aggregates of Vav represent the fraction of Vav that might colocalize with FcinRI .
+PMC2195799	false	sec-9	18	100	FcinRI was evenly distributed in unstimulated control ( GFP ) and Vav ( Vav-GFP ) transfected cells (        A , Anti-beta ) .
+PMC2195799	false	sec-9	18	101	After FcinRI engagement , microaggregates of FcinRI were formed at the plasma membrane .
+PMC2195799	false	sec-9	18	102	This is in agreement with earlier reports of FcinRI clustering after stimulation , as visualized with FITC- or PE labeled IgE         .
+PMC2195799	false	sec-9	18	103	In adherent cells , these FcinRI microaggregates appeared to focalize to the cell-cell contact points after FcinRI engagement (        A ) .
+PMC2195799	false	sec-9	18	104	Vav and FcinRI aggregates showed an identical distribution , with a significant fraction of FcinRI codistributing with Vav in the stimulated adherent (        A ) and in nonadherent cells ( data not shown ) .
+PMC2195799	false	sec-9	18	105	Colocalization of a considerable fraction of FcinRI aggregates ( > 30 % ) with plasma membrane localized Vav aggregates was observed (        A , Overlay ) .
+PMC2195799	false	sec-9	19	106	We previously found that Vav did not directly interact with the FcinRIgamma ITAMs .
+PMC2195799	false	sec-9	19	107	Nevertheless , as Vav is known to be phosphorylated by and to interact with Syk         , we investigated which structural domain ( s ) of Vav might be important for its colocalization with FcinRI .
+PMC2195799	false	sec-9	19	108	B shows that deletion of the CH , DH , and PH domains had little effect on Vav redistribution and colocalization with FcinRI .
+PMC2195799	false	sec-9	19	109	Only the SH2 domain was found to be important for redistribution of Vav to the plasma membrane and for its colocalization with FcinRI .
+PMC2195799	false	sec-9	19	110	Deletion of the SH2 domain ( data not shown ) or mutation of R694K in the SH2 domain of Vav completely ablated the plasma membrane redistribution of Vav and thus the colocalization with FcinRI (        B ) .
+PMC2195799	false	sec-9	19	111	As shown in        C , a fluorescence intensity profile of FcinRI stimulated cells expressing Vav-GFP showed almost complete fluorescence overlap with FcinRI compared with cells expressing the R694K mutation of Vav .
+PMC2195799	false	sec-9	19	112	In addition , the deletion or mutation of the Vav SH2 domain also resulted in the loss of Vav tyrosine phosphorylation (        D ) while no significant effect on the phosphorylation of the CH , DH , or PH domain deleted constructs was observed ( data not shown ) .
+PMC2195799	false	sec-9	19	113	Thus , one might conclude that plasma membrane localization is required for Vav phosphorylation .
+PMC2195799	false	sec-9	19	114	Alternatively , the Vav SH2 domain mediated interaction with Syk or ZAP-70       may be required for Vav phosphorylation , or both possibilities may contribute to Vav phosphorylation .
+PMC2195799	true	sec-10	20	115	The SH2 Domain of Vav Contributes to JNK1 Activation .
+PMC2195799	false	sec-10	21	116	Kinetic analysis of JNK1 activation in RBL cells revealed that maximal enzymatic activity was at 8 min after FcinRI engagement ( our unpublished results ) .
+PMC2195799	false	sec-10	21	117	FcinRI engagement ( 8 min ) of cells overexpressing wild-type Vav enhanced the activation of JNK1 (        E ) .
+PMC2195799	false	sec-10	21	118	We investigated the importance of the SH2 domain for Vav function by studying whether the Vav mutant ( R694K ) was capable of enhancing JNK1 activation .
+PMC2195799	false	sec-10	21	119	Mutant Vav ( R694K ) did not enhance the JNK1 activation , unlike the wild-type Vav (        E ) .
+PMC2195799	false	sec-10	21	120	In addition , more prolonged ( 16 min ) Ag stimulation of cells expressing Vav ( R694K ) did not provide any enhancement of JNK1 activity ( data not shown ) .
+PMC2195799	false	sec-10	21	121	The JNK1 response for the mutant Vav ( R694K ) was similar to that observed for the control GFP transfectant , suggesting that this mutation did not exhibit a dominant negative phenotype .
+PMC2195799	false	sec-10	21	122	Additionally , as we reported elsewhere   , the deletion of the Vav DH domain also resulted in reduced JNK1 activation and mimicked the expression of an inactive Rac1 ( N17 ) .
+PMC2195799	false	sec-10	21	123	Deletion of the CH or PH domains showed no or little effect , respectively , on JNK1 activation .
+PMC2195799	false	sec-10	21	124	Thus , because ablation of the GEF activity ( DH - ) of a plasma membrane localized Vav (        B ) or inhibition of redistribution of wild-type Vav to the plasma membrane resulted in a loss of enhanced JNK activity , we conclude that the movement of Vav to the plasma membrane is important to its role in JNK1 activation .
+PMC2195799	true	sec-11	22	125	Syk Activity Is Required for Vav Redistribution .
+PMC2195799	false	sec-11	23	126	Inhibition of Syk activity or a deficiency of Syk in mast cells results in the loss of Vav phosphorylation      .
+PMC2195799	false	sec-11	23	127	To assess if Vav redistribution was dependent on Syk activity or on the presence of Syk , we used several approaches .
+PMC2195799	false	sec-11	23	128	Vav was overexpressed in the TB1A2 cells , a Syk- RBL-2H3 cell line   .
+PMC2195799	false	sec-11	23	129	In the absence or presence of FcinRI engagement , Vav failed to redistribute to the plasma membrane and form aggregates (        A ) .
+PMC2195799	false	sec-11	23	130	Furthermore , analogous to the mutation of the Vav SH2 domain , the endogenous and overexpressed Vav was not phosphorylated in these cells (        B , and data not shown ) .
+PMC2195799	false	sec-11	23	131	Cotransfection of Syk and Vav in the TB1A2 cells led to the reconstitution of plasma membrane localized Vav , its tyrosine phosphorylation , and its colocalization with FcinRI after the latter 's engagement (         and        .
+PMC2195799	false	sec-11	23	132	As summarized in       , Vav aggregates were also observed after FcinRI engagement in a TB1A2 derived clone stably reconstituted with Syk ( clone 3A1 ) .
+PMC2195799	false	sec-11	23	133	In contrast , the TB1A2 derived clone reconstituted with a catalytically inactive Syk ( clone 3BA12 ) or RBL cells pretreated with piceatannol , a Syk selective inhibitor , failed to show Vav redistribution         , clearly demonstrating the requirement for Syk activity in the tyrosine phosphorylation of Vav and its redistribution to the plasma membrane .
+PMC2195799	false	sec-11	24	134	We also found that Syk and Vav synergized in the activation of JNK1 in Syk deficient cells .
+PMC2195799	false	sec-11	24	135	Expression of Vav alone in these cells , followed by FcinRI engagement , caused a 2.2-fold enhancement in JNK1 activation compared with the control nonstimulated GFP transfectant (        C ) .
+PMC2195799	false	sec-11	24	136	Expression of Syk alone also caused a 2.3-fold enhancement in JNK1 activity .
+PMC2195799	false	sec-11	24	137	However , a 3.6-fold increase in JNK1 activation was seen when Vav was coexpressed with Syk .
+PMC2195799	false	sec-11	24	138	As shown below , the activation of JNK1 required the plasma membrane localization of Vav .
+PMC2195799	false	sec-11	25	139	We investigated whether Syk mediates the interaction of Vav with the plasma membrane .
+PMC2195799	false	sec-11	25	140	The following evidence suggested that Vav aggregate formation is not directly mediated by Vav interaction with Syk .
+PMC2195799	false	sec-11	25	141	First , we did not detect colocalization of Vav with Syk under conditions , described previously   , where Syk is maximally localized to the plasma membrane ( data not shown ) .
+PMC2195799	false	sec-11	25	142	Second , other adaptor proteins that could facilitate Vav interaction with the plasma membrane were localized with Vav aggregates ( see         and       , and        A ) .
+PMC2195799	false	sec-11	25	143	Third , preliminary experiments in FcinRI- and Lyn transfected Chinese hamster ovary ( CHO ) cells    showed no redistribution of transfected Vav to the plasma membrane under conditions where Syk was membrane localized and both Syk and Vav were tyrosine phosphorylated ( data not shown ) .
+PMC2195799	false	sec-11	25	144	Although we can not formally exclude a plasma membrane localized interaction of Syk and Vav , the preponderance of evidence suggests a different mechanism for Vav plasma membrane association .
+PMC2195799	true	sec-12	26	145	Vav , LAT , Rac1 , and FcinRI Are Found in GEMs .
+PMC2195799	false	sec-12	27	146	Biochemical studies demonstrated the constitutive association of Vav with Grb2          and the receptor dependent association of Vav with SLP-76          and LAT   .
+PMC2195799	false	sec-12	27	147	LAT is a palmitoylated protein that partitions to GEMs and can form a complex with SLP-76 and Vav     .
+PMC2195799	false	sec-12	27	148	To establish a link of communication , it was possible that Vav and FcinRI might be found in GEMs after FcinRI engagement .
+PMC2195799	false	sec-12	27	149	Because the SH2 domain of Vav is critical for plasma membrane localization , we reasoned that the SH3-SH2-SH3 domains of Vav ( Vav-C ) , which were previously described to inhibit Vav activity   , might compete with endogenous Vav for plasma membrane localization .
+PMC2195799	false	sec-12	27	150	To test this hypothesis , we investigated whether Vav-C would localize to the plasma membrane by expressing both Vav-C and Vav-C ( R694K ) tagged with GFP and subsequently engaging the FcinRI .
+PMC2195799	false	sec-12	27	151	Vav-C was redistributed to the plasma membrane , whereas the Vav-C ( R694K ) mutant failed to membrane localize (        A ) .
+PMC2195799	false	sec-12	27	152	The expression of GFP , Vav-C , or Vav-C ( R694K ) was found to be similar (        B ) .
+PMC2195799	false	sec-12	27	153	In addition , Vav-C was tyrosine phosphorylated as described   , whereas Vav-C ( R694K ) was only weakly phosphorylated ( data not shown ) .
+PMC2195799	false	sec-12	27	154	This suggested that Vav-C might act as a competitive inhibitor of Vav phosphorylation , and led us to explore its effect on the phosphorylation of wild-type Vav .
+PMC2195799	false	sec-12	27	155	C shows that Vav-C inhibited the tyrosine phosphorylation and association of Vav with Syk , whereas Vav-C ( R694K ) did not .
+PMC2195799	false	sec-12	27	156	In addition , although in the experiment shown there is a minor effect on Syk phosphorylation , multiple experiments suggested that Vav-C expression had no effect on Syk phosphorylation before or after FcinRI engagement .
+PMC2195799	false	sec-12	27	157	Therefore , Vav-C competes with Vav as a substrate for Syk and can localize to the plasma membrane as a competitor for endogenous Vav .
+PMC2195799	false	sec-12	28	158	We established that immunoprecipitation of endogenous Vav or LAT resulted in the coimmunoprecipitation of endogenous LAT , Grb2 , SLP-76 , or Vav (        D ) .
+PMC2195799	false	sec-12	28	159	We used the expression of Vav-C to analyze whether the competitor had any effect on formation of a multiprotein complex of Vav with the SLP-76 and LAT .
+PMC2195799	false	sec-12	28	160	SLP-76 was immunoprecipitated from FcinRI stimulated or -nonstimulated cells that were transiently transfected with Vav tagged with GFP ( to enhance the formation of a complex with SLP-76 ) in the presence of the Vav-C inhibitor also tagged with GFP , or of GFP alone .
+PMC2195799	false	sec-12	28	161	SLP-76 immunoprecipitates from the stimulated cells that were expressing Vav-C showed marked inhibition of Vav coimmunoprecipitation with SLP-76 (        E ) .
+PMC2195799	false	sec-12	28	162	Moreover , an inhibition of LAT association with SLP-76 was also observed , although this was not as dramatic as the inhibition of Vav and SLP-76 interaction (        E ) .
+PMC2195799	false	sec-12	28	163	The association of Grb2 with SLP-76 was not inhibited (        E ) .
+PMC2195799	false	sec-12	28	164	As determined by immunoprecipitating each individual protein , no effect on the tyrosine phosphorylation of Syk , SLP-76 , or LAT (        ,       , and         was observed by expression of Vav-C or the controls , Vav-C ( R694K ) and GFP .
+PMC2195799	false	sec-12	28	165	Therefore , Vav-C specifically inhibits Vav phosphorylation and its association with SLP-76 and LAT .
+PMC2195799	false	sec-12	29	166	In RBL-2H3 cells , a significant fraction ( as much as 50 % ) of the FcinRI can be found in GEMs after extensive aggregation of this receptor  .
+PMC2195799	false	sec-12	29	167	Given that LAT is also found in these domains  , we now asked whether Vav might also be recruited to these membrane domains in response to FcinRI engagement .
+PMC2195799	false	sec-12	29	168	Furthermore , if the LAT and SLP -76 / Vav complex formation takes place in the GEMs , we should effectively compete the recruitment of Vav in the GEMs by overexpression of Vav-C .
+PMC2195799	false	sec-12	29	169	A shows that Vav and FcinRI are recruited in the LAT containing GEMs ( fractions 4-6 ) after FcinRI engagement .
+PMC2195799	false	sec-12	29	170	FcinRI recruitment to GEMs was primarily monitored by the irreversible binding of radiolabeled IgE (   ; see graph ,        A ) and ranged from 15 to 50 % with a mean of 20 % .
+PMC2195799	false	sec-12	29	171	However , we could also detect the presence of phosphorylated FcinRI beta chain and the GEM localized Lyn  , but not paxillin ( a GEM excluded protein    , when tested by immunoblotting ( data not shown , and        A ) .
+PMC2195799	false	sec-12	29	172	The presence of Vav in the GEMs was effectively reduced by the overexpression of Vav-C but not by the overexpression of the control Vav-C ( R694K ) .
+PMC2195799	false	sec-12	29	173	In five experiments , inhibition of Vav localization to GEMs by Vav-C ranged from 35 to 100 % .
+PMC2195799	false	sec-12	29	174	Both exogenously and endogenously expressed Vav were tyrosine phosphorylated and localized to the GEMs , and the localization was inhibited by Vav-C expression (        A ) .
+PMC2195799	false	sec-12	29	175	No inhibition was observed by expression of Vav-C ( R694K ) (        A ) .
+PMC2195799	false	sec-12	29	176	In addition , we also found that Rac1 , the target of Vav GEF activity , was constitutively present in GEMs and its presence in GEMs was slightly increased by FcinRI engagement (        A ) .
+PMC2195799	false	sec-12	29	177	This is consistent with a recent study    demonstrating that Rac1 is constitutively present in caveolae and is further recruited to these membrane domains in response to platelet derived growth factor .
+PMC2195799	false	sec-12	29	178	Thus , engagement of FcinRI actively recruits phosphorylated Vav and FcinRI into LAT- and Rac1 containing GEMs , suggesting that the presence of Vav in these domains may be functionally important .
+PMC2195799	true	sec-13	30	179	Vav Activity Is Required for JNK1 Activation .
+PMC2195799	false	sec-13	31	180	To address the functional importance of Vav , we tested whether the expression of Vav-C would have an effect on endogenous Vav activity and explored the possible correlation with the formation of a Vav containing GEM residing complex .
+PMC2195799	false	sec-13	31	181	Because a Vav dependent activation of JNK1 , which mimics Rac1 activation of JNK1 , had been demonstrated         , we assayed for the activation of JNK1 in cells expressing Vav-C .
+PMC2195799	false	sec-13	31	182	We chose to look at JNK1 activity , rather than its phosphorylation , to obtain a more direct quantitative measure of any effect .
+PMC2195799	false	sec-13	31	183	As shown in        B , expression of Vav-C inhibited the tyrosine phosphorylation of endogenous Vav and decreased the FcinRI induced JNK1 activation by 81 + /- 17 % .
+PMC2195799	false	sec-13	31	184	Some reduction of the basal levels of JNK1 activity in these cells was also observed .
+PMC2195799	false	sec-13	31	185	No effect was observed by expression of either GFP or Vav-C ( R694K ) as controls .
+PMC2195799	false	sec-13	31	186	Thus , the expression of Vav-C , which inhibits Vav phosphorylation and movement to GEMs , also results in inhibition of FcinRI mediated JNK1 activation (        B ) in the absence of an effect on Syk activity or on the phosphorylation of SLP-76 and LAT (        ,       , and        .
+PMC2195799	false	sec-13	31	187	We previously demonstrated    that the constitutively active Rac1 ( V12 ) and the inactive Rac1 ( N17 ) ( which function at the plasma membrane [ 12 , 49 ] ) mimic or inhibit , respectively , Vav induced JNK1 activation .
+PMC2195799	false	sec-13	31	188	Thus , collectively , our results suggest that phosphorylation of Vav and and or formation of a Vav containing plasma membrane localized multiprotein complex may be required for the Vav dependent activation of JNK1 after FcinRI engagement .
+PMC2195799	false	sec-14	32	189	This study demonstrates that Vav moves to the plasma membrane upon FcinRI engagement (        .
+PMC2195799	false	sec-14	32	190	In addition , we found that most of the membrane localized Vav and a portion of the FcinRI partition to LAT- and Rac1 containing GEMs (        A ) , suggesting that these specialized membrane domains represent sites where receptors engage downstream effectors .
+PMC2195799	false	sec-14	32	191	Because Vav forms a complex with SLP-76 and LAT           , our findings promote the view that Vav functions as part of a multiprotein signaling complex that is engaged by the FcinRI in the GEMs (        .
+PMC2195799	false	sec-14	33	192	The movement of Vav to the plasma membrane is dependent on Syk activity and the SH2 domain of Vav .
+PMC2195799	false	sec-14	33	193	Interestingly , we did not observe a loss in plasma membrane localization by deletion of the PH domain of Vav (        B ) , a domain thought to be important for membrane targeting and Vav function      .
+PMC2195799	false	sec-14	33	194	Thus , only the SH2 domain was found to mediate association with the plasma membrane components .
+PMC2195799	false	sec-14	33	195	The importance of this domain to the activation of Vav is underscored by the inability to phosphorylate the Vav ( R694K ) mutant in Syk containing cells (        D ) and the inhibition of Vav phosphorylation by Vav-C , which also inhibits Vav binding to Syk in the absence of an effect on Syk phosphorylation (        C ) .
+PMC2195799	false	sec-14	33	196	Mutations of both Y342 and Y346 of rat Syk or the equivalent tyrosines on ZAP-70 have been demonstrated to inhibit Vav interaction      .
+PMC2195799	false	sec-14	33	197	These mutations also inhibit the tyrosine phosphorylation of Vav ( Yamashita , T. , personal communication ) .
+PMC2195799	false	sec-14	33	198	Thus , the use of the above Syk mutant would not allow us to distinguish whether Syk activity or Syk interaction is necessary for Vav redistribution .
+PMC2195799	false	sec-14	33	199	At present , our data suggest that the association of Vav with the plasma membrane is not mediated by Syk .
+PMC2195799	false	sec-14	33	200	This conclusion is best supported by our preliminary results in FcinRI transfected CHO cells    in which phosphorylation of receptor Syk and Vav did not result in Vav plasma membrane localization ( under conditions where Syk was membrane localized ) .
+PMC2195799	false	sec-14	33	201	These results also suggest that Vav phosphorylation is not the sole requirement for plasma membrane localization .
+PMC2195799	false	sec-14	33	202	However , we can not formally exclude the possibility that Syk might mediate some association of Vav with the plasma membrane .
+PMC2195799	false	sec-14	34	203	Vav also interacts with adaptor proteins like SLP-76 that mediate binding to plasma membrane localized scaffolding proteins like LAT    and thus could provide plasma membrane localization of Vav .
+PMC2195799	false	sec-14	34	204	Because a significant fraction of phosphorylated LAT is localized to GEMs (  ; and        A ) , communication between the Vav containing molecular complex and FcinRI may likely occur in GEMs .
+PMC2195799	false	sec-14	34	205	Preliminary support for this hypothesis is provided by the similar kinetics of FcinRI and Vav localization to GEMs (     ; and this study ) and also by the observation that coexpression of Vav-C , which inhibits FcinRI mediated JNK1 activation (        B ) , also effectively inhibited the presence of endogenous and exogenous Vav in GEMs (        A ) .
+PMC2195799	false	sec-14	34	206	In addition , the previous finding    that a DH domain deleted Vav is incapable of activating JNK1 although it localizes to the plasma membrane (          underscores the importance of functional Vav in the plasma membrane .
+PMC2195799	false	sec-14	34	207	Thus , collectively , the findings promote the view that recruitment of Vav to GEMs may be an important step that couples the FcinRI   to a macromolecular complex that regulates JNK1 activation           .
+PMC2195799	false	sec-14	35	208	Although not all of the cellular Vav moves to the plasma membrane , of the fraction localized in the plasma membrane almost all could be found to colocalize with the FcinRI ( see         and        .
+PMC2195799	false	sec-14	35	209	In contrast , ~ 30 % of receptors were found to colocalize with Vav .
+PMC2195799	false	sec-14	35	210	This may reflect the possibility that only activated receptors , or alternatively only receptors that become active , can associate with Vav .
+PMC2195799	false	sec-14	35	211	Our data are consistent with a possible site of communication for FcinRI and Vav being in GEMs , because the numbers obtained for colocalization correspond nicely with the fraction of FcinRI found in our study to be recruited to GEMs ( ~ 20 % ) .
+PMC2195799	false	sec-14	35	212	In addition , these numbers are also consistent with the best estimates of the number of FcinRI molecules ( 25 % ) that have the potential to associate with the activating Lyn kinase in RBL-2H3 cells   .
+PMC2195799	false	sec-14	35	213	Thus , our findings support the notion that the fraction of FcinRI found in GEMs is active   and can link to downstream effectors like Vav .
+PMC2195799	false	sec-14	35	214	Notably , although phosphorylation of the FcinRI is not required for GEM localization  , we found that receptors in the GEMs showed at least a 13-fold higher level of FcinRI beta chain phosphorylation compared with the remaining receptors after normalization for protein content ( data not shown ) .
+PMC2195799	false	sec-14	35	215	This is consistent with the studies of Field and colleagues   and suggests that the GEMs may function both as a site of receptor phosphorylation   and a site where receptors engage other signaling molecules  .
+PMC2195799	false	sec-14	36	216	Among the numerous proteins localized to GEMs , LAT has been clearly demonstrated to play an important functional role in TCR signaling      .
+PMC2195799	false	sec-14	36	217	A recent study demonstrated that the costimulatory effects of CD28 on TCR dependent activation are mediated by the CD28 dependent clustering of GEMs to the TCR   .
+PMC2195799	false	sec-14	36	218	Thus , sustained T cell activation and and or sensitivity of TCR engagement is seemingly dependent on the coclustering of the TCR and CD28 in GEMs and is likely to be dependent on communication with LAT         .
+PMC2195799	false	sec-14	36	219	In mast cells , a phosphoprotein of the approximate molecular mass of LAT was first described by Turner and colleagues as an FcinRI activated link to Grb2-Sos   .
+PMC2195799	false	sec-14	36	220	This protein was recently identified in RBL-2H3 mast cells as LAT   .
+PMC2195799	false	sec-14	36	221	This scaffold protein is important in assembling a macromolecular signaling complex that includes at least phospholipase Cgamma1 , SLP-76 , Vav , Grb2 , and Cbl      .
+PMC2195799	false	sec-14	36	222	We now demonstrate that in mast cells LAT , Rac1 , and Vav are found in the GEMs .
+PMC2195799	false	sec-14	36	223	The FcinRI is also found in GEMs  , and specific inhibition of Vav phosphorylation , which also inhibits its localization to GEMs , has a significant downregulatory effect on FcinRI mediated JNK1 activation .
+PMC2195799	false	sec-14	36	224	Although we can not formally exclude the possibility that another fraction ( other than the plasma membrane localized fraction ) of Vav is responsible for JNK1 activation , it is likely that a mechanism similar to that required for activation of Ras on the plasma membrane    may also function to activate Rac .
+PMC2195799	false	sec-14	36	225	In the present model (        , activated Vav ( a Rac1 GEF ) is sequestered on the plasma membrane by the LAT-SLP-76 complex where it activates Rac1 .
+PMC2195799	false	sec-14	37	226	Recent studies          on T cells derived from Vav-null mice reported differences in mitogen activated protein kinase ( MAPK ) activation .
+PMC2195799	false	sec-14	37	227	Costello and colleagues    demonstrated that in T cells from these mice , extracellular signal regulated kinase ( ERK ) activation was impaired .
+PMC2195799	false	sec-14	37	228	In contrast , the studies of Fischer et al. .
+PMC2195799	false	sec-14	37	229	and Holsinger et al. .
+PMC2195799	false	sec-14	37	230	found no effect on ERK or JNK activation .
+PMC2195799	false	sec-14	37	231	However , we    and others       have observed Vav mediated JNK activation in various cell types .
+PMC2195799	false	sec-14	37	232	The apparent discrepancy may be explained by cell type differences ( i.e. , mast cells versus T cells ) , redundancy of signaling pathways , or as proposed by Costello et al. .
+PMC2195799	false	sec-14	37	233	, differences in the knockout targeting strategy that could result in low levels of Vav expression .
+PMC2195799	false	sec-14	37	234	Nevertheless , because we demonstrate an effect on JNK1 activation by the deletion of the Vav SH2 domain and by expression of Vav-C , and found that Syk and Vav synergize to enhance JNK1 activation , we propose that Vav significantly contributes to FcinRI mediated JNK1 activation .
+PMC2195799	false	sec-14	37	235	Moreover , this hypothesis is also supported by our recent findings that the inactive mutants Rac1 ( N17 ) or JNK ( APF ) inhibit Vav dependent JNK1 activation in the RBL-2H3 mast cell line   .
+PMC2195799	false	sec-14	38	236	A recent study    demonstrated that mutation of SLP-76 ( Y112F , Y128F , Y145F ) or mutation of the Vav SH2 domain abrogated both TCR dependent cytoskeletal rearrangement and p21 activated kinase ( PAK ) activation .
+PMC2195799	false	sec-14	38	237	This is consistent with our findings that the SH2 domain of Vav is important for JNK activation , since PAK functions upstream of JNK activation in mast cells    but downstream of the Vav target , Rac1      .
+PMC2195799	false	sec-14	38	238	We also observed that the expression of Vav-C , which localizes to the plasma membrane upon FcinRI stimulation and inhibits Vav phosphorylation (        A and 5 B ) , resulted in the inhibition of Vav association with SLP-76 and partial inhibition of LAT interaction with SLP-76 without affecting the tyrosine phosphorylation of LAT and SLP-76 (         and        .
+PMC2195799	false	sec-14	38	239	Since Vav , LAT , and SLP-76 can participate in a complex , and along with Rac1 , are localized in GEMs , we propose that this multiprotein signaling complex is important to Vav function , including its ability to activate JNK1 .
+PMC2195799	false	sec-14	38	240	In SLP-76-deficient T cells   , phosphorylation of the calcium response modulator , phospholipase Cgamma1 , was decreased ; thus , it is also possible that a partial loss of the SLP-76 and LAT interactions in the absence of Vav may explain the defective calcium response of Vav-null cells   .
+PMC2195799	false	sec-14	38	241	This possibility is currently being explored .
+PMC2195799	false	sec-14	38	242	The model proposed in        provides a possible mechanism for Vav contribution to cytoskeleton rearrangement , calcium signals , and kinase activation .
+PMC2195799	false	sec-14	38	243	By complexing with a LAT organized multiprotein signaling complex   , Vav activity and protein interactions may contribute to activation of Rac         , Ras         , and calcium signals            , thus participating in cytoskeletal rearrangement , MAPK activation , and gene expression      .
+PMC2195799	false	sec-13	39	244	Abbreviations used in this paper : CH , calponin homology ; DH , Dbl homology ; DNP , dinitrophenyl ; GEF , guanine nucleotide exchange factor ; GEM , glycosphingolipid enriched microdomain ; GFP , green fluorescent protein ; HSA , human serum albumin ; ITAM , immunoreceptor tyrosine based activation motif ; JNK , c-Jun NH2-terminal kinase ; LAT , linker for activation of T cells ; PH , pleckstrin homology ; SH , Src homology ; SFV , Semliki Forest virus ; SLP-76 , SH2 domain containing leukocyte protein of 76 kD ; TCA , trichloroacetic acid .
+PMC2195799	false	sec-12	40	245	Vav Plasma Membrane Localization Is Syk Dependent
+PMC2195799	false	fig-1	41	246	Distribution of Vav in RBL-2H3 mast cells .
+PMC2195799	false	fig-1	41	247	( A ) Cells were transfected with GFP , Vav-GFP , or analyzed for endogenous Vav .
+PMC2195799	false	fig-1	41	248	Nontransfected or 4 h posttransfected cells were fixed ( nontransfected cells were immunostained for endogenous Vav ) and examined by confocal microscopy .
+PMC2195799	false	fig-1	41	249	A fluorescence intensity ( arbitrary units ) profile shows the cytosolic localization of Vav , Vav-GFP , and the uniform distribution of GFP .
+PMC2195799	false	fig-1	41	250	( B ) 4 h posttransfected GFP or Vav-GFP expressing cells sensitized with IgE were stimulated or not ( 0 ng ) with 3 , 30 , 90 , or 300 ng of Ag ( DNP-HSA ) for 3 min at 37degreesC .
+PMC2195799	false	fig-1	41	251	Cells were fixed and examined by confocal laser microscopy .
+PMC2195799	false	fig-1	41	252	Bars , 10 mum .
+PMC2195799	false	fig-2	42	253	Vav phosphorylation , JNK1 activation , and FcinRI colocalization are dependent on the Vav SH2 domain .
+PMC2195799	false	fig-2	42	254	( A ) Vav colocalizes with FcinRI .
+PMC2195799	false	fig-2	42	255	RBL-2H3 cells transfected with GFP or Vav-GFP were sensitized with IgE and stimulated with 30 ng of Ag ( Ag+ ) or not ( Ag - ) for 3 min .
+PMC2195799	false	fig-2	42	256	Cells were fixed , permeabilized , and incubated with mouse anti-FcinRI beta chain followed by Cy-5-conjugated goat anti-mouse .
+PMC2195799	false	fig-2	42	257	Overlay shows colocalization ( yellow ) where the green and red fluorescence overlap .
+PMC2195799	false	fig-2	42	258	( B ) Mutants of Vav-GFP were analyzed for distribution after Ag stimulation as above .
+PMC2195799	false	fig-2	42	259	R694K , a Vav SH2 domain mutant , a PH domain deleted mutant ( - PH ) , a DH domain deleted mutant ( - DH ) , and a CH domain deleted mutant ( - CH ) were analyzed as above for plasma membrane localization and colocalization with FcinRI .
+PMC2195799	false	fig-2	42	260	( C ) The SH2 domain of Vav is required for colocalization with FcinRI .
+PMC2195799	false	fig-2	42	261	Fluorescence pixel intensity ( arbitrary units ) profile of FcinRI ( red line ) and Vav ( green line ) from the plasma membrane of FcinRI stimulated cells transfected with Vav-GFP or Vav-GFP ( R694K ) .
+PMC2195799	false	fig-2	42	262	( D ) Tyrosine phosphorylation of Vav requires its SH2 domain .
+PMC2195799	false	fig-2	42	263	RBL-2H3 cells were transfected with Vav-GFP , Vav-GFP ( R694K ) , or Vav-GFP ( - SH2 domain ) .
+PMC2195799	false	fig-2	42	264	4 h posttransfection cells were stimulated with 300 ng and ml of Ag for 3 min , lysed , and incubated with anti-GFP .
+PMC2195799	false	fig-2	42	265	SDS-PAGE-resolved proteins were transferred for immunoblotting ( IB ) .
+PMC2195799	false	fig-2	42	266	Blots were first probed with antiphosphotyrosine ( Anti-PY ) , then stripped and reprobed with anti-Vav .
+PMC2195799	false	fig-2	42	267	( E ) An intact Vav SH2 domain is needed for JNK1 activation .
+PMC2195799	false	fig-2	42	268	RBL-2H3 cells were transfected with GFP , Vav-GFP , or Vav-GFP ( R694K ) .
+PMC2195799	false	fig-2	42	269	Cells were stimulated ( Ag+ ) or not ( Ag - ) for 8 min as in D , and incubated with anti-JNK1 .
+PMC2195799	false	fig-2	42	270	Immunoblots ( IB ) were first probed with antiphospho-JNK1 , then stripped and reprobed with anti-JNK1 .
+PMC2195799	false	fig-2	42	271	Quantitation of immunoblots was by densitometry .
+PMC2195799	false	fig-2	42	272	Fold induction is the mean of three experiments where values obtained were normalized to the immunoprecipitated protein .
+PMC2195799	false	fig-2	42	273	SD were < 10 % .
+PMC2195799	false	fig-3	43	274	Vav phosphorylation , membrane localization , and JNK1 activation depends on Syk activity .
+PMC2195799	false	fig-3	43	275	( A ) Plasma membrane localization of Vav requires Syk activity .
+PMC2195799	false	fig-3	43	276	Syk deficient cells ( - Syk ) were transfected with Vav-GFP ( - Syk /+ Vav-GFP ) or with both Vav-GFP and Syk ( + Syk /+ Vav-GFP ) .
+PMC2195799	false	fig-3	43	277	Transfected cells were stimulated for 3 min with 30 ng of Ag ( + Ag ) .
+PMC2195799	false	fig-3	43	278	Fixed and permeabilized cells were incubated with mouse antibody to FcinRI beta chain followed by Cy-5-conjugated goat anti-mouse .
+PMC2195799	false	fig-3	43	279	( B ) Vav tyrosine phosphorylation requires Syk .
+PMC2195799	false	fig-3	43	280	Syk deficient cells were transfected with Vav-GFP or with both Vav-GFP and Syk .
+PMC2195799	false	fig-3	43	281	FcinRI stimulated ( Ag+ ) cells were lysed and incubated with anti-GFP .
+PMC2195799	false	fig-3	43	282	Proteins were resolved and transferred for immunoblots ( IB ) and probed with antiphosphotyrosine ( Anti-PY ) , then stripped and reprobed with anti-Vav .
+PMC2195799	false	fig-3	43	283	( C ) Syk and Vav synergize to activate JNK1 .
+PMC2195799	false	fig-3	43	284	Syk deficient cells were transfected with either GFP , Syk , Vav-GFP , or both Vav-GFP and Syk .
+PMC2195799	false	fig-3	43	285	Transfected cells were stimulated ( Ag+ ) or not ( Ag - ) with 300 ng and ml of Ag for 8 min , lysed , and incubated with antibody to JNK1 .
+PMC2195799	false	fig-3	43	286	Resolved proteins were first immunoblotted with anti-phosphoJNK1 , then stripped and reprobed with anti-JNK1 .
+PMC2195799	false	fig-3	43	287	Quantitation of immunoblots ( IB ) was by densitometry .
+PMC2195799	false	fig-3	43	288	Fold induction is the mean of two experiments where values obtained were normalized to the immunoprecipitated protein .
+PMC2195799	false	fig-3	43	289	SD were < 7 % .
+PMC2195799	false	fig-4	44	290	Vav-C inhibits Vav phosphorylation and association with but not phosphorylation of Syk , SLP-76 , and LAT .
+PMC2195799	false	fig-4	44	291	( A ) Vav-C ( SH3-SH2-SH3 ) is membrane localized upon FcinRI engagement .
+PMC2195799	false	fig-4	44	292	RBL-2H3 cells were transfected with Vav-C-GFP or an SH2 domain mutated Vav-C ( R694K ) - GFP .
+PMC2195799	false	fig-4	44	293	Cells were stimulated with 30 ng and ml of Ag for 3 min ( + Ag ) or left untreated ( - Ag ) and examined by confocal laser microscopy .
+PMC2195799	false	fig-4	44	294	( B ) Expression levels of GFP alone , Vav-C , or Vav-C ( R694K ) tagged with GFP .
+PMC2195799	false	fig-4	44	295	Cells transfected as in A were lysed , and 5 x 104 cell equivalents per lane of protein were resolved by SDS-PAGE and transferred for immunoblotting ( IB ) .
+PMC2195799	false	fig-4	44	296	For immunoprecipitation experiments , 1.0-2 .0 x 107 cells were used .
+PMC2195799	false	fig-4	44	297	Expression levels were determined by probing with an antibody to GFP ( shown ) or in some cases with a mouse mAb to Vav .
+PMC2195799	false	fig-4	44	298	( C ) Vav-C inhibits phosphorylation of Vav and its association with Syk but not Syk phosphorylation .
+PMC2195799	false	fig-4	44	299	RBL-2H3 cells transfected with Vav , Vav-C , and Syk or Vav , Vav-C ( R694K ) , and Syk were stimulated as in the legend to        D , lysed , and incubated with antibody to Syk .
+PMC2195799	false	fig-4	44	300	Recovered proteins were immunoblotted ( IB ) with antiphosphotyrosine ( Anti-PY ) , then stripped and reprobed sequentially with anti-Vav and anti-Syk .
+PMC2195799	false	fig-4	44	301	( D ) Nontransfected RBL-2H3 cells were stimulated ( Ag+ ) or not ( Ag - ) as in the legend to        D. Cells were lysed as described in Materials and Methods , and LAT or Vav was immunoprecipitated .
+PMC2195799	false	fig-4	44	302	Proteins were resolved and immunoblotted with antibody to LAT , SLP-76 , and Vav .
+PMC2195799	false	fig-4	44	303	( E ) Vav-C inhibits the association of Vav and LAT with SLP-76 without affecting the SLP-76 phosphorylation .
+PMC2195799	false	fig-4	44	304	RBL-2H3 cells were transfected with Vav and GFP or Vav and Vav-C-GFP .
+PMC2195799	false	fig-4	44	305	Cells were stimulated ( Ag+ ) or not ( Ag - ) as in the legend to        D , then lysed and incubated with antibody to SLP-76 .
+PMC2195799	false	fig-4	44	306	Immunoblots were first probed with antiphosphotyrosine ( Anti-PY ) , then stripped and reprobed with anti-SLP-76 , anti-Vav , anti-LAT , and anti-Grb2 .
+PMC2195799	false	fig-4	44	307	( F ) Vav-C has no effect on the tyrosine phosphorylation of LAT .
+PMC2195799	false	fig-4	44	308	Experiments were done as in E , but cell lysates were incubated with antibody to LAT ( Anti-LAT ) .
+PMC2195799	false	fig-4	44	309	Immunoblots were probed with antiphosphotyrosine and subsequently with anti-LAT .
+PMC2195799	false	fig-5	45	310	LAT , Rac 1 , FcinRI , and Vav are constitutively present or recruited to GEMs : Vav localization to GEMs and JNK1 activation are inhibited by Vav-C expression .
+PMC2195799	false	fig-5	45	311	( A ) RBL-2H3 cells were transfected with Vav-GFP and Vav-C or Vav-GFP and Vav-C ( R694K ) .
+PMC2195799	false	fig-5	45	312	Cells were sensitized with 125I-IgE and stimulated ( Ag+ ) or not ( Ag - ) as in the legend to        D. GEMs were isolated as described ( reference 35 ) , and Vav or LAT was immunoprecipitated from pooled fractions or proteins concentrated by TCA precipitation .
+PMC2195799	false	fig-5	45	313	Proteins were immunoblotted with anti-Vav , anti-LAT , anti-Rac1 , or anti-Lyn .
+PMC2195799	false	fig-5	45	314	Numbers indicate pooled fractions ( GEMs are found in fractions 4-6 ) .
+PMC2195799	false	fig-5	45	315	The equivalent fractions from nonstimulated ( Ag - ) and FcinRI stimulated ( Ag+ ) cells are shown next to each other .
+PMC2195799	false	fig-5	45	316	PNS , postnuclear supernatant .
+PMC2195799	false	fig-5	45	317	Lyn was used as a positive control for the GEM fraction ( reference    , whereas the absence of paxillin in GEMs was a negative control ( reference 48 ) .
+PMC2195799	false	fig-5	45	318	FcinRI distribution before and after stimulation is shown as a percentage of the total 125I-IgE recovered in the pooled fractions .
+PMC2195799	false	fig-5	45	319	( B ) Vav-C inhibits the FcinRI mediated activation of endogenous JNK1 .
+PMC2195799	false	fig-5	45	320	RBL-2H3 cells were transfected with GFP or Vav-C-GFP .
+PMC2195799	false	fig-5	45	321	Cells were stimulated as in the legend to        E ( Ag+ ) or not ( Ag - ) .
+PMC2195799	false	fig-5	45	322	Cells were lysed , and endogenous JNK1 and Vav were immunoprecipitated .
+PMC2195799	false	fig-5	45	323	Vav blots were first probed with antiphosphotyrosine ( Anti-PY ) and then with anti-Vav .
+PMC2195799	false	fig-5	45	324	For direct quantitation of activity , in-gel kinase assays were performed with JNK1 immunoprecipitates as described ( reference 36 ) .
+PMC2195799	false	fig-5	45	325	Quantitation was by Molecular Storm ( R ) imaging ( Molecular Dynamics ) .
+PMC2195799	false	fig-5	45	326	One representative of four experiments using either GFP or Vav-C ( R694K ) - GFP as negative controls is shown .
+PMC2195799	false	fig-5	45	327	No difference was observed with either negative control .
+PMC2195799	false	fig-6	46	328	Model of FcinRI communication with Vav .
+PMC2195799	false	fig-6	46	329	FcinRI engagement results in Lyn phosphorylation of the ITAMs of the receptors and recruitment of receptors into GEMs  .
+PMC2195799	false	fig-6	46	330	Which step occurs first is presently unclear .
+PMC2195799	false	fig-6	46	331	Syk is recruited to the phosphorylated ITAMs of FcinRI and is activated  .
+PMC2195799	false	fig-6	46	332	Syk may target Vav for phosphorylation in the membrane or cytosol .
+PMC2195799	false	fig-6	46	333	Our data show the presence of phosphorylated Vav in both the cytosol and membrane , suggesting the possibility that phosphorylation may take place in the cytosol before membrane localization  .
+PMC2195799	false	fig-6	46	334	Phosphorylated Vav can associate with the adaptor protein , SLP-76 , which can mediate Vav movement to the GEMs because of SLP-76 binding to the scaffold protein , LAT , which is found in GEMs .
+PMC2195799	false	fig-6	46	335	Recruitment of Vav into these domains allows Vav to target Rac1 and activate it  .
+PMC2195799	false	fig-6	46	336	Full activation of JNK1 via the FcinRI requires Vav activity .

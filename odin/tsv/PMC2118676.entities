@@ -1,0 +1,505 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2118676	0	uniprot:UNRESOLVED ID	SCFFBW7 ubiquitin	Gene_or_gene_product
+PMC2118676	0	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2118676	0	uniprot:UNRESOLVED ID	leukemia	CellType
+PMC2118676	1	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	1	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2118676	1	uniprot:UNRESOLVED ID	leukemia	CellType
+PMC2118676	2	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	3	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	3	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	4	uniprot:UNRESOLVED ID	NOTCH1-FBW7	Gene_or_gene_product
+PMC2118676	5	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	5	ncbitax:species:ncbi:9606	human	Species
+PMC2118676	6	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	6	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	6	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC2118676	6	uniprot:P12004	cyclin	Gene_or_gene_product
+PMC2118676	7	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	7	uniprot:UNRESOLVED ID	NOTCH1 HD	Gene_or_gene_product
+PMC2118676	8	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	8	uniprot:UNRESOLVED ID	gamma-secretase	Gene_or_gene_product
+PMC2118676	8	uniprot:UNRESOLVED ID	c-Myc protein	Gene_or_gene_product
+PMC2118676	9	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	9	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2118676	9	uniprot:UNRESOLVED ID	leukemia	CellType
+PMC2118676	10	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	10	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	11	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	11	uniprot:UNRESOLVED ID	N1-IC proteins	Gene_or_gene_product
+PMC2118676	11	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	12	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	12	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	13	uniprot:UNRESOLVED ID	N1-IC	Gene_or_gene_product
+PMC2118676	13	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	14	uniprot:UNRESOLVED ID	N1-ICDelta162	Gene_or_gene_product
+PMC2118676	14	uniprot:UNRESOLVED ID	N1-ICDelta82	Gene_or_gene_product
+PMC2118676	14	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	15	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	15	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	16	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	16	uniprot:UNRESOLVED ID	N1-IC WT	Gene_or_gene_product
+PMC2118676	16	uniprot:UNRESOLVED ID	N1-ICWT	Gene_or_gene_product
+PMC2118676	18	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	19	uniprot:UNRESOLVED ID	LNR	Gene_or_gene_product
+PMC2118676	19	uniprot:UNRESOLVED ID	LIN-Notch repeat domain	Gene_or_gene_product
+PMC2118676	19	uniprot:Q8TAB7	RAM	Gene_or_gene_product
+PMC2118676	19	uniprot:P42858	HD	Gene_or_gene_product
+PMC2118676	20	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	20	uniprot:UNRESOLVED ID	N1-ICWT	Gene_or_gene_product
+PMC2118676	20	uniprot:UNRESOLVED ID	N1-ICDelta82	Gene_or_gene_product
+PMC2118676	20	uniprot:UNRESOLVED ID	N1-ICDelta162	Gene_or_gene_product
+PMC2118676	21	uniprot:UNRESOLVED ID	FBW7alpha	Gene_or_gene_product
+PMC2118676	21	uniprot:UNRESOLVED ID	N1L1601P	Gene_or_gene_product
+PMC2118676	21	uniprot:UNRESOLVED ID	N1L1601P-Delta82	Gene_or_gene_product
+PMC2118676	21	uniprot:UNRESOLVED ID	CSL luciferase reporter	Gene_or_gene_product
+PMC2118676	22	uniprot:UNRESOLVED ID	pCDNA3.1	Gene_or_gene_product
+PMC2118676	23	uniprot:P46060	SD	Gene_or_gene_product
+PMC2118676	24	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	24	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	24	uniprot:Q06330	RBP-J	Gene_or_gene_product
+PMC2118676	24	uniprot:Q14406	CSL	Gene_or_gene_product
+PMC2118676	24	uniprot:UNRESOLVED ID	luciferase reporter	Gene_or_gene_product
+PMC2118676	25	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	25	uniprot:UNRESOLVED ID	N1L1601P	Gene_or_gene_product
+PMC2118676	26	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	27	uniprot:UNRESOLVED ID	FBW7alpha	Gene_or_gene_product
+PMC2118676	29	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	29	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	29	uniprot:UNRESOLVED ID	full-length FBW7alpha	Gene_or_gene_product
+PMC2118676	30	uazid:UA-ORG-381	hand	Organ
+PMC2118676	30	uniprot:UNRESOLVED ID	N1L1601P-Delta82	Gene_or_gene_product
+PMC2118676	30	uniprot:UNRESOLVED ID	FBW7alpha	Gene_or_gene_product
+PMC2118676	31	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	31	uniprot:UNRESOLVED ID	NOTCH1-HD	Gene_or_gene_product
+PMC2118676	32	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	32	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	33	uniprot:UNRESOLVED ID	F-box protein binding sites	Gene_or_gene_product
+PMC2118676	34	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	35	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	36	uniprot:P49841	GSK3-beta	Gene_or_gene_product
+PMC2118676	36	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	38	uniprot:UNRESOLVED ID	N1-ICT2133A	Gene_or_gene_product
+PMC2118676	38	uniprot:UNRESOLVED ID	N1-ICT2467A	Gene_or_gene_product
+PMC2118676	38	uniprot:UNRESOLVED ID	N1-ICT2484A	Gene_or_gene_product
+PMC2118676	38	uniprot:UNRESOLVED ID	N1-ICT2512A	Gene_or_gene_product
+PMC2118676	38	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	39	uniprot:UNRESOLVED ID	N1-ICT2512A	Gene_or_gene_product
+PMC2118676	39	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	40	uniprot:UNRESOLVED ID	FBW7 NOTCH1	Gene_or_gene_product
+PMC2118676	41	uniprot:UNRESOLVED ID	N1-IC	Gene_or_gene_product
+PMC2118676	41	uniprot:UNRESOLVED ID	N1-ICT2133A	Gene_or_gene_product
+PMC2118676	41	uniprot:UNRESOLVED ID	N1-ICT2467A	Gene_or_gene_product
+PMC2118676	41	uniprot:UNRESOLVED ID	N1-ICT2484A	Gene_or_gene_product
+PMC2118676	41	uniprot:UNRESOLVED ID	N1-ICT2512A	Gene_or_gene_product
+PMC2118676	41	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	42	uniprot:UNRESOLVED ID	N1-ICT2512A	Gene_or_gene_product
+PMC2118676	42	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	43	uniprot:UNRESOLVED ID	N1L1601P	Gene_or_gene_product
+PMC2118676	43	uniprot:UNRESOLVED ID	N1L1601P-T2512A	Gene_or_gene_product
+PMC2118676	43	uniprot:UNRESOLVED ID	FBW7alpha	Gene_or_gene_product
+PMC2118676	43	uniprot:Q26304	luciferase	Gene_or_gene_product
+PMC2118676	44	uniprot:UNRESOLVED ID	FBW7alpha	Gene_or_gene_product
+PMC2118676	45	uniprot:Q26304	luciferase	Gene_or_gene_product
+PMC2118676	47	uniprot:UNRESOLVED ID	SCFFBW7alpha	Gene_or_gene_product
+PMC2118676	47	uniprot:P63208	SKP1	Gene_or_gene_product
+PMC2118676	47	uniprot:Q13616	CUL1	Gene_or_gene_product
+PMC2118676	47	uniprot:P62877	ROC1	Gene_or_gene_product
+PMC2118676	47	uniprot:UNRESOLVED ID	FBW7alpha	Gene_or_gene_product
+PMC2118676	47	uniprot:UNRESOLVED ID	Ub-HA	Gene_or_gene_product
+PMC2118676	48	uniprot:UNRESOLVED ID	SCFFBW7alpha	Gene_or_gene_product
+PMC2118676	48	uniprot:UNRESOLVED ID	N1-ICWT	Gene_or_gene_product
+PMC2118676	48	uniprot:UNRESOLVED ID	N1-ICDelta82	Gene_or_gene_product
+PMC2118676	48	uniprot:UNRESOLVED ID	N1-ICT2512A	Gene_or_gene_product
+PMC2118676	50	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	51	uniprot:P49336	CDK8	Gene_or_gene_product
+PMC2118676	51	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	52	uniprot:UNRESOLVED ID	N1-ICS2514A-S2517A	Gene_or_gene_product
+PMC2118676	52	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	53	uniprot:P46060	SD	Gene_or_gene_product
+PMC2118676	55	uniprot:UNRESOLVED ID	N1L1601P	Gene_or_gene_product
+PMC2118676	55	uniprot:UNRESOLVED ID	FBW7alpha	Gene_or_gene_product
+PMC2118676	55	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	55	uniprot:UNRESOLVED ID	luciferase reporter	Gene_or_gene_product
+PMC2118676	56	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	56	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	58	uniprot:UNRESOLVED ID	FBW7-NOTCH1	Gene_or_gene_product
+PMC2118676	58	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	59	uniprot:UNRESOLVED ID	N1L1601P-T2512A	Gene_or_gene_product
+PMC2118676	59	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	60	uniprot:Q26304	luciferase	Gene_or_gene_product
+PMC2118676	61	uniprot:UNRESOLVED ID	N1-ICT2512A	Gene_or_gene_product
+PMC2118676	61	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	61	uniprot:UNRESOLVED ID	SCFFBW7alpha complex	Gene_or_gene_product
+PMC2118676	62	uniprot:P0CG47	ubiquitin	Gene_or_gene_product
+PMC2118676	63	uniprot:UNRESOLVED ID	HA-ubiquitin immuno	Gene_or_gene_product
+PMC2118676	63	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	64	uniprot:UNRESOLVED ID	SCFFBW7alpha	Gene_or_gene_product
+PMC2118676	64	uniprot:UNRESOLVED ID	N1-ICWT	Gene_or_gene_product
+PMC2118676	65	uniprot:UNRESOLVED ID	N1-ICDelta82	Gene_or_gene_product
+PMC2118676	65	uniprot:UNRESOLVED ID	SCFFBW7alpha	Gene_or_gene_product
+PMC2118676	65	uniprot:UNRESOLVED ID	N1-IC	Gene_or_gene_product
+PMC2118676	66	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	67	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	67	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	68	uniprot:UNRESOLVED ID	NOTCH1 FBW7	Gene_or_gene_product
+PMC2118676	69	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	70	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	71	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	71	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	72	uniprot:UNRESOLVED ID	N1-ICE2516A	Gene_or_gene_product
+PMC2118676	72	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	73	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	75	uniprot:P49336	CDK8	Gene_or_gene_product
+PMC2118676	76	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	76	uniprot:UNRESOLVED ID	N1-IC constructs	Gene_or_gene_product
+PMC2118676	76	uniprot:UNRESOLVED ID	N1-ICS2514A-S2517A	Gene_or_gene_product
+PMC2118676	78	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	78	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	78	uniprot:P49336	CDK8	Gene_or_gene_product
+PMC2118676	79	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	80	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	80	uniprot:UNRESOLVED ID	P2519	Gene_or_gene_product
+PMC2118676	81	uniprot:P46531	Notch1	Gene_or_gene_product
+PMC2118676	81	ncbitax:species:ncbi:9606	human	Species
+PMC2118676	81	ncbitax:species:ncbi:10090	mouse	Species
+PMC2118676	82	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	85	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	86	uniprot:UNRESOLVED ID	KOPTK1 T-ALL sample	Gene_or_gene_product
+PMC2118676	86	uniprot:UNRESOLVED ID	WT LTPSPESP degron	Gene_or_gene_product
+PMC2118676	86	uniprot:UNRESOLVED ID	mutated LTPSRVP sequence	Gene_or_gene_product
+PMC2118676	87	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	87	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	88	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	89	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	89	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	90	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	90	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	91	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	91	ncbitax:species:ncbi:9606	human	Species
+PMC2118676	92	uniprot:Q969H0	FBXW7	Gene_or_gene_product
+PMC2118676	93	uniprot:UNRESOLVED ID	Table S1	Gene_or_gene_product
+PMC2118676	93	uniprot:UNRESOLVED ID	http://www.jem.org/cgi/content/full/jem.20070872/DC1	Gene_or_gene_product
+PMC2118676	94	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	94	uniprot:Q969H0	FBXW7	Gene_or_gene_product
+PMC2118676	95	uniprot:Q969H0	FBXW7	Gene_or_gene_product
+PMC2118676	95	ncbitax:species:ncbi:9606	patient	Species
+PMC2118676	95	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	96	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	98	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	98	ncbitax:species:ncbi:9606	human	Species
+PMC2118676	99	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	99	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	99	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC2118676	99	uniprot:P12004	cyclin	Gene_or_gene_product
+PMC2118676	100	uniprot:UNRESOLVED ID	WD40 repeats III and IV	Gene_or_gene_product
+PMC2118676	100	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	101	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	102	ncbitax:species:ncbi:4932	yeast	Species
+PMC2118676	102	uniprot:P53699	Cdc4	Gene_or_gene_product
+PMC2118676	102	uniprot:P12004	cyclin	Gene_or_gene_product
+PMC2118676	103	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	103	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	103	uniprot:UNRESOLVED ID	DN FBW7R465C	Gene_or_gene_product
+PMC2118676	103	uniprot:UNRESOLVED ID	DN FBW7R505C	Gene_or_gene_product
+PMC2118676	103	uniprot:UNRESOLVED ID	DN FBW7R479Q	Gene_or_gene_product
+PMC2118676	103	uniprot:UNRESOLVED ID	N1-IC	Gene_or_gene_product
+PMC2118676	104	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	105	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	106	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC2118676	106	uniprot:P12004	cyclin	Gene_or_gene_product
+PMC2118676	107	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	107	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	107	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC2118676	107	uniprot:P12004	cyclin	Gene_or_gene_product
+PMC2118676	108	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	109	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	111	uniprot:UNRESOLVED ID	DN FBW7R465C	Gene_or_gene_product
+PMC2118676	111	uniprot:UNRESOLVED ID	DN FBW7R479Q	Gene_or_gene_product
+PMC2118676	111	uniprot:UNRESOLVED ID	DN FBW7R505C	Gene_or_gene_product
+PMC2118676	111	uniprot:UNRESOLVED ID	N1-IC	Gene_or_gene_product
+PMC2118676	112	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	112	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC2118676	112	uniprot:P12004	cyclin	Gene_or_gene_product
+PMC2118676	113	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	113	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	114	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	114	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	115	uniprot:UNRESOLVED ID	NOTCH1-HD	Gene_or_gene_product
+PMC2118676	115	uniprot:UNRESOLVED ID	RPMI 8402	Gene_or_gene_product
+PMC2118676	115	uniprot:UNRESOLVED ID	P12-ICHIKAWA	Gene_or_gene_product
+PMC2118676	115	uniprot:UNRESOLVED ID	CEM	Gene_or_gene_product
+PMC2118676	115	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	115	uniprot:UNRESOLVED ID	Be13	Gene_or_gene_product
+PMC2118676	116	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	116	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	117	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	117	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	118	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	118	uniprot:UNRESOLVED ID	NOTCH1-HD	Gene_or_gene_product
+PMC2118676	119	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	119	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	120	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	120	ncbitax:species:ncbi:9606	patient	Species
+PMC2118676	121	ncbitax:species:ncbi:9606	patient	Species
+PMC2118676	121	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	123	uazid:UA-ORG-381	hand	Organ
+PMC2118676	123	uniprot:UNRESOLVED ID	NOTCH1-HD	Gene_or_gene_product
+PMC2118676	124	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	125	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	125	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	126	uniprot:P46531	Notch1	Gene_or_gene_product
+PMC2118676	126	ncbitax:species:ncbi:9606	patient	Species
+PMC2118676	127	uniprot:P42858	HD	Gene_or_gene_product
+PMC2118676	128	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	128	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	129	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	129	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	130	uniprot:UNRESOLVED ID	WT FBW7alpha	Gene_or_gene_product
+PMC2118676	131	uniprot:UNRESOLVED ID	Flag-FBW7alpha	Gene_or_gene_product
+PMC2118676	132	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	132	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	132	uniprot:P30042	HES1	Gene_or_gene_product
+PMC2118676	132	uniprot:Q86Y01	DELTEX1	Gene_or_gene_product
+PMC2118676	133	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	134	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	134	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	135	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	135	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	136	uniprot:UNRESOLVED ID	FBW7WT	Gene_or_gene_product
+PMC2118676	136	ncbitax:species:ncbi:31931	retrovirus	Species
+PMC2118676	136	uniprot:UNRESOLVED ID	MigR1-FBW7alpha	Gene_or_gene_product
+PMC2118676	137	uniprot:UNRESOLVED ID	MigR1	Gene_or_gene_product
+PMC2118676	138	uniprot:UNRESOLVED ID	Flag-FBW7alpha	Gene_or_gene_product
+PMC2118676	138	uniprot:UNRESOLVED ID	MigR1-FBW7alpha	Gene_or_gene_product
+PMC2118676	139	uniprot:P9WQ36	FACS	Gene_or_gene_product
+PMC2118676	139	uniprot:UNRESOLVED ID	MigR1-FBW7alpha	Gene_or_gene_product
+PMC2118676	140	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	140	uniprot:Q86Y01	DELTEX1	Gene_or_gene_product
+PMC2118676	140	uniprot:P30042	HES1	Gene_or_gene_product
+PMC2118676	140	uniprot:UNRESOLVED ID	MigR1-FBW7alpha	Gene_or_gene_product
+PMC2118676	141	uniprot:P46060	SD	Gene_or_gene_product
+PMC2118676	142	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC2118676	142	uniprot:UNRESOLVED ID	FBW7MUT	Gene_or_gene_product
+PMC2118676	142	uniprot:UNRESOLVED ID	gamma-secretase	Gene_or_gene_product
+PMC2118676	143	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	143	uniprot:UNRESOLVED ID	gamma-secretase	Gene_or_gene_product
+PMC2118676	144	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC2118676	144	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	145	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC2118676	145	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	146	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC2118676	146	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	147	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	147	uniprot:UNRESOLVED ID	FBW7WT	Gene_or_gene_product
+PMC2118676	147	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC2118676	147	uniprot:UNRESOLVED ID	SCFFBW7	Gene_or_gene_product
+PMC2118676	148	uazid:UA-ORG-381	hand	Organ
+PMC2118676	148	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	148	uniprot:UNRESOLVED ID	FBW7MUT	Gene_or_gene_product
+PMC2118676	148	uniprot:UNRESOLVED ID	c-Myc protein	Gene_or_gene_product
+PMC2118676	149	uniprot:UNRESOLVED ID	gamma-secretase	Gene_or_gene_product
+PMC2118676	149	uniprot:UNRESOLVED ID	KOPTK	Gene_or_gene_product
+PMC2118676	149	uniprot:UNRESOLVED ID	FBW7WT	Gene_or_gene_product
+PMC2118676	149	uniprot:UNRESOLVED ID	Be13	Gene_or_gene_product
+PMC2118676	149	uniprot:UNRESOLVED ID	FBW7MUT	Gene_or_gene_product
+PMC2118676	149	uniprot:UNRESOLVED ID	P12-ICHICAWA	Gene_or_gene_product
+PMC2118676	149	uniprot:UNRESOLVED ID	CEM	Gene_or_gene_product
+PMC2118676	149	uniprot:UNRESOLVED ID	gamma-secretase inhibitor	Gene_or_gene_product
+PMC2118676	150	uniprot:UNRESOLVED ID	N1-IC protein	Gene_or_gene_product
+PMC2118676	151	uniprot:UNRESOLVED ID	c-Myc protein	Gene_or_gene_product
+PMC2118676	151	uniprot:UNRESOLVED ID	KOPTK	Gene_or_gene_product
+PMC2118676	151	uniprot:UNRESOLVED ID	FBW7WT	Gene_or_gene_product
+PMC2118676	152	uniprot:UNRESOLVED ID	c-Myc protein	Gene_or_gene_product
+PMC2118676	153	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	153	uniprot:UNRESOLVED ID	c-Myc protein	Gene_or_gene_product
+PMC2118676	153	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	154	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	154	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC2118676	155	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	155	uniprot:UNRESOLVED ID	gamma-secretase	Gene_or_gene_product
+PMC2118676	156	uniprot:UNRESOLVED ID	MG132	Gene_or_gene_product
+PMC2118676	156	ncbitax:species:ncbi:41568	muM	Species
+PMC2118676	156	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC2118676	157	uniprot:UNRESOLVED ID	MG132	Gene_or_gene_product
+PMC2118676	157	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC2118676	157	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	158	uniprot:UNRESOLVED ID	N1-IC	Gene_or_gene_product
+PMC2118676	158	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC2118676	158	uniprot:UNRESOLVED ID	CompE	Gene_or_gene_product
+PMC2118676	159	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	160	uniprot:UNRESOLVED ID	A and B.	Gene_or_gene_product
+PMC2118676	161	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	162	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	163	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	163	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	164	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	164	ncbitax:species:ncbi:9606	human	Species
+PMC2118676	165	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	165	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	165	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC2118676	165	uniprot:P12004	cyclin	Gene_or_gene_product
+PMC2118676	167	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	169	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	170	uniprot:UNRESOLVED ID	N1-IC	Gene_or_gene_product
+PMC2118676	170	uniprot:P49336	CDK8	Gene_or_gene_product
+PMC2118676	170	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	171	uniprot:Q92585	MAML1	Gene_or_gene_product
+PMC2118676	171	uniprot:P49336	CDK8	Gene_or_gene_product
+PMC2118676	171	uniprot:UNRESOLVED ID	N1-IC	Gene_or_gene_product
+PMC2118676	172	uniprot:P49336	CDK8	Gene_or_gene_product
+PMC2118676	173	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	174	uniprot:P49336	CDK8	Gene_or_gene_product
+PMC2118676	174	uniprot:UNRESOLVED ID	N1-IC	Gene_or_gene_product
+PMC2118676	174	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	175	uniprot:P49336	CDK8	Gene_or_gene_product
+PMC2118676	176	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	177	uniprot:P53699	Cdc4	Gene_or_gene_product
+PMC2118676	177	uniprot:P12004	cyclin	Gene_or_gene_product
+PMC2118676	177	uniprot:UNRESOLVED ID	WD40 repeats III and IV	Gene_or_gene_product
+PMC2118676	177	uniprot:UNRESOLVED ID	FBW7alpha isoform	Gene_or_gene_product
+PMC2118676	178	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	178	uniprot:UNRESOLVED ID	leukemia	CellType
+PMC2118676	178	ncbitax:species:ncbi:9606	human	Species
+PMC2118676	179	uniprot:Q969H0	Fbw7	Gene_or_gene_product
+PMC2118676	179	uniprot:O89094	mice	Species
+PMC2118676	179	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	180	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	180	uniprot:UNRESOLVED ID	c-Myc degrons	Gene_or_gene_product
+PMC2118676	181	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	181	uniprot:UNRESOLVED ID	leukemia	CellType
+PMC2118676	182	uniprot:UNRESOLVED ID	leukemia	CellType
+PMC2118676	182	uniprot:Q6PF39	AML	Gene_or_gene_product
+PMC2118676	182	ncbitax:species:ncbi:9606	patient	Species
+PMC2118676	183	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	184	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	184	uniprot:UNRESOLVED ID	N1-IC	Gene_or_gene_product
+PMC2118676	184	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC2118676	185	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	185	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	185	uniprot:UNRESOLVED ID	NOTCH1-HD	Gene_or_gene_product
+PMC2118676	186	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	186	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	186	uazid:UA-CT-22	lymphocytes	CellType
+PMC2118676	187	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	187	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	188	uazid:UA-ORG-381	hand	Organ
+PMC2118676	189	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	190	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	190	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	191	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC2118676	191	uniprot:P12004	cyclin	Gene_or_gene_product
+PMC2118676	192	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC2118676	192	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	193	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	194	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	195	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	195	uniprot:Q05542	GSI	Gene_or_gene_product
+PMC2118676	196	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	196	uniprot:P0CG47	ubiquitin	Gene_or_gene_product
+PMC2118676	196	uniprot:UNRESOLVED ID	c-Myc protein	Gene_or_gene_product
+PMC2118676	197	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC2118676	197	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	198	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC2118676	198	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	198	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	199	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	199	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC2118676	200	uniprot:UNRESOLVED ID	c-Myc protein	Gene_or_gene_product
+PMC2118676	200	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	201	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	202	uniprot:UNRESOLVED ID	PF382	Gene_or_gene_product
+PMC2118676	203	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	203	ncbitax:species:ncbi:9606	human	Species
+PMC2118676	203	uniprot:UNRESOLVED ID	NOTCH1-c-Myc	Gene_or_gene_product
+PMC2118676	204	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	205	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	206	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	206	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	207	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	207	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	208	uniprot:UNRESOLVED ID	lymphoblast	CellType
+PMC2118676	208	ncbitax:species:ncbi:9606	Children	Species
+PMC2118676	208	uniprot:P05452	TN	Gene_or_gene_product
+PMC2118676	209	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	210	ncbitax:species:ncbi:31931	retrovirus	Species
+PMC2118676	211	uniprot:Q56704	Flag	Species
+PMC2118676	211	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	211	uniprot:UNRESOLVED ID	NOTCH1L1601P-Delta82	Gene_or_gene_product
+PMC2118676	211	uniprot:UNRESOLVED ID	NOTCH1L1601P-T2512A mutants	Gene_or_gene_product
+PMC2118676	211	ncbitax:species:ncbi:9606	human	Species
+PMC2118676	211	uniprot:UNRESOLVED ID	pcDNA3.1	Gene_or_gene_product
+PMC2118676	212	uniprot:UNRESOLVED ID	DeltaPEST mutants	Gene_or_gene_product
+PMC2118676	212	uniprot:P69208	HA	Gene_or_gene_product
+PMC2118676	213	uniprot:Q56704	Flag	Species
+PMC2118676	213	uniprot:UNRESOLVED ID	FBW7alpha	Gene_or_gene_product
+PMC2118676	213	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	213	uniprot:P12004	cyclin	Gene_or_gene_product
+PMC2118676	213	uniprot:UNRESOLVED ID	Ub-HA	Gene_or_gene_product
+PMC2118676	213	uniprot:P21583	SCF	Gene_or_gene_product
+PMC2118676	213	uniprot:Q13616	CUL1	Gene_or_gene_product
+PMC2118676	213	uniprot:P62877	ROC1	Gene_or_gene_product
+PMC2118676	213	uniprot:P63208	SKP1	Gene_or_gene_product
+PMC2118676	214	uniprot:Q56704	Flag	Species
+PMC2118676	214	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	214	uniprot:P69208	HA	Gene_or_gene_product
+PMC2118676	216	uniprot:UNRESOLVED ID	FuGENE 6	Gene_or_gene_product
+PMC2118676	217	uniprot:UNRESOLVED ID	TENT buffer	Gene_or_gene_product
+PMC2118676	217	uniprot:UNRESOLVED ID	Tris pH	Gene_or_gene_product
+PMC2118676	217	uniprot:P10145	NaF	Gene_or_gene_product
+PMC2118676	217	uniprot:P10265	protease	Gene_or_gene_product
+PMC2118676	218	uniprot:P69208	HA	Gene_or_gene_product
+PMC2118676	218	uniprot:Q56704	Flag	Species
+PMC2118676	219	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2118676	219	uniprot:Q56704	Flag	Species
+PMC2118676	219	uniprot:P69208	HA	Gene_or_gene_product
+PMC2118676	219	uniprot:P46531	Notch1	Gene_or_gene_product
+PMC2118676	219	uniprot:UNRESOLVED ID	Santa Cruz Biotechnology	Gene_or_gene_product
+PMC2118676	220	uniprot:UNRESOLVED ID	RPMI 1640	Gene_or_gene_product
+PMC2118676	220	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2118676	220	ncbitax:species:ncbi:41568	muM	Species
+PMC2118676	221	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2118676	221	uniprot:P46531	Notch1	Gene_or_gene_product
+PMC2118676	221	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC2118676	221	uniprot:UNRESOLVED ID	N-262	Gene_or_gene_product
+PMC2118676	221	uniprot:UNRESOLVED ID	Santa Cruz Biotechnology	Gene_or_gene_product
+PMC2118676	221	uniprot:P12004	cyclin	Gene_or_gene_product
+PMC2118676	221	uniprot:Q96BH3	HE12	Gene_or_gene_product
+PMC2118676	222	uniprot:UNRESOLVED ID	QIAGEN handbook	Gene_or_gene_product
+PMC2118676	224	uniprot:UNRESOLVED ID	1.5 mul cDNA, 1 mul Taq Red DNA Polymerase	Gene_or_gene_product
+PMC2118676	225	uniprot:UNRESOLVED ID	Flag-FBW7alpha	Gene_or_gene_product
+PMC2118676	225	uniprot:Q56704	Flag	Species
+PMC2118676	225	uniprot:UNRESOLVED ID	FBW7alpha reverse 5'-CACTCTCCTGGTCCATCTCC-3'	Gene_or_gene_product
+PMC2118676	226	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	226	ncbitax:species:ncbi:9606	human	Species
+PMC2118676	226	uniprot:UNRESOLVED ID	FB2 forward 5'-AACAACTTTTGGGGACCTC-3'	Gene_or_gene_product
+PMC2118676	226	uniprot:UNRESOLVED ID	WD1 reverse 5'-ACACAACTCCCCCACTCCC-3'	Gene_or_gene_product
+PMC2118676	228	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	228	ncbitax:species:ncbi:9606	human	Species
+PMC2118676	230	uniprot:UNRESOLVED ID	SYBR Green SuperMix	Gene_or_gene_product
+PMC2118676	232	uniprot:Q86Y01	DELTEX1	Gene_or_gene_product
+PMC2118676	232	uniprot:P30042	HES1	Gene_or_gene_product
+PMC2118676	233	uniprot:UNRESOLVED ID	FBW7alpha	Gene_or_gene_product
+PMC2118676	235	uniprot:P02768	serum albumin	Gene_or_gene_product
+PMC2118676	236	uniprot:UNRESOLVED ID	anti-Flag-FITC antibody	Gene_or_gene_product
+PMC2118676	237	uniprot:Q7Z859	PBS	Gene_or_gene_product
+PMC2118676	239	uniprot:Q26304	Luciferase	Gene_or_gene_product
+PMC2118676	240	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2118676	240	uniprot:UNRESOLVED ID	FuGENE 6	Gene_or_gene_product
+PMC2118676	241	uniprot:UNRESOLVED ID	pCDNA3.1	Gene_or_gene_product
+PMC2118676	242	uniprot:Q26304	luciferase	Gene_or_gene_product
+PMC2118676	242	uniprot:UNRESOLVED ID	Dual-Luciferase Reporter Assay System	Gene_or_gene_product
+PMC2118676	243	uniprot:UNRESOLVED ID	Table S1	Gene_or_gene_product
+PMC2118676	243	uniprot:Q969H0	FBW7	Gene_or_gene_product
+PMC2118676	243	ncbitax:species:ncbi:9606	human	Species
+PMC2118676	243	uniprot:P42858	HD	Gene_or_gene_product
+PMC2118676	243	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	244	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2118676	245	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC2118676	245	ncbitax:species:ncbi:9606	human	Species
+PMC2118676	246	uniprot:UNRESOLVED ID	http://www.jem.org/cgi/content/full/jem.20070872/DC1	Gene_or_gene_product
+PMC2118676	248	uniprot:Q9NR09	Bruce	Gene_or_gene_product
+PMC2118676	248	uniprot:Q9P0L2	Mark	Gene_or_gene_product
+PMC2118676	250	uniprot:UNRESOLVED ID	Leukemia	CellType
+PMC2118676	252	uniprot:UNRESOLVED ID	Leukemia	CellType
+PMC2118676	252	uniprot:UNRESOLVED ID	Lymphoma	CellType

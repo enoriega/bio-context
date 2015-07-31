@@ -86,7 +86,7 @@ if __name__ == '__main__':
     ###########################################################
 
     ## Make a sparse design matrix
-    dv = DictVectorizer(sparse=True)
+    dv = DictVectorizer(sparse=False)
     X = dv.fit_transform([entity_dicts[k] for k in entity_dicts])
 
     ## Do Affinity Propagation
@@ -95,5 +95,7 @@ if __name__ == '__main__':
     cluster_centers_indices = af.cluster_centers_indices_
     labels = pd.Series(af.labels_)
 
-
-#frame['humanf'] = frame.apply(lambda x: resolve(x.type, x.id), axis=1)
+    # Binarize X
+    X[X > 1] = 1
+    ## Sort X features by number of ocurrences
+    

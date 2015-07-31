@@ -1,0 +1,449 @@
+Paper ID	Is title?	Section ID	Passage ID	Line Num	Text
+PMC1702560	true	article-title	0	0	DNA Damage Induced Bcl-xL Deamidation Is Mediated by NHE-1 Antiport Regulated Intracellular pH
+PMC1702560	false	abstract	1	1	The pro-survival protein Bcl-xL is critical for the resistance of tumour cells to DNA damage .
+PMC1702560	false	abstract	1	2	We have previously demonstrated , using a mouse cancer model , that oncogenic tyrosine kinase inhibition of DNA damage induced Bcl-xL deamidation tightly correlates with T cell transformation in vivo , although the pathway to Bcl-xL deamidation remains unknown and its functional consequences unclear .
+PMC1702560	false	abstract	1	3	We show here that rBcl-xL deamidation generates an iso-Asp52 / iso-Asp66 species that is unable to sequester pro-apoptotic BH3-only proteins such as Bim and Puma .
+PMC1702560	false	abstract	1	4	DNA damage in thymocytes results in increased expression of the NHE-1 Na and H antiport , an event both necessary and sufficient for subsequent intracellular alkalinisation , Bcl-xL deamidation , and apoptosis .
+PMC1702560	false	abstract	1	5	In murine thymocytes and tumour cells expressing an oncogenic tyrosine kinase , this DNA damage induced cascade is blocked .
+PMC1702560	false	abstract	1	6	Enforced intracellular alkalinisation mimics the effects of DNA damage in murine tumour cells and human B-lineage chronic lymphocytic leukaemia cells , thereby causing Bcl-xL deamidation and increased apoptosis .
+PMC1702560	false	abstract	1	7	Our results define a signalling pathway leading from DNA damage to up regulation of the NHE-1 antiport , to intracellular alkalanisation to Bcl-xL deamidation , to apoptosis , representing the first example , to our knowledge , of how deamidation of internal asparagine residues can be regulated in a protein in vivo .
+PMC1702560	false	abstract	1	8	Our findings also suggest novel approaches to cancer therapy .
+PMC1702560	false	abstract	2	9	Author Summary Cell survival and cell death ( apoptosis ) are controlled by a finely tuned ensemble of pro-survival and pro-apoptotic proteins .
+PMC1702560	false	abstract	2	10	When the two types of protein are balanced , cells survive .
+PMC1702560	false	abstract	2	11	But if the pro-survival proteins dominate , there is a danger that cells with damaged DNA will stay alive , leading to malignancy .
+PMC1702560	false	abstract	2	12	One of the key pro-survival proteins , Bcl-xL , acts by blocking the actions of pro-apoptotic proteins .
+PMC1702560	false	abstract	2	13	We show here that DNA damage results in an important modification of Bcl-xL .
+PMC1702560	false	abstract	2	14	Specifically , when the amide groups are removed from two critical asparagine ( amino acid ) residues , Bcl-xL can no longer block pro-apoptotic proteins , leading to cell death .
+PMC1702560	false	abstract	2	15	Surprisingly , Bcl-xL deamidation is catalysed not by an enzyme , but by increased pH inside the cell due to the up regulation of an NHE-1 transporter that moves positive ions across the cell membrane .
+PMC1702560	false	abstract	2	16	Indeed , artificially increasing pH causes Bcl-xL deamidation and apoptosis in the absence of initial DNA damage .
+PMC1702560	false	abstract	2	17	Exploring this novel pathway may ultimately suggest approaches to cancer therapy , especially when malignant cells are resistant to chemotherapy or radiotherapy .
+PMC1702560	false	abstract	3	18	Until now , the mechanisms and functional implications for DNA damage induced Bcl-xL deamidation were unknown .
+PMC1702560	false	abstract	3	19	Here the authors provide important new insights into this phenomenon and its impact on cell survival .
+PMC1702560	false	s1	4	20	The deamidation of internal asparaginyl and glutaminyl protein residues has attracted increasing attention over the past decade as a modification leading to significant changes in protein function      .
+PMC1702560	false	s1	4	21	The protein deamidation rates of more than 18,000 proteins have been computed , containing 230,000 individual asaparaginyl residues , generating Asn half-lives of less than 1 d to 50 y or more      .
+PMC1702560	false	s1	4	22	Protein deamidation has broad biological implications , ranging from changes in the specificity of antigen presentation    , to modifications in eye lens proteins    , to the activation of RhoA by cytotoxic necrotizing factor    , to aging    , to name but a few examples .
+PMC1702560	false	s1	5	23	The deamidation of Gln proceeds both enzymatically and nonenzymatically in physiological systems , whereas only the nonenzymatic deamidation of internal Asn residues has been reported , involving conversion to Iso-Asp : Asp in a ratio of about 3:1 , with the precise ratio depending on the environment of the Asn residue      .
+PMC1702560	false	s1	5	24	Deamidation of both Gln and Asn residues in vitro can be greatly accelerated by exposure to either acid or alkaline pH , with minima in the range pH 4-6 .
+PMC1702560	false	s1	5	25	Until recently , it was assumed that Asn protein deamidation rates in vivo were set up by a " fixed clock " that was defined only by the primary , secondary , and tertiary structures of proteins that specified the half-life of the particular Asn residue in question .
+PMC1702560	false	s1	5	26	However , this view has been radically changed by the recent observation that DNA damage induces the relatively rapid deamidation of the pro-survival protein Bcl-xL in an osteosarcoma cell line system    , indicating that the deamidation " clock " , far from being fixed , is a dynamic process that can be regulated in vivo by biologically critical events .
+PMC1702560	false	s1	5	27	Bcl-xL deamidation in response to DNA damage occurs at two internal Asn residues ( Asn52 and Asn66 ) , causing a characteristic retardation on SDS-polyacrylamide gel eletrophoresis ( PAGE ) gels       .
+PMC1702560	false	s1	5	28	Initial work from the Weintraub laboratory suggested that when Asn52 and Asn66 are both mutated to Asp , then Bcl-xL loses its ability to bind to the BH3-only pro-apoptotic protein Bim , thereby providing a putative linkage between DNA damage and apoptosis    .
+PMC1702560	false	s1	5	29	However , a secondary mutation was later identified , which , when corrected , enabled the N52D and N66D Bcl-xL to bind Bim , casting doubt on this interpretation     .
+PMC1702560	false	s1	6	30	Using a different model system , we have previously implicated the oncogene mediated inhibition of DNA damage induced Bcl-xL deamidation in the transformation of murine thymocytes        .
+PMC1702560	false	s1	6	31	Our transgenic mouse model of T cell lymphoma was generated by crossing mice lacking expression of the CD45 tyrosine phosphatase with a line expressing a nononcogenic level of the mutant lckF505 tyrosine kinase     .
+PMC1702560	false	s1	6	32	All the CD45-/- lckF505 progeny develop aggressive T cell lymphomas at the early CD4-CD8- stage of thymic development , typically at 5-12 wk of age .
+PMC1702560	false	s1	6	33	The absence of CD45 mediated dephosphorylation results in hyperphosphorylation of positive regulatory p56lck pTyr-394 , causing hyperactivation of the kinase and triggering oncogenesis     .
+PMC1702560	false	s1	6	34	The model enables the investigation of the earliest oncogenic events in primary pretumourigenic thymocytes .
+PMC1702560	false	s1	6	35	Inhibition of DNA repair in CD45-/- lckF505 mice leads to DNA damage , genomic instability , and chromosomal aberrations detectable in primary CD4-CD8- thymocytes before transformation .
+PMC1702560	false	s1	6	36	Despite a normal p53 response , DNA damage induced apoptosis is suppressed in pretumourigenic thymocytes , correlating with the inhibition of Bcl-xL deamidation , the preservation of Bcl-xL binding to Bim , and the inhibition of cytochrome c release and the apoptotic caspase execution cascade .
+PMC1702560	false	s1	6	37	Therefore , we proposed that Bcl-xL deamidation is a critical switch in oncogenic kinase induced T cell transformation , and we suggested that Bcl-xL deamidation to an Iso-Asp52 / Iso-Asp66 version , rather than the mutant N52D and N66D version investigated by the Weintraub laboratory , might be the key step in disabling the antiapoptotic functions of the protein        .
+PMC1702560	false	s1	7	38	Neither in the osteosarcoma cell line work     nor in our own work based on primary thymocytes      has there been any indication as to how DNA damage might induce Bcl-xL deamidation .
+PMC1702560	false	s1	7	39	Neither have there been previous reports in the literature showing how protein Asn deamidation in general might be regulated in vivo ; we address here this question .
+PMC1702560	false	s1	7	40	We confirm that Bcl-xL deamidation does indeed destroy its ability to sequester pro-apoptotic proteins such as Bim and Puma , thereby establishing a clear molecular link between DNA damage , Bcl-xL deamidation , and apoptosis .
+PMC1702560	false	s1	7	41	Surprisingly , DNA damage triggered deamidation in primary wild-type cells is mediated not enzymatically , but by intracellular alkalinisation caused by increased expression of the NHE-1 Na+ / H+ exchanger ( antiport ) , events blocked by expression of the oncogenic tyrosine kinase ( OTK ) .
+PMC1702560	false	s1	7	42	In the case of either murine or human cancer cells , enforced alkalinisation triggers Bcl-xL deamidation , crippling its ability to provide protection from the pro-apoptotic consequences of DNA damage , thereby indicating possible novel approaches to cancer therapy .
+PMC1702560	true	s2a	8	43	DNA Damage Induced Bcl-xL Deamidation Does Not Depend on Mitochondrial Apoptosis
+PMC1702560	false	s2a	9	44	An important consideration is whether DNA damage induced Bcl-xL deamidation in murine thymocytes is a cause or consequence of thymic apoptosis .
+PMC1702560	false	s2a	9	45	shows that whereas the addition of the caspase inhibitor Z-VAD-fmk , as expected , inhibited DNA damage induced apoptosis in murine thymocytes            , no inhibition of DNA damage induced Bcl-xL deamidation was observed in cell aliquots taken from the same thymic cultures            .
+PMC1702560	false	s2a	9	46	It is known that in the absence of Bax and Bak , BH3-only proteins are unable to induce apoptosis     .
+PMC1702560	false	s2a	9	47	We therefore used short hairpin RNA ( shRNA ) to deplete Bax and Bak from CD4-CD8- ( double negative , DN ) thymocytes , confirmed that depletion was sufficient to block caspase 9 cleavage             , and showed that DNA damage induced Bcl-xL deamidation proceeded normally in the absence of Bax and Bak            .
+PMC1702560	false	s2a	9	48	We also showed that Bcl-xL deamidation was clearly detectable within 3-6 h after the instigation of DNA damage , and proceeded in parallel with increased apoptosis                     .
+PMC1702560	false	s2a	9	49	These results show that Bcl-xL deamidation is not caused by mitochondrial apoptosis and are consistent with a role for deamidation upstream of the apoptotic executor pathway .
+PMC1702560	false	s2a	9	50	Further data presented below establish a more direct causal relationship between Bcl-xL deamidation and apoptosis in DNA damaged thymocytes .
+PMC1702560	true	s2b	10	51	Bcl-xL Deamidation In Situ Involves Conversion of Asn52 and Asn66 to Iso-Asp52 / Iso-Asp66 , Preventing Sequestration of Bim and Puma
+PMC1702560	false	s2b	11	52	We previously noted that whereas the ability of Bcl-xL to bind Bim was ablated in control thymocytes exposed to DNA damage , it was strikingly retained in pretumourigenic CD45-/- lckF505 thymocytes , tightly correlating with the resistance to Bcl-xL deamidation noted in these cells     .
+PMC1702560	false	s2b	11	53	However , work from the Weintraub laboratory suggests that deamidated Bcl-xL still binds Bim     , thereby casting doubt on the model that Bcl-xL deamidation triggers apoptosis .
+PMC1702560	false	s2b	11	54	Because the sequestration of BH3-only proteins by Bcl-xL is thought to explain its anti-apoptotic function     , resolution of this question is clearly important for establishing a molecular link between DNA damage and apoptosis .
+PMC1702560	false	s2b	11	55	We therefore carried out a series of cellular and biochemical experiments to address this key point .
+PMC1702560	false	s2b	12	56	A shows that Bcl-xL measured in whole cell lysates from pretumourigenic CD45-/- lckF505 murine thymocytes is resistant to deamidation following gamma irradiation , consistent with our previous findings     .
+PMC1702560	false	s2b	12	57	Immunoprecipitation of the pro-apoptotic protein Bim , followed by immunoblotting for Bcl-xL , revealed that Bim sequestered only the N52 and N66 Bcl-xL and failed to bind the slower migrating deamidated protein                         , although the amount of Bim in each immunoprecipitate was comparable                         .
+PMC1702560	false	s2b	12	58	Because the BH3-only protein Puma , not Bim , plays a major role in DNA-damage triggered apoptosis        , we also showed that both Puma and Bim are found in Bcl-xL immunoprecipitates from etoposide treated CD45-/- LckF505 thymocytes , whereas sequestration is ablated in wild-type cells , correlating with Bcl-xL deamidation            .
+PMC1702560	false	s2b	12	59	A comparable result was obtained when Puma immunoprecipitates were blotted for Bcl-xL             .
+PMC1702560	false	s2b	12	60	Therefore , deamidated Bcl-xL appears unable to sequester BH3-only proteins .
+PMC1702560	false	s2b	13	61	To confirm the results using intact thymocytes , we carried out in vitro biochemical experiments .
+PMC1702560	false	s2b	13	62	Recombinant purified His tagged Bcl-xL was exposed to alkaline conditions to cause partial deamidation and separated by anion-exchange chromatography into three peaks                              .
+PMC1702560	false	s2b	13	63	Mass spectrometric analysis revealed an increase of 1 Da for peak B relative to peak A , and a further increase of 1 Da for peak C relative to peak B            .
+PMC1702560	false	s2b	13	64	On SDS-PAGE gels , peak A Bcl-xL migrated slightly faster than the more acidic peaks B and C            , reproducing the characteristic profile of N52 and N66 Bcl-xL and its deamidated versions found in our cellular studies            .
+PMC1702560	false	s2b	13	65	It has already been demonstrated that these migratory shifts are not caused by phosphorylation       .
+PMC1702560	false	s2b	13	66	In fact , deamidation of a single Asn increases protein mass by 1 Da , at the same time increasing its net negative charge , confirming that the shifts are due to deamidation .
+PMC1702560	false	s2b	13	67	Importantly , when the three species of rBcl-xL were tested for their ability to bind to Bim in wild-type thymic lysates , only peak A bound Bim effectively , whereas binding to peak B rBcl-xL was reduced by 88 % + /- 2 % and completely ablated using peak C rBcl-xL                         .
+PMC1702560	false	s2b	13	68	E shows that the Asp52 and Asp66 version of Bcl-xL , or the Ala52 and Ala66 version that can not be deamidated , does still bind both Bim and Puma , consistent with the correction published by the Weintraub laboratory     .
+PMC1702560	false	s2b	13	69	We therefore determined whether rBcl-xL Asn52 and Asn66 convert mainly to Asp or to iso-Asp upon alkali treatment .
+PMC1702560	false	s2b	13	70	Consistent with previous results    ,         F and           show that the ratios of iso-Asp : Asp conversion for Asn52 and Asn66 are 10:1 and 5:1 , respectively .
+PMC1702560	false	s2b	13	71	Kinetic analysis revealed that deamidation of Asn66 to iso-Asp is much faster than for Asn52 ( unpublished data ) .
+PMC1702560	false	s2b	14	72	Taken together , our results show that conversion of Bcl-xL Asn52 and Asn66 to iso-Asp , but not Asp , prevents sequestration of BH3-only proteins .
+PMC1702560	false	s2b	14	73	Peak B represents rBcl-xL deamidated at either Asn52 or Asn66 , whereas peak C is deamidated at both sites                   .
+PMC1702560	false	s2b	14	74	Deamidation to iso-Asp causes greater perturbations of protein structure than conversion to Asp      , presumably explaining the loss of BH3-only protein binding .
+PMC1702560	true	s2c	15	75	DNA Damage Induced Bcl-xL Deamidation and Apoptosis Is Mediated by Intracellular Alkalinisation
+PMC1702560	false	s2c	16	76	Until now , the in vivo mechanism for the deamidation of internal protein Asn residues has not been described for any protein .
+PMC1702560	false	s2c	16	77	Because protein Asn deamidation is accelerated by increased pH in vitro , we investigated intracellular pH change ( pHi ) as a possible regulatory mechanism in thymocytes .
+PMC1702560	false	s2c	16	78	A shows that after DNA damage , the pHi of live wild-type CD4-CD8- thymocytes increased to 7.55 , whereas no change was observed in pretumourigenic cells .
+PMC1702560	false	s2c	16	79	But is that increase sufficient to cause Bcl-xL deamidation ?
+PMC1702560	false	s2c	16	80	To address this question , we incubated wild-type thymocytes in the pH range of 7.2-8 .0 for 20 h in the presence of the Na+ ionophore monensin to ensure complete equilibration of pHi and extracellular pH ( pHe ) , and to neutralize acidic intracellular compartments     , and we then assessed the extent of Bcl-xL deamidation .
+PMC1702560	false	s2c	16	81	B shows that whereas only 22.5 % + /- 3.2 % was deamidated at pH 7.2 , this increased to 56.1 % + /- 3.8 % at pH 7.6 and 67.0 % + /- 4.5 % at pH 8.0 .
+PMC1702560	false	s2c	16	82	Therefore , a rise in pHi comparable with that observed after DNA damage             is sufficient to cause substantial deamidation .
+PMC1702560	false	s2c	16	83	Furthermore , the addition of Z-VAD-fmk to thymic cultures following DNA damage did not inhibit their alkalinisation          , showing that the rise in pHi is not downstream of caspase activation .
+PMC1702560	false	s2c	16	84	To investigate Bcl-xL deamidation , pHi , and apoptosis in parallel , we manipulated pHi values artificially by incubating cells at varying pHe values in the absence of monensin .
+PMC1702560	false	s2c	16	85	The left panel of         D shows that when DNA damage was induced in wild-type thymocytes , Bcl-xL deamidation could be largely prevented by artificially maintaining the pHi at 7.1 ( value shown in         E , left panel ) , thereby reducing the percentage of apoptotic CD4-CD8- thymocytes by 2-fold relative to those incubated at physiological pH                        .
+PMC1702560	false	s2c	16	86	Conversely ,         D ( right panel ) shows that the resistance to Bcl-xL deamidation observed in DNA damaged pretumourigenic thymocytes could be completely overcome by artificially increasing the pHi to 7.55 or above                         , correlating with a 2-fold increase in the percentage of apoptotic CD4-CD8- thymocytes relative to those incubated at physiological pH                         .
+PMC1702560	false	s2c	16	87	Interestingly , enforced alkalinisation alone in the absence of DNA damage caused a marked increase in Bcl-xL deamidation in the OTK expressing thymocytes                         , with a concomitant increase in apoptosis                         , albeit at a level lower than with DNA damage , perhaps reflecting the somewhat lower pHi values achieved under these conditions                         .
+PMC1702560	false	s2c	17	88	We considered that the tight correlation between pHi , Bcl-xL deamidation , and apoptosis might nevertheless be coincidental and that enforced alkalinisation might be inducing apoptosis by a mechanism independent of Bcl-xL deamidation .
+PMC1702560	false	s2c	17	89	Mutant Bcl-xL Ala52 and Ala66 or Asp52 and Asp66 , both of which sequester BH3-only proteins            , were therefore over-expressed in wild-type CD4-CD8- thymocytes by retroviral transduction prior to enforced alkalinisation by incubation in media at pH 8.0 or 8.5 .
+PMC1702560	false	s2c	17	90	G ( middle panel ) shows that , as expected , the Ala52 and Ala66 mutant migrates as the lower nondeamidated version of Bcl-xL , whereas Asp52 and Asp66 migrates as the more negatively charged deamidated version .
+PMC1702560	false	s2c	17	91	Interestingly , in the cells expressing these mutant forms of Bcl-xL , the apoptosis induced by enforced alkalinisation was reduced 4-fold compared to cells transduced with empty vector , or more than 2-fold in comparison with the wild-type protein                         , which of course undergoes deamidation in response to alkali treatment .
+PMC1702560	false	s2c	17	92	These results show that Bcl-xL in a version able to sequester BH3-only proteins protects thymocytes from an enforced increase in pHi .
+PMC1702560	false	s2c	17	93	Nevertheless , protection was not absolute , suggesting that Bcl-xL may not be the only mechanism protecting cells from apoptosis triggered by alkalinisation .
+PMC1702560	false	s2c	17	94	As a further control , we have confirmed that Bcl-xL isolated from wild-type thymocytes exposed to a high pH buffer can no longer sequester Bim             , thereby mimicking the effects of DNA damage            .
+PMC1702560	false	s2c	18	95	Taken overall , these results demonstrate that intracellular alkalinisation following DNA damage is both necessary and sufficient for nonenzymatic Bcl-xL deamidation , that the oncogenic suppression of Bcl-xL deamidation in pretumourigenic thymocytes is caused by inhibition of alkalinisation , and that versions of Bcl-xL competent for BH3-only protein sequestration are sufficient per se to protect cells from apoptosis at alkaline pHi .
+PMC1702560	true	s2d	19	96	DNA Damage Induced Alkalinisation , Bcl-xL Deamidation , and Apoptosis are Mediated by Increased NHE-1 Antiport Expression
+PMC1702560	false	s2d	20	97	We next investigated the molecular mechanisms leading from DNA damage to the regulation of pHi and subsequent Bcl-xL deamidation .
+PMC1702560	false	s2d	20	98	A shows that de novo protein synthesis is essential for Bcl-xL deamidation following DNA damage in wild-type thymocytes .
+PMC1702560	false	s2d	20	99	Because the NHE-1 Na and H antiport is a well established regulator of pHi      and has previously been implicated in the regulation of thymic apoptosis     , we measured its expression in wild-type thymocytes after DNA damage and found that the NHE-1 level increased 2.5-fold within 5 h , whereas this increase was completely suppressed in pretumourigenic thymocytes            .
+PMC1702560	false	s2d	20	100	No inhibition of increased NHE-1 expression in wild-type thymocytes was observed following addition of the Z-VAD-fmk caspase inhibitor              nor following depletion of Bax and Bak from the cells             .
+PMC1702560	false	s2d	20	101	We therefore carried out a further series of experiments to demonstrate that there was a direct causal linkage between the regulation of NHE-1 expression , pHi , Bcl-xL deamidation , and apoptosis .
+PMC1702560	false	s2d	20	102	Given that the OTK blocks DNA-damage induced NHE-1 expression in pretumourigenic thymocytes , this provides a powerful system for examining the consequences of experimentally enforcing NHE-1 expression in these cells by retroviral transduction .
+PMC1702560	false	s2d	20	103	As         C illustrates ( upper panel ) , an enforced 2-fold-3-fold increase in NHE-1 expression in pretumourigenic thymocytes , without DNA damage , restored Bcl-xL deamidation to a level comparable to that observed in a retrovirally transduced wild-type control in five separate experiments , thereby bypassing the OTK mediated inhibition in deamidation .
+PMC1702560	false	s2d	20	104	Overexpression of NHE-1 increased both pHi and apoptosis to comparable levels in both pretumourigenic and wild-type thymocytes                          .
+PMC1702560	false	s2d	20	105	These results suggest that increased NHE-1 expression per se is sufficient to cause increased pHi , Bcl-xL deamidation and apoptosis .
+PMC1702560	false	s2d	20	106	To address this question further , we used the selective NHE-1 inhibitor 5 - ( N , N ' - dimethyl ) - amiloride ( DMA ) to block the actions of the antiport following its increased expression on thymocytes upon DNA damage .
+PMC1702560	false	s2d	20	107	D shows that DMA prevented the alkalinisation of wild-type thymocytes following DNA damage ( top left panel ) , their apoptosis ( top right panel ) , and Bcl-xL deamidation ( lower panel ) , correlating with increased survival             .
+PMC1702560	false	s2d	21	108	To extend these findings , we also used shRNA to deplete thymocytes of NHE-1 protein             .
+PMC1702560	false	s2d	21	109	NHE-1 knockdown almost completely blocked the actions of DNA damage in causing Bcl-xL deamidation            , intracellular alkalinisation            , or apoptosis                           .
+PMC1702560	false	s2d	21	110	We measured apoptosis by two different methods to ensure that DNA damage induced cell death following retroviral transduction was by apoptosis and not by necrosis .
+PMC1702560	false	s2d	21	111	C and          B illustrate that double staining for Annexin V and propidium iodide ( PI ) followed by FACS analysis revealed a major increase in Annexin V+ PI- ( apoptotic ) cells following transduction with the negative control shRNA followed by either gamma irradiation or treatment with etoposide , whereas there was no increase in apoptotic cells above baseline in the cells depleted of NHE-1 : DNA damage induced apoptosis was blocked 100 % .
+PMC1702560	false	s2d	21	112	Comparable results were obtained by measuring the sub-G1 peak by FACS ( unpublished data ) and NHE-1 depletion also correlated with increased survival             .
+PMC1702560	false	s2d	22	113	We considered that post-translational modification of the NHE-1 antiport , in addition to regulation of its expression , might also be involved in mediating the DNA damage response .
+PMC1702560	false	s2d	22	114	For example , a number of serine kinases have been shown to regulate NHE-1 phosphorylation and activity        , so we investigated the pSer and pThr levels in NHE-1 immunoprecipitates from irradiated wild-type and pretumourigenic thymocytes , but the basal level of phosphorylation did not change after DNA damage and was comparable between the two cell types             .
+PMC1702560	false	s2d	22	115	Nevertheless , we can not formally exclude the possibility that not all pSer and pThr sites were recognised by the cocktail of monocolonal antibodies ( mAbs ) used .
+PMC1702560	false	s2d	22	116	Taken together , our findings therefore suggest that the increased expression of the NHE-1 transporter is both necessary and sufficient for DNA damage induced alkalinisation , Bcl-xL deamidation , and apoptosis in wild-type thymocytes , and that the suppression of these three parameters in pretumourigenic thymocytes is caused by oncogenic inhibition of the DNA damage triggered increase in NHE-1 expression .
+PMC1702560	true	s2e	23	117	Enforced Alkalinisation Causes Increased Bcl-xL Deamidation and Apoptosis in Murine and Human Cancer Cells
+PMC1702560	false	s2e	24	118	The experiments illustrated in          -  were all carried out on wild-type or primary pretumourigenic CD45-/- lckF505 thymocytes .
+PMC1702560	false	s2e	24	119	Signalling pathways can be markedly different in fully transformed cells compared to their pretransformed counterparts .
+PMC1702560	false	s2e	24	120	We therefore wondered whether CD45-/- lckF505 T cell tumour cells , which develop from CD4-CD8- thymocytes     , might display a comparable set of properties .
+PMC1702560	false	s2e	24	121	shows that this was indeed the case : murine tumour cells resistant to genotoxic insult at physiological pHi values can be sensitised to die by enforced alkalinisation leading to Bcl-xL deamidation .
+PMC1702560	false	s2e	24	122	Furthermore , a modest rise in pHi following incubation in a mildly alkaline buffer produces levels of Bcl-xL deamidation and apoptosis in murine tumour cells comparable to those observed by adding a DNA damaging reagent to wild-type thymocytes incubated at physiological pH.
+PMC1702560	false	s2e	25	123	Chronic lymphocytic leukaemia ( CLL ) is the most common adult haematological malignancy in the Western world and , like many cancers , is characterised by the development of drug resistance .
+PMC1702560	false	s2e	25	124	We therefore determined whether genotoxic treatment in vitro of primary human B lineage CLL ( B-CLL ) cells might cause increased NHE-1 , alkalinisation , Bcl-xL deamidation , and apoptosis , as in primary murine thymocytes              , or whether this might be inhibited , as with the murine cancer cells            .
+PMC1702560	false	s2e	25	125	In addition , we examined the consequences for these parameters of incubating cancer cells in alkaline pH buffers .
+PMC1702560	false	s2e	25	126	To perform these investigations , we divided each sample of patient cancer cells into nine aliquots that were either untreated , subjected to gamma irradiation , or exposed to etoposide , followed by incubation at pH 7.2 , pH 8.0 , or pH 8.5 for 24 h. Each aliquot was then further subdivided into three samples to measure pHi , Bcl-xL deamidation , and apoptosis .
+PMC1702560	false	s2e	25	127	As expected , exposure of cells to mildly alkaline buffers generated pHi values that displayed some variation between samples from different patients within a narrow range .
+PMC1702560	false	s2e	25	128	The 18 values per patient obtained from 10 different patients , the mean values calculated for each pHe value considered separately , and representative Bcl-xL deamidation results from a single patient are illustrated in         A ,          A , and          B , respectively .
+PMC1702560	false	s2e	25	129	Interestingly , unlike the murine tumour cells expressing an OTK , the B-CLL cells behaved somewhat more like wild-type thymocytes in that DNA damage at physiological pHe caused a mean increase of pHi of 0.22 units , an 8 % increase in Bcl-xL deamidation , and an 18 % increase in the number of cells undergoing apoptosis                           , compared to the higher thymocyte values of 0.45 pHi units , 40 % increase , and 37 % increase , respectively           .
+PMC1702560	false	s2e	25	130	The human cancer cell values for these parameters were greatly increased at alkaline pHe , generating tight correlations between increasing pHi , Bcl-xL deamidation , and apoptosis ( r values shown in         A ) .
+PMC1702560	false	s2e	25	131	Thus , a mean increased pHi of 0.5 correlated with 1.7-fold and 2.4-fold increases in Bcl-xL deamidation and apoptosis , respectively .
+PMC1702560	false	s2e	25	132	It is also striking that enforced intracellular alkalinisation alone ( by 0.3 pHi units ) , in the absence of experimentally induced DNA damage , was itself sufficient to increase Bcl-xL deamidation and apoptosis by 1.5-fold and 1.8-fold , respectively .
+PMC1702560	false	s2e	25	133	This point is further illustrated by the gray shaded area shown in         A , which encompasses the overlap in sub-G1 ( apoptosis ) values that were obtained either by DNA damage at physiological pH or by enforced alkalinisation without DNA damage .
+PMC1702560	false	s2e	25	134	Conversely , incubation of B-CLL cells at lower pH inhibited DNA damage induced Bcl-xL deamidation and apoptosis            .
+PMC1702560	false	s2e	25	135	Therefore with respect to enforced changes in pHi , the B-CLL cells behaved in a comparable way to both murine thymocytes and tumour cells .
+PMC1702560	false	s2e	25	136	A small increase in pHi induced by incubation in alkaline buffer in the absence of induced DNA damage generated as much , if not more , Bcl-xL deamidation and apoptosis as that triggered by genotoxic attack at physiological pHe .
+PMC1702560	false	s2e	26	137	NHE-1 expression in response to DNA damage was investigated in a further six B-CLL patients .
+PMC1702560	false	s2e	26	138	C shows by immunoblotting ( right panel ) that there was some variation between patients , but that in all cases ( left panel ) , etoposide caused increased NHE-1 expression by 3 h , achieving optimal values by 6-9 h ranging from 1.9-fold-2 .6 - fold over basal levels .
+PMC1702560	false	s2e	26	139	These increases correlate with the observed increases in Bcl-xL deamidation and apoptosis in patients ' cells             and at the 2.6-fold level , at least , are comparable with the increases observed in wild-type thymocytes            .
+PMC1702560	false	s2e	26	140	Furthermore , DNA damage induced Bcl-xL deamidation in B-CLL cells was prevented by addition of either cycloheximide ( CHX )              or DMA             , establishing a possible linkage between DNA damage , NHE-1 function , and Bcl-xL deamidation in human cancer cells .
+PMC1702560	false	s3	27	141	It has previously been suggested that Bcl-xL deamidation is critical in the signalling pathway that leads from DNA damage to apoptosis    .
+PMC1702560	false	s3	27	142	This interpretation was based to a large degree on the observation that N52D and N66D Bcl-xL , one of the species generated by deamidation , can no longer exert anti-apoptotic activity nor sequester the pro-apoptotic protein Bim .
+PMC1702560	false	s3	27	143	However , a secondary mutation in the N52D and N66D Bcl-xL construct was later discovered , which , when corrected , restored binding , thereby casting doubt on the initial interpretation of the physiological significance of Bcl-xL deamidation     .
+PMC1702560	false	s3	27	144	We now propose that the initial finding was correct , but for the wrong reason .
+PMC1702560	false	s3	27	145	Our results indicate that the major Bcl-xL species generated by deamidation in situ is not Asp52 and Asp66 but iso-Asp52 / iso-Asp66 , which is consistent with the well established biochemistry of Asn deamidation    , and that this species is unable to sequester Bim or Puma                         .
+PMC1702560	false	s3	27	146	The introduction of iso-Asp into the disordered loop in which these residues are located is expected to cause greater conformational change than Asp , because of the redirection of the peptide backbone through beta carboxyl groups , as indicated by the known structural and functional changes that occur in proteins upon conversion of Asn to iso-Asp residues        .
+PMC1702560	false	s3	27	147	The structural importance of protein iso-Asp residues is likewise underlined by the expression of the putative repair enzyme L-isoaspartate O-methyltransferase which converts iso-Asp to Asp residues : its deletion has striking effects on protein functions        .
+PMC1702560	false	s3	27	148	Furthermore , comparison of the crystal structures of native rat Bcl-xL with its deamidated version has revealed significant differences     ; the structural implications of introducing iso-Asp residues into the disordered loop environment of Asn52 and Asn66 merits further work .
+PMC1702560	false	s3	28	149	We have identified critical elements in the signalling pathway leading from DNA damage to Bcl-xL deamidation in thymocytes and have shown , as         A illustrates , that deamidation is induced upon DNA damage by up regulation of the NHE-1 antiport and consequent intracellular alkalinisation              .
+PMC1702560	false	s3	28	150	To the best of our knowledge , this represents the first description of a molecular mechanism for the regulation of protein internal Asn deamidation in cells .
+PMC1702560	false	s3	28	151	Our results are consistent with the failure , until now , to identify genes encoding internal protein Asn deamidases    .
+PMC1702560	false	s3	28	152	The regulation of NHE-1 antiport function is complex , involving modulation of its expression , phosphorylation , and binding of regulatory proteins           .
+PMC1702560	false	s3	28	153	Our data are consistent with a model in which DNA damage causes alkalinisation by a direct 2-3-fold increase in NHE-1 expression                    , although we can not exclude the possibility that undetected changes in phosphorylation might shift the pH dependence of the antiport to a more alkaline range as described for myocardial tissue     .
+PMC1702560	false	s3	28	154	Furthermore , the calcineurin B homologous protein 1 ( CHP-1 ) has been characterised as an essential cofactor for NHE-1 in normal tissues     , whereas its CHP-2 homologue is up regulated in transformed cells     , so regulation of these proteins might also be involved in activation of the antiport .
+PMC1702560	false	s3	28	155	Intracellular NHE-1 mediated alkalinisation has previously been implicated in the regulation of HL-60 cell apoptosis      and in apoptosis after trophic factor withdrawal     .
+PMC1702560	false	s3	28	156	In our present work , it is clear that the alkalinising affects of DNA damage can be mimicked simply by overexpressing NHE-1 on wild-type thymocytes in the absence of DNA damage            .
+PMC1702560	false	s3	28	157	Furthermore , either inhibition or depletion of the antiport blocks DNA damage induced alkalinisation , Bcl-xL deamidation , and apoptosis                                    .
+PMC1702560	false	s3	29	158	The direct role played by the deamidation of Bcl-xL to its iso-Asp52 / iso-Asp66 version in the signalling pathway from DNA damage to apoptosis is supported by the finding that either the N52D and N66D or N52A and N66A Bcl xL mutants , which still bind BH3-only proteins            , protect thymocytes from dying upon enforced intracellular alkalinisation            .
+PMC1702560	false	s3	29	159	An alternative hypothesis involves the generation of new BH3-only family members as a consequence of alkalinisation , which compete for binding to Bcl-xL , thereby displacing Bim and Puma .
+PMC1702560	false	s3	29	160	However , such a hypothesis does not explain why the Bcl xL mutants that still bind BH3-only proteins retain their anti-apoptotic potency at high pH            .
+PMC1702560	false	s3	30	161	The striking blockade in DNA damage induced NHE-1 expression , alkalinisation , Bcl-xL deamidation , and apoptosis noted in CD45-/- lckF505 pretumourigenic thymocytes                  , together with the reversal of this blockade by enforced expression of NHE-1            , provide strong support for the model illustrated in         B .
+PMC1702560	false	s3	30	162	The oncogenic hyperactive p56lck-Y505F tyrosine kinase      must inhibit one or more steps on the pathway from DNA damage to increased NHE-1 expression , a mechanism that is under active investigation .
+PMC1702560	false	s3	30	163	We have previously demonstrated in pretumourigenic thymocytes a tight correlation between inhibition of Bcl-xL deamidation , resistance to DNA damage induced apoptosis , and oncogenesis , suggesting that the consequent accumulation of DNA damaged thymocytes is critical in the transforming process        .
+PMC1702560	false	s3	30	164	It therefore seems conceivable that the OTK induced inhibition of NHE-1 is likewise important in thymic transformation , and further in vivo work will be necessary to investigate this possibility .
+PMC1702560	false	s3	31	165	The resistance to genotoxic attack by CD45-/- lckF505 murine tumour cells correlates , as in their pretumourigenic counterparts , with the inhibition of DNA damage induced NHE-1 antiport expression , alkalinisation , Bcl-xL deamidation , and apoptosis            , which is an apparent example of " oncogene addiction " , whereby oncogene expression continues to be important for survival     .
+PMC1702560	false	s3	31	166	By contrast , DNA damage of human B-CLL cells , which should not express OTKs , triggered increased NHE-1 expression and apoptosis , achieving levels comparable with wild-type thymocytes            .
+PMC1702560	false	s3	31	167	However , enforced alkalinisation of either the murine             or human            cancer cells triggered significant increases in Bcl-xL deamidation and apoptosis , even in the absence of genotoxic attack            .
+PMC1702560	false	s3	31	168	In the case of the B-CLL cells , we can not yet exclude the possibility that the tight correlation observed between these events does not reflect causal efficacy , and further work will be necessary to elucidate this point .
+PMC1702560	false	s3	31	169	In any event , the key issue for cancer cell therapy in this context is not whether inhibition of Bcl-xL deamidation is involved in the initial transforming process , but whether Bcl-xL is the main prosurvival protein protecting the tumour cells from the normal consequences of DNA damage .
+PMC1702560	false	s3	31	170	An extensive literature suggests that Bcl-xL does indeed play this role in many tumour types     .
+PMC1702560	false	s3	31	171	For example , the down regulation of Bcl-xL promoted the apoptosis of KARPAS-299 cells derived from a patient with anaplastic large cell lymphoma     , and down regulation of Bcl-xL suppresses the tumourigenic potential of the causative NPM-ALK oncogenic fusion protein in vivo     .
+PMC1702560	false	s3	31	172	Knockdown of Bcl-xL also significantly reduces the viability of pancreatic cancer cells to tumour necrosis factor alpha ( TNF-alpha ) - and TNF-alpha - related apoptosis inducing ligand ( TRAIL ) - mediated apoptosis by antitumour drugs     .
+PMC1702560	false	s3	31	173	Furthermore , Bcl-xL deamidation is inhibited in hepatocellular carcinomas , which are highly resistant to genotoxic treatments     .
+PMC1702560	false	s3	31	174	Our findings therefore have potential relevance to cancer therapy , whereby enforced alkalinisation , perhaps by amplification of NHE-1 expression , would promote Bcl-xL deamidation , thereby triggering apoptosis .
+PMC1702560	false	s3	32	175	The pioneering work of Warburg      established that tumours display acidic extracellular pH , although more than half a century passed before it was clearly established that the intracellular pH of tumour cells is comparable with normal cells     .
+PMC1702560	false	s3	32	176	Warburg 's legacy has included intermittent interest in the possibility of pH manipulation as a means to cancer therapy .
+PMC1702560	false	s3	32	177	Our findings not only establish that protein deamidation can be regulated by intracellular pH change in vivo , but they also suggest that strategies for pH manipulation in antineoplastic therapy should continue to receive attention , albeit for reasons different from those envisaged by Warburg .
+PMC1702560	true	s4a	33	178	Mice .
+PMC1702560	false	s4a	34	179	All mice were bred and housed in specific pathogen-free conditions in the animal facility at The Babraham Institute , Cambridge , United Kingdom .
+PMC1702560	false	s4a	34	180	The p56Lck-F505 ( PLGF-A ) transgenic mice      and the CD45-/- and CD45-/- lckF505 mice have been previously described     .
+PMC1702560	false	s4b	35	181	Etoposide , CHX , DMA , PI , monensin , nigericin , and goat-anti-rat immunoglobulin-agarose were from Sigma ( St. Louis , Missouri , United States ) ; protein A-sepharose and protein G-sepharose were from Amersham ( Uppsala , Sweden ) ; SNARF-1 was from Molecular Probes ( Eugene , Oregon , United States ) ; Z-VAD-fmk was from Santa Cruz Biotechnology .
+PMC1702560	false	s4b	35	182	The following antibodies were used for Western Blotting : Bim ( 559685 ) from Pharmingen ( San Diego , California , United States ) ; Bcl-xL ( 610212 ) and NHE-1 ( clone 54 ) from Transduction Lab ( New Jersey , United States ) ; Puma ( ab9643 ) from Abcam ( Cambridge , United Kingdom ) ; Bax ( 06-499 ) and Bak ( 06-536 ) from Upstate ( New York , United States ) ; Caspase-9 ( 9504 ) from Cell Signaling ( Beverly , Massachusetts , United States ) ; phosphoserine detection kit from Calbiochem ( Darmstadt , Germany ) ; beta actin and alpha tubulin from Sigma .
+PMC1702560	true	s4c	36	183	Recombinant Bcl-xL analysis .
+PMC1702560	false	s4c	37	184	Image clone ( 2823873 ) containing the sequence for human Bcl-xL was obtained from the MRC gene service ( United Kingdom ) .
+PMC1702560	false	s4c	37	185	The DNA coding amino acids 1-196 ( of 233 ) was amplified by PCR and cloned into pENTR and D-TOPO ( Invitrogen , Carlsbad , California , United States ) .
+PMC1702560	false	s4c	37	186	The DNA was sequenced and the insert subcloned into pDEST17 ( coding for a hexa-histidine tag ) and transformed into Escherichia coli expression host DE3 ( Novagen , Madison , Wisconsin , United States ) .
+PMC1702560	false	s4c	37	187	Recombinant Bcl-xL ( His-N terminal tagged ) was expressed in E. coli and purified using Co2+ chelation beads so that rapid elution could be performed at pH 7.0 to prevent deamidation .
+PMC1702560	false	s4c	37	188	After anion exchange purification , three peaks ( A , B , and C ) were collected .
+PMC1702560	false	s4c	37	189	Aliquots ( 1 mul ) of each peak were desalted for mass spectrometric analysis by solid-phase microextraction on C4 Zip Tips ( Millipore , Billerica , Massachusetts , United States ) and the proteins eluted with 0.1 % formic acid and 50 % aqueous acetonitrile ( 1 mul ) directly into a nanospray tip ( Protana Engineering , Odense , Denmark ) .
+PMC1702560	false	s4c	37	190	The nanospray tip was inserted into a nanoelectrospray ion source ( Protana Engineering ) attached to a quadupole time-of-flight ( TOF ) mass spectrometer ( Qstar Pulsar i , Applied Biosystems-MDS Sciex , Foster City , California , United States ) and full scan TOF spectra were acquired at an ionization potential of 900V for 5 min over the mass and charge ( m and z ) range of 500-2000 atomic mass units .
+PMC1702560	false	s4c	37	191	The mass spectrometric data were averaged and deconvoluted using the Bayesian Protein Reconstruct function in BioAnalyst software ( Applied Biosystems ) .
+PMC1702560	false	s4c	37	192	For nickel precipitation , each rBcl-xL species was added to C57BL and 6 thymocyte lysates for 2 h at 4 degreesC at pH 7.2 , and Ni2+ beads were used to precipitate the rBcl-xL .
+PMC1702560	false	s4c	37	193	and complexed Bim .
+PMC1702560	true	s4d	38	194	Mass spectrometric analysis of Bcl-xL peptides .
+PMC1702560	false	s4d	39	195	Samples of native and base treated rBcl-xL ( 0.1 mug and mul ) were digested with chymotrypsin ( sequencing grade , 10 ng and mul ; Roche , Basel , Switzerland ) in 0.1 M ammonium acetate pH 6.2 containing 0.1 % octylglucoside for 16 h at 30 degreesC .
+PMC1702560	false	s4d	39	196	These digestion conditions were chosen after careful optimisation to give good and consistent yields of the peptides SDVEENRTEAPEGTESEMETPSAINGNPSW ( peptide 1 ) and HLADSPAVNGATGHSSSL ( peptide 2 ) , containing the putative deamidation sites N52 and N66 , respectively , but without inducing further deamidation .
+PMC1702560	false	s4d	39	197	Aliquots of the digestion mixtures were analysed by liquid chromatography mass spectrometry ( LC-MS ) on a quadrupole TOF mass spectrometer ( Qstar pulsar i , Applied Biosystems-MDS Sciex ) , with online separation by reversed-phase nano-LC .
+PMC1702560	false	s4d	39	198	Peptides were eluted from the column ( 0.075 mm x 100 mm , Vydac C18 ) with a gradient of 5 % -35 % acetonitrile ( containing 10 mM ammonium acetate pH 5.3 ) over 30 min at a flow rate of 250 nl and min .
+PMC1702560	false	s4d	39	199	During the development phase of the methodology , the mass spectrometer was operated in MS and MS mode to conclusively identify the peptide digestion products and to confirm the sites of deamidation as N52 and N66 .
+PMC1702560	false	s4d	39	200	Once the identities of the peptides had been established , the mass spectrometer was operated in MS mode for subsequent analyses .
+PMC1702560	false	s4d	40	201	For relative quantification of specific peptides , peak areas were obtained from extracted ion chromatograms of the monoisotopic mass of the corresponding pseudomolecular ions .
+PMC1702560	false	s4d	40	202	These were : 816.60 ( [ M +4 H ] 4+ peptide 1 ) , 816.85 ( [ M +4 H ] 4+ peptide 1 deamidated ) , 574.28 ( [ M +3 H ] 3+ peptide 2 ) , and 574.61 ( [ M +3 H ] 3+ peptide 2 deamidated ) .
+PMC1702560	false	s4d	40	203	The chromatographic conditions used for the separation of the peptides in the LC-MS analyses were optimised so as to resolve the Asn , Asp , and iso-Asp forms of peptides 1 and 2 .
+PMC1702560	false	s4d	40	204	The Asp and iso-Asp forms of the two peptides were identified by spiking an aliquot of a digestion mixture with Asp- or iso-Asp-containing synthetic peptides prior to LC-MS .
+PMC1702560	true	s4e	41	205	DNA damage treatments .
+PMC1702560	false	s4e	42	206	Freshly isolated thymocytes were irradiated with 10 Gy using a caesium source or treated with etoposide in DMSO at a concentration of 25 muM for murine cells , or 50 muM for B-CLL cells , for the times indicated .
+PMC1702560	false	s4e	42	207	Carrier DMSO was added to control cells .
+PMC1702560	false	s4f	43	208	Cells were lysed in 50 mM HEPES ( pH 7.2 ) , 150 mM NaCl , 1mM EDTA , 0.2 % NP-40 , and complete protease inhibitors .
+PMC1702560	false	s4f	43	209	Cell lysates were resolved by standard Laemmli 's SDS-PAGE ( pH 8.8 ) unless otherwise stated .
+PMC1702560	false	s4f	43	210	For immunoprecipitations : rat Bim antibody ( Oncogene , San Diego , California , United States ) was coated to goat-anti-rat immunoglobulin-agarose ; rabbit Puma antibody was coated to protein A-sepharose ; mouse NHE-1 antibody was coated to protein G-sepharose ; rabbit Bcl-xL antibody was coated to goat-anti-rabbit immunoglobulin-agarose .
+PMC1702560	false	s4f	43	211	Lysates were precleared with the appropriate agarose .
+PMC1702560	false	s4f	43	212	Quantification of immunoblots was carried out using a phosphorimager ( Fuji FLA3000 , http://www.fujifilm.com ) .
+PMC1702560	true	s4g	44	213	Intracellular pH measurement .
+PMC1702560	false	s4g	45	214	Intracellular pH was measured using a standard ratiometric method with a pH sensitive fluorophore SNARF-1 by flow cytometry     .
+PMC1702560	false	s4g	45	215	Briefly , cells in phosphate buffered saline ( PBS ) were loaded with 10 muM SNARF-1 for 40 min at 37 degreesC , followed by washing and incubation in PBS at room temperature for 30 min prior to measurement of pHi .
+PMC1702560	false	s4g	45	216	pH calibration was carried out using high potassium buffer with 10 muM nigericin .
+PMC1702560	false	s4g	45	217	FACS data were analysed using Flowjo software to obtain the ratio based on the Fl3 and Fl2 channels .
+PMC1702560	false	s4g	45	218	It should be noted that SNARF-1 measurements provide the average pHi of the intracellular environment in a cell population including , presumably , the contribution of acidified intracellular compartments .
+PMC1702560	false	s4g	45	219	However , even if such compartments contribute slightly to the mean pHi values measured , in this work , it is the change in pHi that is most important .
+PMC1702560	false	s4g	45	220	This point was also addressed by neutralising acidic compartments using monensin in some experiments .
+PMC1702560	false	s4h	46	221	Cells were stained with 20 mug and ml PI ( with 50 mug and ml RNase A ) and analysed by flow cytometry , gating on the CD4-CD8- subset as necessary .
+PMC1702560	false	s4h	46	222	The sub-G1 peak was quantified as a measure of apoptosis .
+PMC1702560	false	s4h	46	223	In addition , apoptosis was measured using the Annexin-V-Fluos Staining Kit ( Roche ) according to the protocol provided .
+PMC1702560	false	s4h	46	224	To measure the percentage of dead cells , PI was used at 0.5 mug and ml .
+PMC1702560	false	s4i	47	225	Mouse Bcl-xL cDNA was kindly provided by S. Korsmeyer ( Howard Hughes Medical Institute , Harvard Medical School , Boston , Massachusetts , United States ) .
+PMC1702560	false	s4i	47	226	N52A-N66A and N52D N66D mutants were made using the QuickChange Site Directed Mutagenesis Kit from Stratagene ( La Jolla , California , United States ) according to the instructions provided .
+PMC1702560	false	s4i	47	227	The sequences of the constructs were confirmed by DNA sequencing .
+PMC1702560	false	s4j	48	228	Murine CD4-CD8- thymocytes were purified and cultured in the presence of interleukin-4 ( IL-4 ) and PdBu as described     .
+PMC1702560	false	s4j	48	229	The SuppressorRetro kit was purchased from Imgenex ( San Diego , California , United States ) , and NHE-1 shRNA sequences were designed using the " siRNA tool " from the company 's website .
+PMC1702560	false	s4j	48	230	Five selected sequences were cloned into pSuppressorRetro .
+PMC1702560	false	s4j	48	231	The sequence of NHE-1 shRNA2 is 5 ' - GAAACAAAGCGCTCCATCAAC-3 ' .
+PMC1702560	false	s4j	48	232	Retroviral production and infection were performed according to the protocol provided .
+PMC1702560	false	s4j	48	233	For overexpression , NHE-1 or Bcl-xL ( wild-type , N52A-N66A , and N52D-N66D ) cDNA were amplified with AccuPrime Pfx DNA polymerase ( Invitrogen ) , and cloned into Xho1 and EcoR1 sites of the multiple cloning sites of the MigRI vector      upstream of an internal entry site followed by enhanced gree fluorescent protein ( EGFP ) .
+PMC1702560	false	s4j	48	234	The sequences of the inserts were verified by DNA sequencing .
+PMC1702560	false	s4j	48	235	The plasmids were transfected into phiNX cells using Lipofectamine ( Invitrogen ) .
+PMC1702560	false	s4j	48	236	Viral infection of CD4-CD8- thymocytes was performed by spinoculation ( 1,200 g for 90 min at 30 degreesC ) .
+PMC1702560	false	s4j	48	237	To achieve high efficiency of gene transduction , the infection was repeated every 24 h for 2-3 d. GFP positive cells were sorted by flow cytometry using a FACsAria .
+PMC1702560	true	s4k	49	238	Bax , Bak double knockdown .
+PMC1702560	false	s4k	50	239	The SureSilencing shRNA kit for Bax and Bak was purchased from SuperArray ( Frederick , Maryland , United States ) .
+PMC1702560	false	s4k	50	240	One plasmid from each kit was screened out for the best gene ablation efficiency by transient transfection .
+PMC1702560	false	s4k	50	241	The shRNA sequence for Bax is TCAGGATCGTCCACCAAGAA , and the shRNA sequence for Bak is GGGCTTAGGACTTGGTTTGTT .
+PMC1702560	false	s4k	50	242	To enrich the cells transfected with both plasmids which express GFP , the GFP sequence in the shRNA : Bak plasmid was replaced by DsRed using the Sma1 restriction site before GFP and the Age1 restriction site after GFP .
+PMC1702560	false	s4k	50	243	ShRNA : Bax-GFP and shRNA : Bak DsRed were cotransfected into primary thymocytes using the Amaxa mouse T cell nucleofector kit ( Amaxa Biosystems , Koeln , Germany ) .
+PMC1702560	false	s4k	50	244	Cells positive for both GFP and DsRed were sorted by flow cytometry and used for subsequent experiments .
+PMC1702560	true	s4l	51	245	B-CLL patients ' cell purification .
+PMC1702560	false	s4l	52	246	B-CLL donor peripheral blood was centrifuged through Lymphoprep ( Axis-Shield PoC , Oslo , Norway ) , and the interphase peripheral blood mononuclear cells ( PBMCs ) were harvested for subsequent experiments .
+PMC1702560	false	s4l	52	247	The purity of PBMCs was routinely checked by staining with antibodies CD3-Cy5 , CD19-Fitc , and B220-PE and was analysed by flow cytometry .
+PMC1702560	true	supm-1	53	248	DNA Damage Induced Bcl-xL Deamidation Correlates with the Kinetics of Thymic Apoptosis
+PMC1702560	false	supm-1	54	249	( A ) The membrane from         C was stripped and reprobed with caspase-9 antibody .
+PMC1702560	false	supm-1	54	250	Cleaveage of caspase-9 following DNA damage was inhibited in Bax and Bak knock-down thymocytes .
+PMC1702560	false	supm-1	55	251	( B ) Wild-type thymocytes were cultured in RPMI-1640 / 10 % bovine fetal calf serum with 25 muM etoposide for the times shown , and aliquots of cells from each time point were stained with 7-AAD and analysed by flow cytometry to estimate the percentage of cells undergoing apoptosis ( sub-G1 peak expressed as a % of total cells ) .
+PMC1702560	false	supm-1	55	252	The data illustrate a representative experiment and the mean values + /- SD from five independent experiments are quantified in ( B ) ( blue bars ) .
+PMC1702560	false	supm-1	56	253	( C ) Aliquots of cells from the experiments shown in ( A ) were analysed for Bcl-xL expression by immunoblotting , and the membrane was reprobed with tubulin ( loading control ) .
+PMC1702560	false	supm-1	56	254	The upper bands ( deamidated ) and lower band ( native ) of Bcl-xL were quantified using a phosphorimager , and the percentages of upper bands in comparison to the total ( upper plus lower bands ) were calculated .
+PMC1702560	false	supm-1	56	255	The mean values + /- SD from five independent experiments are shown in the histogram ( red line ) .
+PMC1702560	false	supm-1	57	256	( 976 KB TIF )
+PMC1702560	true	supm-2	58	257	Deamidation Disrupts the Sequestration of BH3-Only Proteins by Bcl-xL
+PMC1702560	false	supm-2	59	258	( A ) Puma binds to the native but not deamidated form of Bcl-xL .
+PMC1702560	false	supm-2	59	259	Either wild-type ( 1.5 x 107 , lanes 3 and 4 ) or pretumourigenic CD45-/- LckF505 thymocytes ( 1.5 x 107 , lanes 5 and 6 ) were treated as in         A , and cells were lysed and subjected to immunoprecipitation with Puma antibody , followed by blotting with either Bcl-xL or Puma antibodies .
+PMC1702560	false	supm-2	59	260	Lane 1 is a wild-type thymocyte whole cell lysates ( WCLs ) control to facilitate comparison of native and deamidated forms of Bcl-xL .
+PMC1702560	false	supm-2	59	261	The asterisk indicates the light chain of the Puma antibody used for immunoprecipitation .
+PMC1702560	false	supm-2	60	262	( B ) Deamidated Bcl-xL from alkali treated thymocytes no longer binds to Bim .
+PMC1702560	false	supm-2	60	263	Wild-type thymocytes were incubated in neutral ( pH 7.0 ) or alkaline ( pH 9.0 ) buffer at 37 degreesC for 24 h. Bim was immunoprecipitated from WCLs and WCL samples .
+PMC1702560	false	supm-2	60	264	Bim immunoprecipitates and Bim depleted lysates were then separated and immunoblotted for either Bcl-xL or Bim .
+PMC1702560	false	supm-2	61	265	( 944 KB TIF )
+PMC1702560	true	supm-3	62	266	The Asp and iso-Asp Forms of Bcl-xL Chymotryptic Peptides 1 and 2 Were Identified by Spiking an Aliquot of a Digestion Mixture with Asp- or iso-Asp-Containing Synthetic Peptides Before LC-MS
+PMC1702560	false	supm-3	63	267	Peptides SDVEENRTEAPEGTESEMETPSAINGNPSW ( peptide 1 ) and HLADSPAVNGATGHSSSL ( peptide 2 ) and the corresponding deamidated forms , which contain the putative deamidation sites N52 and N66 , respectively , were generated by digestion of rBcl-xL with chymotrypsin .
+PMC1702560	false	supm-3	63	268	The chromatographic conditions used for the separation of the peptides in the LC-MS analyses were optimised so as to resolve the Asn , Asp , and iso-Asp forms of peptides 1 and 2 .
+PMC1702560	false	supm-3	63	269	The Asp and iso-Asp forms of the two peptides were identified by spiking an aliquot of a digestion mixture with Asp- or iso-Asp-containing synthetic peptides prior to LC-MS as shown .
+PMC1702560	false	supm-3	63	270	The chromatograms show LC-MS analyses at time point 72 h of the rBcl-xL base treatment .
+PMC1702560	false	supm-3	64	271	( 1.1 MB TIF )
+PMC1702560	true	supm-4	65	272	DNA Damage Induced NHE-1 Up Regulation Is Mitochondrial Apoptosis Independent
+PMC1702560	false	supm-4	66	273	( A ) Aliquots of the cells from         A incubated in the presence or absence of Z-VAD-fmk ( 200 muM ) were analysed for the expression of NHE-1 and tubulin ( as loading control ) by immunoblotting .
+PMC1702560	false	supm-4	67	274	( B ) Aliquots of the cells from         C were analysed for the expression of NHE-1 by immunoblotting .
+PMC1702560	false	supm-4	67	275	Tubulin was reprobed as loading control .
+PMC1702560	false	supm-4	68	276	( 645 KB TIF )
+PMC1702560	true	supm-5	69	277	Thymocytes Treated with DMA or Transduced with NHE-1 siRNA Display a Survival Advantage In Vitro Following DNA Damage
+PMC1702560	false	supm-5	70	278	( A ) Purified double negative ( DN ) thymocytes treated with and without DMA , etoposide , or irradiation were cultured in vitro .
+PMC1702560	false	supm-5	70	279	At 24 h , 48 h , or 72 h , an aliquot of cells was analysed by PI staining ( 0.5 mug and ml ) using flow cytometry ; PI positive cells represent dead cells .
+PMC1702560	false	supm-5	71	280	( B ) Purified DN thymocytes transduced with NHE-1 shRNA2 or empty vector were treated with or without etoposide and irradiation and then cultured in vitro .
+PMC1702560	false	supm-5	71	281	At 24 h , 48 h , or 72 h , an aliquot of cells was analysed as in ( A ) .
+PMC1702560	false	supm-5	72	282	( 431 KB TIF )
+PMC1702560	true	supm-6	73	283	Supplementary Information for NHE-1 Knockdown and Phosphorylation Analysis .
+PMC1702560	false	supm-6	74	284	( A ) Knockdown of NHE-1 by shRNA .
+PMC1702560	false	supm-6	74	285	NHE-1 shRNA ( shRNA1-5 ) , negative control , and empty vector were transduced into wild-type thymocytes .
+PMC1702560	false	supm-6	74	286	Immunoblotting for NHE-1 and tubulin showed that shRNA2 is the most potent shRNA2 inhibiting NHE-1 expression ; soshRNA2 was used in subsequent experiments .
+PMC1702560	false	supm-6	75	287	( B ) The histograms summarise the percentage of apoptotic cells ( Annexin V+PI - ) and dead cells ( Annexin V+PI+ ) from the experiment illustrated in         C .
+PMC1702560	false	supm-6	75	288	The data are means based on five independent experiments .
+PMC1702560	false	supm-6	76	289	( C ) The Ser phosphorylation of the NHE-1 antiport remains unchanged following DNA damage .
+PMC1702560	false	supm-6	76	290	Wild-type or CD45-/- LckF505 thymocytes were exposed to 5 Gy of irradiation and maintained in culture for the times shown .
+PMC1702560	false	supm-6	76	291	NHE-1 immunoprecipitates were then immunoblotted for p-Ser ( 16B4 ) .
+PMC1702560	false	supm-6	76	292	The membrane was stripped and reprobed for total NHE-1 .
+PMC1702560	false	supm-6	76	293	The histogram shows the relative quantification of p-Ser + / - SD from three independent experiments .
+PMC1702560	false	supm-6	76	294	Lane 1 was defined as 1 ( * ) .
+PMC1702560	false	supm-6	76	295	Note that immunoblotting with one additional p-Ser antibody and two additional p-Thr antibodies gave comparable results to those shown here .
+PMC1702560	false	supm-6	77	296	( 1.0 MB TIF )
+PMC1702560	true	supm-7	78	297	Primary Tumour Cells Are Resistant to DNA Damage Induced Bcl-xL Deamidation and Apoptosis , but Enforced Alkalinisation Overcomes this Resistance .
+PMC1702560	false	supm-7	79	298	( A ) DNA damage induced Bcl-xL deamidation is inhibited in CD45-/- LckF505 tumour cells .
+PMC1702560	false	supm-7	79	299	Wild-type , CD45-/- LckF505 pretumourigenic , and CD45-/- LckF505 tumour cells were either treated with etoposide for 24 h or exposed to 5 Gy of irradiation and then cultured for 24 h. Cells were lysed and subjected to immunoblotting for Bcl-xL or tubulin ( loading control ) .
+PMC1702560	false	supm-7	80	300	( B ) Intracellular alkalinisation and apoptosis induced by DNA damage are both inhibited in CD45-/- LckF505 tumour cells .
+PMC1702560	false	supm-7	80	301	pHi ( upper panel ) and apoptosis ( lower panel ) were analysed as in         A and         A.
+PMC1702560	false	supm-7	81	302	( C ) DNA damage causes up regulation of NHE-1 in wild-type but not in CD45-/- LckF505 tumour cells .
+PMC1702560	false	supm-7	81	303	Wild-type thymocytes or CD45-/- LckF505 tumour cells were either treated with etoposide ( Etop ) for 5 h or exposed to 5 Gy of irradiation and then maintained in culture for 5 h , followed by immunoblotting for NHE-1 or tubulin .
+PMC1702560	false	supm-7	81	304	The histogram shows the quantification of NHE-1 expression from five independent experiments SD .
+PMC1702560	false	supm-7	81	305	Lane 3 was defined as 1 ( * ) .
+PMC1702560	false	supm-7	82	306	( D ) CD45-/- LckF505 tumour cells were cultured in the media with the pHe as shown without monensin , treated with irradiation or etoposide , and analysed for Bcl-xL deamidation by immunoblotting .
+PMC1702560	false	supm-7	82	307	The percentage deamidation was calculated as in         B.
+PMC1702560	false	supm-7	83	308	( E ) Aliquots of the cells used for ( D ) were assessed for pHi .
+PMC1702560	false	supm-7	84	309	( F ) Aliquots of the cells used for ( D ) were assessed for apoptosis .
+PMC1702560	false	supm-7	84	310	The histograms represent mean values + /- SD ( n = 3 ) .
+PMC1702560	false	supm-7	85	311	( A ) shows that Bcl-xL deamidation following DNA damage was suppressed in primary tumour cells to the same extent as in pretumourigenic thymocytes 24 h after inducing DNA damage , although after 48 h , the inhibition of deamidation was somewhat less ( 68.1 % + /- 5.2 % inhibition in tumour cells compared to 96.2 % + /- 3.8 % in pretumourigenic thymocytes , unpublished data ) .
+PMC1702560	false	supm-7	85	312	Likewise , alkalinisation ( B , upper panel ) , apoptosis ( B , lower panel ) and increased NHE-1 expression ( C ) were all suppressed in tumour cells to nearly the same extent as in pretumourigenic thymocytes .
+PMC1702560	false	supm-7	85	313	Furthermore , in the absence of monensin , extracellular buffers at pH 8.0-8 .5 forced pHi values of 7.5-7 .7 ( E ) triggering Bcl-xL deamidation ( D ) and apoptosis ( F ) .
+PMC1702560	false	supm-7	85	314	It is particularly striking that incubation in buffer at pH 8.0 , for example , which achieves a pHi value of 7.43 , triggers 66.4 % and 36.6 % levels of Bcl-xL deamidation and apoptosis , respectively , irrespective of whether , in addition , DNA damage was induced by etoposide or by gamma irradiation .
+PMC1702560	false	supm-7	85	315	These results show that murine tumour cells resistant to genotoxic insult at physiological pHi values can be sensitised to die by enforced alkalinisation leading to Bcl-xL deamidation .
+PMC1702560	false	supm-7	86	316	( 1.3 MB TIF )
+PMC1702560	true	supm-8	87	317	Inhibition of NHE-1 Synthesis by CHX or Inhibition of NHE-1 Function by DMA in B-CLL Cells Blocks DNA Damage Induced Bcl-xL Deamidation
+PMC1702560	false	supm-8	88	318	( A ) Replotting of data from         A to show the absolute mean values SD ( n = 10 ) for Bcl-xL deamidation ( right panel ) and apoptosis ( left panel ) obtained at each of the three extracellular pH values investigated .
+PMC1702560	false	supm-8	88	319	The numbers at the top of each bar represent the mean pHi values measured in the cells incubated at the pHe values shown .
+PMC1702560	false	supm-8	89	320	( B ) A representative Bcl-xL Western blot from the B-CLL samples analysed in         A is shown .
+PMC1702560	false	supm-8	90	321	( C ) B-CLL patients ' PBMCs were treated with and without CHX , etoposide , and irradiation as in         A , 48 h later cells were subjected to immunoblotting for Bcl-xL .
+PMC1702560	false	supm-8	90	322	A representative blot from four independent experiments is shown .
+PMC1702560	false	supm-8	90	323	Tubulin was reprobed as loading control .
+PMC1702560	false	supm-8	91	324	( D ) B-CLL patients ' PBMCs were treated with and without DMA , etoposide , and irradiation as in         D , 48 h later cells were subjected to immunoblotting for Bcl-xL .
+PMC1702560	false	supm-8	91	325	A representative blot from four independent experiments is shown .
+PMC1702560	false	supm-8	91	326	Tubulin was reprobed as loading control .
+PMC1702560	false	supm-8	92	327	( 1.2 MB TIF )
+PMC1702560	false	s5a	93	328	The GenBank ( http://www.ncbi.nlm.nih.gov/Genbank ) accession numbers for proteins discussed in this paper are : Bcl-xL ( BC019307 ) , Bim ( NM009754 ) , NHE-1 ( BC052708 ) , and Puma ( U82987 ) .
+PMC1702560	false	supm-8	94	329	We are grateful to the late Professor S. Korsmeyer for the provision of a reagent , to Cindy Webb for animal husbandry , to Geoff Morgan for help with the FACS facility , to Anne Segonds-Pichon for advice in statistical analysis , and to Klaus Okkenhaug for suggestions on the manuscript .
+PMC1702560	false	supm-6	95	330	B-lineage chronic lymphoblastic leukemia
+PMC1702560	false	supm-4	96	331	5 - ( N , N ' - dimethyl ) - amiloride
+PMC1702560	false	supm-2	97	332	etoposide
+PMC1702560	false	supm-1	98	333	fluorescence activated cell sorter
+PMC1702560	false	s4m	99	334	oncogenic tyrosine kinase
+PMC1702560	false	s4l	100	335	peripheral blood mononuclear cells
+PMC1702560	false	s4k	101	336	intracellular pH
+PMC1702560	false	s4j	102	337	extracellular pH
+PMC1702560	false	s4i	103	338	propidium iodide
+PMC1702560	true	fig-1	104	339	DNA Damage Induced Bcl-xL Deamidation Is Mitochondrial Apoptosis Independent
+PMC1702560	false	fig-1	105	340	( A ) Wild-type thymocytes were pre-incubated with or without Z-VAD-fmk ( 200 muM ) , and were then cultured with or without etoposide for 24 h , harvested , and apoptosis was measured by measuring the sub-G1 peak by flow cytometry .
+PMC1702560	false	fig-1	105	341	The histograms ( right panel ) represent mean values + /- SD ( n = 3 ) .
+PMC1702560	false	fig-1	106	342	( B ) Aliquots of the cells from ( A ) incubated in the presence or absence of Z-VAD-fmk ( 200 muM ) were analysed for the expression of Bcl-xL and tubulin ( as loading control ) by immunoblotting .
+PMC1702560	false	fig-1	106	343	The upper and lower bands of Bcl-xL were quantified and expressed as a percentage of total Bcl-xL .
+PMC1702560	false	fig-1	106	344	The percentages shown below each lane are means + /- SD ( n = 3 ) .
+PMC1702560	false	fig-1	107	345	( C ) Plasmids of shRNA Bax ( GFP ) and shRNA Bak ( DsRed ) were cotransfected into purified DN thymocytes using an Amaxa nucleofactor kit .
+PMC1702560	false	fig-1	107	346	48 h later , GFP+ DsRed+ cells were purified by flow cytometry and treated with etoposide ( Etop , 25 muM ) for 30 h or exposed to irradiation ( IR , 5 Gy ) followed by 30 h in culture .
+PMC1702560	false	fig-1	107	347	DN thymocytes transfected with negative control plasmids were treated in parallel .
+PMC1702560	false	fig-1	107	348	Cells were then processed for immunoblotting with Bcl-xL antibody .
+PMC1702560	false	fig-1	107	349	The immunoblot was reprobed for Bax and Bak to check the efficiency of gene knockdown .
+PMC1702560	false	fig-1	107	350	Tubulin was also reprobed as a loading control .
+PMC1702560	true	fig-2	108	351	Deamidation Disrupts the Sequestration of BH3-Only Proteins by Bcl-xL
+PMC1702560	false	fig-2	109	352	( A ) Bim binds to the native ( Asn-Asn ) but not deamidated forms of Bcl-xL .
+PMC1702560	false	fig-2	109	353	Wild-type ( C57BL and 6 ) thymocytes ( 1.5 x 107 ) were exposed to 5 Gy irradiation ( IR ) and then maintained in culture for the times shown , after which cells were lysed and either separated as whole cell lysates ( WCL ) or as Bim immunoprecipitates , followed by immunoblotting for either Bcl-xL or for Bim .
+PMC1702560	false	fig-2	109	354	Bim migrates as " extra-long " ( EL ) or " long " ( L ) forms .
+PMC1702560	false	fig-2	110	355	( B ) Bcl-xL was immunoprecipitated from lysates derived from purified DN thymocytes treated with and without etoposide ( ut and E ) , followed by immunoblotting for Bim or Puma .
+PMC1702560	false	fig-2	110	356	The asterisk indicates the light chain of the Bcl-xL antibody used for immunoprecipitation .
+PMC1702560	false	fig-2	111	357	( C ) Anion exchange chromatography of purified rBcl-xL .
+PMC1702560	false	fig-2	111	358	Sample A was untreated ; samples B and C were exposed to pH 8.8 at 37 degreesC for 2 h and 20 h , respectively .
+PMC1702560	false	fig-2	111	359	The Figure illustrates superimposed elution profiles for each sample .
+PMC1702560	false	fig-2	111	360	Peaks A , B , and C had molecular masses of 25 , 015.6 ; 25 , 016.4 , and 25 , 017.2 , respectively .
+PMC1702560	false	fig-2	112	361	( D ) Bim binds to native but not to deamidated rBcl-xL .
+PMC1702560	false	fig-2	112	362	The three different forms of Bcl-xL ( A , B , and C ) purified by anion-exchange column chromatography shown in ( C ) were incubated in wild-type thymic lysates ( 1.5 x 107 cell equivalents ) at 4 degreesC for 2 h and then precipitated using nickel beads .
+PMC1702560	false	fig-2	112	363	The precipitated products were immunoblotted for Bim and Bcl-xL .
+PMC1702560	false	fig-2	112	364	Quantification of the Bim-L and Bcl-xL ratios + /- SD from three independent experiments is shown in the histogram , with the lane A ratio normalised to 1 ( * ) .
+PMC1702560	false	fig-2	113	365	( E ) Primary thymocytes were retrovirally transduced with empty vector or Bcl-xL constructs ( wild-type , N52A-N66A , or N52D-N66D ) .
+PMC1702560	false	fig-2	113	366	Bcl-xL was immunoprecipitated from lysates derived from 1.5 x 106 sorted GFP positive cells per lane , followed by immunoblotting for Bim or Puma .
+PMC1702560	false	fig-2	113	367	Note that in the vector lane , at this exposure endogenous Bcl-xL is not visible because of the small number of cells used .
+PMC1702560	false	fig-2	113	368	The asterisk indicates the light chain of the Bcl-xL antibody used for immunoprecipitation .
+PMC1702560	false	fig-2	114	369	( F ) Peptides SDVEENRTEAPEGTESEMETPSAINGNPSW ( peptide 1 ) and HLADSPAVNGATGHSSSL ( peptide 2 ) , and the corresponding deamidated forms , containing the putative deamidation sites N52 and N66 , respectively , were generated by digestion of rBcl-xL with chymotrypsin .
+PMC1702560	false	fig-2	114	370	The chromatographic conditions used for the separation of the peptides in the LC-MS analyses were optimised so as to resolve the Asn , Asp , and iso-Asp forms of peptides 1 and 2 .
+PMC1702560	false	fig-2	114	371	The Asp and iso-Asp forms of the two peptides were identified by spiking an aliquot of a digestion mixture with Asp- or iso-Asp-containing synthetic peptides prior to LC-MS            .
+PMC1702560	false	fig-2	114	372	The chromatograms show LC-MS analyses at time point 72 h of the rBcl-xl base treatment .
+PMC1702560	false	fig-2	114	373	For both peptides , the major deamidation product is the iso-Asp form ; the iso-Asp : Asp ratios are approximately 10:1 for N52 and 5:1 for N66 .
+PMC1702560	false	fig-2	114	374	The unknown peak 3 in peptide 2 could be an isomer of peak 2 or peak 4 .
+PMC1702560	true	fig-3	115	375	DNA Damage Causes Intracellular Alkalinisation and Subsequent Bcl-xL Deamidation
+PMC1702560	false	fig-3	116	376	( A ) Intracellular alkalinisation occurs following DNA damage in wild-type but not in pretumourigenic CD45-/- LckF505 thymocytes .
+PMC1702560	false	fig-3	116	377	Cells were treated with etoposide ( Etop ) for 20 h or exposed to 5 Gy of irradiation ( IR ) and then maintained in culture for 20 h. pHi was measured using SNARF by FACS in the gated live CD4-CD8- subset .
+PMC1702560	false	fig-3	116	378	The histograms represent mean values + /- SD ( n = 5 ) .
+PMC1702560	false	fig-3	117	379	( B ) Enforced intracellular thymic alkalinisation causes Bcl-xL deamidation .
+PMC1702560	false	fig-3	117	380	Wild-type thymocytes were maintained in RPMI-1640 / 10 % bovine fetal calf serum buffered at the indicated pH with Tris-HCl for 20 h in the presence of 20 muM monensin prior to lysis and immunoblotting for Bcl-xL .
+PMC1702560	false	fig-3	117	381	To minimize any deamidation produced during the gel running process , the resolving gel buffer was adjusted to pH 8.0 in this experiment .
+PMC1702560	false	fig-3	117	382	The mean ratio of the lower band ( native Bcl-xL ) or upper band ( deamidated Bcl-xL ) to the total ( upper plus lower bands ) is shown in the graph ( lower panel ) .
+PMC1702560	false	fig-3	117	383	The error bars represent SD ( n = 3 ) .
+PMC1702560	false	fig-3	117	384	Note that deamidation becomes prominent at pH 7.5 .
+PMC1702560	false	fig-3	118	385	( C ) Aliquots of the cells from         A incubated in the presence or absence of Z-VAD-fmk ( 200 muM ) were analysed for pHi , The histograms represent mean values + / - SD ( n = 3 ) .
+PMC1702560	false	fig-3	119	386	( D ) Wild-type or CD45-/- LckF505 pretumourigenic thymocytes were cultured for 24 h in media at the pH shown without monensin , with or without etoposide , and then analysed for Bcl-xL deamidation by immunoblotting .
+PMC1702560	false	fig-3	119	387	The upper and lower bands were quantified and the percentage of upper bands in total Bcl-xL calculated .
+PMC1702560	false	fig-3	119	388	The percentages shown below each lane are means + /- SD ( n = 5 ) .
+PMC1702560	false	fig-3	120	389	( E ) Aliquots of cells used in ( D ) were assessed for pHi by FACS .
+PMC1702560	false	fig-3	120	390	The histograms show the pHi of live gated CD4-CD8- thymocytes from five independent experiments + / - SD .
+PMC1702560	false	fig-3	120	391	The pHe values refer to the pH values of the extracellular media .
+PMC1702560	false	fig-3	121	392	( F ) Apoptosis of aliquots of the cells from ( D ) was analysed by FACS .
+PMC1702560	false	fig-3	121	393	The histogram shows the sub-G1 peak ( % ) of CD4-CD8- thymocytes from five independent experiments + /- SD .
+PMC1702560	false	fig-3	122	394	( G ) Wild-type ( wt ) , N52A-N66A ( AA ) , N52D-N66D ( DD ) Bcl-xL , and empty vector were retrovirally transduced into thymocytes .
+PMC1702560	false	fig-3	122	395	GFP positive cells were FACS sorted ( left panel ) and cultured in media with the pHe shown for 24 h or 48 h , then processed for immunoblotting with Bcl-xL antibody ( middle panel ) .
+PMC1702560	false	fig-3	122	396	Note that 8 x 106 and 1 x 106 cell equivalents were loaded per lane for the empty vector ( lanes 1-3 ) and Bcl-xL ( lanes 4-12 ) transfectants , respectively , such that the endogenous Bcl-xL is invisible in lanes 4-12 .
+PMC1702560	false	fig-3	122	397	The histogram ( right panel ) shows mean apoptosis ( sub-G1 ) values + / - SD generated from five independent experiments .
+PMC1702560	true	fig-4	123	398	Bcl-xL Deamidation Induced by DNA Damage Involves Up Regulation of the NHE-1 Na and H Antiport
+PMC1702560	false	fig-4	124	399	( A ) Bcl-xL deamidation induced by DNA damage requires de novo protein synthesis .
+PMC1702560	false	fig-4	124	400	Wild-type thymocytes were either treated with etoposide for 24 h ( Etop ) , or exposed to 5 Gy of irradiation ( IR ) and then maintained in culture for 24 h , with or without 0.5 muM cycloheximide ( CHX ) .
+PMC1702560	false	fig-4	124	401	Cell lysates were processed by immunoblotting for Bcl-xL or beta-actin ( loading control ) .
+PMC1702560	false	fig-4	125	402	( B ) DNA damage causes up regulation of NHE-1 in wild-type but not in CD45-/- LckF505 thymocytes .
+PMC1702560	false	fig-4	125	403	Wild-type or CD45-/- LckF505 thymocytes were either treated with etoposide ( Etop ) for 5 h , or exposed to 5 Gy of irradiation ( IR ) and then maintained in culture for 5 h before immunoblotting for NHE-1 or tubulin ( loading control ) .
+PMC1702560	false	fig-4	125	404	The histogram shows the quantification of relative NHE-1 expression levels SD from five independent experiments .
+PMC1702560	false	fig-4	125	405	Lane 3 was defined as 1 ( * ) .
+PMC1702560	false	fig-4	126	406	( C ) Migri-NHE-1 or empty Migri vector were transduced into wild-type or pretumourigenic CD45-/- LckF505 thymocytes .
+PMC1702560	false	fig-4	126	407	72 h after the first round of infection , cells were immunoblotted for NHE-1 and Bcl-xL .
+PMC1702560	false	fig-4	126	408	NHE-1 expression levels ( NHE-1 relative intensity ) were normalised for loading using tubulin values .
+PMC1702560	false	fig-4	126	409	Deamidation was calculated as in         B .
+PMC1702560	false	fig-4	126	410	The lower left FACS histogram shows the infection efficiency for nontransfected ( non ) , empty-vector transfected ( vector ) , or NHE-1 transfected ( NHE-1 ) cells as percentage GFP positive cells .
+PMC1702560	false	fig-4	126	411	The lower right histograms show the mean pHi and apoptosis ( sub-G1 ) values + /- SD ( n = 5 ) analysed on GFP negative and positive cells .
+PMC1702560	false	fig-4	127	412	( D ) The NHE-1 inhibitor DMA blocks DNA damage induced alkalinisation ( top left panel ) , Bcl-xL deamidation ( lower panel ) and apoptosis ( top right panel ) in wild-type thymocytes .
+PMC1702560	false	fig-4	127	413	Thymocytes were treated with Etoposide for 24 h , or exposed to 5 Gy of irradiation and then maintained in culture for 24 h , with or without 200 muM DMA .
+PMC1702560	false	fig-4	127	414	pHi was measured by FACS on live CD4-CD8- cells , and the sub-G1 peak was analysed by FACS on CD4-CD8- cells to assess apoptosis .
+PMC1702560	false	fig-4	127	415	The histograms represent mean values + /- SD ( n = 3 ) .
+PMC1702560	true	fig-5	128	416	NHE-1 Knockdown Blocks DNA Damage Induced Bcl-xL Deamidation and Apoptosis
+PMC1702560	false	fig-5	129	417	( A ) Empty vector , negative control , or NHE-1shRNA2 were transduced into wild-type thymocytes , then treated with Etoposide ( Etop ) or irradiation ( IR ) prior to immunoblotting for NHE-1 and Bcl-xL .
+PMC1702560	false	fig-5	130	418	( B ) Aliquots of the cells from ( A ) were analysed for pHi .
+PMC1702560	false	fig-5	130	419	The histogram represents mean values + /- SD ( n = 3 ) .
+PMC1702560	false	fig-5	131	420	( C ) Aliquots of the cells from ( A ) were analysed for apoptosis by Annexin V and PI staining using flow cytometry , as illustrated in a representative experiment ( total n = 5 ) .
+PMC1702560	false	fig-5	131	421	The numbers shown are the percentage of cells in each quandrant .
+PMC1702560	false	fig-5	131	422	Histograms summarising the percentage of apoptotic cells ( Annexin V+PI - ) and dead cells ( Annexin V+PI+ ) are shown in         B.
+PMC1702560	true	fig-6	132	423	DNA Damage Induces NHE-1 Expression , and Enforced Alkalinisation Promotes Apoptosis of Human B-CLL cells
+PMC1702560	false	fig-6	133	424	( A ) Enforced alkalinisation of cancer cells from patients ( n = 10 ) with B-CLL causes Bcl-xL deamidation and associated cell death .
+PMC1702560	false	fig-6	133	425	Treatment with etoposide ( Etop ) in vitro further amplifies cell death .
+PMC1702560	false	fig-6	133	426	Patients ' cells ( PBMC , in the range 85 % -95 % CD19+ B220+ ) were incubated at pHe values of 7.2 , 8.0 , or 8.5 , and the pHi values were monitored by SNARF-1 staining using flow cytometry .
+PMC1702560	false	fig-6	133	427	Apoptosis was evaluated by measurement of sub-G1 peaks using flow cytometry .
+PMC1702560	false	fig-6	133	428	The data shows pooled results from ten patients via 30 values per treatment condition : due to identical values , some symbols overlap .
+PMC1702560	false	fig-6	133	429	The correlation coefficients ( r ) of deamidation or sub-G1 versus pHi are shown for each treatment .
+PMC1702560	false	fig-6	133	430	The p value ( significance ) for each correlation is shown in parentheses .
+PMC1702560	false	fig-6	133	431	The correlation coefficients of sub-G1 versus deamidation are r = 0.92 ( p < 0.0001 ) for untreated cells and r = 0.87 ( p < 0.0001 ) for etoposide treated cells .
+PMC1702560	false	fig-6	134	432	( B ) Purified PBMC from B-CLL patients were cultured for 24 h in media at the pH shown , with and without etoposide for 48 h , and then analysed for Bcl-xL deamidation by immunoblotting ( left panel ) .
+PMC1702560	false	fig-6	134	433	The upper and lower bands were quantified and the upper deamidated Bcl-xL band was expressed as a percentage of total Bcl-xL .
+PMC1702560	false	fig-6	134	434	The percentages shown below each lane are means + /- SD ( n = 4 ) .
+PMC1702560	false	fig-6	134	435	The same cell aliquots cultured in RPMI and 10 % FCS for 24 h or 48 h were analysed for apoptosis by sub-G1 staining ( right panel ) .
+PMC1702560	false	fig-6	135	436	( C ) Assessment of NHE-1 expression in B-CLL patients ' samples following exposure to etoposide for the times shown .
+PMC1702560	false	fig-6	135	437	Representative immunoblotting results are shown for three patients in the right panel and the values for six patients ( normalized for tubulin loading ) are graphed in the left panel .
+PMC1702560	true	fig-7	136	438	Models Illustrating the Linkage Between DNA Damage , the NHE-1 Antiport , Alkalinisation , Bcl-xL Deamidation , and Apoptosis in Wild-Type and Cancer Cells
+PMC1702560	false	fig-7	137	439	( A ) In wild-type thymocytes , DNA damage causes increased NHE-1 expression and a consequent rise in intracellular pH , Bcl-xL deamidation , and apoptosis .
+PMC1702560	false	fig-7	138	440	( B ) In pretumourigenic thymocytes expressing an OTK , the DNA damage induced rise in NHE-1 expression is blocked , preventing alkalinisation , Bcl-xL deamidation , and apoptosis .
+PMC1702560	false	fig-7	139	441	( C ) Enforced alkalinisation of murine tumour cells , or human B-CLL cells , causes Bcl-xL deamidation and subsequent apoptosis , even in the absence of external genotoxic attack .
+PMC1702560	false	fig-6	140	442	Author contributions .
+PMC1702560	false	fig-6	140	443	RZ and DRA conceived and designed the experiments .
+PMC1702560	false	fig-6	140	444	RZ , DO , and TSS performed the experiments .
+PMC1702560	false	fig-6	140	445	RZ , DO , and TSS analyzed the data .
+PMC1702560	false	fig-6	140	446	GAF and ARG contributed reagents/materials/analysis tools .
+PMC1702560	false	fig-6	140	447	DRA wrote the paper .

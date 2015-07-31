@@ -1,0 +1,663 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2118421	0	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	0	uniprot:UNRESOLVED ID	mast cell	CellType
+PMC2118421	0	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2118421	1	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	1	uazid:UA-KB-FAM-00004	phosphatidyl inositol 3 kinase	Gene_or_gene_product
+PMC2118421	1	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	1	uniprot:Q00859	mitogen-activated protein kinase	Gene_or_gene_product
+PMC2118421	2	uniprot:O95267	RasGRP	Gene_or_gene_product
+PMC2118421	2	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2118421	2	uniprot:UNRESOLVED ID	Ras-Erk	Gene_or_gene_product
+PMC2118421	3	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	3	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	3	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	3	uniprot:UNRESOLVED ID	mast cell	CellType
+PMC2118421	4	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	4	uniprot:O89094	mice	Species
+PMC2118421	5	uniprot:O95267	RasGRP1-/-	Gene_or_gene_product
+PMC2118421	6	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	6	uniprot:P29323	Erk	Gene_or_gene_product
+PMC2118421	6	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	7	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2118421	7	uniprot:UNRESOLVED ID	PIP3-dependent kinase	Gene_or_gene_product
+PMC2118421	8	uniprot:P01111	N-Ras	Gene_or_gene_product
+PMC2118421	8	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2118421	9	uniprot:O95267	RasGRP1-/-	Gene_or_gene_product
+PMC2118421	9	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2118421	10	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	10	uniprot:UNRESOLVED ID	mast cell	CellType
+PMC2118421	11	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	12	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	13	uazid:UA-ORG-100	Bone	Organ
+PMC2118421	13	uniprot:UNRESOLVED ID	marrow	CellType
+PMC2118421	13	uazid:UA-ORG-100	bone	Organ
+PMC2118421	13	uniprot:O89094	mice	Species
+PMC2118421	14	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2118421	14	uniprot:UNRESOLVED ID	c-Kit+	Gene_or_gene_product
+PMC2118421	14	uniprot:UNRESOLVED ID	FcepsilonRI+	Gene_or_gene_product
+PMC2118421	15	uniprot:UNRESOLVED ID	c-Kit	Gene_or_gene_product
+PMC2118421	15	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	15	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	15	uniprot:UNRESOLVED ID	mast cell	CellType
+PMC2118421	16	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	17	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	17	uniprot:O95267	RasGRP1-/-	Gene_or_gene_product
+PMC2118421	18	uniprot:O95267	RasGRP1-/-	Gene_or_gene_product
+PMC2118421	19	uniprot:UNRESOLVED ID	anti-RasGRP1 Western	Gene_or_gene_product
+PMC2118421	20	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	21	uniprot:Q8TDF6	RasGRP4	Gene_or_gene_product
+PMC2118421	22	uniprot:Q8TDF6	RasGRP4	Gene_or_gene_product
+PMC2118421	23	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	23	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	24	uniprot:UNRESOLVED ID	c-Kit	Gene_or_gene_product
+PMC2118421	24	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	24	uniprot:O95267	RasGRP1-/-	Gene_or_gene_product
+PMC2118421	25	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	25	uniprot:Q8TDF6	RasGRP4	Gene_or_gene_product
+PMC2118421	26	uniprot:UNRESOLVED ID	Mast cell	CellType
+PMC2118421	26	uniprot:UNRESOLVED ID	anti-RasGRP1	Gene_or_gene_product
+PMC2118421	26	uniprot:Q8TDF6	RasGRP4	Gene_or_gene_product
+PMC2118421	26	uniprot:P28482	Erk2	Gene_or_gene_product
+PMC2118421	26	uniprot:UNRESOLVED ID	anti-RasGRP1 antibodies	Gene_or_gene_product
+PMC2118421	27	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	28	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	28	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	29	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2118421	30	uniprot:O60502	beta-hexosaminidase	Gene_or_gene_product
+PMC2118421	32	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	32	uniprot:UNRESOLVED ID	mast cell	CellType
+PMC2118421	33	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	33	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	34	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2118421	34	uniprot:O60502	beta-hexosaminidase	Gene_or_gene_product
+PMC2118421	35	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	35	uniprot:UNRESOLVED ID	RasGRP1-/- BMMCs	Gene_or_gene_product
+PMC2118421	36	uniprot:A3DIJ8	ATPase	Gene_or_gene_product
+PMC2118421	36	uniprot:UNRESOLVED ID	RasGRP1-/- BMMCs	Gene_or_gene_product
+PMC2118421	37	uniprot:O95267	RasGRP1-/-	Gene_or_gene_product
+PMC2118421	39	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	40	uniprot:UNRESOLVED ID	RasGRP1-/- BMMCs	Gene_or_gene_product
+PMC2118421	41	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	41	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2118421	41	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2118421	41	uniprot:P05112	IL-4	Gene_or_gene_product
+PMC2118421	43	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	43	uniprot:UNRESOLVED ID	RasGRP1-/- BMMCs	Gene_or_gene_product
+PMC2118421	45	uniprot:P60709	beta-actin	Gene_or_gene_product
+PMC2118421	46	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2118421	46	uniprot:P05112	IL-4	Gene_or_gene_product
+PMC2118421	46	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2118421	46	uniprot:UNRESOLVED ID	RasGRP1-/- BMMCs	Gene_or_gene_product
+PMC2118421	48	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2118421	48	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2118421	48	uniprot:P05112	IL-4	Gene_or_gene_product
+PMC2118421	49	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	49	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	50	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	51	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	51	uniprot:O95267	RasGRP1-/-	Gene_or_gene_product
+PMC2118421	55	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	57	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	58	uniprot:O89094	mice	Species
+PMC2118421	58	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2118421	60	uazid:UA-ORG-92	blood	Organ
+PMC2118421	60	uniprot:O89094	mice	Species
+PMC2118421	62	uazid:UA-ORG-701	peritoneum	Organ
+PMC2118421	62	uazid:UA-ORG-882	skin	Organ
+PMC2118421	62	uazid:UA-ORG-215	dermis	Organ
+PMC2118421	63	uniprot:O89094	mice	Species
+PMC2118421	64	uniprot:Q9P2X3	impact	Gene_or_gene_product
+PMC2118421	64	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	64	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2118421	64	uniprot:O89094	mice	Species
+PMC2118421	65	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2118421	65	uniprot:O89094	mice	Species
+PMC2118421	65	uniprot:UNRESOLVED ID	DNP-HSA	Gene_or_gene_product
+PMC2118421	66	uazid:UA-ORG-92	blood	Organ
+PMC2118421	66	uniprot:O89094	mice	Species
+PMC2118421	67	uazid:UA-ORG-92	blood	Organ
+PMC2118421	67	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2118421	68	uniprot:O89094	mice	Species
+PMC2118421	69	uniprot:O89094	mice	Species
+PMC2118421	70	uazid:UA-ORG-882	skin	Organ
+PMC2118421	70	uazid:UA-ORG-215	dermis	Organ
+PMC2118421	70	uniprot:O89094	mice	Species
+PMC2118421	72	uniprot:O89094	mice	Species
+PMC2118421	72	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	72	uniprot:UNRESOLVED ID	mast cell	CellType
+PMC2118421	73	uniprot:P21583	stem cell factor	Gene_or_gene_product
+PMC2118421	73	uniprot:P21583	SCF	Gene_or_gene_product
+PMC2118421	73	uniprot:P29323	Erk	Gene_or_gene_product
+PMC2118421	73	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2118421	73	uniprot:UNRESOLVED ID	RasGRP1-/- BMMCs	Gene_or_gene_product
+PMC2118421	74	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	74	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	74	uniprot:UNRESOLVED ID	mast cell	CellType
+PMC2118421	75	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	75	uniprot:UNRESOLVED ID	RasGRP1-/- BMMCs	Gene_or_gene_product
+PMC2118421	76	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	77	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	77	uniprot:O95267	RasGRP1-/-	Gene_or_gene_product
+PMC2118421	78	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2118421	81	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2118421	81	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	81	uniprot:UNRESOLVED ID	anti-LATpY191 antibody	Gene_or_gene_product
+PMC2118421	82	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2118421	82	uniprot:UNRESOLVED ID	RasGRP1-/- BMMCs	Gene_or_gene_product
+PMC2118421	83	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2118421	83	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2118421	83	uniprot:O95267	RasGRP1-/-	Gene_or_gene_product
+PMC2118421	84	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2118421	84	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2118421	84	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	84	uniprot:UNRESOLVED ID	RasGRP1-/- BMMCs	Gene_or_gene_product
+PMC2118421	85	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	85	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2118421	86	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	86	uniprot:O95267	RasGRP1-/-	Gene_or_gene_product
+PMC2118421	87	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	88	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2118421	89	uniprot:UNRESOLVED ID	anti-LATpY191 antibody	Gene_or_gene_product
+PMC2118421	91	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2118421	91	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2118421	92	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	93	uniprot:UNRESOLVED ID	Indo-1	Gene_or_gene_product
+PMC2118421	96	uniprot:P29323	Erk	Gene_or_gene_product
+PMC2118421	96	uniprot:Q966Y3	Jnk	Gene_or_gene_product
+PMC2118421	96	uniprot:O75791	p38	Gene_or_gene_product
+PMC2118421	97	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC2118421	97	uniprot:O95267	RasGRP1-/-	Gene_or_gene_product
+PMC2118421	98	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	98	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2118421	98	uniprot:UNRESOLVED ID	Ras-Erk	Gene_or_gene_product
+PMC2118421	99	uniprot:P29323	Erk	Gene_or_gene_product
+PMC2118421	100	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	100	uniprot:UNRESOLVED ID	Ras-Erk	Gene_or_gene_product
+PMC2118421	101	uniprot:P29323	Erk	Gene_or_gene_product
+PMC2118421	101	uniprot:O95267	RasGRP1-/-	Gene_or_gene_product
+PMC2118421	101	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	101	uniprot:UNRESOLVED ID	RasGRP1-/- BMMCs	Gene_or_gene_product
+PMC2118421	102	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	102	uniprot:UNRESOLVED ID	Ras-Erk	Gene_or_gene_product
+PMC2118421	102	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	103	uniprot:P26675	Sos	Gene_or_gene_product
+PMC2118421	103	uniprot:O95267	RasGRP	Gene_or_gene_product
+PMC2118421	104	uniprot:Q966Y3	Jnk	Gene_or_gene_product
+PMC2118421	104	uniprot:O75791	p38	Gene_or_gene_product
+PMC2118421	104	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2118421	105	uniprot:Q966Y3	Jnk	Gene_or_gene_product
+PMC2118421	105	uniprot:O75791	p38	Gene_or_gene_product
+PMC2118421	106	uniprot:O95267	RasGRP1-/-	Gene_or_gene_product
+PMC2118421	107	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC2118421	107	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	108	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	108	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	108	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC2118421	109	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	110	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	110	uniprot:UNRESOLVED ID	mast cell	CellType
+PMC2118421	111	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC2118421	111	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	111	uniprot:UNRESOLVED ID	mast cell	CellType
+PMC2118421	111	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2118421	112	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	112	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	112	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	113	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	113	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	113	uniprot:Q02574	PIP3	Gene_or_gene_product
+PMC2118421	113	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	115	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	116	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	116	uniprot:UNRESOLVED ID	RasGRP1-/- BMMCs	Gene_or_gene_product
+PMC2118421	116	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	116	uniprot:O95267	RasGRP	Gene_or_gene_product
+PMC2118421	117	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	117	uniprot:Q9UQC2	Gab2	Gene_or_gene_product
+PMC2118421	118	uniprot:Q9UQC2	Gab2	Gene_or_gene_product
+PMC2118421	118	uniprot:O43439	p85	Gene_or_gene_product
+PMC2118421	119	uniprot:Q9UQC2	Gab2	Gene_or_gene_product
+PMC2118421	119	uniprot:O43439	p85	Gene_or_gene_product
+PMC2118421	119	uniprot:UNRESOLVED ID	RasGRP1-/- BMMCs	Gene_or_gene_product
+PMC2118421	119	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	119	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	120	uniprot:Q92835	SHIP	Gene_or_gene_product
+PMC2118421	120	ncbitax:species:ncbi:111938	gatekeeper	Species
+PMC2118421	120	uniprot:UNRESOLVED ID	mast cell	CellType
+PMC2118421	120	uniprot:Q02574	PIP3	Gene_or_gene_product
+PMC2118421	121	uniprot:Q02574	PIP3	Gene_or_gene_product
+PMC2118421	121	uniprot:Q92835	SHIP	Gene_or_gene_product
+PMC2118421	121	uniprot:O95267	RasGRP1-/-	Gene_or_gene_product
+PMC2118421	123	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	123	uniprot:UNRESOLVED ID	RasGRP1-/- BMMCs	Gene_or_gene_product
+PMC2118421	124	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	124	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	124	uniprot:Q02574	PIP3	Gene_or_gene_product
+PMC2118421	124	uniprot:UNRESOLVED ID	RasGRP1-/- BMMCs	Gene_or_gene_product
+PMC2118421	127	uniprot:Q02574	PIP3	Gene_or_gene_product
+PMC2118421	129	uniprot:Q9UQC2	Gab2	Gene_or_gene_product
+PMC2118421	129	uniprot:O43439	p85	Gene_or_gene_product
+PMC2118421	130	uniprot:UNRESOLVED ID	anti-Gab2	Gene_or_gene_product
+PMC2118421	130	uniprot:UNRESOLVED ID	anti-pY	Gene_or_gene_product
+PMC2118421	130	uniprot:Q9UQC2	Gab2	Gene_or_gene_product
+PMC2118421	130	uniprot:O43439	p85	Gene_or_gene_product
+PMC2118421	131	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	131	uniprot:Q92835	SHIP1	Gene_or_gene_product
+PMC2118421	132	uniprot:Q92835	SHIP	Gene_or_gene_product
+PMC2118421	133	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	133	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	134	uniprot:UNRESOLVED ID	mast cell	CellType
+PMC2118421	134	uniprot:P54644	AKT	Gene_or_gene_product
+PMC2118421	134	uniprot:O15530	PDK1	Gene_or_gene_product
+PMC2118421	134	uniprot:P10829	PKCdelta	Gene_or_gene_product
+PMC2118421	134	uniprot:P49841	GSK3beta	Gene_or_gene_product
+PMC2118421	135	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2118421	135	uniprot:P98161	PKD1	Gene_or_gene_product
+PMC2118421	135	uniprot:P10829	PKCdelta	Gene_or_gene_product
+PMC2118421	136	uniprot:Q9P2X3	impact	Gene_or_gene_product
+PMC2118421	136	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	137	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2118421	137	uniprot:Q02574	PIP3	Gene_or_gene_product
+PMC2118421	137	uniprot:O15530	PDK1	Gene_or_gene_product
+PMC2118421	138	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2118421	138	uniprot:P49841	GSK3beta	Gene_or_gene_product
+PMC2118421	139	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2118421	139	uniprot:P49841	GSK3beta	Gene_or_gene_product
+PMC2118421	139	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	139	uniprot:P60568	IL-2	Gene_or_gene_product
+PMC2118421	139	uniprot:UNRESOLVED ID	NF-kappaB	Gene_or_gene_product
+PMC2118421	139	uniprot:UNRESOLVED ID	NFAT	Gene_or_gene_product
+PMC2118421	139	uniprot:P05412	AP-1	Gene_or_gene_product
+PMC2118421	140	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2118421	141	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	141	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2118421	141	uniprot:UNRESOLVED ID	RasGRP1-/- BMMCs	Gene_or_gene_product
+PMC2118421	142	uniprot:P49841	GSK3beta	Gene_or_gene_product
+PMC2118421	142	uniprot:UNRESOLVED ID	RasGRP1-/- BMMCs	Gene_or_gene_product
+PMC2118421	144	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	144	uniprot:O15530	PDK1	Gene_or_gene_product
+PMC2118421	145	uniprot:O15530	PDK1	Gene_or_gene_product
+PMC2118421	146	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	146	uniprot:P10829	PKCdelta	Gene_or_gene_product
+PMC2118421	146	uniprot:O15530	PDK1	Gene_or_gene_product
+PMC2118421	147	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2118421	147	uniprot:O15530	PDK1	Gene_or_gene_product
+PMC2118421	147	uniprot:P10829	PKCdelta	Gene_or_gene_product
+PMC2118421	147	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	148	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	148	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	149	uniprot:P01111	N-Ras	Gene_or_gene_product
+PMC2118421	149	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	149	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	150	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	150	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2118421	150	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2118421	150	uniprot:UNRESOLVED ID	GST-Raf-RBD	Gene_or_gene_product
+PMC2118421	151	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2118421	151	uniprot:UNRESOLVED ID	GST-Raf-RBD	Gene_or_gene_product
+PMC2118421	151	uniprot:P01111	N-Ras	Gene_or_gene_product
+PMC2118421	152	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2118421	152	uniprot:P01111	N-Ras	Gene_or_gene_product
+PMC2118421	152	uniprot:UNRESOLVED ID	GST-Raf-RBD	Gene_or_gene_product
+PMC2118421	153	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2118421	154	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	154	uniprot:P01111	N-Ras	Gene_or_gene_product
+PMC2118421	154	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	155	uniprot:P01111	N-Ras	Gene_or_gene_product
+PMC2118421	155	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	156	uniprot:P01111	N-Ras	Gene_or_gene_product
+PMC2118421	156	uniprot:UNRESOLVED ID	RasGRP1-/- BMMCs	Gene_or_gene_product
+PMC2118421	159	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2118421	160	uniprot:P01111	N-Ras	Gene_or_gene_product
+PMC2118421	160	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2118421	162	uniprot:UNRESOLVED ID	mast cell	CellType
+PMC2118421	163	uniprot:UNRESOLVED ID	Mast cell	CellType
+PMC2118421	163	uniprot:O60502	beta-hexosaminidase	Gene_or_gene_product
+PMC2118421	164	uniprot:P01111	N-Ras	Gene_or_gene_product
+PMC2118421	164	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	164	uniprot:UNRESOLVED ID	RasGRP1-/- BMMCs	Gene_or_gene_product
+PMC2118421	166	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	166	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2118421	167	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2118421	168	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2118421	169	uniprot:P69208	HA	Gene_or_gene_product
+PMC2118421	170	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	171	uniprot:O60502	beta-hexosaminidase	Gene_or_gene_product
+PMC2118421	172	uniprot:UNRESOLVED ID	RasGRP1-/- BMMCs	Gene_or_gene_product
+PMC2118421	173	uniprot:P01111	N-Ras	Gene_or_gene_product
+PMC2118421	173	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	174	uniprot:UNRESOLVED ID	RasGRP1-/- BMMCs	Gene_or_gene_product
+PMC2118421	177	uniprot:UNRESOLVED ID	CD63-GFP	Gene_or_gene_product
+PMC2118421	178	uniprot:P08962	CD63	Gene_or_gene_product
+PMC2118421	179	uniprot:UNRESOLVED ID	mast cell	CellType
+PMC2118421	179	uniprot:UNRESOLVED ID	CD63-GFP	Gene_or_gene_product
+PMC2118421	181	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	182	uniprot:P08962	CD63	Gene_or_gene_product
+PMC2118421	183	uniprot:P08962	CD63	Gene_or_gene_product
+PMC2118421	183	uniprot:P9WQ36	FACS	Gene_or_gene_product
+PMC2118421	184	uniprot:P08962	CD63	Gene_or_gene_product
+PMC2118421	185	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	186	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	187	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2118421	187	uniprot:UNRESOLVED ID	RasGRP1-/- BMMCs	Gene_or_gene_product
+PMC2118421	188	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	188	uniprot:O95267	RasGRP1-/-	Gene_or_gene_product
+PMC2118421	189	uniprot:UNRESOLVED ID	CD63GFP	Gene_or_gene_product
+PMC2118421	190	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	190	uniprot:P08962	CD63	Gene_or_gene_product
+PMC2118421	190	uniprot:P9WQ36	FACS	Gene_or_gene_product
+PMC2118421	191	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	192	uniprot:UNRESOLVED ID	anti-alpha-tubulin	Gene_or_gene_product
+PMC2118421	192	uniprot:UNRESOLVED ID	rhodamine-phalloidin	Gene_or_gene_product
+PMC2118421	193	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2118421	193	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2118421	194	uniprot:UNRESOLVED ID	GST-PAK-RBD	Gene_or_gene_product
+PMC2118421	194	uniprot:UNRESOLVED ID	GST-Rhotekin-RBD beads	Gene_or_gene_product
+PMC2118421	195	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2118421	195	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2118421	195	uniprot:UNRESOLVED ID	anti-Rac1	Gene_or_gene_product
+PMC2118421	195	uniprot:UNRESOLVED ID	anti-RhoA antibody	Gene_or_gene_product
+PMC2118421	198	uniprot:UNRESOLVED ID	RasGRP1-/- BMMCs	Gene_or_gene_product
+PMC2118421	199	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	199	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2118421	201	uniprot:UNRESOLVED ID	RasGRP1-/- BMMCs	Gene_or_gene_product
+PMC2118421	201	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2118421	201	uniprot:UNRESOLVED ID	anti-alpha-tubulin	Gene_or_gene_product
+PMC2118421	201	uniprot:UNRESOLVED ID	rhodamine-phalloidin	Gene_or_gene_product
+PMC2118421	201	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	203	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2118421	204	uniprot:O95267	RasGRP1-/-	Gene_or_gene_product
+PMC2118421	204	uniprot:UNRESOLVED ID	anti-tubulin	Gene_or_gene_product
+PMC2118421	204	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2118421	205	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	205	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	206	uniprot:P31749	Rac	Gene_or_gene_product
+PMC2118421	206	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2118421	207	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2118421	208	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	208	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2118421	209	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2118421	209	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2118421	209	uniprot:UNRESOLVED ID	GST-PAK-PBD	Gene_or_gene_product
+PMC2118421	209	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2118421	210	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2118421	211	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2118421	212	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	212	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	212	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2118421	213	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	213	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	214	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2118421	214	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2118421	214	uniprot:P02528	gamma2	Gene_or_gene_product
+PMC2118421	214	uniprot:O95267	RasGRP1-/-	Gene_or_gene_product
+PMC2118421	215	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2118421	215	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2118421	215	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2118421	216	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2118421	216	uniprot:Q13094	SLP76	Gene_or_gene_product
+PMC2118421	216	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2118421	217	uniprot:O95267	RasGRP	Gene_or_gene_product
+PMC2118421	217	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2118421	218	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	218	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	219	uniprot:UNRESOLVED ID	PI3K lipid products	Gene_or_gene_product
+PMC2118421	219	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2118421	219	uniprot:P42680	Tec	Gene_or_gene_product
+PMC2118421	219	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	220	uniprot:Q9UQC2	Gab2	Gene_or_gene_product
+PMC2118421	220	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC2118421	220	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	220	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	221	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	221	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2118421	221	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2118421	222	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2118421	222	uniprot:O95267	RasGRP1-/-	Gene_or_gene_product
+PMC2118421	223	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	223	uniprot:UNRESOLVED ID	mast cell	CellType
+PMC2118421	223	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2118421	223	uniprot:P10829	PKCdelta	Gene_or_gene_product
+PMC2118421	223	uniprot:O15530	PDK1	Gene_or_gene_product
+PMC2118421	224	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	224	uniprot:UNRESOLVED ID	Ras-Erk	Gene_or_gene_product
+PMC2118421	224	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2118421	224	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	225	uniprot:P29323	Erk	Gene_or_gene_product
+PMC2118421	225	uniprot:O95267	RasGRP1-/-	Gene_or_gene_product
+PMC2118421	225	uniprot:P26675	Sos	Gene_or_gene_product
+PMC2118421	225	uniprot:O95267	RasGRP	Gene_or_gene_product
+PMC2118421	225	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	225	uniprot:UNRESOLVED ID	Ras-Erk	Gene_or_gene_product
+PMC2118421	226	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	227	uniprot:Q8TDF6	RasGRP4	Gene_or_gene_product
+PMC2118421	227	uniprot:O95267	RasGRP	Gene_or_gene_product
+PMC2118421	228	uniprot:O89094	mice	Species
+PMC2118421	228	uniprot:Q8TDF6	RasGRP4	Gene_or_gene_product
+PMC2118421	230	uniprot:O89094	mice	Species
+PMC2118421	230	uniprot:Q8TDF6	RasGRP4	Gene_or_gene_product
+PMC2118421	230	uniprot:UNRESOLVED ID	mast cell	CellType
+PMC2118421	231	uniprot:Q8TDF6	RasGRP4	Gene_or_gene_product
+PMC2118421	231	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	231	uniprot:UNRESOLVED ID	Ras-Erk	Gene_or_gene_product
+PMC2118421	232	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	232	uniprot:P29323	Erk	Gene_or_gene_product
+PMC2118421	232	uniprot:O95267	RasGRP	Gene_or_gene_product
+PMC2118421	233	uniprot:P29353	Shc	Gene_or_gene_product
+PMC2118421	233	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	234	uniprot:UNRESOLVED ID	FcepsilonRI beta and gamma chains	Gene_or_gene_product
+PMC2118421	234	uniprot:P29353	Shc	Gene_or_gene_product
+PMC2118421	234	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2118421	234	uniprot:P26675	Sos	Gene_or_gene_product
+PMC2118421	234	uniprot:UNRESOLVED ID	Ras-MAPK	Gene_or_gene_product
+PMC2118421	235	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	235	uniprot:UNRESOLVED ID	mast cell	CellType
+PMC2118421	236	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	236	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	237	uniprot:O43439	p85	Gene_or_gene_product
+PMC2118421	237	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	237	uniprot:Q9UQC2	Gab2	Gene_or_gene_product
+PMC2118421	238	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	239	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	239	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	239	uniprot:O43439	p85	Gene_or_gene_product
+PMC2118421	239	uniprot:Q9UQC2	Gab2	Gene_or_gene_product
+PMC2118421	239	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	240	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	240	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	240	uniprot:P01111	N-Ras	Gene_or_gene_product
+PMC2118421	241	uniprot:P01111	N-Ras	Gene_or_gene_product
+PMC2118421	241	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2118421	242	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2118421	242	uniprot:UNRESOLVED ID	p110 subunit	Gene_or_gene_product
+PMC2118421	242	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	243	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	243	uazid:UA-ORG-727	platelet	Organ
+PMC2118421	244	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	244	uniprot:Q9UQC2	Gab2	Gene_or_gene_product
+PMC2118421	244	uniprot:O43439	p85	Gene_or_gene_product
+PMC2118421	244	uniprot:P01111	N-Ras	Gene_or_gene_product
+PMC2118421	244	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	244	uniprot:P14907	p110	Gene_or_gene_product
+PMC2118421	244	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	245	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	245	uniprot:P01111	N-Ras	Gene_or_gene_product
+PMC2118421	247	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2118421	247	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	248	uniprot:P01111	N-Ras	Gene_or_gene_product
+PMC2118421	248	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2118421	248	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2118421	248	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	249	uniprot:P01111	N-Ras	Gene_or_gene_product
+PMC2118421	249	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	250	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	250	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	251	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	251	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	251	uniprot:P01111	N-Ras	Gene_or_gene_product
+PMC2118421	252	uniprot:P01111	N-Ras	Gene_or_gene_product
+PMC2118421	252	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	252	uniprot:Q9UQC2	Gab2	Gene_or_gene_product
+PMC2118421	253	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	253	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2118421	253	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	254	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	254	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	254	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	254	uniprot:P29323	Erk	Gene_or_gene_product
+PMC2118421	254	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2118421	254	uniprot:P21583	SCF	Gene_or_gene_product
+PMC2118421	255	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2118421	255	uniprot:UNRESOLVED ID	Jak-Stat	Gene_or_gene_product
+PMC2118421	255	uniprot:P21583	SCF	Gene_or_gene_product
+PMC2118421	256	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2118421	256	uniprot:UNRESOLVED ID	IL-3 receptor	Gene_or_gene_product
+PMC2118421	256	uniprot:UNRESOLVED ID	c-Kit	Gene_or_gene_product
+PMC2118421	256	uniprot:UNRESOLVED ID	Shc-Grb2-Sos	Gene_or_gene_product
+PMC2118421	256	uniprot:UNRESOLVED ID	Ras-MAPK	Gene_or_gene_product
+PMC2118421	256	uniprot:O43439	p85	Gene_or_gene_product
+PMC2118421	256	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	257	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	257	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	257	uniprot:P08700	IL-3-	Gene_or_gene_product
+PMC2118421	257	uniprot:P21583	SCF	Gene_or_gene_product
+PMC2118421	258	uniprot:P08700	IL-3-	Gene_or_gene_product
+PMC2118421	258	uniprot:P21583	SCF	Gene_or_gene_product
+PMC2118421	258	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	259	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	260	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	261	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2118421	261	uniprot:UNRESOLVED ID	PKCs	Gene_or_gene_product
+PMC2118421	263	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2118421	264	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2118421	264	uniprot:Q8SSW7	GEFs	Gene_or_gene_product
+PMC2118421	264	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2118421	264	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	265	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2118421	265	uniprot:P15498	Vav1	Gene_or_gene_product
+PMC2118421	265	uniprot:P52735	Vav2	Gene_or_gene_product
+PMC2118421	265	uniprot:Q9UKW4	Vav3	Gene_or_gene_product
+PMC2118421	265	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2118421	265	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2118421	265	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2118421	265	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2118421	266	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2118421	266	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2118421	266	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2118421	267	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2118421	267	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2118421	268	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	268	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	268	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2118421	268	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2118421	268	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	269	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2118421	269	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC2118421	269	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	270	uniprot:UNRESOLVED ID	Lyn-Syk-LAT	Gene_or_gene_product
+PMC2118421	270	uniprot:UNRESOLVED ID	Fyn-Gab2-PI3K	Gene_or_gene_product
+PMC2118421	270	uniprot:P54644	AKT	Gene_or_gene_product
+PMC2118421	270	uniprot:P10829	PKCdelta	Gene_or_gene_product
+PMC2118421	272	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	272	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2118421	272	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2118421	272	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2118421	272	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2118421	272	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC2118421	273	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	273	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	274	uniprot:O89094	Mice	Species
+PMC2118421	275	uniprot:O95267	RasGRP1-/-	Gene_or_gene_product
+PMC2118421	275	uniprot:O89094	mice	Species
+PMC2118421	276	uniprot:O89094	Mice	Species
+PMC2118421	276	uniprot:O89094	mice	Species
+PMC2118421	277	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2118421	277	uniprot:UNRESOLVED ID	SPE-7	Gene_or_gene_product
+PMC2118421	277	uniprot:UNRESOLVED ID	Sigma-Aldrich	Gene_or_gene_product
+PMC2118421	277	uniprot:P12319	FcepsilonRIalpha	Gene_or_gene_product
+PMC2118421	277	uniprot:UNRESOLVED ID	c-Kit	Gene_or_gene_product
+PMC2118421	277	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2118421	277	uniprot:P28482	Erk2	Gene_or_gene_product
+PMC2118421	277	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2118421	277	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC2118421	277	uniprot:O43439	p85	Gene_or_gene_product
+PMC2118421	277	uniprot:UNRESOLVED ID	pTyr	Gene_or_gene_product
+PMC2118421	277	uniprot:UNRESOLVED ID	4G10	Gene_or_gene_product
+PMC2118421	277	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2118421	277	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2118421	277	uniprot:UNRESOLVED ID	phospho-LATpY191	Gene_or_gene_product
+PMC2118421	278	uniprot:P54644	AKT	Gene_or_gene_product
+PMC2118421	278	uniprot:Q966Y3	Jnk	Gene_or_gene_product
+PMC2118421	278	uniprot:O75791	p38	Gene_or_gene_product
+PMC2118421	278	uniprot:P10829	PKCdelta	Gene_or_gene_product
+PMC2118421	278	uniprot:O15530	PDK1	Gene_or_gene_product
+PMC2118421	279	uniprot:UNRESOLVED ID	Anti-LAT	Gene_or_gene_product
+PMC2118421	279	uniprot:UNRESOLVED ID	11B12	Gene_or_gene_product
+PMC2118421	280	uniprot:UNRESOLVED ID	Anti-RasGRP4 sera	Gene_or_gene_product
+PMC2118421	280	ncbitax:species:ncbi:9986	rabbits	Species
+PMC2118421	280	uniprot:UNRESOLVED ID	GST-RasGRP4	Gene_or_gene_product
+PMC2118421	281	uniprot:UNRESOLVED ID	Mast cell	CellType
+PMC2118421	282	uazid:UA-ORG-100	Bone	Organ
+PMC2118421	282	uniprot:UNRESOLVED ID	marrow	CellType
+PMC2118421	282	uazid:UA-ORG-303	femurs	Organ
+PMC2118421	282	uniprot:O89094	mice	Species
+PMC2118421	282	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2118421	282	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2118421	283	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2118421	283	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2118421	283	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2118421	284	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2118421	284	uniprot:P21583	SCF	Gene_or_gene_product
+PMC2118421	285	uniprot:UNRESOLVED ID	Mast cell	CellType
+PMC2118421	286	uniprot:O89094	mice	Species
+PMC2118421	286	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2118421	287	uazid:UA-ORG-92	Blood	Organ
+PMC2118421	287	uazid:UA-ORG-92	blood	Organ
+PMC2118421	290	uniprot:Q5TCZ1	fish	Gene_or_gene_product
+PMC2118421	290	uniprot:Q96T53	goat	Species
+PMC2118421	290	uniprot:UNRESOLVED ID	Ig	Gene_or_gene_product
+PMC2118421	294	uazid:UA-ORG-701	peritoneum	Organ
+PMC2118421	294	uniprot:UNRESOLVED ID	mast cell	CellType
+PMC2118421	295	uazid:UA-ORG-882	Skin	Organ
+PMC2118421	295	uazid:UA-ORG-882	skin	Organ
+PMC2118421	295	uazid:UA-ORG-215	dermis	Organ
+PMC2118421	296	uniprot:UNRESOLVED ID	Mast cell	CellType
+PMC2118421	296	uniprot:O95267	RasGRP1-/-	Gene_or_gene_product
+PMC2118421	296	ncbitax:species:ncbi:10090	mouse	Species
+PMC2118421	297	uniprot:P46060	SD	Gene_or_gene_product
+PMC2118421	298	uniprot:Q02574	PIP3	Gene_or_gene_product
+PMC2118421	299	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2118421	299	ncbitax:species:ncbi:41568	muM	Species
+PMC2118421	302	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2118421	303	uniprot:Q02574	PIP3	Gene_or_gene_product
+PMC2118421	304	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2118421	304	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2118421	305	uniprot:P01298	pH	Gene_or_gene_product
+PMC2118421	307	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2118421	308	uniprot:UNRESOLVED ID	GST-PAK-PBD	Gene_or_gene_product
+PMC2118421	308	uniprot:P15882	NC	Gene_or_gene_product
+PMC2118421	309	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2118421	309	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2118421	310	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2118421	310	uniprot:UNRESOLVED ID	pan-Ras	Gene_or_gene_product
+PMC2118421	310	uniprot:P01111	N-Ras	Gene_or_gene_product
+PMC2118421	310	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2118421	310	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2118421	312	uniprot:P01111	N-Ras	Gene_or_gene_product
+PMC2118421	312	uniprot:P69208	HA	Gene_or_gene_product
+PMC2118421	313	ncbitax:species:ncbi:31931	retrovirus	Species
+PMC2118421	314	uniprot:P78347	spin	Gene_or_gene_product
+PMC2118421	317	uazid:UA-ORG-100	bone	Organ
+PMC2118421	317	uniprot:UNRESOLVED ID	marrow	CellType
+PMC2118421	317	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2118421	318	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2118421	319	uniprot:UNRESOLVED ID	cytospin	Gene_or_gene_product
+PMC2118421	320	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2118421	321	uniprot:UNRESOLVED ID	anti-alpha-tubulin	Gene_or_gene_product
+PMC2118421	321	uniprot:Q96T53	goat	Species
+PMC2118421	323	uniprot:O89094	mice	Species
+PMC2118421	323	uniprot:Q14201	Ana	Gene_or_gene_product
+PMC2118421	323	uniprot:O43557	Light	Gene_or_gene_product
+PMC2118421	324	uniprot:UNRESOLVED ID	Leukemia	CellType
+PMC2118421	324	uniprot:UNRESOLVED ID	Lymphoma	CellType

@@ -1,0 +1,194 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2156131	0	uniprot:P01133	Epidermal Growth Factor	Gene_or_gene_product
+PMC2156131	0	uniprot:P00533	Epidermal Growth Factor Receptor	Gene_or_gene_product
+PMC2156131	1	uniprot:UNRESOLVED ID	G Protein-coupled Receptor Agonists	Gene_or_gene_product
+PMC2156131	2	uniprot:Q9QJ51	G protein-coupled receptor	Gene_or_gene_product
+PMC2156131	2	uniprot:F4IEM5	GPCR	Gene_or_gene_product
+PMC2156131	2	uniprot:Q10757	angiotensin	Gene_or_gene_product
+PMC2156131	2	uniprot:P08519	LPA	Gene_or_gene_product
+PMC2156131	3	uniprot:UNRESOLVED ID	GPCRs	Gene_or_gene_product
+PMC2156131	3	uniprot:F4IEM5	GPCR	Gene_or_gene_product
+PMC2156131	3	uniprot:UNRESOLVED ID	growth factor receptor	Gene_or_gene_product
+PMC2156131	4	uniprot:F4IEM5	GPCR	Gene_or_gene_product
+PMC2156131	5	uniprot:F4IEM5	GPCR	Gene_or_gene_product
+PMC2156131	6	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2156131	7	uniprot:P08519	LPA	Gene_or_gene_product
+PMC2156131	7	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	7	uniprot:UNRESOLVED ID	EGF receptors	Gene_or_gene_product
+PMC2156131	8	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	8	uniprot:UNRESOLVED ID	EGF receptors	Gene_or_gene_product
+PMC2156131	8	uniprot:P08519	LPA	Gene_or_gene_product
+PMC2156131	12	uniprot:P01042	Bradykinin	Gene_or_gene_product
+PMC2156131	13	uniprot:UNRESOLVED ID	EGF-like ligands	Gene_or_gene_product
+PMC2156131	14	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	15	uniprot:F4IEM5	GPCR	Gene_or_gene_product
+PMC2156131	15	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	18	uniprot:P12931	Src	Gene_or_gene_product
+PMC2156131	18	uniprot:P41240	Csk	Gene_or_gene_product
+PMC2156131	18	uniprot:P08519	LPA	Gene_or_gene_product
+PMC2156131	18	uniprot:UNRESOLVED ID	alpha2 adrenergic receptors	Gene_or_gene_product
+PMC2156131	19	uniprot:P12931	Src	Gene_or_gene_product
+PMC2156131	20	uniprot:UNRESOLVED ID	Src-EGF receptor	Gene_or_gene_product
+PMC2156131	20	uniprot:F4IEM5	GPCR	Gene_or_gene_product
+PMC2156131	21	uniprot:P01019	angiotensin II	Gene_or_gene_product
+PMC2156131	21	uniprot:P08519	LPA	Gene_or_gene_product
+PMC2156131	21	uniprot:P12931	Src	Gene_or_gene_product
+PMC2156131	21	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	21	uniprot:UNRESOLVED ID	EGF receptors	Gene_or_gene_product
+PMC2156131	22	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	23	uniprot:P12931	Src	Gene_or_gene_product
+PMC2156131	24	uniprot:P12931	Src	Gene_or_gene_product
+PMC2156131	27	uniprot:F4IEM5	GPCR	Gene_or_gene_product
+PMC2156131	29	uniprot:F4IEM5	GPCR	Gene_or_gene_product
+PMC2156131	30	uniprot:P12931	Src	Gene_or_gene_product
+PMC2156131	30	uniprot:UNRESOLVED ID	SH2-containing signal transducers	Gene_or_gene_product
+PMC2156131	31	uniprot:P12931	Src	Gene_or_gene_product
+PMC2156131	31	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	31	uniprot:UNRESOLVED ID	EGF receptors	Gene_or_gene_product
+PMC2156131	33	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	33	uniprot:F4IEM5	GPCR	Gene_or_gene_product
+PMC2156131	33	uniprot:P08519	LPA	Gene_or_gene_product
+PMC2156131	35	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	36	uniprot:P12931	Src	Gene_or_gene_product
+PMC2156131	37	uniprot:P12931	Src	Gene_or_gene_product
+PMC2156131	37	uniprot:F4IEM5	GPCR	Gene_or_gene_product
+PMC2156131	38	uniprot:P12931	Src	Gene_or_gene_product
+PMC2156131	38	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	39	uniprot:P12931	Src	Gene_or_gene_product
+PMC2156131	40	uniprot:UNRESOLVED ID	GPCRs	Gene_or_gene_product
+PMC2156131	40	uniprot:P12931	Src	Gene_or_gene_product
+PMC2156131	42	uniprot:UNRESOLVED ID	G proteins	Gene_or_gene_product
+PMC2156131	43	uniprot:Q14289	Pyk2	Gene_or_gene_product
+PMC2156131	44	uniprot:F4IEM5	GPCR	Gene_or_gene_product
+PMC2156131	44	uniprot:Q14289	Pyk2	Gene_or_gene_product
+PMC2156131	44	uniprot:P12931	Src	Gene_or_gene_product
+PMC2156131	45	uniprot:P98160	PLC	Gene_or_gene_product
+PMC2156131	45	uniprot:Q14289	Pyk2	Gene_or_gene_product
+PMC2156131	45	uniprot:P12931	Src	Gene_or_gene_product
+PMC2156131	46	uniprot:F4IEM5	GPCR	Gene_or_gene_product
+PMC2156131	46	uniprot:P12931	Src	Gene_or_gene_product
+PMC2156131	46	uniprot:P98160	PLC	Gene_or_gene_product
+PMC2156131	47	uniprot:Q14289	Pyk2	Gene_or_gene_product
+PMC2156131	47	uniprot:F4IEM5	GPCR	Gene_or_gene_product
+PMC2156131	47	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2156131	48	uniprot:Q14289	Pyk2	Gene_or_gene_product
+PMC2156131	50	uniprot:UNRESOLVED ID	beta2 adrenergic receptors	Gene_or_gene_product
+PMC2156131	50	uniprot:P12931	Src	Gene_or_gene_product
+PMC2156131	51	uniprot:UNRESOLVED ID	beta-adrenergic receptor	Gene_or_gene_product
+PMC2156131	51	uniprot:UNRESOLVED ID	betaark kinases	Gene_or_gene_product
+PMC2156131	52	uniprot:UNRESOLVED ID	adaptin-type molecule beta-arrestin	Gene_or_gene_product
+PMC2156131	53	uniprot:P12931	Src	Gene_or_gene_product
+PMC2156131	53	uniprot:UNRESOLVED ID	adrenergic receptor-beta-arrestin complex	Gene_or_gene_product
+PMC2156131	53	uniprot:UNRESOLVED ID	beta-arrestin	Gene_or_gene_product
+PMC2156131	54	uniprot:UNRESOLVED ID	heterotrimeric G protein	Gene_or_gene_product
+PMC2156131	54	uniprot:F4IEM5	GPCR	Gene_or_gene_product
+PMC2156131	55	uniprot:UNRESOLVED ID	JAK	Gene_or_gene_product
+PMC2156131	56	uniprot:P01241	growth hormone	Gene_or_gene_product
+PMC2156131	56	uniprot:P01236	prolactin	Gene_or_gene_product
+PMC2156131	56	uniprot:UNRESOLVED ID	prolactin receptors	Gene_or_gene_product
+PMC2156131	56	uniprot:O60674	Jak2	Gene_or_gene_product
+PMC2156131	57	uniprot:P01241	growth hormone	Gene_or_gene_product
+PMC2156131	57	uniprot:P62993	GRB-2	Gene_or_gene_product
+PMC2156131	57	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2156131	57	uniprot:UNRESOLVED ID	c-fos	Gene_or_gene_product
+PMC2156131	58	uniprot:P01241	growth hormone	Gene_or_gene_product
+PMC2156131	59	uniprot:F4IEM5	GPCR	Gene_or_gene_product
+PMC2156131	60	uniprot:P01241	growth hormone	Gene_or_gene_product
+PMC2156131	60	uniprot:O60674	JAK-2	Gene_or_gene_product
+PMC2156131	60	uniprot:UNRESOLVED ID	growth hormone receptor-EGF	Gene_or_gene_product
+PMC2156131	61	uniprot:P12931	Src	Gene_or_gene_product
+PMC2156131	62	uniprot:O60674	JAK-2	Gene_or_gene_product
+PMC2156131	63	uniprot:UNRESOLVED ID	integrin receptors	Gene_or_gene_product
+PMC2156131	63	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	63	uniprot:UNRESOLVED ID	integrins	Gene_or_gene_product
+PMC2156131	64	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	64	uniprot:UNRESOLVED ID	EGF receptors	Gene_or_gene_product
+PMC2156131	65	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	65	uniprot:UNRESOLVED ID	EGF receptors	Gene_or_gene_product
+PMC2156131	66	uniprot:UNRESOLVED ID	Other growth factor receptors	Gene_or_gene_product
+PMC2156131	66	uazid:UA-ORG-727	platelet	Organ
+PMC2156131	67	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	67	uniprot:UNRESOLVED ID	EGF receptors	Gene_or_gene_product
+PMC2156131	68	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	68	uniprot:UNRESOLVED ID	EGF receptors	Gene_or_gene_product
+PMC2156131	69	uniprot:UNRESOLVED ID	integrin receptor	Gene_or_gene_product
+PMC2156131	70	uniprot:P24821	tenascin	Gene_or_gene_product
+PMC2156131	70	uniprot:UNRESOLVED ID	collagen-binding glycoprotein	Gene_or_gene_product
+PMC2156131	70	uniprot:UNRESOLVED ID	integrin receptors	Gene_or_gene_product
+PMC2156131	70	uazid:UA-ORG-888	smooth muscle	Organ
+PMC2156131	71	uniprot:UNRESOLVED ID	integrin receptors	Gene_or_gene_product
+PMC2156131	72	uniprot:UNRESOLVED ID	fibroblasts	CellType
+PMC2156131	72	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2156131	73	uniprot:UNRESOLVED ID	integrin receptor	Gene_or_gene_product
+PMC2156131	73	uniprot:UNRESOLVED ID	integrin receptors	Gene_or_gene_product
+PMC2156131	74	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	74	uniprot:UNRESOLVED ID	EGF receptors	Gene_or_gene_product
+PMC2156131	75	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2156131	75	uniprot:UNRESOLVED ID	beta1 integrin receptor	Gene_or_gene_product
+PMC2156131	75	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	75	uniprot:UNRESOLVED ID	EGF receptors	Gene_or_gene_product
+PMC2156131	76	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2156131	77	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2156131	78	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	78	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2156131	78	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2156131	79	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2156131	80	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2156131	81	uniprot:UNRESOLVED ID	PDGF	Gene_or_gene_product
+PMC2156131	81	uniprot:UNRESOLVED ID	PDGF receptors	Gene_or_gene_product
+PMC2156131	81	uniprot:UNRESOLVED ID	Sunberg	Gene_or_gene_product
+PMC2156131	81	uniprot:UNRESOLVED ID	Rubin	Gene_or_gene_product
+PMC2156131	81	uniprot:UNRESOLVED ID	multiple growth factor receptors	Gene_or_gene_product
+PMC2156131	82	uniprot:P07585	decorin	Gene_or_gene_product
+PMC2156131	82	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2156131	83	uniprot:P07585	Decorin	Gene_or_gene_product
+PMC2156131	85	uniprot:UNRESOLVED ID	nervous system	CellType
+PMC2156131	86	uniprot:UNRESOLVED ID	KCl	Gene_or_gene_product
+PMC2156131	86	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2156131	89	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	89	uniprot:P01308	insulin	Gene_or_gene_product
+PMC2156131	89	uazid:UA-ORG-622	nerve	Organ
+PMC2156131	90	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	90	uniprot:UNRESOLVED ID	EGF receptors	Gene_or_gene_product
+PMC2156131	90	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2156131	91	uniprot:UNRESOLVED ID	nervous system	CellType
+PMC2156131	92	uniprot:Q14289	Pyk2	Gene_or_gene_product
+PMC2156131	92	uniprot:P12931	Src	Gene_or_gene_product
+PMC2156131	93	uniprot:P46019	Pyk	Gene_or_gene_product
+PMC2156131	93	uniprot:P12931	Src	Gene_or_gene_product
+PMC2156131	94	uniprot:P62158	calmodulin	Gene_or_gene_product
+PMC2156131	95	uniprot:UNRESOLVED ID	Stress Response	Gene_or_gene_product
+PMC2156131	97	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2156131	100	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2156131	100	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	100	uniprot:UNRESOLVED ID	EGF receptors	Gene_or_gene_product
+PMC2156131	104	uniprot:P62993	GRB-2	Gene_or_gene_product
+PMC2156131	104	interpro:IPR016245	EGF receptor	Gene_or_gene_product
+PMC2156131	104	uniprot:P29353	Shc	Gene_or_gene_product
+PMC2156131	104	uniprot:P19174	PLC-gamma1	Gene_or_gene_product
+PMC2156131	105	uniprot:UNRESOLVED ID	receptor dimers	Gene_or_gene_product
+PMC2156131	107	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	108	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	109	uniprot:P00534	v-erbB	Gene_or_gene_product
+PMC2156131	109	ncbitax:species:ncbi:9031	chicken	Species
+PMC2156131	114	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	114	uniprot:UNRESOLVED ID	EGF receptors	Gene_or_gene_product
+PMC2156131	114	uniprot:UNRESOLVED ID	wild-type ErbB-2	Gene_or_gene_product
+PMC2156131	115	uniprot:P04626	ErbB-2	Gene_or_gene_product
+PMC2156131	115	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	115	uniprot:UNRESOLVED ID	EGF receptors	Gene_or_gene_product
+PMC2156131	116	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	116	uniprot:UNRESOLVED ID	EGF receptors	Gene_or_gene_product
+PMC2156131	119	uniprot:UNRESOLVED ID	dominant-negative receptor mutants	Gene_or_gene_product
+PMC2156131	119	uniprot:P27361	erk1	Gene_or_gene_product
+PMC2156131	119	uniprot:UNRESOLVED ID	c-fos	Gene_or_gene_product
+PMC2156131	119	uniprot:Q12809	erg-1	Gene_or_gene_product
+PMC2156131	123	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	124	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	128	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156131	128	uniprot:UNRESOLVED ID	EGF receptors	Gene_or_gene_product
+PMC2156131	133	uniprot:UNRESOLVED ID	CA24071	Gene_or_gene_product
+PMC2156131	133	uniprot:UNRESOLVED ID	CA75195	Gene_or_gene_product
+PMC2156131	135	uniprot:F4IEM5	GPCR	Gene_or_gene_product
+PMC2156131	135	uniprot:Q9QJ51	G protein-coupled receptor	Gene_or_gene_product
+PMC2156131	135	uniprot:P08519	LPA	Gene_or_gene_product

@@ -1,0 +1,731 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2171339	0	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	0	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	1	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	1	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	2	uniprot:UNRESOLVED ID	protein-tyrosine phosphatase	Gene_or_gene_product
+PMC2171339	2	uniprot:P05451	PTP	Gene_or_gene_product
+PMC2171339	3	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	3	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	3	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	3	uniprot:P41240	Csk	Gene_or_gene_product
+PMC2171339	4	uniprot:P81070	Fibrinogen	Gene_or_gene_product
+PMC2171339	4	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	4	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	4	uniprot:UNRESOLVED ID	alphaIIbbeta3-c-Src-Csk complex	Gene_or_gene_product
+PMC2171339	4	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	5	ncbitax:species:ncbi:10090	mouse	Species
+PMC2171339	5	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	5	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	5	uniprot:P41240	Csk	Gene_or_gene_product
+PMC2171339	5	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	6	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	6	uniprot:UNRESOLVED ID	outside-in alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	6	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	7	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	7	uniprot:UNRESOLVED ID	outside-in alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	7	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	9	uniprot:UNRESOLVED ID	integrins	Gene_or_gene_product
+PMC2171339	10	uniprot:UNRESOLVED ID	G protein-coupled receptors	Gene_or_gene_product
+PMC2171339	11	uniprot:UNRESOLVED ID	integrins	Gene_or_gene_product
+PMC2171339	12	uniprot:UNRESOLVED ID	integrins and specific receptor	Gene_or_gene_product
+PMC2171339	12	uniprot:UNRESOLVED ID	nonreceptor protein kinases	Gene_or_gene_product
+PMC2171339	14	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	14	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	14	uniprot:UNRESOLVED ID	beta3 cytoplasmic domain	Gene_or_gene_product
+PMC2171339	15	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	15	uniprot:UNRESOLVED ID	alphaVbeta3	Gene_or_gene_product
+PMC2171339	16	uniprot:UNRESOLVED ID	Src family kinases	Gene_or_gene_product
+PMC2171339	16	uniprot:Q60420	beta1	Gene_or_gene_product
+PMC2171339	16	uniprot:UNRESOLVED ID	beta2 integrins	Gene_or_gene_product
+PMC2171339	17	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	17	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	17	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	17	uniprot:UNRESOLVED ID	alphaVbeta3	Gene_or_gene_product
+PMC2171339	17	uniprot:UNRESOLVED ID	osteoclast	CellType
+PMC2171339	17	uniprot:P04004	vitronectin	Gene_or_gene_product
+PMC2171339	17	uniprot:P10451	osteopontin	Gene_or_gene_product
+PMC2171339	18	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	18	uniprot:UNRESOLVED ID	alphaVbeta3	Gene_or_gene_product
+PMC2171339	18	uazid:UA-ORG-100	bone	Organ
+PMC2171339	19	uniprot:UNRESOLVED ID	beta3 integrins	Gene_or_gene_product
+PMC2171339	19	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	19	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	20	uniprot:UNRESOLVED ID	beta3 integrins	Gene_or_gene_product
+PMC2171339	20	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	20	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	20	uniprot:UNRESOLVED ID	Src family kinases	Gene_or_gene_product
+PMC2171339	20	uazid:UA-ORG-100	bone	Organ
+PMC2171339	20	uniprot:O89094	mice	Species
+PMC2171339	20	uniprot:O09029	beta3	Gene_or_gene_product
+PMC2171339	21	uniprot:UNRESOLVED ID	beta3 integrins	Gene_or_gene_product
+PMC2171339	21	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	22	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	22	uniprot:P55241	SH2	Gene_or_gene_product
+PMC2171339	23	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	23	uniprot:UNRESOLVED ID	beta3 integrins	Gene_or_gene_product
+PMC2171339	23	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	24	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	25	uniprot:P41240	Csk	Gene_or_gene_product
+PMC2171339	25	uniprot:UNRESOLVED ID	alphaIIbbeta3-c-Src	Gene_or_gene_product
+PMC2171339	25	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	26	uniprot:UNRESOLVED ID	protein-tyrosine phosphatase	Gene_or_gene_product
+PMC2171339	26	uniprot:P05451	PTP	Gene_or_gene_product
+PMC2171339	26	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	26	uniprot:UNRESOLVED ID	beta3 integrin	Gene_or_gene_product
+PMC2171339	27	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	27	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	27	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	28	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	28	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	28	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	28	uniprot:O89094	mice	Species
+PMC2171339	29	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	29	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	29	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	30	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	30	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	30	uniprot:P05451	PTP	Gene_or_gene_product
+PMC2171339	30	uniprot:UNRESOLVED ID	alphaIIbbeta3-c-Src	Gene_or_gene_product
+PMC2171339	30	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	30	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	31	uniprot:P41240	Csk	Gene_or_gene_product
+PMC2171339	31	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	32	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	32	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	32	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	33	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	33	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	33	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	33	ncbitax:species:ncbi:9606	human	Species
+PMC2171339	33	ncbitax:species:ncbi:10090	mouse	Species
+PMC2171339	33	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	34	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	34	uniprot:P41240	Csk	Gene_or_gene_product
+PMC2171339	34	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	34	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	34	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	34	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	35	uniprot:UNRESOLVED ID	MnCl2	Gene_or_gene_product
+PMC2171339	35	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	35	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	36	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	36	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	36	uniprot:UNRESOLVED ID	MnCl2	Gene_or_gene_product
+PMC2171339	36	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	36	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	37	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	37	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	38	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	38	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	38	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	38	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	38	ncbitax:species:ncbi:41568	muM	Species
+PMC2171339	38	uniprot:Q99463	PP2	Gene_or_gene_product
+PMC2171339	38	uniprot:P12931	Src	Gene_or_gene_product
+PMC2171339	38	uniprot:UNRESOLVED ID	mM RGDS	Gene_or_gene_product
+PMC2171339	38	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	39	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	39	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	39	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	39	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	40	ncbitax:species:ncbi:9606	human	Species
+PMC2171339	40	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	40	uniprot:P10266	RT	Gene_or_gene_product
+PMC2171339	40	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	40	uniprot:UNRESOLVED ID	mM MnCl2	Gene_or_gene_product
+PMC2171339	41	ncbitax:species:ncbi:41568	muM	Species
+PMC2171339	41	uniprot:Q99463	PP2	Gene_or_gene_product
+PMC2171339	42	uniprot:P21912	IP	Gene_or_gene_product
+PMC2171339	44	ncbitax:species:ncbi:10090	mouse	Species
+PMC2171339	44	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	44	uniprot:UNRESOLVED ID	MnCl2	Gene_or_gene_product
+PMC2171339	44	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	44	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2171339	44	uniprot:UNRESOLVED ID	serum	CellType
+PMC2171339	44	uniprot:Q7ZU13	NRS	Gene_or_gene_product
+PMC2171339	44	uniprot:Q2G0B1	rat	Species
+PMC2171339	44	uniprot:UNRESOLVED ID	IgG	Gene_or_gene_product
+PMC2171339	45	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	45	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	46	uniprot:P81070	Fibrinogen	Gene_or_gene_product
+PMC2171339	46	uniprot:UNRESOLVED ID	PTP-1B+/+	Gene_or_gene_product
+PMC2171339	46	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	46	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	46	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	47	uniprot:UNRESOLVED ID	PTP-1B+/+	Gene_or_gene_product
+PMC2171339	47	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	47	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	49	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	50	uniprot:P81070	Fibrinogen	Gene_or_gene_product
+PMC2171339	50	uniprot:UNRESOLVED ID	PTP-1B+/+	Gene_or_gene_product
+PMC2171339	50	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	50	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	50	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	51	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	51	uniprot:P41240	Csk	Gene_or_gene_product
+PMC2171339	51	uniprot:UNRESOLVED ID	alphaIIbbeta3-c-Src complex	Gene_or_gene_product
+PMC2171339	52	uniprot:P81070	Fibrinogen	Gene_or_gene_product
+PMC2171339	52	uniprot:UNRESOLVED ID	PTP-1B+/+	Gene_or_gene_product
+PMC2171339	52	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	52	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	52	uniprot:P41240	Csk	Gene_or_gene_product
+PMC2171339	54	uniprot:P81070	Fibrinogen	Gene_or_gene_product
+PMC2171339	54	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	54	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	54	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	54	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	55	uniprot:UNRESOLVED ID	MnCl2	Gene_or_gene_product
+PMC2171339	55	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	55	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	55	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	55	uniprot:UNRESOLVED ID	G protein-coupled receptors	Gene_or_gene_product
+PMC2171339	55	uniprot:UNRESOLVED ID	outside-in alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	56	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	56	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	56	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	56	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	56	uniprot:P12931	Src	Gene_or_gene_product
+PMC2171339	57	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	57	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	57	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	57	uniprot:O89094	mice	Species
+PMC2171339	57	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	57	uniprot:UNRESOLVED ID	PTP-1B+/+	Gene_or_gene_product
+PMC2171339	58	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	58	uniprot:UNRESOLVED ID	MnCl2	Gene_or_gene_product
+PMC2171339	58	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	59	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	59	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	59	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	60	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2171339	60	uniprot:O15117	adhesion and degranulation-promoting adaptor protein	Gene_or_gene_product
+PMC2171339	60	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	60	uniprot:UNRESOLVED ID	outside-in alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	61	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	61	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	61	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	62	uazid:UA-ORG-727	Platelets	Organ
+PMC2171339	62	uniprot:UNRESOLVED ID	PTP-1B+	Gene_or_gene_product
+PMC2171339	63	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	63	uniprot:UNRESOLVED ID	alphaIIbbeta3 receptors	Gene_or_gene_product
+PMC2171339	64	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	64	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	64	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	64	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	65	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	65	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	65	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	66	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	66	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	66	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	66	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	67	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	68	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	68	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	68	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	68	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	68	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	69	uniprot:UNRESOLVED ID	PTP-1B-alphaIIbbeta3-c-Src	Gene_or_gene_product
+PMC2171339	70	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	70	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	70	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	70	uniprot:UNRESOLVED ID	outside-in alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	70	ncbitax:species:ncbi:10090	mouse	Species
+PMC2171339	70	uniprot:UNRESOLVED ID	fibroblasts	CellType
+PMC2171339	70	uniprot:UNRESOLVED ID	Src family kinases	Gene_or_gene_product
+PMC2171339	70	uniprot:UNRESOLVED ID	c-Yes	Gene_or_gene_product
+PMC2171339	70	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC2171339	71	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	71	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	72	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	72	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	72	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	72	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	72	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	73	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	73	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	73	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	74	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	74	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	74	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	74	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	75	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	75	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	75	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	76	ncbitax:species:ncbi:9606	human	Species
+PMC2171339	76	uniprot:UNRESOLVED ID	alphaIIbbeta3-SYF	Gene_or_gene_product
+PMC2171339	76	uniprot:UNRESOLVED ID	wild-type c-Src	Gene_or_gene_product
+PMC2171339	77	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	78	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	78	uniprot:O09029	beta3	Gene_or_gene_product
+PMC2171339	79	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	80	uniprot:UNRESOLVED ID	wild-type c-Src	Gene_or_gene_product
+PMC2171339	80	uniprot:P12931	Src	Gene_or_gene_product
+PMC2171339	81	uniprot:UNRESOLVED ID	MnCl2	Gene_or_gene_product
+PMC2171339	81	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	81	uniprot:O09029	beta3	Gene_or_gene_product
+PMC2171339	81	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	83	uniprot:UNRESOLVED ID	c-Src molecule	Gene_or_gene_product
+PMC2171339	83	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	83	uniprot:P12931	Src	Gene_or_gene_product
+PMC2171339	84	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	84	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	84	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	84	uniprot:UNRESOLVED ID	Delta90-144	Gene_or_gene_product
+PMC2171339	85	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	85	uniprot:UNRESOLVED ID	Delta90-92	Gene_or_gene_product
+PMC2171339	85	uniprot:UNRESOLVED ID	polyproline type II motifs	Gene_or_gene_product
+PMC2171339	85	uniprot:UNRESOLVED ID	beta3 cytoplasmic domain	Gene_or_gene_product
+PMC2171339	86	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	86	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	86	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	87	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	87	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	88	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	88	uniprot:UNRESOLVED ID	SH3	Gene_or_gene_product
+PMC2171339	88	uniprot:UNRESOLVED ID	beta3 cytoplasmic domain	Gene_or_gene_product
+PMC2171339	88	uniprot:UNRESOLVED ID	c-Src SH3	Gene_or_gene_product
+PMC2171339	88	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	89	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	89	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	89	uniprot:UNRESOLVED ID	alphaIIbbeta3-c-Src complex	Gene_or_gene_product
+PMC2171339	89	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	90	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	90	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	90	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	91	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	91	uniprot:P69208	HA	Gene_or_gene_product
+PMC2171339	91	ncbitax:species:ncbi:9606	human	Species
+PMC2171339	91	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	92	uniprot:UNRESOLVED ID	MnCl2	Gene_or_gene_product
+PMC2171339	92	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	93	uniprot:P69208	HA	Gene_or_gene_product
+PMC2171339	94	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	94	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	95	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	95	ncbitax:species:ncbi:9606	human	Species
+PMC2171339	95	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	95	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	96	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	96	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	96	uniprot:Q99463	PP2	Gene_or_gene_product
+PMC2171339	96	ncbitax:species:ncbi:41568	muM	Species
+PMC2171339	97	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	99	uniprot:Q7ZU13	NRS	Gene_or_gene_product
+PMC2171339	99	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2171339	99	uniprot:UNRESOLVED ID	serum	CellType
+PMC2171339	100	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	100	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	100	uniprot:UNRESOLVED ID	outside-in alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	101	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	101	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	101	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	102	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	102	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	103	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	103	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	104	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	104	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	104	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	105	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	105	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	105	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	106	uazid:UA-ORG-727	Platelets	Organ
+PMC2171339	106	uniprot:UNRESOLVED ID	PTP-1B+/+	Gene_or_gene_product
+PMC2171339	106	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	106	uniprot:O89094	mice	Species
+PMC2171339	106	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	106	uniprot:P10266	RT	Gene_or_gene_product
+PMC2171339	107	uniprot:UNRESOLVED ID	rhodamine-phalloidin	Gene_or_gene_product
+PMC2171339	107	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2171339	109	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2171339	109	ncbitax:species:ncbi:41568	mum	Species
+PMC2171339	110	uazid:UA-ORG-727	Platelet	Organ
+PMC2171339	111	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	113	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	113	uniprot:Q9QJ51	G protein-coupled receptor	Gene_or_gene_product
+PMC2171339	113	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	113	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	114	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	114	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	115	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	116	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	116	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	116	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	116	uniprot:Q96IZ0	PAR4	Gene_or_gene_product
+PMC2171339	116	uniprot:UNRESOLVED ID	PAR4 receptor	Gene_or_gene_product
+PMC2171339	116	uniprot:UNRESOLVED ID	convulxin	Gene_or_gene_product
+PMC2171339	117	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	117	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	117	uniprot:Q96IZ0	PAR4	Gene_or_gene_product
+PMC2171339	117	uniprot:UNRESOLVED ID	PAR4 receptor	Gene_or_gene_product
+PMC2171339	118	uazid:UA-ORG-381	hand	Organ
+PMC2171339	118	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	118	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	118	uniprot:UNRESOLVED ID	fibrin	Gene_or_gene_product
+PMC2171339	119	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	119	uniprot:UNRESOLVED ID	outside-in alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	119	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	120	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	120	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	120	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	120	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	121	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	121	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	121	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	121	uniprot:UNRESOLVED ID	fibrin	Gene_or_gene_product
+PMC2171339	122	uazid:UA-ORG-727	Platelet	Organ
+PMC2171339	123	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	123	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	123	uniprot:P10266	RT	Gene_or_gene_product
+PMC2171339	123	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	124	uazid:UA-ORG-727	Platelets	Organ
+PMC2171339	124	uniprot:O89094	mice	Species
+PMC2171339	124	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	125	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	126	uazid:UA-ORG-727	Platelets	Organ
+PMC2171339	126	uniprot:P10266	RT	Gene_or_gene_product
+PMC2171339	126	uniprot:Q96IZ0	PAR4	Gene_or_gene_product
+PMC2171339	126	uniprot:UNRESOLVED ID	PAR4 receptor	Gene_or_gene_product
+PMC2171339	126	uniprot:UNRESOLVED ID	AYPGKF	Gene_or_gene_product
+PMC2171339	127	uniprot:P81070	Fibrinogen	Gene_or_gene_product
+PMC2171339	129	uniprot:UNRESOLVED ID	Fibrin	Gene_or_gene_product
+PMC2171339	129	uniprot:UNRESOLVED ID	CaCl2	Gene_or_gene_product
+PMC2171339	129	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	129	uazid:UA-ORG-725	plasma	Organ
+PMC2171339	130	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	130	uazid:UA-ORG-725	plasma	Organ
+PMC2171339	130	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	130	uniprot:UNRESOLVED ID	PTP+/+ samples	Gene_or_gene_product
+PMC2171339	132	uniprot:O89094	mice	Species
+PMC2171339	132	uazid:UA-ORG-599	muscle	Organ
+PMC2171339	132	uazid:UA-ORG-58	arterioles	Organ
+PMC2171339	133	uazid:UA-ORG-727	Platelets	Organ
+PMC2171339	133	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	133	uniprot:UNRESOLVED ID	PTP-1B+/+	Gene_or_gene_product
+PMC2171339	133	uniprot:O89094	mice	Species
+PMC2171339	133	uniprot:UNRESOLVED ID	Fura 2	Gene_or_gene_product
+PMC2171339	134	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	135	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	136	ncbitax:species:ncbi:10090	mouse	Species
+PMC2171339	136	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	136	uniprot:UNRESOLVED ID	60-120 s	Gene_or_gene_product
+PMC2171339	137	uazid:UA-ORG-727	Platelet	Organ
+PMC2171339	138	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	138	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	139	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	139	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	139	uniprot:UNRESOLVED ID	PTP-1B+/+	Gene_or_gene_product
+PMC2171339	139	uniprot:O89094	mice	Species
+PMC2171339	140	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	140	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	141	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	141	uniprot:O89094	mice	Species
+PMC2171339	142	uniprot:UNRESOLVED ID	PTP-1B+/+	Gene_or_gene_product
+PMC2171339	142	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	142	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	142	uniprot:O89094	mice	Species
+PMC2171339	143	uazid:UA-ORG-58	arterioles	Organ
+PMC2171339	143	uazid:UA-ORG-599	muscles	Organ
+PMC2171339	143	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	144	uniprot:UNRESOLVED ID	Fura 2	Gene_or_gene_product
+PMC2171339	144	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	144	uazid:UA-ORG-58	arteriole	Organ
+PMC2171339	145	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	146	uazid:UA-ORG-92	Blood	Organ
+PMC2171339	147	uniprot:UNRESOLVED ID	Videos 1 and 2	Gene_or_gene_product
+PMC2171339	147	uniprot:UNRESOLVED ID	http://www.jcb.org/cgi/content/full/jcb.200503125/DC1	Gene_or_gene_product
+PMC2171339	147	uniprot:UNRESOLVED ID	PTP-1B+/+	Gene_or_gene_product
+PMC2171339	147	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	147	uniprot:O89094	mice	Species
+PMC2171339	148	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	150	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	151	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	154	uniprot:O89094	mice	Species
+PMC2171339	154	ncbitax:species:ncbi:10090	mouse	Species
+PMC2171339	156	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	156	uniprot:O89094	mice	Species
+PMC2171339	156	uniprot:UNRESOLVED ID	tail	CellType
+PMC2171339	156	uniprot:UNRESOLVED ID	PTP-1B+/+	Gene_or_gene_product
+PMC2171339	157	uniprot:UNRESOLVED ID	tail	CellType
+PMC2171339	157	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	157	uniprot:O89094	mice	Species
+PMC2171339	158	uniprot:O89094	mice	Species
+PMC2171339	158	uniprot:UNRESOLVED ID	beta3 cytoplasmic domain	Gene_or_gene_product
+PMC2171339	159	uniprot:UNRESOLVED ID	Src family kinases	Gene_or_gene_product
+PMC2171339	160	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	160	uniprot:P12931	Src	Gene_or_gene_product
+PMC2171339	160	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	160	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	160	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	161	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	161	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	162	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	162	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	162	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	162	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	162	uniprot:P41240	Csk	Gene_or_gene_product
+PMC2171339	162	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	162	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	162	uniprot:UNRESOLVED ID	fibrin	Gene_or_gene_product
+PMC2171339	163	uniprot:Q03393	PTPs	Gene_or_gene_product
+PMC2171339	164	uniprot:P18433	RPTP-alpha	Gene_or_gene_product
+PMC2171339	164	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC2171339	164	uniprot:UNRESOLVED ID	fibroblasts	CellType
+PMC2171339	164	uniprot:P12931	Src	Gene_or_gene_product
+PMC2171339	165	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	165	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2171339	165	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	165	uniprot:UNRESOLVED ID	fibroblasts	CellType
+PMC2171339	166	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	166	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	166	uniprot:UNRESOLVED ID	beta3 integrin	Gene_or_gene_product
+PMC2171339	167	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	167	uniprot:P56945	p130 Cas	Gene_or_gene_product
+PMC2171339	168	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	168	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	168	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	169	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	169	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	169	uniprot:O89094	mice	Species
+PMC2171339	169	uniprot:P34223	Shp1	Gene_or_gene_product
+PMC2171339	169	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	169	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	169	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	170	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	170	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	170	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	170	ncbitax:species:ncbi:9606	human	Species
+PMC2171339	170	ncbitax:species:ncbi:10090	mouse	Species
+PMC2171339	170	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	170	uniprot:UNRESOLVED ID	fibroblast	CellType
+PMC2171339	171	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	171	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	171	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	172	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	172	uniprot:UNRESOLVED ID	SH3	Gene_or_gene_product
+PMC2171339	172	uniprot:P55241	SH2	Gene_or_gene_product
+PMC2171339	173	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	173	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	173	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	174	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	174	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	175	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	175	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	176	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	176	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	176	uniprot:UNRESOLVED ID	alphaIIbbeta3 complex	Gene_or_gene_product
+PMC2171339	177	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	177	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	177	uniprot:P41240	Csk	Gene_or_gene_product
+PMC2171339	178	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	178	uniprot:UNRESOLVED ID	alphaIIbbeta3 complex	Gene_or_gene_product
+PMC2171339	178	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	178	uniprot:P78324	SHPS-1	Gene_or_gene_product
+PMC2171339	178	uniprot:Q06830	PAG	Gene_or_gene_product
+PMC2171339	178	uniprot:Q92793	Cbp	Gene_or_gene_product
+PMC2171339	178	uniprot:Q93070	Dok-1	Gene_or_gene_product
+PMC2171339	178	uniprot:P12931	Src	Gene_or_gene_product
+PMC2171339	178	uniprot:Q03393	PTPs	Gene_or_gene_product
+PMC2171339	178	uniprot:P41240	Csk	Gene_or_gene_product
+PMC2171339	179	uniprot:P78324	SHPS-1	Gene_or_gene_product
+PMC2171339	179	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	179	uniprot:Q06830	PAG	Gene_or_gene_product
+PMC2171339	179	uniprot:Q92793	Cbp	Gene_or_gene_product
+PMC2171339	179	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	180	uniprot:Q93070	Dok-1	Gene_or_gene_product
+PMC2171339	180	uniprot:UNRESOLVED ID	SH2-binding sites	Gene_or_gene_product
+PMC2171339	180	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	181	uniprot:Q93070	Dok-1	Gene_or_gene_product
+PMC2171339	181	uniprot:P41240	Csk	Gene_or_gene_product
+PMC2171339	182	uniprot:O60496	Dok-2	Gene_or_gene_product
+PMC2171339	182	uniprot:Q93070	Dok-1	Gene_or_gene_product
+PMC2171339	182	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	183	uniprot:O60496	Dok-2	Gene_or_gene_product
+PMC2171339	183	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	183	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	184	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	184	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	184	uniprot:O60496	Dok-2	Gene_or_gene_product
+PMC2171339	184	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	184	uniprot:P41240	Csk	Gene_or_gene_product
+PMC2171339	185	uniprot:O60496	Dok-2	Gene_or_gene_product
+PMC2171339	185	uniprot:Q9NWQ8	Csk-binding protein	Gene_or_gene_product
+PMC2171339	185	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	185	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	185	uniprot:UNRESOLVED ID	outside-in	Gene_or_gene_product
+PMC2171339	186	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	186	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	186	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	186	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	187	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	187	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	187	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	187	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	187	uniprot:UNRESOLVED ID	outside-in alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	188	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	188	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	188	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	188	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	188	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	188	uniprot:O89094	mice	Species
+PMC2171339	189	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	189	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	189	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	190	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	190	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	190	uazid:UA-ORG-58	arterioles	Organ
+PMC2171339	191	uniprot:P12931	Src	Gene_or_gene_product
+PMC2171339	191	uniprot:UNRESOLVED ID	phospholipase Cgamma	Gene_or_gene_product
+PMC2171339	191	uniprot:UNRESOLVED ID	outside-in alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	192	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	192	uniprot:O89094	mice	Species
+PMC2171339	193	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	193	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	193	uniprot:O89094	mice	Species
+PMC2171339	193	uniprot:UNRESOLVED ID	tail	CellType
+PMC2171339	194	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	195	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	196	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	196	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	196	uniprot:UNRESOLVED ID	FcgammaRIIa receptor	Gene_or_gene_product
+PMC2171339	197	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	197	uniprot:P01308	insulin	Gene_or_gene_product
+PMC2171339	197	uniprot:P41159	leptin	Gene_or_gene_product
+PMC2171339	197	uniprot:P48357	leptin receptor	Gene_or_gene_product
+PMC2171339	198	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	198	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	199	ncbitax:species:ncbi:10090	Mouse	Species
+PMC2171339	199	ncbitax:species:ncbi:9606	human	Species
+PMC2171339	199	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	199	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2171339	200	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	200	uniprot:UNRESOLVED ID	SSA6 and 8053	Gene_or_gene_product
+PMC2171339	201	uniprot:P41240	Csk	Gene_or_gene_product
+PMC2171339	201	uniprot:Q9SDN0	C-20	Gene_or_gene_product
+PMC2171339	201	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	201	uniprot:P15979	B-12	Gene_or_gene_product
+PMC2171339	202	uniprot:P12931	Src	Gene_or_gene_product
+PMC2171339	203	uniprot:Q2G0B1	Rat	Species
+PMC2171339	203	uniprot:UNRESOLVED ID	CD41	Gene_or_gene_product
+PMC2171339	203	uniprot:UNRESOLVED ID	FITC	Gene_or_gene_product
+PMC2171339	203	uniprot:UNRESOLVED ID	CD61	Gene_or_gene_product
+PMC2171339	203	ncbitax:species:ncbi:10090	mouse	Species
+PMC2171339	203	uniprot:P41240	Csk	Gene_or_gene_product
+PMC2171339	204	ncbitax:species:ncbi:10090	Mouse	Species
+PMC2171339	204	uniprot:UNRESOLVED ID	PY20	Gene_or_gene_product
+PMC2171339	205	uniprot:P69208	HA	Gene_or_gene_product
+PMC2171339	206	uniprot:Q08168	HRP	Gene_or_gene_product
+PMC2171339	206	uniprot:UNRESOLVED ID	HRP-conjugated protein A-Sepharose beads	Gene_or_gene_product
+PMC2171339	207	uniprot:Q08168	HRP	Gene_or_gene_product
+PMC2171339	207	uniprot:UNRESOLVED ID	IgG TrueBlot	Gene_or_gene_product
+PMC2171339	208	uniprot:UNRESOLVED ID	IgG	Gene_or_gene_product
+PMC2171339	209	ncbitax:species:ncbi:9606	human	Species
+PMC2171339	210	uniprot:UNRESOLVED ID	Rhodamine-phalloidin	Gene_or_gene_product
+PMC2171339	211	uniprot:P12931	Src	Gene_or_gene_product
+PMC2171339	211	uniprot:Q99463	PP2	Gene_or_gene_product
+PMC2171339	211	uniprot:UNRESOLVED ID	SU6656	Gene_or_gene_product
+PMC2171339	211	uniprot:P81447	PP3	Gene_or_gene_product
+PMC2171339	212	uniprot:P02810	Protein A-	Gene_or_gene_product
+PMC2171339	214	ncbitax:species:ncbi:10090	Mouse	Species
+PMC2171339	215	uniprot:UNRESOLVED ID	PTP-1B+/+	Gene_or_gene_product
+PMC2171339	215	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	215	uniprot:O89094	mice	Species
+PMC2171339	217	uniprot:O89094	Mice	Species
+PMC2171339	219	ncbitax:species:ncbi:10090	mouse	Species
+PMC2171339	219	uniprot:UNRESOLVED ID	fibroblasts	CellType
+PMC2171339	219	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2171339	219	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC2171339	220	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2171339	221	uniprot:UNRESOLVED ID	alphaIIb	Gene_or_gene_product
+PMC2171339	222	uniprot:UNRESOLVED ID	HindIII-XhoI sites	Gene_or_gene_product
+PMC2171339	222	uniprot:UNRESOLVED ID	pcDNA3.1	Gene_or_gene_product
+PMC2171339	222	uniprot:UNRESOLVED ID	Zeo	Gene_or_gene_product
+PMC2171339	223	ncbitax:species:ncbi:9606	human	Species
+PMC2171339	223	uniprot:UNRESOLVED ID	beta3 subunits	Gene_or_gene_product
+PMC2171339	223	uniprot:UNRESOLVED ID	LipofectAMINE	Gene_or_gene_product
+PMC2171339	224	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	226	uniprot:P12931	Src	Gene_or_gene_product
+PMC2171339	226	uniprot:UNRESOLVED ID	Delta150-246	Gene_or_gene_product
+PMC2171339	226	uniprot:P69208	HA	Gene_or_gene_product
+PMC2171339	226	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	227	uniprot:P18031	PTP-1B	Gene_or_gene_product
+PMC2171339	227	uniprot:UNRESOLVED ID	P309	Gene_or_gene_product
+PMC2171339	227	uniprot:UNRESOLVED ID	310A	Gene_or_gene_product
+PMC2171339	227	uniprot:UNRESOLVED ID	153F	Gene_or_gene_product
+PMC2171339	227	uniprot:P10721	Kit	Gene_or_gene_product
+PMC2171339	228	uniprot:UNRESOLVED ID	LipofectAMINE	Gene_or_gene_product
+PMC2171339	229	uniprot:UNRESOLVED ID	serum	CellType
+PMC2171339	229	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2171339	230	uazid:UA-ORG-727	Platelet	Organ
+PMC2171339	231	ncbitax:species:ncbi:9606	Human	Species
+PMC2171339	231	ncbitax:species:ncbi:10090	mouse	Species
+PMC2171339	231	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	231	uazid:UA-ORG-92	blood	Organ
+PMC2171339	231	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	232	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	232	uniprot:O89094	mice	Species
+PMC2171339	233	uniprot:UNRESOLVED ID	FITC-fibrinogen	Gene_or_gene_product
+PMC2171339	233	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	233	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	234	uniprot:UNRESOLVED ID	alphaIIbbeta3	Gene_or_gene_product
+PMC2171339	234	ncbitax:species:ncbi:10090	mouse	Species
+PMC2171339	234	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	234	uniprot:UNRESOLVED ID	FITC	Gene_or_gene_product
+PMC2171339	234	uniprot:UNRESOLVED ID	anti-mouse beta3 antibody	Gene_or_gene_product
+PMC2171339	235	uazid:UA-ORG-727	Platelet	Organ
+PMC2171339	235	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	237	uazid:UA-ORG-727	Platelet	Organ
+PMC2171339	238	uazid:UA-ORG-727	Platelet	Organ
+PMC2171339	238	uniprot:P10266	RT	Gene_or_gene_product
+PMC2171339	238	uniprot:P81070	fibrinogen	Gene_or_gene_product
+PMC2171339	239	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	240	uniprot:UNRESOLVED ID	Fibrin	Gene_or_gene_product
+PMC2171339	240	ncbitax:species:ncbi:10090	mouse	Species
+PMC2171339	240	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	240	uazid:UA-ORG-725	plasma	Organ
+PMC2171339	240	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	240	uniprot:P10266	RT	Gene_or_gene_product
+PMC2171339	241	uniprot:P01189	clip	Gene_or_gene_product
+PMC2171339	242	uazid:UA-ORG-725	plasma	Organ
+PMC2171339	243	uazid:UA-ORG-725	plasma	Organ
+PMC2171339	244	uniprot:Q9NQV6	Tris	Gene_or_gene_product
+PMC2171339	244	uniprot:P01298	pH	Gene_or_gene_product
+PMC2171339	244	uniprot:P10265	protease	Gene_or_gene_product
+PMC2171339	247	uazid:UA-ORG-727	Platelet	Organ
+PMC2171339	248	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	248	uniprot:O89094	mice	Species
+PMC2171339	248	uazid:UA-ORG-58	arteriole	Organ
+PMC2171339	248	uazid:UA-ORG-599	muscle	Organ
+PMC2171339	249	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	249	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	249	uniprot:UNRESOLVED ID	PTP-1B+/+	Gene_or_gene_product
+PMC2171339	249	uniprot:O89094	mice	Species
+PMC2171339	250	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	250	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	250	ncbitax:species:ncbi:10090	mouse	Species
+PMC2171339	251	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	251	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	251	uniprot:UNRESOLVED ID	PTP-1B+/+	Gene_or_gene_product
+PMC2171339	251	uniprot:O89094	mice	Species
+PMC2171339	252	uazid:UA-ORG-727	platelet	Organ
+PMC2171339	254	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	255	ncbitax:species:ncbi:10090	Mouse	Species
+PMC2171339	255	uniprot:UNRESOLVED ID	tail	CellType
+PMC2171339	256	uazid:UA-ORG-58	arteriole	Organ
+PMC2171339	256	uniprot:UNRESOLVED ID	PTP-1B+/+	Gene_or_gene_product
+PMC2171339	256	uniprot:UNRESOLVED ID	Video 1	Gene_or_gene_product
+PMC2171339	256	ncbitax:species:ncbi:10090	mouse	Species
+PMC2171339	257	uniprot:UNRESOLVED ID	PTP-1B+/+	Gene_or_gene_product
+PMC2171339	257	uniprot:P18031	PTP-1B-/-	Gene_or_gene_product
+PMC2171339	257	uazid:UA-ORG-727	platelets	Organ
+PMC2171339	257	uniprot:UNRESOLVED ID	Fura 2	Gene_or_gene_product
+PMC2171339	257	uazid:UA-ORG-58	arteriole	Organ
+PMC2171339	257	uazid:UA-ORG-599	muscle	Organ
+PMC2171339	257	uniprot:UNRESOLVED ID	http://www.jcb.org/cgi/content/full/jcb.200503125/DC1	Gene_or_gene_product
+PMC2171339	258	uniprot:UNRESOLVED ID	DK60838	Gene_or_gene_product
+PMC2171339	258	uniprot:UNRESOLVED ID	HL56595	Gene_or_gene_product
+PMC2171339	258	uniprot:UNRESOLVED ID	HL57900	Gene_or_gene_product
+PMC2171339	258	uniprot:UNRESOLVED ID	HL77645	Gene_or_gene_product
+PMC2171339	258	uniprot:UNRESOLVED ID	HL77817	Gene_or_gene_product
