@@ -1,4 +1,5 @@
 import pickle
+import numpy as np
 print "Reading dictionaries"
 
 # Load the dictionaries
@@ -27,3 +28,4 @@ def resolve(type, text):
             return None
     else:
         return None
+    
