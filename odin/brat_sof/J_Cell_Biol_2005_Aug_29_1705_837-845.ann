@@ -1,0 +1,250 @@
+T3	Gene_or_gene_product 27428 27450	integrin beta3 subunit
+T8	Binding 9677 9684	binding
+T9	Gene_or_gene_product 9688 9697	PTP-1B+/+
+T10	Gene_or_gene_product 9702 9711	PTP-1B-/-
+T11	Binding 9437 9444	binding
+T12	Gene_or_gene_product 9448 9457	PTP-1B+/+
+T13	Gene_or_gene_product 9462 9471	PTP-1B-/-
+T14	Binding 8897 8904	binding
+T15	Gene_or_gene_product 8908 8917	PTP-1B+/+
+T16	Gene_or_gene_product 8922 8931	PTP-1B-/-
+T21	Gene_or_gene_product 49701 49709	p60c-src
+T24	Gene_or_gene_product 49680 49696	casein kinase II
+T25	Site 49612 49620	tyrosine
+T27	Binding 13557 13569	interactions
+T28	Gene_or_gene_product 13578 13584	PTP-1B
+T29	Gene_or_gene_product 13586 13599	alphaIIbbeta3
+T30	Gene_or_gene_product 13605 13610	c-Src
+T31	Binding 17361 17372	interaction
+T32	Gene_or_gene_product 17354 17360	PTP-1B
+T33	Gene_or_gene_product 17378 17391	alphaIIbbeta3
+T34	Gene_or_gene_product 17396 17401	c-Src
+T40	Gene_or_gene_product 9426 9436	Fibrinogen
+T41	Gene_or_gene_product 9666 9676	Fibrinogen
+T42	Gene_or_gene_product 8886 8896	Fibrinogen
+T43	Binding 27407 27411	bind
+T44	Gene_or_gene_product 27328 27333	c-Src
+T45	Phosphorylation 47943 47958	phosphorylation
+T46	Gene_or_gene_product 47962 47974	RGS proteins
+T60	Gene_or_gene_product 32585 32590	Dok-2
+T63	Gene_or_gene_product 13440 13467	alphaIIbbeta3-c-Src complex
+T69	Gene_or_gene_product 50955 50968	alpha-actinin
+T70	Positive_regulation 11512 11522	stimulated
+T71	Gene_or_gene_product 11470 11480	fibrinogen
+T77	Binding 3119 3130	association
+T78	Gene_or_gene_product 3139 3161	integrin alphaIIbbeta3
+T79	Gene_or_gene_product 3166 3171	c-Src
+T91	Binding 16380 16387	binding
+T92	Gene_or_gene_product 16391 16400	c-Src SH3
+T93	Gene_or_gene_product 16404 16410	PTP-1B
+T101	Gene_or_gene_product 6649 6652	Csk
+T102	Binding 12818 12823	bound
+T103	Gene_or_gene_product 12785 12790	c-Src
+T104	Gene_or_gene_product 12824 12833	PTP-1B-/-
+T121	Phosphorylation 11523 11538	phosphorylation
+T122	Gene_or_gene_product 11492 11511	PTP-1B+/+ platelets
+T123	Phosphorylation 12903 12918	phosphorylation
+T124	Gene_or_gene_product 12938 12941	Csk
+T125	Site 12922 12934	tyrosine 529
+T137	Gene_or_gene_product 17776 17781	c-Src
+T181	Gene_or_gene_product 13273 13278	c-Src
+T182	Gene_or_gene_product 5789 5794	c-Src
+T183	Gene_or_gene_product 1111 1116	c-Src
+T195	Gene_or_gene_product 4157 4162	c-Src
+T214	Gene_or_gene_product 29235 29240	c-Src
+T216	Gene_or_gene_product 6683 6688	c-Src
+T236	Gene_or_gene_product 10997 11006	PTP-1B-/-
+T251	Gene_or_gene_product 13199 13208	PTP-1B-/-
+T274	Site 8860 8868	tyrosine
+T312	Positive_regulation 32546 32556	stimulates
+T313	Gene_or_gene_product 32514 32524	fibrinogen
+T331	Phosphorylation 1096 1110	phosphorylates
+T332	Site 1117 1129	tyrosine 529
+T333	Phosphorylation 13257 13272	dephosphorylate
+T334	Site 13279 13291	tyrosine 529
+T335	Phosphorylation 12766 12781	phosphorylation
+T336	Site 12791 12803	tyrosine 529
+T337	Phosphorylation 5772 5788	dephosphorylates
+T338	Site 5795 5807	tyrosine 529
+T341	Binding 10181 10188	binding
+T342	Gene_or_gene_product 10170 10180	fibrinogen
+T343	Gene_or_gene_product 10192 10205	alphaIIbbeta3
+T344	Binding 22116 22123	binding
+T345	Gene_or_gene_product 22105 22115	fibrinogen
+T346	Gene_or_gene_product 22127 22140	alphaIIbbeta3
+T347	Binding 10466 10473	binding
+T348	Gene_or_gene_product 10455 10465	fibrinogen
+T349	Gene_or_gene_product 10477 10490	alphaIIbbeta3
+T350	Binding 27467 27474	binding
+T351	Gene_or_gene_product 27456 27466	fibrinogen
+T352	Gene_or_gene_product 27478 27491	alphaIIbbeta3
+T356	Binding 13308 13315	binding
+T357	Gene_or_gene_product 13319 13332	alphaIIbbeta3
+T363	Binding 13188 13195	binding
+T364	Gene_or_gene_product 13177 13187	fibrinogen
+T373	Phosphorylation 6608 6623	phosphorylation
+T374	Phosphorylation 5492 5507	Phosphorylation
+T375	Gene_or_gene_product 5546 5549	Csk
+T380	Binding 11481 11488	binding
+T400	Gene_or_gene_product 21248 21258	fibrinogen
+T424	Gene_or_gene_product 14271 14281	fibrinogen
+T428	Gene_or_gene_product 8841 8847	PTP-1B
+T443	Binding 14292 14303	interaction
+T444	Gene_or_gene_product 14307 14313	PTP-1B
+T447	Gene_or_gene_product 31016 31041	integrin-associated c-Src
+T473	Gene_or_gene_product 17727 17733	PTP-1B
+T495	Gene_or_gene_product 31223 31229	PTP-1B
+T504	Gene_or_gene_product 17936 17942	PTP-1B
+T551	Phosphorylation 49577 49592	phosphorylation
+T553	Gene_or_gene_product 53270 53278	Integrin
+T556	Phosphorylation 50936 50951	phosphorylation
+T567	Phosphorylation 8869 8884	phosphorylation
+T582	Binding 13408 13419	interaction
+T583	Gene_or_gene_product 13428 13431	Csk
+T596	Binding 21234 21239	bound
+T597	Simple_chemical 21290 21293	ADP
+T599	Gene_or_gene_product 1164 1174	Fibrinogen
+T604	Binding 1175 1182	binding
+T605	Gene_or_gene_product 1186 1199	alphaIIbbeta3
+T610	Phosphorylation 11413 11428	phosphorylation
+T660	Phosphorylation 30988 31012	transautophosphorylation
+T707	Phosphorylation 32566 32581	phosphorylation
+T729	Phosphorylation 10946 10961	phosphorylation
+T743	Phosphorylation 53288 53303	phosphorylation
+T748	Phosphorylation 17762 17775	phosphorylate
+T749	Phosphorylation 29217 29234	dephosphorylating
+T750	Phosphorylation 4138 4153	phosphorylation
+T863	Phosphorylation 31169 31182	phosphorylate
+T864	Phosphorylation 17708 17723	phosphorylation
+T865	Phosphorylation 17917 17932	phosphorylation
+E1	Binding:T8 Theme:T9 Theme:T10
+E2	Binding:T11 Theme:T12 Theme:T13
+E3	Binding:T14 Theme:T15 Theme:T16
+E4	Phosphorylation:T551 Theme:T24 Site:T25
+E5	Binding:T27 Theme:T28 Theme:T29 Theme:T30
+E6	Binding:T31 Theme:T32 Theme:T33 Theme:T34
+E7	Binding:T11 Theme:T40 Theme:T12
+E8	Binding:T8 Theme:T41 Theme:T9
+E9	Binding:T14 Theme:T42 Theme:T15
+E10	Binding:T43 Theme:T44 Theme:T3
+E11	Phosphorylation:T45 Theme:T46
+E12	Phosphorylation:T121 Theme:T122
+E13	Positive_regulation:T70 Controller:T71 Controlled:E12
+E14	Binding:T77 Theme:T78 Theme:T79
+E15	Binding:T91 Theme:T92 Theme:T93
+E16	Phosphorylation:T373 Theme:T216
+E17	Binding:T102 Theme:T103 Theme:T104
+E18	Phosphorylation:T123 Theme:T124 Site:T125
+E19	Phosphorylation:T707 Theme:T60
+E20	Positive_regulation:T312 Controller:T313 Controlled:E19
+E21	Phosphorylation:T551 Theme:T21 Site:T25
+E22	Phosphorylation:T331 Theme:T183 Site:T332
+E23	Phosphorylation:T333 Theme:T181 Site:T334
+E24	Phosphorylation:T335 Theme:T103 Site:T336
+E25	Phosphorylation:T337 Theme:T182 Site:T338
+E26	Binding:T341 Theme:T342 Theme:T343
+E27	Binding:T344 Theme:T345 Theme:T346
+E28	Binding:T347 Theme:T348 Theme:T349
+E29	Binding:T350 Theme:T351 Theme:T352
+E30	Binding:T356 Theme:T181 Theme:T357
+E31	Binding:T363 Theme:T364 Theme:T251
+E32	Phosphorylation:T373 Theme:T101
+E33	Phosphorylation:T374 Theme:T375
+E34	Binding:T380 Theme:T71 Theme:T122
+E35	Positive_regulation:T70 Controller:E34 Controlled:E12
+E36	Binding:T443 Theme:T424 Theme:T444
+E37	Phosphorylation:T556 Theme:T69
+E38	Phosphorylation:T567 Theme:T428 Site:T274
+E39	Binding:T582 Theme:T583 Theme:T63
+E40	Binding:T596 Theme:T400 Theme:T597
+E41	Phosphorylation:T864 Theme:T473
+E42	Binding:T604 Theme:T599 Theme:T605
+E43	Phosphorylation:T610 Theme:T71
+E44	Phosphorylation:T748 Theme:T137
+E45	Phosphorylation:T660 Theme:T447
+E46	Phosphorylation:T729 Theme:T236
+E47	Phosphorylation:T743 Theme:T553
+E48	Phosphorylation:T749 Theme:T214
+E49	Phosphorylation:T750 Theme:T195
+E50	Phosphorylation:T863 Theme:T495
+E51	Phosphorylation:T865 Theme:T504
+#3	AnnotatorNotes E16	wrong events
+#6	AnnotatorNotes E9	should be "binding to platelets with PTP-1B-/- or PTP-1B+/+"
+T6	Cell-Type 8115 9892	Interactions between PTP-1B, alphaIIbbeta3, and c-Src in platelets. (a) Washed human platelets were incubated for 15 min at RT with 250 mug/ml fibrinogen in the presence or absence of 0.5 mM MnCl2. Some samples were preincubated for 15 min with 2 muM SU6656, 5 muM PP2, or 5 muM PP3; the latter is an inactive congener of PP2. Clarified lysates were immunoprecipitated (IP) and probed on immunoblots as indicated. Vertical lines in the blots indicate grouping of images from different parts of the same gel. (b) Washed mouse platelets were incubated with MnCl2 and fibrinogen, and immunoblots of immunoprecipitates were probed as in a. Control immunoprecipitations used normal rabbit serum (NRS) or rat IgG (IgG). (c) Role of PTP-1B in platelet tyrosine phosphorylation. Fibrinogen binding to PTP-1B+/+ and PTP-1B-/- platelets was induced as in b. Lysates were immunoblotted with antibodies to phosphotyrosine (pTyr) or c-Src phosphotyrosine 418 and reprobed with antibodies to c-Src. (d) alphaIIbbeta3 surface expression in PTP-1B+/+ (black bar) and PTP-1B-/- (hatched bar) platelets was quantified by flow cytometry. Mean fluorescence intensities are depicted in arbitrary units, and error bars represent means +/- SEM of three experiments. (e) PTP-1B is required for activation of integrin-associated c-Src. Fibrinogen binding to PTP-1B+/+ and PTP-1B-/- platelets was induced as in b, and alphaIIbbeta3 immunoprecipitates were probed on immunoblots as indicated. (f) PTP-1B is required for dissociation of Csk from the alphaIIbbeta3-c-Src complex. Fibrinogen binding to PTP-1B+/+ and PTP-1B-/- platelets was induced as in b, and Csk immunoprecipitates were probed on immunoblots as indicated. Each immunoblot panel is representative of three to five independent experiments.
+#7	AnnotatorNotes T6	platelets
+#10	AnnotatorNotes E17	binding to PTP-1B-/- platelets
+#11	AnnotatorNotes E36	wrong events
+#17	AnnotatorNotes E40	wrong event
+#23	AnnotatorNotes E50	wrong event
+T1	Cell-Type 1021 1038	resting platelets
+R1	ContextOf Event:E22 Context:T1	
+R2	ContextOf Event:E42 Context:T1	
+T48	Cell-Type 3084 3093	platelets
+R3	ContextOf Event:E14 Context:T48	
+T2	Cell-Type 6539 6570	fibrinogen binding to platelets
+R4	ContextOf Event:E32 Context:T2	
+T4	Cell-Type 8851 8859	platelet
+R5	ContextOf Event:E38 Context:T4	
+T49	Cell-Type 13010 13027	resting platelets
+T17	Cell-Type 22019 22028	platelets
+R10	ContextOf Event:E27 Context:T17	
+T18	Cell-Type 27206 27246	hematopoietic and nonhematopoietic cells
+R11	ContextOf Event:E10 Context:T18	
+R12	ContextOf Event:E29 Context:T18	
+T20	Cell-Type 28923 28934	fibroblasts
+R13	ContextOf Event:E48 Context:T20	
+T22	Cell-Type 29965 29990	human and mouse platelets
+R14	ContextOf Event:E45 Context:T22	
+T23	Cell-Type 4177 4186	platelets
+R15	ContextOf Event:E49 Context:T23	
+T26	Cell-Type 4191 4202	osteoclasts
+R16	ContextOf Event:E49 Context:T26	
+T35	Cell-Type 5611 5628	resting platelets
+R17	ContextOf Event:E33 Context:T35	
+T36	Cell-Type 8172 8181	platelets
+T37	Binding 8115 8168	Interactions between PTP-1B, alphaIIbbeta3, and c-Src
+E52	Binding:T37 
+R18	ContextOf Event:E52 Context:T36	
+T38	Cell-Type 10132 10140	platelet
+R19	ContextOf Event:E26 Context:T38	
+T7	Main-Species 10721 10814	knockout mice that were deficient in PTP-1B (PTP-1B-/-) and wild-type (PTP-1B+/+) littermates
+R9	ContextOf Event:E46 Context:T7	
+T39	Cell-Type 10865 10910	wild-type platelets with MnCl2 and fibrinogen
+R20	ContextOf Event:E46 Context:T39	
+T5	Cell-Type 11492 11511	PTP-1B+/+ platelets
+R6	ContextOf Event:E43 Context:T5	
+R21	ContextOf Event:E12 Context:T5	
+T47	Cell-Type 12807 12843	fibrinogen-bound PTP-1B-/- platelets
+R22	ContextOf Event:E24 Context:T47	
+R23	ContextOf Event:E18 Context:T47	
+T51	Binding 12943 13006	Csk is normally associated with the alphaIIbbeta3-c-Src complex
+E53	Binding:T51 
+R8	ContextOf Event:E53 Context:T49	
+T52	Cell-Type 13177 13218	fibrinogen binding to PTP-1B-/- platelets
+T53	Binding 13111 13170	Csk failed to fully dissociate from alphaIIbbeta3 and c-Src
+E54	Binding:T53 
+R24	ContextOf Event:E54 Context:T52	
+T54	Cell-Type 13199 13218	PTP-1B-/- platelets
+R25	ContextOf Event:E23 Context:T54	
+R26	ContextOf Event:E39 Context:T54	
+T55	Main-Species 13654 13659	mouse
+R28	ContextOf Event:E5 Context:T55	
+T19	Cell-Line 13839 13862	alphaIIbbeta3-SYF cells
+R27	ContextOf Event:E5 Context:T19	
+T56	Cell-Type 14003 14043	alphaIIbbeta3-SYF cells expressing c-Src
+R29	ContextOf Event:E36 Context:T56	
+T57	Cell-Type 15496 15564	alphaIIbbeta3-SYF cells were transfected with selected c-Src mutants
+R30	ContextOf Event:E15 Context:T57	
+T58	Cell-Type 16716 16780	PTP-1B was cotransfected with c-Src into alphaIIbbeta3-SYF cells
+R31	ContextOf Event:E6 Context:T58	
+R32	ContextOf Event:E41 Context:T58	
+T59	Cell-Type 17816 17885	fibrinogen binding to alphaIIbbeta3-SYF cells (Fig. 3 b) or platelets
+R7	ContextOf Event:E51 Context:T59	
+T50	Cell-Type 21162 21181	PTP-1B-/- platelets
+R33	ContextOf Event:E40 Context:T50	
+T61	Main-Species 29965 29980	human and mouse
+R34	ContextOf Event:E45 Context:T61	
+R35	ContextOf Event:E50 Context:T22	
+R36	ContextOf Event:E50 Context:T61	
+T62	Cell-Type 32514 32545	fibrinogen binding to platelets
+R37	ContextOf Event:E19 Context:T62	

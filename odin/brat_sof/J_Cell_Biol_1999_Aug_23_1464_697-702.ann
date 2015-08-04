@@ -1,0 +1,193 @@
+T1	Gene_or_gene_product 18875 18887	EGF receptor
+T2	Gene_or_gene_product 3825 3837	EGF receptor
+T3	Gene_or_gene_product 9738 9750	EGF receptor
+T4	Gene_or_gene_product 9684 9698	growth hormone
+T5	Gene_or_gene_product 21826 21838	EGF receptor
+T6	Gene_or_gene_product 19664 19676	EGF receptor
+T7	Gene_or_gene_product 12343 12355	EGF receptor
+T8	Gene_or_gene_product 13940 13963	cell adhesion receptors
+T9	Gene_or_gene_product 13922 13930	integrin
+T10	Gene_or_gene_product 15805 15817	EGF receptor
+T11	Gene_or_gene_product 3633 3645	EGF receptor
+T12	Gene_or_gene_product 11364 11393	collagen-binding glycoprotein
+T13	Gene_or_gene_product 11350 11360	tenascin C
+T14	Gene_or_gene_product 1553 1563	MAP kinase
+T15	Gene_or_gene_product 11792 11804	EGF receptor
+T16	Gene_or_gene_product 4676 4688	EGF receptor
+T17	Site 4661 4668	Tyr 845
+T18	Gene_or_gene_product 8799 8803	GPCR
+T19	Gene_or_gene_product 7894 7906	EGF receptor
+T20	Gene_or_gene_product 13707 13719	EGF receptor
+T21	Gene_or_gene_product 4524 4536	EGF receptor
+T22	Gene_or_gene_product 17708 17720	EGF receptor
+T23	Gene_or_gene_product 9134 9146	EGF receptor
+T24	Gene_or_gene_product 9967 9979	EGF receptor
+T25	Gene_or_gene_product 4742 4745	Src
+T26	Gene_or_gene_product 15421 15433	EGF receptor
+T27	Gene_or_gene_product 17534 17546	EGF receptor
+T28	Gene_or_gene_product 3483 3495	EGF receptor
+T29	Gene_or_gene_product 4057 4069	EGF receptor
+T30	Gene_or_gene_product 6066 6088	EGF-dependent receptor
+T31	Gene_or_gene_product 19329 19341	EGF receptor
+T32	Gene_or_gene_product 3141 3153	EGF receptor
+T33	Gene_or_gene_product 6990 7002	EGF receptor
+T34	Gene_or_gene_product 13323 13337	PDGF receptors
+T35	Gene_or_gene_product 20894 20914	EGF-induced receptor
+T36	Gene_or_gene_product 11064 11077	EGF receptors
+T37	Gene_or_gene_product 15033 15045	EGF receptor
+T38	Phosphorylation 18888 18903	phosphorylation
+T39	Phosphorylation 3847 3862	phosphorylation
+T40	Phosphorylation 9719 9734	phosphorylation
+T41	Positive_regulation 9699 9709	stimulates
+T42	Phosphorylation 21848 21863	phosphorylation
+T43	Phosphorylation 19640 19659	cross-phosphorylate
+T44	Phosphorylation 12365 12380	phosphorylation
+T45	Binding 13908 13916	interact
+T46	Phosphorylation 15827 15842	phosphorylation
+T47	Phosphorylation 3646 3661	phosphorylation
+T48	Binding 11404 11409	binds
+T49	Phosphorylation 1574 1589	phosphorylation
+T50	Phosphorylation 11769 11784	phosphorylation
+T51	Phosphorylation 4642 4657	phosphorylation
+T52	Phosphorylation 8780 8795	phosphorylation
+T53	Phosphorylation 7871 7886	phosphorylation
+T54	Phosphorylation 13684 13699	phosphorylation
+T55	Phosphorylation 4537 4552	phosphorylation
+T56	Phosphorylation 17689 17704	phosphorylation
+T57	Phosphorylation 9111 9126	phosphorylation
+T58	Phosphorylation 9949 9962	phosphorylate
+T59	Phosphorylation 4746 4761	phosphorylation
+T60	Phosphorylation 15443 15458	phosphorylation
+T61	Phosphorylation 17511 17526	phosphorylation
+T62	Phosphorylation 3460 3475	phosphorylation
+T63	Phosphorylation 4039 4052	phosphorylate
+T64	Phosphorylation 6089 6108	autophosphorylation
+T65	Phosphorylation 19342 19357	phosphorylation
+T66	Phosphorylation 3163 3178	phosphorylation
+T67	Phosphorylation 7003 7018	phosphorylation
+T68	Phosphorylation 13304 13319	phosphorylation
+T69	Phosphorylation 20915 20934	autophosphorylation
+T70	Phosphorylation 11039 11060	cross-phosphorylation
+T71	Phosphorylation 15055 15070	phosphorylation
+E1	Phosphorylation:T38 Theme:T1
+E2	Phosphorylation:T39 Theme:T2
+E3	Phosphorylation:T40 Theme:T3
+E4	Positive_regulation:T41 Controller:T4 Controlled:E3
+E5	Phosphorylation:T42 Theme:T5
+E6	Phosphorylation:T43 Theme:T6
+E7	Phosphorylation:T44 Theme:T7
+E8	Binding:T45 Theme:T8 Theme:T9
+E9	Phosphorylation:T46 Theme:T10
+E10	Phosphorylation:T47 Theme:T11
+E11	Binding:T48 Theme:T12 Theme:T13
+E12	Phosphorylation:T49 Theme:T14
+E13	Phosphorylation:T50 Theme:T15
+E14	Phosphorylation:T51 Theme:T16
+E15	Phosphorylation:T51 Theme:T16 Site:T17
+E16	Phosphorylation:T52 Theme:T18
+E17	Phosphorylation:T53 Theme:T19
+E18	Phosphorylation:T54 Theme:T20
+E19	Phosphorylation:T55 Theme:T21
+E20	Phosphorylation:T56 Theme:T22
+E21	Phosphorylation:T57 Theme:T23
+E22	Phosphorylation:T58 Theme:T24
+E23	Phosphorylation:T59 Theme:T25
+E24	Phosphorylation:T60 Theme:T26
+E25	Phosphorylation:T61 Theme:T27
+E26	Phosphorylation:T62 Theme:T28
+E27	Phosphorylation:T63 Theme:T29
+E28	Phosphorylation:T64 Theme:T30
+E29	Phosphorylation:T65 Theme:T31
+E30	Phosphorylation:T66 Theme:T32
+E31	Phosphorylation:T67 Theme:T33
+E32	Phosphorylation:T68 Theme:T34
+E33	Phosphorylation:T69 Theme:T35
+E34	Phosphorylation:T70 Theme:T36
+E35	Phosphorylation:T71 Theme:T37
+#1	FoundByRule T1	banner_entities
+#2	FoundByRule T2	banner_entities
+#3	FoundByRule T3	banner_entities
+#4	FoundByRule T4	banner_entities
+#5	FoundByRule T5	banner_entities
+#6	FoundByRule T6	banner_entities
+#7	FoundByRule T7	banner_entities
+#8	FoundByRule T8	banner_entities
+#9	FoundByRule T9	banner_entities
+#10	FoundByRule T10	banner_entities
+#11	FoundByRule T11	banner_entities
+#12	FoundByRule T12	banner_entities
+#13	FoundByRule T13	banner_entities
+#14	FoundByRule T14	banner_entities
+#15	FoundByRule T15	banner_entities
+#16	FoundByRule T16	banner_entities
+#17	FoundByRule T17	site_3letterALT
+#18	FoundByRule T18	banner_entities
+#19	FoundByRule T19	banner_entities
+#20	FoundByRule T20	banner_entities
+#21	FoundByRule T21	banner_entities
+#22	FoundByRule T22	banner_entities
+#23	FoundByRule T23	banner_entities
+#24	FoundByRule T24	banner_entities
+#25	FoundByRule T25	banner_entities
+#26	FoundByRule T26	banner_entities
+#27	FoundByRule T27	banner_entities
+#28	FoundByRule T28	banner_entities
+#29	FoundByRule T29	banner_entities
+#30	FoundByRule T30	banner_entities
+#31	FoundByRule T31	banner_entities
+#32	FoundByRule T32	banner_entities
+#33	FoundByRule T33	banner_entities
+#34	FoundByRule T34	banner_entities
+#35	FoundByRule T35	banner_entities
+#36	FoundByRule T36	banner_entities
+#37	FoundByRule T37	banner_entities
+#38	FoundByRule E1	Phosphorylation_syntax_4_noun
+#39	FoundByRule E2	Phosphorylation_syntax_4_noun
+#40	FoundByRule E3	Phosphorylation_syntax_1_noun
+#41	FoundByRule E4	Positive_regulation_1
+#42	FoundByRule E5	Phosphorylation_syntax_4_noun
+#43	FoundByRule E6	Phosphorylation_syntax_1_verb
+#44	FoundByRule E7	Phosphorylation_syntax_4_noun
+#45	FoundByRule E8	binding13
+#46	FoundByRule E9	Phosphorylation_syntax_4_noun
+#47	FoundByRule E10	Phosphorylation_syntax_4_noun
+#48	FoundByRule E11	binding_17
+#49	FoundByRule E12	Phosphorylation_syntax_1_noun
+#50	FoundByRule E13	Phosphorylation_syntax_1_noun
+#51	FoundByRule E14	Phosphorylation_syntax_1_noun
+#52	FoundByRule E15	Phosphorylation_token_1_noun
+#53	FoundByRule E16	Phosphorylation_syntax_1_noun
+#54	FoundByRule E17	Phosphorylation_syntax_1_noun
+#55	FoundByRule E18	Phosphorylation_syntax_1_noun
+#56	FoundByRule E19	Phosphorylation_syntax_4_noun
+#57	FoundByRule E20	Phosphorylation_syntax_1_noun
+#58	FoundByRule E21	Phosphorylation_syntax_1_noun
+#59	FoundByRule E22	Phosphorylation_syntax_1_verb
+#60	FoundByRule E23	Phosphorylation_token_2_noun
+#61	FoundByRule E24	Phosphorylation_syntax_4_noun
+#62	FoundByRule E25	Phosphorylation_syntax_1_noun
+#63	FoundByRule E26	Phosphorylation_syntax_1_noun
+#64	FoundByRule E27	Phosphorylation_syntax_1_verb
+#65	FoundByRule E28	Phosphorylation_syntax_4_noun
+#66	FoundByRule E29	Phosphorylation_syntax_4_noun
+#67	FoundByRule E30	Phosphorylation_syntax_4_noun
+#68	FoundByRule E31	Phosphorylation_syntax_4_noun
+#69	FoundByRule E32	Phosphorylation_syntax_1_noun
+#70	FoundByRule E33	Phosphorylation_token_2_noun
+#71	FoundByRule E34	Phosphorylation_syntax_1_noun
+#72	FoundByRule E35	Phosphorylation_syntax_4_noun
+T72	Cell-Line 1824 1834	B82L cells
+R1	ContextOf Event:E12 Context:T72	
+R2	ContextOf Event:E30 Context:T72	
+T73	Cell-Line 11460 11480	smooth muscle cells.
+R3	ContextOf Event:E11 Context:T73	
+T74	Cell-Line 11647 11658	fibroblasts
+T75	Cell-Line 11663 11680	endothelial cells
+R4	ContextOf Event:E13 Context:T75	
+R5	ContextOf Event:E13 Context:T74	
+T76	Cell-Line 13663 13674	A-431 cells
+R6	ContextOf Event:E18 Context:T76	
+R7	ContextOf Event:E8 Context:T76	
+T77	Cell-Line 14318 14329	PC-12 cells
+R8	ContextOf Event:E35 Context:T77	
+R9	ContextOf Event:E7 Context:T74	

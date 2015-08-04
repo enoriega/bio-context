@@ -1,0 +1,455 @@
+T1	Gene_or_gene_product 28526 28529	Vav
+T2	Gene_or_gene_product 28541 28544	Syk
+T3	Gene_or_gene_product 31909 31926	FcinRI beta chain
+T4	Gene_or_gene_product 4985 4991	FcinRI
+T5	Gene_or_gene_product 43246 43252	SLP-76
+T6	Gene_or_gene_product 40285 40288	Vav
+T7	Gene_or_gene_product 15672 15674	CH
+T8	Site 15683 15692	PH domain
+T9	Gene_or_gene_product 15676 15678	DH
+T10	Gene_or_gene_product 21931 21934	Vav
+T11	Gene_or_gene_product 41763 41766	LAT
+T12	Gene_or_gene_product 41751 41757	SLP-76
+T13	Gene_or_gene_product 41746 41749	Syk
+T14	Gene_or_gene_product 26348 26362	endogenous Vav
+T15	Gene_or_gene_product 45680 45686	FcinRI
+T16	Gene_or_gene_product 28576 28579	Syk
+T17	Gene_or_gene_product 26840 26843	LAT
+T18	Gene_or_gene_product 26829 26835	SLP-76
+T19	Gene_or_gene_product 27176 27179	Vav
+T20	Gene_or_gene_product 15818 15821	Vav
+T21	Gene_or_gene_product 24479 24498	GEM-localized Lyn 6
+T22	Gene_or_gene_product 3912 3931	pleckstrin homology
+T23	Gene_or_gene_product 3908 3911	Vav
+T24	Gene_or_gene_product 23421 23424	LAT
+T25	Gene_or_gene_product 23410 23416	SLP-76
+T26	Simple_chemical 3397 3400	GDP
+T27	Simple_chemical 3401 3404	GTP
+T28	Gene_or_gene_product 3438 3466	Rho family GTPases like Rac1
+T29	Gene_or_gene_product 15573 15576	Vav
+T30	Gene_or_gene_product 15939 15942	Vav
+T31	Gene_or_gene_product 45847 45850	Syk
+T32	Gene_or_gene_product 28808 28811	Vav
+T33	Gene_or_gene_product 16000 16003	Vav
+T34	Gene_or_gene_product 1006 1012	SLP-76
+T35	Site 1013 1024	(SH2 domain
+T36	Gene_or_gene_product 23191 23194	Vav
+T37	Gene_or_gene_product 23199 23205	SLP-76
+T38	Gene_or_gene_product 43666 43669	LAT
+T39	Gene_or_gene_product 21623 21628	Vav-C
+T40	Gene_or_gene_product 5616 5619	Vav
+T41	Gene_or_gene_product 25548 25554	FcinRI
+T42	Gene_or_gene_product 25569 25573	Rac1
+T43	Gene_or_gene_product 25560 25564	LAT-
+T44	Gene_or_gene_product 3260 3266	FcinRI
+T45	Gene_or_gene_product 3271 3274	Vav
+T46	Gene_or_gene_product 35879 35885	SLP-76
+T47	Gene_or_gene_product 10511 10514	LAT
+T48	Gene_or_gene_product 10491 10495	JNK1
+T49	Gene_or_gene_product 10486 10489	Vav
+T50	Gene_or_gene_product 10502 10506	Grb2
+T51	Gene_or_gene_product 10497 10500	Syk
+T52	Gene_or_gene_product 10478 10484	SLP-76
+T53	Gene_or_gene_product 36215 36236	phospholipase Cgamma1
+T54	Gene_or_gene_product 3372 3375	Vav
+T55	Gene_or_gene_product 22140 22143	Syk
+T56	Gene_or_gene_product 14680 14692	Syk 17 29 30
+T57	Gene_or_gene_product 35871 35874	LAT
+T58	Gene_or_gene_product 17645 17648	Vav
+T59	Gene_or_gene_product 20342 20345	Syk
+T60	Gene_or_gene_product 20350 20353	Vav
+T61	Gene_or_gene_product 21832 21845	wild-type Vav
+T62	Gene_or_gene_product 24453 24470	FcinRI beta chain
+T63	Gene_or_gene_product 29249 29252	Vav
+T64	Gene_or_gene_product 33299 33302	Vav
+T65	Gene_or_gene_product 42509 42512	Vav
+T66	Gene_or_gene_product 18842 18845	Vav
+T67	Gene_or_gene_product 46034 46037	Vav
+T68	Gene_or_gene_product 23405 23408	Syk
+T69	Gene_or_gene_product 46197 46200	Vav
+T70	Gene_or_gene_product 5235 5238	Vav
+T71	Gene_or_gene_product 27150 27153	Vav
+T72	Gene_or_gene_product 28399 28402	Vav
+T73	Gene_or_gene_product 29389 29392	Vav
+T74	Gene_or_gene_product 21752 21755	Vav
+T75	Gene_or_gene_product 29842 29845	LAT
+T76	Gene_or_gene_product 41678 41681	Vav
+T77	Gene_or_gene_product 35668 35671	Vav
+T78	Gene_or_gene_product 887 890	Vav
+T79	Gene_or_gene_product 29232 29244	receptor Syk
+T80	Gene_or_gene_product 42550 42553	Syk
+T81	Gene_or_gene_product 28476 28479	Vav
+T82	Gene_or_gene_product 25540 25543	Vav
+T83	Gene_or_gene_product 31784 31790	FcinRI
+T84	Gene_or_gene_product 22049 22052	Syk
+T85	Gene_or_gene_product 26640 26643	Vav
+T86	Gene_or_gene_product 39380 39383	Vav
+T87	Gene_or_gene_product 23571 23574	Vav
+T88	Gene_or_gene_product 38297 38300	Vav
+T89	Binding 28530 28537	binding
+T90	Phosphorylation 31927 31942	phosphorylation
+T91	Phosphorylation 5004 5019	Phosphorylation
+T92	Phosphorylation 43253 43268	phosphorylation
+T93	Phosphorylation 40289 40304	phosphorylation
+T94	Phosphorylation 15649 15664	phosphorylation
+T95	Phosphorylation 21896 21911	phosphorylation
+T96	Phosphorylation 41727 41742	phosphorylation
+T97	Phosphorylation 26329 26344	phosphorylation
+T98	Phosphorylation 45713 45728	phosphorylation
+T99	Phosphorylation 28580 28595	phosphorylation
+T100	Phosphorylation 26810 26825	phosphorylation
+T101	Phosphorylation 27131 27146	phosphorylation
+T102	Phosphorylation 15822 15837	phosphorylation
+T103	Phosphorylation 24438 24452	phosphorylated
+T104	Binding 3893 3900	binding
+T105	Phosphorylation 23386 23401	phosphorylation
+T106	Exchange 3405 3413	exchange
+T107	Phosphorylation 15586 15601	phosphorylation
+T108	Phosphorylation 15943 15958	phosphorylation
+T109	Phosphorylation 45871 45885	phosphorylated
+T110	Phosphorylation 28789 28804	phosphorylation
+T111	Phosphorylation 16004 16019	phosphorylation
+T112	Phosphorylation 966 981	phosphorylation
+T113	Binding 23206 23217	interaction
+T114	Phosphorylation 43647 43662	phosphorylation
+T115	Phosphorylation 21653 21667	phosphorylated
+T116	Phosphorylation 5581 5596	phosphorylation
+T117	Phosphorylation 25525 25539	phosphorylated
+T118	Binding 3240 3251	interaction
+T119	Phosphorylation 35852 35867	phosphorylation
+T120	Binding 10458 10463	bound
+T121	Phosphorylation 36164 36179	phosphorylation
+T122	Phosphorylation 3353 3368	phosphorylation
+T123	Phosphorylation 22144 22159	phosphorylation
+T124	Phosphorylation 14641 14655	phosphorylated
+T125	Phosphorylation 17649 17664	phosphorylation
+T126	Binding 20327 20338	interaction
+T127	Phosphorylation 21813 21828	phosphorylation
+T128	Phosphorylation 29213 29228	phosphorylation
+T129	Phosphorylation 33303 33318	phosphorylation
+T130	Phosphorylation 42490 42505	phosphorylation
+T131	Phosphorylation 18823 18838	phosphorylation
+T132	Phosphorylation 46019 46033	phosphorylated
+T133	Phosphorylation 46182 46196	Phosphorylated
+T134	Phosphorylation 5239 5254	phosphorylation
+T135	Phosphorylation 28381 28394	phosphorylate
+T136	Phosphorylation 29393 29408	phosphorylation
+T137	Phosphorylation 21756 21771	phosphorylation
+T138	Phosphorylation 29827 29841	phosphorylated
+T139	Phosphorylation 41682 41697	phosphorylation
+T140	Phosphorylation 35672 35687	phosphorylation
+T141	Phosphorylation 891 906	phosphorylation
+T142	Phosphorylation 42554 42569	phosphorylation
+T143	Phosphorylation 28480 28495	phosphorylation
+T144	Phosphorylation 31761 31776	phosphorylation
+T145	Phosphorylation 22053 22068	phosphorylation
+T146	Phosphorylation 26644 26659	phosphorylation
+T147	Phosphorylation 39361 39376	phosphorylation
+T148	Phosphorylation 23575 23590	phosphorylation
+T149	Phosphorylation 38301 38316	phosphorylation
+E1	Binding:T89 Theme:T1 Theme:T2
+E2	Phosphorylation:T90 Theme:T3
+E3	Phosphorylation:T91 Theme:T4
+E4	Phosphorylation:T92 Theme:T5
+E5	Phosphorylation:T93 Theme:T6
+E6	Phosphorylation:T94 Theme:T7 Site:T8
+E7	Phosphorylation:T94 Theme:T9 Site:T8
+E8	Phosphorylation:T94 Theme:T7
+E9	Phosphorylation:T95 Theme:T10
+E10	Phosphorylation:T96 Theme:T11
+E11	Phosphorylation:T96 Theme:T12
+E12	Phosphorylation:T96 Theme:T13
+E13	Phosphorylation:T97 Theme:T14
+E14	Phosphorylation:T98 Theme:T15
+E15	Phosphorylation:T99 Theme:T16
+E16	Phosphorylation:T100 Theme:T17
+E17	Phosphorylation:T100 Theme:T18
+E18	Phosphorylation:T101 Theme:T19
+E19	Phosphorylation:T102 Theme:T20
+E20	Phosphorylation:T103 Theme:T21
+E21	Binding:T104 Theme:T22 Theme:T23
+E22	Phosphorylation:T105 Theme:T24
+E23	Phosphorylation:T105 Theme:T25
+E24	Exchange:T106 Theme1:T26 Theme2:T27 Goal:T28
+E25	Phosphorylation:T107 Theme:T29
+E26	Phosphorylation:T108 Theme:T30
+E27	Phosphorylation:T109 Theme:T31
+E28	Phosphorylation:T110 Theme:T32
+E29	Phosphorylation:T111 Theme:T33
+E30	Phosphorylation:T112 Theme:T34
+E31	Phosphorylation:T112 Theme:T34 Site:T35
+E32	Binding:T113 Theme:T36 Theme:T37
+E33	Phosphorylation:T114 Theme:T38
+E34	Phosphorylation:T115 Theme:T39
+E35	Phosphorylation:T116 Theme:T40
+E36	Phosphorylation:T117 Theme:T41
+E37	Phosphorylation:T117 Theme:T42
+E38	Phosphorylation:T117 Theme:T43
+E39	Binding:T118 Theme:T44 Theme:T45
+E40	Phosphorylation:T119 Theme:T46
+E41	Binding:T120 Theme:T47 Theme:T48 Theme:T49 Theme:T50 Theme:T51 Theme:T52
+E42	Phosphorylation:T121 Theme:T53
+E43	Phosphorylation:T122 Theme:T54
+E44	Phosphorylation:T123 Theme:T55
+E45	Phosphorylation:T124 Theme:T56
+E46	Phosphorylation:T119 Theme:T57
+E47	Phosphorylation:T125 Theme:T58
+E48	Binding:T126 Theme:T59 Theme:T60
+E49	Phosphorylation:T127 Theme:T61
+E50	Phosphorylation:T103 Theme:T62
+E51	Phosphorylation:T128 Theme:T63
+E52	Phosphorylation:T129 Theme:T64
+E53	Phosphorylation:T130 Theme:T65
+E54	Phosphorylation:T131 Theme:T66
+E55	Phosphorylation:T132 Theme:T67
+E56	Phosphorylation:T105 Theme:T68
+E57	Phosphorylation:T133 Theme:T69
+E58	Phosphorylation:T134 Theme:T70
+E59	Phosphorylation:T101 Theme:T71
+E60	Phosphorylation:T135 Theme:T72
+E61	Phosphorylation:T136 Theme:T73
+E62	Phosphorylation:T137 Theme:T74
+E63	Phosphorylation:T138 Theme:T75
+E64	Phosphorylation:T139 Theme:T76
+E65	Phosphorylation:T140 Theme:T77
+E66	Phosphorylation:T141 Theme:T78
+E67	Phosphorylation:T128 Theme:T79
+E68	Phosphorylation:T142 Theme:T80
+E69	Phosphorylation:T143 Theme:T81
+E70	Phosphorylation:T117 Theme:T82
+E71	Phosphorylation:T144 Theme:T83
+E72	Phosphorylation:T145 Theme:T84
+E73	Phosphorylation:T146 Theme:T85
+E74	Phosphorylation:T147 Theme:T86
+E75	Phosphorylation:T148 Theme:T87
+E76	Phosphorylation:T149 Theme:T88
+#1	FoundByRule T1	banner_entities
+#2	FoundByRule T2	banner_entities
+#3	FoundByRule T3	banner_entities
+#4	FoundByRule T4	banner_entities
+#5	FoundByRule T5	banner_entities
+#6	FoundByRule T6	banner_entities
+#7	FoundByRule T7	banner_entities
+#8	FoundByRule T8	site_domain
+#9	FoundByRule T9	banner_entities
+#10	FoundByRule T10	banner_entities
+#11	FoundByRule T11	banner_entities
+#12	FoundByRule T12	banner_entities
+#13	FoundByRule T13	banner_entities
+#14	FoundByRule T14	banner_entities
+#15	FoundByRule T15	banner_entities
+#16	FoundByRule T16	banner_entities
+#17	FoundByRule T17	banner_entities
+#18	FoundByRule T18	banner_entities
+#19	FoundByRule T19	banner_entities
+#20	FoundByRule T20	banner_entities
+#21	FoundByRule T21	banner_entities
+#22	FoundByRule T22	banner_entities
+#23	FoundByRule T23	banner_entities
+#24	FoundByRule T24	banner_entities
+#25	FoundByRule T25	banner_entities
+#26	FoundByRule T26	simple_chem
+#27	FoundByRule T27	simple_chem
+#28	FoundByRule T28	banner_entities
+#29	FoundByRule T29	banner_entities
+#30	FoundByRule T30	banner_entities
+#31	FoundByRule T31	banner_entities
+#32	FoundByRule T32	banner_entities
+#33	FoundByRule T33	banner_entities
+#34	FoundByRule T34	banner_entities
+#35	FoundByRule T35	site_domain
+#36	FoundByRule T36	banner_entities
+#37	FoundByRule T37	banner_entities
+#38	FoundByRule T38	banner_entities
+#39	FoundByRule T39	banner_entities
+#40	FoundByRule T40	banner_entities
+#41	FoundByRule T41	banner_entities
+#42	FoundByRule T42	banner_entities
+#43	FoundByRule T43	banner_entities
+#44	FoundByRule T44	banner_entities
+#45	FoundByRule T45	banner_entities
+#46	FoundByRule T46	banner_entities
+#47	FoundByRule T47	banner_entities
+#48	FoundByRule T48	banner_entities
+#49	FoundByRule T49	banner_entities
+#50	FoundByRule T50	banner_entities
+#51	FoundByRule T51	banner_entities
+#52	FoundByRule T52	banner_entities
+#53	FoundByRule T53	banner_entities
+#54	FoundByRule T54	banner_entities
+#55	FoundByRule T55	banner_entities
+#56	FoundByRule T56	banner_entities
+#57	FoundByRule T57	banner_entities
+#58	FoundByRule T58	banner_entities
+#59	FoundByRule T59	banner_entities
+#60	FoundByRule T60	banner_entities
+#61	FoundByRule T61	banner_entities
+#62	FoundByRule T62	banner_entities
+#63	FoundByRule T63	banner_entities
+#64	FoundByRule T64	banner_entities
+#65	FoundByRule T65	banner_entities
+#66	FoundByRule T66	banner_entities
+#67	FoundByRule T67	banner_entities
+#68	FoundByRule T68	banner_entities
+#69	FoundByRule T69	banner_entities
+#70	FoundByRule T70	banner_entities
+#71	FoundByRule T71	banner_entities
+#72	FoundByRule T72	banner_entities
+#73	FoundByRule T73	banner_entities
+#74	FoundByRule T74	banner_entities
+#75	FoundByRule T75	banner_entities
+#76	FoundByRule T76	banner_entities
+#77	FoundByRule T77	banner_entities
+#78	FoundByRule T78	banner_entities
+#79	FoundByRule T79	banner_entities
+#80	FoundByRule T80	banner_entities
+#81	FoundByRule T81	banner_entities
+#82	FoundByRule T82	banner_entities
+#83	FoundByRule T83	banner_entities
+#84	FoundByRule T84	banner_entities
+#85	FoundByRule T85	banner_entities
+#86	FoundByRule T86	banner_entities
+#87	FoundByRule T87	banner_entities
+#88	FoundByRule T88	banner_entities
+#89	FoundByRule E1	binding_token_1
+#90	FoundByRule E2	Phosphorylation_syntax_4_noun
+#91	FoundByRule E3	Phosphorylation_syntax_1_noun
+#92	FoundByRule E4	Phosphorylation_syntax_4_noun
+#93	FoundByRule E5	Phosphorylation_syntax_4_noun
+#94	FoundByRule E6	Phosphorylation_syntax_1_noun
+#95	FoundByRule E7	Phosphorylation_syntax_1_noun
+#96	FoundByRule E8	Phosphorylation_token_1_noun
+#97	FoundByRule E9	Phosphorylation_syntax_1_noun
+#98	FoundByRule E10	Phosphorylation_syntax_1_noun
+#99	FoundByRule E11	Phosphorylation_syntax_1_noun
+#100	FoundByRule E12	Phosphorylation_syntax_1_noun
+#101	FoundByRule E13	Phosphorylation_syntax_1_noun
+#102	FoundByRule E14	Phosphorylation_syntax_1_noun
+#103	FoundByRule E15	Phosphorylation_syntax_4_noun
+#104	FoundByRule E16	Phosphorylation_syntax_1_noun
+#105	FoundByRule E17	Phosphorylation_syntax_1_noun
+#106	FoundByRule E18	Phosphorylation_syntax_1_noun
+#107	FoundByRule E19	Phosphorylation_syntax_4_noun
+#108	FoundByRule E20	Phosphorylation_syntax_1_verb
+#109	FoundByRule E21	binding3
+#110	FoundByRule E22	Phosphorylation_syntax_1_noun
+#111	FoundByRule E23	Phosphorylation_syntax_1_noun
+#112	FoundByRule E24	exchange_5
+#113	FoundByRule E25	Phosphorylation_syntax_4_noun
+#114	FoundByRule E26	Phosphorylation_syntax_4_noun
+#115	FoundByRule E27	Phosphorylation_syntax_1_verb
+#116	FoundByRule E28	Phosphorylation_syntax_1_noun
+#117	FoundByRule E29	Phosphorylation_syntax_4_noun
+#118	FoundByRule E30	Phosphorylation_syntax_1_noun
+#119	FoundByRule E31	Phosphorylation_token_1_noun
+#120	FoundByRule E32	binding9
+#121	FoundByRule E33	Phosphorylation_syntax_1_noun
+#122	FoundByRule E34	Phosphorylation_syntax_6_verb
+#123	FoundByRule E35	Phosphorylation_syntax_1_noun
+#124	FoundByRule E36	Phosphorylation_syntax_1_verb
+#125	FoundByRule E37	Phosphorylation_syntax_3_verb
+#126	FoundByRule E38	Phosphorylation_syntax_3_verb
+#127	FoundByRule E39	binding11
+#128	FoundByRule E40	Phosphorylation_syntax_1_noun
+#129	FoundByRule E41	binding1
+#130	FoundByRule E42	Phosphorylation_syntax_1_noun
+#131	FoundByRule E43	Phosphorylation_syntax_1_noun
+#132	FoundByRule E44	Phosphorylation_syntax_4_noun
+#133	FoundByRule E45	Phosphorylation_syntax_3_verb
+#134	FoundByRule E46	Phosphorylation_syntax_1_noun
+#135	FoundByRule E47	Phosphorylation_syntax_4_noun
+#136	FoundByRule E48	binding9
+#137	FoundByRule E49	Phosphorylation_syntax_1_noun
+#138	FoundByRule E50	Phosphorylation_token_2_verb
+#139	FoundByRule E51	Phosphorylation_syntax_1_noun
+#140	FoundByRule E52	Phosphorylation_syntax_4_noun
+#141	FoundByRule E53	Phosphorylation_syntax_1_noun
+#142	FoundByRule E54	Phosphorylation_syntax_1_noun
+#143	FoundByRule E55	Phosphorylation_syntax_1_verb
+#144	FoundByRule E56	Phosphorylation_syntax_1_noun
+#145	FoundByRule E57	Phosphorylation_syntax_1_verb
+#146	FoundByRule E58	Phosphorylation_syntax_4_noun
+#147	FoundByRule E59	Phosphorylation_syntax_1_noun
+#148	FoundByRule E60	Phosphorylation_syntax_1_verb
+#149	FoundByRule E61	Phosphorylation_syntax_4_noun
+#150	FoundByRule E62	Phosphorylation_syntax_4_noun
+#151	FoundByRule E63	Phosphorylation_syntax_1_verb
+#152	FoundByRule E64	Phosphorylation_syntax_4_noun
+#153	FoundByRule E65	Phosphorylation_syntax_4_noun
+#154	FoundByRule E66	Phosphorylation_syntax_4_noun
+#155	FoundByRule E67	Phosphorylation_syntax_1_noun
+#156	FoundByRule E68	Phosphorylation_syntax_4_noun
+#157	FoundByRule E69	Phosphorylation_syntax_4_noun
+#158	FoundByRule E70	Phosphorylation_syntax_1_verb
+#159	FoundByRule E71	Phosphorylation_syntax_1_noun
+#160	FoundByRule E72	Phosphorylation_syntax_4_noun
+#161	FoundByRule E73	Phosphorylation_syntax_4_noun
+#162	FoundByRule E74	Phosphorylation_token_1_noun
+#163	FoundByRule E75	Phosphorylation_syntax_4_noun
+#164	FoundByRule E76	Phosphorylation_syntax_4_noun
+T150	Cell-Line 4945 4967	RBL-2H3 mast cell line
+T151	Cell-Line 5683 5693	mast cells
+R1	ContextOf Event:E35 Context:T151	
+R2	ContextOf Event:E3 Context:T150	
+R3	ContextOf Event:E58 Context:T150	
+R4	ContextOf Event:E43 Context:T150	
+R5	ContextOf Event:E39 Context:T150	
+R6	ContextOf Event:E66 Context:T150	
+T152	Cell-Line 17611 17621	mast cells
+R7	ContextOf Event:E47 Context:T152	
+R11	ContextOf Event:E7 Context:T152	
+R12	ContextOf Event:E19 Context:T152	
+R13	ContextOf Event:E26 Context:T152	
+R14	ContextOf Event:E29 Context:T152	
+T154	Cell-Line 18199 18210	TB1A2 cells
+R15	ContextOf Event:E54 Context:T154	
+T153	Cell-Line 20041 20074	Chinese hamster ovary (CHO) cells
+R8	ContextOf Event:E48 Context:T153	
+T155	Cell-Line 23636 23649	RBL-2H3 cells
+R16	ContextOf Event:E37 Context:T155	
+R17	ContextOf Event:E20 Context:T155	
+R18	ContextOf Event:E44 Context:T154	
+R19	ContextOf Event:E34 Context:T154	
+T156	Cell-Line 29191 29200	CHO cells
+R20	ContextOf Event:E67 Context:T156	
+R21	ContextOf Event:E51 Context:T156	
+T157	Cell-Line 33183 33193	mast cells
+T158	Cell-Line 11483 11496	RBL-2H3 cells
+R22	ContextOf Event:E45 Context:T158	
+T159	Cell-Line 6998 7029	Baby hamster kidney (BHK) cells
+T160	Cell-Line 6832 6875	rat basophilic leukemia cell line (RBL-2H3)
+T161	Cell-Line 6877 6897	RBL-2H3 TB1A2 (Syk-)
+T162	Cell-Line 6899 6917	RBL-2H3 3A1 (Syk+)
+T163	Cell-Line 6923 6955	RBL-2H3 3BA12 (kinase-dead Syk+)
+R9	ContextOf Event:E32 Context:T155	
+R10	ContextOf Event:E75 Context:T155	
+R23	ContextOf Event:E22 Context:T155	
+R24	ContextOf Event:E18 Context:T155	
+R25	ContextOf Event:E13 Context:T155	
+R26	ContextOf Event:E16 Context:T155	
+R27	ContextOf Event:E51 Context:T155	
+R28	ContextOf Event:E52 Context:T157	
+R29	ContextOf Event:E71 Context:T155	
+T164	Cell-Line 44991 45004	RBL-2H3 cells
+R30	ContextOf Event:E14 Context:T164	
+R31	ContextOf Event:E55 Context:T164	
+R32	ContextOf Event:E57 Context:T164	
+T165	Cell-Line 43270 43283	RBL-2H3 cells
+R33	ContextOf Event:E33 Context:T165	
+T166	Cell-Line 42571 42584	RBL-2H3 cells
+R34	ContextOf Event:E4 Context:T166	
+T167	Cell-Line 41838 41851	RBL-2H3 cells
+R35	ContextOf Event:E53 Context:T167	
+T168	Cell-Line 36135 36159	SLP-76-deficient T cells
+R36	ContextOf Event:E42 Context:T168	
+T169	Cell-Line 38431 38444	RBL-2H3 cells
+R37	ContextOf Event:E76 Context:T169	
+R38	ContextOf Event:E74 Context:T169	
+T170	Cell-Line 40437 40463	Syk-deficient cells (-Syk)
+R39	ContextOf Event:E5 Context:T170	
+R40	ContextOf Event:E64 Context:T167	
+R41	ContextOf Event:E10 Context:T167	
+T171	Phosphorylation 5921 5929	A rabbit
+E77	Phosphorylation:T171 
+T172	Cell-Line 5957 5967	was a gift
+R42	ContextOf Event:E77 Context:T172	

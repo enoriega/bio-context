@@ -1,0 +1,376 @@
+T1	Gene_or_gene_product 13730 13734	FBW7
+T2	Gene_or_gene_product 13699 13705	NOTCH1
+T3	Site 13793 13797	R465
+T4	Gene_or_gene_product 22766 22770	CDK8
+T5	Site 22831 22836	T2512
+T6	Gene_or_gene_product 14296 14302	NOTCH1
+T7	Gene_or_gene_product 14400 14404	FBW7
+T8	Gene_or_gene_product 14304 14309	c-Myc
+T9	Gene_or_gene_product 14315 14321	cyclin
+T10	Gene_or_gene_product 17307 17313	NOTCH1
+T11	Gene_or_gene_product 17324 17331	DELTEX1
+T12	Gene_or_gene_product 17315 17319	HES1
+T13	Gene_or_gene_product 1535 1539	FBW7
+T14	Gene_or_gene_product 1524 1530	NOTCH1
+T15	Gene_or_gene_product 6488 6492	CDK8
+T16	Gene_or_gene_product 23159 23164	N1-IC
+T17	Site 23179 23184	S2514
+T18	Gene_or_gene_product 27232 27236	FBW7
+T19	Gene_or_gene_product 27193 27198	c-Myc
+T20	Simple_chemical 2580 2581	C
+T21	Simple_chemical 2574 2575	B
+T22	Gene_or_gene_product 2745 2757	N1-ICDelta82
+T23	Gene_or_gene_product 2762 2775	N1-ICDelta162
+T24	Gene_or_gene_product 27096 27102	NOTCH1
+T25	Gene_or_gene_product 27051 27056	c-Myc
+T26	Gene_or_gene_product 24429 24442	c-Myc degrons
+T27	Gene_or_gene_product 24418 24424	NOTCH1
+T28	Gene_or_gene_product 2688 2692	FBW7
+T29	Gene_or_gene_product 2697 2704	N1-ICWT
+T30	Family 21176 21181	Actin
+T31	Simple_chemical 14723 14724	E
+T32	Gene_or_gene_product 14738 14742	FBW7
+T33	Gene_or_gene_product 14780 14785	c-Myc
+T34	Gene_or_gene_product 14790 14796	cyclin
+T35	Simple_chemical 14757 14758	C
+T36	Gene_or_gene_product 2170 2174	FBW7
+T37	Gene_or_gene_product 2179 2185	NOTCH1
+T38	Gene_or_gene_product 7796 7807	N1-ICT2512A
+T39	Gene_or_gene_product 21698 21702	FBW7
+T40	Gene_or_gene_product 21711 21717	NOTCH1
+T41	Gene_or_gene_product 6263 6270	N1-ICWT
+T42	Gene_or_gene_product 6219 6231	SCFFBW7alpha
+T43	Ubiquitination 6241 6259	polyubiquitination
+T44	Gene_or_gene_product 19743 19756	N1-IC protein
+T45	Gene_or_gene_product 20905 20910	c-Myc
+T46	Gene_or_gene_product 779 785	cyclin
+T47	Gene_or_gene_product 769 774	c-Myc
+T48	Simple_chemical 786 787	E
+T49	Gene_or_gene_product 8511 8516	N1-IC
+T50	Gene_or_gene_product 22522 22527	N1-IC
+T51	Gene_or_gene_product 25130 25134	FBW7
+T52	Family 25172 25177	NOTCH
+T54	Gene_or_gene_product 4715 4724	GSK3-beta
+T55	Gene_or_gene_product 3689 3693	FBW7
+T56	Gene_or_gene_product 3703 3709	NOTCH1
+T57	Gene_or_gene_product 17529 17533	FBW7
+T58	Gene_or_gene_product 22610 22615	MAML1
+T59	Gene_or_gene_product 22625 22629	CDK8
+T60	Gene_or_gene_product 18207 18213	NOTCH1
+T61	Gene_or_gene_product 20243 20256	c-Myc protein
+T62	Gene_or_gene_product 17461 17465	FBW7
+T63	Gene_or_gene_product 21053 21058	N1-IC
+T64	Gene_or_gene_product 9748 9752	CDK8
+T65	Gene_or_gene_product 8266 8273	N1-ICWT
+T66	Gene_or_gene_product 8221 8233	SCFFBW7alpha
+T67	Gene_or_gene_product 8173 8179	NOTCH1
+T68	Gene_or_gene_product 16794 16798	FBW7
+T69	Gene_or_gene_product 22710 22715	N1-IC
+T70	Gene_or_gene_product 17617 17621	FBW7
+T71	Binding 13716 13726	recognized
+T72	Phosphorylation 22771 22786	phosphorylation
+T73	Binding 14279 14290	interaction
+T74	Binding 17296 17303	targets
+T75	Binding 1551 1559	interact
+T76	Phosphorylation 6493 6508	phosphorylation
+T77	Phosphorylation 23145 23158	phosphorylate
+T78	Binding 27222 27228	target
+T79	Binding 2731 2739	interact
+T80	Binding 27086 27092	target
+T81	Binding 24400 24408	interact
+T82	Binding 2665 2676	interaction
+T83	Transcription 21182 21192	expression
+T84	Binding 14766 14774	interact
+T85	Binding 2150 2161	association
+T86	Ubiquitination 7818 7831	ubiquitinated
+T87	Binding 21703 21710	targets
+T88	Positive_regulation 6232 6240	enhanced
+T89	Transcription 19757 19767	expression
+T90	Transcription 20911 20921	expression
+T91	Binding 760 767	targets
+T92	Ubiquitination 8493 8507	ubiquitination
+T93	Phosphorylation 22503 22518	phosphorylation
+T94	Positive_activation 25159 25167	activate
+T95	Transcription 20824 20834	Expression
+T96	Phosphorylation 4725 4740	phosphorylation
+T97	Positive_activation 3694 3702	enhanced
+T98	Transcription 17534 17544	expression
+T99	Positive_activation 22616 22624	recruits
+T100	Transcription 18189 18199	expression
+T101	Transcription 20257 20267	expression
+T102	Transcription 17466 17476	expression
+T103	Transcription 21059 21069	expression
+T104	Phosphorylation 9753 9768	phosphorylation
+T105	Ubiquitination 8244 8262	polyubiquitination
+T106	Positive_activation 8234 8243	increased
+T107	Transcription 8180 8190	expression
+T108	Transcription 16799 16809	expression
+T109	Phosphorylation 22695 22709	phosphorylates
+T110	Transcription 17622 17632	expression
+E1	Ubiquitination:T43 theme:T41
+E2	Binding:T71 theme:T1 theme:T2 site:T3
+E3	Phosphorylation:T72 theme:T4 site:T5
+E4	Binding:T73 theme:T6
+E5	Binding:T73 theme:T8
+E6	Binding:T73 theme:T9
+E7	Binding:T74 theme:T10 theme:T11
+E8	Binding:T74 theme:T12 theme:T11
+E9	Binding:T75 theme:T13 theme:T14
+E10	Phosphorylation:T76 theme:T15
+E11	Phosphorylation:T77 theme:T16 site:T17
+E12	Binding:T78 theme:T18 theme:T19
+E13	Binding:T79 
+E14	Binding:T79 theme:T22
+E15	Binding:T79 theme:T23
+E16	Binding:T79 theme:T22
+E17	Binding:T79 theme:T23
+E18	Binding:T80 theme:T24 theme:T25
+E19	Binding:T81 theme:T26 theme:T27
+E20	Binding:T82 theme:T28 theme:T29
+E21	Transcription:T83 theme:T30
+E25	Binding:T84 theme:T32 theme:T33
+E26	Binding:T84 theme:T32 theme:T34
+E28	Binding:T85 theme:T36 theme:T37
+E29	Ubiquitination:T86 theme:T38
+E30	Binding:T87 theme:T39 theme:T40
+E31	Positive_regulation:T88 controller:T42 controlled:E1
+E32	Transcription:T89 theme:T44
+E33	Binding:T79 theme:T22 theme:T23
+E34	Transcription:T90 theme:T45
+E35	Binding:T91 theme:T46 theme:T47
+E36	Binding:T91 theme:T46 theme:T48
+E37	Binding:T91 theme:T47 theme:T48
+E40	Binding:T73 theme:T6 theme:T9
+E41	Binding:T73 theme:T8 theme:T9
+E42	Ubiquitination:T92 theme:T49
+E44	Phosphorylation:T93 theme:T50
+E45	Positive_activation:T94 controller:T51 controlled:T52
+E46	Binding:T73 theme:T6 theme:T8
+E47	Transcription:T95 
+E48	Phosphorylation:T96 theme:T54
+E49	Positive_activation:T97 controller:T55 controlled:T56
+E50	Phosphorylation:T77 theme:T16
+E51	Transcription:T98 theme:T57
+E52	Binding:T74 theme:T10 theme:T12
+E53	Positive_activation:T99 controller:T58 controlled:T59
+E54	Transcription:T100 theme:T60
+E55	Transcription:T101 theme:T61
+E56	Transcription:T102 theme:T62
+E57	Transcription:T103 theme:T63
+E58	Phosphorylation:T104 theme:T64
+E59	Ubiquitination:T105 theme:T65
+E60	Positive_activation:T106 controller:T66 controlled:T65
+E61	Transcription:T107 theme:T67
+E62	Transcription:T108 theme:T68
+E63	Phosphorylation:T109 theme:T69
+E64	Transcription:T110 theme:T70
+#1	FoundByRule T1	ner-gene_or_gene_product-entities
+#2	FoundByRule T2	ner-gene_or_gene_product-entities
+#3	FoundByRule T3	site_1letter
+#4	FoundByRule T4	ner-gene_or_gene_product-entities
+#5	FoundByRule T5	site_1letter
+#6	FoundByRule T6	ner-gene_or_gene_product-entities
+#7	FoundByRule T7	ner-gene_or_gene_product-entities
+#8	FoundByRule T8	ner-gene_or_gene_product-entities
+#9	FoundByRule T9	ner-gene_or_gene_product-entities
+#10	FoundByRule T10	ner-gene_or_gene_product-entities
+#11	FoundByRule T11	ner-gene_or_gene_product-entities
+#12	FoundByRule T12	ner-gene_or_gene_product-entities
+#13	FoundByRule T13	ner-gene_or_gene_product-entities
+#14	FoundByRule T14	ner-gene_or_gene_product-entities
+#15	FoundByRule T15	ner-gene_or_gene_product-entities
+#16	FoundByRule T16	ner-gene_or_gene_product-entities
+#17	FoundByRule T17	site_1letter
+#18	FoundByRule T18	ner-gene_or_gene_product-entities
+#19	FoundByRule T19	ner-gene_or_gene_product-entities
+#20	FoundByRule T20	ner-simple_chemical-entities
+#21	FoundByRule T21	ner-simple_chemical-entities
+#22	FoundByRule T22	ner-gene_or_gene_product-entities
+#23	FoundByRule T23	ner-gene_or_gene_product-entities
+#24	FoundByRule T24	ner-gene_or_gene_product-entities
+#25	FoundByRule T25	ner-gene_or_gene_product-entities
+#26	FoundByRule T26	ner-gene_or_gene_product-entities
+#27	FoundByRule T27	ner-gene_or_gene_product-entities
+#28	FoundByRule T28	ner-gene_or_gene_product-entities
+#29	FoundByRule T29	ner-gene_or_gene_product-entities
+#30	FoundByRule T30	ner-family-entities
+#31	FoundByRule T31	ner-simple_chemical-entities
+#32	FoundByRule T32	ner-gene_or_gene_product-entities
+#33	FoundByRule T33	ner-gene_or_gene_product-entities
+#34	FoundByRule T34	ner-gene_or_gene_product-entities
+#35	FoundByRule T35	ner-simple_chemical-entities
+#36	FoundByRule T36	ner-gene_or_gene_product-entities
+#37	FoundByRule T37	ner-gene_or_gene_product-entities
+#38	FoundByRule T38	ner-gene_or_gene_product-entities
+#39	FoundByRule T39	ner-gene_or_gene_product-entities
+#40	FoundByRule T40	ner-gene_or_gene_product-entities
+#41	FoundByRule T41	ner-gene_or_gene_product-entities
+#42	FoundByRule T42	ner-gene_or_gene_product-entities
+#43	FoundByRule E1	Ubiquitination_token_1_noun
+#44	FoundByRule T44	ner-gene_or_gene_product-entities
+#45	FoundByRule T45	ner-gene_or_gene_product-entities
+#46	FoundByRule T46	ner-gene_or_gene_product-entities
+#47	FoundByRule T47	ner-gene_or_gene_product-entities
+#48	FoundByRule T48	ner-simple_chemical-entities
+#49	FoundByRule T49	ner-gene_or_gene_product-entities
+#50	FoundByRule T50	ner-gene_or_gene_product-entities
+#51	FoundByRule T51	ner-gene_or_gene_product-entities
+#52	FoundByRule T52	ner-family-entities
+#54	FoundByRule T54	ner-gene_or_gene_product-entities
+#55	FoundByRule T55	ner-gene_or_gene_product-entities
+#56	FoundByRule T56	ner-gene_or_gene_product-entities
+#57	FoundByRule T57	ner-gene_or_gene_product-entities
+#58	FoundByRule T58	ner-gene_or_gene_product-entities
+#59	FoundByRule T59	ner-gene_or_gene_product-entities
+#60	FoundByRule T60	ner-gene_or_gene_product-entities
+#61	FoundByRule T61	ner-gene_or_gene_product-entities
+#62	FoundByRule T62	ner-gene_or_gene_product-entities
+#63	FoundByRule T63	ner-gene_or_gene_product-entities
+#64	FoundByRule T64	ner-gene_or_gene_product-entities
+#65	FoundByRule T65	ner-gene_or_gene_product-entities
+#66	FoundByRule T66	ner-gene_or_gene_product-entities
+#67	FoundByRule T67	ner-gene_or_gene_product-entities
+#68	FoundByRule T68	ner-gene_or_gene_product-entities
+#69	FoundByRule T69	ner-gene_or_gene_product-entities
+#70	FoundByRule T70	ner-gene_or_gene_product-entities
+#71	FoundByRule E2	binding_17
+#72	FoundByRule E3	Phosphorylation_token_3_noun
+#73	FoundByRule E4	binding9
+#74	FoundByRule E5	binding9
+#75	FoundByRule E6	binding9
+#76	FoundByRule E7	binding_22
+#77	FoundByRule E8	binding_22
+#78	FoundByRule E9	binding1
+#79	FoundByRule E10	Phosphorylation_token_3_noun
+#80	FoundByRule E11	Phosphorylation_token_7_verb
+#81	FoundByRule E12	binding_22
+#82	FoundByRule E13	binding1
+#83	FoundByRule E14	binding1
+#84	FoundByRule E15	binding1
+#85	FoundByRule E16	binding1
+#86	FoundByRule E17	binding1
+#87	FoundByRule E18	binding_22
+#88	FoundByRule E19	binding13
+#89	FoundByRule E20	binding11
+#90	FoundByRule E21	transcription_1
+#94	FoundByRule E25	binding1
+#95	FoundByRule E26	binding1
+#97	FoundByRule E28	binding11
+#98	FoundByRule E29	Ubiquitination_syntax_2_verb
+#99	FoundByRule E30	binding_22
+#100	FoundByRule E31	Positive_regulation_1
+#101	FoundByRule E32	transcription_1
+#102	FoundByRule E33	binding1
+#103	FoundByRule E34	transcription_1
+#104	FoundByRule E35	binding_22
+#105	FoundByRule E36	binding_22
+#106	FoundByRule E37	binding_22
+#109	FoundByRule E40	binding9
+#110	FoundByRule E41	binding9
+#111	FoundByRule E42	Ubiquitination_syntax_1_noun
+#113	FoundByRule E44	Phosphorylation_syntax_1_noun
+#114	FoundByRule E45	activates_syntax1
+#115	FoundByRule E46	binding9
+#116	FoundByRule E47	transcription_2
+#117	FoundByRule E48	Phosphorylation_token_3_noun
+#118	FoundByRule E49	activates_syntax1
+#119	FoundByRule E50	Phosphorylation_token_5_verb
+#120	FoundByRule E51	transcription_1
+#121	FoundByRule E52	binding_22
+#122	FoundByRule E53	activates_syntax1
+#123	FoundByRule E54	transcription_1
+#124	FoundByRule E55	transcription_1
+#125	FoundByRule E56	transcription_1
+#126	FoundByRule E57	transcription_1
+#127	FoundByRule E58	Phosphorylation_token_3_noun
+#128	FoundByRule E59	Ubiquitination_syntax_1_noun
+#129	FoundByRule E60	activates_syntax1
+#130	FoundByRule E61	transcription_1
+#131	FoundByRule E62	transcription_1
+#132	FoundByRule E63	Phosphorylation_syntax_1_verb
+#133	FoundByRule E64	transcription_1
+T111	Cell-Line 62 70	T cell l
+T112	Main-Species 615 620	human
+R1	ContextOf Event:E36 Context:T112	
+R2	ContextOf Event:E37 Context:T112	
+R3	ContextOf Event:E35 Context:T112	
+R4	ContextOf Event:E36 Context:T111	
+R5	ContextOf Event:E37 Context:T111	
+R6	ContextOf Event:E35 Context:T111	
+T113	Cell-Line 1166 1172	T cell
+T114	Cell-Line 6077 6089	Bosc23 cells
+R10	ContextOf Event:E31 Context:T114	
+R12	ContextOf Event:E10 Context:T114	
+T115	Cell-Line 5623 5635	Bosc23 cells
+R7	ContextOf Event:E9 Context:T115	
+R9	ContextOf Event:E20 Context:T115	
+R11	ContextOf Event:E28 Context:T115	
+R14	ContextOf Event:E48 Context:T115	
+T116	Cell-Line 7079 7091	Bosc23 cells
+R8	ContextOf Event:E61 Context:T116	
+T117	Cell-Line 13115 13120	T-ALL
+R13	ContextOf Event:E2 Context:T117	
+T118	Cell-Line 14264 14269	T-ALL
+T119	Cell-Line 34588 34608	Bosc23 or HeLa cells
+R15	ContextOf Event:E58 Context:T116	
+R16	ContextOf Event:E6 Context:T118	
+R17	ContextOf Event:E6 Context:T118	
+R18	ContextOf Event:E5 Context:T118	
+R19	ContextOf Event:E46 Context:T118	
+R20	ContextOf Event:E4 Context:T118	
+R21	ContextOf Event:E41 Context:T118	
+R22	ContextOf Event:E40 Context:T118	
+T120	Cell-Line 14512 14523	DND41 cells
+T121	Cell-Line 14494 14499	T-ALL
+R23	ContextOf Event:E26 Context:T121	
+R24	ContextOf Event:E26 Context:T120	
+R25	ContextOf Event:E25 Context:T121	
+R26	ContextOf Event:E25 Context:T120	
+T122	Cell-Line 16706 16711	T-ALL
+R27	ContextOf Event:E62 Context:T122	
+R28	ContextOf Event:E8 Context:T122	
+R29	ContextOf Event:E7 Context:T122	
+R30	ContextOf Event:E52 Context:T122	
+T123	Cell-Line 17588 17593	T-ALL
+R31	ContextOf Event:E51 Context:T123	
+R32	ContextOf Event:E56 Context:T123	
+T124	Cell-Line 17636 17645	CEM cells
+R33	ContextOf Event:E64 Context:T124	
+#91	AnnotatorNotes T124	CEM T-ALL cells
+T125	Cell-Line 18249 18258	CEM cells
+R34	ContextOf Event:E54 Context:T125	
+T126	Cell-Line 19586 19591	KOPTK
+T127	Cell-Line 19602 19606	Be13
+T128	Cell-Line 19618 19630	P12-ICHICAWA
+T129	Cell-Line 19646 19649	CEM
+R35	ContextOf Event:E32 Context:T126	
+R36	ContextOf Event:E32 Context:T127	
+R37	ContextOf Event:E32 Context:T128	
+R38	ContextOf Event:E32 Context:T129	
+R39	ContextOf Event:E55 Context:T129	
+R40	ContextOf Event:E55 Context:T128	
+R41	ContextOf Event:E55 Context:T127	
+T53	Cell-Line 20939 20945	KOPTK1
+T130	Cell-Line 21003 21007	Be13
+T131	Cell-Line 21012 21024	P12-ICHIKAWA
+R42	ContextOf Event:E34 Context:T53	
+R43	ContextOf Event:E34 Context:T130	
+R44	ContextOf Event:E34 Context:T131	
+R45	ContextOf Event:E57 Context:T53	
+R46	ContextOf Event:E57 Context:T130	
+R47	ContextOf Event:E57 Context:T131	
+R48	ContextOf Event:E21 Context:T53	
+R49	ContextOf Event:E21 Context:T130	
+R50	ContextOf Event:E21 Context:T131	
+T132	Cell-Line 21887 21900	T-ALL lines a
+T133	Main-Species 24215 24219	mice
+R51	ContextOf Event:E19 Context:T133	
+T134	Cell-Line 23997 24002	T-ALL
+R52	ContextOf Event:E50 Context:T134	
+R53	ContextOf Event:E11 Context:T134	
+R54	ContextOf Event:E63 Context:T134	
+R55	ContextOf Event:E44 Context:T134	
+R56	ContextOf Event:E30 Context:T132	
+T135	Cell-Line 26828 26833	T-ALL
+R57	ContextOf Event:E18 Context:T135	
+R58	ContextOf Event:E12 Context:T135	

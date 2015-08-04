@@ -1,0 +1,349 @@
+T2	Binding 13118 13129	interaction
+T3	Gene_or_gene_product 13138 13142	TAK1
+T4	Gene_or_gene_product 13147 13153	CARMA1
+T5	Binding 15930 15941	interaction
+T6	Gene_or_gene_product 15950 15954	TAK1
+T7	Gene_or_gene_product 15959 15965	CARMA1
+T8	Binding 15733 15744	interaction
+T9	Gene_or_gene_product 15753 15757	TAK1
+T10	Gene_or_gene_product 15762 15768	CARMA1
+T11	Binding 16371 16382	interaction
+T12	Gene_or_gene_product 16391 16395	TAK1
+T13	Gene_or_gene_product 16400 16406	CARMA1
+T34	Binding 42688 42695	binding
+T36	Phosphorylation 25281 25296	phosphorylation
+T37	Protein 25352 25359	IKKbeta
+T38	Site 25320 25335	serine residues
+T42	Protein 26464 26471	IKKbeta
+T45	Phosphorylation 3177 3192	phosphorylation
+T46	Gene_or_gene_product 3223 3231	IkappaBs
+T68	Gene_or_gene_product 16214 16220	CARMA1
+T69	Gene_or_gene_product 22476 22482	CARMA1
+T70	Gene_or_gene_product 1361 1367	CARMA1
+T77	Gene_or_gene_product 17738 17744	CARMA1
+T78	Gene_or_gene_product 11720 11726	CARMA1
+T83	Gene_or_gene_product 16509 16515	CARMA1
+T84	Gene_or_gene_product 22251 22257	CARMA1
+T85	Gene_or_gene_product 20569 20575	CARMA1
+T97	Gene_or_gene_product 28154 28160	CARMA1
+T100	Gene_or_gene_product 21913 21919	CARMA1
+T103	Gene_or_gene_product 15855 15861	CARMA1
+T107	Gene_or_gene_product 20877 20883	CARMA1
+T108	Gene_or_gene_product 21503 21509	CARMA1
+T109	Gene_or_gene_product 4377 4383	CARMA1
+T110	Gene_or_gene_product 16839 16845	CARMA1
+T112	Gene_or_gene_product 18539 18545	CARMA1
+T113	Gene_or_gene_product 20990 20996	CARMA1
+T120	Gene_or_gene_product 1646 1652	CARMA1
+T121	Gene_or_gene_product 16954 16960	CARMA1
+T122	Gene_or_gene_product 16294 16300	CARMA1
+T124	Gene_or_gene_product 22582 22588	CARMA1
+T126	Gene_or_gene_product 5056 5062	CARMA1
+T127	Gene_or_gene_product 16058 16064	CARMA1
+T134	Gene_or_gene_product 15991 15997	CARMA1
+T135	Gene_or_gene_product 26714 26720	CARMA1
+T136	Gene_or_gene_product 24030 24036	CARMA1
+T145	Gene_or_gene_product 22387 22393	CARMA1
+T146	Gene_or_gene_product 23722 23728	CARMA1
+T147	Gene_or_gene_product 17138 17144	CARMA1
+T150	Gene_or_gene_product 12165 12171	CARMA1
+T160	Gene_or_gene_product 25479 25482	PKC
+T180	Gene_or_gene_product 42713 42717	TAB2
+T181	Gene_or_gene_product 37802 37806	TAB2
+T190	Phosphorylation 19805 19820	phosphorylation
+T191	Gene_or_gene_product 19836 19847	GST-IKKbeta
+T194	Ubiquitination 4575 4593	polyubiquitination
+T195	Gene_or_gene_product 4601 4609	IKKgamma
+T196	Site 4571 4574	K63
+T200	Phosphorylation 8110 8125	phosphorylation
+T201	Gene_or_gene_product 8129 8133	Flag
+T205	Phosphorylation 17966 17981	phosphorylation
+T206	Gene_or_gene_product 18029 18032	BCR
+T207	Site 18005 18023	threonine residues
+T213	Phosphorylation 22589 22604	phosphorylation
+T214	Gene_or_gene_product 22641 22646	Bcl10
+T215	Protein 25339 25347	IKKalpha
+T216	Phosphorylation 6937 6952	phosphorylation
+T217	Protein 6963 6971	IKKalpha
+T239	Gene_or_gene_product 41769 41778	NF-kappaB
+T270	Gene_or_gene_product 43802 43826	guanylate kinase domains
+T305	Phosphorylation 16195 16210	phosphorylation
+T306	Phosphorylation 22483 22498	phosphorylation
+T307	Phosphorylation 1346 1360	phosphorylated
+T308	Phosphorylation 17745 17760	phosphorylation
+T309	Phosphorylation 16813 16828	phosphorylation
+T310	Phosphorylation 28105 28120	Phosphorylation
+T311	Phosphorylation 16039 16054	phosphorylation
+T312	Phosphorylation 12146 12161	phosphorylation
+T313	Phosphorylation 23703 23718	phosphorylation
+T314	Phosphorylation 11727 11742	phosphorylation
+T315	Phosphorylation 22368 22383	phosphorylation
+T316	Phosphorylation 16516 16531	phosphorylation
+T317	Phosphorylation 22225 22240	phosphorylation
+T318	Phosphorylation 1627 1642	phosphorylation
+T319	Phosphorylation 20550 20565	phosphorylation
+T320	Phosphorylation 15866 15880	phosphorylated
+T321	Phosphorylation 18524 18538	phosphorylated
+T322	Phosphorylation 20975 20989	phosphorylates
+T323	Phosphorylation 16275 16290	phosphorylation
+T324	Phosphorylation 21894 21909	phosphorylation
+T325	Phosphorylation 5037 5052	phosphorylation
+T326	Phosphorylation 24004 24019	phosphorylation
+T327	Phosphorylation 20884 20899	phosphorylation
+T328	Phosphorylation 21488 21502	phosphorylates
+T329	Phosphorylation 16961 16976	phosphorylation
+T330	Phosphorylation 15998 16013	phosphorylation
+T331	Phosphorylation 26721 26736	phosphorylation
+T332	Phosphorylation 17119 17134	phosphorylation
+T350	Gene_or_gene_product 21658 21663	MALT1
+T352	Phosphorylation 21328 21342	phosphorylates
+T353	Gene_or_gene_product 21372 21394	phospholipase C-gamma2
+T354	Site 21351 21368	tyrosine residues
+T383	Protein 6975 6982	IKKbeta
+T384	Protein 19513 19520	IKKbeta
+T389	Protein 42114 42121	IKKbeta
+T391	Protein 27354 27361	IKKbeta
+T405	Gene_or_gene_product 21438 21458	protein kinase Cbeta
+T408	Ubiquitination 41795 41809	ubiquitination
+T435	Gene_or_gene_product 1782 1785	IKK
+T441	Gene_or_gene_product 18378 18381	IKK
+T462	Gene_or_gene_product 18993 18996	IKK
+T486	Phosphorylation 19499 19512	phosphorylate
+T487	Phosphorylation 26415 26428	phosphorylate
+T488	Phosphorylation 42130 42145	phosphorylation
+T489	Phosphorylation 27340 27353	phosphorylate
+T490	Phosphorylation 6554 6569	phosphorylation
+T491	Gene_or_gene_product 6573 6589	GST-IkappaBalpha
+T495	Phosphorylation 37779 37792	phosphorylate
+T507	Positive_regulation 20541 20549	mediated
+T508	Gene_or_gene_product 20533 20540	PKCbeta
+T509	Positive_regulation 26705 26713	mediated
+T510	Gene_or_gene_product 26697 26704	PKCbeta
+T525	Binding 4393 4398	binds
+T526	Gene_or_gene_product 4402 4407	Bcl10
+T527	Positive_regulation 22359 22367	mediated
+T528	Gene_or_gene_product 22355 22358	BCR
+T529	Positive_regulation 20868 20876	mediated
+T530	Gene_or_gene_product 20864 20867	BCR
+T533	Ubiquitination 27455 27469	ubiquitination
+T534	Gene_or_gene_product 27477 27485	IKKgamma
+T535	Ubiquitination 27547 27561	ubiquitination
+T536	Gene_or_gene_product 27538 27546	IKKgamma
+T548	Phosphorylation 1768 1781	phosphorylate
+T549	Phosphorylation 18979 18992	phosphorylate
+T550	Phosphorylation 18364 18377	phosphorylate
+T563	Gene_or_gene_product 43794 43797	SH3
+T579	Gene_or_gene_product 45072 45081	IKK-alpha
+T581	Binding 10871 10882	interaction
+T582	Gene_or_gene_product 10891 10895	TAK1
+T583	Gene_or_gene_product 10900 10907	PKCbeta
+T584	Binding 13018 13027	interacts
+T585	Gene_or_gene_product 13013 13017	TAK1
+T586	Gene_or_gene_product 13033 13040	PKCbeta
+T587	Phosphorylation 8845 8864	autophosphorylation
+T588	Gene_or_gene_product 8868 8872	TAK1
+T589	Gene_or_gene_product 37793 37797	TAK1
+T599	Gene_or_gene_product 10307 10310	JNK
+T618	Phosphorylation 24168 24183	phosphorylation
+T619	Gene_or_gene_product 24256 24259	BCR
+T620	Gene_or_gene_product 28100 28103	BCR
+T621	Gene_or_gene_product 21003 21006	BCR
+T622	Phosphorylation 11449 11464	phosphorylation
+T623	Gene_or_gene_product 11470 11473	BCR
+T629	Binding 43770 43781	interaction
+T633	Positive_regulation 16362 16370	mediated
+T634	Gene_or_gene_product 16358 16361	BCR
+T645	Phosphorylation 10311 10326	phosphorylation
+T660	Phosphorylation 21692 21706	phosphorylated
+T697	Gene_or_gene_product 21591 21601	CARMA1 (2)
+T779	Phosphorylation 21576 21590	phosphorylated
+T934	Phosphorylation 45085 45100	phosphorylation
+T975	Phosphorylation 25493 25508	phosphorylation
+E1	Binding:T2 Theme:T3 Theme:T4
+E2	Binding:T5 Theme:T6 Theme:T7
+E3	Binding:T8 Theme:T9 Theme:T10
+E4	Binding:T11 Theme:T12 Theme:T13
+E5	Phosphorylation:T36 Theme:T37 Site:T38
+E6	Phosphorylation:T45 Theme:T46
+E7	Phosphorylation:T190 Theme:T191
+E8	Ubiquitination:T194 Theme:T195 Site:T196
+E9	Phosphorylation:T200 Theme:T201
+E10	Phosphorylation:T205 Theme:T206 Site:T207
+E11	Phosphorylation:T322 Theme:T113
+E12	Phosphorylation:T213 Theme:T214
+E13	Phosphorylation:T36 Theme:T215
+E14	Phosphorylation:T216 Theme:T217
+E15	Phosphorylation:T305 Theme:T68
+E16	Phosphorylation:T306 Theme:T69
+E17	Phosphorylation:T307 Theme:T70
+E18	Phosphorylation:T308 Theme:T77
+E19	Phosphorylation:T309 Theme:T110
+E20	Phosphorylation:T310 Theme:T97
+E21	Phosphorylation:T311 Theme:T127
+E22	Phosphorylation:T312 Theme:T150
+E23	Phosphorylation:T313 Theme:T146
+E24	Phosphorylation:T314 Theme:T78
+E25	Phosphorylation:T315 Theme:T145
+E26	Phosphorylation:T316 Theme:T83
+E27	Phosphorylation:T317 Theme:T84
+E28	Phosphorylation:T318 Theme:T120
+E29	Phosphorylation:T319 Theme:T85
+E30	Phosphorylation:T320 Theme:T103
+E31	Phosphorylation:T321 Theme:T112
+E32	Phosphorylation:T323 Theme:T122
+E33	Phosphorylation:T324 Theme:T100
+E34	Phosphorylation:T325 Theme:T126
+E35	Phosphorylation:T326 Theme:T136
+E36	Phosphorylation:T327 Theme:T107
+E37	Phosphorylation:T328 Theme:T108
+E38	Phosphorylation:T329 Theme:T121
+E39	Phosphorylation:T213 Theme:T124
+E40	Phosphorylation:T330 Theme:T134
+E41	Phosphorylation:T331 Theme:T135
+E42	Phosphorylation:T332 Theme:T147
+E43	Phosphorylation:T352 Theme:T353 Site:T354
+E44	Ubiquitination:T408 Theme:T239
+E45	Phosphorylation:T216 Theme:T383
+E46	Phosphorylation:T486 Theme:T384
+E47	Phosphorylation:T487 Theme:T42
+E48	Phosphorylation:T488 Theme:T389
+E49	Phosphorylation:T489 Theme:T391
+E50	Phosphorylation:T490 Theme:T491
+E51	Phosphorylation:T495 Theme:T181
+E52	Positive_regulation:T507 Controller:T508 Controlled:E29
+E53	Positive_regulation:T509 Controller:T510 Controlled:E41
+E54	Binding:T525 Theme:T109 Theme:T526
+E55	Positive_regulation:T527 Controller:T528 Controlled:E25
+E56	Positive_regulation:T529 Controller:T530 Controlled:E36
+E57	Ubiquitination:T194 Theme:T195
+E58	Ubiquitination:T533 Theme:T534
+E59	Ubiquitination:T535 Theme:T536
+E60	Phosphorylation:T548 Theme:T435
+E61	Phosphorylation:T549 Theme:T462
+E62	Phosphorylation:T550 Theme:T441
+E63	Binding:T581 Theme:T582 Theme:T583
+E64	Binding:T584 Theme:T585 Theme:T586
+E65	Phosphorylation:T587 Theme:T588
+E66	Phosphorylation:T495 Theme:T589
+E67	Phosphorylation:T618 Theme:T619
+E68	Phosphorylation:T310 Theme:T620
+E69	Phosphorylation:T322 Theme:T621
+E70	Phosphorylation:T622 Theme:T623
+E71	Binding:T629 Theme:T563 Theme:T270
+E72	Positive_regulation:T633 Controller:T634 Controlled:E4
+E73	Phosphorylation:T645 Theme:T599
+E74	Phosphorylation:T352 Theme:T405 Site:T354
+E75	Phosphorylation:T660 Theme:T350
+E76	Phosphorylation:T779 Theme:T697
+E77	Phosphorylation:T934 Theme:T579
+E78	Phosphorylation:T975 Theme:T160
+E80	Phosphorylation:T36 Theme:T215 Site:T38
+#5	AnnotatorNotes E9	phosphorylation of TAK1
+T27	Cell-Type 10620 10632	DT40 B cells
+T28	Cell-Type 8542 8549	B cells
+R8	ContextOf Event:E73 Context:T27	
+T29	Cell-Type 10722 10734	DT40 B cells
+R9	ContextOf Event:E63 Context:T29	
+T15	Cell-Type 13181 13188	B cells
+R10	ContextOf Event:E1 Context:T15	
+T30	Cell-Type 13058 13070	DT40 B cells
+R11	ContextOf Event:E64 Context:T30	
+T32	Cell-Type 11701 11713	DT40 B cells
+R13	ContextOf Event:E24 Context:T32	
+T33	Cell-Type 11561 11578	nonlymphoid cells
+R14	ContextOf Event:E70 Context:T33	
+T35	Cell-Type 16108 16134	TAK-deficient DT40 B cells
+R16	ContextOf Event:E21 Context:T35	
+T39	Cell-Type 16435 16465	PKCbeta-deficient DT40 B cells
+R17	ContextOf Event:E4 Context:T39	
+T41	Cell-Type 19641 19653	DT40 B cells
+R19	ContextOf Event:E46 Context:T41	
+R20	ContextOf Event:E7 Context:T41	
+T48	Cell-Type 8163 8175	DT40 B cells
+R5	ContextOf Event:E9 Context:T48	
+T16	Tissue-type 8555 8562	spleens
+T49	Main-Species 8566 8579	C57BL/6J mice
+R7	ContextOf Event:E65 Context:T28	
+R25	ContextOf Event:E65 Context:T16	
+R26	ContextOf Event:E65 Context:T49	
+T1	Cell-Type 973 979	B cell
+R1	ContextOf Event:E17 Context:T1	
+R2	ContextOf Event:E28 Context:T1	
+R27	ContextOf Event:E60 Context:T1	
+T19	Cell-Type 2440 2472	immature and naive B lymphocytes
+T20	Cell-Type 2504 2518	mature B cells
+R28	ContextOf Event:E6 Context:T19	
+R29	ContextOf Event:E6 Context:T20	
+T14	Cell-Type 3955 3962	B cells
+R3	ContextOf Event:E54 Context:T14	
+R30	ContextOf Event:E34 Context:T14	
+T17	Cell-Type 6356 6445	DT40 wild-type (wt), PKCbeta- (PKCbeta-/-), and CARMA1-deficient (CARMA1-/-) DT40 B cells
+R6	ContextOf Event:E50 Context:T17	
+T18	Cell-Type 7733 7740	B cells
+T21	Main-Species 7726 7732	murine
+R15	ContextOf Event:E14 Context:T21	
+R31	ContextOf Event:E45 Context:T21	
+R32	ContextOf Event:E45 Context:T18	
+R33	ContextOf Event:E14 Context:T18	
+T23	Positive_regulation 9924 9957	BCR-mediated NF-kappaB activation
+E79	Positive_regulation:T23 
+T26	Cell-Type 9975 10002	TAK1-deficient DT40 B cells
+R34	ContextOf Event:T26 Context:E79	
+T22	Cell-Type 11760 11780	TAK1-deficient cells
+R4	ContextOf Event:E24 Context:T22	
+T50	Phosphorylation 11593 11625	CARMA1 underwent phosphorylation
+E81	Phosphorylation:T50 
+R35	ContextOf Event:E81 Context:T32	
+T31	Cell-Type 12175 12205	wild-type or TAK-/- DT40 cells
+R12	ContextOf Event:E22 Context:T31	
+R36	ContextOf Event:E3 Context:T15	
+T51	Cell-Type 13249 13286	primary B cells after BCR stimulation
+R37	ContextOf Event:E1 Context:T51	
+R38	ContextOf Event:E40 Context:T15	
+R39	ContextOf Event:E21 Context:T15	
+T52	Cell-Type 16666 16710	wild-type and PKCbeta-deficient DT40 B cells
+T53	Binding 16736 16778	association of CARMA1 with Bcl10 and MALT1
+E82	Binding:T53 
+R40	ContextOf Event:E82 Context:T52	
+R41	ContextOf Event:E19 Context:T52	
+R42	ContextOf Event:E38 Context:T52	
+R43	ContextOf Event:E26 Context:T39	
+T40	Cell-Type 17148 17182	wild-type or PKCbeta-/- DT40 cells
+R18	ContextOf Event:E42 Context:T40	
+T54	Binding 17054 17110	Interaction of TAK1 with CARMA1 is dependent on PKCbeta.
+E83	Binding:T54 
+R44	ContextOf Event:E83 Context:T40	
+T55	Binding 17257 17291	For association of TAK1 and CARMA1
+E84	Binding:T55 
+T56	Cell-Type 17320 17348	PKCbeta-deficient DT40 cells
+R45	ContextOf Event:E84 Context:T56	
+T57	Binding 17508 17549	interaction of CARMA1 with Bcl10 or MALT1
+E85	Binding:T57 
+T58	Cell-Type 17553 17569	PKCbeta-/- cells
+R46	ContextOf Event:E85 Context:T58	
+R47	ContextOf Event:E18 Context:T40	
+R48	ContextOf Event:E10 Context:T40	
+R49	ContextOf Event:E62 Context:T41	
+R50	ContextOf Event:E31 Context:T41	
+R51	ContextOf Event:E61 Context:T41	
+R52	ContextOf Event:E46 Context:T41	
+T59	Positive_regulation 21075 21150	PDK1 might facilitate the functional interaction between PKCbeta and CARMA1
+E86	Positive_regulation:T59 
+T60	Cell-Type 21154 21161	B cells
+R54	ContextOf Event:E86 Context:T60	
+R21	ContextOf Event:E36 Context:T60	
+R22	ContextOf Event:E11 Context:T60	
+T43	Cell-Type 22124 22166	wild-type and PKCbeta-deficient DT40 cells
+R23	ContextOf Event:E27 Context:T43	
+R53	ContextOf Event:E33 Context:T43	
+R55	ContextOf Event:E76 Context:T43	
+R56	ContextOf Event:E43 Context:T43	
+R57	ContextOf Event:E37 Context:T43	
+T44	Cell-Type 22412 22437	TAK1-deficient DT40 cells
+R24	ContextOf Event:E25 Context:T44	
+R58	ContextOf Event:E16 Context:T44	
+T47	Cell-Type 26513 26533	wild-type DT40 cells
+R59	ContextOf Event:E41 Context:T47	
+T61	Cell-Type 27971 27981	DT40 cells
+R60	ContextOf Event:E20 Context:T61	
+R61	ContextOf Event:E49 Context:T47	

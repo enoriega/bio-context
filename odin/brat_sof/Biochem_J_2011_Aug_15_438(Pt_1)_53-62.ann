@@ -1,0 +1,108 @@
+T1	Gene_or_gene_product 33445 33448	Akt
+T2	Simple_chemical 16951 16954	PDB
+T3	Gene_or_gene_product 16923 16932	p110alpha
+T4	Simple_chemical 16933 16936	ATP
+T5	Gene_or_gene_product 35716 35723	IC87114
+T6	Gene_or_gene_product 35786 35789	Akt
+T7	Gene_or_gene_product 35704 35711	TGX-221
+T8	Gene_or_gene_product 23216 23219	Akt
+T9	Site 23250 23252	S4
+T10	Simple_chemical 17322 17330	nitrogen
+T11	Simple_chemical 17289 17297	hydrogen
+T12	Gene_or_gene_product 24130 24133	Akt
+T13	Site 24120 24126	Ser473
+T14	Gene_or_gene_product 21035 21044	p110delta
+T15	Gene_or_gene_product 20997 21006	p110alpha
+T16	Site 21121 21127	Gln859
+T17	Gene_or_gene_product 28067 28070	Akt
+T18	Site 28083 28085	S6
+T19	Gene_or_gene_product 28079 28082	p70
+T20	Gene_or_gene_product 21021 21030	p110gamma
+T21	Gene_or_gene_product 17427 17433	PIK-93
+T22	Gene_or_gene_product 17443 17452	p110gamma
+T23	Gene_or_gene_product 33965 33968	Akt
+T24	Gene_or_gene_product 34730 34733	PKB
+T25	Phosphorylation 33426 33441	phosphorylation
+T26	Binding 16875 16882	binding
+T27	Positive_activation 35724 35730	induce
+T28	Phosphorylation 23197 23212	phosphorylation
+T29	Binding 17271 17279	interact
+T30	Phosphorylation 24090 24105	phosphorylation
+T31	Binding 20970 20977	binding
+T32	Phosphorylation 28048 28063	phosphorylation
+T33	Binding 17434 17439	bound
+T34	Phosphorylation 33946 33961	phosphorylation
+T35	Phosphorylation 34734 34749	phosphorylation
+E1	Phosphorylation:T25 theme:T1
+E2	Binding:T26 theme:T2 theme:T3
+E3	Binding:T26 theme:T2 theme:T4
+E4	Binding:T26 theme:T3 theme:T4
+E5	Positive_activation:T27 controller:T5 controlled:T6
+E6	Positive_activation:T27 controller:T7 controlled:T6
+E7	Phosphorylation:T28 theme:T8 site:T9
+E8	Binding:T29 theme:T10 theme:T11
+E9	Phosphorylation:T30 theme:T12 site:T13
+E10	Binding:T31 theme:T14 theme:T15 site:T16
+E11	Phosphorylation:T32 theme:T17 site:T18
+E12	Phosphorylation:T32 theme:T19
+E13	Binding:T31 theme:T14 theme:T20
+E14	Binding:T31 theme:T20 theme:T15
+E15	Binding:T33 theme:T21 theme:T22
+E16	Phosphorylation:T28 theme:T8
+E17	Phosphorylation:T34 theme:T23
+E18	Phosphorylation:T35 theme:T24
+E19	Phosphorylation:T32 theme:T17
+#1	FoundByRule T1	ner-gene_or_gene_product-entities
+#2	FoundByRule T2	ner-simple_chemical-entities
+#3	FoundByRule T3	ner-gene_or_gene_product-entities
+#4	FoundByRule T4	ner-simple_chemical-entities
+#5	FoundByRule T5	ner-gene_or_gene_product-entities
+#6	FoundByRule T6	ner-gene_or_gene_product-entities
+#7	FoundByRule T7	ner-gene_or_gene_product-entities
+#8	FoundByRule T8	ner-gene_or_gene_product-entities
+#9	FoundByRule T9	site_1letter
+#10	FoundByRule T10	ner-simple_chemical-entities
+#11	FoundByRule T11	ner-simple_chemical-entities
+#12	FoundByRule T12	ner-gene_or_gene_product-entities
+#13	FoundByRule T13	site_3letter
+#14	FoundByRule T14	ner-gene_or_gene_product-entities
+#15	FoundByRule T15	ner-gene_or_gene_product-entities
+#16	FoundByRule T16	site_3letter
+#17	FoundByRule T17	ner-gene_or_gene_product-entities
+#18	FoundByRule T18	site_1letter
+#19	FoundByRule T19	ner-gene_or_gene_product-entities
+#20	FoundByRule T20	ner-gene_or_gene_product-entities
+#21	FoundByRule T21	ner-gene_or_gene_product-entities
+#22	FoundByRule T22	ner-gene_or_gene_product-entities
+#23	FoundByRule T23	ner-gene_or_gene_product-entities
+#24	FoundByRule T24	ner-gene_or_gene_product-entities
+#25	FoundByRule E1	Phosphorylation_syntax_1_noun
+#26	FoundByRule E2	binding4
+#27	FoundByRule E3	binding4
+#28	FoundByRule E4	binding4
+#29	FoundByRule E5	activates_syntax1
+#30	FoundByRule E6	activates_syntax1
+#31	FoundByRule E7	Phosphorylation_syntax_1_noun
+#32	FoundByRule E8	binding13
+#33	FoundByRule E9	Phosphorylation_token_1_noun
+#34	FoundByRule E10	binding5
+#35	FoundByRule E11	Phosphorylation_syntax_1_noun
+#36	FoundByRule E12	Phosphorylation_token_2_noun
+#37	FoundByRule E13	binding5
+#38	FoundByRule E14	binding5
+#39	FoundByRule E15	binding_token_3
+#40	FoundByRule E16	Phosphorylation_token_1_noun
+#41	FoundByRule E17	Phosphorylation_syntax_1_noun
+#42	FoundByRule E18	Phosphorylation_syntax_4_noun
+#43	FoundByRule E19	Phosphorylation_token_1_noun
+T36	Main-Species 14050 14054	mice
+T37	Main-Species 27446 27450	mice
+R1	ContextOf Event:E12 Context:T37	
+R2	ContextOf Event:E11 Context:T37	
+R3	ContextOf Event:E19 Context:T37	
+T38	Cell-Line 34079 34089	MCF7 cells
+R4	ContextOf Event:E17 Context:T38	
+R5	ContextOf Event:E1 Context:T38	
+T39	Cell-Line 36025 36040	PTEN-null cells
+T40	Cell-Line 34753 34773	PTEN-deficient cells
+R6	ContextOf Event:E18 Context:T40	
