@@ -1,0 +1,385 @@
+Paper ID	Is title?	Section ID	Passage ID	Line Num	Text
+PMC1702562	true	article-title	0	0	The RNA Binding Protein KSRP Promotes Decay of beta-Catenin mRNA and Is Inactivated by PI3K-AKT Signaling
+PMC1702562	false	abstract	1	1	beta-catenin plays an essential role in several biological events including cell fate determination , cell proliferation , and transformation .
+PMC1702562	false	abstract	1	2	Here we report that beta-catenin is encoded by a labile transcript whose half-life is prolonged by Wnt and phosphatidylinositol 3-kinase-AKT signaling .
+PMC1702562	false	abstract	1	3	AKT phosphorylates the mRNA decay promoting factor KSRP at a unique serine residue , induces its association with the multifunctional protein 14-3-3 , and prevents KSRP interaction with the exoribonucleolytic complex exosome .
+PMC1702562	false	abstract	1	4	This impairs KSRP 's ability to promote rapid mRNA decay .
+PMC1702562	false	abstract	1	5	Our results uncover an unanticipated level of control of beta-catenin expression pointing to KSRP as a required factor to ensure rapid degradation of beta-catenin in unstimulated cells .
+PMC1702562	false	abstract	1	6	We propose KSRP phosphorylation as a link between phosphatidylinositol 3-kinase-AKT signaling and beta-catenin accumulation .
+PMC1702562	false	abstract	2	7	Author Summary During mammalian development and adulthood , beta-catenin regulates the transcription of a family of genes with multiple essential roles in cell proliferation and differentiation .
+PMC1702562	false	abstract	2	8	beta-catenin also plays a role in cancer when it carries mutations that result in uncontrolled beta-catenin function .
+PMC1702562	false	abstract	2	9	Here , we report that the lifetime of the beta-catenin-encoding transcript is under regulatory control .
+PMC1702562	false	abstract	2	10	We show that specific cellular signals relevant to proper mammalian development and implicated in tumor formation can prolong beta-catenin transcript half-life , leading to the accumulation of beta-catenin protein .
+PMC1702562	false	abstract	2	11	We identify a molecular mechanism for this prolongation by showing that a protein factor responsible for beta-catenin transcript instability ( and thus degradation ) is impaired by phosphorylation , a chemical modification .
+PMC1702562	false	abstract	2	12	When this factor is impaired , beta-catenin mRNA and protein accumulate .
+PMC1702562	false	abstract	2	13	Our results point to an unanticipated control of beta-catenin levels through regulation of its transcript half-life in response to signals related to proliferation and differentiation .
+PMC1702562	false	abstract	3	14	The authors show that the half-life of beta-catenin mRNA is prolonged by PI3K-AKT signaling , revealing a new level of control on beta-catenin .
+PMC1702562	false	s1	4	15	The half-life ( t ( 1 and 2 ) ) of mRNAs is regulated in a complex fashion in response to external stimuli .
+PMC1702562	false	s1	4	16	Whereas transcripts containing the AU rich element ( ARE ) are labile , activation of signal transduction pathways induces their stabilization    .
+PMC1702562	false	s1	4	17	It is now clear that mRNA decay regulation by different signals makes a huge contribution to the global control of gene expression    .
+PMC1702562	false	s1	4	18	AREs , located in the 3 ' untranslated region ( 3 ' UTR ) of many short lived transcripts , promote mRNA deadenylation and decapping followed by degradation of the mRNA body      .
+PMC1702562	false	s1	4	19	Mammalian ARE containing transcripts are thought to be deadenylated by at least one of the seven known deadenylases and degraded mainly by the exosome , a multiprotein complex containing 3 ' -5 ' exonucleases      .
+PMC1702562	false	s1	4	20	A relevant role in mRNA decay has been recently demonstrated for the 5 ' -3 ' exonuclease Xrn1    .
+PMC1702562	false	s1	4	21	ARE binding proteins ( ARE-BPs ) are trans-acting factors responsible for the decay control of labile mRNAs    .
+PMC1702562	false	s1	4	22	Some ARE-BPs are decay promoting factors ( TTP , BRF1 , KSRP ) , and others , such as HuR , are stabilizing factors , whereas AUF1 promotes either decay or stabilization depending on the cellular context or its isoform expression profile    .
+PMC1702562	false	s1	4	23	According to the recently proposed recruitment model , destabilizing ARE-BPs interact with AREs and recruit the degradation machinery to the mRNA      .
+PMC1702562	false	s1	4	24	The ARE-BP KSRP , containing four contiguous K homology ( KH ) motifs that recognize the AREs and interact with the mRNA degradation machinery , promotes rapid decay of several ARE containing mRNAs both in vitro and in vivo      .
+PMC1702562	false	s1	5	25	Activation of the stress responsive c-Jun N-terminal kinase    , p38 MAP kinase      , MAPKAPK2        , phosphatidylinositol 3-kinase ( PI3K ) - AKT        , and Wnt and beta-catenin signaling      was shown to trigger stabilization of various transcripts , thereby causing large alterations in their abundance .
+PMC1702562	false	s1	5	26	We have previously shown that activation of the Wnt signaling pathway in pituitary alphaT3-1 cells induces a coordinate transcriptional and post-transcriptional regulation of select target genes        .
+PMC1702562	false	s1	5	27	We proposed that the integrated regulation of transcription and mRNA turnover is required to ensure rapid and relevant changes in the expression of regulatory genes       .
+PMC1702562	false	s1	6	28	Recently , we observed that a common set of transcripts is stabilized by either treatment with lithium chloride ( LiCl ) , a mimicker of Wnt signaling     , or AKT activation in pituitary alphaT3-1 cells ( unpublished data ) .
+PMC1702562	false	s1	6	29	Among these transcripts , we found beta-catenin .
+PMC1702562	false	s1	6	30	beta-catenin plays a key role in embryonic development and tumorigenesis by controlling the expression of Wnt responsive genes        .
+PMC1702562	false	s1	6	31	In response to Wnt signals , Dishevelled is recruited to the Axin complex to inhibit glycogen synthase kinase-3beta , resulting in cytosolic accumulation and subsequent translocation of beta-catenin to the nucleus , where it binds to transcription factors of the T-cell factor and lymphoid enhancer factor family and transactivates Wnt target genes        .
+PMC1702562	false	s1	6	32	Serine and threonine kinases belonging to the AKT family are major effectors of the PI3K pathway and are activated by insulin and other polypeptide growth factors        .
+PMC1702562	false	s1	6	33	The recruitment of AKT to the plasma membrane by the lipid products of PI3K leads to AKT phosphorylation and activation        .
+PMC1702562	false	s1	6	34	Once activated , AKT exerts a central role in metabolism , cell survival , motility , transcription , and cell-cycle progression        .
+PMC1702562	false	s1	6	35	Cross-talks between Wnt and PI3K-AKT signaling pathways have been described        .
+PMC1702562	false	s1	7	36	In this report , we describe that beta-catenin mRNA is labile due to destabilizing elements located in its 3 ' UTR and that KSRP is a major molecular determinant of beta-catenin mRNA instability .
+PMC1702562	false	s1	7	37	beta-catenin transcript can be stabilized by either Wnt or PI3K-AKT signaling activation .
+PMC1702562	false	s1	7	38	AKT phosphorylates KSRP at a unique serine residue favoring its interaction with the adaptor protein 14-3-3 .
+PMC1702562	false	s1	7	39	As a consequence , KSRP fails to interact with the exosome and , in turn , beta-catenin mRNA is stabilized .
+PMC1702562	true	s2a	8	40	beta-Catenin Is Encoded by a Labile mRNA Whose Half-Life Is Prolonged by Wnt Signaling
+PMC1702562	false	s2a	9	41	We previously reported that the treatment of mouse pituitary alphaT3-1 cells with LiCl ( a compound widely used to mimic Wnt signaling     ) stabilizes select ARE containing labile transcripts     .
+PMC1702562	false	s2a	9	42	To identify additional ARE containing transcripts whose mRNA t ( 1 and 2 ) is prolonged in alphaT3-1 cells in response to LiCl treatment , a large-scale analysis using the ARE-cDNA microarray system was performed     .
+PMC1702562	false	s2a	9	43	The microarray screening revealed that LiCl treatment significantly upregulated , among others , beta-catenin mRNA ( unpublished data ) .
+PMC1702562	false	s2a	9	44	By both semiquantitative and quantitative RT-PCR , we confirmed that beta-catenin mRNA increased by approximately fourfold in cells treated with LiCl                                 .
+PMC1702562	false	s2a	9	45	The inspection of mouse beta-catenin 3 ' UTR revealed the presence of several U rich regions spread over the entire sequence ( classified as class III AREs [ 28 and references cited therein ] ) .
+PMC1702562	false	s2a	9	46	As shown in         B , quantitative PCR experiments demonstrated that beta-catenin mRNA was unstable in intact alphaT3-1 cells displaying a t ( 1 and 2 ) of approximately 45 min , whereas the control beta2-microglobulin ( beta2-MG ) was stable .
+PMC1702562	false	s2a	9	47	In order to verify whether beta-catenin AREs were responsible for the rapid decay of the endogenous transcript , we transfected alphaT3-1 cells with a reporter plasmid containing the entire beta-catenin 3 ' UTR placed at the 3 ' end of chloramphenicol acetyltransferase ( CAT ) sequence .
+PMC1702562	false	s2a	9	48	As shown in         C , CAT-beta-catenin chimeric transcript displayed a short t ( 1 and 2 ) while control CAT mRNA was stable .
+PMC1702562	false	s2a	10	49	Next , we investigated whether Wnt signaling activation regulates beta-catenin mRNA turnover in intact cells .
+PMC1702562	false	s2a	10	50	As shown in         D , LiCl treatment significantly prolonged the t ( 1 and 2 ) of beta-catenin mRNA while the t ( 1 and 2 ) of beta2-MG was unaffected .
+PMC1702562	false	s2a	10	51	Furthermore , treatment of alphaT3-1 cells with recombinant mouse Wnt-3A increased beta-catenin mRNA steady-state levels            .
+PMC1702562	false	s2a	10	52	Importantly , Wnt-3A treatment strongly prolonged beta-catenin t ( 1 and 2 ) in intact cells            .
+PMC1702562	false	s2a	11	53	These results suggest that beta-catenin mRNA is labile in unstimulated cells due to the presence of AREs in its 3 ' UTR .
+PMC1702562	false	s2a	11	54	Wnt signaling activation stabilizes beta-catenin mRNA and induces its accumulation .
+PMC1702562	true	s2b	12	55	PI3K-AKT Activation Stabilizes beta-Catenin mRNA and Increases Both mRNA and Protein Steady-State Levels
+PMC1702562	false	s2b	13	56	As previously reported , besides mimicking the activation of the canonical Wnt pathway , LiCl also targets PI3K-AKT signaling        .
+PMC1702562	false	s2b	13	57	Furthermore , the results of our ARE-cDNA microarray screening revealed that LiCl treatment and AKT activation , obtained expressing a constitutively active myristylated form of AKT1 ( myrAKT1     ) , induced stabilization of a common set of mRNAs including beta-catenin ( unpublished data ) .
+PMC1702562	false	s2b	13	58	These observations prompted us to investigate the effect of PI3K-AKT activation on beta-catenin mRNA turnover .
+PMC1702562	false	s2b	13	59	First , we assessed the contribution given by PI3K-AKT pathway to LiCl induced beta-catenin mRNA stabilization .
+PMC1702562	false	s2b	13	60	We used both pharmacological inhibitors and an AKT dominant negative mutant [ AKT1 ( K179M ) ] to block PI3K-AKT signaling .
+PMC1702562	false	s2b	13	61	We found that treatment with either LY294002 ( LY , a PI3K inhibitor     ) or triciribine ( a specific AKT inhibitor     ) strongly reduced LiCl induced stabilization of beta-catenin mRNA in intact alphaT3-1 cells                   .
+PMC1702562	false	s2b	13	62	Similarly , AKT1 ( K179M ) expression impaired LiCl induced stabilization of beta-catenin mRNA in vitro            .
+PMC1702562	false	s2b	14	63	Next , we expressed myrAKT1 in alphaT3-1 cells .
+PMC1702562	false	s2b	14	64	As shown in         D , the kinase activity immunoprecipitated with anti-AKT antibody was fivefold higher in alphaT3-1-myrAKT1 than in mock alphaT3-1 cells , thus demonstrating that active AKT kinase was present in extracts from cells expressing myrAKT1 .
+PMC1702562	false	s2b	14	65	The steady-state levels of beta-catenin mRNA were increased and beta-catenin mRNA t ( 1 and 2 ) was prolonged in alphaT3-1-myrAKT1 cells                   .
+PMC1702562	false	s2b	14	66	myrAKT1 expression produced a similar stabilization of beta-catenin mRNA in murine C2C12 myoblasts ( C2C12-myrAKT1 ,           .
+PMC1702562	false	s2b	14	67	Importantly , we observed a strong increase of beta-catenin protein levels in both nuclear and cytosolic compartments of alphaT3-1-myrAKT1 and C2C12-myrAKT1 cells compared with control cells                                 .
+PMC1702562	false	s2b	15	68	These results suggest that PI3K-AKT activation stabilizes beta-catenin mRNA , leading to mRNA and protein accumulation .
+PMC1702562	true	s2c	16	69	Insulin Induced PI3K-AKT Activation Stabilizes beta-Catenin mRNA and Increases Both mRNA and Protein Steady-State Levels
+PMC1702562	false	s2c	17	70	In order to verify whether insulin induced AKT activation affects beta-catenin mRNA stabilization , we used insulin receptor overexpressing HIRc-B rat cells , which display strong responses to insulin        .
+PMC1702562	false	s2c	17	71	Indeed , the kinase activity immunoprecipitated with anti-AKT antibody was approximately sixfold higher in insulin treated than in control HIRc-B cells , and LY treatment strongly reduced insulin dependent AKT activation            .
+PMC1702562	false	s2c	17	72	B shows that insulin increased beta-catenin mRNA steady-state levels and that LY treatment almost completely blocked insulin effect .
+PMC1702562	false	s2c	17	73	beta-catenin mRNA was significantly stabilized by insulin in intact HIRc-B cells , and LY treatment strongly decreased insulin induced beta-catenin mRNA stabilization            .
+PMC1702562	false	s2c	17	74	Accordingly , insulin induced beta-catenin protein accumulation in both cytosolic and nuclear fractions from HIRc-B cells            .
+PMC1702562	false	s2c	17	75	To investigate whether insulin affects beta-catenin protein degradation rate , we treated HIRc-B cells with cycloheximide , to inhibit translational elongation , and monitored beta-catenin levels in total extracts after different intervals of time .
+PMC1702562	false	s2c	17	76	As shown in         E , insulin did not affect the rate of beta-catenin protein decay .
+PMC1702562	false	s2c	18	77	In conclusion , a physiological activation of PI3K-AKT signaling causes stabilization of beta-catenin transcript and increases steady-state levels of both beta-catenin mRNA and protein .
+PMC1702562	true	s2d	19	78	The mRNA Destabilizing Factor KSRP Is Phosphorylated by AKT
+PMC1702562	false	s2d	20	79	We hypothesized that AKT activation stabilizes beta-catenin transcript by targeting the mRNA decay machinery .
+PMC1702562	false	s2d	20	80	Among ARE-BPs known to affect mRNA turnover , only KSRP     and HuR      were able to specifically immunoprecipitate beta-catenin mRNA in RNA immunoprecipitation experiments            .
+PMC1702562	false	s2d	20	81	We first investigated whether AKT was able to phosphorylate either KSRP or HuR .
+PMC1702562	false	s2d	20	82	KSRP was phosphorylated by recombinant purified AKT2 in vitro , whereas HuR was not phosphorylated            .
+PMC1702562	false	s2d	20	83	In silico analysis ( Motif Scan , http://scansite.mit.edu/motifscan_seq.phtml ) of the human KSRP primary sequence performed at medium stringency indicated serine 193 ( bold in the following peptide : GLPERSVSLTGAPES ) as a potential AKT phosphorylation site ( asterisk in         C , left ) .
+PMC1702562	false	s2d	20	84	We evaluated the ability of AKT2 to phosphorylate KSRP deletion mutants expressed as GST-fusion proteins            .
+PMC1702562	false	s2d	20	85	Only the KSRP fragments including KH1 , where S193 is located , were phosphorylated by AKT2 in a concentration dependent manner                                                        .
+PMC1702562	false	s2d	20	86	Importantly , myrAKT1 expression enhanced the phosphorylation of coexpressed FLAG-KSRP while not affecting FLAG-KSRP ( S193A ) mutant , as shown by anti-FLAG immunoprecipitation following [ 32P ] orthophosphate metabolic labeling of intact HeLa cells            .
+PMC1702562	false	s2d	20	87	In order to unambiguously identify the KSRP residue ( s ) phosphorylated by AKT , recombinant human KSRP was phosphorylated by AKT2 in vitro , the gel band was digested with trypsin and enriched for phosphopeptides , and the peptides were analyzed by nanoflow liquid chromatography-tandem mass spectrometry ( LC-MS and MS ) .
+PMC1702562	false	s2d	20	88	This led to the identification of the unique peptide SV [ pS ] LTGAPESVQK with phosphorylation at the second serine residue ( S193 )            .
+PMC1702562	false	s2d	20	89	The entire sequence of the phosphorylated peptide is perfectly conserved in several mammalian species ( Mus musculus , Rattus norvegicus , Canis familiaris , and Bos taurus ) , and the phosphorylated serine is conserved , in a corresponding position , also in nonmammalian species ( Gallus gallus , Xenopus laevis , and Danio rerio ) ( unpublished data ) .
+PMC1702562	false	s2d	20	90	S193 was mutated to alanine in KH1-4 and KH1-2 , and the mutant proteins were expressed in bacteria .
+PMC1702562	false	s2d	20	91	As shown in         F , the S193A mutation abolished AKT dependent phosphorylation in vitro .
+PMC1702562	false	s2d	21	92	Overall , these data suggest that AKT phosphorylates human KSRP at the unique site S193 .
+PMC1702562	true	s2e	22	93	KSRP Controls beta-Catenin mRNA Turnover in alphaT3-1 Cells
+PMC1702562	false	s2e	23	94	The results presented above indicated that KSRP was phosphorylated by AKT and led us to hypothesize that KSRP could be involved in AKT induced stabilization of beta-catenin mRNA .
+PMC1702562	false	s2e	23	95	We and others demonstrated that KSRP regulates the stability of select mRNAs in response to different stimuli       .
+PMC1702562	false	s2e	23	96	Thus , we investigated whether KSRP controls the decay rate of beta-catenin mRNA .
+PMC1702562	false	s2e	23	97	Stable knock-down of KSRP obtained using shRNA in alphaT3-1 cells ( alphaT3-1-shKSRP ,         A ) led to a more than fourfold increase of the steady-state levels of beta-catenin mRNA when compared to mock transfected cells            .
+PMC1702562	false	s2e	23	98	Furthermore , beta-catenin mRNA was stable in alphaT3-1-shKSRP in vivo             and in vitro             .
+PMC1702562	false	s2e	23	99	Conversely , KSRP overexpression in alphaT3-1 cells blocked the LiCl induced stabilization of beta-catenin mRNA             .
+PMC1702562	false	s2e	23	100	Importantly , beta-catenin protein levels were approximately fourfold higher in alphaT3-1-shKSRP than in control cells , although beta-catenin protein decay rates were unchanged                   .
+PMC1702562	false	s2e	23	101	The increase in beta-catenin expression was mirrored by an increase in luciferase activity driven by two beta-catenin-responsive reporters , TOP-FLASH and mouse c-myc promoter region            .
+PMC1702562	false	s2e	24	102	We ruled out the possibility that AKT activation could change KSRP expression levels affecting its protein stability .
+PMC1702562	false	s2e	24	103	As shown in          , expression of myrAKT1 in alphaT3-1 cells did not affect either KSRP steady-state levels              or protein stability
+PMC1702562	false	s2e	25	104	Altogether , these results indicate that KSRP is crucial in controlling beta-catenin mRNA decay and , in turn , beta-catenin expression .
+PMC1702562	true	s2f	26	105	14-3-3 Interacts with Phosphorylated KSRP and Affects Its Decay Promoting Activity
+PMC1702562	false	s2f	27	106	To investigate the functional consequences of KSRP phosphorylation by AKT , we performed in vitro reconstitution experiments .
+PMC1702562	false	s2f	27	107	Either nonphosphorylated or AKT2 phosphorylated KSRP was added to S100 extracts from alphaT3-1-shKSRP in typical in vitro degradation assays .
+PMC1702562	false	s2f	27	108	As presented in         , KSRP promoted rapid decay of beta-catenin mRNA , whereas AKT2 phosphorylated KSRP lacked its decay promoting ability            .
+PMC1702562	false	s2f	27	109	Similar results were obtained using KH1-4 as a GST fusion instead of the Baculovirus expressed KSRP            .
+PMC1702562	false	s2f	27	110	As predictable on the basis of the results shown in         F , the incubation of the mutant KH1 4 ( S193A ) with AKT2 did not affect its beta-catenin RNA decay promoting activity                         .
+PMC1702562	false	s2f	28	111	The sequence of the peptide including S193 closely resembles the phosphoserine containing motif that is recognized by members of the 14-3-3 protein family     .
+PMC1702562	false	s2f	28	112	Indeed , in a yeast two-hybrid screening performed in order to identify molecular partners of KSRP , we found , among others , the cDNA encoding 14-3-3zeta ( unpublished data ) .
+PMC1702562	false	s2f	28	113	To investigate whether phosphorylation by AKT favors the interaction of KSRP with 14-3-3 , we cotransfected either myrAKT1 or the empty vector ( mock ) together with FLAG-KSRP     in 293T cells .
+PMC1702562	false	s2f	28	114	The kinase activity immunoprecipitated by anti-AKT antibody was higher in myrAKT-293T than in mock 293T cells ( unpublished data ) .
+PMC1702562	false	s2f	28	115	Endogenous 14-3-3 coimmunoprecipitated with FLAG-KSRP only in cells transfected with myrAKT1            .
+PMC1702562	false	s2f	28	116	Accordingly , GST-KH1-4 pulled down endogenous 14-3-3 present in extracts from alphaT3-1 cells stably expressing myrAKT1 but not from mock alphaT3-1 cells            .
+PMC1702562	false	s2f	28	117	As predictable on the basis of the position of the unique AKT phosphorylation site ( S193 ) , only GST-KSRP fusion proteins containing the KH1 interacted with 14-3-3                                .
+PMC1702562	false	s2f	28	118	We examined whether phosphorylated S193 is required for KSRP interaction with 14-3-3 .
+PMC1702562	false	s2f	28	119	Coimmunoprecipitation experiments showed that wild-type KSRP interacted with 14-3-3 when coexpressed with myrAKT1 in 293T cells , whereas KSRP ( S193A ) did not            .
+PMC1702562	false	s2f	28	120	Accordingly , the S193A mutant KH1 4 [ GST-KH1-4 ( S193A ) ] failed to interact with 14-3-3 in pull-down experiments ( unpublished data ) .
+PMC1702562	false	s2f	28	121	To inhibit the interaction between AKT phosphorylated KSRP and 14-3-3 , we used the synthetic peptide difopein , which binds to 14-3-3 proteins with high affinity and competitively inhibits 14-3-3-ligand interaction     .
+PMC1702562	false	s2f	28	122	AKT2 phosphorylated KSRP was preincubated with either a scrambled peptide ( control ) or difopein , as indicated , before incubation with S100 extracts from alphaT3-1-shKSRP cells and used in in vitro RNA degradation experiments .
+PMC1702562	false	s2f	28	123	Data presented in         E indicate that preincubation with difopein restored the decay promoting activity of KH1-4 , preventing the interaction of phosphorylated KH1-4 protein with 14-3-3            .
+PMC1702562	false	s2f	29	124	Altogether , our results indicate that AKT phosphorylated KSRP interacts with 14-3-3 and that this interaction impairs the decay promoting activity of KSRP in vitro .
+PMC1702562	true	s2g	30	125	AKT Activation Impairs the Interaction of KSRP with the Exosome
+PMC1702562	false	s2g	31	126	We investigated whether the impairment of the mRNA decay promoting activity of KSRP upon phosphorylation by AKT2 ( see         A ) was due to either reduced RNA binding or reduced interaction with the decay machinery .
+PMC1702562	false	s2g	31	127	In vitro phosphorylation by AKT2 did not affect the beta-catenin mRNA binding activity of KSRP either in the absence or in the presence of recombinant 14-3-3zeta                   .
+PMC1702562	false	s2g	32	128	Coimmunoprecipitation experiments performed in 293T cells showed that expression of myrAKT1 impaired the interaction of KSRP with core exosome components including hRrp4p and hRrp41 and with the exosome associated factor hMtr4p                                      , whereas it did not affect the interaction with the deadenylase PARN .
+PMC1702562	false	s2g	32	129	Similarly , in GST pull-down experiments , GST-KH1-4 interacted with hRrp4p and hMtr4p present in alphaT3-1 total extracts , whereas GST-KH1-4 phosphorylated in vitro by AKT2 failed to interact            .
+PMC1702562	false	s2g	32	130	Difopein , competing the interaction between GST-KH1-4 and 14-3-3 ( see         F ) , restored the ability of GST-KH1-4 to pull-down hRrp4p and hMtr4p            .
+PMC1702562	false	s2g	33	131	The evidence that myrAKT1 expression does not affect the interaction of KSRP with PARN prompted us to investigate whether beta-catenin mRNA deadenylation was affected by myrAKT1 expression in alphaT3-1 cells .
+PMC1702562	false	s2g	33	132	As shown in in vitro degradation experiments presented in         F , deadenylated beta-catenin mRNA accumulated in alphaT3-1-myrAKT1 cells .
+PMC1702562	false	s2g	34	133	Our results suggest that phosphorylation by AKT and interaction with 14-3-3 affect the ability of KSRP to interact with the exosome .
+PMC1702562	false	s3	35	134	Here we report that beta-catenin is encoded by a labile transcript whose t ( 1 and 2 ) is prolonged by Wnt and PI3K-AKT signaling .
+PMC1702562	false	s3	35	135	The mRNA decay promoting factor KSRP is required to ensure rapid degradation of beta-catenin transcript in unstimulated cells .
+PMC1702562	false	s3	35	136	AKT phosphorylates KSRP at a unique serine residue , creating a functional binding site for the molecular chaperone 14-3-3 .
+PMC1702562	false	s3	35	137	As a consequence , AKT activation impairs KSRP ability to interact with the exoribonucleolytic complex exosome and , in turn , to promote rapid mRNA decay .
+PMC1702562	true	s3a	36	138	beta-Catenin mRNA Is Labile and Its Degradation Rate Is Controlled by the ARE-BP KSRP
+PMC1702562	false	s3a	37	139	With its involvement in the Wnt signal transduction pathway and tumorigenesis , beta-catenin is an extensively studied protein .
+PMC1702562	false	s3a	37	140	However , the vast majority of studies focused on the control of beta-catenin protein degradation upon its signal induced phosphorylation        .
+PMC1702562	false	s3a	37	141	Lopez de Silanes et al. .
+PMC1702562	false	s3a	37	142	identified beta-catenin mRNA as a target of the ARE-BP HuR in colon cancer cells , leading to the hypothesis that beta-catenin is encoded by a labile mRNA .
+PMC1702562	false	s3a	37	143	Our results demonstrate that beta-catenin mRNA is labile in unstimulated cells and point to an unanticipated mechanism by which beta-catenin expression can be regulated at the level of its mRNA turnover by PI3K-AKT activation .
+PMC1702562	false	s3a	37	144	Knock-down experiments demonstrate that KSRP controls the t ( 1 and 2 ) and the steady-state levels of beta-catenin mRNA , thus increasing beta-catenin protein levels and enhancing the beta-catenin-dependent TOP-FLASH- and c-myc promoter dependent reporter transcription .
+PMC1702562	false	s3a	37	145	Notably , KSRP knock-down did not affect beta-catenin protein degradation rate .
+PMC1702562	false	s3a	37	146	While this manuscript was in preparation , a report from Thiele et al. .
+PMC1702562	false	s3a	37	147	described the presence of alternative splicing in the 3 ' UTR of human beta-catenin mRNA that could influence its stability .
+PMC1702562	false	s3a	37	148	However , we exclude that alternatively spliced isoforms exist in the 3 ' UTR of mouse beta-catenin mRNA in alphaT3-1 and C2C12 cells                                 .
+PMC1702562	false	s3a	37	149	Surprisingly , Thiele et al. .
+PMC1702562	false	s3a	37	150	reported that AREs in the 3 ' UTR of human beta-catenin mRNA are stabilizing elements .
+PMC1702562	false	s3a	37	151	Our results indicate that beta-catenin transcript is unstable in four different cell lines ( alphaT3-1 , HIRc-B , C2C12 as presented in this report , and 293T , unpublished data ) and that mouse beta-catenin 3 ' UTR confers instability to a reporter mRNA .
+PMC1702562	false	s3a	37	152	These data are in agreement with the general view that AREs are destabilizing elements in unstimulated cells ( reviewed in      ) .
+PMC1702562	true	s3b	38	153	PI3K-AKT Activation Prolongs beta-Catenin mRNA Half-Life by Targeting KSRP
+PMC1702562	false	s3b	39	154	Our data suggest that PI3K-AKT signaling stabilizes beta-catenin transcript targeting the mRNA decay machinery .
+PMC1702562	false	s3b	39	155	In the past , conflicting results on PI3K-AKT-induced control of beta-catenin protein degradation have been provided        .
+PMC1702562	false	s3b	39	156	The discrepancies might depend on the divergent regulation of protein decay in different cell types .
+PMC1702562	false	s3b	39	157	Indeed , we have observed that insulin induced PI3K-AKT activation does not affect beta-catenin protein stability in HIRc-B cells            , while myrAKT1 expression slightly prolongs beta-catenin protein t ( 1 and 2 ) in alphaT3-1 cells ( unpublished data ) .
+PMC1702562	false	s3b	39	158	However , our results indicate that PI3K-AKT consistently induces beta-catenin mRNA stabilization and protein accumulation in both cell lines .
+PMC1702562	false	s3b	39	159	Even though our data indicate that PI3K-AKT activation , regulating the mRNA decay machinery , can lead to beta-catenin protein accumulation in the absence of changes in its protein degradation rate , it is conceivable that an integrated control of both mRNA and protein stability could be required to ensure rapid and sustained changes of beta-catenin expression in response to certain proliferative and differentiative cues .
+PMC1702562	false	s3b	39	160	Notably , AKT induced interaction of beta-catenin protein with 14-3-3 has been shown to increase both beta-catenin levels and its transcriptional activity     .
+PMC1702562	false	s3b	39	161	Therefore , AKT dependent interaction of 14-3-3 either with a factor involved in beta-catenin mRNA turnover , such as KSRP , or with beta-catenin itself can lead to accumulation of beta-catenin protein .
+PMC1702562	false	s3b	39	162	In a sense , 14-3-3 might be considered a biological switch controlling beta-catenin expression at different levels .
+PMC1702562	false	s3b	40	163	KSRP , a major regulator of beta-catenin mRNA decay , is phosphorylated by AKT at a unique residue ( S193 ) .
+PMC1702562	false	s3b	40	164	It is a general concept that destabilizing ARE-BPs , including BRF1 , KSRP , and TTP , are responsible for rapid decay of labile mRNAs in unstimulated cells recruiting the mRNA decay machinery      .
+PMC1702562	false	s3b	40	165	We and others have previously shown that activation of the PI3K-AKT pathway controls the turnover of select mRNAs targeting either BRF1 or TTP and turning off their mRNA destabilizing function           .
+PMC1702562	false	s3b	40	166	It is noteworthy that , in our experimental model , KSRP and HuR are the major ARE-BPs interacting with beta-catenin mRNA .
+PMC1702562	false	s3b	40	167	PI3K-AKT activation does not affect the expression level and the phosphorylation status of HuR while inducing KSRP phosphorylation .
+PMC1702562	false	s3b	40	168	It is possible to hypothesize that a certain signaling pathway can affect the turnover of select mRNAs regulating the function of distinct ARE-BPs , depending on the cellular context .
+PMC1702562	false	s3b	40	169	On the other hand , the activation of different pathways can affect the turnover of different sets of transcripts targeting the same ARE-BP .
+PMC1702562	false	s3b	40	170	In C2C12 myoblasts , MAPK p38 activation prolongs the t ( 1 and 2 ) of select myogenic transcripts inhibiting KSRP function    , whereas PI3K-AKT activation does not affect the stability of the same mRNAs ( unpublished data ) .
+PMC1702562	false	s3b	40	171	Similarly , p38 activation in alphaT3-1 cells does not affect the t ( 1 and 2 ) of beta-catenin mRNA ( unpublished data ) .
+PMC1702562	false	s3b	40	172	How the decay of distinct sets of transcripts can be specifically regulated by different signaling pathways that target the same ARE-BP is still an unsolved issue .
+PMC1702562	true	s3c	41	173	KSRP Interacts with 14-3-3 in a Serine 193 Dependent Way
+PMC1702562	false	s3c	42	174	Our data indicate that KSRP phosphorylation by PI3K-AKT creates a functional 14-3-3 binding site .
+PMC1702562	false	s3c	42	175	Our current and previous findings , together with existing literature           , suggest that 14-3-3 family members play a regulatory role on the function of some destabilizing ARE-BPs .
+PMC1702562	false	s3c	43	176	Phosphorylation by AKT , followed by interaction with 14-3-3 , impairs the ability of KSRP to promote beta-catenin mRNA decay , reducing KSRP interaction with the 3 ' -5 ' exoribonucleolytic complex exosome while leaving unaffected the ability of KSRP to interact with the mRNA .
+PMC1702562	false	s3c	43	177	The results obtained using the high-affinity 14-3-3 competitor peptide difopein suggest that KSRP-14-3-3 interaction is implicated in this process .
+PMC1702562	false	s3c	43	178	Unexpectedly , we found that AKT activation does not affect KSRP interaction with the deadenylase PARN and that deadenylated beta-catenin mRNA accumulates when incubated with S100 from alphaT3-1-myrAKT1 cells in in vitro degradation assays .
+PMC1702562	false	s3c	43	179	We previously demonstrated that KSRP associates with mRNA decay enzymes , including PARN and the exosome components       .
+PMC1702562	false	s3c	43	180	However , our recent data indicate that , although PARN is involved in the decay of a reporter mRNA by tethered KSRP , it does not appear to play a major role in the process while tethered KSRP primarily relies on exosome function    .
+PMC1702562	false	s3c	43	181	Thus , our present results are in keeping with the idea that the exosome complex is the main enzymatic machine recruited by KSRP to the RNA    .
+PMC1702562	false	s3c	43	182	It is noteworthy that a large-scale proteomic analysis identified three exosome components ( hRrp4p , hRrp41p , and hRrp45 ) and the exosome associated helicase hMtr4p , as well as KSRP itself , as molecular partners of 14-3-3     .
+PMC1702562	false	s3c	44	183	The four KH domains that constitute the central core of the KSRP are all necessary to ensure its interaction with the entire decay promoting machinery    .
+PMC1702562	false	s3c	44	184	S193 lies in the first KH domain of KSRP .
+PMC1702562	false	s3c	44	185	Therefore , it is not surprising that the structural changes likely produced by phosphorylation , and the consequent interaction with 14-3-3 , severely impair the beta-catenin mRNA decay promoting function of KSRP .
+PMC1702562	false	s3c	45	186	In conclusion , the expression levels of beta-catenin have to be tightly regulated .
+PMC1702562	false	s3c	45	187	As the amount of beta-catenin rises , it accumulates in the nucleus , where it interacts with specific transcription factors , leading to regulation of target genes .
+PMC1702562	false	s3c	45	188	Inappropriate activation of the beta-catenin pathway is linked to a wide range of cancers , including colorectal cancer and melanoma .
+PMC1702562	false	s3c	45	189	On the other hand , AKT has emerged as a crucial regulator of widely divergent cellular processes including apoptosis , differentiation , and metabolism .
+PMC1702562	false	s3c	45	190	Disruption of normal AKT signaling has now been documented as a frequent occurrence in several human cancers , and it appears to play an important role in their progression .
+PMC1702562	false	s3c	45	191	The results we obtained point to KSRP phosphorylation as a link between PI3K-AKT signaling and the control of beta-catenin mRNA t ( 1 and 2 ) and , consequently , of its expression .
+PMC1702562	false	s3c	45	192	PI3K-AKT signaling activation , with consequent KSRP phosphorylation and functional deactivation , might contribute to sustain beta-catenin accumulation and , as a result , activation of target genes potentially able to accelerate tumor development .
+PMC1702562	false	s4a	46	193	LY and insulin were obtained from Sigma ( http://www.sigmaaldrich.com ) ; triciribine , from Calbiochem and EMD Biosciences ( http://www.emdbiosciences.com ) ; Wnt-3A , from R&D Systems ( http://www.rndsystems.com ) ; and histone 2B , from Roche ( http://www.roche.com ) .
+PMC1702562	false	s4b	47	194	cDNA fragments containing mouse beta-catenin cDNA fragments ( as shown in            and GAPDH 3 ' UTR ( nucleotides 580-810 ) were subcloned into PstI-XbaI-restricted pCY2     .
+PMC1702562	false	s4b	47	195	A cDNA fragment containing the coding region of human KSRP ( nucleotides 202-2136 ) was cloned into the EcoRI-XhoI sites of pCMV-Tag2B vector ( Stratagene , http://www.stratagene.com ) in frame with the FLAG sequence to obtain a FLAG-KSRP plasmid .
+PMC1702562	false	s4b	47	196	Mutagenesis was performed using FLAG-KSRP and the QuickChange Site Directed Mutagenesis kit ( Stratagene ) to obtain FLAG-KSRP ( S193A ) .
+PMC1702562	false	s4b	47	197	HA-myrAKT1 cassette was excised from the plasmid previously described by Andjelkovic et al. .
+PMC1702562	false	s4b	47	198	and subcloned into pcDNA3 ( Invitrogen , http://www.invitrogen.com ) to obtain pCMV-myr-AKT1 , AKT1 ( K179M )      in pUSEamp plasmid , and TOP-FLASH expression vectors were from Upstate Biotechnology ( http://www.upstate.com ) .
+PMC1702562	false	s4b	47	199	Murine c-myc promoter ( -1,100 + /- 580 ) fused with Luciferase was previously described     .
+PMC1702562	false	s4b	47	200	To generate pCAT-beta-catenin 3 ' UTR , we cloned the entire mouse beta-catenin 3 ' UTR into the NotI-XbaI-restricted pcDNA3-CAT plasmid    .
+PMC1702562	true	s4c	48	201	Recombinant proteins and antibodies .
+PMC1702562	false	s4c	49	202	Affinity purified human KSRP , expressed using the Baculovirus system , was described in Briata et al. .
+PMC1702562	false	s4c	49	203	.
+PMC1702562	false	s4c	49	204	GST-KSRP deletion mutants were previously described    .
+PMC1702562	false	s4c	49	205	Amino acid 193 was mutagenized using the QuickChange Site Directed Mutagenesis kit ( Stratagene ) to obtain GST-KH1-2 ( S193A ) and GST-KH1-4 ( S193A ) , respectively .
+PMC1702562	false	s4c	49	206	GST-14-3-3 plasmid was constructed cloning the entire coding sequence of mouse 14-3-3zeta into a pGEX vector .
+PMC1702562	false	s4c	50	207	Mouse monoclonal anti-14-3-3beta ( K-19 , which recognizes all the 14-3-3 family members ) , anti-14-3-3zeta ( C-16 , zeta specific ) , anti-HuR monoclonal antibody 3A2 , and anti-HDAC2 were obtained from Santa Cruz Biotechnology ( http://www.scbt.com ) ; mouse anti-GST was from Chemicon ( http://www.chemicon.com ) ; rabbit anti-AKT was from Cell Signaling ( http://www.cellsignal.com ) ; mouse anti-beta-catenin was from BD Transduction Laboratories ( http://www.bdbiosciences.com ) ; anti-KSRP antibody     was affinity purified and interacted with both human and rodent KSRP [ 4,14 , and R. Gherzi , unpublished data ] ; and anti-hMtr4p      was generated against a hMtr4p ( 1-369 ) - GST fusion protein and affinity purified .
+PMC1702562	false	s4c	50	208	Anti-AUF1 and anti-hnRNP-A1 were a gift from Dr. Gideon Dreyfuss ( Howard Hughes Medical Institute ) , and anti-PARN , anti-hRrp41 , anti-hRrp4p , and anti-TTP polyclonal antibodies were gifts from Drs. Elmar Wahle ( University of Halle ) , Ger Pruijn ( Nijmegen Center for Molecular Life Sciences ) , David Tollervey ( Wellcome Trust Centre for Cell Biology ) , and William Rigby ( Dartmouth Medical School ) , respectively .
+PMC1702562	false	s4c	50	209	Anti-FLAG ( M2 ) , anti-alpha-tubulin , and anti-beta-actin monoclonal antibodies were from Sigma .
+PMC1702562	false	s4d	51	210	Murine alphaT3-1 pituitary cells , rat HIRc-B fibroblasts , human HEK-293T cells ( 293T ) , and human HeLa cells were cultured in DMEM plus 10 % FBS , and murine C2C12 myoblasts were cultured in DMEM plus 20 % FBS .
+PMC1702562	false	s4d	51	211	Cell transfections were performed using LipofectAMINE Plus ( Invitrogen ) , and G418 ( Invitrogen ) was used at 500 to 800 mug and ml ( depending on the cell line ) for selection .
+PMC1702562	false	s4d	51	212	Cell pools of transfectants were used for experiments .
+PMC1702562	false	s4d	51	213	alphaT3-1 cells were starved in DMEM plus 0.5 % FBS for 16 h prior to LiCl treatment , and alphaT3-1-myrAKT1 cells were starved in DMEM plus 0.5 % FBS for 16 h prior to experiments .
+PMC1702562	false	s4d	51	214	HIRc-B cells were starved in DMEM plus 0.1 % FBS for 16 h prior to experiments or further treatments .
+PMC1702562	false	s4d	51	215	Transient transfections of alphaT3-1 with either pcDNA3-CAT or pcDNA3-CAT-beta-catenin plasmids were performed as described in     with the exception that LipofectAMINE Plus was used .
+PMC1702562	false	s4e	52	216	Cells under different culture conditions were treated with 5 mug and ml actinomycin D and harvested at the indicated times , and total RNA was isolated using RNeasy Mini Kit ( Qiagen , http://www.qiagen.com ) and treated with DNase I ( Promega , http://www.promega.com ) according to the manufacturer 's instructions .
+PMC1702562	false	s4e	52	217	First-strand cDNA was obtained with Transcriptor Reverse Transcriptase ( Roche ) .
+PMC1702562	false	s4e	53	218	For semiquantitative RT-PCR , 250 ng of total RNA was retrotranscribed using oligo-dT primer .
+PMC1702562	false	s4e	53	219	beta2-MG was used as an internal control for normalizing transcripts levels measured by RT-PCR .
+PMC1702562	false	s4e	53	220	To optimize RT-PCR , preliminary dose response experiments were performed to determine the range of first-strand cDNA concentrations at which PCR amplification was linear for each target molecule essentially as reported in Briata et al. .
+PMC1702562	false	s4e	53	221	.
+PMC1702562	false	s4e	53	222	For each species of RNA analyzed , the amount of RT-PCR product ( measured as densitometric units ) was plotted against the input of first-strand cDNA .
+PMC1702562	false	s4e	54	223	For quantitative RT-PCR , 150 ng of DNase I treated total RNA was retrotranscribed using random examers and PCRs were performed using the IQ Sybr Green Mix Super ( Bio-Rad , http://www.bio-rad.com ) and the MiniOpticon Real-Time PCR Detection System ( Bio-Rad ) .
+PMC1702562	false	s4e	54	224	The sequence specific primers used for PCRs are listed in         .
+PMC1702562	false	s4g	55	225	Ribonucleoprotein complexes were immunoprecipitated from alphaT3-1 cell lysates as previously described    .
+PMC1702562	false	s4g	55	226	Total RNA , extracted from either immunocomplexes or total cell lysates ( input ) , was subjected to RT-PCRs .
+PMC1702562	false	s4g	55	227	Primers are listed in         .
+PMC1702562	false	s4h	56	228	AKT ( 1 and 2 ) kinase assays were performed using preactivated enzymes purchased from Upstate Biotechnology ( 50 ng of the active enzyme and reaction ) as recommended by manufacturer .
+PMC1702562	false	s4h	56	229	[ gamma-32P ] ATP ( 3,000 Ci and mmol ) was from Amersham Biosciences ( http://www.amersham.com ) .
+PMC1702562	false	s4h	56	230	In vivo 32P orthophosphate metabolic labeling of transiently transfected HeLa cells was performed as previously described     , incubating cells with orthophosphate for 16 h.
+PMC1702562	true	s4i	57	231	Isolation of phosphopeptides and LC-MS and MS and MS3 analysis .
+PMC1702562	false	s4i	58	232	Purified recombinant KSRP was phosphorylated by AKT2 in standard kinase assays .
+PMC1702562	false	s4i	58	233	The reactions were analyzed by gel electrophoresis ; bands were excised , digested with trypsin , and enriched for phosphopeptides using titanium dioxide microcolumns ; and the peptides were analyzed by automated nanoflow LC-MS and MS with a method where the neutral loss of the phosphate group activate the acquisition of a second fragment ion spectrum ( an MS3 spectrum ) as previously described in detail     .
+PMC1702562	false	s4i	58	234	All MS and MS spectra files from each LC run were centroided and merged to a single file , which was searched using the MASCOT search engine ( Matrix Science , http://www.matrixscience.com ) against the publicly available human database .
+PMC1702562	true	s4j	59	235	shRNA mediated KSRP knock-down .
+PMC1702562	false	s4j	60	236	pSUPER-Puro-shKSRP was previously described    .
+PMC1702562	false	s4j	60	237	alphaT3-1 cells were transfected using LipofectAMINE Plus ( Invitrogen ) .
+PMC1702562	false	s4j	60	238	Transfectant pools were selected with 0.3 mug and ml puromycin ( Sigma ) .
+PMC1702562	true	s4k	61	239	Luciferase assays .
+PMC1702562	false	s4k	62	240	Transient transfections of either mock alphaT3-1 or alphaT3-1-shKSRP were carried out with LipofectAMINE Plus ( Invitrogen ) .
+PMC1702562	false	s4k	62	241	Luciferase activity was determined after 48 h with the Dual Luciferase System ( Promega ) following the indications of the manufacturer and using pRL-SV40 as a normalizing vector .
+PMC1702562	true	supm-1	63	242	beta-Catenin mRNA Is Stabilized by myrAKT1 Expression in Myoblasts C2C12
+PMC1702562	false	supm-1	64	243	( A ) In vitro RNA degradation assays using S100s from either mock C2C12 or C2C12 cells expressing myrAKT1 .
+PMC1702562	false	supm-1	64	244	Internally 32P labeled and capped RNA substrates were incubated with S100s for the indicated times , and their decay was analyzed as described in Materials and Methods .
+PMC1702562	false	supm-1	65	245	( B ) Semiquantitative RT-PCR analysis of beta-catenin mRNA in either mock C2C12 cells or C2C12 cells expressing myrAKT1 .
+PMC1702562	false	supm-1	65	246	Total RNA was isolated as indicated after the addition of actinomycin D .
+PMC1702562	false	supm-1	65	247	The amount of each transcript was quantitated by densitometry and plotted using a linear regression program .
+PMC1702562	false	supm-1	65	248	The values shown are averages ( + / - SEM ) of three independent experiments performed in duplicate .
+PMC1702562	false	supm-1	66	249	( 442 KB TIF )
+PMC1702562	true	supm-2	67	250	KSRP Controls beta-Catenin mRNA Decay In Vitro
+PMC1702562	false	supm-2	68	251	( 792 KB TIF )
+PMC1702562	true	supm-3	69	252	Neither KSRP Steady-State Levels nor Protein Stability Is Affected by AKT1 Activation
+PMC1702562	false	supm-3	70	253	( A ) Immunoblot analysis of total extracts from the indicated cell lines with anti-KSRP and alpha-tubulin antibodies .
+PMC1702562	false	supm-3	71	254	( B ) Either mock alphaT3-1 or alphaT3-1-myrAKT1 cells were treated with cycloheximide ( 50 mug and ml ) for the indicated times .
+PMC1702562	false	supm-3	71	255	Total cell extracts were prepared and the levels of KSRP were quantitated by immunoblotting and densitometric scanning .
+PMC1702562	false	supm-3	71	256	Results are the average ( + / - SEM ) of three experiments .
+PMC1702562	false	supm-3	71	257	alpha-Tubulin immunoblotting was used to verify the equal protein loading .
+PMC1702562	false	supm-3	72	258	( 341 KB TIF )
+PMC1702562	true	supm-4	73	259	A Single mRNA Form Contains the Entire 3 ' UTR of Mouse beta-Catenin
+PMC1702562	false	supm-4	74	260	RT-PCR analysis of total RNA from either mock alphaT3-1 cells ( untreated or treated as indicated ) or alphaT3-1-myrAKT1 .
+PMC1702562	false	supm-4	74	261	The primers used are listed in          and schematically represented on the left .
+PMC1702562	false	supm-4	75	262	( 467 KB TIF )
+PMC1702562	false	supm-5	76	263	The primers used for RT-PCRs were m-beta-catenin ( mouse beta-catenin ) , m-AKT1 ( mouse AKT1 ) , r-beta-catenin ( rat beta-catenin ) , b-C ( the entire 3 ' UTR of mouse beta-catenin ) , m-beta2-MG ( mouse beta2-MG ) , r-beta2-MG ( rat beta2-MG ) , CAT ; CAT-beta-catenin ( the entire 3 ' UTR of mouse beta-catenin placed at the 3 ' of CAT ) , m-beta-cat Q-PCR ( mouse beta-catenin for quantitative PCRs , and m-beta2-MG q-PCR ( mouse beta2-MG for quantitative PCRs ) .
+PMC1702562	false	supm-5	77	264	( 35 KB DOC )
+PMC1702562	false	supm-4	78	265	We are indebted to Drs. D. Tollervey , E. Wahle , G. Pruijn , G. Dreyfuss , W. Rigby , and A. Nicolin for reagents and antibodies .
+PMC1702562	false	supm-1	79	266	ARE binding proteins
+PMC1702562	false	s5	80	267	chloramphenicol acetyltransferase
+PMC1702562	false	s4j	81	268	lithium chloride
+PMC1702562	false	s4g	82	269	beta2-microglobulin
+PMC1702562	false	s4f	83	270	myristylated form of AKT1
+PMC1702562	false	s4e	84	271	phosphatidylinositol 3-kinase
+PMC1702562	true	fig-1	85	272	mRNA Encoding beta-Catenin Is Labile and Is Stabilized by LiCl and Wnt-3A
+PMC1702562	false	fig-1	86	273	( A ) Expression of beta-catenin and beta2-MG ( control transcript ) , monitored by RT-PCR , in control and in LiCl treated ( 20 mM for 6 h ) alphaT3-1 cells .
+PMC1702562	false	fig-1	87	274	( B ) Quantitative RT-PCR analysis of both beta-catenin and beta2-MG transcripts in alphaT3-1 cells .
+PMC1702562	false	fig-1	87	275	Total RNA was isolated at the indicated times after addition of actinomycin D .
+PMC1702562	false	fig-1	87	276	The values shown are averages ( + / - SEM ) of three independent experiments performed in duplicate .
+PMC1702562	false	fig-1	88	277	( C ) Quantitative RT-PCR analysis of both CAT and CAT-beta-catenin transcripts in either CAT or CAT-beta-catenin transiently transfected alphaT3-1 cells .
+PMC1702562	false	fig-1	88	278	Total RNA was isolated at the indicated times after addition of actinomycin D .
+PMC1702562	false	fig-1	88	279	The values shown are averages ( + / - SEM ) of three independent experiments performed in duplicate .
+PMC1702562	false	fig-1	89	280	( D ) Semiquantitative RT-PCR analysis of both beta-catenin and beta2-MG transcripts in either control or LiCl treated alphaT3-1 cells .
+PMC1702562	false	fig-1	89	281	Total RNA was isolated at the indicated times after the addition of actinomycin D .
+PMC1702562	false	fig-1	89	282	The amount of each transcript was quantitated by densitometry and plotted using a linear regression program .
+PMC1702562	false	fig-1	89	283	The values shown are averages ( + / - SEM ) of three independent experiments performed in duplicate .
+PMC1702562	false	fig-1	90	284	( E ) Expression of beta-catenin and beta2-MG , monitored by RT-PCR , in either control treated alphaT3-1 , or Wnt-3A-treated ( 10 ng and ml , 6 h ) alphaT3-1 cells .
+PMC1702562	false	fig-1	91	285	( F ) Semiquantitative RT-PCR analysis of both beta-catenin and beta2-MG transcripts in either control or Wnt-3A-treated alphaT3-1 cells .
+PMC1702562	false	fig-1	91	286	Total RNA was isolated at the indicated times after the addition of actinomycin D .
+PMC1702562	false	fig-1	91	287	The amount of each transcript was quantitated and represented as described in ( D ) .
+PMC1702562	true	fig-2	92	288	PI3K-AKT Signaling Stabilizes beta-Catenin mRNA and Increases Its Expression
+PMC1702562	false	fig-2	93	289	( A ) Quantitative RT-PCR analysis of both beta-catenin and beta2-MG transcripts in alphaT3-1 cells treated with either DMSO ( the solvent of LY , control ) , DMSO plus LiCl , or LY ( 25 muM for 16 h ) plus LiCl .
+PMC1702562	false	fig-2	93	290	Total RNA was isolated at the indicated times after the addition of actinomycin D .
+PMC1702562	false	fig-2	93	291	The values shown are averages ( + / - SEM ) of three independent experiments performed in duplicate .
+PMC1702562	false	fig-2	94	292	( B ) Quantitative RT-PCR analysis of both beta-catenin and beta2-MG transcripts in alphaT3-1 cells treated with either DMSO ( the solvent of triciribine , control ) , DMSO plus LiCl ( 20 mM for 6 h ) , or triciribine ( 1 muM for 1 h ) plus LiCl .
+PMC1702562	false	fig-2	94	293	Total RNA was isolated at the indicated times after the addition of actinomycin D .
+PMC1702562	false	fig-2	94	294	The values shown are averages ( + / - SEM ) of three independent experiments performed in duplicate .
+PMC1702562	false	fig-2	95	295	( C ) In vitro RNA degradation assays using S100s from either LiCl treated mock alphaT3-1 or LiCl treated alphaT3-1 cells expressing the AKT dominant negative mutant AKT1 ( K179M ) ( alphaT3-1-AKTDN ) .
+PMC1702562	false	fig-2	95	296	Internally 32P labeled and capped RNA substrates were incubated with S100s for the indicated times and their decay analyzed as described in Materials and Methods .
+PMC1702562	false	fig-2	96	297	( D ) Either mock alphaT3-1 or alphaT3-1-myrAKT1 cells were lysed and total extracts were immunoprecipitated ( Ip ) with either anti-AKT antibody or control IgG ( cIgG ) .
+PMC1702562	false	fig-2	96	298	Pellets were incubated ( 20 min at 30 degreesC ) with histone 2B ( H2B ) in kinase buffer in the presence of [ gamma-32P ] ATP .
+PMC1702562	false	fig-2	96	299	Labeled proteins were separated by SDS-PAGE and detected by autoradiography .
+PMC1702562	false	fig-2	97	300	( E ) Expression of beta-catenin and beta2-MG , monitored by RT-PCR , in either mock alphaT3-1 or alphaT3-1-myrAKT1 cells .
+PMC1702562	false	fig-2	98	301	( F ) Quantitative RT-PCR analysis of both beta-catenin and beta2-MG transcripts in either mock alphaT3-1 or alphaT3-1-myrAKT1 cells .
+PMC1702562	false	fig-2	98	302	Total RNA was isolated at the indicated times after addition of actinomycin D .
+PMC1702562	false	fig-2	98	303	The values shown are averages ( + / - SEM ) of three independent experiments performed in duplicate .
+PMC1702562	false	fig-2	99	304	( G ) Immunoblot analysis of either S100 or nuclear extracts from the indicated cell lines with anti- beta-catenin , alpha-tubulin , and HDAC2 antibodies .
+PMC1702562	true	fig-3	100	305	Insulin Stabilizes beta-Catenin mRNA and Increases Its Expression
+PMC1702562	false	fig-3	101	306	( A ) HIRc-B cells were treated for 1 h with DMSO ( control ) , insulin ( 10-6 M ) plus DMSO , or LY ( 25 muM for 16 h ) plus insulin .
+PMC1702562	false	fig-3	101	307	Total extracts were immunoprecipitated with either anti-AKT antibody or control IgG ( cIgG ) .
+PMC1702562	false	fig-3	101	308	Pellets were incubated ( 20 min at 30 degreesC ) with histone 2B ( H2B ) in kinase buffer in the presence of [ gamma-32P ] ATP .
+PMC1702562	false	fig-3	101	309	Labeled proteins were separated by SDS-PAGE and detected by autoradiography .
+PMC1702562	false	fig-3	102	310	( B ) Expression of beta-catenin and beta2-MG , monitored by RT-PCR , in control HIRc-B cells and in HIRc-B treated with either insulin or LY plus insulin .
+PMC1702562	false	fig-3	103	311	( C ) Quantitative RT-PCR analysis of both beta-catenin and beta2-MG transcripts in control HIRc-B cells , in HIRc-B treated with either insulin or LY plus insulin .
+PMC1702562	false	fig-3	103	312	Total RNA was isolated at the indicated times after the addition of actinomycin D .
+PMC1702562	false	fig-3	103	313	The values shown are averages ( + / - SEM ) of three independent experiments performed in duplicate .
+PMC1702562	false	fig-3	104	314	( D ) Immunoblot analysis of either S100 or nuclear extracts from either control- or insulin treated HIRc-B cells with anti-beta-catenin , beta-actin , and HDAC2 antibodies .
+PMC1702562	false	fig-3	104	315	The amount of each band was quantitated by densitometry and insulin was found to increase beta-catenin expression by 3.2- and 2.1-fold over the control in S100 and nuclear extracts , respectively .
+PMC1702562	false	fig-3	105	316	( E ) HIRc-B cells were maintained for 16 h in DMEM containing 0.1 % FCS ; then either PBS ( control ) or insulin ( 10-6 M ) was added for 1 h. Cultures were then treated with cycloheximide ( 50 mug and ml ) for the indicated times .
+PMC1702562	false	fig-3	105	317	Total cell extracts were prepared , and the levels of beta-catenin quantitated by immunoblotting and densitometric scanning .
+PMC1702562	false	fig-3	105	318	Results are the average ( + / - SEM ) of three experiments .
+PMC1702562	false	fig-3	105	319	beta-Actin immunoblotting was used to verify the equal protein loading .
+PMC1702562	true	fig-4	106	320	KSRP Is Phosphorylated by AKT in Serine 193
+PMC1702562	false	fig-4	107	321	( A ) Immunoprecipitation of beta-catenin RNA containing ribonucleoprotein complexes .
+PMC1702562	false	fig-4	107	322	The proteins were immunoprecipitated from alphaT3-1 total cell extracts using the indicated antibodies .
+PMC1702562	false	fig-4	107	323	RNA was extracted from the immune complexes and analyzed by RT-PCR as indicated .
+PMC1702562	false	fig-4	108	324	( B ) Either highly purified recombinant human KSRP ( lanes 1 and 2 ) or affinity purified GST-HuR ( lanes 3 and 4 ) was incubated with either active recombinant AKT2 in kinase buffer or buffer alone in the presence of [ gamma-32P ] ATP .
+PMC1702562	false	fig-4	108	325	Labeled proteins were separated by SDS-PAGE , blotted to nylon membranes , and detected by autoradiography ( top panel ) .
+PMC1702562	false	fig-4	108	326	Immunoblot analysis of the above kinase reactions with either anti-KSRP ( middle panel ) or anti-GST ( bottom panel ) antibodies .
+PMC1702562	false	fig-4	109	327	( C ) Schematic representation of KSRP and GST fused deletion mutants .
+PMC1702562	false	fig-4	109	328	Asterisks indicate the position of a putative AKT phosphorylation site ( left ) .
+PMC1702562	false	fig-4	109	329	AKT2 kinase assays were performed using the indicated recombinant protein substrates ( middle and right ) .
+PMC1702562	false	fig-4	109	330	Arrows point to the position of each phosphorylated protein ; the asterisk marks the position of phosphorylated AKT2 .
+PMC1702562	false	fig-4	110	331	( D ) In vivo [ 32P ] orthophosphate metabolic labeling of HeLa cells transiently cotransfected with either FLAG-KSRP plus empty pcDNA3 , or FLAG-KSRP plus pCMV-myr-AKT1 , or FLAG-KSRP ( S193A ) plus pCMV-myr-AKT1 .
+PMC1702562	false	fig-4	110	332	Aliquots of the lysates were immunoprecipitated with protein A protein G-Sepharose-bound mouse control IgG ( cIgG ) or anti-FLAG antibody , separated by SDS-PAGE , and autoradiographed ( top panel ) .
+PMC1702562	false	fig-4	110	333	Immunoblot analysis of the above in vivo phosphorylation reactions with anti-FLAG antibody ( bottom panel ) .
+PMC1702562	false	fig-4	110	334	Arrows point to the position of transfected KSRP .
+PMC1702562	false	fig-4	111	335	( E ) MS-MS fragmentation spectrum of the tryptic peptide SV [ pS ] LTGAPESVQK of KSRP showing phosphorylation of S193 .
+PMC1702562	false	fig-4	112	336	( F ) AKT2 kinase assays using the indicated recombinant protein substrates .
+PMC1702562	false	fig-4	112	337	Arrows point to the position of each phosphorylated protein ; the asterisk marks the position of phosphorylated AKT2 .
+PMC1702562	true	fig-5	113	338	KSRP Is Required for beta-Catenin mRNA Degradation
+PMC1702562	false	fig-5	114	339	( A ) Immunoblot analysis of total extracts from either mock alphaT3-1 ( empty pSUPER-Puro vector transfected ) or alphaT3-1-shKSRP ( pSUPER-Puro-shKSRP-transfected ) cells using affinity purified anti-KSRP and anti-alpha-tubulin antibodies .
+PMC1702562	false	fig-5	115	340	( B ) Expression of beta-catenin and beta2-MG , monitored by RT-PCR , in either mock alphaT3-1 or alphaT3-1-shKSRP cells .
+PMC1702562	false	fig-5	116	341	( C ) Quantitative RT-PCR analysis of both beta-catenin and beta2-MG transcripts in either mock alphaT3-1 or alphaT3-1-shKSRP cells .
+PMC1702562	false	fig-5	116	342	Total RNA was isolated at the indicated times after the addition of actinomycin D .
+PMC1702562	false	fig-5	116	343	The values shown are averages ( + / - SEM ) of three independent experiments performed in duplicate .
+PMC1702562	false	fig-5	117	344	( D ) Immunoblot analysis of total extracts from the indicated cell lines with anti-beta-catenin and alpha-tubulin antibodies .
+PMC1702562	false	fig-5	118	345	( E ) Either mock alphaT3-1 or alphaT3-1-shKSRP cells were treated with cycloheximide ( 50 mug and ml ) for the indicated times .
+PMC1702562	false	fig-5	118	346	Total cell extracts were prepared and the levels of beta-catenin quantitated by immunoblotting and densitometric scanning .
+PMC1702562	false	fig-5	118	347	Results are the average ( + / - SEM ) of three experiments .
+PMC1702562	false	fig-5	118	348	alpha-Tubulin immunoblotting was used to verify the equal protein loading .
+PMC1702562	false	fig-5	119	349	( F ) Either mock alphaT3-1 or alphaT3-1-shKSRP cells were transiently transfected with either TOP-FLASH or c-myc-LUC reporter vectors , cultured for 2 d , and collected , and luciferase activity was measured .
+PMC1702562	false	fig-5	119	350	The values shown are averages ( + / - SEM ) of four independent experiments performed in duplicate .
+PMC1702562	true	fig-6	120	351	KSRP Phosphorylation by AKT Promotes Its Interaction with 14-3-3 and Affects Its mRNA Destabilizing Function
+PMC1702562	false	fig-6	121	352	( A ) In vitro RNA degradation assays using S100s from either mock alphaT3-1 ( lanes 1-4 ) or alphaT3-1-shKSRP cells ( lanes 5-28 ) preincubated with BSA ( lanes 1-8 ) , GST ( lanes 17-20 ) , KSRP ( 30 nM , lanes 9-12 ) , AKT2 phosphorylated KSRP ( 30 nM , lanes 13-16 ) , KH1-4 ( S193A ) ( 30 nM , lanes 21-24 ) , or AKT2 phosphorylated KH1-4 ( S193A ) ( 30 nM , lanes 25-28 ) , respectively .
+PMC1702562	false	fig-6	121	353	Internally 32P labeled and capped RNA substrates were added , and their decay was monitored as described above .
+PMC1702562	false	fig-6	122	354	( B ) Coimmunoprecipitation of FLAG-KSRP and endogenous 14-3-3 in 293T cells transiently transfected with FLAG-KSRP and either pCMV empty vector ( mock 293T ) or pCMV-myrAKT1 ( 293T-myrAKT1 ) .
+PMC1702562	false	fig-6	122	355	Cell lysates were immunoprecipitated as indicated and analyzed by immunoblotting using anti-14-3-3 antibody .
+PMC1702562	false	fig-6	123	356	( C ) GST pull-down of endogenous 14-3-3 from total extracts of either mock alphaT3-1 ( lanes 1-3 ) or alphaT3-1-myrAKT1 ( lanes 4-11 ) cells using either control GST , GST-KH1-4 , or the additional KSRP deletion mutants fused with GST ( as indicated , see         B for a schematic representation of KSRP deletion mutants ) .
+PMC1702562	false	fig-6	123	357	Proteins were analyzed by immunoblotting using anti-14-3-3 antibody .
+PMC1702562	false	fig-6	124	358	( D ) Coimmunoprecipitation of either FLAG-KSRP or FLAG-KSRP ( S193A ) and endogenous 14-3-3 in 293T cells transiently transfected with pCMV-myrAKT1 ( 293T-myrAKT1 ) and either FLAG-KSRP or FLAG-KSRP ( S193A ) .
+PMC1702562	false	fig-6	124	359	Cell lysates were immunoprecipitated as indicated and analyzed by immunoblotting using anti-14-3-3 antibody .
+PMC1702562	false	fig-6	125	360	( E ) In vitro RNA degradation assays using S100s from alphaT3-1-shKSRP cells pre-incubated with either GST ( lanes 1-4 ) , KH1-4 ( 30 nM , lanes 5-8 ) , AKT2 phosphorylated KH1-4 ( 30 nM , lanes 9-12 ) , or AKT2 phosphorylated KH1-4 ( 30 nM ) preincubated with difopein ( 50 nM ) ( lanes 13-16 ) , respectively .
+PMC1702562	false	fig-6	125	361	Internally 32P labeled and capped RNA substrates were added , and their decay monitored was as described above .
+PMC1702562	false	fig-6	126	362	( F ) GST pull-down of endogenous 14-3-3 from total extracts of alphaT3-1-myrAKT1 cells using either control GST , GST-KH1-4 , or GST-KH1-4 preincubated with 50 nM difopein ( as indicated ) .
+PMC1702562	false	fig-6	126	363	Proteins were analyzed by immunoblotting using anti-14-3-3 antibody .
+PMC1702562	false	fig-7	127	364	( A ) The interaction between 32P labeled ARE beta-catenin RNA and recombinant purified KSRP ( increasing amounts from 30 to 300 nM ) subjected to kinase reactions in the absence or in the presence of AKT2 ( as indicated ) was evaluated by UV crosslinking .
+PMC1702562	false	fig-7	128	365	( B ) The interaction between 32P labeled ARE beta-catenin RNA and recombinant purified KSRP ( 50 nM ) subjected to AKT2 phosphorylation in the presence of either GST ( 50 nM ) or GST-14-3-3 ( 50 nM , as indicated ) was evaluated by UV crosslinking .
+PMC1702562	false	fig-7	129	366	( C ) Coimmunoprecipitation of FLAG-KSRP and either endogenous exosome components ( hRrp4p and hMtr4p , as indicated ) or endogenous deadenylase PARN in 293T cells transiently transfected with FLAG-KSRP and either pCMV empty vector ( mock-293T ) or pCMV-myrAKT1 ( 293T-myrAKT1 ) .
+PMC1702562	false	fig-7	129	367	Cell lysates were immunoprecipitated as indicated and analyzed by immunoblotting using the indicated antibodies .
+PMC1702562	false	fig-7	130	368	( D ) GST pull-down of endogenous hRrp4p and hMtr4p from total extracts of alphaT3-1 cells using GST-KH1-4 subjected to kinase reaction either in the absence or in the presence of AKT2 .
+PMC1702562	false	fig-7	130	369	Proteins were analyzed by immunoblotting using the indicated antibodies .
+PMC1702562	false	fig-7	130	370	Asterisks indicate antibody cross-reactivity with GST-fusion proteins .
+PMC1702562	false	fig-7	131	371	( E ) GST pull-down of endogenous hRrp4p and hMtr4p from total extracts of alphaT3-1-myrAKT1 cells using either control GST , GST-KH1-4 , or GST-KH1-4 preincubated with 50 nM difopein ( as indicated ) .
+PMC1702562	false	fig-7	131	372	Proteins were analyzed by immunoblotting using either anti-hRrp4p or anti-hMtr4p antibodies .
+PMC1702562	false	fig-7	132	373	( F ) In vitro RNA degradation assays using S100s from either mock alphaT3-1 or alphaT3-1-myrAKT1 cells .
+PMC1702562	false	fig-7	132	374	Internally 32P labeled , capped , and polyadenylated beta-catenin and GAPDH RNA substrates were incubated with S100s for the indicated times , and their decay was analyzed as described in Materials and Methods .
+PMC1702562	false	fig-7	132	375	Arrows point to either poly ( A ) + or poly ( A ) - beta-catenin RNA species .
+PMC1702562	false	fig-6	133	376	Author contributions .
+PMC1702562	false	fig-6	133	377	RG and PB conceived and designed the experiments .
+PMC1702562	false	fig-6	133	378	RG , MT , MP , TR , KSK , JSA , and PB performed the experiments .
+PMC1702562	false	fig-6	133	379	RG , MT , KSK , JSA , and PB analyzed the data .
+PMC1702562	false	fig-6	133	380	GC , CM , and CYC contributed reagents/materials/analysis tools .
+PMC1702562	false	fig-6	133	381	RG , MT , and PB wrote the paper .
+PMC1702562	false	fig-5	134	382	Funding .
+PMC1702562	false	fig-5	134	383	This work has been partly supported by grants from Associazione Italiana Ricerca sul Cancro , AIRC ( to RG ) , Fondazione Telethon ( GGP04012 ) , and Istituto Superiore di Sanita ( 526 and A30 ) ( to PB ) .
