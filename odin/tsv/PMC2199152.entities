@@ -1,18 +1,18 @@
 Paper ID	Line Num	Grounded ID	Text	Type
-PMC2199152	0	uniprot:UNRESOLVED ID	B Cell	CellType
+PMC2199152	0	uazid:UA-CT-100001	B Cell	CellType
 PMC2199152	0	uniprot:UNRESOLVED ID	Antigen	Gene_or_gene_product
 PMC2199152	0	uniprot:UNRESOLVED ID	Antigen Receptor	Gene_or_gene_product
 PMC2199152	0	uniprot:P15391	CD19	Gene_or_gene_product
 PMC2199152	0	uniprot:P42348	PI3-Kinase	Gene_or_gene_product
 PMC2199152	0	uniprot:UNRESOLVED ID	Inositol-1,4,5	Gene_or_gene_product
-PMC2199152	1	uniprot:UNRESOLVED ID	B cell	CellType
+PMC2199152	1	uazid:UA-CT-100001	B cell	CellType
 PMC2199152	1	uniprot:P15391	CD19	Gene_or_gene_product
 PMC2199152	2	uniprot:P15391	CD19	Gene_or_gene_product
 PMC2199152	2	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
 PMC2199152	2	uniprot:UNRESOLVED ID	antigen receptors	Gene_or_gene_product
 PMC2199152	2	uniprot:P20023	CR2	Gene_or_gene_product
 PMC2199152	3	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	3	uniprot:UNRESOLVED ID	B cell	CellType
+PMC2199152	3	uazid:UA-CT-100001	B cell	CellType
 PMC2199152	3	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
 PMC2199152	3	uniprot:UNRESOLVED ID	antigen receptor	Gene_or_gene_product
 PMC2199152	3	uniprot:P20023	CR2	Gene_or_gene_product
@@ -25,10 +25,10 @@ PMC2199152	6	uniprot:UNRESOLVED ID	Antigen	Gene_or_gene_product
 PMC2199152	6	uniprot:P15391	CD19	Gene_or_gene_product
 PMC2199152	6	uniprot:P42348	PI3-kinase	Gene_or_gene_product
 PMC2199152	7	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	7	uniprot:UNRESOLVED ID	B cell	CellType
+PMC2199152	7	uazid:UA-CT-100001	B cell	CellType
 PMC2199152	7	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
 PMC2199152	7	uniprot:UNRESOLVED ID	antigen receptor	Gene_or_gene_product
-PMC2199152	8	uniprot:UNRESOLVED ID	B cell	CellType
+PMC2199152	8	uazid:UA-CT-100001	B cell	CellType
 PMC2199152	8	uniprot:UNRESOLVED ID	plasmacytoma	CellType
 PMC2199152	9	ncbitax:species:ncbi:10090	mouse	Species
 PMC2199152	9	uniprot:UNRESOLVED ID	B220	Gene_or_gene_product
@@ -125,523 +125,540 @@ PMC2199152	55	uniprot:UNRESOLVED ID	anti-p85 antibodies	Gene_or_gene_product
 PMC2199152	56	uniprot:P42348	PI3-kinase	Gene_or_gene_product
 PMC2199152	57	uniprot:P31025	TLC	Gene_or_gene_product
 PMC2199152	57	uniprot:UNRESOLVED ID	CHCl3/MeOH/2.5 M NH4OH	Gene_or_gene_product
-PMC2199152	60	uazid:UA-ORG-903	spleens	Organ
-PMC2199152	60	uniprot:O89094	mice	Species
-PMC2199152	61	uazid:UA-CT-4	Red blood cells	CellType
-PMC2199152	62	uazid:UA-ORG-903	spleen	Organ
-PMC2199152	62	uazid:UA-CT-22	lymphocytes	CellType
-PMC2199152	62	uniprot:UNRESOLVED ID	HO13.4	Gene_or_gene_product
-PMC2199152	63	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	63	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	59	uazid:UA-CT-100002	B Cells	CellType
+PMC2199152	60	uazid:UA-CT-100002	B cells	CellType
+PMC2199152	61	uazid:UA-CT-200004	spleens	Organ
+PMC2199152	61	uniprot:O89094	mice	Species
+PMC2199152	62	uazid:UA-CT-4	Red blood cells	CellType
+PMC2199152	63	uazid:UA-ORG-903	spleen	Organ
+PMC2199152	63	uazid:UA-CT-22	lymphocytes	CellType
+PMC2199152	63	uniprot:UNRESOLVED ID	HO13.4	Gene_or_gene_product
 PMC2199152	64	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	64	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	64	uniprot:UNRESOLVED ID	plasmacytoma	CellType
-PMC2199152	65	uniprot:O60259	NP	Gene_or_gene_product
-PMC2199152	65	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	65	uniprot:P08575	CD45	Gene_or_gene_product
+PMC2199152	64	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2199152	65	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	66	ncbitax:species:ncbi:9606	Human	Species
+PMC2199152	65	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	65	uniprot:UNRESOLVED ID	plasmacytoma	CellType
+PMC2199152	66	uniprot:O60259	NP	Gene_or_gene_product
+PMC2199152	66	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	66	uniprot:P08575	CD45	Gene_or_gene_product
 PMC2199152	66	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	66	uniprot:UNRESOLVED ID	hCD19	Gene_or_gene_product
-PMC2199152	67	uniprot:H8F2P4	sIgM	Gene_or_gene_product
-PMC2199152	67	uniprot:P08575	CD45	Gene_or_gene_product
+PMC2199152	67	ncbitax:species:ncbi:9606	Human	Species
 PMC2199152	67	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	67	uniprot:UNRESOLVED ID	plasmacytoma	CellType
-PMC2199152	68	ncbitax:species:ncbi:9606	human	Species
+PMC2199152	67	uniprot:UNRESOLVED ID	hCD19	Gene_or_gene_product
+PMC2199152	68	uniprot:H8F2P4	sIgM	Gene_or_gene_product
+PMC2199152	68	uniprot:P08575	CD45	Gene_or_gene_product
 PMC2199152	68	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	68	uniprot:UNRESOLVED ID	B cell	CellType
-PMC2199152	68	uniprot:O89094	mice	Species
-PMC2199152	69	uniprot:Q2G0B1	rat	Species
-PMC2199152	69	uniprot:UNRESOLVED ID	1D3	Gene_or_gene_product
+PMC2199152	69	ncbitax:species:ncbi:9606	human	Species
 PMC2199152	69	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	69	uazid:UA-CT-100001	B cell	CellType
+PMC2199152	69	uniprot:O89094	mice	Species
+PMC2199152	70	uniprot:Q2G0B1	rat	Species
+PMC2199152	70	uniprot:UNRESOLVED ID	1D3	Gene_or_gene_product
 PMC2199152	70	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	70	ncbitax:species:ncbi:9606	human	Species
-PMC2199152	70	uniprot:UNRESOLVED ID	complement receptor CD21	Gene_or_gene_product
-PMC2199152	70	uniprot:P60033	CD81	Gene_or_gene_product
-PMC2199152	70	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	70	uniprot:UNRESOLVED ID	IgM	Gene_or_gene_product
-PMC2199152	71	uniprot:UNRESOLVED ID	Antigen	Gene_or_gene_product
 PMC2199152	71	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	72	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	71	ncbitax:species:ncbi:9606	human	Species
+PMC2199152	71	uniprot:UNRESOLVED ID	complement receptor CD21	Gene_or_gene_product
+PMC2199152	71	uniprot:P60033	CD81	Gene_or_gene_product
+PMC2199152	71	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	71	uniprot:UNRESOLVED ID	IgM	Gene_or_gene_product
+PMC2199152	72	uniprot:UNRESOLVED ID	Antigen	Gene_or_gene_product
 PMC2199152	72	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	72	uniprot:UNRESOLVED ID	indo-1	Gene_or_gene_product
-PMC2199152	72	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	74	uniprot:Q9HD26	Fig	Gene_or_gene_product
-PMC2199152	75	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	75	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	76	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	73	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	73	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	73	uniprot:UNRESOLVED ID	indo-1	Gene_or_gene_product
+PMC2199152	73	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	75	uniprot:Q9HD26	Fig	Gene_or_gene_product
 PMC2199152	76	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	77	uniprot:UNRESOLVED ID	mM EGTA	Gene_or_gene_product
-PMC2199152	79	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	79	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	80	uniprot:UNRESOLVED ID	influx	Gene_or_gene_product
+PMC2199152	76	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	77	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	77	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	78	uniprot:UNRESOLVED ID	mM EGTA	Gene_or_gene_product
+PMC2199152	80	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
 PMC2199152	80	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	81	uniprot:UNRESOLVED ID	Antigen	Gene_or_gene_product
-PMC2199152	81	uniprot:UNRESOLVED ID	Inositol-1,4,5-trisphosphate	Gene_or_gene_product
-PMC2199152	81	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC2199152	81	uniprot:UNRESOLVED ID	influx	Gene_or_gene_product
 PMC2199152	81	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	82	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	82	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	82	uniprot:UNRESOLVED ID	Antigen	Gene_or_gene_product
+PMC2199152	82	uniprot:UNRESOLVED ID	Inositol-1,4,5-trisphosphate	Gene_or_gene_product
 PMC2199152	82	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC2199152	82	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	83	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	83	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
 PMC2199152	83	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
-PMC2199152	83	uniprot:P03372	ER	Gene_or_gene_product
+PMC2199152	84	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
 PMC2199152	84	uniprot:P03372	ER	Gene_or_gene_product
-PMC2199152	85	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	85	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
-PMC2199152	85	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	85	uniprot:P03372	ER	Gene_or_gene_product
 PMC2199152	86	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	87	uniprot:UNRESOLVED ID	Antigen	Gene_or_gene_product
+PMC2199152	86	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC2199152	86	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
 PMC2199152	87	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	87	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC2199152	88	uniprot:UNRESOLVED ID	Antigen	Gene_or_gene_product
+PMC2199152	88	uniprot:P15391	CD19	Gene_or_gene_product
 PMC2199152	88	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
-PMC2199152	88	uniprot:Q9HD26	Fig	Gene_or_gene_product
-PMC2199152	89	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	90	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	90	uniprot:UNRESOLVED ID	myo-[2-3H	Gene_or_gene_product
-PMC2199152	91	uniprot:Q9HD26	Fig	Gene_or_gene_product
-PMC2199152	92	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
-PMC2199152	92	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	89	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC2199152	89	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2199152	90	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	91	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	91	uniprot:UNRESOLVED ID	myo-[2-3H	Gene_or_gene_product
+PMC2199152	92	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2199152	93	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
 PMC2199152	93	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	93	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	94	uniprot:UNRESOLVED ID	Antigen	Gene_or_gene_product
-PMC2199152	94	uniprot:P12931	Src-	Gene_or_gene_product
-PMC2199152	94	uniprot:P43405	Syk	Gene_or_gene_product
-PMC2199152	94	uniprot:P11912	Ig-alpha	Gene_or_gene_product
-PMC2199152	94	uniprot:P40259	Ig-beta	Gene_or_gene_product
+PMC2199152	94	uniprot:P15391	CD19	Gene_or_gene_product
 PMC2199152	94	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	95	uniprot:UNRESOLVED ID	ITAM	Gene_or_gene_product
-PMC2199152	95	uniprot:P19174	PLCgamma1	Gene_or_gene_product
-PMC2199152	95	uniprot:P16885	PLCgamma2	Gene_or_gene_product
-PMC2199152	95	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	96	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	97	uniprot:UNRESOLVED ID	J558Lmum3CD45+CD19-	Gene_or_gene_product
-PMC2199152	97	uniprot:UNRESOLVED ID	J558Lmum3CD45+ CD19+	Gene_or_gene_product
+PMC2199152	95	uniprot:UNRESOLVED ID	Antigen	Gene_or_gene_product
+PMC2199152	95	uniprot:P12931	Src-	Gene_or_gene_product
+PMC2199152	95	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199152	95	uniprot:P11912	Ig-alpha	Gene_or_gene_product
+PMC2199152	95	uniprot:P40259	Ig-beta	Gene_or_gene_product
+PMC2199152	95	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	96	uniprot:UNRESOLVED ID	ITAM	Gene_or_gene_product
+PMC2199152	96	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2199152	96	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2199152	96	uniprot:P42348	PI3-kinase	Gene_or_gene_product
 PMC2199152	97	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	99	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	99	uniprot:UNRESOLVED ID	plasmacytoma	CellType
-PMC2199152	100	uniprot:Q9HD26	Fig	Gene_or_gene_product
-PMC2199152	101	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	101	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	101	uniprot:P11912	Ig-alpha	Gene_or_gene_product
-PMC2199152	101	uniprot:P07948	Lyn	Gene_or_gene_product
-PMC2199152	101	uniprot:P43405	Syk	Gene_or_gene_product
-PMC2199152	101	uniprot:P19174	PLCgamma1	Gene_or_gene_product
-PMC2199152	101	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2199152	98	uniprot:UNRESOLVED ID	J558Lmum3CD45+CD19-	Gene_or_gene_product
+PMC2199152	98	uniprot:UNRESOLVED ID	J558Lmum3CD45+ CD19+	Gene_or_gene_product
+PMC2199152	98	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	100	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	100	uniprot:UNRESOLVED ID	plasmacytoma	CellType
+PMC2199152	101	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2199152	102	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	102	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
 PMC2199152	102	uniprot:P11912	Ig-alpha	Gene_or_gene_product
 PMC2199152	102	uniprot:P07948	Lyn	Gene_or_gene_product
 PMC2199152	102	uniprot:P43405	Syk	Gene_or_gene_product
-PMC2199152	102	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	103	uniprot:P19174	PLCgamma1	Gene_or_gene_product
-PMC2199152	103	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2199152	102	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2199152	102	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2199152	103	uniprot:P11912	Ig-alpha	Gene_or_gene_product
+PMC2199152	103	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2199152	103	uniprot:P43405	Syk	Gene_or_gene_product
 PMC2199152	103	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	104	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2199152	104	uniprot:P16885	PLCgamma2	Gene_or_gene_product
 PMC2199152	104	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	104	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	105	uniprot:UNRESOLVED ID	Antigen	Gene_or_gene_product
-PMC2199152	105	uniprot:P42348	PI3-Kinase	Gene_or_gene_product
 PMC2199152	105	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	105	uniprot:UNRESOLVED ID	Plasmacytoma	CellType
+PMC2199152	105	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	106	uniprot:UNRESOLVED ID	Antigen	Gene_or_gene_product
+PMC2199152	106	uniprot:P42348	PI3-Kinase	Gene_or_gene_product
 PMC2199152	106	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	106	uniprot:O43439	p85	Gene_or_gene_product
-PMC2199152	106	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	107	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	106	uniprot:UNRESOLVED ID	Plasmacytoma	CellType
+PMC2199152	107	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	107	uniprot:O43439	p85	Gene_or_gene_product
 PMC2199152	107	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	108	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2199152	108	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	109	uniprot:Q9HD26	Fig	Gene_or_gene_product
-PMC2199152	110	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	110	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	110	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	109	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	110	uniprot:Q9HD26	Fig	Gene_or_gene_product
 PMC2199152	111	uniprot:P42348	PI3-kinase	Gene_or_gene_product
 PMC2199152	111	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	111	uniprot:UNRESOLVED ID	Src-family kinases	Gene_or_gene_product
-PMC2199152	113	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	111	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	112	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	112	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	112	uniprot:UNRESOLVED ID	Src-family kinases	Gene_or_gene_product
 PMC2199152	114	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	114	uniprot:P11912	Ig-alpha	Gene_or_gene_product
-PMC2199152	114	uniprot:P07948	Lyn	Gene_or_gene_product
-PMC2199152	114	uniprot:P43405	Syk	Gene_or_gene_product
-PMC2199152	114	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
-PMC2199152	114	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	115	uniprot:UNRESOLVED ID	Antigen	Gene_or_gene_product
-PMC2199152	115	uniprot:UNRESOLVED ID	Plasmacytoma	CellType
-PMC2199152	116	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	116	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	117	uniprot:UNRESOLVED ID	Wortmannin	Gene_or_gene_product
+PMC2199152	115	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	115	uniprot:P11912	Ig-alpha	Gene_or_gene_product
+PMC2199152	115	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2199152	115	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199152	115	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC2199152	115	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	116	uniprot:UNRESOLVED ID	Antigen	Gene_or_gene_product
+PMC2199152	116	uniprot:UNRESOLVED ID	Plasmacytoma	CellType
+PMC2199152	117	uniprot:P15391	CD19	Gene_or_gene_product
 PMC2199152	117	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	117	uniprot:UNRESOLVED ID	PI3-kinase catalytic subunit	Gene_or_gene_product
-PMC2199152	117	uniprot:P14907	p110	Gene_or_gene_product
+PMC2199152	118	uniprot:UNRESOLVED ID	Wortmannin	Gene_or_gene_product
 PMC2199152	118	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	118	uniprot:UNRESOLVED ID	Ly294002	Gene_or_gene_product
-PMC2199152	119	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	118	uniprot:UNRESOLVED ID	PI3-kinase catalytic subunit	Gene_or_gene_product
+PMC2199152	118	uniprot:P14907	p110	Gene_or_gene_product
 PMC2199152	119	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	120	uniprot:Q9HD26	Fig	Gene_or_gene_product
-PMC2199152	121	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	121	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	121	uniprot:UNRESOLVED ID	plasmacytoma	CellType
+PMC2199152	119	uniprot:UNRESOLVED ID	Ly294002	Gene_or_gene_product
+PMC2199152	120	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	120	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	121	uniprot:Q9HD26	Fig	Gene_or_gene_product
 PMC2199152	122	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
 PMC2199152	122	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	122	uniprot:P01009	PI	Gene_or_gene_product
+PMC2199152	122	uniprot:UNRESOLVED ID	plasmacytoma	CellType
 PMC2199152	123	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
 PMC2199152	123	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	124	uniprot:UNRESOLVED ID	Wortmannin	Gene_or_gene_product
+PMC2199152	123	uniprot:P01009	PI	Gene_or_gene_product
+PMC2199152	124	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
 PMC2199152	124	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	125	uniprot:UNRESOLVED ID	Wortmannin	Gene_or_gene_product
 PMC2199152	125	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	125	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	125	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	125	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	126	uniprot:Q9HD26	Fig	Gene_or_gene_product
-PMC2199152	129	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
-PMC2199152	129	uniprot:UNRESOLVED ID	J558Lmum3 CD45+CD19+	Gene_or_gene_product
-PMC2199152	129	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	130	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	131	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	131	uniprot:Q9HD26	Fig	Gene_or_gene_product
-PMC2199152	132	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	126	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	126	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	126	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	126	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	127	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2199152	130	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC2199152	130	uniprot:UNRESOLVED ID	CD45+CD19+	Gene_or_gene_product
+PMC2199152	130	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	131	uniprot:P15391	CD19	Gene_or_gene_product
 PMC2199152	132	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	133	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	133	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	132	uniprot:Q9HD26	Fig	Gene_or_gene_product
 PMC2199152	133	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	134	uniprot:UNRESOLVED ID	Wortmannin	Gene_or_gene_product
-PMC2199152	135	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	135	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	135	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	136	uniprot:Q9HD26	Fig	Gene_or_gene_product
-PMC2199152	137	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	137	uniprot:P11912	Ig-alpha	Gene_or_gene_product
-PMC2199152	137	uniprot:P07948	Lyn	Gene_or_gene_product
-PMC2199152	137	uniprot:P43405	Syk	Gene_or_gene_product
-PMC2199152	138	uniprot:P19174	PLCgamma1	Gene_or_gene_product
-PMC2199152	138	uniprot:P16885	PLCgamma2	Gene_or_gene_product
-PMC2199152	139	interpro:IPR016279	PLCgamma	Gene_or_gene_product
-PMC2199152	139	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	139	uniprot:UNRESOLVED ID	plasmacytoma	CellType
-PMC2199152	139	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	139	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	140	uniprot:O43439	p85	Gene_or_gene_product
+PMC2199152	133	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	134	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	134	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	134	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	135	uniprot:UNRESOLVED ID	Wortmannin	Gene_or_gene_product
+PMC2199152	136	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	136	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	136	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	137	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2199152	138	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	138	uniprot:P11912	Ig-alpha	Gene_or_gene_product
+PMC2199152	138	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2199152	138	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199152	139	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2199152	139	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2199152	140	interpro:IPR016279	PLCgamma	Gene_or_gene_product
 PMC2199152	140	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	140	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	140	uniprot:UNRESOLVED ID	plasmacytoma	CellType
+PMC2199152	140	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	140	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	141	uniprot:O43439	p85	Gene_or_gene_product
 PMC2199152	141	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	141	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	141	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	141	uniprot:UNRESOLVED ID	CD19Y484F	Gene_or_gene_product
-PMC2199152	141	uniprot:UNRESOLVED ID	plasmacytoma	CellType
-PMC2199152	142	uniprot:H8F2P4	sIgM	Gene_or_gene_product
-PMC2199152	142	uniprot:P08575	CD45	Gene_or_gene_product
-PMC2199152	142	N/A	CD19	Gene_or_gene_product
-PMC2199152	142	uniprot:Q9HD26	Fig	Gene_or_gene_product
-PMC2199152	144	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	144	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	141	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	142	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	142	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	142	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	142	uniprot:UNRESOLVED ID	CD19Y484F	Gene_or_gene_product
+PMC2199152	142	uniprot:UNRESOLVED ID	plasmacytoma	CellType
+PMC2199152	143	uniprot:H8F2P4	sIgM	Gene_or_gene_product
+PMC2199152	143	uniprot:P08575	CD45	Gene_or_gene_product
+PMC2199152	143	N/A	CD19	Gene_or_gene_product
+PMC2199152	143	uniprot:Q9HD26	Fig	Gene_or_gene_product
 PMC2199152	145	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	145	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
 PMC2199152	145	uniprot:P42348	PI3-kinase	Gene_or_gene_product
 PMC2199152	146	uniprot:P15391	CD19	Gene_or_gene_product
 PMC2199152	146	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	146	uniprot:Q9HD26	Fig	Gene_or_gene_product
-PMC2199152	148	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	148	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	148	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	149	uniprot:UNRESOLVED ID	Antigen	Gene_or_gene_product
-PMC2199152	150	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	150	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	150	uazid:UA-ORG-903	spleens	Organ
-PMC2199152	150	uniprot:O89094	mice	Species
-PMC2199152	150	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	151	uniprot:UNRESOLVED ID	ab'	Gene_or_gene_product
-PMC2199152	152	uniprot:UNRESOLVED ID	J558L mum3CD45+CD19+	Gene_or_gene_product
-PMC2199152	152	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	153	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	153	uniprot:UNRESOLVED ID	J558Lmum3CD45+CD19+	Gene_or_gene_product
-PMC2199152	153	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	153	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	146	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	147	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	147	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	147	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2199152	149	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	149	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	149	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	150	uniprot:UNRESOLVED ID	Antigen	Gene_or_gene_product
+PMC2199152	150	uazid:UA-CT-100002	B Cells	CellType
+PMC2199152	151	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	151	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	151	uazid:UA-CT-100002	B cells	CellType
+PMC2199152	151	uazid:UA-CT-200004	spleens	Organ
+PMC2199152	151	uniprot:O89094	mice	Species
+PMC2199152	151	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	152	uazid:UA-CT-100002	B cells	CellType
+PMC2199152	152	uniprot:UNRESOLVED ID	ab'	Gene_or_gene_product
+PMC2199152	153	uniprot:UNRESOLVED ID	J558L mum3CD45+CD19+	Gene_or_gene_product
+PMC2199152	153	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	153	uazid:UA-CT-100002	B cells	CellType
+PMC2199152	154	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	154	uniprot:UNRESOLVED ID	J558Lmum3CD45+CD19+	Gene_or_gene_product
+PMC2199152	154	uazid:UA-CT-100002	B cells	CellType
+PMC2199152	154	uniprot:P42348	PI3-kinase	Gene_or_gene_product
 PMC2199152	154	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	154	uniprot:P42348	PI3-Kinase	Gene_or_gene_product
 PMC2199152	155	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	155	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	155	uazid:UA-CT-22	lymphocytes	CellType
-PMC2199152	155	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	155	uniprot:O89094	mice	Species
+PMC2199152	155	uniprot:P42348	PI3-Kinase	Gene_or_gene_product
+PMC2199152	155	uazid:UA-CT-100002	B Cells	CellType
 PMC2199152	156	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	156	uazid:UA-ORG-407	immunoglobulin	Organ
-PMC2199152	157	uniprot:P15391	CD19-/-	Gene_or_gene_product
-PMC2199152	157	uniprot:UNRESOLVED ID	CD19+/+	Gene_or_gene_product
-PMC2199152	158	uazid:UA-CT-22	lymphocytes	CellType
-PMC2199152	158	uniprot:O89094	mice	Species
-PMC2199152	158	uazid:UA-ORG-407	immunoglobulin	Organ
-PMC2199152	158	uniprot:UNRESOLVED ID	CD19+/+ littermates	Gene_or_gene_product
-PMC2199152	159	uniprot:UNRESOLVED ID	ab'	Gene_or_gene_product
-PMC2199152	159	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	156	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	156	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	156	uazid:UA-CT-100002	B cells	CellType
+PMC2199152	156	uniprot:O89094	mice	Species
+PMC2199152	157	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	157	uazid:UA-CT-100002	B cells	CellType
+PMC2199152	157	uazid:UA-ORG-407	immunoglobulin	Organ
+PMC2199152	158	uniprot:P15391	CD19-/-	Gene_or_gene_product
+PMC2199152	158	uniprot:UNRESOLVED ID	CD19+/+	Gene_or_gene_product
+PMC2199152	159	uniprot:O89094	mice	Species
+PMC2199152	159	uazid:UA-ORG-407	immunoglobulin	Organ
+PMC2199152	159	uniprot:UNRESOLVED ID	CD19+/+ littermates	Gene_or_gene_product
 PMC2199152	160	uniprot:UNRESOLVED ID	ab'	Gene_or_gene_product
-PMC2199152	160	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	160	uniprot:O89094	mice	Species
-PMC2199152	160	uniprot:UNRESOLVED ID	CD19+/+	Gene_or_gene_product
-PMC2199152	164	uniprot:O89094	mice	Species
-PMC2199152	164	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	164	ncbitax:species:ncbi:10090	transgenic mice	Species
-PMC2199152	164	uniprot:UNRESOLVED ID	B cell	CellType
-PMC2199152	165	ncbitax:species:ncbi:9606	human	Species
+PMC2199152	160	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	160	uazid:UA-CT-100002	B cells	CellType
+PMC2199152	161	uniprot:UNRESOLVED ID	ab'	Gene_or_gene_product
+PMC2199152	161	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	161	uniprot:O89094	mice	Species
+PMC2199152	161	uniprot:UNRESOLVED ID	CD19+/+	Gene_or_gene_product
+PMC2199152	165	uniprot:O89094	mice	Species
 PMC2199152	165	uniprot:P15391	CD19	Gene_or_gene_product
 PMC2199152	165	ncbitax:species:ncbi:10090	transgenic mice	Species
-PMC2199152	165	uniprot:UNRESOLVED ID	B cell	CellType
-PMC2199152	165	uniprot:O89094	mice	Species
-PMC2199152	166	uniprot:UNRESOLVED ID	B cell	CellType
+PMC2199152	165	uazid:UA-CT-100001	B cell	CellType
+PMC2199152	165	uazid:UA-CT-100027	mature B cells	CellType
+PMC2199152	166	ncbitax:species:ncbi:9606	human	Species
 PMC2199152	166	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	167	uniprot:O89094	mice	Species
-PMC2199152	168	uniprot:UNRESOLVED ID	T cell	CellType
-PMC2199152	168	uazid:UA-ORG-359	germinal center	Organ
-PMC2199152	168	uniprot:UNRESOLVED ID	serum	CellType
-PMC2199152	168	uazid:UA-ORG-407	immunoglobulin	Organ
-PMC2199152	169	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	169	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	170	uniprot:P20023	CR2	Gene_or_gene_product
+PMC2199152	166	ncbitax:species:ncbi:10090	transgenic mice	Species
+PMC2199152	166	uazid:UA-CT-100001	B cell	CellType
+PMC2199152	166	uniprot:O89094	mice	Species
+PMC2199152	166	uazid:UA-CT-100002	B cells	CellType
+PMC2199152	167	uazid:UA-CT-100001	B cell	CellType
+PMC2199152	167	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	168	uniprot:O89094	mice	Species
+PMC2199152	168	uazid:UA-CT-100002	B cells	CellType
+PMC2199152	168	uazid:UA-CT-100027	mature B cells	CellType
+PMC2199152	169	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2199152	169	uazid:UA-ORG-359	germinal center	Organ
+PMC2199152	169	uniprot:UNRESOLVED ID	serum	CellType
+PMC2199152	169	uazid:UA-ORG-407	immunoglobulin	Organ
 PMC2199152	170	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	170	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	170	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	171	uniprot:P20023	CR2	Gene_or_gene_product
 PMC2199152	171	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	171	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
 PMC2199152	171	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2199152	172	uniprot:P15391	CD19	Gene_or_gene_product
 PMC2199152	172	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
 PMC2199152	172	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2199152	173	uniprot:P15391	CD19	Gene_or_gene_product
 PMC2199152	173	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	173	uniprot:P11912	Ig-alpha	Gene_or_gene_product
-PMC2199152	173	uniprot:P07948	Lyn	Gene_or_gene_product
-PMC2199152	173	uniprot:P43405	Syk	Gene_or_gene_product
-PMC2199152	173	uniprot:P19174	PLCgamma1	Gene_or_gene_product
-PMC2199152	173	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	173	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2199152	174	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	174	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	175	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	175	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	175	uniprot:P11912	Ig-alpha	Gene_or_gene_product
-PMC2199152	175	uniprot:P07948	Lyn	Gene_or_gene_product
-PMC2199152	175	uniprot:P43405	Syk	Gene_or_gene_product
-PMC2199152	176	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	176	uniprot:UNRESOLVED ID	J558Lmum3CD45+	Gene_or_gene_product
-PMC2199152	176	uniprot:UNRESOLVED ID	plasmacytoma	CellType
-PMC2199152	176	uazid:UA-CT-22	lymphocytes	CellType
-PMC2199152	176	uniprot:O89094	mice	Species
+PMC2199152	174	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	174	uniprot:P11912	Ig-alpha	Gene_or_gene_product
+PMC2199152	174	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2199152	174	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199152	174	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2199152	174	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	175	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	175	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	176	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	176	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	176	uniprot:P11912	Ig-alpha	Gene_or_gene_product
+PMC2199152	176	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2199152	176	uniprot:P43405	Syk	Gene_or_gene_product
 PMC2199152	177	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	177	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	177	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	177	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	177	uniprot:UNRESOLVED ID	BCR receptor	Gene_or_gene_product
-PMC2199152	178	uniprot:UNRESOLVED ID	src-family kinases	Gene_or_gene_product
-PMC2199152	178	uniprot:P07948	Lyn	Gene_or_gene_product
-PMC2199152	178	uniprot:P06239	Lck	Gene_or_gene_product
+PMC2199152	177	uazid:UA-CLine-100028	J558Lmum3CD45+	Gene_or_gene_product
+PMC2199152	177	uniprot:UNRESOLVED ID	plasmacytoma	CellType
+PMC2199152	177	uniprot:O89094	mice	Species
 PMC2199152	178	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	178	uniprot:P11912	Ig-alpha	Gene_or_gene_product
-PMC2199152	179	uniprot:P01019	angiotensin II	Gene_or_gene_product
-PMC2199152	179	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
-PMC2199152	180	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	181	uniprot:P19174	PLCgamma1	Gene_or_gene_product
-PMC2199152	181	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2199152	178	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	178	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	178	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	178	uniprot:UNRESOLVED ID	BCR receptor	Gene_or_gene_product
+PMC2199152	179	uniprot:UNRESOLVED ID	src-family kinases	Gene_or_gene_product
+PMC2199152	179	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2199152	179	uniprot:P06239	Lck	Gene_or_gene_product
+PMC2199152	179	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	179	uniprot:P11912	Ig-alpha	Gene_or_gene_product
+PMC2199152	180	uniprot:P01019	angiotensin II	Gene_or_gene_product
+PMC2199152	180	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC2199152	181	uniprot:P42348	PI3-kinase	Gene_or_gene_product
 PMC2199152	182	uniprot:P19174	PLCgamma1	Gene_or_gene_product
-PMC2199152	183	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	183	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	184	uniprot:P19174	PLCgamma1	Gene_or_gene_product
-PMC2199152	184	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2199152	182	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2199152	183	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2199152	184	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	184	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	184	uazid:UA-CT-100002	B cells	CellType
 PMC2199152	185	uniprot:P19174	PLCgamma1	Gene_or_gene_product
 PMC2199152	185	uniprot:P16885	PLCgamma2	Gene_or_gene_product
-PMC2199152	186	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	186	uniprot:P01009	PI	Gene_or_gene_product
+PMC2199152	186	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2199152	186	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2199152	187	uniprot:P42348	PI3-kinase	Gene_or_gene_product
 PMC2199152	187	uniprot:P01009	PI	Gene_or_gene_product
-PMC2199152	188	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	189	uniprot:P55241	SH2	Gene_or_gene_product
-PMC2199152	190	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	190	uniprot:P19174	PLCgamma1	Gene_or_gene_product
-PMC2199152	191	interpro:IPR016279	PLCgamma	Gene_or_gene_product
-PMC2199152	192	uniprot:P19174	PLCgamma1	Gene_or_gene_product
-PMC2199152	192	uniprot:P16885	PLCgamma2	Gene_or_gene_product
-PMC2199152	193	interpro:IPR016279	PLCgamma	Gene_or_gene_product
-PMC2199152	194	uniprot:P08567	pleckstrin	Gene_or_gene_product
-PMC2199152	195	uniprot:Q06187	Btk	Gene_or_gene_product
+PMC2199152	188	uniprot:P01009	PI	Gene_or_gene_product
+PMC2199152	189	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	190	uniprot:P55241	SH2	Gene_or_gene_product
+PMC2199152	191	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	191	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2199152	192	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2199152	193	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2199152	193	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2199152	194	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2199152	195	uniprot:P08567	pleckstrin	Gene_or_gene_product
 PMC2199152	196	uniprot:Q06187	Btk	Gene_or_gene_product
-PMC2199152	196	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	197	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
 PMC2199152	197	uniprot:Q06187	Btk	Gene_or_gene_product
-PMC2199152	197	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	197	uniprot:UNRESOLVED ID	plasmacytoma	CellType
-PMC2199152	198	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2199152	197	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	198	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	198	uniprot:Q06187	Btk	Gene_or_gene_product
+PMC2199152	198	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	199	uazid:UA-CT-100002	B cells	CellType
 PMC2199152	199	interpro:IPR016279	PLCgamma	Gene_or_gene_product
-PMC2199152	200	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	200	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	200	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	200	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
-PMC2199152	200	uniprot:UNRESOLVED ID	FcgammaRIIB1	Gene_or_gene_product
-PMC2199152	201	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	201	uniprot:UNRESOLVED ID	FcgammaRIIB1	Gene_or_gene_product
+PMC2199152	200	interpro:IPR016279	PLCgamma	Gene_or_gene_product
 PMC2199152	201	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	201	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2199152	201	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	201	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC2199152	201	uniprot:UNRESOLVED ID	FcgammaRIIB1	Gene_or_gene_product
+PMC2199152	202	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2199152	202	uniprot:UNRESOLVED ID	FcgammaRIIB1	Gene_or_gene_product
 PMC2199152	202	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	202	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	202	uniprot:P42348	PI3-kinase	Gene_or_gene_product
 PMC2199152	203	uniprot:UNRESOLVED ID	FcgammaRIIB1	Gene_or_gene_product
+PMC2199152	203	uniprot:P15391	CD19	Gene_or_gene_product
 PMC2199152	203	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	204	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	204	uniprot:UNRESOLVED ID	ab'	Gene_or_gene_product
+PMC2199152	204	uniprot:UNRESOLVED ID	FcgammaRIIB1	Gene_or_gene_product
+PMC2199152	204	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	205	uazid:UA-CT-100002	B cells	CellType
 PMC2199152	205	uniprot:UNRESOLVED ID	ab'	Gene_or_gene_product
-PMC2199152	205	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	205	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	205	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
-PMC2199152	206	uniprot:UNRESOLVED ID	FcgammaRIIB1 receptor	Gene_or_gene_product
-PMC2199152	206	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC2199152	206	uniprot:UNRESOLVED ID	ab'	Gene_or_gene_product
+PMC2199152	206	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
 PMC2199152	206	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	206	uniprot:UNRESOLVED ID	B cell	CellType
-PMC2199152	208	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	208	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	208	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	208	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2199152	206	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC2199152	207	uniprot:UNRESOLVED ID	FcgammaRIIB1 receptor	Gene_or_gene_product
+PMC2199152	207	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC2199152	207	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	207	uazid:UA-CT-100001	B cell	CellType
 PMC2199152	209	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	209	uniprot:P12872	MAP	Gene_or_gene_product
-PMC2199152	211	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	211	uazid:UA-CT-22	lymphocytes	CellType
-PMC2199152	211	uniprot:UNRESOLVED ID	ab'	Gene_or_gene_product
-PMC2199152	211	uniprot:A9CB96	spike	CellType
-PMC2199152	212	uniprot:UNRESOLVED ID	FcgammaRIIB1	Gene_or_gene_product
-PMC2199152	212	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	212	uniprot:UNRESOLVED ID	case CD19	Gene_or_gene_product
-PMC2199152	212	uniprot:A9CB96	spike	CellType
+PMC2199152	209	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	209	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	209	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2199152	210	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	210	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2199152	212	uniprot:P15391	CD19	Gene_or_gene_product
 PMC2199152	212	uniprot:UNRESOLVED ID	ab'	Gene_or_gene_product
-PMC2199152	214	uniprot:UNRESOLVED ID	B cell	CellType
-PMC2199152	214	uniprot:UNRESOLVED ID	anti-IgM	Gene_or_gene_product
-PMC2199152	215	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	215	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	216	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	217	uniprot:UNRESOLVED ID	FcgammaRIIB1	Gene_or_gene_product
-PMC2199152	217	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	217	uniprot:UNRESOLVED ID	case CD19	Gene_or_gene_product
-PMC2199152	217	uniprot:UNRESOLVED ID	B cell	CellType
-PMC2199152	218	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	218	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	219	uniprot:UNRESOLVED ID	FcgammaRIIB1	Gene_or_gene_product
-PMC2199152	219	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	212	uniprot:A9CB96	spike	CellType
+PMC2199152	213	uniprot:UNRESOLVED ID	FcgammaRIIB1	Gene_or_gene_product
+PMC2199152	213	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	213	uniprot:UNRESOLVED ID	case CD19	Gene_or_gene_product
+PMC2199152	213	uniprot:A9CB96	spike	CellType
+PMC2199152	213	uniprot:UNRESOLVED ID	ab'	Gene_or_gene_product
+PMC2199152	215	uazid:UA-CT-100002	B cells	CellType
+PMC2199152	215	uazid:UA-CT-100001	B cell	CellType
+PMC2199152	215	uniprot:UNRESOLVED ID	anti-IgM	Gene_or_gene_product
+PMC2199152	216	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	216	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	217	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	218	uniprot:UNRESOLVED ID	FcgammaRIIB1	Gene_or_gene_product
+PMC2199152	218	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	218	uniprot:UNRESOLVED ID	case CD19	Gene_or_gene_product
+PMC2199152	218	uazid:UA-CT-100001	B cell	CellType
 PMC2199152	219	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	219	uniprot:P31749	PKB	Gene_or_gene_product
+PMC2199152	219	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	220	uniprot:UNRESOLVED ID	FcgammaRIIB1	Gene_or_gene_product
 PMC2199152	220	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	220	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	220	uniprot:UNRESOLVED ID	B cell	CellType
-PMC2199152	220	uazid:UA-ORG-359	germinal center	Organ
+PMC2199152	220	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	220	uniprot:P31749	PKB	Gene_or_gene_product
 PMC2199152	221	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	221	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2199152	221	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	221	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	221	uazid:UA-CT-100001	B cell	CellType
+PMC2199152	221	uazid:UA-ORG-359	germinal center	Organ
 PMC2199152	222	uniprot:P15391	CD19	Gene_or_gene_product
 PMC2199152	222	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	222	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	222	uniprot:P42348	PI3-kinase	Gene_or_gene_product
 PMC2199152	223	uniprot:P15391	CD19	Gene_or_gene_product
 PMC2199152	223	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	223	uniprot:UNRESOLVED ID	B cell	CellType
-PMC2199152	225	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	225	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	226	uniprot:UNRESOLVED ID	plasmacytoma	CellType
-PMC2199152	227	N/A	J558Lmum3CD45+CD19+	Gene_or_gene_product
-PMC2199152	227	uniprot:UNRESOLVED ID	J558L mum3CD45+ CD19+	Gene_or_gene_product
-PMC2199152	228	uniprot:UNRESOLVED ID	b-7-6 anti-IgM	Gene_or_gene_product
-PMC2199152	228	uniprot:UNRESOLVED ID	HD37 anti-hCD19	Gene_or_gene_product
-PMC2199152	228	uniprot:P48147	PE	Gene_or_gene_product
-PMC2199152	228	uniprot:P22629	streptavidin	Gene_or_gene_product
-PMC2199152	229	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	229	uniprot:UNRESOLVED ID	plasmacytoma	CellType
-PMC2199152	229	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	230	uniprot:UNRESOLVED ID	J558Lmum3CD45+CD19-	Gene_or_gene_product
-PMC2199152	230	uniprot:UNRESOLVED ID	J558Lmum3CD45+CD19+	Gene_or_gene_product
-PMC2199152	230	uniprot:UNRESOLVED ID	indo-1 AM	Gene_or_gene_product
+PMC2199152	224	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	224	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	224	uazid:UA-CT-100001	B cell	CellType
+PMC2199152	226	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	226	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	228	N/A	J558Lmum3CD45+CD19+	Gene_or_gene_product
+PMC2199152	228	uniprot:UNRESOLVED ID	J558L mum3CD45+ CD19+	Gene_or_gene_product
+PMC2199152	229	uniprot:UNRESOLVED ID	b-7-6 anti-IgM	Gene_or_gene_product
+PMC2199152	229	uniprot:UNRESOLVED ID	HD37 anti-hCD19	Gene_or_gene_product
+PMC2199152	229	uniprot:P48147	PE	Gene_or_gene_product
+PMC2199152	229	uniprot:P22629	streptavidin	Gene_or_gene_product
+PMC2199152	230	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	230	uniprot:UNRESOLVED ID	plasmacytoma	CellType
 PMC2199152	230	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	231	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
 PMC2199152	231	uniprot:UNRESOLVED ID	J558Lmum3CD45+CD19-	Gene_or_gene_product
 PMC2199152	231	uniprot:UNRESOLVED ID	J558Lmum3CD45+CD19+	Gene_or_gene_product
-PMC2199152	237	uniprot:UNRESOLVED ID	Antigen	Gene_or_gene_product
-PMC2199152	237	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	239	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
-PMC2199152	239	uniprot:UNRESOLVED ID	[3H]IP3 receptor	Gene_or_gene_product
+PMC2199152	231	uniprot:UNRESOLVED ID	indo-1 AM	Gene_or_gene_product
+PMC2199152	231	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	232	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	232	uniprot:UNRESOLVED ID	J558Lmum3CD45+CD19-	Gene_or_gene_product
+PMC2199152	232	uniprot:UNRESOLVED ID	J558Lmum3CD45+CD19+	Gene_or_gene_product
+PMC2199152	238	uniprot:UNRESOLVED ID	Antigen	Gene_or_gene_product
+PMC2199152	238	uniprot:P15391	CD19	Gene_or_gene_product
 PMC2199152	240	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
-PMC2199152	242	uniprot:UNRESOLVED ID	Myo- [2-3H	Gene_or_gene_product
-PMC2199152	245	uniprot:Q12999	SAS	Gene_or_gene_product
-PMC2199152	245	uniprot:P15882	NC	Gene_or_gene_product
-PMC2199152	246	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	246	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	247	uniprot:UNRESOLVED ID	J558Lmum3 CD45+ variants	Gene_or_gene_product
-PMC2199152	250	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	250	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	250	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	251	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	240	uniprot:UNRESOLVED ID	[3H]IP3 receptor	Gene_or_gene_product
+PMC2199152	241	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC2199152	243	uniprot:UNRESOLVED ID	Myo- [2-3H	Gene_or_gene_product
+PMC2199152	246	uniprot:Q12999	SAS	Gene_or_gene_product
+PMC2199152	246	uniprot:P15882	NC	Gene_or_gene_product
+PMC2199152	247	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	247	uniprot:P15391	CD19	Gene_or_gene_product
 PMC2199152	251	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	251	uniprot:UNRESOLVED ID	anti-p85 antibody	Gene_or_gene_product
-PMC2199152	252	uniprot:P42348	P-I3 kinase	Gene_or_gene_product
-PMC2199152	253	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	255	uniprot:Q12999	SAS	Gene_or_gene_product
-PMC2199152	255	uniprot:P15882	NC	Gene_or_gene_product
-PMC2199152	256	uniprot:UNRESOLVED ID	J558Lmum3CD45+CD19-	Gene_or_gene_product
-PMC2199152	257	uniprot:UNRESOLVED ID	Wortmannin	Gene_or_gene_product
-PMC2199152	257	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	257	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	257	uniprot:UNRESOLVED ID	plasmacytoma	CellType
+PMC2199152	251	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	251	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	252	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	252	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	252	uniprot:UNRESOLVED ID	anti-p85 antibody	Gene_or_gene_product
+PMC2199152	253	uniprot:P42348	P-I3 kinase	Gene_or_gene_product
+PMC2199152	254	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	256	uniprot:Q12999	SAS	Gene_or_gene_product
+PMC2199152	256	uniprot:P15882	NC	Gene_or_gene_product
+PMC2199152	257	uniprot:UNRESOLVED ID	J558Lmum3CD45+CD19-	Gene_or_gene_product
+PMC2199152	258	uniprot:UNRESOLVED ID	Wortmannin	Gene_or_gene_product
+PMC2199152	258	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
 PMC2199152	258	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	258	uniprot:Q9HD26	Fig	Gene_or_gene_product
-PMC2199152	260	uniprot:UNRESOLVED ID	JMP 3.16	Gene_or_gene_product
-PMC2199152	261	uniprot:UNRESOLVED ID	J558Lmum3CD45+CD19+	Gene_or_gene_product
-PMC2199152	261	uniprot:P35318	AM	Gene_or_gene_product
-PMC2199152	264	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
-PMC2199152	264	uniprot:Q9Y0A1	IP3 receptor	Gene_or_gene_product
-PMC2199152	266	uniprot:UNRESOLVED ID	JMP 3.16	Gene_or_gene_product
-PMC2199152	267	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	267	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	267	uniprot:P19174	PLCgamma1	Gene_or_gene_product
-PMC2199152	267	uniprot:P16885	PLCgamma2	Gene_or_gene_product
-PMC2199152	267	uniprot:P07948	Lyn	Gene_or_gene_product
-PMC2199152	267	uniprot:P11912	Ig-alpha	Gene_or_gene_product
-PMC2199152	267	uniprot:P43405	Syk	Gene_or_gene_product
-PMC2199152	268	uniprot:UNRESOLVED ID	J558Lmum3CD45+CD19+	Gene_or_gene_product
-PMC2199152	268	uniprot:UNRESOLVED ID	NP9BSA	Gene_or_gene_product
-PMC2199152	272	N/A	CD19	Gene_or_gene_product
-PMC2199152	272	uniprot:UNRESOLVED ID	CD19Y484F	Gene_or_gene_product
-PMC2199152	272	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	273	uniprot:P15391	CD19	Gene_or_gene_product
-PMC2199152	273	uniprot:UNRESOLVED ID	J558Lmum3CD45+ CD19+	Gene_or_gene_product
-PMC2199152	273	N/A	J558Lmum3CD45+CD19+	Gene_or_gene_product
-PMC2199152	273	uniprot:UNRESOLVED ID	Indo-1 AM	Gene_or_gene_product
+PMC2199152	258	uniprot:UNRESOLVED ID	plasmacytoma	CellType
+PMC2199152	259	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	259	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2199152	261	uniprot:UNRESOLVED ID	JMP 3.16	Gene_or_gene_product
+PMC2199152	262	uniprot:UNRESOLVED ID	J558Lmum3CD45+CD19+	Gene_or_gene_product
+PMC2199152	262	uniprot:P35318	AM	Gene_or_gene_product
+PMC2199152	265	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC2199152	265	uniprot:Q9Y0A1	IP3 receptor	Gene_or_gene_product
+PMC2199152	267	uniprot:UNRESOLVED ID	JMP 3.16	Gene_or_gene_product
+PMC2199152	268	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	268	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	268	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2199152	268	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2199152	268	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2199152	268	uniprot:P11912	Ig-alpha	Gene_or_gene_product
+PMC2199152	268	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199152	269	uniprot:UNRESOLVED ID	J558Lmum3CD45+CD19+	Gene_or_gene_product
+PMC2199152	269	uniprot:UNRESOLVED ID	NP9BSA	Gene_or_gene_product
+PMC2199152	273	N/A	CD19	Gene_or_gene_product
+PMC2199152	273	uniprot:UNRESOLVED ID	CD19Y484F	Gene_or_gene_product
 PMC2199152	273	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	276	uniprot:UNRESOLVED ID	Antigen	Gene_or_gene_product
-PMC2199152	276	uniprot:O89094	mice	Species
-PMC2199152	277	uazid:UA-ORG-903	spleens	Organ
+PMC2199152	274	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2199152	274	uniprot:UNRESOLVED ID	J558Lmum3CD45+ CD19+	Gene_or_gene_product
+PMC2199152	274	N/A	J558Lmum3CD45+CD19+	Gene_or_gene_product
+PMC2199152	274	uniprot:UNRESOLVED ID	Indo-1 AM	Gene_or_gene_product
+PMC2199152	274	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	277	uniprot:UNRESOLVED ID	Antigen	Gene_or_gene_product
+PMC2199152	277	uazid:UA-CT-100002	B cells	CellType
 PMC2199152	277	uniprot:O89094	mice	Species
-PMC2199152	277	uniprot:UNRESOLVED ID	Indo-1	Gene_or_gene_product
-PMC2199152	279	uniprot:UNRESOLVED ID	ab'	Gene_or_gene_product
-PMC2199152	282	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	282	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	282	uniprot:O89094	mice	Species
-PMC2199152	282	uniprot:UNRESOLVED ID	CD19+/+ littermates	Gene_or_gene_product
-PMC2199152	283	uazid:UA-ORG-903	spleens	Organ
-PMC2199152	283	uniprot:P15391	CD19-/-	Gene_or_gene_product
-PMC2199152	283	uniprot:UNRESOLVED ID	CD19+/+	Gene_or_gene_product
+PMC2199152	278	uazid:UA-CT-100002	B cells	CellType
+PMC2199152	278	uazid:UA-CT-200004	spleens	Organ
+PMC2199152	278	uniprot:O89094	mice	Species
+PMC2199152	278	uniprot:UNRESOLVED ID	Indo-1	Gene_or_gene_product
+PMC2199152	280	uniprot:UNRESOLVED ID	ab'	Gene_or_gene_product
+PMC2199152	283	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	283	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	283	uazid:UA-CT-100002	B cells	CellType
 PMC2199152	283	uniprot:O89094	mice	Species
-PMC2199152	283	uniprot:UNRESOLVED ID	ab')2 RAMIG	Gene_or_gene_product
-PMC2199152	283	uniprot:UNRESOLVED ID	anti-p85 antibody	Gene_or_gene_product
-PMC2199152	284	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	283	uniprot:UNRESOLVED ID	CD19+/+ littermates	Gene_or_gene_product
+PMC2199152	284	uazid:UA-CT-100002	B cells	CellType
+PMC2199152	284	uazid:UA-CT-200004	spleens	Organ
+PMC2199152	284	uniprot:P15391	CD19-/-	Gene_or_gene_product
+PMC2199152	284	uniprot:UNRESOLVED ID	CD19+/+	Gene_or_gene_product
+PMC2199152	284	uniprot:O89094	mice	Species
+PMC2199152	284	uniprot:UNRESOLVED ID	ab')2 RAMIG	Gene_or_gene_product
+PMC2199152	284	uniprot:UNRESOLVED ID	anti-p85 antibody	Gene_or_gene_product
 PMC2199152	285	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	288	uniprot:Q12999	SAS	Gene_or_gene_product
-PMC2199152	289	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	289	uniprot:O89094	mice	Species
-PMC2199152	289	uniprot:UNRESOLVED ID	CD19+/+	Gene_or_gene_product
-PMC2199152	290	uazid:UA-ORG-903	spleen	Organ
-PMC2199152	290	uniprot:P15391	CD19-/-	Gene_or_gene_product
-PMC2199152	290	uniprot:UNRESOLVED ID	CD19+/+	Gene_or_gene_product
+PMC2199152	286	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	289	uniprot:Q12999	SAS	Gene_or_gene_product
+PMC2199152	290	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	290	uazid:UA-CT-100002	B cells	CellType
 PMC2199152	290	uniprot:O89094	mice	Species
-PMC2199152	290	uniprot:UNRESOLVED ID	Indo-1	Gene_or_gene_product
-PMC2199152	291	uniprot:UNRESOLVED ID	ab'	Gene_or_gene_product
-PMC2199152	292	uniprot:P15391	CD19-/-	Gene_or_gene_product
-PMC2199152	292	uniprot:UNRESOLVED ID	CD19+/+	Gene_or_gene_product
-PMC2199152	292	uniprot:O89094	mice	Species
-PMC2199152	294	uniprot:UNRESOLVED ID	ab'	Gene_or_gene_product
-PMC2199152	297	uniprot:UNRESOLVED ID	hCD19 cDNA	Gene_or_gene_product
-PMC2199152	297	uniprot:UNRESOLVED ID	Marc Hertz	Gene_or_gene_product
-PMC2199152	298	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2199152	298	uniprot:UNRESOLVED ID	B cell	CellType
-PMC2199152	298	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
-PMC2199152	298	uniprot:UNRESOLVED ID	antigen receptor	Gene_or_gene_product
-PMC2199152	298	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
-PMC2199152	298	uniprot:UNRESOLVED ID	inositol-1,4,5-trisphosphate	Gene_or_gene_product
-PMC2199152	298	uniprot:UNRESOLVED ID	ITAM	Gene_or_gene_product
-PMC2199152	298	uniprot:O60259	NP	Gene_or_gene_product
-PMC2199152	298	uniprot:P01298	PH	Gene_or_gene_product
-PMC2199152	298	uniprot:P08567	pleckstrin	Gene_or_gene_product
-PMC2199152	298	uniprot:P01009	PI	Gene_or_gene_product
-PMC2199152	298	uniprot:P42348	PI3-kinase	Gene_or_gene_product
-PMC2199152	299	uniprot:UNRESOLVED ID	Leukemia	CellType
+PMC2199152	290	uniprot:UNRESOLVED ID	CD19+/+	Gene_or_gene_product
+PMC2199152	291	uazid:UA-CT-100002	B cells	CellType
+PMC2199152	291	uazid:UA-ORG-903	spleen	Organ
+PMC2199152	291	uniprot:P15391	CD19-/-	Gene_or_gene_product
+PMC2199152	291	uniprot:UNRESOLVED ID	CD19+/+	Gene_or_gene_product
+PMC2199152	291	uniprot:O89094	mice	Species
+PMC2199152	291	uniprot:UNRESOLVED ID	Indo-1	Gene_or_gene_product
+PMC2199152	292	uniprot:UNRESOLVED ID	ab'	Gene_or_gene_product
+PMC2199152	293	uazid:UA-CT-100002	B cells	CellType
+PMC2199152	293	uniprot:P15391	CD19-/-	Gene_or_gene_product
+PMC2199152	293	uniprot:UNRESOLVED ID	CD19+/+	Gene_or_gene_product
+PMC2199152	293	uniprot:O89094	mice	Species
+PMC2199152	295	uniprot:UNRESOLVED ID	ab'	Gene_or_gene_product
+PMC2199152	298	uniprot:UNRESOLVED ID	hCD19 cDNA	Gene_or_gene_product
+PMC2199152	298	uniprot:UNRESOLVED ID	Marc Hertz	Gene_or_gene_product
+PMC2199152	299	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2199152	299	uazid:UA-CT-100001	B cell	CellType
+PMC2199152	299	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199152	299	uniprot:UNRESOLVED ID	antigen receptor	Gene_or_gene_product
+PMC2199152	299	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC2199152	299	uniprot:UNRESOLVED ID	inositol-1,4,5-trisphosphate	Gene_or_gene_product
+PMC2199152	299	uniprot:UNRESOLVED ID	ITAM	Gene_or_gene_product
+PMC2199152	299	uniprot:O60259	NP	Gene_or_gene_product
+PMC2199152	299	uniprot:P01298	PH	Gene_or_gene_product
+PMC2199152	299	uniprot:P08567	pleckstrin	Gene_or_gene_product
+PMC2199152	299	uniprot:P01009	PI	Gene_or_gene_product
+PMC2199152	299	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2199152	300	uniprot:UNRESOLVED ID	Leukemia	CellType

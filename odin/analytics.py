@@ -9,7 +9,6 @@ from sklearn.feature_extraction import DictVectorizer
 from sklearn.cluster import AffinityPropagation
 
 # Necessary to work in OS X
-matplotlib.use('TkAgg')
 
 def parse_files(dir):
     ''' Parsed the TSV files generated from ODIN into pandas' data frames '''
@@ -105,6 +104,7 @@ if __name__ == '__main__':
     # Binarize X
     X[X > 1] = 1
 
+
     ## Give an index to each document
     docs = {k:v for k, v in enumerate(entity_dicts.keys())}
 
@@ -122,6 +122,7 @@ if __name__ == '__main__':
     # Sort X documents by decimal value value
     sorted_rows = [x[0] for x in sorted(enumerate([bits2decimal(X[i, :]) for i in xrange(X.shape[0])]), key=lambda x: x[1], reverse=True)] #sort(X)
     X = X[sorted_rows, :]
+    X = X[:, :129]
 
     plt.ion()
     fig, ax = plt.subplots()

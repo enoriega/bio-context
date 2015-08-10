@@ -1,6 +1,7 @@
 #!/bin/sh
 
 DIR='brat_sof'
+TSVDIR='tsv'
 
 # Iterate through each stand off file
 for F in $DIR/*.ann
@@ -12,6 +13,8 @@ do
     LINE=$(grep "^$ID\t" $F | sort -u)
     FILE=$(echo "$LINE" | awk '{print $2}')
     TEXT=$(echo "$LINE" | awk -F'\t' '{print $3}')
+
+    # This is to add the entries to the NER
     echo $TEXT >> $FILE.context
   done
 done

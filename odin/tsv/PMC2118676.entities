@@ -165,7 +165,6 @@ PMC2118676	81	ncbitax:species:ncbi:9606	human	Species
 PMC2118676	81	ncbitax:species:ncbi:10090	mouse	Species
 PMC2118676	82	uniprot:Q969H0	FBW7	Gene_or_gene_product
 PMC2118676	85	uniprot:Q969H0	FBW7	Gene_or_gene_product
-PMC2118676	86	uniprot:UNRESOLVED ID	KOPTK1 T-ALL sample	Gene_or_gene_product
 PMC2118676	86	uniprot:UNRESOLVED ID	WT LTPSPESP degron	Gene_or_gene_product
 PMC2118676	86	uniprot:UNRESOLVED ID	mutated LTPSRVP sequence	Gene_or_gene_product
 PMC2118676	87	uniprot:Q969H0	FBW7	Gene_or_gene_product
@@ -227,10 +226,7 @@ PMC2118676	114	uniprot:P46531	NOTCH1	Gene_or_gene_product
 PMC2118676	114	uniprot:Q969H0	FBW7	Gene_or_gene_product
 PMC2118676	115	uniprot:UNRESOLVED ID	NOTCH1-HD	Gene_or_gene_product
 PMC2118676	115	uniprot:UNRESOLVED ID	RPMI 8402	Gene_or_gene_product
-PMC2118676	115	uniprot:UNRESOLVED ID	P12-ICHIKAWA	Gene_or_gene_product
-PMC2118676	115	uniprot:UNRESOLVED ID	CEM	Gene_or_gene_product
 PMC2118676	115	uniprot:P46531	NOTCH1	Gene_or_gene_product
-PMC2118676	115	uniprot:UNRESOLVED ID	Be13	Gene_or_gene_product
 PMC2118676	116	uniprot:P46531	NOTCH1	Gene_or_gene_product
 PMC2118676	116	uniprot:Q969H0	FBW7	Gene_or_gene_product
 PMC2118676	117	uniprot:P46531	NOTCH1	Gene_or_gene_product
@@ -299,16 +295,11 @@ PMC2118676	148	uniprot:Q969H0	FBW7	Gene_or_gene_product
 PMC2118676	148	uniprot:UNRESOLVED ID	FBW7MUT	Gene_or_gene_product
 PMC2118676	148	uniprot:UNRESOLVED ID	c-Myc protein	Gene_or_gene_product
 PMC2118676	149	uniprot:UNRESOLVED ID	gamma-secretase	Gene_or_gene_product
-PMC2118676	149	uniprot:UNRESOLVED ID	KOPTK	Gene_or_gene_product
 PMC2118676	149	uniprot:UNRESOLVED ID	FBW7WT	Gene_or_gene_product
-PMC2118676	149	uniprot:UNRESOLVED ID	Be13	Gene_or_gene_product
 PMC2118676	149	uniprot:UNRESOLVED ID	FBW7MUT	Gene_or_gene_product
-PMC2118676	149	uniprot:UNRESOLVED ID	P12-ICHICAWA	Gene_or_gene_product
-PMC2118676	149	uniprot:UNRESOLVED ID	CEM	Gene_or_gene_product
 PMC2118676	149	uniprot:UNRESOLVED ID	gamma-secretase inhibitor	Gene_or_gene_product
 PMC2118676	150	uniprot:UNRESOLVED ID	N1-IC protein	Gene_or_gene_product
 PMC2118676	151	uniprot:UNRESOLVED ID	c-Myc protein	Gene_or_gene_product
-PMC2118676	151	uniprot:UNRESOLVED ID	KOPTK	Gene_or_gene_product
 PMC2118676	151	uniprot:UNRESOLVED ID	FBW7WT	Gene_or_gene_product
 PMC2118676	152	uniprot:UNRESOLVED ID	c-Myc protein	Gene_or_gene_product
 PMC2118676	153	uniprot:P46531	NOTCH1	Gene_or_gene_product

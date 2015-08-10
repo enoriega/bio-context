@@ -33,7 +33,7 @@ PMC3355962	12	uazid:UA-ORG-599	muscle	Organ
 PMC3355962	12	uazid:UA-ORG-520	liver	Organ
 PMC3355962	13	ncbitax:species:ncbi:10090	mouse	Species
 PMC3355962	13	uniprot:P01308	insulin	Gene_or_gene_product
-PMC3355962	13	uazid:UA-ORG-114	brain	Organ
+PMC3355962	13	uazid:UA-CT-200001	brain	Organ
 PMC3355962	13	uniprot:UNRESOLVED ID	endothelium	CellType
 PMC3355962	13	ncbitax:species:ncbi:3758	Plum	Species
 PMC3355962	14	uniprot:UNRESOLVED ID	IGFs	Gene_or_gene_product
@@ -286,7 +286,7 @@ PMC3355962	102	uniprot:P42348	PI3K	Gene_or_gene_product
 PMC3355962	102	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
 PMC3355962	102	uniprot:P62993	Grb2	Gene_or_gene_product
 PMC3355962	103	uniprot:P15692	VEGF	Gene_or_gene_product
-PMC3355962	103	uniprot:UNRESOLVED ID	fibroblasts	CellType
+PMC3355962	103	uazid:UA-CT-100006	NIH3T3 fibroblasts	CellType
 PMC3355962	103	uniprot:P42348	PI3K	Gene_or_gene_product
 PMC3355962	103	uniprot:P06213	IR	Gene_or_gene_product
 PMC3355962	103	uniprot:P27638	MAPK	Gene_or_gene_product
@@ -316,7 +316,7 @@ PMC3355962	111	uniprot:UNRESOLVED ID	p52Shc	Gene_or_gene_product
 PMC3355962	112	uniprot:P62993	Grb2	Gene_or_gene_product
 PMC3355962	112	uniprot:UNRESOLVED ID	Sos adaptor	Gene_or_gene_product
 PMC3355962	112	uniprot:Q9NR83	GEF	Gene_or_gene_product
-PMC3355962	113	uniprot:UNRESOLVED ID	fibroblasts	CellType
+PMC3355962	113	uazid:UA-CT-100023	fibroblasts	CellType
 PMC3355962	113	uniprot:UNRESOLVED ID	p52Shc	Gene_or_gene_product
 PMC3355962	113	uniprot:P29323	ERK	Gene_or_gene_product
 PMC3355962	113	uniprot:P01308	insulin	Gene_or_gene_product
@@ -387,7 +387,7 @@ PMC3355962	131	uniprot:P22618	IGF	Gene_or_gene_product
 PMC3355962	132	uniprot:Q13480	Gab-1	Gene_or_gene_product
 PMC3355962	132	uniprot:P18146	Egr-1	Gene_or_gene_product
 PMC3355962	132	uniprot:P01308	insulin	Gene_or_gene_product
-PMC3355962	132	uniprot:UNRESOLVED ID	fibroblasts	CellType
+PMC3355962	132	uazid:UA-CT-100023	fibroblasts	CellType
 PMC3355962	133	uniprot:P06213	IR	Gene_or_gene_product
 PMC3355962	133	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
 PMC3355962	133	uniprot:UNRESOLVED ID	Gabs	Gene_or_gene_product
@@ -557,7 +557,7 @@ PMC3355962	178	uniprot:P55241	SH2	Gene_or_gene_product
 PMC3355962	179	uniprot:UNRESOLVED ID	CrkII	Gene_or_gene_product
 PMC3355962	179	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
 PMC3355962	179	uniprot:P06213	IR	Gene_or_gene_product
-PMC3355962	180	uniprot:UNRESOLVED ID	fibroblasts	CellType
+PMC3355962	180	uazid:UA-CT-100006	NIH3T3 fibroblasts	CellType
 PMC3355962	180	uniprot:UNRESOLVED ID	CrkII	Gene_or_gene_product
 PMC3355962	180	uniprot:P42348	PI3K	Gene_or_gene_product
 PMC3355962	180	uniprot:P29323	ERK	Gene_or_gene_product
@@ -645,7 +645,7 @@ PMC3355962	204	uniprot:P01308	insulin	Gene_or_gene_product
 PMC3355962	205	ncbitax:species:ncbi:9606	humans	Species
 PMC3355962	205	uniprot:Q13322	Grb10	Gene_or_gene_product
 PMC3355962	206	uniprot:Q13322	Grb10	Gene_or_gene_product
-PMC3355962	206	uazid:UA-ORG-114	brain	Organ
+PMC3355962	206	uazid:UA-CT-200001	brain	Organ
 PMC3355962	208	uniprot:P06213	IR	Gene_or_gene_product
 PMC3355962	208	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
 PMC3355962	208	uniprot:Q13322	Grb10	Gene_or_gene_product
@@ -674,8 +674,7 @@ PMC3355962	219	uniprot:P63244	RACK1	Gene_or_gene_product
 PMC3355962	219	uniprot:P12931	Src	Gene_or_gene_product
 PMC3355962	219	uniprot:Q06124	SHP2	Gene_or_gene_product
 PMC3355962	219	uniprot:O43439	p85	Gene_or_gene_product
-PMC3355962	219	ncbitax:species:ncbi:10090	mouse	Species
-PMC3355962	219	uniprot:UNRESOLVED ID	fibroblasts	CellType
+PMC3355962	219	uazid:UA-CT-100028	mouse embryonic fibroblasts	CellType
 PMC3355962	219	uniprot:P54644	Akt	Gene_or_gene_product
 PMC3355962	220	uniprot:P05019	IGF-1	Gene_or_gene_product
 PMC3355962	220	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
@@ -706,7 +705,7 @@ PMC3355962	226	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
 PMC3355962	226	uniprot:P13678	PKC	Gene_or_gene_product
 PMC3355962	226	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
 PMC3355962	226	uniprot:P05019	IGF-1	Gene_or_gene_product
-PMC3355962	226	uniprot:UNRESOLVED ID	fibroblasts	CellType
+PMC3355962	226	uazid:UA-CT-100006	NIH3T3 fibroblasts	CellType
 PMC3355962	227	uniprot:P63244	RACK1	Gene_or_gene_product
 PMC3355962	227	uniprot:Q05397	FAK	Gene_or_gene_product
 PMC3355962	227	uniprot:P41252	IRS	Gene_or_gene_product
@@ -738,8 +737,6 @@ PMC3355962	233	uniprot:P63244	RACK1	Gene_or_gene_product
 PMC3355962	233	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
 PMC3355962	234	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
 PMC3355962	234	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
-PMC3355962	235	uniprot:F1Q4R9	CHO	CellType
-PMC3355962	235	uazid:UA-ORG-888	smooth muscle	Organ
 PMC3355962	235	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
 PMC3355962	235	uniprot:P22618	IGF	Gene_or_gene_product
 PMC3355962	235	uniprot:Q08722	integrin-associated protein	Gene_or_gene_product
@@ -930,7 +927,6 @@ PMC3355962	282	uniprot:Q388M1	GSK3	Gene_or_gene_product
 PMC3355962	282	uniprot:P29323	ERK	Gene_or_gene_product
 PMC3355962	283	uniprot:UNRESOLVED ID	c-Abl	Gene_or_gene_product
 PMC3355962	283	uniprot:Q05397	FAK	Gene_or_gene_product
-PMC3355962	284	uazid:UA-ORG-116	breast	Organ
 PMC3355962	284	uniprot:UNRESOLVED ID	c-Abl	Gene_or_gene_product
 PMC3355962	284	uniprot:P05019	IGF-1	Gene_or_gene_product
 PMC3355962	284	uniprot:P40763	STAT3	Gene_or_gene_product
@@ -1027,7 +1023,7 @@ PMC3355962	316	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
 PMC3355962	316	uniprot:P54644	Akt	Gene_or_gene_product
 PMC3355962	317	uniprot:P06213	IR	Gene_or_gene_product
 PMC3355962	317	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
-PMC3355962	318	uniprot:UNRESOLVED ID	fibroblasts	CellType
+PMC3355962	318	uazid:UA-CT-100023	fibroblasts	CellType
 PMC3355962	318	uniprot:P05019	IGF-1	Gene_or_gene_product
 PMC3355962	318	uniprot:P01308	insulin	Gene_or_gene_product
 PMC3355962	319	uniprot:P06213	IR	Gene_or_gene_product
@@ -1213,7 +1209,7 @@ PMC3355962	385	uniprot:UNRESOLVED ID	APS/CAP/Cbl	Gene_or_gene_product
 PMC3355962	385	uniprot:P01308	insulin	Gene_or_gene_product
 PMC3355962	385	uniprot:UNRESOLVED ID	adipocytes	CellType
 PMC3355962	385	uniprot:P63244	RACK1	Gene_or_gene_product
-PMC3355962	385	uniprot:UNRESOLVED ID	fibroblasts	CellType
+PMC3355962	385	uazid:UA-CT-100023	fibroblasts	CellType
 PMC3355962	386	uniprot:O14492	APS	Gene_or_gene_product
 PMC3355962	386	uniprot:UNRESOLVED ID	IGFR	Gene_or_gene_product
 PMC3355962	386	uniprot:P63244	RACK1	Gene_or_gene_product

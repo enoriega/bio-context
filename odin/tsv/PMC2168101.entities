@@ -100,7 +100,6 @@ PMC2168101	47	uniprot:Q90Z06	PKA	Gene_or_gene_product
 PMC2168101	47	uniprot:P12872	MAP	Gene_or_gene_product
 PMC2168101	48	uniprot:UNRESOLVED ID	GST-PTP-SL	Gene_or_gene_product
 PMC2168101	48	uniprot:Q5JHG5	cPKA	Gene_or_gene_product
-PMC2168101	48	uniprot:Q2UCP5	Rat-1	Gene_or_gene_product
 PMC2168101	49	uniprot:P12872	MAP	Gene_or_gene_product
 PMC2168101	49	uniprot:P27361	ERK1	Gene_or_gene_product
 PMC2168101	49	uniprot:UNRESOLVED ID	p38alpha	Gene_or_gene_product
@@ -199,8 +198,8 @@ PMC2168101	73	uniprot:P05451	PTP	Gene_or_gene_product
 PMC2168101	74	uniprot:Q90Z06	PKA	Gene_or_gene_product
 PMC2168101	74	uniprot:P12872	MAP	Gene_or_gene_product
 PMC2168101	75	uniprot:UNRESOLVED ID	PTP-SL	Gene_or_gene_product
-PMC2168101	75	uazid:UA-ORG-114	brain	Organ
-PMC2168101	75	uniprot:UNRESOLVED ID	Purkinje cells	CellType
+PMC2168101	75	uazid:UA-CT-200001	brain	Organ
+PMC2168101	75	uazid:UA-CLine-100042	Purkinje cells	CellType
 PMC2168101	75	uazid:UA-ORG-149	cerebellum	Organ
 PMC2168101	75	uniprot:P12872	MAP	Gene_or_gene_product
 PMC2168101	75	uniprot:Q90Z06	PKA	Gene_or_gene_product

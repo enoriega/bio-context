@@ -1,11 +1,11 @@
 Paper ID	Line Num	Master ID	Dependent ID	Text	Type
-PMC2171339	39	uazid:UA-ORG-727	uniprot:P18031	PTP-1B, alphaIIbbeta3, and c-Src in platelets	ContextLocation
-PMC2171339	57	uniprot:O89094	uazid:UA-ORG-727	platelets from knockout mice	ContextDirection
-PMC2171339	106	uniprot:O89094	uazid:UA-ORG-727	Platelets from PTP-1B+/+ and PTP-1B-/- mice	ContextDirection
-PMC2171339	124	uniprot:O89094	uazid:UA-ORG-727	Platelets from at least four mice	ContextDirection
-PMC2171339	133	uniprot:O89094	uazid:UA-ORG-727	Platelets from PTP-1B-/- and PTP-1B+/+ mice	ContextDirection
-PMC2171339	169	uniprot:O89094	uazid:UA-ORG-727	platelets from motheaten viable mice	ContextDirection
-PMC2171339	178	uazid:UA-ORG-727	uniprot:UNRESOLVED ID	alphaIIbbeta3 complex in platelets	ContextLocation
-PMC2171339	232	uniprot:O89094	uazid:UA-ORG-727	platelets from at least four mice	ContextDirection
-PMC2171339	234	uazid:UA-ORG-727	uniprot:UNRESOLVED ID	alphaIIbbeta3 in mouse platelets	ContextLocation
-PMC2171339	249	uniprot:O89094	uazid:UA-ORG-727	platelets from PTP-1B-/- and PTP-1B+/+ mice	ContextDirection
+PMC2171339	39	uazid:UA-CT-100034	uniprot:P18031	PTP-1B, alphaIIbbeta3, and c-Src in platelets	ContextLocation
+PMC2171339	57	uniprot:O89094	uazid:UA-CT-100034	platelets from knockout mice	ContextDirection
+PMC2171339	106	uniprot:O89094	uazid:UA-CT-100034	Platelets from PTP-1B+/+ and PTP-1B-/- mice	ContextDirection
+PMC2171339	124	uniprot:O89094	uazid:UA-CT-100034	Platelets from at least four mice	ContextDirection
+PMC2171339	133	uniprot:O89094	uazid:UA-CT-100034	Platelets from PTP-1B-/- and PTP-1B+/+ mice	ContextDirection
+PMC2171339	169	uniprot:O89094	uazid:UA-CT-100034	platelets from motheaten viable mice	ContextDirection
+PMC2171339	178	uazid:UA-CT-100034	uniprot:UNRESOLVED ID	alphaIIbbeta3 complex in platelets	ContextLocation
+PMC2171339	232	uniprot:O89094	uazid:UA-CT-100034	platelets from at least four mice	ContextDirection
+PMC2171339	234	uazid:UA-CT-100034	uniprot:UNRESOLVED ID	alphaIIbbeta3 in mouse platelets	ContextLocation
+PMC2171339	249	uniprot:O89094	uazid:UA-CT-100034	platelets from PTP-1B-/- and PTP-1B+/+ mice	ContextDirection

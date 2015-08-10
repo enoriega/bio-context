@@ -181,28 +181,29 @@ PMC2212994	false	sec-10	34	178	Flag tagged mouse wild-type TAK1 and its mutant c
 PMC2212994	false	sec-10	34	179	Each cDNA was cloned into the pApuro with IRES-GFP expression vector     .
 PMC2212994	false	sec-10	34	180	Kinase-dead TAK1 , dA TAK1 , and dB TAK1 harboured K63W point mutation , internal deletion ( amino acids 401-530 ) , and COOH-terminal deletion ( amino acids 531-579 ) , respectively .
 PMC2212994	false	sec-10	34	181	These constructs were transfected into each mutant DT40 cells by electroporation as described elsewhere     .
-PMC2212994	false	sec-11	35	182	Based on published sequence of murine PKCbetaII , CARMA1 , and TAK1 , we searched each chicken homologue using the expressed sequence tag database and obtained each chicken cDNA by RT-PCR with RNA from DT40 B cells .
-PMC2212994	false	sec-11	35	183	Genomic clones of PKCbetaII , CARMA1 , and TAK1 were obtained by PCR using oligonucleotides ( designed from each cDNA sequence ) and genomic DNA as a template .
-PMC2212994	false	sec-11	35	184	The targeting vector , pPKCbetaII-neo or pPKCbetaII-hisD , was constructed by replacing the genomic fragment containing exons that correspond to murine PKCbetaII ATP binding domain with neo or hisD cassette .
-PMC2212994	false	sec-11	35	185	The targeting constructs for CARMA1 were designed for neo and hisD cassettes to replace the genomic fragment of chicken CARMA1 exons 2-7 .
-PMC2212994	false	sec-11	35	186	The targeting constructs for TAK1 were designed for neo and hisD cassettes to replace the genomic fragment corresponding to murine TAK1 ATP binding domain .
-PMC2212994	false	sec-11	35	187	These targeting vectors were sequentially transfected into DT40 cells , resulting in generation of PKCbetaII - , CARMA1 - , or TAK1 deficient DT40 cells , as described previously     .
-PMC2212994	false	sec-12	36	188	For immunoprecipitation , cells were solubilized in NP-40 lysis buffer supplemented with protease and phosphatase inhibitors as described previously      and precleared lysates were incubated with proper Abs and protein G-sepharose ( GE Healthcare ) .
-PMC2212994	false	sec-12	36	189	For Western blot analysis , immunoprecipitates or cleared-cell lysates were resolved on SDS-PAGE , transferred to polyvinyldifluoride ( PVDF ) membrane ( Bio-Rad Laboratories ) , and incubation with secondary horseradish peroxidase labeled ( GE Healthcare ) or alkaline phosphatase labeled ( Santa Cruz Biotechnology , Inc. ) Abs .
-PMC2212994	false	sec-12	36	190	The blots were washed and visualized with the SuperSignal West Dura Extended Duration Substrate ( Pierce Chemical Co. ) or BCIP and NBT Color Development system ( Promega ) .
-PMC2212994	false	sec-13	37	191	DNA binding activity of NF-kappaB was analyzed by EMSA as described previously     .
-PMC2212994	false	sec-13	37	192	In brief , the nuclear extracts of DT40 cells ( 2 x 106 ) treated with 10 mug and ml M4 were purified , incubated with a specific probe for the NF-kappaB DNA binding site ( 5 ' - CAACGGCAGGGGAATTCCCCTCTCCTT-3 ' ) , electrophoresed , and visualized by autoradiography .
-PMC2212994	false	sec-14	38	193	For IKK and TAK1 kinase assays , 2 x 107 DT40 cells stimulated with 10 mug and ml M4 were lysed in 1 % NP-40 lysis buffer .
-PMC2212994	false	sec-14	38	194	Precleared lysates were immunoprecipitated by 1 mug anti-IKKgamma mAb or 1 mug anti-Flag mAb , followed by incubating with 40 mul of protein G-sepharose .
-PMC2212994	false	sec-14	38	195	The beads were washed three times with lysis buffer and two times with kinase buffer ( 25 mM Tris , pH 7.5 , 5 mM beta-glycerolphosphate , 2 mM DTT , 0.1 mM Na3VO4 , 10 mM MgCl2 ) .
-PMC2212994	false	sec-14	38	196	Immunoprecipitates were resuspended in kinase buffer containing 100 muM ATP .
-PMC2212994	false	sec-14	38	197	GST-IkappaBalpha ( NH2-terminal of mouse IkappaBalpha ; amino acids 1-72 ) or GST-IKKbeta ( activation loop of human IKKbeta ; DLGYAKELDQGSLCTSFVGTLQYLAPELLEQQ or its mutant ; DLGYAKELDQGALCTAFVGTLQYLAPELLEQQ ) fusion protein ( 0.2 mug each ) was added as a substrate for IKK or TAK1 , respectively .
-PMC2212994	false	sec-14	38	198	After 30 min incubation at 30degreesC , the reaction was terminated by addition of SDS sample buffer followed by boiling for 5 min .
-PMC2212994	false	sec-14	38	199	The samples were separated by SDS-PAGE gel , transferred to PVDF membrane , and detected by anti-phospho-IkappaBalpha mAb or anti-phospho-IKKalpha and beta respectively .
-PMC2212994	false	sec-14	38	200	For JNK kinase assay , JNK kinase assay kit ( Cell Signaling Technology Inc. ) was used according to the manufacturer 's instructions .
-PMC2212994	false	sec-15	39	201	Cell surface expression of BCR on various mutant DT40 cells was analyzed by FACSCalibur ( Becton Dickinson ) using anti-chicken IgM Ab ( Bethyl ) conjugated with allophycocyanin ( Dojindo ) .
-PMC2212994	false	sec-16	40	202	Fig .
-PMC2212994	false	sec-16	40	203	S1 A shows protein expression in DT40 wild-type , TAK1 - , PKCbeta - , and CARMA1 deficient DT40 B cells analyzed by Western blot .
-PMC2212994	false	sec-16	40	204	Fig .
-PMC2212994	false	sec-16	40	205	S1 ( B and C ) depicts cell surface expression of BCR on various mutant DT40 cells .
-PMC2212994	false	sec-16	40	206	Online supplemental material is available at http://www.jem.org/cgi/content/full/jem.20051591/DC1 .
+PMC2212994	true	sec-11	35	182	Generation of various deficient DT40 cells
+PMC2212994	false	sec-11	36	183	Based on published sequence of murine PKCbetaII , CARMA1 , and TAK1 , we searched each chicken homologue using the expressed sequence tag database and obtained each chicken cDNA by RT-PCR with RNA from DT40 B cells .
+PMC2212994	false	sec-11	36	184	Genomic clones of PKCbetaII , CARMA1 , and TAK1 were obtained by PCR using oligonucleotides ( designed from each cDNA sequence ) and genomic DNA as a template .
+PMC2212994	false	sec-11	36	185	The targeting vector , pPKCbetaII-neo or pPKCbetaII-hisD , was constructed by replacing the genomic fragment containing exons that correspond to murine PKCbetaII ATP binding domain with neo or hisD cassette .
+PMC2212994	false	sec-11	36	186	The targeting constructs for CARMA1 were designed for neo and hisD cassettes to replace the genomic fragment of chicken CARMA1 exons 2-7 .
+PMC2212994	false	sec-11	36	187	The targeting constructs for TAK1 were designed for neo and hisD cassettes to replace the genomic fragment corresponding to murine TAK1 ATP binding domain .
+PMC2212994	false	sec-11	36	188	These targeting vectors were sequentially transfected into DT40 cells , resulting in generation of PKCbetaII - , CARMA1 - , or TAK1 deficient DT40 cells , as described previously     .
+PMC2212994	false	sec-12	37	189	For immunoprecipitation , cells were solubilized in NP-40 lysis buffer supplemented with protease and phosphatase inhibitors as described previously      and precleared lysates were incubated with proper Abs and protein G-sepharose ( GE Healthcare ) .
+PMC2212994	false	sec-12	37	190	For Western blot analysis , immunoprecipitates or cleared-cell lysates were resolved on SDS-PAGE , transferred to polyvinyldifluoride ( PVDF ) membrane ( Bio-Rad Laboratories ) , and incubation with secondary horseradish peroxidase labeled ( GE Healthcare ) or alkaline phosphatase labeled ( Santa Cruz Biotechnology , Inc. ) Abs .
+PMC2212994	false	sec-12	37	191	The blots were washed and visualized with the SuperSignal West Dura Extended Duration Substrate ( Pierce Chemical Co. ) or BCIP and NBT Color Development system ( Promega ) .
+PMC2212994	false	sec-13	38	192	DNA binding activity of NF-kappaB was analyzed by EMSA as described previously     .
+PMC2212994	false	sec-13	38	193	In brief , the nuclear extracts of DT40 cells ( 2 x 106 ) treated with 10 mug and ml M4 were purified , incubated with a specific probe for the NF-kappaB DNA binding site ( 5 ' - CAACGGCAGGGGAATTCCCCTCTCCTT-3 ' ) , electrophoresed , and visualized by autoradiography .
+PMC2212994	false	sec-14	39	194	For IKK and TAK1 kinase assays , 2 x 107 DT40 cells stimulated with 10 mug and ml M4 were lysed in 1 % NP-40 lysis buffer .
+PMC2212994	false	sec-14	39	195	Precleared lysates were immunoprecipitated by 1 mug anti-IKKgamma mAb or 1 mug anti-Flag mAb , followed by incubating with 40 mul of protein G-sepharose .
+PMC2212994	false	sec-14	39	196	The beads were washed three times with lysis buffer and two times with kinase buffer ( 25 mM Tris , pH 7.5 , 5 mM beta-glycerolphosphate , 2 mM DTT , 0.1 mM Na3VO4 , 10 mM MgCl2 ) .
+PMC2212994	false	sec-14	39	197	Immunoprecipitates were resuspended in kinase buffer containing 100 muM ATP .
+PMC2212994	false	sec-14	39	198	GST-IkappaBalpha ( NH2-terminal of mouse IkappaBalpha ; amino acids 1-72 ) or GST-IKKbeta ( activation loop of human IKKbeta ; DLGYAKELDQGSLCTSFVGTLQYLAPELLEQQ or its mutant ; DLGYAKELDQGALCTAFVGTLQYLAPELLEQQ ) fusion protein ( 0.2 mug each ) was added as a substrate for IKK or TAK1 , respectively .
+PMC2212994	false	sec-14	39	199	After 30 min incubation at 30degreesC , the reaction was terminated by addition of SDS sample buffer followed by boiling for 5 min .
+PMC2212994	false	sec-14	39	200	The samples were separated by SDS-PAGE gel , transferred to PVDF membrane , and detected by anti-phospho-IkappaBalpha mAb or anti-phospho-IKKalpha and beta respectively .
+PMC2212994	false	sec-14	39	201	For JNK kinase assay , JNK kinase assay kit ( Cell Signaling Technology Inc. ) was used according to the manufacturer 's instructions .
+PMC2212994	false	sec-15	40	202	Cell surface expression of BCR on various mutant DT40 cells was analyzed by FACSCalibur ( Becton Dickinson ) using anti-chicken IgM Ab ( Bethyl ) conjugated with allophycocyanin ( Dojindo ) .
+PMC2212994	false	sec-16	41	203	Fig .
+PMC2212994	false	sec-16	41	204	S1 A shows protein expression in DT40 wild-type , TAK1 - , PKCbeta - , and CARMA1 deficient DT40 B cells analyzed by Western blot .
+PMC2212994	false	sec-16	41	205	Fig .
+PMC2212994	false	sec-16	41	206	S1 ( B and C ) depicts cell surface expression of BCR on various mutant DT40 cells .
+PMC2212994	false	sec-16	41	207	Online supplemental material is available at http://www.jem.org/cgi/content/full/jem.20051591/DC1 .

@@ -4,7 +4,7 @@ PMC2212994	0	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2212994	0	uniprot:UNRESOLVED ID	IKK	Gene_or_gene_product
 PMC2212994	0	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	0	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
-PMC2212994	1	uniprot:UNRESOLVED ID	B cell	CellType
+PMC2212994	1	uazid:UA-CT-100001	B cell	CellType
 PMC2212994	1	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
 PMC2212994	1	uniprot:UNRESOLVED ID	antigen receptor	Gene_or_gene_product
 PMC2212994	1	uniprot:P11274	BCR	Gene_or_gene_product
@@ -34,32 +34,34 @@ PMC2212994	7	uniprot:UNRESOLVED ID	IKK	Gene_or_gene_product
 PMC2212994	7	uniprot:P13678	PKC	Gene_or_gene_product
 PMC2212994	7	uniprot:B1JSR0	beta-	Gene_or_gene_product
 PMC2212994	7	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
+PMC2212994	7	uazid:UA-CT-100002	B cells	CellType
+PMC2212994	7	uazid:UA-CT-100003	DT40 B cells	CellType
 PMC2212994	8	uniprot:P05771	PKCbeta-	Gene_or_gene_product
 PMC2212994	8	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
+PMC2212994	9	uazid:UA-CT-100004	DT40 cells	CellType
 PMC2212994	9	uniprot:UNRESOLVED ID	IKK	Gene_or_gene_product
 PMC2212994	9	uniprot:P25963	IkappaBalpha	Gene_or_gene_product
 PMC2212994	9	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2212994	10	uniprot:UNRESOLVED ID	NF-kappaB	Gene_or_gene_product
 PMC2212994	10	uniprot:P05771	PKCbeta-	Gene_or_gene_product
 PMC2212994	10	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
+PMC2212994	10	uazid:UA-CT-100004	DT40 cells	CellType
 PMC2212994	10	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2212994	11	ncbitax:species:ncbi:9031	chicken	Species
-PMC2212994	11	uniprot:UNRESOLVED ID	B cell	CellType
+PMC2212994	11	uazid:UA-CT-100001	B cell	CellType
 PMC2212994	11	uniprot:P05771	PKCbeta	Gene_or_gene_product
 PMC2212994	11	uniprot:UNRESOLVED ID	IKK	Gene_or_gene_product
 PMC2212994	11	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2212994	12	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2212994	12	uniprot:UNRESOLVED ID	B cell	CellType
+PMC2212994	12	uazid:UA-CT-100001	B cell	CellType
 PMC2212994	12	uniprot:Q9HD26	Fig	Gene_or_gene_product
 PMC2212994	14	uniprot:P05771	PKCbeta	Gene_or_gene_product
 PMC2212994	14	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
 PMC2212994	14	uniprot:UNRESOLVED ID	IKK	Gene_or_gene_product
+PMC2212994	14	uazid:UA-CT-100004	DT40 cells	CellType
 PMC2212994	15	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2212994	15	uniprot:UNRESOLVED ID	IKK	Gene_or_gene_product
-PMC2212994	15	uniprot:P05771	PKCbeta-	Gene_or_gene_product
-PMC2212994	15	uniprot:P05771	PKCbeta-/-	Gene_or_gene_product
-PMC2212994	15	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
-PMC2212994	15	uniprot:Q9BXL7	CARMA1-/-	Gene_or_gene_product
+PMC2212994	15	uazid:UA-CT-100005	DT40 wild-type (wt), PKCbeta- (PKCbeta-/-), and CARMA1-deficient (CARMA1-/-) DT40 B cells	CellType
 PMC2212994	16	uniprot:UNRESOLVED ID	IKK	Gene_or_gene_product
 PMC2212994	16	uniprot:UNRESOLVED ID	IKK kinase	Gene_or_gene_product
 PMC2212994	17	uniprot:UNRESOLVED ID	IKK	Gene_or_gene_product
@@ -84,20 +86,27 @@ PMC2212994	25	uniprot:UNRESOLVED ID	IKK	Gene_or_gene_product
 PMC2212994	26	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	26	interpro:IPR000975	IL-1	Gene_or_gene_product
 PMC2212994	27	uniprot:O43318	TAK1	Gene_or_gene_product
+PMC2212994	27	uazid:UA-CT-100002	B cells	CellType
 PMC2212994	28	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	28	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2212994	29	uazid:UA-CT-100003	DT40 B cells	CellType
+PMC2212994	30	uazid:UA-CT-100003	DT40 B cells	CellType
 PMC2212994	31	uniprot:Q56704	Flag	Species
 PMC2212994	31	uniprot:O43318	TAK1	Gene_or_gene_product
+PMC2212994	31	uazid:UA-CT-100003	DT40 B cells	CellType
 PMC2212994	31	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2212994	32	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	32	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2212994	33	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	33	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2212994	33	uazid:UA-CT-100002	B cells	CellType
+PMC2212994	33	uazid:UA-CT-100003	DT40 B cells	CellType
 PMC2212994	34	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	34	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2212994	34	uniprot:UNRESOLVED ID	IKK	Gene_or_gene_product
 PMC2212994	35	uniprot:O43318	TAK1	Gene_or_gene_product
-PMC2212994	35	uazid:UA-ORG-903	spleens	Organ
+PMC2212994	35	uazid:UA-CT-100002	B cells	CellType
+PMC2212994	35	uazid:UA-CT-200004	spleens	Organ
 PMC2212994	35	uniprot:O89094	mice	Species
 PMC2212994	35	uniprot:UNRESOLVED ID	anti-mouse IgM F	Gene_or_gene_product
 PMC2212994	36	uniprot:UNRESOLVED ID	anti-TAK1 Ab	Gene_or_gene_product
@@ -107,14 +116,16 @@ PMC2212994	37	uniprot:Q9UJV9	Abs	Gene_or_gene_product
 PMC2212994	38	uniprot:UNRESOLVED ID	IKK	Gene_or_gene_product
 PMC2212994	38	uniprot:P25963	IkappaBalpha	Gene_or_gene_product
 PMC2212994	38	uniprot:UNRESOLVED ID	NF-kappaB	Gene_or_gene_product
-PMC2212994	38	uniprot:O43318	TAK1	Gene_or_gene_product
+PMC2212994	38	uazid:UA-CT-100015	TAK1-deficient DT40 cells	CellType
 PMC2212994	39	uniprot:P29323	ERK	Gene_or_gene_product
 PMC2212994	39	uniprot:UNRESOLVED ID	anti-phospho-p44	Gene_or_gene_product
 PMC2212994	39	uniprot:UNRESOLVED ID	p42 MAP	Gene_or_gene_product
 PMC2212994	39	uniprot:Q24174	Ab	Gene_or_gene_product
 PMC2212994	40	uniprot:Q966Y3	JNK	Gene_or_gene_product
 PMC2212994	41	uniprot:O43318	TAK1	Gene_or_gene_product
+PMC2212994	41	uazid:UA-CT-100004	DT40 cells	CellType
 PMC2212994	41	uniprot:Q56704	Flag	Species
+PMC2212994	41	uazid:UA-CT-100015	TAK1-deficient DT40 cells	CellType
 PMC2212994	42	uniprot:UNRESOLVED ID	anti-Flag mAb	Gene_or_gene_product
 PMC2212994	42	uniprot:Q9UJV9	Abs	Gene_or_gene_product
 PMC2212994	43	uniprot:UNRESOLVED ID	IKK kinase	Gene_or_gene_product
@@ -123,6 +134,7 @@ PMC2212994	44	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	45	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2212994	45	uniprot:UNRESOLVED ID	NF-kappaB	Gene_or_gene_product
 PMC2212994	45	uniprot:O43318	TAK1	Gene_or_gene_product
+PMC2212994	45	uazid:UA-CT-100003	DT40 B cells	CellType
 PMC2212994	46	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	46	uniprot:P12872	MAP	Gene_or_gene_product
 PMC2212994	46	uniprot:UNRESOLVED ID	extracellular signal-regulated kinase	Gene_or_gene_product
@@ -131,24 +143,28 @@ PMC2212994	46	uniprot:UNRESOLVED ID	c-Jun NH2-terminal kinase	Gene_or_gene_produ
 PMC2212994	46	uniprot:Q966Y3	JNK	Gene_or_gene_product
 PMC2212994	46	uniprot:Q9UJV9	Abs	Gene_or_gene_product
 PMC2212994	47	uniprot:P29323	ERK	Gene_or_gene_product
-PMC2212994	47	uniprot:O43318	TAK1	Gene_or_gene_product
+PMC2212994	47	uazid:UA-CT-100016	TAK1-deficient cells	CellType
 PMC2212994	47	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2212994	47	uniprot:Q966Y3	JNK	Gene_or_gene_product
 PMC2212994	48	uniprot:UNRESOLVED ID	IKK	Gene_or_gene_product
 PMC2212994	48	uniprot:Q966Y3	JNK	Gene_or_gene_product
 PMC2212994	48	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2212994	48	uniprot:O43318	TAK1	Gene_or_gene_product
+PMC2212994	48	uazid:UA-CT-100016	TAK1-deficient cells	CellType
 PMC2212994	49	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	49	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2212994	49	uniprot:UNRESOLVED ID	IKK	Gene_or_gene_product
 PMC2212994	49	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2212994	49	uazid:UA-CT-100003	DT40 B cells	CellType
 PMC2212994	50	uniprot:P05771	PKCbeta	Gene_or_gene_product
 PMC2212994	50	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	51	uniprot:O43318	TAK1	Gene_or_gene_product
+PMC2212994	51	uazid:UA-CT-100003	DT40 B cells	CellType
 PMC2212994	51	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2212994	51	uniprot:UNRESOLVED ID	IKK	Gene_or_gene_product
 PMC2212994	51	uniprot:P05771	PKCbeta-	Gene_or_gene_product
 PMC2212994	51	uniprot:Q86X55	CARM1	Gene_or_gene_product
+PMC2212994	51	uazid:UA-CT-100002	B cells	CellType
 PMC2212994	51	uniprot:P05771	PKCbeta	Gene_or_gene_product
 PMC2212994	51	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
 PMC2212994	52	uniprot:O43318	TAK1	Gene_or_gene_product
@@ -159,7 +175,7 @@ PMC2212994	52	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
 PMC2212994	53	uniprot:P05771	PKCbeta	Gene_or_gene_product
 PMC2212994	53	uniprot:UNRESOLVED ID	anti-phospho-PKCbeta Ab	Gene_or_gene_product
 PMC2212994	53	uniprot:O43318	TAK1	Gene_or_gene_product
-PMC2212994	53	uniprot:UNRESOLVED ID	B cell	CellType
+PMC2212994	53	uazid:UA-CT-100001	B cell	CellType
 PMC2212994	54	uniprot:P05771	PKCbeta	Gene_or_gene_product
 PMC2212994	54	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	54	uniprot:P11274	BCR	Gene_or_gene_product
@@ -167,19 +183,24 @@ PMC2212994	54	uniprot:UNRESOLVED ID	IKK	Gene_or_gene_product
 PMC2212994	55	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
 PMC2212994	55	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2212994	55	uniprot:UNRESOLVED ID	PKCtheta	Gene_or_gene_product
+PMC2212994	55	uazid:UA-CT-100029	nonlymphoid cells	CellType
 PMC2212994	56	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
 PMC2212994	56	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2212994	56	uazid:UA-CT-100003	DT40 B cells	CellType
 PMC2212994	57	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
-PMC2212994	57	uniprot:O43318	TAK1	Gene_or_gene_product
+PMC2212994	57	uazid:UA-CT-100016	TAK1-deficient cells	CellType
 PMC2212994	58	uniprot:P05771	PKCbeta	Gene_or_gene_product
 PMC2212994	58	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	59	uniprot:P05771	PKCbeta	Gene_or_gene_product
 PMC2212994	59	uniprot:UNRESOLVED ID	anti-phospho-PKCbeta Ab	Gene_or_gene_product
 PMC2212994	59	ncbitax:species:ncbi:9606	human	Species
+PMC2212994	59	uazid:UA-CT-100004	DT40 cells	CellType
 PMC2212994	60	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
+PMC2212994	60	uazid:UA-CT-100041	wild-type or TAK-/- DT40 cells	CellType
 PMC2212994	60	uniprot:UNRESOLVED ID	anti-CARMA1 Ab	Gene_or_gene_product
 PMC2212994	60	uniprot:Q9UJV9	Abs	Gene_or_gene_product
 PMC2212994	61	uniprot:O43318	TAK1	Gene_or_gene_product
+PMC2212994	61	uazid:UA-CT-100004	DT40 cells	CellType
 PMC2212994	61	uniprot:Q56704	Flag	Species
 PMC2212994	61	uniprot:P50750	TAK-/-	Gene_or_gene_product
 PMC2212994	61	uniprot:P05771	PKCbeta-/-	Gene_or_gene_product
@@ -187,6 +208,7 @@ PMC2212994	62	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	63	uniprot:P05771	PKCbeta	Gene_or_gene_product
 PMC2212994	63	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
 PMC2212994	63	uniprot:O43318	TAK1	Gene_or_gene_product
+PMC2212994	63	uazid:UA-CT-100003	DT40 B cells	CellType
 PMC2212994	64	uniprot:P05771	PKCbeta-	Gene_or_gene_product
 PMC2212994	64	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
 PMC2212994	64	uniprot:O43318	TAK1	Gene_or_gene_product
@@ -197,9 +219,11 @@ PMC2212994	66	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	66	uniprot:UNRESOLVED ID	IKK	Gene_or_gene_product
 PMC2212994	66	uniprot:P05771	PKCbeta	Gene_or_gene_product
 PMC2212994	66	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
+PMC2212994	66	uazid:UA-CT-100003	DT40 B cells	CellType
 PMC2212994	67	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	67	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
-PMC2212994	68	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2212994	67	uazid:UA-CT-100002	B cells	CellType
+PMC2212994	68	uazid:UA-CT-100035	primary B cells after BCR stimulation	CellType
 PMC2212994	69	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	69	uniprot:P05771	PKCbeta	Gene_or_gene_product
 PMC2212994	70	uniprot:O43318	TAK1	Gene_or_gene_product
@@ -217,11 +241,13 @@ PMC2212994	74	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
 PMC2212994	74	uniprot:UNRESOLVED ID	IKK	Gene_or_gene_product
 PMC2212994	75	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	75	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
-PMC2212994	76	uniprot:O43318	TAK1	Gene_or_gene_product
+PMC2212994	76	uazid:UA-CT-100015	TAK1-deficient DT40 cells	CellType
 PMC2212994	76	uniprot:Q56704	Flag	Species
+PMC2212994	76	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	76	uniprot:UNRESOLVED ID	anti-Flag mAb	Gene_or_gene_product
 PMC2212994	76	uniprot:UNRESOLVED ID	anti-CARMA1 Ab	Gene_or_gene_product
-PMC2212994	77	uazid:UA-ORG-903	spleens	Organ
+PMC2212994	77	uazid:UA-CT-100002	B cells	CellType
+PMC2212994	77	uazid:UA-CT-200004	spleens	Organ
 PMC2212994	77	uniprot:O89094	mice	Species
 PMC2212994	77	uniprot:UNRESOLVED ID	anti-mouse IgM F	Gene_or_gene_product
 PMC2212994	78	uniprot:UNRESOLVED ID	anti-CARMA1 Ab	Gene_or_gene_product
@@ -233,6 +259,7 @@ PMC2212994	80	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	81	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	81	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
 PMC2212994	82	uniprot:O43318	TAK1	Gene_or_gene_product
+PMC2212994	82	uazid:UA-CT-100015	TAK1-deficient DT40 cells	CellType
 PMC2212994	83	uniprot:UNRESOLVED ID	anti-Flag mAb	Gene_or_gene_product
 PMC2212994	83	uniprot:UNRESOLVED ID	anti-CARMA1 Ab	Gene_or_gene_product
 PMC2212994	84	uniprot:P25963	IkappaBalpha	Gene_or_gene_product
@@ -253,7 +280,7 @@ PMC2212994	91	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2212994	91	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	92	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
 PMC2212994	92	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2212994	92	uniprot:P50750	TAK	Gene_or_gene_product
+PMC2212994	92	uazid:UA-CT-100014	TAK-deficient DT40 B cells	CellType
 PMC2212994	93	uniprot:P05771	PKCbeta	Gene_or_gene_product
 PMC2212994	93	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
 PMC2212994	93	uniprot:P11274	BCR	Gene_or_gene_product
@@ -263,11 +290,11 @@ PMC2212994	94	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2212994	95	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2212994	95	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	95	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
-PMC2212994	95	uniprot:P05771	PKCbeta	Gene_or_gene_product
+PMC2212994	95	uazid:UA-CT-100009	PKCbeta-deficient DT40 B cells	CellType
 PMC2212994	96	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2212994	96	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
 PMC2212994	96	uniprot:O43318	TAK1	Gene_or_gene_product
-PMC2212994	97	uniprot:P05771	PKCbeta	Gene_or_gene_product
+PMC2212994	97	uazid:UA-CT-100038	wild-type and PKCbeta-deficient DT40 B cells	CellType
 PMC2212994	97	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
 PMC2212994	97	uniprot:O95999	Bcl10	Gene_or_gene_product
 PMC2212994	97	uniprot:Q9UDY8	MALT1	Gene_or_gene_product
@@ -278,16 +305,17 @@ PMC2212994	99	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	99	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
 PMC2212994	99	uniprot:P05771	PKCbeta	Gene_or_gene_product
 PMC2212994	100	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
-PMC2212994	100	uniprot:P05771	PKCbeta-/-	Gene_or_gene_product
+PMC2212994	100	uazid:UA-CT-100040	wild-type or PKCbeta-/- DT40 cells	CellType
 PMC2212994	100	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	100	uniprot:O43318	TAK1-	Gene_or_gene_product
-PMC2212994	100	uniprot:P05771	PKCbeta	Gene_or_gene_product
+PMC2212994	100	uazid:UA-CT-100010	PKCbeta-deficient DT40 cells	CellType
 PMC2212994	100	uniprot:Q56704	Flag	Species
 PMC2212994	100	uniprot:UNRESOLVED ID	anti-Flag mAb	Gene_or_gene_product
 PMC2212994	100	uniprot:UNRESOLVED ID	anti-CARMA1 Ab	Gene_or_gene_product
 PMC2212994	101	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
 PMC2212994	101	uniprot:O95999	Bcl10	Gene_or_gene_product
 PMC2212994	101	uniprot:Q9UDY8	MALT1	Gene_or_gene_product
+PMC2212994	101	uazid:UA-CT-100008	PKCbeta-/- cells	CellType
 PMC2212994	101	uniprot:UNRESOLVED ID	anti-CARMA1 Ab	Gene_or_gene_product
 PMC2212994	101	uniprot:Q9UJV9	Abs	Gene_or_gene_product
 PMC2212994	102	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
@@ -324,6 +352,7 @@ PMC2212994	112	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	112	uniprot:O14920	IKKbeta	Gene_or_gene_product
 PMC2212994	113	uniprot:Q56704	Flag	Species
 PMC2212994	113	uniprot:O43318	TAK1	Gene_or_gene_product
+PMC2212994	113	uazid:UA-CT-100003	DT40 B cells	CellType
 PMC2212994	113	uniprot:O60760	glutathione S-transferase	Gene_or_gene_product
 PMC2212994	113	uniprot:Q86UG4	GST	Gene_or_gene_product
 PMC2212994	113	uniprot:O14920	IKKbeta	Gene_or_gene_product
@@ -351,6 +380,7 @@ PMC2212994	120	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
 PMC2212994	121	uniprot:O15530	PDK1	Gene_or_gene_product
 PMC2212994	121	uniprot:P05771	PKCbeta	Gene_or_gene_product
 PMC2212994	121	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
+PMC2212994	121	uazid:UA-CT-100002	B cells	CellType
 PMC2212994	122	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2212994	122	uniprot:UNRESOLVED ID	NF-kappaB	Gene_or_gene_product
 PMC2212994	123	uniprot:P11274	BCR	Gene_or_gene_product
@@ -379,7 +409,7 @@ PMC2212994	128	uniprot:P05771	PKCbeta	Gene_or_gene_product
 PMC2212994	128	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	128	uniprot:O95999	Bcl10	Gene_or_gene_product
 PMC2212994	128	uniprot:Q9UDY8	MALT1	Gene_or_gene_product
-PMC2212994	129	uniprot:P05771	PKCbeta	Gene_or_gene_product
+PMC2212994	129	uazid:UA-CT-100039	wild-type and PKCbeta-deficient DT40 cells	CellType
 PMC2212994	129	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
 PMC2212994	129	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	129	uniprot:O95999	Bcl10	Gene_or_gene_product
@@ -387,6 +417,7 @@ PMC2212994	129	uniprot:Q9UDY8	MALT1	Gene_or_gene_product
 PMC2212994	129	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2212994	130	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2212994	130	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
+PMC2212994	130	uazid:UA-CT-100015	TAK1-deficient DT40 cells	CellType
 PMC2212994	130	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	131	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
 PMC2212994	131	uniprot:O95999	Bcl10	Gene_or_gene_product
@@ -413,6 +444,7 @@ PMC2212994	139	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
 PMC2212994	139	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2212994	140	uniprot:O95999	Bcl10	Gene_or_gene_product
 PMC2212994	140	uniprot:Q9UDY8	MALT1	Gene_or_gene_product
+PMC2212994	141	uazid:UA-CT-100003	DT40 B cells	CellType
 PMC2212994	142	uniprot:O95999	Bcl10	Gene_or_gene_product
 PMC2212994	142	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
 PMC2212994	142	uniprot:UNRESOLVED ID	antigen receptor	Gene_or_gene_product
@@ -442,10 +474,12 @@ PMC2212994	150	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	151	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	151	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2212994	151	uniprot:UNRESOLVED ID	IKK	Gene_or_gene_product
+PMC2212994	151	uazid:UA-CT-100003	DT40 B cells	CellType
 PMC2212994	152	uniprot:P05771	PKCbeta	Gene_or_gene_product
 PMC2212994	152	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	153	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	153	uniprot:O14920	IKKbeta	Gene_or_gene_product
+PMC2212994	154	uazid:UA-CT-100037	wild-type DT40 cells	CellType
 PMC2212994	154	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	154	uniprot:P05771	PKCbeta-	Gene_or_gene_product
 PMC2212994	154	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
@@ -479,6 +513,7 @@ PMC2212994	162	uniprot:UNRESOLVED ID	antigen receptor	Gene_or_gene_product
 PMC2212994	162	uniprot:UNRESOLVED ID	IKK	Gene_or_gene_product
 PMC2212994	163	uniprot:P11274	BCR	Gene_or_gene_product
 PMC2212994	163	uniprot:UNRESOLVED ID	IKK	Gene_or_gene_product
+PMC2212994	163	uazid:UA-CT-100004	DT40 cells	CellType
 PMC2212994	163	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	164	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
 PMC2212994	164	uniprot:UNRESOLVED ID	NF-kappaB	Gene_or_gene_product
@@ -491,6 +526,7 @@ PMC2212994	165	uniprot:UNRESOLVED ID	IKK	Gene_or_gene_product
 PMC2212994	165	uniprot:UNRESOLVED ID	CRAMA1-Bcl10-MALT1	Gene_or_gene_product
 PMC2212994	166	uniprot:O89094	mice	Species
 PMC2212994	166	uniprot:Q9UJV9	Abs	Gene_or_gene_product
+PMC2212994	167	uazid:UA-CT-100004	DT40 cells	CellType
 PMC2212994	167	uniprot:UNRESOLVED ID	RPMI 1640	Gene_or_gene_product
 PMC2212994	167	uniprot:O95696	BRL	Gene_or_gene_product
 PMC2212994	167	ncbitax:species:ncbi:9031	chicken	Species
@@ -528,59 +564,68 @@ PMC2212994	178	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	179	uniprot:UNRESOLVED ID	IRES-GFP	Gene_or_gene_product
 PMC2212994	180	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	180	uniprot:UNRESOLVED ID	dB TAK1	Gene_or_gene_product
-PMC2212994	182	uniprot:UNRESOLVED ID	murine PKCbetaII	Gene_or_gene_product
-PMC2212994	182	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
-PMC2212994	182	uniprot:O43318	TAK1	Gene_or_gene_product
-PMC2212994	182	ncbitax:species:ncbi:9031	chicken	Species
-PMC2212994	183	uniprot:UNRESOLVED ID	PKCbetaII	Gene_or_gene_product
+PMC2212994	181	uazid:UA-CT-100004	DT40 cells	CellType
+PMC2212994	182	uazid:UA-CT-100004	DT40 cells	CellType
+PMC2212994	183	uniprot:UNRESOLVED ID	murine PKCbetaII	Gene_or_gene_product
 PMC2212994	183	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
 PMC2212994	183	uniprot:O43318	TAK1	Gene_or_gene_product
-PMC2212994	184	uniprot:P00552	neo	Gene_or_gene_product
-PMC2212994	184	uniprot:UNRESOLVED ID	hisD cassette	Gene_or_gene_product
-PMC2212994	185	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
+PMC2212994	183	ncbitax:species:ncbi:9031	chicken	Species
+PMC2212994	183	uazid:UA-CT-100003	DT40 B cells	CellType
+PMC2212994	184	uniprot:UNRESOLVED ID	PKCbetaII	Gene_or_gene_product
+PMC2212994	184	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
+PMC2212994	184	uniprot:O43318	TAK1	Gene_or_gene_product
 PMC2212994	185	uniprot:P00552	neo	Gene_or_gene_product
-PMC2212994	185	uniprot:Q9RH05	hisD	Gene_or_gene_product
-PMC2212994	185	ncbitax:species:ncbi:9031	chicken	Species
-PMC2212994	186	uniprot:O43318	TAK1	Gene_or_gene_product
+PMC2212994	185	uniprot:UNRESOLVED ID	hisD cassette	Gene_or_gene_product
+PMC2212994	186	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
 PMC2212994	186	uniprot:P00552	neo	Gene_or_gene_product
 PMC2212994	186	uniprot:Q9RH05	hisD	Gene_or_gene_product
-PMC2212994	187	uniprot:UNRESOLVED ID	PKCbetaII	Gene_or_gene_product
-PMC2212994	187	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
+PMC2212994	186	ncbitax:species:ncbi:9031	chicken	Species
 PMC2212994	187	uniprot:O43318	TAK1	Gene_or_gene_product
-PMC2212994	188	uniprot:P10265	protease	Gene_or_gene_product
-PMC2212994	188	uniprot:Q9UJV9	Abs	Gene_or_gene_product
-PMC2212994	189	uniprot:UNRESOLVED ID	PVDF	Gene_or_gene_product
-PMC2212994	189	ncbitax:species:ncbi:3704	horseradish	Species
+PMC2212994	187	uniprot:P00552	neo	Gene_or_gene_product
+PMC2212994	187	uniprot:Q9RH05	hisD	Gene_or_gene_product
+PMC2212994	188	uazid:UA-CT-100004	DT40 cells	CellType
+PMC2212994	188	uniprot:UNRESOLVED ID	PKCbetaII	Gene_or_gene_product
+PMC2212994	188	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
+PMC2212994	188	uazid:UA-CT-100015	TAK1-deficient DT40 cells	CellType
+PMC2212994	189	uniprot:P10265	protease	Gene_or_gene_product
 PMC2212994	189	uniprot:Q9UJV9	Abs	Gene_or_gene_product
-PMC2212994	190	uniprot:UNRESOLVED ID	NBT	Gene_or_gene_product
-PMC2212994	191	uniprot:UNRESOLVED ID	NF-kappaB	Gene_or_gene_product
-PMC2212994	192	uniprot:UNRESOLVED ID	NF-kappaB DNA binding site	Gene_or_gene_product
-PMC2212994	192	uniprot:UNRESOLVED ID	5'-CAACGGCAGGGGAATTCCCCTCTCCTT-3'	Gene_or_gene_product
-PMC2212994	193	uniprot:UNRESOLVED ID	IKK	Gene_or_gene_product
-PMC2212994	193	uniprot:O43318	TAK1	Gene_or_gene_product
-PMC2212994	195	uniprot:Q9NQV6	Tris	Gene_or_gene_product
-PMC2212994	195	uniprot:P01298	pH	Gene_or_gene_product
-PMC2212994	195	uniprot:UNRESOLVED ID	0.1 mM Na3VO4	Gene_or_gene_product
-PMC2212994	195	uniprot:UNRESOLVED ID	mM MgCl2	Gene_or_gene_product
-PMC2212994	197	uniprot:UNRESOLVED ID	GST-IkappaBalpha	Gene_or_gene_product
-PMC2212994	197	ncbitax:species:ncbi:10090	mouse	Species
-PMC2212994	197	uniprot:P25963	IkappaBalpha	Gene_or_gene_product
-PMC2212994	197	uniprot:UNRESOLVED ID	GST-IKKbeta	Gene_or_gene_product
-PMC2212994	197	ncbitax:species:ncbi:9606	human	Species
-PMC2212994	197	uniprot:UNRESOLVED ID	DLGYAKELDQGSLCTSFVGTLQYLAPELLEQQ	Gene_or_gene_product
-PMC2212994	197	uniprot:UNRESOLVED ID	IKK	Gene_or_gene_product
-PMC2212994	197	uniprot:O43318	TAK1	Gene_or_gene_product
-PMC2212994	198	uniprot:P20132	SDS	Gene_or_gene_product
-PMC2212994	199	uniprot:UNRESOLVED ID	anti-phospho-IkappaBalpha mAb	Gene_or_gene_product
-PMC2212994	200	uniprot:UNRESOLVED ID	JNK kinase	Gene_or_gene_product
-PMC2212994	201	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2212994	201	uniprot:UNRESOLVED ID	FACSCalibur	Gene_or_gene_product
-PMC2212994	201	uniprot:UNRESOLVED ID	anti-chicken IgM Ab	Gene_or_gene_product
-PMC2212994	201	uniprot:UNRESOLVED ID	allophycocyanin	Gene_or_gene_product
-PMC2212994	202	uniprot:Q9HD26	Fig	Gene_or_gene_product
-PMC2212994	203	uniprot:O43318	TAK1	Gene_or_gene_product
-PMC2212994	203	uniprot:P05771	PKCbeta	Gene_or_gene_product
-PMC2212994	203	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
-PMC2212994	204	uniprot:Q9HD26	Fig	Gene_or_gene_product
-PMC2212994	205	uniprot:P11274	BCR	Gene_or_gene_product
-PMC2212994	206	uniprot:UNRESOLVED ID	http://www.jem.org/cgi/content/full/jem.20051591/DC1	Gene_or_gene_product
+PMC2212994	190	uniprot:UNRESOLVED ID	PVDF	Gene_or_gene_product
+PMC2212994	190	ncbitax:species:ncbi:3704	horseradish	Species
+PMC2212994	190	uniprot:Q9UJV9	Abs	Gene_or_gene_product
+PMC2212994	191	uniprot:UNRESOLVED ID	NBT	Gene_or_gene_product
+PMC2212994	192	uniprot:UNRESOLVED ID	NF-kappaB	Gene_or_gene_product
+PMC2212994	193	uazid:UA-CT-100004	DT40 cells	CellType
+PMC2212994	193	uniprot:UNRESOLVED ID	NF-kappaB DNA binding site	Gene_or_gene_product
+PMC2212994	193	uniprot:UNRESOLVED ID	5'-CAACGGCAGGGGAATTCCCCTCTCCTT-3'	Gene_or_gene_product
+PMC2212994	194	uniprot:UNRESOLVED ID	IKK	Gene_or_gene_product
+PMC2212994	194	uniprot:O43318	TAK1	Gene_or_gene_product
+PMC2212994	194	uazid:UA-CT-100004	DT40 cells	CellType
+PMC2212994	196	uniprot:Q9NQV6	Tris	Gene_or_gene_product
+PMC2212994	196	uniprot:P01298	pH	Gene_or_gene_product
+PMC2212994	196	uniprot:UNRESOLVED ID	0.1 mM Na3VO4	Gene_or_gene_product
+PMC2212994	196	uniprot:UNRESOLVED ID	mM MgCl2	Gene_or_gene_product
+PMC2212994	198	uniprot:UNRESOLVED ID	GST-IkappaBalpha	Gene_or_gene_product
+PMC2212994	198	ncbitax:species:ncbi:10090	mouse	Species
+PMC2212994	198	uniprot:P25963	IkappaBalpha	Gene_or_gene_product
+PMC2212994	198	uniprot:UNRESOLVED ID	GST-IKKbeta	Gene_or_gene_product
+PMC2212994	198	ncbitax:species:ncbi:9606	human	Species
+PMC2212994	198	uniprot:UNRESOLVED ID	DLGYAKELDQGSLCTSFVGTLQYLAPELLEQQ	Gene_or_gene_product
+PMC2212994	198	uniprot:UNRESOLVED ID	IKK	Gene_or_gene_product
+PMC2212994	198	uniprot:O43318	TAK1	Gene_or_gene_product
+PMC2212994	199	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2212994	200	uniprot:UNRESOLVED ID	anti-phospho-IkappaBalpha mAb	Gene_or_gene_product
+PMC2212994	201	uniprot:UNRESOLVED ID	JNK kinase	Gene_or_gene_product
+PMC2212994	202	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2212994	202	uazid:UA-CT-100004	DT40 cells	CellType
+PMC2212994	202	uniprot:UNRESOLVED ID	FACSCalibur	Gene_or_gene_product
+PMC2212994	202	uniprot:UNRESOLVED ID	anti-chicken IgM Ab	Gene_or_gene_product
+PMC2212994	202	uniprot:UNRESOLVED ID	allophycocyanin	Gene_or_gene_product
+PMC2212994	203	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2212994	204	uniprot:O43318	TAK1	Gene_or_gene_product
+PMC2212994	204	uniprot:P05771	PKCbeta	Gene_or_gene_product
+PMC2212994	204	uniprot:Q9BXL7	CARMA1	Gene_or_gene_product
+PMC2212994	204	uazid:UA-CT-100003	DT40 B cells	CellType
+PMC2212994	205	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2212994	206	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2212994	206	uazid:UA-CT-100004	DT40 cells	CellType
+PMC2212994	207	uniprot:UNRESOLVED ID	http://www.jem.org/cgi/content/full/jem.20051591/DC1	Gene_or_gene_product

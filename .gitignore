@@ -1,3 +1,8 @@
+*bak
+species-proxy
+corenlp
 *.pyc
 workspace
     output
+*.jar
+*.sed

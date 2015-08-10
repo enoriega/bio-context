@@ -60,8 +60,6 @@ PMC2195799	28	uniprot:P15498	Vav	Gene_or_gene_product
 PMC2195799	28	uniprot:Q15942	zyxin	Gene_or_gene_product
 PMC2195799	29	uniprot:P15498	Vav	Gene_or_gene_product
 PMC2195799	30	uniprot:P15498	Vav	Gene_or_gene_product
-PMC2195799	30	uniprot:UNRESOLVED ID	RBL-2H3	Gene_or_gene_product
-PMC2195799	30	uniprot:UNRESOLVED ID	mast cell	CellType
 PMC2195799	30	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
 PMC2195799	31	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
 PMC2195799	31	uniprot:P07948	Lyn	Gene_or_gene_product
@@ -290,9 +288,6 @@ PMC2195799	141	uniprot:P43405	Syk	Gene_or_gene_product
 PMC2195799	142	uniprot:P15498	Vav	Gene_or_gene_product
 PMC2195799	143	uniprot:UNRESOLVED ID	FcinRI-	Gene_or_gene_product
 PMC2195799	143	uniprot:P07948	Lyn	Gene_or_gene_product
-PMC2195799	143	ncbitax:species:ncbi:10029	Chinese hamster	Species
-PMC2195799	143	uazid:UA-ORG-656	ovary	Organ
-PMC2195799	143	uniprot:F1Q4R9	CHO	CellType
 PMC2195799	143	uniprot:P15498	Vav	Gene_or_gene_product
 PMC2195799	143	uniprot:P43405	Syk	Gene_or_gene_product
 PMC2195799	144	uniprot:P43405	Syk	Gene_or_gene_product
@@ -385,7 +380,7 @@ PMC2195799	176	uniprot:P63000	Rac1	Gene_or_gene_product
 PMC2195799	176	uniprot:UNRESOLVED ID	Vav GEF	Gene_or_gene_product
 PMC2195799	176	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
 PMC2195799	177	uniprot:P63000	Rac1	Gene_or_gene_product
-PMC2195799	177	uazid:UA-ORG-727	platelet	Organ
+PMC2195799	177	uazid:UA-CT-100033	platelet	Organ
 PMC2195799	178	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
 PMC2195799	178	uniprot:P15498	Vav	Gene_or_gene_product
 PMC2195799	178	uniprot:O43561	LAT-	Gene_or_gene_product
@@ -445,7 +440,6 @@ PMC2195799	198	uniprot:P15498	Vav	Gene_or_gene_product
 PMC2195799	199	uniprot:P15498	Vav	Gene_or_gene_product
 PMC2195799	199	uniprot:P43405	Syk	Gene_or_gene_product
 PMC2195799	200	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
-PMC2195799	200	uniprot:F1Q4R9	CHO	CellType
 PMC2195799	200	uniprot:P43405	Syk	Gene_or_gene_product
 PMC2195799	200	uniprot:P15498	Vav	Gene_or_gene_product
 PMC2195799	201	uniprot:P15498	Vav	Gene_or_gene_product
@@ -532,8 +526,6 @@ PMC2195799	235	uniprot:Q966Y3	JNK	Gene_or_gene_product
 PMC2195799	235	uniprot:P23035	APF	Gene_or_gene_product
 PMC2195799	235	uniprot:P15498	Vav	Gene_or_gene_product
 PMC2195799	235	uniprot:P45983	JNK1	Gene_or_gene_product
-PMC2195799	235	uniprot:UNRESOLVED ID	RBL-2H3	Gene_or_gene_product
-PMC2195799	235	uniprot:UNRESOLVED ID	mast cell	CellType
 PMC2195799	236	N/A	SLP-76	Gene_or_gene_product
 PMC2195799	236	N/A	Vav	Gene_or_gene_product
 PMC2195799	236	uniprot:A2KF29	TCR	Gene_or_gene_product
@@ -631,8 +623,8 @@ PMC2195799	274	uniprot:P45983	JNK1	Gene_or_gene_product
 PMC2195799	274	uniprot:P43405	Syk	Gene_or_gene_product
 PMC2195799	275	uniprot:P15498	Vav	Gene_or_gene_product
 PMC2195799	275	uniprot:P43405	Syk	Gene_or_gene_product
-PMC2195799	276	uniprot:P43405	Syk	Gene_or_gene_product
 PMC2195799	276	uniprot:UNRESOLVED ID	Vav-GFP	Gene_or_gene_product
+PMC2195799	276	uniprot:P43405	Syk	Gene_or_gene_product
 PMC2195799	278	ncbitax:species:ncbi:10090	mouse	Species
 PMC2195799	278	uniprot:UNRESOLVED ID	FcinRI beta chain	Gene_or_gene_product
 PMC2195799	278	uniprot:Q96T53	goat	Species

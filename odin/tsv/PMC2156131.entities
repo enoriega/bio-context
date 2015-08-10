@@ -106,7 +106,7 @@ PMC2156131	64	uniprot:UNRESOLVED ID	EGF receptors	Gene_or_gene_product
 PMC2156131	65	uniprot:P01133	EGF	Gene_or_gene_product
 PMC2156131	65	uniprot:UNRESOLVED ID	EGF receptors	Gene_or_gene_product
 PMC2156131	66	uniprot:UNRESOLVED ID	Other growth factor receptors	Gene_or_gene_product
-PMC2156131	66	uazid:UA-ORG-727	platelet	Organ
+PMC2156131	66	uazid:UA-CT-100033	platelet	Organ
 PMC2156131	67	uniprot:P01133	EGF	Gene_or_gene_product
 PMC2156131	67	uniprot:UNRESOLVED ID	EGF receptors	Gene_or_gene_product
 PMC2156131	68	uniprot:P01133	EGF	Gene_or_gene_product
@@ -115,9 +115,8 @@ PMC2156131	69	uniprot:UNRESOLVED ID	integrin receptor	Gene_or_gene_product
 PMC2156131	70	uniprot:P24821	tenascin	Gene_or_gene_product
 PMC2156131	70	uniprot:UNRESOLVED ID	collagen-binding glycoprotein	Gene_or_gene_product
 PMC2156131	70	uniprot:UNRESOLVED ID	integrin receptors	Gene_or_gene_product
-PMC2156131	70	uazid:UA-ORG-888	smooth muscle	Organ
 PMC2156131	71	uniprot:UNRESOLVED ID	integrin receptors	Gene_or_gene_product
-PMC2156131	72	uniprot:UNRESOLVED ID	fibroblasts	CellType
+PMC2156131	72	uazid:UA-CT-100023	fibroblasts	CellType
 PMC2156131	72	uniprot:P02751	fibronectin	Gene_or_gene_product
 PMC2156131	73	uniprot:UNRESOLVED ID	integrin receptor	Gene_or_gene_product
 PMC2156131	73	uniprot:UNRESOLVED ID	integrin receptors	Gene_or_gene_product

@@ -5,7 +5,7 @@ PMC2148195	3	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	3	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	4	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	4	ncbitax:species:ncbi:8355	Xenopus laevis	Species
-PMC2148195	4	uniprot:UNRESOLVED ID	oocyte	CellType
+PMC2148195	4	uazid:UA-CT-100030	oocyte	CellType
 PMC2148195	5	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	5	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	6	uniprot:P01298	pH	Gene_or_gene_product
@@ -15,9 +15,6 @@ PMC2148195	7	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	7	uniprot:UNRESOLVED ID	SH3 binding domains	Gene_or_gene_product
 PMC2148195	7	uniprot:UNRESOLVED ID	mitogen-activated protein	Gene_or_gene_product
 PMC2148195	7	uniprot:P12872	MAP	Gene_or_gene_product
-PMC2148195	8	uniprot:Q2G0B1	rat	Species
-PMC2148195	8	uazid:UA-ORG-461	kidney	Organ
-PMC2148195	8	uniprot:Q7Z2Y5	NRK	Gene_or_gene_product
 PMC2148195	8	uniprot:P12872	MAP	Gene_or_gene_product
 PMC2148195	8	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	8	uniprot:P17302	Cx43	Gene_or_gene_product
@@ -50,36 +47,44 @@ PMC2148195	19	uniprot:P69208	HA	Gene_or_gene_product
 PMC2148195	21	uniprot:P63185	pp60v-src	Gene_or_gene_product
 PMC2148195	24	uniprot:P08038	DNase	Gene_or_gene_product
 PMC2148195	24	uniprot:O95696	BRL	Gene_or_gene_product
-PMC2148195	25	uniprot:UNRESOLVED ID	Oocyte	CellType
+PMC2148195	25	uazid:UA-CT-100030	Oocyte	CellType
+PMC2148195	26	uazid:UA-CT-100031	oocytes	CellType
+PMC2148195	27	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	27	uniprot:UNRESOLVED ID	ml collagenase	Gene_or_gene_product
 PMC2148195	27	uniprot:UNRESOLVED ID	follicular cell	CellType
+PMC2148195	28	uazid:UA-CT-100031	Oocytes	CellType
 PMC2148195	28	uniprot:UNRESOLVED ID	Xenopus Cx38 nucleotides 5'-75 GCTTTAGTAATTCCCATCCTGCCATGTTTC 45-3'	Gene_or_gene_product
-PMC2148195	29	uniprot:UNRESOLVED ID	oocyte	CellType
+PMC2148195	29	uazid:UA-CT-100030	oocyte	CellType
 PMC2148195	32	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	32	uniprot:P17302	Cx43	Gene_or_gene_product
-PMC2148195	32	uniprot:UNRESOLVED ID	oocyte	CellType
+PMC2148195	32	uazid:UA-CT-100030	oocyte	CellType
 PMC2148195	32	uniprot:UNRESOLVED ID	v-src RNA	Gene_or_gene_product
 PMC2148195	32	uniprot:UNRESOLVED ID	tail	CellType
 PMC2148195	32	uniprot:UNRESOLVED ID	paired	Gene_or_gene_product
+PMC2148195	32	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	35	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	36	uniprot:UNRESOLVED ID	v-src cRNA	Gene_or_gene_product
 PMC2148195	36	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	37	uniprot:P63185	v-src	Gene_or_gene_product
-PMC2148195	37	uniprot:UNRESOLVED ID	oocyte	CellType
+PMC2148195	37	uazid:UA-CT-100030	oocyte	CellType
 PMC2148195	37	uniprot:UNRESOLVED ID	v-src cRNAs	Gene_or_gene_product
-PMC2148195	41	uniprot:UNRESOLVED ID	oocyte	CellType
+PMC2148195	38	uazid:UA-CT-100031	oocytes	CellType
+PMC2148195	41	uazid:UA-CT-100031	Oocytes	CellType
+PMC2148195	41	uazid:UA-CT-100030	oocyte	CellType
+PMC2148195	41	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	41	uniprot:Q9W704	RIPA	Gene_or_gene_product
 PMC2148195	41	uniprot:P20132	SDS	Gene_or_gene_product
 PMC2148195	41	uniprot:Q9NQV6	tris	Gene_or_gene_product
 PMC2148195	41	uniprot:Q9NQV6	Tris	Gene_or_gene_product
 PMC2148195	41	uniprot:P01298	pH	Gene_or_gene_product
 PMC2148195	41	uniprot:P10145	NaF	Gene_or_gene_product
+PMC2148195	43	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	43	uniprot:P20132	SDS	Gene_or_gene_product
-PMC2148195	45	uniprot:UNRESOLVED ID	oocyte	CellType
+PMC2148195	45	uazid:UA-CT-100030	oocyte	CellType
 PMC2148195	45	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	45	uniprot:UNRESOLVED ID	monoclonal v-src antibody	Gene_or_gene_product
 PMC2148195	46	uniprot:UNRESOLVED ID	preswollen protein A-Sepharose CL-4B beads	Gene_or_gene_product
-PMC2148195	47	uniprot:UNRESOLVED ID	oocyte	CellType
+PMC2148195	47	uazid:UA-CT-100030	oocyte	CellType
 PMC2148195	47	uniprot:P20132	SDS	Gene_or_gene_product
 PMC2148195	47	uniprot:P01298	pH	Gene_or_gene_product
 PMC2148195	49	uniprot:UNRESOLVED ID	mM MgCl2	Gene_or_gene_product
@@ -92,10 +97,14 @@ PMC2148195	51	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	51	ncbitax:species:ncbi:9913	calf	Species
 PMC2148195	51	uniprot:P09923	intestinal alkaline phosphatase	Gene_or_gene_product
 PMC2148195	53	uniprot:P17302	Cx43	Gene_or_gene_product
+PMC2148195	53	uazid:UA-CT-100031	Oocytes	CellType
+PMC2148195	54	uazid:UA-CT-100031	Oocytes	CellType
 PMC2148195	54	uniprot:P17302	Cx43	Gene_or_gene_product
-PMC2148195	54	uniprot:UNRESOLVED ID	oocyte	CellType
+PMC2148195	54	uazid:UA-CT-100030	oocyte	CellType
 PMC2148195	55	uniprot:UNRESOLVED ID	vegetal pole	CellType
-PMC2148195	57	uniprot:UNRESOLVED ID	oocyte	CellType
+PMC2148195	56	uazid:UA-CT-100031	oocytes	CellType
+PMC2148195	57	uazid:UA-CT-100031	Oocytes	CellType
+PMC2148195	57	uazid:UA-CT-100030	oocyte	CellType
 PMC2148195	58	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	59	uniprot:Q86XP6	Blot	Gene_or_gene_product
 PMC2148195	60	uniprot:P63185	pp60v-src	Gene_or_gene_product
@@ -115,25 +124,30 @@ PMC2148195	74	uniprot:P12872	MAP	Gene_or_gene_product
 PMC2148195	74	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
 PMC2148195	74	ncbitax:species:ncbi:41568	muM	Species
 PMC2148195	77	uniprot:P17302	Cx43	Gene_or_gene_product
+PMC2148195	77	uazid:UA-CT-100031	Oocytes	CellType
 PMC2148195	78	uniprot:UNRESOLVED ID	v-src oncogene	Gene_or_gene_product
 PMC2148195	80	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	80	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	81	uniprot:P01298	pH	Gene_or_gene_product
 PMC2148195	81	uniprot:P22618	IGF	Gene_or_gene_product
 PMC2148195	81	uniprot:P63185	v-src	Gene_or_gene_product
-PMC2148195	82	uniprot:UNRESOLVED ID	oocyte	CellType
+PMC2148195	82	uazid:UA-CT-100030	oocyte	CellType
 PMC2148195	82	uniprot:P63185	pp60v-src	Gene_or_gene_product
-PMC2148195	83	uniprot:UNRESOLVED ID	oocyte	CellType
+PMC2148195	83	uazid:UA-CT-100030	oocyte	CellType
 PMC2148195	83	uniprot:UNRESOLVED ID	v-src cRNA	Gene_or_gene_product
-PMC2148195	84	uniprot:UNRESOLVED ID	oocyte	CellType
+PMC2148195	84	uazid:UA-CT-100030	oocyte	CellType
 PMC2148195	86	uniprot:P17302	Cx43	Gene_or_gene_product
+PMC2148195	86	uazid:UA-CT-100031	oocytes	CellType
+PMC2148195	87	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	89	uniprot:P63185	pp60v-src	Gene_or_gene_product
 PMC2148195	89	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	90	uniprot:P63185	pp60v-src	Gene_or_gene_product
+PMC2148195	90	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	90	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	90	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	91	uniprot:P63185	pp60v-src	Gene_or_gene_product
 PMC2148195	91	uniprot:P08034	Cx32	Gene_or_gene_product
+PMC2148195	91	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	93	uniprot:P08034	Cx32	Gene_or_gene_product
 PMC2148195	93	uniprot:UNRESOLVED ID	v-src kinase	Gene_or_gene_product
 PMC2148195	93	uniprot:P12872	MAP	Gene_or_gene_product
@@ -153,6 +167,7 @@ PMC2148195	98	uniprot:P01308	insulin	Gene_or_gene_product
 PMC2148195	99	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	99	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	99	uniprot:P08034	Cx32	Gene_or_gene_product
+PMC2148195	99	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	99	uniprot:Q9HD26	Fig	Gene_or_gene_product
 PMC2148195	101	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	102	uniprot:P63185	v-src	Gene_or_gene_product
@@ -163,6 +178,7 @@ PMC2148195	104	uniprot:Q9HD26	Fig	Gene_or_gene_product
 PMC2148195	106	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	106	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	106	uniprot:P08034	Cx32	Gene_or_gene_product
+PMC2148195	106	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	106	uniprot:P12872	MAP	Gene_or_gene_product
 PMC2148195	106	uniprot:UNRESOLVED ID	v-src kinase	Gene_or_gene_product
 PMC2148195	107	uniprot:UNRESOLVED ID	Delta241-280	Gene_or_gene_product
@@ -174,6 +190,7 @@ PMC2148195	110	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	110	uniprot:P63185	pp60v-src	Gene_or_gene_product
 PMC2148195	111	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	111	uniprot:P63185	pp60v-src	Gene_or_gene_product
+PMC2148195	112	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	112	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	112	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	113	uniprot:P63185	v-src	Gene_or_gene_product
@@ -235,15 +252,17 @@ PMC2148195	136	uniprot:P63185	pp60v-src	Gene_or_gene_product
 PMC2148195	136	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	137	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	137	uniprot:P63185	pp60v-src	Gene_or_gene_product
+PMC2148195	137	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	137	uniprot:UNRESOLVED ID	pp60v-src cRNA	Gene_or_gene_product
 PMC2148195	138	uniprot:P63185	pp60v-src	Gene_or_gene_product
 PMC2148195	138	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	138	uniprot:Q2G0B1	rat	Species
-PMC2148195	138	uazid:UA-ORG-114	brain	Organ
+PMC2148195	138	uazid:UA-CT-200001	brain	Organ
 PMC2148195	140	uniprot:P63185	pp60v-src	Gene_or_gene_product
 PMC2148195	140	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	141	uniprot:P63185	pp60v-src	Gene_or_gene_product
 PMC2148195	141	uniprot:UNRESOLVED ID	anti-src mAb	Gene_or_gene_product
+PMC2148195	141	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	141	uniprot:UNRESOLVED ID	pp60v-src cRNA	Gene_or_gene_product
 PMC2148195	142	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	142	uniprot:UNRESOLVED ID	v-src antibody	Gene_or_gene_product
@@ -254,11 +273,13 @@ PMC2148195	144	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	145	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	146	uniprot:UNRESOLVED ID	60-kD v-src oncogene	Gene_or_gene_product
 PMC2148195	146	uniprot:P17302	Cx43	Gene_or_gene_product
+PMC2148195	146	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	146	uniprot:P63185	pp60v-src	Gene_or_gene_product
 PMC2148195	147	uniprot:P63185	pp60v-src	Gene_or_gene_product
+PMC2148195	148	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	148	uniprot:P63185	pp60v-src	Gene_or_gene_product
 PMC2148195	148	uniprot:P17302	Cx43	Gene_or_gene_product
-PMC2148195	148	uniprot:UNRESOLVED ID	oocyte	CellType
+PMC2148195	148	uazid:UA-CT-100030	oocyte	CellType
 PMC2148195	150	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	150	uniprot:UNRESOLVED ID	SH3 binding site	Gene_or_gene_product
 PMC2148195	150	uniprot:P17302	Cx43	Gene_or_gene_product
@@ -284,11 +305,13 @@ PMC2148195	159	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	160	uniprot:P12872	MAP	Gene_or_gene_product
 PMC2148195	160	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	160	uniprot:P17302	Cx43	Gene_or_gene_product
+PMC2148195	160	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	160	uniprot:P28482	ERK2	Gene_or_gene_product
 PMC2148195	160	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
 PMC2148195	161	uniprot:P12872	MAP	Gene_or_gene_product
 PMC2148195	161	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	161	uniprot:P17302	Cx43	Gene_or_gene_product
+PMC2148195	161	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	162	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	162	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	162	uniprot:P08034	Cx32	Gene_or_gene_product
@@ -296,13 +319,14 @@ PMC2148195	163	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	165	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
 PMC2148195	165	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	166	uniprot:P63185	v-src	Gene_or_gene_product
-PMC2148195	167	uniprot:UNRESOLVED ID	oocyte	CellType
+PMC2148195	167	uazid:UA-CT-100030	oocyte	CellType
 PMC2148195	167	uniprot:P08034	Cx32	Gene_or_gene_product
 PMC2148195	167	uniprot:UNRESOLVED ID	O25	Gene_or_gene_product
 PMC2148195	167	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	168	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	168	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
 PMC2148195	169	uniprot:P08034	Cx32	Gene_or_gene_product
+PMC2148195	169	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	169	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
 PMC2148195	169	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	171	uniprot:P01133	EGF	Gene_or_gene_product
@@ -313,7 +337,7 @@ PMC2148195	173	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	173	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	174	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	174	uniprot:P63185	pp60v-src	Gene_or_gene_product
-PMC2148195	175	uniprot:UNRESOLVED ID	oocyte	CellType
+PMC2148195	175	uazid:UA-CT-100030	oocyte	CellType
 PMC2148195	175	uniprot:P63185	pp60v-src	Gene_or_gene_product
 PMC2148195	175	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	176	uniprot:P63185	v-src	Gene_or_gene_product
@@ -344,12 +368,14 @@ PMC2148195	190	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	191	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	191	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	192	uniprot:P63185	v-src	Gene_or_gene_product
+PMC2148195	193	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	193	uniprot:UNRESOLVED ID	v-src cRNA	Gene_or_gene_product
 PMC2148195	194	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	194	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	194	uniprot:P12931	src	Gene_or_gene_product
 PMC2148195	195	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	196	uniprot:P17302	Cx43	Gene_or_gene_product
+PMC2148195	196	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	196	uniprot:UNRESOLVED ID	~19degreesC	Gene_or_gene_product
 PMC2148195	197	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	198	uniprot:P63185	v-src	Gene_or_gene_product
@@ -374,7 +400,7 @@ PMC2148195	210	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	210	uniprot:P55241	SH2	Gene_or_gene_product
 PMC2148195	211	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	211	uniprot:P17302	Cx43	Gene_or_gene_product
-PMC2148195	211	uniprot:UNRESOLVED ID	oocyte	CellType
+PMC2148195	211	uazid:UA-CT-100030	oocyte	CellType
 PMC2148195	212	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	212	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	213	uniprot:P63185	pp60v-src	Gene_or_gene_product
@@ -407,19 +433,22 @@ PMC2148195	223	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	224	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
 PMC2148195	224	uniprot:P12872	MAP	Gene_or_gene_product
 PMC2148195	224	uniprot:P63185	v-src	Gene_or_gene_product
-PMC2148195	225	uniprot:UNRESOLVED ID	oocyte	CellType
+PMC2148195	225	uazid:UA-CT-100030	oocyte	CellType
 PMC2148195	225	uniprot:P08034	Cx32	Gene_or_gene_product
 PMC2148195	225	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	226	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
 PMC2148195	227	uniprot:P08034	Cx32	Gene_or_gene_product
+PMC2148195	227	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	227	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	228	uniprot:UNRESOLVED ID	cadherin-beta-catenin	Gene_or_gene_product
 PMC2148195	228	uniprot:P12872	MAP	Gene_or_gene_product
 PMC2148195	229	uniprot:P08034	Cx32	Gene_or_gene_product
+PMC2148195	229	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	229	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	229	uniprot:P12872	MAP	Gene_or_gene_product
 PMC2148195	230	uniprot:P12872	MAP	Gene_or_gene_product
 PMC2148195	230	uniprot:P17302	Cx43	Gene_or_gene_product
+PMC2148195	230	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	230	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
 PMC2148195	230	uniprot:P12931	src	Gene_or_gene_product
 PMC2148195	231	uniprot:P08034	Cx32	Gene_or_gene_product
@@ -456,10 +485,12 @@ PMC2148195	245	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	245	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	246	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	246	uniprot:P17302	Cx43	Gene_or_gene_product
-PMC2148195	247	uniprot:UNRESOLVED ID	oocyte	CellType
+PMC2148195	247	uazid:UA-CT-100030	oocyte	CellType
 PMC2148195	247	uniprot:P63185	v-src	Gene_or_gene_product
+PMC2148195	247	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	248	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	248	uniprot:P17302	Cx43	Gene_or_gene_product
+PMC2148195	249	uazid:UA-CT-100031	Oocytes	CellType
 PMC2148195	249	uniprot:P08581	Met	Gene_or_gene_product
 PMC2148195	249	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	249	uniprot:UNRESOLVED ID	pp60v-src cRNA	Gene_or_gene_product
@@ -471,20 +502,24 @@ PMC2148195	252	uniprot:UNRESOLVED ID	Delta261-280	Gene_or_gene_product
 PMC2148195	252	uniprot:UNRESOLVED ID	Delta241-280 deletion mutants	Gene_or_gene_product
 PMC2148195	252	uniprot:UNRESOLVED ID	265F mutant	Gene_or_gene_product
 PMC2148195	253	uniprot:P17302	Cx43	Gene_or_gene_product
+PMC2148195	253	uazid:UA-CT-100031	oocytes	CellType
+PMC2148195	254	uazid:UA-CT-100031	Oocytes	CellType
 PMC2148195	254	uniprot:P17302	Cx43	Gene_or_gene_product
-PMC2148195	255	uniprot:UNRESOLVED ID	oocyte	CellType
+PMC2148195	255	uazid:UA-CT-100030	oocyte	CellType
 PMC2148195	256	uniprot:P17302	Cx43	Gene_or_gene_product
-PMC2148195	256	uniprot:UNRESOLVED ID	oocyte	CellType
+PMC2148195	256	uazid:UA-CT-100030	oocyte	CellType
 PMC2148195	256	uniprot:P20132	SDS	Gene_or_gene_product
 PMC2148195	257	uniprot:UNRESOLVED ID	~22 h.	Gene_or_gene_product
 PMC2148195	258	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	258	uniprot:P17302	Cx43	Gene_or_gene_product
+PMC2148195	259	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	260	uniprot:P63185	pp60v-src	Gene_or_gene_product
 PMC2148195	260	uniprot:UNRESOLVED ID	tail	CellType
 PMC2148195	260	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	260	uniprot:UNRESOLVED ID	C-TERM244	Gene_or_gene_product
 PMC2148195	261	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	262	uniprot:P63185	pp60v-src	Gene_or_gene_product
+PMC2148195	262	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	262	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	262	uniprot:P08034	Cx32	Gene_or_gene_product
 PMC2148195	263	uniprot:P17302	Cx43	Gene_or_gene_product
@@ -544,10 +579,12 @@ PMC2148195	286	uniprot:P63185	v-src	Gene_or_gene_product
 PMC2148195	286	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	286	uniprot:UNRESOLVED ID	tail	CellType
 PMC2148195	287	uniprot:P08581	Met	Gene_or_gene_product
+PMC2148195	287	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	287	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	287	uniprot:P63185	pp60v-src	Gene_or_gene_product
 PMC2148195	288	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	288	uniprot:P63185	pp60v-src	Gene_or_gene_product
+PMC2148195	289	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	289	uniprot:UNRESOLVED ID	anti-src mAb	Gene_or_gene_product
 PMC2148195	290	uniprot:P63185	pp60v-src	Gene_or_gene_product
 PMC2148195	290	uniprot:P17302	Cx43	Gene_or_gene_product
@@ -555,8 +592,10 @@ PMC2148195	290	uniprot:UNRESOLVED ID	tail	CellType
 PMC2148195	291	uniprot:O60259	NP	Gene_or_gene_product
 PMC2148195	292	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	293	uniprot:P08581	Met	Gene_or_gene_product
+PMC2148195	293	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	293	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	293	uniprot:P63185	pp60v-src	Gene_or_gene_product
+PMC2148195	294	uazid:UA-CT-100031	oocytes	CellType
 PMC2148195	295	uniprot:P63185	pp60v-src	Gene_or_gene_product
 PMC2148195	295	uniprot:P17302	Cx43	Gene_or_gene_product
 PMC2148195	296	uniprot:P08034	Cx32	Gene_or_gene_product
@@ -572,5 +611,5 @@ PMC2148195	308	uniprot:P12931	Src	Gene_or_gene_product
 PMC2148195	309	uniprot:UNRESOLVED ID	Marilyn Resh	Gene_or_gene_product
 PMC2148195	309	uniprot:UNRESOLVED ID	v-src construct	Gene_or_gene_product
 PMC2148195	310	uniprot:P08034	Cx32	Gene_or_gene_product
-PMC2148195	313	uniprot:UNRESOLVED ID	oocyte	CellType
+PMC2148195	313	uazid:UA-CT-100030	oocyte	CellType
 PMC2148195	313	uniprot:UNRESOLVED ID	Jim Stamos	Gene_or_gene_product
