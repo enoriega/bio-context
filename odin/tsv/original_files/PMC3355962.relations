@@ -1,0 +1,5 @@
+Paper ID	Line Num	Master ID	Dependent ID	Text	Type
+PMC3355962	132	uazid:UA-CT-100023	uniprot:P01308	insulin in fibroblasts	ContextLocation
+PMC3355962	157	uniprot:O89094	uniprot:O14492	APS or c-Cbl in mice	ContextLocation
+PMC3355962	168	uniprot:O89094	uniprot:Q9NRF2	SH2B1 in mice	ContextLocation
+PMC3355962	219	uazid:UA-CT-100028	uniprot:P12931	Src, SHP2, and p85 in mouse embryonic fibroblasts	ContextLocation

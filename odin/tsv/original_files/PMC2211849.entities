@@ -1,0 +1,748 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2211849	0	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	0	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	0	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211849	1	uazid:UA-CT-100002	B cells	CellType
+PMC2211849	1	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	1	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211849	1	uniprot:Q9GZY6	wbscr5	Gene_or_gene_product
+PMC2211849	2	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2211849	2	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	2	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211849	3	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	3	uniprot:UNRESOLVED ID	thymocyte	CellType
+PMC2211849	3	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	3	uniprot:O89094	mice	Species
+PMC2211849	4	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	4	uniprot:O89094	mice	Species
+PMC2211849	5	uniprot:Q9GZY6	Lab	Gene_or_gene_product
+PMC2211849	5	uazid:UA-CT-22	lymphocyte	CellType
+PMC2211849	5	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	5	uniprot:P29323	Erk	Gene_or_gene_product
+PMC2211849	6	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	6	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211849	7	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	7	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	7	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	8	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211849	8	uniprot:UNRESOLVED ID	IgE receptor	Gene_or_gene_product
+PMC2211849	8	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	8	uniprot:UNRESOLVED ID	Ras-mitogen-activated protein kinase	Gene_or_gene_product
+PMC2211849	8	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC2211849	9	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	9	uniprot:UNRESOLVED ID	homodimeric gamma chains	Gene_or_gene_product
+PMC2211849	10	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211849	10	uniprot:UNRESOLVED ID	ITAM	Gene_or_gene_product
+PMC2211849	11	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	11	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211849	11	uniprot:P12931	Src	Gene_or_gene_product
+PMC2211849	11	uniprot:UNRESOLVED ID	protein tyrosin kinase	Gene_or_gene_product
+PMC2211849	11	uniprot:UNRESOLVED ID	PTK]	Gene_or_gene_product
+PMC2211849	11	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2211849	11	uniprot:UNRESOLVED ID	beta and gamma chains	Gene_or_gene_product
+PMC2211849	12	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2211849	12	uniprot:P12931	Src	Gene_or_gene_product
+PMC2211849	12	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2211849	14	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211849	14	uniprot:UNRESOLVED ID	PTKs	Gene_or_gene_product
+PMC2211849	15	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2211849	15	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	16	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2211849	16	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2211849	17	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC2211849	18	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2211849	18	uniprot:P12931	Src	Gene_or_gene_product
+PMC2211849	18	uniprot:P37101	PTK	Gene_or_gene_product
+PMC2211849	18	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC2211849	19	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	19	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC2211849	19	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211849	20	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC2211849	20	uniprot:Q9UQC2	Gab2	Gene_or_gene_product
+PMC2211849	20	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	20	uniprot:UNRESOLVED ID	phosphotidylinositide 3-kinase	Gene_or_gene_product
+PMC2211849	21	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2211849	21	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC2211849	21	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	22	uniprot:UNRESOLVED ID	PTKs	Gene_or_gene_product
+PMC2211849	23	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	23	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	24	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	25	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2211849	25	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211849	25	uniprot:O75791	Gads	Gene_or_gene_product
+PMC2211849	25	uniprot:P19174	PLC-gamma1	Gene_or_gene_product
+PMC2211849	26	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	26	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2211849	26	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC2211849	27	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	27	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2211849	27	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC2211849	28	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	28	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2211849	29	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	29	uniprot:O89094	mice	Species
+PMC2211849	29	uniprot:UNRESOLVED ID	thymocyte	CellType
+PMC2211849	30	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	30	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2211849	30	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2211849	30	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2211849	30	uniprot:P19174	PLC-gamma1	Gene_or_gene_product
+PMC2211849	30	uniprot:P16885	PLC-gamma2	Gene_or_gene_product
+PMC2211849	30	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC2211849	30	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211849	31	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	31	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	32	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	32	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	33	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	34	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	34	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	35	uazid:UA-CT-100002	B cells	CellType
+PMC2211849	35	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	35	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2211849	35	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211849	36	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	36	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	36	uniprot:UNRESOLVED ID	tail	CellType
+PMC2211849	36	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211849	37	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	38	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	38	uazid:UA-CT-100002	B cells	CellType
+PMC2211849	39	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2211849	39	uniprot:UNRESOLVED ID	Fc receptor	Gene_or_gene_product
+PMC2211849	39	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	39	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211849	39	uniprot:P19174	PLC-gamma1	Gene_or_gene_product
+PMC2211849	39	uniprot:P16885	PLC-gamma2	Gene_or_gene_product
+PMC2211849	40	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	40	uniprot:UNRESOLVED ID	thymocyte	CellType
+PMC2211849	40	uniprot:O89094	mice	Species
+PMC2211849	41	ncbitax:species:ncbi:10090	transgenic mice	Species
+PMC2211849	41	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	41	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	41	uniprot:O89094	mice	Species
+PMC2211849	41	uniprot:UNRESOLVED ID	PLC-gamma1 site	Gene_or_gene_product
+PMC2211849	42	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	42	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	43	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	43	uniprot:O89094	mice	Species
+PMC2211849	44	uniprot:Q9GZY6	Lab	Gene_or_gene_product
+PMC2211849	44	uniprot:Q9P2X3	impact	Gene_or_gene_product
+PMC2211849	44	uazid:UA-CT-100001	B cell	CellType
+PMC2211849	44	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211849	44	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	44	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	45	uniprot:O43561	Lat	Gene_or_gene_product
+PMC2211849	45	uniprot:Q9GZY6	Lab	Gene_or_gene_product
+PMC2211849	45	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	45	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211849	46	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	46	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	47	uniprot:O89094	Mice	Species
+PMC2211849	48	uniprot:Q9GZY6	Lab	Gene_or_gene_product
+PMC2211849	49	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	50	uniprot:UNRESOLVED ID	NotI	Gene_or_gene_product
+PMC2211849	50	uniprot:UNRESOLVED ID	stem	CellType
+PMC2211849	53	uniprot:O89094	mice	Species
+PMC2211849	54	uniprot:O89094	mice	Species
+PMC2211849	55	uniprot:O89094	mice	Species
+PMC2211849	56	ncbitax:species:ncbi:10090	mouse	Species
+PMC2211849	56	uniprot:UNRESOLVED ID	ExpressHyb	Gene_or_gene_product
+PMC2211849	58	uniprot:O89094	mice	Species
+PMC2211849	58	uniprot:UNRESOLVED ID	LAB-/- LAT-/-	Gene_or_gene_product
+PMC2211849	58	uniprot:Q9GZY6	LAB-/-	Gene_or_gene_product
+PMC2211849	58	uniprot:O43561	LAT-/-	Gene_or_gene_product
+PMC2211849	59	uniprot:P06241	Fyn-/-	Gene_or_gene_product
+PMC2211849	59	uniprot:P07948	Lyn-/-	Gene_or_gene_product
+PMC2211849	59	uniprot:O89094	mice	Species
+PMC2211849	60	uniprot:O89094	mice	Species
+PMC2211849	61	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	61	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211849	61	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2211849	61	uniprot:P16885	PLC-gamma2	Gene_or_gene_product
+PMC2211849	61	uniprot:UNRESOLVED ID	Santa Cruz Biotechnology	Gene_or_gene_product
+PMC2211849	61	uniprot:P19174	PLC-gamma1	Gene_or_gene_product
+PMC2211849	62	uniprot:Q13094	SLP76	Gene_or_gene_product
+PMC2211849	62	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2211849	63	uniprot:O89094	mice	Species
+PMC2211849	63	ncbitax:species:ncbi:9606	human	Species
+PMC2211849	64	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC2211849	64	uniprot:O62618	-p38 MAPK	Gene_or_gene_product
+PMC2211849	65	uazid:UA-CT-22	lymphocyte	CellType
+PMC2211849	65	uniprot:P25054	APC	Gene_or_gene_product
+PMC2211849	65	uniprot:UNRESOLVED ID	FITC	Gene_or_gene_product
+PMC2211849	65	uniprot:UNRESOLVED ID	anti-IgM	Gene_or_gene_product
+PMC2211849	65	uniprot:UNRESOLVED ID	IgD	Gene_or_gene_product
+PMC2211849	65	uniprot:P48147	PE	Gene_or_gene_product
+PMC2211849	65	uniprot:P16150	CD43	Gene_or_gene_product
+PMC2211849	66	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211849	66	uniprot:UNRESOLVED ID	IgE receptor	Gene_or_gene_product
+PMC2211849	66	uniprot:UNRESOLVED ID	anti-FcepsilonRIalpha	Gene_or_gene_product
+PMC2211849	66	uniprot:P22629	streptavidin	Gene_or_gene_product
+PMC2211849	66	uniprot:UNRESOLVED ID	FITC	Gene_or_gene_product
+PMC2211849	68	uniprot:Q86XP6	Blot	Gene_or_gene_product
+PMC2211849	69	uniprot:UNRESOLVED ID	WT	Gene_or_gene_product
+PMC2211849	69	uniprot:Q9GZY6	LAB-/-	Gene_or_gene_product
+PMC2211849	69	uniprot:O43561	LAT-/-	Gene_or_gene_product
+PMC2211849	69	ncbitax:species:ncbi:10090	mouse	Species
+PMC2211849	69	uazid:UA-ORG-303	femurs	Organ
+PMC2211849	69	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211849	69	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2211849	69	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2211849	70	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211849	70	uniprot:UNRESOLVED ID	SPE-7 mAb	Gene_or_gene_product
+PMC2211849	70	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2211849	71	uniprot:P01298	pH	Gene_or_gene_product
+PMC2211849	71	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2211849	72	uniprot:P02810	protein A	Gene_or_gene_product
+PMC2211849	75	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2211849	75	uniprot:UNRESOLVED ID	IRDye800	Gene_or_gene_product
+PMC2211849	76	uniprot:UNRESOLVED ID	LI-COR	Gene_or_gene_product
+PMC2211849	77	uniprot:O89094	Mice	Species
+PMC2211849	79	uniprot:O89094	Mice	Species
+PMC2211849	79	uazid:UA-ORG-92	blood	Organ
+PMC2211849	80	uniprot:UNRESOLVED ID	serum	CellType
+PMC2211849	81	uniprot:UNRESOLVED ID	Flux	Gene_or_gene_product
+PMC2211849	82	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211849	82	uniprot:UNRESOLVED ID	IMDM	Gene_or_gene_product
+PMC2211849	82	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2211849	82	ncbitax:species:ncbi:41568	muM	Species
+PMC2211849	84	ncbitax:species:ncbi:41568	muM	Species
+PMC2211849	86	uniprot:O60502	beta-hexosaminidase	Gene_or_gene_product
+PMC2211849	87	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211849	87	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2211849	87	uniprot:UNRESOLVED ID	IMDM	Gene_or_gene_product
+PMC2211849	88	ncbitax:species:ncbi:41568	muM	Species
+PMC2211849	91	uniprot:O60502	beta-hexosaminidase	Gene_or_gene_product
+PMC2211849	91	uniprot:P01298	pH	Gene_or_gene_product
+PMC2211849	92	uniprot:P01298	pH	Gene_or_gene_product
+PMC2211849	98	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2211849	98	uniprot:P05112	IL-4	Gene_or_gene_product
+PMC2211849	98	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2211849	98	uniprot:P01579	IFNgamma	Gene_or_gene_product
+PMC2211849	99	ncbitax:species:ncbi:10090	mouse	Species
+PMC2211849	100	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	100	uniprot:O89094	Mice	Species
+PMC2211849	101	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	101	uniprot:O89094	mice	Species
+PMC2211849	103	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	106	uniprot:O89094	mice	Species
+PMC2211849	107	uniprot:O89094	mice	Species
+PMC2211849	108	uniprot:O89094	mice	Species
+PMC2211849	108	uniprot:Q9GZY6	Lab	Gene_or_gene_product
+PMC2211849	108	uniprot:Q9GZY6	LAB-/-	Gene_or_gene_product
+PMC2211849	109	uniprot:Q9GZY6	Lab	Gene_or_gene_product
+PMC2211849	109	uniprot:O89094	mice	Species
+PMC2211849	110	uniprot:UNRESOLVED ID	Neo cassette	Gene_or_gene_product
+PMC2211849	111	uniprot:UNRESOLVED ID	XbaI	Gene_or_gene_product
+PMC2211849	112	uniprot:UNRESOLVED ID	WT allele	Gene_or_gene_product
+PMC2211849	114	uniprot:UNRESOLVED ID	WT allele	Gene_or_gene_product
+PMC2211849	115	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	115	uniprot:O89094	mice	Species
+PMC2211849	116	uniprot:O89094	mice	Species
+PMC2211849	116	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2211849	119	uazid:UA-CT-100001	B cell	CellType
+PMC2211849	119	uniprot:O89094	mice	Species
+PMC2211849	120	uazid:UA-ORG-996	thymus	Organ
+PMC2211849	120	uazid:UA-ORG-903	spleen	Organ
+PMC2211849	122	uniprot:Q9GZY6	Lab	Gene_or_gene_product
+PMC2211849	122	uniprot:O89094	mice	Species
+PMC2211849	125	uniprot:Q9GZY6	Lab	Gene_or_gene_product
+PMC2211849	125	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	125	uniprot:UNRESOLVED ID	splenocyte	CellType
+PMC2211849	125	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211849	126	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	126	uniprot:O89094	mice	Species
+PMC2211849	127	uniprot:O89094	mice	Species
+PMC2211849	128	uniprot:O89094	mice	Species
+PMC2211849	129	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	129	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	129	uazid:UA-CT-22	lymphocyte	CellType
+PMC2211849	129	uniprot:O89094	mice	Species
+PMC2211849	129	uniprot:O43561	LAT-/-	Gene_or_gene_product
+PMC2211849	129	uniprot:UNRESOLVED ID	LAT+	Gene_or_gene_product
+PMC2211849	130	uniprot:O89094	mice	Species
+PMC2211849	130	uniprot:UNRESOLVED ID	LAB-/-LAT-/-	Gene_or_gene_product
+PMC2211849	131	uazid:UA-CT-100001	B Cell	CellType
+PMC2211849	131	uniprot:O89094	Mice	Species
+PMC2211849	132	uazid:UA-ORG-996	thymus	Organ
+PMC2211849	132	uazid:UA-ORG-903	spleen	Organ
+PMC2211849	132	uniprot:O89094	mice	Species
+PMC2211849	133	uazid:UA-ORG-996	thymus	Organ
+PMC2211849	133	uazid:UA-ORG-903	spleen	Organ
+PMC2211849	133	uniprot:Q91V27	LN	Gene_or_gene_product
+PMC2211849	133	uniprot:P9WQ36	FACS	Gene_or_gene_product
+PMC2211849	134	uniprot:UNRESOLVED ID	CD4+CD8+	Gene_or_gene_product
+PMC2211849	134	uniprot:UNRESOLVED ID	CD4+	Gene_or_gene_product
+PMC2211849	134	uniprot:UNRESOLVED ID	CD8+	Gene_or_gene_product
+PMC2211849	134	uazid:UA-ORG-996	thymus	Organ
+PMC2211849	134	uniprot:O89094	mice	Species
+PMC2211849	135	uniprot:UNRESOLVED ID	CD4+	Gene_or_gene_product
+PMC2211849	135	uniprot:UNRESOLVED ID	CD8+	Gene_or_gene_product
+PMC2211849	135	uazid:UA-ORG-903	spleen	Organ
+PMC2211849	135	uniprot:O89094	mice	Species
+PMC2211849	136	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	137	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	137	uazid:UA-CT-100002	B cells	CellType
+PMC2211849	137	uniprot:Q9GZY6	Lab	Gene_or_gene_product
+PMC2211849	137	uazid:UA-CT-100001	B cell	CellType
+PMC2211849	137	uniprot:UNRESOLVED ID	IgM-B220+ CD43+	Gene_or_gene_product
+PMC2211849	137	uniprot:P16150	CD43	Gene_or_gene_product
+PMC2211849	137	uniprot:O89094	mice	Species
+PMC2211849	138	uazid:UA-CT-100002	B cells	CellType
+PMC2211849	138	uniprot:UNRESOLVED ID	IgM	Gene_or_gene_product
+PMC2211849	138	uniprot:UNRESOLVED ID	IgD	Gene_or_gene_product
+PMC2211849	139	uniprot:O89094	mice	Species
+PMC2211849	140	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	140	uazid:UA-CT-100002	B cells	CellType
+PMC2211849	141	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	141	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211849	141	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	142	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2211849	142	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC2211849	142	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211849	143	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	144	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	144	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	144	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	145	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	146	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2211849	146	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC2211849	146	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	146	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	147	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211849	147	uniprot:O89094	mice	Species
+PMC2211849	148	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2211849	149	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211849	150	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	151	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	151	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	152	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	153	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	154	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC2211849	154	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	155	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	156	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	157	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	158	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	159	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2211849	159	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC2211849	159	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	159	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	160	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	160	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	160	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211849	161	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211849	163	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	163	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	163	uniprot:UNRESOLVED ID	WT	Gene_or_gene_product
+PMC2211849	163	uniprot:P07948	Lyn-/-	Gene_or_gene_product
+PMC2211849	163	uniprot:O89094	mice	Species
+PMC2211849	165	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	165	uniprot:O89094	mice	Species
+PMC2211849	166	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	166	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211849	167	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	168	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	168	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	168	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC2211849	168	uniprot:O43561	Lat	Gene_or_gene_product
+PMC2211849	169	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	169	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	170	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	171	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	173	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	174	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	175	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	176	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	176	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211849	176	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	177	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	177	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211849	178	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211849	178	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	178	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	179	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211849	179	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211849	180	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	180	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211849	180	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	181	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	181	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	182	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211849	182	uniprot:O89094	Mice	Species
+PMC2211849	183	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	183	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211849	183	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	183	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211849	184	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211849	184	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	184	uniprot:O89094	mice	Species
+PMC2211849	185	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211849	185	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	186	uniprot:O89094	Mice	Species
+PMC2211849	186	uniprot:UNRESOLVED ID	tail	CellType
+PMC2211849	186	uazid:UA-ORG-1067	vein	Organ
+PMC2211849	186	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211849	187	uniprot:O89094	mice	Species
+PMC2211849	188	uniprot:O89094	mice	Species
+PMC2211849	188	uazid:UA-ORG-92	blood	Organ
+PMC2211849	189	uniprot:O89094	mice	Species
+PMC2211849	190	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	190	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211849	191	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	191	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211849	192	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211849	193	uniprot:O89094	Mice	Species
+PMC2211849	193	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211849	194	uazid:UA-ORG-92	blood	Organ
+PMC2211849	195	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211849	195	uniprot:UNRESOLVED ID	IgE receptor	Gene_or_gene_product
+PMC2211849	195	uniprot:UNRESOLVED ID	WT	Gene_or_gene_product
+PMC2211849	195	uniprot:O43561	LAT-/-	Gene_or_gene_product
+PMC2211849	195	uniprot:Q9GZY6	LAB-/-	Gene_or_gene_product
+PMC2211849	195	uniprot:O89094	mice	Species
+PMC2211849	196	uniprot:UNRESOLVED ID	biotin-anti-FcepsilonRIalpha	Gene_or_gene_product
+PMC2211849	196	uniprot:UNRESOLVED ID	biotin-IgG1	Gene_or_gene_product
+PMC2211849	197	uniprot:O60502	beta-hexosaminidase	Gene_or_gene_product
+PMC2211849	198	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	199	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	199	uniprot:O89094	mice	Species
+PMC2211849	200	uniprot:O89094	mice	Species
+PMC2211849	200	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	201	uniprot:Q9GZY6	LAB-/-	Gene_or_gene_product
+PMC2211849	201	uniprot:O43561	LAT-/-	Gene_or_gene_product
+PMC2211849	201	uniprot:O89094	mice	Species
+PMC2211849	201	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2211849	202	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211849	202	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211849	202	uniprot:UNRESOLVED ID	IgE receptor	Gene_or_gene_product
+PMC2211849	202	uniprot:UNRESOLVED ID	c-kit	Gene_or_gene_product
+PMC2211849	203	uniprot:Q9GZY6	LAB-/-	Gene_or_gene_product
+PMC2211849	203	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2211849	204	uniprot:UNRESOLVED ID	anti-DNP-IgE	Gene_or_gene_product
+PMC2211849	204	uniprot:UNRESOLVED ID	DNP-HSA	Gene_or_gene_product
+PMC2211849	205	uniprot:O60502	beta-hexosaminidase	Gene_or_gene_product
+PMC2211849	206	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2211849	206	uniprot:O89094	mice	Species
+PMC2211849	206	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	208	uniprot:O60502	beta-hexosaminidase	Gene_or_gene_product
+PMC2211849	209	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	209	uniprot:O43561	LAT-/-	Gene_or_gene_product
+PMC2211849	209	uniprot:Q9GZY6	LAB-/-	Gene_or_gene_product
+PMC2211849	210	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211849	212	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	212	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	212	uniprot:UNRESOLVED ID	WT	Gene_or_gene_product
+PMC2211849	212	uniprot:Q9GZY6	LAB-/-	Gene_or_gene_product
+PMC2211849	212	uniprot:O43561	LAT-/-	Gene_or_gene_product
+PMC2211849	212	uniprot:O89094	mice	Species
+PMC2211849	214	uniprot:P19174	PLC-gamma1	Gene_or_gene_product
+PMC2211849	214	uniprot:P16885	PLC-gamma2	Gene_or_gene_product
+PMC2211849	215	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2211849	216	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	217	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211849	219	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	219	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	219	uniprot:UNRESOLVED ID	anti-LAT	Gene_or_gene_product
+PMC2211849	220	uniprot:P19174	PLC-gamma1	Gene_or_gene_product
+PMC2211849	220	uniprot:P16885	PLC-gamma2	Gene_or_gene_product
+PMC2211849	220	uniprot:UNRESOLVED ID	SLP-76 in WT	Gene_or_gene_product
+PMC2211849	220	uniprot:O43561	LAT-/-	Gene_or_gene_product
+PMC2211849	220	uniprot:Q9GZY6	LAB-/-	Gene_or_gene_product
+PMC2211849	221	uniprot:UNRESOLVED ID	anti-PLC-gamma1	Gene_or_gene_product
+PMC2211849	221	uniprot:P16885	PLC-gamma2	Gene_or_gene_product
+PMC2211849	221	uniprot:UNRESOLVED ID	SLP-76 antibodies	Gene_or_gene_product
+PMC2211849	222	uniprot:P19174	PLC-gamma1	Gene_or_gene_product
+PMC2211849	222	uniprot:P16885	PLC-gamma2	Gene_or_gene_product
+PMC2211849	222	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2211849	223	uniprot:UNRESOLVED ID	anti-PLC-gamma1	Gene_or_gene_product
+PMC2211849	223	uniprot:P16885	PLC-gamma2	Gene_or_gene_product
+PMC2211849	223	uniprot:UNRESOLVED ID	SLP-76 antibodies	Gene_or_gene_product
+PMC2211849	224	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	224	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2211849	224	uniprot:P19174	PLC-gamma1	Gene_or_gene_product
+PMC2211849	225	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	225	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	226	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211849	226	uniprot:UNRESOLVED ID	Fluo-4	Gene_or_gene_product
+PMC2211849	228	uniprot:Q9GZY6	LAB-/-	Gene_or_gene_product
+PMC2211849	228	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	230	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC2211849	230	uniprot:UNRESOLVED ID	WT	Gene_or_gene_product
+PMC2211849	230	uniprot:O43561	LAT-/-	Gene_or_gene_product
+PMC2211849	230	uniprot:Q9GZY6	LAB-/-	Gene_or_gene_product
+PMC2211849	230	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	232	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211849	232	uniprot:UNRESOLVED ID	Fluo-4	Gene_or_gene_product
+PMC2211849	234	uniprot:P29323	Erk	Gene_or_gene_product
+PMC2211849	234	uniprot:O75791	p38	Gene_or_gene_product
+PMC2211849	234	uniprot:Q966Y3	Jnk	Gene_or_gene_product
+PMC2211849	235	uniprot:P29323	Erk	Gene_or_gene_product
+PMC2211849	235	uniprot:O75791	p38	Gene_or_gene_product
+PMC2211849	235	uniprot:Q966Y3	Jnk	Gene_or_gene_product
+PMC2211849	237	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	238	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC2211849	238	uniprot:O43561	LAT-/-	Gene_or_gene_product
+PMC2211849	238	uniprot:Q9GZY6	LAB-/-	Gene_or_gene_product
+PMC2211849	238	uniprot:P29323	Erk	Gene_or_gene_product
+PMC2211849	238	uniprot:Q966Y3	Jnk	Gene_or_gene_product
+PMC2211849	238	uniprot:O75791	p38	Gene_or_gene_product
+PMC2211849	240	uniprot:Q9GZY6	Lab	Gene_or_gene_product
+PMC2211849	240	uniprot:O75791	p38	Gene_or_gene_product
+PMC2211849	240	uniprot:Q966Y3	Jnk	Gene_or_gene_product
+PMC2211849	240	uniprot:P29323	Erk	Gene_or_gene_product
+PMC2211849	241	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2211849	241	uniprot:O75791	p38	Gene_or_gene_product
+PMC2211849	241	uniprot:P29323	Erk	Gene_or_gene_product
+PMC2211849	242	uniprot:O75791	p38	Gene_or_gene_product
+PMC2211849	242	uniprot:Q966Y3	Jnk	Gene_or_gene_product
+PMC2211849	242	uniprot:P29323	Erk	Gene_or_gene_product
+PMC2211849	243	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	244	uniprot:UNRESOLVED ID	FcepsilonRI receptor	Gene_or_gene_product
+PMC2211849	245	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	245	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211849	245	uniprot:UNRESOLVED ID	WT	Gene_or_gene_product
+PMC2211849	245	uniprot:O43561	LAT-/-	Gene_or_gene_product
+PMC2211849	245	uniprot:Q9GZY6	LAB-/-	Gene_or_gene_product
+PMC2211849	246	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2211849	246	uniprot:P05112	IL-4	Gene_or_gene_product
+PMC2211849	246	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2211849	248	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2211849	248	uniprot:P05112	IL-4	Gene_or_gene_product
+PMC2211849	248	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2211849	248	uniprot:P01375	TNF	Gene_or_gene_product
+PMC2211849	249	uniprot:P05112	IL-4	Gene_or_gene_product
+PMC2211849	249	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2211849	249	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2211849	249	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2211849	250	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2211849	250	uniprot:P05112	IL-4	Gene_or_gene_product
+PMC2211849	250	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2211849	253	uniprot:Q9GZY6	LAB-/-	Gene_or_gene_product
+PMC2211849	253	uniprot:P60568	IL-2	Gene_or_gene_product
+PMC2211849	253	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2211849	253	uniprot:P05112	Il-4	Gene_or_gene_product
+PMC2211849	253	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2211849	253	uniprot:P10147	MIP-1alpha	Gene_or_gene_product
+PMC2211849	254	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	254	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	257	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211849	262	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	262	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	262	uniprot:UNRESOLVED ID	Raft	Gene_or_gene_product
+PMC2211849	263	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	264	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	264	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	264	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	265	uniprot:UNRESOLVED ID	WT	Gene_or_gene_product
+PMC2211849	265	uniprot:O43561	LAT-/-	Gene_or_gene_product
+PMC2211849	265	uniprot:Q9GZY6	LAB-/-	Gene_or_gene_product
+PMC2211849	266	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	266	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	266	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2211849	266	uniprot:UNRESOLVED ID	PLC-gamma2 antibodies	Gene_or_gene_product
+PMC2211849	267	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	268	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	268	uazid:UA-CT-100002	B cells	CellType
+PMC2211849	269	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	270	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	271	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2211849	271	uniprot:P16885	PLC-gamma2	Gene_or_gene_product
+PMC2211849	271	uniprot:Q9GZY6	LAB-/-	Gene_or_gene_product
+PMC2211849	272	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	272	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	273	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	273	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	274	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	274	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	274	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	275	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	275	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	276	uniprot:UNRESOLVED ID	WT	Gene_or_gene_product
+PMC2211849	276	uniprot:O43561	LAT-/-	Gene_or_gene_product
+PMC2211849	276	uniprot:O89094	mice	Species
+PMC2211849	278	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	278	uniprot:P16885	PLC-gamma2	Gene_or_gene_product
+PMC2211849	278	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2211849	279	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	279	uniprot:O89094	mice	Species
+PMC2211849	279	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	280	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	280	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	281	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	281	uniprot:UNRESOLVED ID	WT	Gene_or_gene_product
+PMC2211849	281	uniprot:O43561	LAT-/-	Gene_or_gene_product
+PMC2211849	281	uniprot:Q9GZY6	LAB-/-	Gene_or_gene_product
+PMC2211849	281	uniprot:O89094	mice	Species
+PMC2211849	282	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	282	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	282	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	283	uniprot:O43561	Lat	Gene_or_gene_product
+PMC2211849	283	uniprot:Q9GZY6	Lab	Gene_or_gene_product
+PMC2211849	283	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211849	283	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2211849	283	uniprot:UNRESOLVED ID	IL-3 receptor	Gene_or_gene_product
+PMC2211849	284	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	284	uniprot:P37101	PTK	Gene_or_gene_product
+PMC2211849	284	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	285	uniprot:P19174	PLC-gamma1	Gene_or_gene_product
+PMC2211849	285	uniprot:P16885	PLC-gamma2	Gene_or_gene_product
+PMC2211849	286	uniprot:P19174	PLC-gamma1	Gene_or_gene_product
+PMC2211849	286	uniprot:P16885	PLC-gamma2	Gene_or_gene_product
+PMC2211849	287	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	288	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	288	uniprot:P29323	Erk	Gene_or_gene_product
+PMC2211849	288	uniprot:P13678	PKC	Gene_or_gene_product
+PMC2211849	288	uniprot:O95267	Ras-GRP	Gene_or_gene_product
+PMC2211849	289	uniprot:P29323	Erk	Gene_or_gene_product
+PMC2211849	289	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211849	290	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	290	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	290	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	291	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	292	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	292	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	292	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211849	294	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	294	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	295	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	297	uniprot:Q9P2X3	impact	Gene_or_gene_product
+PMC2211849	297	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	297	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	297	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2211849	298	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	298	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2211849	299	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	299	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	300	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	300	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	301	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	301	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	301	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	301	uniprot:P29323	Erk	Gene_or_gene_product
+PMC2211849	302	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	302	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2211849	302	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2211849	302	uniprot:P01375	TNF	Gene_or_gene_product
+PMC2211849	304	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	304	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	304	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC2211849	305	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	305	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	306	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211849	306	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	306	uniprot:P19174	PLC-gamma1	Gene_or_gene_product
+PMC2211849	307	uniprot:Q9GZY6	Lab	Gene_or_gene_product
+PMC2211849	307	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	307	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC2211849	308	ncbitax:species:ncbi:10090	Transgenic mice	Species
+PMC2211849	308	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	308	uniprot:P06729	CD2	Gene_or_gene_product
+PMC2211849	308	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	308	uniprot:O89094	mice	Species
+PMC2211849	309	uniprot:O89094	mice	Species
+PMC2211849	309	uazid:UA-CT-22	lymphocyte	CellType
+PMC2211849	310	uniprot:O89094	mice	Species
+PMC2211849	310	uniprot:UNRESOLVED ID	Th2 cytokines	Gene_or_gene_product
+PMC2211849	311	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	311	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	311	uniprot:UNRESOLVED ID	PLC-gamma1 site	Gene_or_gene_product
+PMC2211849	312	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	313	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	313	uniprot:P19174	PLC-gamma1	Gene_or_gene_product
+PMC2211849	313	uniprot:P16885	PLC-gamma2	Gene_or_gene_product
+PMC2211849	313	uniprot:UNRESOLVED ID	Gads-SLP76-PLC-gamma complex	Gene_or_gene_product
+PMC2211849	314	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	314	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	314	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	315	uniprot:P19174	PLC-gamma1	Gene_or_gene_product
+PMC2211849	315	uniprot:P16885	PLC-gamma2	Gene_or_gene_product
+PMC2211849	315	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	316	uniprot:Q9GZY6	Lab	Gene_or_gene_product
+PMC2211849	316	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	317	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	317	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	317	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	317	uniprot:Q9GZY6	Lab	Gene_or_gene_product
+PMC2211849	318	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211849	319	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	319	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	319	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211849	320	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	320	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	320	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211849	320	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	320	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC2211849	321	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	321	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	322	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	323	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	324	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	324	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	325	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	325	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	326	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	326	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	326	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	326	uniprot:P19174	PLC-gamma1	Gene_or_gene_product
+PMC2211849	326	uniprot:P16885	PLC-gamma2	Gene_or_gene_product
+PMC2211849	326	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC2211849	327	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	327	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	327	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	329	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	329	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	330	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	330	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	331	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	331	uniprot:O89094	mice	Species
+PMC2211849	333	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211849	333	uniprot:O89094	mice	Species
+PMC2211849	334	uniprot:O89094	mice	Species
+PMC2211849	334	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211849	334	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	335	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211849	335	uniprot:O89094	mice	Species
+PMC2211849	336	uniprot:O89094	mice	Species
+PMC2211849	336	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211849	337	uniprot:O89094	mice	Species
+PMC2211849	337	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211849	338	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	338	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2211849	338	uniprot:Q9GZY6	Lab	Gene_or_gene_product
+PMC2211849	338	uniprot:Q9P2X3	impact	Gene_or_gene_product
+PMC2211849	338	uazid:UA-CT-100001	B cell	CellType
+PMC2211849	338	uazid:UA-CT-100027	mature B cells	CellType
+PMC2211849	338	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	338	uniprot:O89094	mice	Species
+PMC2211849	339	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	339	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	339	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2211849	339	uazid:UA-CT-100002	B cells	CellType
+PMC2211849	340	uazid:UA-CT-100002	B cells	CellType
+PMC2211849	340	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2211849	340	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	341	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2211849	341	uniprot:P19174	PLC-gamma1	Gene_or_gene_product
+PMC2211849	341	uniprot:UNRESOLVED ID	Ras-MAPK	Gene_or_gene_product
+PMC2211849	341	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	341	uazid:UA-CT-100002	B cells	CellType
+PMC2211849	341	uniprot:Q8WV28	SLP-65	Gene_or_gene_product
+PMC2211849	341	uniprot:Q8WV28	BLNK	Gene_or_gene_product
+PMC2211849	341	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2211849	341	uniprot:UNRESOLVED ID	Igalpha chain	Gene_or_gene_product
+PMC2211849	342	uniprot:Q8WV28	BLNK	Gene_or_gene_product
+PMC2211849	342	uniprot:P19174	PLC-gamma1	Gene_or_gene_product
+PMC2211849	342	uniprot:P02528	gamma2	Gene_or_gene_product
+PMC2211849	343	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211849	343	uazid:UA-CT-100002	B cells	CellType
+PMC2211849	344	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211849	344	uazid:UA-CT-100001	B cell	CellType
+PMC2211849	344	uniprot:Q9GZY6	Lab	Gene_or_gene_product
+PMC2211849	345	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2211849	345	uazid:UA-CT-100001	B cell	CellType
+PMC2211849	345	uniprot:O89094	mice	Species
+PMC2211849	346	ncbitax:species:ncbi:9606	Human	Species
+PMC2211849	346	ncbitax:species:ncbi:10090	Mouse	Species

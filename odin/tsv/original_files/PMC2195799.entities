@@ -1,0 +1,730 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2195799	0	uniprot:P12931	Src	Gene_or_gene_product
+PMC2195799	0	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	0	uniprot:UNRESOLVED ID	C-Jun Nh2-Terminal Kinase 1	Gene_or_gene_product
+PMC2195799	1	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	1	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2195799	2	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	3	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	3	uniprot:UNRESOLVED ID	Fcin receptor I	Gene_or_gene_product
+PMC2195799	3	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	4	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	4	uniprot:P12931	Src	Gene_or_gene_product
+PMC2195799	4	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	5	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	5	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	6	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	6	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195799	6	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	7	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	7	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	7	uniprot:UNRESOLVED ID	leukocyte	CellType
+PMC2195799	7	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	9	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	9	uniprot:UNRESOLVED ID	c-Jun NH2-terminal kinase 1	Gene_or_gene_product
+PMC2195799	9	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	10	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	10	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	17	uniprot:UNRESOLVED ID	Ag receptors	Gene_or_gene_product
+PMC2195799	17	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	18	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	18	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	18	uniprot:P03716	scaffolding protein	Gene_or_gene_product
+PMC2195799	20	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	20	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	21	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	21	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	21	uniprot:P54829	step	Gene_or_gene_product
+PMC2195799	22	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	22	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2195799	22	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2195799	22	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2195799	22	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195799	23	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2195799	23	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	23	uniprot:UNRESOLVED ID	c-Jun NH2-terminal kinase	Gene_or_gene_product
+PMC2195799	23	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2195799	24	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	24	uniprot:UNRESOLVED ID	Vav pleckstrin	Gene_or_gene_product
+PMC2195799	25	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	25	uniprot:P12931	Src	Gene_or_gene_product
+PMC2195799	26	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	26	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	26	uniprot:P43403	ZAP-70	Gene_or_gene_product
+PMC2195799	26	uniprot:UNRESOLVED ID	leukocyte	CellType
+PMC2195799	26	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	26	uniprot:P22681	Cbl	Gene_or_gene_product
+PMC2195799	27	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2195799	27	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	28	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	28	uniprot:Q15942	zyxin	Gene_or_gene_product
+PMC2195799	29	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	30	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	30	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	31	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	31	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2195799	31	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	31	uniprot:UNRESOLVED ID	FcinRIgamma ITAM	Gene_or_gene_product
+PMC2195799	32	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	32	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	33	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	33	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	33	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	34	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	34	uniprot:P54829	step	Gene_or_gene_product
+PMC2195799	36	ncbitax:species:ncbi:10090	Mouse	Species
+PMC2195799	36	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	36	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195799	36	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	36	uniprot:UNRESOLVED ID	4G10	Gene_or_gene_product
+PMC2195799	36	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2195799	36	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	37	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2195799	37	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	38	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2195799	38	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	38	uniprot:Q96T53	goat	Species
+PMC2195799	38	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	40	ncbitax:species:ncbi:10090	Mouse	Species
+PMC2195799	40	uniprot:UNRESOLVED ID	FcinRI beta chain	Gene_or_gene_product
+PMC2195799	40	ncbitax:species:ncbi:10090	mouse	Species
+PMC2195799	40	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	41	uniprot:UNRESOLVED ID	DNP	Gene_or_gene_product
+PMC2195799	41	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2195799	42	uniprot:P02768	serum albumin	Gene_or_gene_product
+PMC2195799	42	uniprot:Q15070	HSA	Gene_or_gene_product
+PMC2195799	46	uniprot:Q2G0B1	rat	Species
+PMC2195799	46	uniprot:UNRESOLVED ID	leukemia	CellType
+PMC2195799	46	uniprot:UNRESOLVED ID	RBL-2H3	Gene_or_gene_product
+PMC2195799	46	uniprot:UNRESOLVED ID	RBL-2H3 TB1A2	Gene_or_gene_product
+PMC2195799	46	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	46	uniprot:UNRESOLVED ID	RBL-2H3 3A1	Gene_or_gene_product
+PMC2195799	46	uniprot:UNRESOLVED ID	Syk+	Gene_or_gene_product
+PMC2195799	46	uniprot:UNRESOLVED ID	RBL-2H3 3BA12	Gene_or_gene_product
+PMC2195799	47	uazid:UA-ORG-461	kidney	Organ
+PMC2195799	48	ncbitax:species:ncbi:11033	Semliki Forest Virus	Species
+PMC2195799	49	ncbitax:species:ncbi:11033	Semliki Forest virus	Species
+PMC2195799	49	ncbitax:species:ncbi:11642	SFV	Species
+PMC2195799	50	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	50	uniprot:Q2G0B1	rat	Species
+PMC2195799	51	uniprot:UNRESOLVED ID	pSFV1-GFP	Gene_or_gene_product
+PMC2195799	51	uniprot:UNRESOLVED ID	Vav-GFP	Gene_or_gene_product
+PMC2195799	52	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	52	uniprot:UNRESOLVED ID	pSFV1-GFP	Gene_or_gene_product
+PMC2195799	52	uniprot:UNRESOLVED ID	pSFV1-VavSH2	Gene_or_gene_product
+PMC2195799	53	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	54	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	54	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	55	uniprot:UNRESOLVED ID	SRalphaVav	Gene_or_gene_product
+PMC2195799	56	uniprot:Q2G0B1	rat	Species
+PMC2195799	56	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	57	uniprot:UNRESOLVED ID	Pfu DNA polymerase	Gene_or_gene_product
+PMC2195799	59	ncbitax:species:ncbi:11642	SFV	Species
+PMC2195799	60	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	62	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2195799	63	uniprot:UNRESOLVED ID	DNP-HSA	Gene_or_gene_product
+PMC2195799	65	uniprot:UNRESOLVED ID	FcinRI beta chain	Gene_or_gene_product
+PMC2195799	65	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2195799	65	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	65	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195799	65	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	65	uniprot:Q96T53	goat	Species
+PMC2195799	67	uniprot:UNRESOLVED ID	63x Plan Apochromat objective	Gene_or_gene_product
+PMC2195799	71	uniprot:UNRESOLVED ID	In-Gel Kinase Assays	Gene_or_gene_product
+PMC2195799	73	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	73	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	73	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	75	uniprot:P02810	protein A	Gene_or_gene_product
+PMC2195799	75	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	75	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	75	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	75	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	75	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2195799	75	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	76	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2195799	76	uniprot:UNRESOLVED ID	4G10 antibody	Gene_or_gene_product
+PMC2195799	77	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2195799	78	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2195799	78	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	78	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2195799	78	uniprot:P49023	paxillin	Gene_or_gene_product
+PMC2195799	78	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195799	78	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	78	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	78	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	79	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	80	uniprot:Q96T53	goat	Species
+PMC2195799	81	uniprot:O60760	glutathione S-transferase	Gene_or_gene_product
+PMC2195799	81	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2195799	81	uniprot:P15336	ATF2	Gene_or_gene_product
+PMC2195799	81	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	83	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	83	uniprot:UNRESOLVED ID	FcinRI Engagement	Gene_or_gene_product
+PMC2195799	84	uniprot:UNRESOLVED ID	Vav-GFP	Gene_or_gene_product
+PMC2195799	84	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	87	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	87	uniprot:UNRESOLVED ID	Vav-GFP	Gene_or_gene_product
+PMC2195799	88	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	89	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	90	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	90	uniprot:UNRESOLVED ID	Vav-GFP	Gene_or_gene_product
+PMC2195799	91	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	91	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	92	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	93	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	93	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	94	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	94	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	95	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	95	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	96	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	97	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	97	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	98	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	98	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	99	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	99	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	100	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	100	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	100	uniprot:UNRESOLVED ID	Vav-GFP	Gene_or_gene_product
+PMC2195799	100	uniprot:UNRESOLVED ID	Anti-beta	Gene_or_gene_product
+PMC2195799	101	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	102	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	102	uniprot:UNRESOLVED ID	FITC-	Gene_or_gene_product
+PMC2195799	102	uniprot:P48147	PE	Gene_or_gene_product
+PMC2195799	102	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2195799	103	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	104	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	104	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	105	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	105	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	106	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	106	uniprot:UNRESOLVED ID	FcinRIgamma ITAMs	Gene_or_gene_product
+PMC2195799	107	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	107	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	107	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	108	uniprot:P86355	CH	Gene_or_gene_product
+PMC2195799	108	uniprot:P82707	DH	Gene_or_gene_product
+PMC2195799	108	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	108	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	109	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	109	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	110	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	110	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	111	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	111	uniprot:UNRESOLVED ID	Vav-GFP	Gene_or_gene_product
+PMC2195799	111	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	112	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	112	uniprot:P86355	CH	Gene_or_gene_product
+PMC2195799	112	uniprot:P82707	DH	Gene_or_gene_product
+PMC2195799	113	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	114	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	114	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	114	uniprot:P43403	ZAP-70	Gene_or_gene_product
+PMC2195799	115	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	115	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	116	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	116	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	117	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	117	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	117	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	118	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	118	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	119	N/A	Vav	Gene_or_gene_product
+PMC2195799	119	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	119	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	120	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	120	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	121	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	121	N/A	Vav	Gene_or_gene_product
+PMC2195799	122	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	122	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	122	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195799	123	uniprot:P86355	CH	Gene_or_gene_product
+PMC2195799	123	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	124	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2195799	124	uniprot:P82707	DH	Gene_or_gene_product
+PMC2195799	124	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	124	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2195799	124	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	125	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	125	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	126	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	126	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	127	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	127	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	128	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	129	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	129	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	130	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	131	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	131	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	131	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	132	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	132	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	132	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	133	uniprot:UNRESOLVED ID	TB1A2	Gene_or_gene_product
+PMC2195799	133	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	133	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	134	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	134	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	134	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	135	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	135	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	135	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	136	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	136	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	137	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	137	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	137	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	138	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	138	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	139	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	139	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	140	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	140	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	141	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	141	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	142	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	143	uniprot:UNRESOLVED ID	FcinRI-	Gene_or_gene_product
+PMC2195799	143	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2195799	143	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	143	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	144	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	144	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	145	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	145	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	145	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195799	145	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	146	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	146	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2195799	146	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	146	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	147	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	147	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	147	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	148	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	148	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	149	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	149	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	150	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	150	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	151	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	152	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	153	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	154	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	154	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	155	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	155	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	155	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	156	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	156	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	156	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	157	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	157	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	157	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	158	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	158	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	158	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2195799	158	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	159	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	159	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	159	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	159	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	160	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	160	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	160	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	160	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	161	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	161	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	161	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	162	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	162	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	162	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	163	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2195799	163	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	164	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	164	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	164	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	164	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	165	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	165	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	165	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	165	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	166	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	167	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	167	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	167	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	168	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	168	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	168	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	168	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	169	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	169	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	169	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	170	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	170	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2195799	171	uniprot:UNRESOLVED ID	FcinRI beta chain	Gene_or_gene_product
+PMC2195799	171	uniprot:P55040	GEM	Gene_or_gene_product
+PMC2195799	171	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2195799	171	uniprot:P49023	paxillin	Gene_or_gene_product
+PMC2195799	172	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	172	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	172	uniprot:UNRESOLVED ID	control Vav-C	Gene_or_gene_product
+PMC2195799	173	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	173	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	174	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	174	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	175	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	176	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195799	176	uniprot:UNRESOLVED ID	Vav GEF	Gene_or_gene_product
+PMC2195799	176	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	177	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195799	177	uazid:UA-CT-100033	platelet	Organ
+PMC2195799	178	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	178	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	178	uniprot:O43561	LAT-	Gene_or_gene_product
+PMC2195799	178	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195799	179	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	179	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	180	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	180	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	180	uniprot:P55040	GEM	Gene_or_gene_product
+PMC2195799	181	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	181	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	181	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195799	181	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	182	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	183	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	183	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	183	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	183	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	184	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	185	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	186	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	186	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	186	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	186	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	186	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	186	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	186	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	187	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195799	187	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	187	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	188	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	188	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	188	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	189	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	189	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	190	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	190	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	190	uniprot:O43561	LAT-	Gene_or_gene_product
+PMC2195799	190	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195799	191	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	191	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	191	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	191	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	192	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	192	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	193	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	195	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	195	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	195	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	196	uniprot:Q2G0B1	rat	Species
+PMC2195799	196	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	196	uniprot:P43403	ZAP-70	Gene_or_gene_product
+PMC2195799	196	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	197	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	198	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	198	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	199	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	199	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	200	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	200	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	200	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	201	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	202	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	202	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	203	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	203	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	203	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	204	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	204	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	204	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	205	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	205	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	205	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	205	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	206	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	206	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	207	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	207	uniprot:P54829	step	Gene_or_gene_product
+PMC2195799	207	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	207	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	208	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	208	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	209	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	210	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	211	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	211	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	212	uniprot:UNRESOLVED ID	FcinRI molecules	Gene_or_gene_product
+PMC2195799	212	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2195799	213	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	213	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	214	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	214	uniprot:P55040	GEM	Gene_or_gene_product
+PMC2195799	214	uniprot:UNRESOLVED ID	FcinRI beta chain	Gene_or_gene_product
+PMC2195799	216	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	216	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2195799	217	uniprot:P10747	CD28	Gene_or_gene_product
+PMC2195799	217	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2195799	218	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2195799	218	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2195799	218	uniprot:P10747	CD28	Gene_or_gene_product
+PMC2195799	218	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	219	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	219	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	219	uniprot:UNRESOLVED ID	Grb2-Sos	Gene_or_gene_product
+PMC2195799	220	uniprot:UNRESOLVED ID	RBL-2H3	Gene_or_gene_product
+PMC2195799	220	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	221	uniprot:P19174	phospholipase Cgamma1	Gene_or_gene_product
+PMC2195799	221	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	221	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	221	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2195799	221	uniprot:P22681	Cbl	Gene_or_gene_product
+PMC2195799	222	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	222	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195799	222	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	223	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	223	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	223	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	224	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	224	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	224	uniprot:P31749	Rac	Gene_or_gene_product
+PMC2195799	225	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	225	uniprot:UNRESOLVED ID	Rac1 GEF	Gene_or_gene_product
+PMC2195799	225	uniprot:UNRESOLVED ID	LAT-SLP-76 complex	Gene_or_gene_product
+PMC2195799	225	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195799	226	uniprot:O89094	mice	Species
+PMC2195799	226	uniprot:Q00859	mitogen-activated protein kinase	Gene_or_gene_product
+PMC2195799	226	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC2195799	227	uniprot:O89094	mice	Species
+PMC2195799	227	uniprot:UNRESOLVED ID	extracellular signal-regulated kinase	Gene_or_gene_product
+PMC2195799	227	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2195799	230	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2195799	230	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2195799	231	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	231	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2195799	233	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	234	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	234	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	234	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	234	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	234	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	235	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195799	235	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2195799	235	uniprot:P23035	APF	Gene_or_gene_product
+PMC2195799	235	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	235	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	236	N/A	SLP-76	Gene_or_gene_product
+PMC2195799	236	N/A	Vav	Gene_or_gene_product
+PMC2195799	236	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2195799	236	uniprot:P38936	p21	Gene_or_gene_product
+PMC2195799	236	uniprot:Q9FZ06	PAK	Gene_or_gene_product
+PMC2195799	237	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	237	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2195799	237	uniprot:Q9FZ06	PAK	Gene_or_gene_product
+PMC2195799	237	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195799	238	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	238	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	238	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	238	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	238	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	239	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	239	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	239	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	239	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195799	239	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	240	uniprot:P19174	phospholipase Cgamma1	Gene_or_gene_product
+PMC2195799	240	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	240	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	240	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	242	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	243	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	243	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	243	uniprot:P31749	Rac	Gene_or_gene_product
+PMC2195799	243	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC2195799	244	uniprot:P86355	CH	Gene_or_gene_product
+PMC2195799	244	uniprot:P82707	DH	Gene_or_gene_product
+PMC2195799	244	uniprot:P10911	Dbl	Gene_or_gene_product
+PMC2195799	244	uniprot:UNRESOLVED ID	DNP	Gene_or_gene_product
+PMC2195799	244	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2195799	244	uniprot:P55040	GEM	Gene_or_gene_product
+PMC2195799	244	uniprot:Q15070	HSA	Gene_or_gene_product
+PMC2195799	244	ncbitax:species:ncbi:9606	human	Species
+PMC2195799	244	uniprot:P02768	serum albumin	Gene_or_gene_product
+PMC2195799	244	uniprot:UNRESOLVED ID	ITAM	Gene_or_gene_product
+PMC2195799	244	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2195799	244	uniprot:UNRESOLVED ID	c-Jun NH2-terminal kinase	Gene_or_gene_product
+PMC2195799	244	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	244	uniprot:P01298	PH	Gene_or_gene_product
+PMC2195799	244	uniprot:P08567	pleckstrin	Gene_or_gene_product
+PMC2195799	244	uniprot:P33496	SH	Gene_or_gene_product
+PMC2195799	244	uniprot:P12931	Src	Gene_or_gene_product
+PMC2195799	244	ncbitax:species:ncbi:11642	SFV	Species
+PMC2195799	244	ncbitax:species:ncbi:11033	Semliki Forest virus	Species
+PMC2195799	244	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	244	uniprot:UNRESOLVED ID	leukocyte	CellType
+PMC2195799	245	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	245	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	246	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	246	uniprot:UNRESOLVED ID	RBL-2H3	Gene_or_gene_product
+PMC2195799	247	uniprot:UNRESOLVED ID	Vav-GFP	Gene_or_gene_product
+PMC2195799	247	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	248	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	249	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	249	uniprot:UNRESOLVED ID	Vav-GFP	Gene_or_gene_product
+PMC2195799	250	uniprot:UNRESOLVED ID	Vav-GFP	Gene_or_gene_product
+PMC2195799	250	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2195799	250	uniprot:UNRESOLVED ID	DNP-HSA	Gene_or_gene_product
+PMC2195799	252	ncbitax:species:ncbi:41568	mum	Species
+PMC2195799	253	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	253	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	253	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	254	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	254	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	255	uniprot:UNRESOLVED ID	Vav-GFP	Gene_or_gene_product
+PMC2195799	255	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2195799	256	ncbitax:species:ncbi:10090	mouse	Species
+PMC2195799	256	uniprot:Q96T53	goat	Species
+PMC2195799	258	uniprot:UNRESOLVED ID	Vav-GFP	Gene_or_gene_product
+PMC2195799	259	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	259	uniprot:P01298	PH	Gene_or_gene_product
+PMC2195799	259	uniprot:P82707	DH	Gene_or_gene_product
+PMC2195799	259	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	260	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	260	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	261	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	261	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	261	uniprot:UNRESOLVED ID	Vav-GFP	Gene_or_gene_product
+PMC2195799	262	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	263	uniprot:UNRESOLVED ID	Vav-GFP	Gene_or_gene_product
+PMC2195799	265	uniprot:UNRESOLVED ID	IB	Gene_or_gene_product
+PMC2195799	266	uniprot:UNRESOLVED ID	Anti-PY	Gene_or_gene_product
+PMC2195799	267	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	267	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	268	uniprot:UNRESOLVED ID	Vav-GFP	Gene_or_gene_product
+PMC2195799	269	uniprot:UNRESOLVED ID	anti-JNK1	Gene_or_gene_product
+PMC2195799	270	uniprot:UNRESOLVED ID	antiphospho-JNK1	Gene_or_gene_product
+PMC2195799	270	uniprot:UNRESOLVED ID	anti-JNK1	Gene_or_gene_product
+PMC2195799	273	uniprot:P46060	SD	Gene_or_gene_product
+PMC2195799	274	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	274	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	274	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	275	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	275	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	276	uniprot:UNRESOLVED ID	Vav-GFP	Gene_or_gene_product
+PMC2195799	276	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	278	ncbitax:species:ncbi:10090	mouse	Species
+PMC2195799	278	uniprot:UNRESOLVED ID	FcinRI beta chain	Gene_or_gene_product
+PMC2195799	278	uniprot:Q96T53	goat	Species
+PMC2195799	279	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	279	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	280	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	280	uniprot:UNRESOLVED ID	Vav-GFP	Gene_or_gene_product
+PMC2195799	281	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	282	uniprot:UNRESOLVED ID	IB	Gene_or_gene_product
+PMC2195799	282	uniprot:UNRESOLVED ID	Anti-PY	Gene_or_gene_product
+PMC2195799	283	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	283	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	283	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	284	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	284	uniprot:UNRESOLVED ID	Vav-GFP	Gene_or_gene_product
+PMC2195799	285	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	286	uniprot:UNRESOLVED ID	anti-phosphoJNK1	Gene_or_gene_product
+PMC2195799	286	uniprot:UNRESOLVED ID	anti-JNK1	Gene_or_gene_product
+PMC2195799	287	uniprot:UNRESOLVED ID	IB	Gene_or_gene_product
+PMC2195799	289	uniprot:P46060	SD	Gene_or_gene_product
+PMC2195799	290	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	290	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	290	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	290	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	290	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	291	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	291	uniprot:UNRESOLVED ID	SH3-SH2-SH3	Gene_or_gene_product
+PMC2195799	291	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	292	uniprot:UNRESOLVED ID	Vav-C-GFP	Gene_or_gene_product
+PMC2195799	294	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	295	uniprot:UNRESOLVED ID	IB	Gene_or_gene_product
+PMC2195799	297	ncbitax:species:ncbi:10090	mouse	Species
+PMC2195799	297	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	298	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	298	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	298	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	299	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	299	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	299	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	300	uniprot:UNRESOLVED ID	Anti-PY	Gene_or_gene_product
+PMC2195799	301	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	301	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	302	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	302	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	302	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	303	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	303	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	303	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	303	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	304	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	304	uniprot:UNRESOLVED ID	Vav-C-GFP	Gene_or_gene_product
+PMC2195799	305	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	306	uniprot:UNRESOLVED ID	Anti-PY	Gene_or_gene_product
+PMC2195799	306	uniprot:UNRESOLVED ID	anti-Grb2	Gene_or_gene_product
+PMC2195799	307	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	307	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	308	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	308	uniprot:UNRESOLVED ID	Anti-LAT	Gene_or_gene_product
+PMC2195799	310	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	310	uniprot:P31749	Rac	Gene_or_gene_product
+PMC2195799	310	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	310	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	310	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	310	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	311	uniprot:UNRESOLVED ID	Vav-GFP	Gene_or_gene_product
+PMC2195799	311	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	312	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	312	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	313	uniprot:UNRESOLVED ID	anti-Rac1	Gene_or_gene_product
+PMC2195799	315	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	316	uniprot:UNRESOLVED ID	PNS	CellType
+PMC2195799	317	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2195799	317	uniprot:P55040	GEM	Gene_or_gene_product
+PMC2195799	317	uniprot:P49023	paxillin	Gene_or_gene_product
+PMC2195799	318	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	319	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	319	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	319	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	320	uniprot:UNRESOLVED ID	Vav-C-GFP	Gene_or_gene_product
+PMC2195799	322	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	322	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	323	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	323	uniprot:UNRESOLVED ID	Anti-PY	Gene_or_gene_product
+PMC2195799	324	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	326	uniprot:UNRESOLVED ID	Vav-C	Gene_or_gene_product
+PMC2195799	328	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	328	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	329	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	329	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2195799	330	uniprot:P54829	step	Gene_or_gene_product
+PMC2195799	331	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	331	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	332	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2195799	332	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	333	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	334	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	334	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2195799	334	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2195799	335	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2195799	335	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195799	336	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2195799	336	uniprot:UNRESOLVED ID	FcinRI	Gene_or_gene_product
+PMC2195799	336	uniprot:P15498	Vav	Gene_or_gene_product

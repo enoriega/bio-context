@@ -1,0 +1,944 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2386837	0	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	1	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	1	uniprot:Q00859	mitogen-activated protein kinase	Gene_or_gene_product
+PMC2386837	1	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC2386837	1	ncbitax:species:ncbi:9606	human	Species
+PMC2386837	2	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	2	uniprot:P15056	B-Raf	Gene_or_gene_product
+PMC2386837	3	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	3	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	3	uniprot:P15056	B-Raf	Gene_or_gene_product
+PMC2386837	4	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	4	uniprot:UNRESOLVED ID	c-src homolog Src64B	Gene_or_gene_product
+PMC2386837	5	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	6	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	7	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	7	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	8	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	8	uniprot:P12931	Src	Gene_or_gene_product
+PMC2386837	9	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	10	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2386837	11	ncbitax:species:ncbi:9606	human	Species
+PMC2386837	12	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	12	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2386837	13	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	13	ncbitax:species:ncbi:9606	human	Species
+PMC2386837	14	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	15	uniprot:P12931	Src	Gene_or_gene_product
+PMC2386837	15	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	15	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	16	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	16	uniprot:UNRESOLVED ID	Draf kinase domain	Gene_or_gene_product
+PMC2386837	17	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	18	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2386837	19	ncbitax:species:ncbi:9606	human	Species
+PMC2386837	20	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	20	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2386837	21	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	21	ncbitax:species:ncbi:9606	human	Species
+PMC2386837	22	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	23	uniprot:P12931	Src	Gene_or_gene_product
+PMC2386837	23	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	23	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	24	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	24	uniprot:UNRESOLVED ID	Draf kinase domain	Gene_or_gene_product
+PMC2386837	25	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	26	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	27	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	27	uniprot:UNRESOLVED ID	extracellular signaling-regulated kinase kinase	Gene_or_gene_product
+PMC2386837	27	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
+PMC2386837	27	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2386837	28	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2386837	28	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2386837	29	uniprot:UNRESOLVED ID	Ras-GTP	Gene_or_gene_product
+PMC2386837	29	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	30	uniprot:P15056	B-Raf	Gene_or_gene_product
+PMC2386837	30	ncbitax:species:ncbi:9606	human	Species
+PMC2386837	31	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	31	uniprot:P10398	A-Raf	Gene_or_gene_product
+PMC2386837	31	uniprot:P15056	B-Raf	Gene_or_gene_product
+PMC2386837	31	uniprot:P04049	C-Raf	Gene_or_gene_product
+PMC2386837	31	uniprot:P04049	Raf-1	Gene_or_gene_product
+PMC2386837	31	uniprot:P04049	c-Raf	Gene_or_gene_product
+PMC2386837	31	uniprot:UNRESOLVED ID	CR1-3	Gene_or_gene_product
+PMC2386837	32	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	32	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	32	uniprot:Q07864	pole	Gene_or_gene_product
+PMC2386837	32	uniprot:P15056	B-Raf	Gene_or_gene_product
+PMC2386837	32	uniprot:P04049	C-Raf	Gene_or_gene_product
+PMC2386837	33	uniprot:P04049	C-Raf	Gene_or_gene_product
+PMC2386837	33	uniprot:P15056	B-Raf	Gene_or_gene_product
+PMC2386837	33	ncbitax:species:ncbi:9606	human	Species
+PMC2386837	33	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	34	uniprot:P17927	CR1	Gene_or_gene_product
+PMC2386837	35	uniprot:P17927	CR1	Gene_or_gene_product
+PMC2386837	35	uniprot:UNRESOLVED ID	Ras-GTP	Gene_or_gene_product
+PMC2386837	36	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	37	uniprot:Q8IVT5	Ksr	Gene_or_gene_product
+PMC2386837	37	uniprot:Q9H4B4	CNK	Gene_or_gene_product
+PMC2386837	37	uniprot:P29310	14-3-3	Gene_or_gene_product
+PMC2386837	37	uniprot:P12931	Src	Gene_or_gene_product
+PMC2386837	37	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	38	uniprot:UNRESOLVED ID	Ras-GTP	Gene_or_gene_product
+PMC2386837	38	uniprot:P54829	step	Gene_or_gene_product
+PMC2386837	38	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	39	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	40	uniprot:P04049	C-Raf	Gene_or_gene_product
+PMC2386837	43	uniprot:O75914	p21-activated kinase 3	Gene_or_gene_product
+PMC2386837	43	uniprot:O75914	PAK3	Gene_or_gene_product
+PMC2386837	44	uniprot:P12931	Src	Gene_or_gene_product
+PMC2386837	44	uniprot:UNRESOLVED ID	SFK	Gene_or_gene_product
+PMC2386837	44	uniprot:P04049	C-Raf	Gene_or_gene_product
+PMC2386837	45	uniprot:P12931	Src	Gene_or_gene_product
+PMC2386837	45	uniprot:Q00859	mitogen-activated protein kinase	Gene_or_gene_product
+PMC2386837	45	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC2386837	45	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2386837	45	uniprot:P29353	Shc	Gene_or_gene_product
+PMC2386837	45	uniprot:P10144	Grb	Gene_or_gene_product
+PMC2386837	46	uniprot:P12931	Src	Gene_or_gene_product
+PMC2386837	46	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC2386837	46	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2386837	47	uniprot:UNRESOLVED ID	SFKs	Gene_or_gene_product
+PMC2386837	47	uniprot:UNRESOLVED ID	RTKs	Gene_or_gene_product
+PMC2386837	47	uniprot:P12931	Src	Gene_or_gene_product
+PMC2386837	47	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	51	uniprot:P15056	B-Raf	Gene_or_gene_product
+PMC2386837	51	uniprot:P12931	Src	Gene_or_gene_product
+PMC2386837	52	uniprot:P15056	B-Raf	Gene_or_gene_product
+PMC2386837	52	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	52	uniprot:P04049	C-Raf	Gene_or_gene_product
+PMC2386837	53	uniprot:P15056	B-Raf	Gene_or_gene_product
+PMC2386837	53	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	54	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	54	uniprot:UNRESOLVED ID	Draf hypomorphic allele	Gene_or_gene_product
+PMC2386837	54	uniprot:UNRESOLVED ID	DrafSu2	Gene_or_gene_product
+PMC2386837	55	uniprot:UNRESOLVED ID	DrafSu2	Gene_or_gene_product
+PMC2386837	55	uniprot:UNRESOLVED ID	Draf variant	Gene_or_gene_product
+PMC2386837	55	uniprot:UNRESOLVED ID	Draf activators	Gene_or_gene_product
+PMC2386837	56	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	57	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	57	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	58	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	59	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	59	uniprot:UNRESOLVED ID	Draf target genes	Gene_or_gene_product
+PMC2386837	59	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2386837	59	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	60	uniprot:UNRESOLVED ID	Draf kinase domain	Gene_or_gene_product
+PMC2386837	60	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	61	uniprot:Q9P2X3	impact	Gene_or_gene_product
+PMC2386837	61	uniprot:UNRESOLVED ID	Draf kinase domain fragment	Gene_or_gene_product
+PMC2386837	62	uniprot:UNRESOLVED ID	full-length Draf	Gene_or_gene_product
+PMC2386837	63	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	64	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	64	uniprot:Q59XU5	Ras1	Gene_or_gene_product
+PMC2386837	65	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	65	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	65	uniprot:Q59XU5	Ras1	Gene_or_gene_product
+PMC2386837	66	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	66	uniprot:UNRESOLVED ID	Src64BDelta540	Gene_or_gene_product
+PMC2386837	66	uniprot:UNRESOLVED ID	Torso-Ras1-Draf	Gene_or_gene_product
+PMC2386837	67	uniprot:UNRESOLVED ID	Src64BDelta540	Gene_or_gene_product
+PMC2386837	68	uazid:UA-CT-200002	embryo	Organ
+PMC2386837	68	uniprot:UNRESOLVED ID	Torso	Gene_or_gene_product
+PMC2386837	68	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	69	uniprot:Q5QJ74	EL	Gene_or_gene_product
+PMC2386837	69	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	69	uniprot:Q59XU5	Ras1	Gene_or_gene_product
+PMC2386837	69	uniprot:P26205	Li	Species
+PMC2386837	69	uazid:UA-CT-200002	embryo	Organ
+PMC2386837	70	uniprot:UNRESOLVED ID	heat-shock	Gene_or_gene_product
+PMC2386837	70	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	71	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	71	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	71	uniprot:UNRESOLVED ID	Src64Bact	Gene_or_gene_product
+PMC2386837	71	uniprot:UNRESOLVED ID	Torso	Gene_or_gene_product
+PMC2386837	71	uniprot:Q59XU5	Ras1	Gene_or_gene_product
+PMC2386837	72	uniprot:UNRESOLVED ID	Src64Bact	Gene_or_gene_product
+PMC2386837	72	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	72	uniprot:UNRESOLVED ID	Torso	Gene_or_gene_product
+PMC2386837	72	uniprot:Q59XU5	Ras1	Gene_or_gene_product
+PMC2386837	72	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	73	uniprot:UNRESOLVED ID	Src64Bact	Gene_or_gene_product
+PMC2386837	73	uniprot:Q59XU5	Ras1	Gene_or_gene_product
+PMC2386837	73	uniprot:UNRESOLVED ID	Draf mutant	Gene_or_gene_product
+PMC2386837	73	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	74	uniprot:P12931	Src	Gene_or_gene_product
+PMC2386837	74	uniprot:P29353	Shc	Gene_or_gene_product
+PMC2386837	74	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2386837	74	uniprot:Q59XU5	Ras1	Gene_or_gene_product
+PMC2386837	75	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	75	uniprot:Q59XU5	Ras1	Gene_or_gene_product
+PMC2386837	75	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	76	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	77	uniprot:UNRESOLVED ID	tll mRNA	Gene_or_gene_product
+PMC2386837	77	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	78	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	79	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	81	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	81	uniprot:UNRESOLVED ID	Draf11-29	Gene_or_gene_product
+PMC2386837	81	uniprot:Q59XU5	Ras1	Gene_or_gene_product
+PMC2386837	81	uniprot:UNRESOLVED ID	Ras1DeltaC40B	Gene_or_gene_product
+PMC2386837	81	uniprot:UNRESOLVED ID	torsoXR1	Gene_or_gene_product
+PMC2386837	82	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	84	uazid:UA-ORG-382	head	Organ
+PMC2386837	84	uniprot:UNRESOLVED ID	tail	CellType
+PMC2386837	86	uazid:UA-CT-200003	Embryos	Organ
+PMC2386837	86	uniprot:Q59XU5	Ras1	Gene_or_gene_product
+PMC2386837	86	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	87	uniprot:UNRESOLVED ID	Src64Bact	Gene_or_gene_product
+PMC2386837	87	uniprot:Q59XU5	Ras1	Gene_or_gene_product
+PMC2386837	87	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	87	uniprot:UNRESOLVED ID	Draf mutants	Gene_or_gene_product
+PMC2386837	88	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	90	uniprot:UNRESOLVED ID	Ras-binding-deficient DrafSu2 variant	Gene_or_gene_product
+PMC2386837	90	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	91	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	91	uniprot:UNRESOLVED ID	GST-Dsor1	Gene_or_gene_product
+PMC2386837	91	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
+PMC2386837	92	uniprot:UNRESOLVED ID	DrafSu2	Gene_or_gene_product
+PMC2386837	92	uniprot:UNRESOLVED ID	Src64BDelta17	Gene_or_gene_product
+PMC2386837	93	uniprot:UNRESOLVED ID	Wild-type Draf	Gene_or_gene_product
+PMC2386837	93	uniprot:UNRESOLVED ID	Src64BDelta17	Gene_or_gene_product
+PMC2386837	94	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	94	uniprot:Q24324	Dsor1	Gene_or_gene_product
+PMC2386837	95	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	96	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	98	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	98	uniprot:UNRESOLVED ID	Src64BDelta17	Gene_or_gene_product
+PMC2386837	99	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	99	uniprot:UNRESOLVED ID	Src64BDelta17	Gene_or_gene_product
+PMC2386837	99	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	100	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	100	uniprot:UNRESOLVED ID	Draf Kinase	Gene_or_gene_product
+PMC2386837	101	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	101	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	102	uniprot:UNRESOLVED ID	Src64BDelta17	Gene_or_gene_product
+PMC2386837	102	uniprot:UNRESOLVED ID	Src64BPI	Gene_or_gene_product
+PMC2386837	104	uniprot:UNRESOLVED ID	Src64BDelta17	Gene_or_gene_product
+PMC2386837	104	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	105	uniprot:UNRESOLVED ID	Src64BDelta17	Gene_or_gene_product
+PMC2386837	105	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2386837	106	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	107	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	108	uniprot:UNRESOLVED ID	Draf allele	Gene_or_gene_product
+PMC2386837	108	uniprot:UNRESOLVED ID	DrafSu2	Gene_or_gene_product
+PMC2386837	108	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	108	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	109	uniprot:UNRESOLVED ID	DrafSu2	Gene_or_gene_product
+PMC2386837	109	uniprot:UNRESOLVED ID	Src64B mutants	Gene_or_gene_product
+PMC2386837	109	uniprot:UNRESOLVED ID	Draf kinase	Gene_or_gene_product
+PMC2386837	110	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	110	uniprot:Q24324	Dsor1	Gene_or_gene_product
+PMC2386837	110	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
+PMC2386837	110	uniprot:UNRESOLVED ID	Src64BDelta17 homozygotes	Gene_or_gene_product
+PMC2386837	110	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	110	uniprot:UNRESOLVED ID	Draf kinase	Gene_or_gene_product
+PMC2386837	110	uniprot:UNRESOLVED ID	DrafSu2	Gene_or_gene_product
+PMC2386837	110	uniprot:UNRESOLVED ID	Src64BDelta17	Gene_or_gene_product
+PMC2386837	111	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	111	uazid:UA-CT-200002	embryo	Organ
+PMC2386837	111	uniprot:Q24324	Dsor1	Gene_or_gene_product
+PMC2386837	112	uniprot:UNRESOLVED ID	Src64B hypomorphic mutants	Gene_or_gene_product
+PMC2386837	113	uniprot:UNRESOLVED ID	Src64Bact	Gene_or_gene_product
+PMC2386837	113	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	113	uniprot:UNRESOLVED ID	Src64BDelta17 mutant	Gene_or_gene_product
+PMC2386837	113	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	114	uniprot:UNRESOLVED ID	Src64BDelta17	Gene_or_gene_product
+PMC2386837	114	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	115	uniprot:UNRESOLVED ID	Draf proteins	Gene_or_gene_product
+PMC2386837	115	uniprot:UNRESOLVED ID	Src64BDelta17	Gene_or_gene_product
+PMC2386837	115	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	116	uniprot:Q24324	Dsor1	Gene_or_gene_product
+PMC2386837	117	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	118	uniprot:UNRESOLVED ID	Draf kinase	Gene_or_gene_product
+PMC2386837	118	uniprot:UNRESOLVED ID	Src64BDelta17 flies	Gene_or_gene_product
+PMC2386837	118	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	119	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	119	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	119	uniprot:UNRESOLVED ID	DrafC110	Gene_or_gene_product
+PMC2386837	120	uniprot:UNRESOLVED ID	DrafC110	Gene_or_gene_product
+PMC2386837	120	uniprot:UNRESOLVED ID	pupae	CellType
+PMC2386837	121	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	121	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	121	uniprot:Q59XU5	Ras1	Gene_or_gene_product
+PMC2386837	122	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	123	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	123	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	124	uniprot:UNRESOLVED ID	Src64Bact	Gene_or_gene_product
+PMC2386837	125	uniprot:UNRESOLVED ID	Src64Bact	Gene_or_gene_product
+PMC2386837	125	uniprot:UNRESOLVED ID	Src64BKR	Gene_or_gene_product
+PMC2386837	125	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	126	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	127	uniprot:UNRESOLVED ID	GST-Src64Bact	Gene_or_gene_product
+PMC2386837	127	uniprot:UNRESOLVED ID	Draf-C	Gene_or_gene_product
+PMC2386837	128	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC2386837	128	uniprot:P12931	Src	Gene_or_gene_product
+PMC2386837	128	uniprot:P04049	C-Raf	Gene_or_gene_product
+PMC2386837	129	uniprot:P12931	Src	Gene_or_gene_product
+PMC2386837	129	uniprot:UNRESOLVED ID	SH2-phosphotyrosine	Gene_or_gene_product
+PMC2386837	129	uniprot:P04049	C-Raf	Gene_or_gene_product
+PMC2386837	130	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	130	uniprot:UNRESOLVED ID	Draf N-terminal region	Gene_or_gene_product
+PMC2386837	130	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	131	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	131	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	132	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	133	uniprot:UNRESOLVED ID	full-length Draf	Gene_or_gene_product
+PMC2386837	133	uniprot:O04064	FL	Gene_or_gene_product
+PMC2386837	133	uniprot:UNRESOLVED ID	Draf-N	Gene_or_gene_product
+PMC2386837	133	uniprot:UNRESOLVED ID	Draf-C	Gene_or_gene_product
+PMC2386837	134	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	134	uniprot:P21912	IP	Gene_or_gene_product
+PMC2386837	134	uniprot:UNRESOLVED ID	anti-Src64B	Gene_or_gene_product
+PMC2386837	135	uniprot:UNRESOLVED ID	Src64Bact	Gene_or_gene_product
+PMC2386837	135	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	135	uniprot:UNRESOLVED ID	Draf-N	Gene_or_gene_product
+PMC2386837	135	uniprot:UNRESOLVED ID	Draf-C	Gene_or_gene_product
+PMC2386837	136	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	136	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	137	uniprot:UNRESOLVED ID	Src64Bact	Gene_or_gene_product
+PMC2386837	137	uniprot:UNRESOLVED ID	Src64BKR	Gene_or_gene_product
+PMC2386837	137	uniprot:Q01793	KR	Gene_or_gene_product
+PMC2386837	138	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	139	uniprot:P12931	Src	Gene_or_gene_product
+PMC2386837	140	uniprot:UNRESOLVED ID	Src64Bact	Gene_or_gene_product
+PMC2386837	140	uniprot:UNRESOLVED ID	Src64BKR	Gene_or_gene_product
+PMC2386837	141	uniprot:UNRESOLVED ID	Src64BKR	Gene_or_gene_product
+PMC2386837	144	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	144	uniprot:Q8IVT5	Ksr	Gene_or_gene_product
+PMC2386837	144	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2386837	144	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	145	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	146	uniprot:P00746	D-F	Gene_or_gene_product
+PMC2386837	146	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	146	uniprot:UNRESOLVED ID	Draf-C	Gene_or_gene_product
+PMC2386837	147	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	147	uniprot:UNRESOLVED ID	Draf-C	Gene_or_gene_product
+PMC2386837	148	uniprot:UNRESOLVED ID	GST-Src64Bact	Gene_or_gene_product
+PMC2386837	148	uniprot:UNRESOLVED ID	His-Draf-CWT	Gene_or_gene_product
+PMC2386837	148	uniprot:UNRESOLVED ID	His-Draf-CY510F	Gene_or_gene_product
+PMC2386837	148	uniprot:UNRESOLVED ID	His-Draf-CY538F proteins	Gene_or_gene_product
+PMC2386837	149	uniprot:UNRESOLVED ID	Draf-C molecules	Gene_or_gene_product
+PMC2386837	150	uniprot:UNRESOLVED ID	His-Draf-CY538F	Gene_or_gene_product
+PMC2386837	150	uniprot:UNRESOLVED ID	His-Draf-CY510F	Gene_or_gene_product
+PMC2386837	152	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	152	uniprot:UNRESOLVED ID	pY510	Gene_or_gene_product
+PMC2386837	153	uniprot:UNRESOLVED ID	Draf-CY510F	Gene_or_gene_product
+PMC2386837	154	uniprot:UNRESOLVED ID	endogenous Draf	Gene_or_gene_product
+PMC2386837	156	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	157	uniprot:P01308	insulin	Gene_or_gene_product
+PMC2386837	158	uniprot:UNRESOLVED ID	DrafY510F	Gene_or_gene_product
+PMC2386837	159	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	160	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	161	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	162	uniprot:UNRESOLVED ID	Draf-CY510F	Gene_or_gene_product
+PMC2386837	162	uniprot:UNRESOLVED ID	Draf-CY538F	Gene_or_gene_product
+PMC2386837	162	uniprot:UNRESOLVED ID	GST-Src64Bact	Gene_or_gene_product
+PMC2386837	163	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	163	uniprot:P12931	Src	Gene_or_gene_product
+PMC2386837	163	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	163	uniprot:UNRESOLVED ID	Draf-C	Gene_or_gene_product
+PMC2386837	164	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	164	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	165	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	165	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	165	uniprot:UNRESOLVED ID	anti-pY510	Gene_or_gene_product
+PMC2386837	166	uniprot:UNRESOLVED ID	DrafY510F	Gene_or_gene_product
+PMC2386837	167	uniprot:UNRESOLVED ID	pY510	Gene_or_gene_product
+PMC2386837	167	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	168	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	169	uniprot:P01308	insulin	Gene_or_gene_product
+PMC2386837	169	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	170	uniprot:P01308	insulin	Gene_or_gene_product
+PMC2386837	170	uniprot:UNRESOLVED ID	DrafY510F	Gene_or_gene_product
+PMC2386837	171	uniprot:P04049	C-Raf	Gene_or_gene_product
+PMC2386837	171	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	172	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	173	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	175	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	175	uniprot:UNRESOLVED ID	Draf proteins	Gene_or_gene_product
+PMC2386837	177	uniprot:UNRESOLVED ID	full-length Draf proteins	Gene_or_gene_product
+PMC2386837	178	uniprot:UNRESOLVED ID	DrafY510F	Gene_or_gene_product
+PMC2386837	178	uniprot:UNRESOLVED ID	DrafWT	Gene_or_gene_product
+PMC2386837	178	uniprot:UNRESOLVED ID	DrafY510E	Gene_or_gene_product
+PMC2386837	179	uniprot:UNRESOLVED ID	DrafY510F	Gene_or_gene_product
+PMC2386837	179	uniprot:UNRESOLVED ID	DrafY510E proteins	Gene_or_gene_product
+PMC2386837	182	uniprot:UNRESOLVED ID	full-length Draf variants	Gene_or_gene_product
+PMC2386837	182	uniprot:UNRESOLVED ID	GST-Dsor1	Gene_or_gene_product
+PMC2386837	183	uniprot:Q24324	Dsor1	Gene_or_gene_product
+PMC2386837	183	uniprot:UNRESOLVED ID	anti-pMEK	Gene_or_gene_product
+PMC2386837	185	uniprot:UNRESOLVED ID	full-length Draf variants	Gene_or_gene_product
+PMC2386837	185	uniprot:Q24324	Dsor1	Gene_or_gene_product
+PMC2386837	186	uniprot:UNRESOLVED ID	DrafY510E	Gene_or_gene_product
+PMC2386837	186	uniprot:Q24324	Dsor1	Gene_or_gene_product
+PMC2386837	187	uniprot:Q24324	Dsor1	Gene_or_gene_product
+PMC2386837	188	uniprot:UNRESOLVED ID	DrafWT	Gene_or_gene_product
+PMC2386837	188	uniprot:UNRESOLVED ID	DrafY510E	Gene_or_gene_product
+PMC2386837	189	uniprot:P11919	E-H	Gene_or_gene_product
+PMC2386837	189	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	190	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	191	uazid:UA-CT-200002	embryo	Organ
+PMC2386837	191	uazid:UA-ORG-382	head	Organ
+PMC2386837	191	uazid:UA-ORG-881	skeleton	Organ
+PMC2386837	192	uazid:UA-CT-200002	embryo	Organ
+PMC2386837	192	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	192	uazid:UA-ORG-382	head	Organ
+PMC2386837	192	uazid:UA-ORG-881	skeletons	Organ
+PMC2386837	193	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	193	uazid:UA-CT-200002	embryo	Organ
+PMC2386837	193	uniprot:UNRESOLVED ID	DrafY510E mRNA	Gene_or_gene_product
+PMC2386837	195	uazid:UA-ORG-382	head	Organ
+PMC2386837	195	uazid:UA-ORG-881	skeleton	Organ
+PMC2386837	196	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	197	uniprot:UNRESOLVED ID	DrafY510E	Gene_or_gene_product
+PMC2386837	198	uniprot:UNRESOLVED ID	DrafY510F	Gene_or_gene_product
+PMC2386837	199	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	199	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	200	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	200	uniprot:UNRESOLVED ID	DrafY510F	Gene_or_gene_product
+PMC2386837	200	uniprot:UNRESOLVED ID	DrafWT	Gene_or_gene_product
+PMC2386837	201	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	201	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	202	uniprot:UNRESOLVED ID	DrafWT	Gene_or_gene_product
+PMC2386837	202	uniprot:UNRESOLVED ID	DrafY510F	Gene_or_gene_product
+PMC2386837	202	uniprot:UNRESOLVED ID	DrafY510E	Gene_or_gene_product
+PMC2386837	202	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	202	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	203	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	205	uniprot:UNRESOLVED ID	Draf transgenes	Gene_or_gene_product
+PMC2386837	206	uniprot:UNRESOLVED ID	Virgin DrafC110	Gene_or_gene_product
+PMC2386837	206	uniprot:UNRESOLVED ID	FM7 females	Gene_or_gene_product
+PMC2386837	206	uniprot:UNRESOLVED ID	hsp70-Gal4	Gene_or_gene_product
+PMC2386837	209	uniprot:UNRESOLVED ID	Nanos-Gal4	Gene_or_gene_product
+PMC2386837	209	uniprot:UNRESOLVED ID	torsoXR1	Gene_or_gene_product
+PMC2386837	209	interpro:IPR000618	cuticle	CellType
+PMC2386837	210	uniprot:UNRESOLVED ID	DrafWT	Gene_or_gene_product
+PMC2386837	210	uniprot:UNRESOLVED ID	DrafY510F	Gene_or_gene_product
+PMC2386837	210	uniprot:UNRESOLVED ID	DrafY510E	Gene_or_gene_product
+PMC2386837	210	uniprot:UNRESOLVED ID	torsoXR1	Gene_or_gene_product
+PMC2386837	210	interpro:IPR000618	cuticle	CellType
+PMC2386837	211	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	212	uniprot:UNRESOLVED ID	Src64Bact	Gene_or_gene_product
+PMC2386837	212	uniprot:UNRESOLVED ID	DrafWT	Gene_or_gene_product
+PMC2386837	212	uniprot:UNRESOLVED ID	DrafY510E	Gene_or_gene_product
+PMC2386837	213	uniprot:UNRESOLVED ID	DrafY510E	Gene_or_gene_product
+PMC2386837	213	uniprot:UNRESOLVED ID	DrafY510F	Gene_or_gene_product
+PMC2386837	214	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	214	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	215	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	216	uniprot:UNRESOLVED ID	Draf mRNA	Gene_or_gene_product
+PMC2386837	216	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	216	uniprot:UNRESOLVED ID	torso	Gene_or_gene_product
+PMC2386837	216	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	216	uazid:UA-CT-200002	embryo	Organ
+PMC2386837	216	uniprot:UNRESOLVED ID	Draf proteins	Gene_or_gene_product
+PMC2386837	217	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	217	interpro:IPR000618	cuticle	CellType
+PMC2386837	217	uniprot:UNRESOLVED ID	tail	CellType
+PMC2386837	218	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2386837	218	uniprot:Q59XU5	Ras1	Gene_or_gene_product
+PMC2386837	218	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	218	uniprot:UNRESOLVED ID	torso	Gene_or_gene_product
+PMC2386837	218	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	219	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	219	uniprot:UNRESOLVED ID	DrafY510E	Gene_or_gene_product
+PMC2386837	219	uniprot:UNRESOLVED ID	DrafY510F	Gene_or_gene_product
+PMC2386837	219	uniprot:UNRESOLVED ID	DrafWT	Gene_or_gene_product
+PMC2386837	220	uniprot:UNRESOLVED ID	DrafY510E	Gene_or_gene_product
+PMC2386837	221	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	221	uniprot:UNRESOLVED ID	DrafWT	Gene_or_gene_product
+PMC2386837	221	uniprot:UNRESOLVED ID	DrafY510F	Gene_or_gene_product
+PMC2386837	222	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	223	uniprot:UNRESOLVED ID	full-length Draf transgenes	Gene_or_gene_product
+PMC2386837	223	uniprot:UNRESOLVED ID	Gal4-inducible promoter	Gene_or_gene_product
+PMC2386837	224	uniprot:UNRESOLVED ID	Draf transgene	Gene_or_gene_product
+PMC2386837	224	uniprot:UNRESOLVED ID	hypomorphic allele DrafC110	Gene_or_gene_product
+PMC2386837	225	uniprot:UNRESOLVED ID	hsp70-Gal4	Gene_or_gene_product
+PMC2386837	225	uniprot:UNRESOLVED ID	DrafY510E	Gene_or_gene_product
+PMC2386837	225	uniprot:UNRESOLVED ID	DrafWT	Gene_or_gene_product
+PMC2386837	225	uniprot:UNRESOLVED ID	DrafY510F	Gene_or_gene_product
+PMC2386837	226	uniprot:UNRESOLVED ID	heat-shock	Gene_or_gene_product
+PMC2386837	227	uniprot:P56470	Gal4	Gene_or_gene_product
+PMC2386837	227	interpro:IPR000618	cuticle	CellType
+PMC2386837	227	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	228	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	228	uniprot:UNRESOLVED ID	DrafY510F	Gene_or_gene_product
+PMC2386837	229	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	229	uniprot:UNRESOLVED ID	larvae	CellType
+PMC2386837	230	uniprot:Q13127	rest	Gene_or_gene_product
+PMC2386837	230	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	231	uniprot:UNRESOLVED ID	DrafY510F	Gene_or_gene_product
+PMC2386837	232	uniprot:UNRESOLVED ID	DrafY510E	Gene_or_gene_product
+PMC2386837	233	uniprot:UNRESOLVED ID	Draf Autoinhibitory	Gene_or_gene_product
+PMC2386837	234	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	235	uniprot:UNRESOLVED ID	Draf kinase	Gene_or_gene_product
+PMC2386837	235	uniprot:UNRESOLVED ID	Draf-C	Gene_or_gene_product
+PMC2386837	236	uniprot:UNRESOLVED ID	Draf-C variants	Gene_or_gene_product
+PMC2386837	237	uniprot:UNRESOLVED ID	Draf-C variants	Gene_or_gene_product
+PMC2386837	239	uniprot:UNRESOLVED ID	Draf Autoinhibitory	Gene_or_gene_product
+PMC2386837	240	uniprot:UNRESOLVED ID	Draf-CWT	Gene_or_gene_product
+PMC2386837	240	uniprot:UNRESOLVED ID	Draf-CY510F	Gene_or_gene_product
+PMC2386837	240	uniprot:UNRESOLVED ID	Draf-CY510E	Gene_or_gene_product
+PMC2386837	240	uniprot:UNRESOLVED ID	anti-V5	Gene_or_gene_product
+PMC2386837	241	uniprot:Q24324	Dsor1	Gene_or_gene_product
+PMC2386837	245	uniprot:UNRESOLVED ID	Draf-CWT	Gene_or_gene_product
+PMC2386837	245	uniprot:UNRESOLVED ID	Draf-CY510F	Gene_or_gene_product
+PMC2386837	245	uniprot:UNRESOLVED ID	Draf-CY510E	Gene_or_gene_product
+PMC2386837	245	uniprot:UNRESOLVED ID	HA-Draf-N	Gene_or_gene_product
+PMC2386837	245	uniprot:P69208	HA	Gene_or_gene_product
+PMC2386837	245	uniprot:P21912	IP	Gene_or_gene_product
+PMC2386837	246	uniprot:UNRESOLVED ID	IB	Gene_or_gene_product
+PMC2386837	248	uniprot:UNRESOLVED ID	Draf-N	Gene_or_gene_product
+PMC2386837	249	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	249	ncbitax:species:ncbi:9606	human	Species
+PMC2386837	249	uniprot:P15056	B-Raf	Gene_or_gene_product
+PMC2386837	250	uniprot:P15056	B-Raf	Gene_or_gene_product
+PMC2386837	250	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	251	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	252	uniprot:UNRESOLVED ID	Draf-C	Gene_or_gene_product
+PMC2386837	253	uniprot:P15056	B-Raf	Gene_or_gene_product
+PMC2386837	253	uniprot:UNRESOLVED ID	Draf-C	Gene_or_gene_product
+PMC2386837	254	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	255	uniprot:UNRESOLVED ID	full-length Draf	Gene_or_gene_product
+PMC2386837	255	uniprot:UNRESOLVED ID	Draf-C	Gene_or_gene_product
+PMC2386837	256	uniprot:UNRESOLVED ID	Draf-N	Gene_or_gene_product
+PMC2386837	256	uniprot:UNRESOLVED ID	Draf-C	Gene_or_gene_product
+PMC2386837	257	uniprot:P01375	N-terminal fragment	Gene_or_gene_product
+PMC2386837	257	uniprot:P04049	C-Raf	Gene_or_gene_product
+PMC2386837	258	uniprot:UNRESOLVED ID	Draf-C	Gene_or_gene_product
+PMC2386837	260	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	260	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	261	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	262	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	262	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	262	uniprot:UNRESOLVED ID	Src64B mutants	Gene_or_gene_product
+PMC2386837	262	uniprot:UNRESOLVED ID	RTK-Draf	Gene_or_gene_product
+PMC2386837	263	uniprot:UNRESOLVED ID	RTKs	Gene_or_gene_product
+PMC2386837	263	uniprot:UNRESOLVED ID	Torso	Gene_or_gene_product
+PMC2386837	263	uniprot:P01133	epidermal growth factor	Gene_or_gene_product
+PMC2386837	263	uniprot:P00533	epidermal growth factor receptor	Gene_or_gene_product
+PMC2386837	263	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2386837	263	uniprot:UNRESOLVED ID	Sevenless	Gene_or_gene_product
+PMC2386837	264	uniprot:UNRESOLVED ID	Src64BDelta17 mutant flies possess reduced Draf kinase	Gene_or_gene_product
+PMC2386837	264	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	264	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	265	uniprot:UNRESOLVED ID	Draf kinase	Gene_or_gene_product
+PMC2386837	265	uniprot:UNRESOLVED ID	Src64BDelta17 mutants	Gene_or_gene_product
+PMC2386837	265	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	266	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	266	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	267	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	268	uniprot:UNRESOLVED ID	Src64BDelta17	Gene_or_gene_product
+PMC2386837	268	uniprot:P00533	Egfr	Gene_or_gene_product
+PMC2386837	268	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2386837	268	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	269	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	269	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2386837	269	uniprot:UNRESOLVED ID	Sevenless	Gene_or_gene_product
+PMC2386837	270	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	270	uniprot:P12931	Src	Gene_or_gene_product
+PMC2386837	271	uniprot:UNRESOLVED ID	EGFR-Draf	Gene_or_gene_product
+PMC2386837	271	uazid:UA-ORG-252	epithelium	Organ
+PMC2386837	272	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2386837	272	uniprot:UNRESOLVED ID	Draf gene	Gene_or_gene_product
+PMC2386837	273	uniprot:P00533	Egfr	Gene_or_gene_product
+PMC2386837	273	uniprot:UNRESOLVED ID	kek	Gene_or_gene_product
+PMC2386837	274	uniprot:UNRESOLVED ID	Src64BDelta17	Gene_or_gene_product
+PMC2386837	274	uazid:UA-CT-100030	oocyte	CellType
+PMC2386837	275	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2386837	275	uniprot:UNRESOLVED ID	Src64BDelta17 egg chambers	Gene_or_gene_product
+PMC2386837	276	uniprot:P00533	Egfr	Gene_or_gene_product
+PMC2386837	276	uniprot:UNRESOLVED ID	Src64BDelta17	Gene_or_gene_product
+PMC2386837	276	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2386837	277	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2386837	278	uniprot:UNRESOLVED ID	Src64BDelta17	Gene_or_gene_product
+PMC2386837	278	uniprot:UNRESOLVED ID	kek	Gene_or_gene_product
+PMC2386837	278	uazid:UA-CT-100030	oocyte	CellType
+PMC2386837	279	uniprot:P00533	Egfr	Gene_or_gene_product
+PMC2386837	279	uniprot:UNRESOLVED ID	Src64BDelta17	Gene_or_gene_product
+PMC2386837	280	uniprot:UNRESOLVED ID	Src64Bact transgene	Gene_or_gene_product
+PMC2386837	280	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	281	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	281	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2386837	282	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	282	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2386837	283	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	283	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2386837	285	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2386837	286	uniprot:UNRESOLVED ID	Eggs	Gene_or_gene_product
+PMC2386837	286	uniprot:P00533	Egfr	Gene_or_gene_product
+PMC2386837	286	uniprot:UNRESOLVED ID	Src64BDelta17	Gene_or_gene_product
+PMC2386837	287	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2386837	288	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2386837	289	uazid:UA-CT-100030	oocyte	CellType
+PMC2386837	291	uazid:UA-CT-100030	oocyte	CellType
+PMC2386837	292	uniprot:UNRESOLVED ID	kek	Gene_or_gene_product
+PMC2386837	292	uazid:UA-CT-100030	oocyte	CellType
+PMC2386837	293	uniprot:P00533	Egfr	Gene_or_gene_product
+PMC2386837	293	uniprot:UNRESOLVED ID	Src64BDelta17	Gene_or_gene_product
+PMC2386837	294	uniprot:UNRESOLVED ID	kek	Gene_or_gene_product
+PMC2386837	296	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	297	uniprot:UNRESOLVED ID	Drafsu2 Src64B	Gene_or_gene_product
+PMC2386837	298	uazid:UA-ORG-712	Photoreceptor	Organ
+PMC2386837	299	uazid:UA-ORG-288	eyes	Organ
+PMC2386837	299	uniprot:UNRESOLVED ID	Drafsu2 Src64B double homozygous mutants	Gene_or_gene_product
+PMC2386837	300	uazid:UA-ORG-712	photoreceptors	Organ
+PMC2386837	301	uniprot:UNRESOLVED ID	Sev RTK	Gene_or_gene_product
+PMC2386837	302	uniprot:UNRESOLVED ID	Drafsu2 Src64B double mutants	Gene_or_gene_product
+PMC2386837	303	uniprot:UNRESOLVED ID	Draf variants	Gene_or_gene_product
+PMC2386837	304	uazid:UA-ORG-288	eyes	Organ
+PMC2386837	304	uniprot:UNRESOLVED ID	GMR-Gal4	Gene_or_gene_product
+PMC2386837	305	uniprot:UNRESOLVED ID	DrafWT	Gene_or_gene_product
+PMC2386837	305	uniprot:UNRESOLVED ID	DrafY510E	Gene_or_gene_product
+PMC2386837	305	uazid:UA-ORG-288	eyes	Organ
+PMC2386837	306	uazid:UA-ORG-288	eyes	Organ
+PMC2386837	306	uniprot:UNRESOLVED ID	GMR-Gal4	Gene_or_gene_product
+PMC2386837	307	uniprot:UNRESOLVED ID	sev-RasV12	Gene_or_gene_product
+PMC2386837	307	uniprot:UNRESOLVED ID	DrafWT	Gene_or_gene_product
+PMC2386837	307	uazid:UA-ORG-288	eyes	Organ
+PMC2386837	307	uniprot:UNRESOLVED ID	DrafY510F	Gene_or_gene_product
+PMC2386837	308	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	308	uniprot:UNRESOLVED ID	RTK Sevenless	Gene_or_gene_product
+PMC2386837	308	uazid:UA-ORG-712	photoreceptor	Organ
+PMC2386837	309	uniprot:UNRESOLVED ID	Sevenless	Gene_or_gene_product
+PMC2386837	309	uniprot:P07647	Sev	Gene_or_gene_product
+PMC2386837	309	uazid:UA-ORG-712	photoreceptor	Organ
+PMC2386837	309	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2386837	310	uniprot:P07647	Sev	Gene_or_gene_product
+PMC2386837	310	uniprot:Q59XU5	Ras1	Gene_or_gene_product
+PMC2386837	310	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	311	uniprot:UNRESOLVED ID	Src64BDelta17 homozygotes	Gene_or_gene_product
+PMC2386837	311	uazid:UA-ORG-288	eyes	Organ
+PMC2386837	312	uniprot:UNRESOLVED ID	DrafSu2 homozygotes	Gene_or_gene_product
+PMC2386837	313	uniprot:UNRESOLVED ID	DrafSu2	Gene_or_gene_product
+PMC2386837	313	uniprot:UNRESOLVED ID	Src64BDelta17	Gene_or_gene_product
+PMC2386837	313	uazid:UA-ORG-288	eyes	Organ
+PMC2386837	314	uniprot:UNRESOLVED ID	Src64Bact	Gene_or_gene_product
+PMC2386837	314	uazid:UA-ORG-712	photoreceptor	Organ
+PMC2386837	314	uniprot:UNRESOLVED ID	Torso target gene	Gene_or_gene_product
+PMC2386837	314	uniprot:UNRESOLVED ID	dominant-negative Src64B	Gene_or_gene_product
+PMC2386837	315	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	315	uniprot:UNRESOLVED ID	Sev RTK	Gene_or_gene_product
+PMC2386837	317	uniprot:UNRESOLVED ID	DrafY510F	Gene_or_gene_product
+PMC2386837	318	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	318	uniprot:UNRESOLVED ID	Ras1V12	Gene_or_gene_product
+PMC2386837	319	uniprot:UNRESOLVED ID	Ras1V12 overactivates Draf	Gene_or_gene_product
+PMC2386837	319	uazid:UA-ORG-288	eyes	Organ
+PMC2386837	320	uniprot:UNRESOLVED ID	DrafY510E	Gene_or_gene_product
+PMC2386837	320	uniprot:UNRESOLVED ID	DrafY510F	Gene_or_gene_product
+PMC2386837	320	uniprot:UNRESOLVED ID	Ras1V12	Gene_or_gene_product
+PMC2386837	321	uniprot:UNRESOLVED ID	DrafWT	Gene_or_gene_product
+PMC2386837	321	uniprot:UNRESOLVED ID	DrafY510F	Gene_or_gene_product
+PMC2386837	322	uniprot:UNRESOLVED ID	Src64Bact	Gene_or_gene_product
+PMC2386837	322	uniprot:UNRESOLVED ID	wing imaginal disc	CellType
+PMC2386837	322	uazid:UA-ORG-1067	vein	Organ
+PMC2386837	322	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2386837	323	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	323	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2386837	323	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	324	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	325	uniprot:UNRESOLVED ID	Draf kinase domain	Gene_or_gene_product
+PMC2386837	325	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	325	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	327	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	328	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	328	uniprot:P12931	Src	Gene_or_gene_product
+PMC2386837	329	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	330	uniprot:O43557	light	Gene_or_gene_product
+PMC2386837	330	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	331	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	333	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	335	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	336	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	337	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	338	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	338	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	339	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	340	uniprot:UNRESOLVED ID	Ras-GTP	Gene_or_gene_product
+PMC2386837	341	uniprot:P12931	Src	Gene_or_gene_product
+PMC2386837	341	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	342	uniprot:UNRESOLVED ID	Src64B Phosphorylates	Gene_or_gene_product
+PMC2386837	343	uniprot:P12931	Src	Gene_or_gene_product
+PMC2386837	343	uniprot:P04049	C-Raf	Gene_or_gene_product
+PMC2386837	345	uniprot:P04049	C-Raf	Gene_or_gene_product
+PMC2386837	346	uniprot:P04049	C-Raf	Gene_or_gene_product
+PMC2386837	347	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	347	uniprot:P15056	B-Raf	Gene_or_gene_product
+PMC2386837	348	uniprot:P12931	Src	Gene_or_gene_product
+PMC2386837	348	uniprot:P15056	B-Raf	Gene_or_gene_product
+PMC2386837	349	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	349	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	349	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	350	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	350	uniprot:Q8IVT5	Ksr	Gene_or_gene_product
+PMC2386837	350	uniprot:P12931	Src	Gene_or_gene_product
+PMC2386837	351	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	352	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	353	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	354	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	354	uniprot:UNRESOLVED ID	Src64BDelta17 homozygotes	Gene_or_gene_product
+PMC2386837	355	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2386837	355	uniprot:UNRESOLVED ID	Src64B mutant	Gene_or_gene_product
+PMC2386837	355	uniprot:UNRESOLVED ID	Draf mutants	Gene_or_gene_product
+PMC2386837	355	uniprot:P00533	Egfr	Gene_or_gene_product
+PMC2386837	356	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	357	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	357	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2386837	358	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2386837	358	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	358	uniprot:P00533	Egfr	Gene_or_gene_product
+PMC2386837	358	uniprot:UNRESOLVED ID	Src64BDelta17	Gene_or_gene_product
+PMC2386837	359	uniprot:UNRESOLVED ID	DrafSu2	Gene_or_gene_product
+PMC2386837	359	uniprot:UNRESOLVED ID	Src64BDelta17	Gene_or_gene_product
+PMC2386837	359	uniprot:UNRESOLVED ID	DrafSu2 homozygotes	Gene_or_gene_product
+PMC2386837	360	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	360	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	360	uniprot:UNRESOLVED ID	DrafSu2	Gene_or_gene_product
+PMC2386837	360	uniprot:UNRESOLVED ID	Src64BDelta17	Gene_or_gene_product
+PMC2386837	361	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2386837	361	uniprot:Q59XU5	Ras1	Gene_or_gene_product
+PMC2386837	361	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	363	uniprot:UNRESOLVED ID	Src64B allele	Gene_or_gene_product
+PMC2386837	363	uniprot:UNRESOLVED ID	Src64BDelta17	Gene_or_gene_product
+PMC2386837	363	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	364	uniprot:UNRESOLVED ID	DrafY510F	Gene_or_gene_product
+PMC2386837	364	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	364	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	365	uniprot:P12931	Src	Gene_or_gene_product
+PMC2386837	366	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	366	uniprot:Q9V9J3	Src42A	Gene_or_gene_product
+PMC2386837	366	uniprot:UNRESOLVED ID	Tec29A	Gene_or_gene_product
+PMC2386837	367	uniprot:UNRESOLVED ID	Src64B mutant alleles	Gene_or_gene_product
+PMC2386837	368	uniprot:Q9V9J3	Src42A	Gene_or_gene_product
+PMC2386837	368	uniprot:P12931	Src	Gene_or_gene_product
+PMC2386837	369	uniprot:P12931	Src	Gene_or_gene_product
+PMC2386837	369	uniprot:P42680	Tec	Gene_or_gene_product
+PMC2386837	370	uniprot:UNRESOLVED ID	Tec29A	Gene_or_gene_product
+PMC2386837	370	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	371	uniprot:UNRESOLVED ID	Tec29A	Gene_or_gene_product
+PMC2386837	371	uniprot:UNRESOLVED ID	Draf activator	Gene_or_gene_product
+PMC2386837	373	uniprot:Q9V9J3	Src42A	Gene_or_gene_product
+PMC2386837	373	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2386837	374	uniprot:Q9V9J3	Src42A	Gene_or_gene_product
+PMC2386837	374	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	374	uniprot:Q9H4B4	CNK	Gene_or_gene_product
+PMC2386837	374	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	375	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	375	uniprot:Q9V9J3	Src42A	Gene_or_gene_product
+PMC2386837	375	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	376	uniprot:UNRESOLVED ID	Ras1DeltaC40B	Gene_or_gene_product
+PMC2386837	376	uniprot:UNRESOLVED ID	Draf11-29	Gene_or_gene_product
+PMC2386837	376	uniprot:UNRESOLVED ID	DrafC110	Gene_or_gene_product
+PMC2386837	376	uniprot:UNRESOLVED ID	DrafSu2	Gene_or_gene_product
+PMC2386837	376	uniprot:UNRESOLVED ID	Src64BDelta17	Gene_or_gene_product
+PMC2386837	376	uniprot:UNRESOLVED ID	Src64BPI	Gene_or_gene_product
+PMC2386837	377	uniprot:UNRESOLVED ID	Egfrf2	Gene_or_gene_product
+PMC2386837	377	uniprot:UNRESOLVED ID	sev-RasV12	Gene_or_gene_product
+PMC2386837	377	uniprot:UNRESOLVED ID	Nanos-Gal4	Gene_or_gene_product
+PMC2386837	377	uniprot:UNRESOLVED ID	GMR-Gal4	Gene_or_gene_product
+PMC2386837	377	uniprot:UNRESOLVED ID	hsp70-Gal4	Gene_or_gene_product
+PMC2386837	378	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	378	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	379	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	379	uniprot:Q59XU5	Ras1	Gene_or_gene_product
+PMC2386837	379	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	380	uazid:UA-CT-200003	Embryos	Organ
+PMC2386837	380	uniprot:UNRESOLVED ID	torsoXR1	Gene_or_gene_product
+PMC2386837	382	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	382	uniprot:UNRESOLVED ID	Draf-C	Gene_or_gene_product
+PMC2386837	384	uniprot:UNRESOLVED ID	Draf-C	Gene_or_gene_product
+PMC2386837	385	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2386837	385	uniprot:UNRESOLVED ID	Src64Bact	Gene_or_gene_product
+PMC2386837	385	uniprot:UNRESOLVED ID	Src64B cDNA fragment	Gene_or_gene_product
+PMC2386837	386	uniprot:UNRESOLVED ID	Src64Bact	Gene_or_gene_product
+PMC2386837	386	uniprot:UNRESOLVED ID	full-length Draf variants	Gene_or_gene_product
+PMC2386837	387	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2386837	387	uniprot:UNRESOLVED ID	Dsor	Gene_or_gene_product
+PMC2386837	389	uniprot:UNRESOLVED ID	phospho-MEK1/2	Gene_or_gene_product
+PMC2386837	389	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2386837	389	uniprot:UNRESOLVED ID	pY102	Gene_or_gene_product
+PMC2386837	390	uniprot:UNRESOLVED ID	serum	CellType
+PMC2386837	390	ncbitax:species:ncbi:10090	mouse	Species
+PMC2386837	390	uniprot:Q2G0B1	rat	Species
+PMC2386837	391	ncbitax:species:ncbi:9986	Rabbit	Species
+PMC2386837	391	uniprot:Q96T53	goat	Species
+PMC2386837	392	ncbitax:species:ncbi:9986	Rabbit	Species
+PMC2386837	392	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	392	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2386837	394	uniprot:UNRESOLVED ID	heat-shock	Gene_or_gene_product
+PMC2386837	394	uniprot:UNRESOLVED ID	Src64Bact	Gene_or_gene_product
+PMC2386837	394	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	394	uniprot:UNRESOLVED ID	hsp70-Src64Bact	Gene_or_gene_product
+PMC2386837	396	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	397	interpro:IPR000618	cuticle	CellType
+PMC2386837	398	uniprot:UNRESOLVED ID	hsp70-Src64Bact	Gene_or_gene_product
+PMC2386837	398	uazid:UA-ORG-656	ovary	Organ
+PMC2386837	401	ncbitax:species:ncbi:9913	Bovine	Species
+PMC2386837	401	uniprot:UNRESOLVED ID	Serum	CellType
+PMC2386837	401	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2386837	403	uniprot:UNRESOLVED ID	Cellfectin	Gene_or_gene_product
+PMC2386837	405	uniprot:UNRESOLVED ID	Cu2SO4	Gene_or_gene_product
+PMC2386837	405	uniprot:UNRESOLVED ID	Sigma	Gene_or_gene_product
+PMC2386837	407	uniprot:UNRESOLVED ID	Draf kinase	Gene_or_gene_product
+PMC2386837	408	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	408	uniprot:UNRESOLVED ID	2x kinase buffer	Gene_or_gene_product
+PMC2386837	410	uniprot:UNRESOLVED ID	anti-Draf antibody	Gene_or_gene_product
+PMC2386837	410	uniprot:UNRESOLVED ID	Protein A-Sepharose	Gene_or_gene_product
+PMC2386837	410	uazid:UA-CT-200002	embryo	Organ
+PMC2386837	411	uniprot:UNRESOLVED ID	Draf kinase	Gene_or_gene_product
+PMC2386837	411	uazid:UA-CT-200002	embryo	Organ
+PMC2386837	412	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	412	uniprot:UNRESOLVED ID	anti-Draf antibody	Gene_or_gene_product
+PMC2386837	412	uniprot:UNRESOLVED ID	Protein A-Sepharose	Gene_or_gene_product
+PMC2386837	412	uniprot:P10265	protease	Gene_or_gene_product
+PMC2386837	413	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	413	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	414	uniprot:UNRESOLVED ID	Draf kinase	Gene_or_gene_product
+PMC2386837	415	uniprot:UNRESOLVED ID	Draf kinase	Gene_or_gene_product
+PMC2386837	416	uniprot:UNRESOLVED ID	His-Draf	Gene_or_gene_product
+PMC2386837	416	uniprot:UNRESOLVED ID	His-Draf-C variants	Gene_or_gene_product
+PMC2386837	416	uniprot:UNRESOLVED ID	GST-Dsor	Gene_or_gene_product
+PMC2386837	418	uniprot:UNRESOLVED ID	Ni-NTA	Gene_or_gene_product
+PMC2386837	419	uniprot:UNRESOLVED ID	His-Draf protein	Gene_or_gene_product
+PMC2386837	421	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	422	uniprot:UNRESOLVED ID	Draf proteins	Gene_or_gene_product
+PMC2386837	422	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	424	uniprot:UNRESOLVED ID	Draf mRNA	Gene_or_gene_product
+PMC2386837	424	uniprot:P10721	Kit	Gene_or_gene_product
+PMC2386837	424	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	425	uniprot:UNRESOLVED ID	Draf protein	Gene_or_gene_product
+PMC2386837	425	uniprot:UNRESOLVED ID	Torso	Gene_or_gene_product
+PMC2386837	425	uazid:UA-CT-200003	embryos	Organ
+PMC2386837	426	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	426	uniprot:UNRESOLVED ID	ClustalW program	Gene_or_gene_product
+PMC2386837	427	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	428	uniprot:P04049	C-Raf	Gene_or_gene_product
+PMC2386837	428	uniprot:P15056	B-Raf	Gene_or_gene_product
+PMC2386837	429	uniprot:P04049	C-Raf	Gene_or_gene_product
+PMC2386837	429	uniprot:UNRESOLVED ID	Ras-GTP	Gene_or_gene_product
+PMC2386837	430	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	430	uniprot:P15056	B-Raf	Gene_or_gene_product
+PMC2386837	431	uniprot:P04049	C-Raf	Gene_or_gene_product
+PMC2386837	431	uniprot:P15056	B-Raf	Gene_or_gene_product
+PMC2386837	432	uniprot:UNRESOLVED ID	137 KB JPG	Gene_or_gene_product
+PMC2386837	435	uazid:UA-CT-200002	embryo	Organ
+PMC2386837	436	uazid:UA-CT-200002	embryo	Organ
+PMC2386837	437	uniprot:UNRESOLVED ID	503 KB JPG	Gene_or_gene_product
+PMC2386837	438	uniprot:UNRESOLVED ID	Src64Bact	Gene_or_gene_product
+PMC2386837	438	uniprot:UNRESOLVED ID	DrafC110 Mutants	Gene_or_gene_product
+PMC2386837	439	uniprot:UNRESOLVED ID	DrafC110	Gene_or_gene_product
+PMC2386837	439	uniprot:UNRESOLVED ID	pupae	CellType
+PMC2386837	441	uniprot:UNRESOLVED ID	hsp70-Src64Bact transgene	Gene_or_gene_product
+PMC2386837	441	uniprot:UNRESOLVED ID	DrafC110	Gene_or_gene_product
+PMC2386837	442	uniprot:UNRESOLVED ID	hsp70-Draf-CWT transgene	Gene_or_gene_product
+PMC2386837	442	uniprot:UNRESOLVED ID	DrafC110	Gene_or_gene_product
+PMC2386837	443	uniprot:UNRESOLVED ID	DrafC110	Gene_or_gene_product
+PMC2386837	446	uniprot:UNRESOLVED ID	277 KB JPG	Gene_or_gene_product
+PMC2386837	447	uniprot:UNRESOLVED ID	Anti-pY510 Sera	Gene_or_gene_product
+PMC2386837	448	ncbitax:species:ncbi:9986	rabbits	Species
+PMC2386837	451	uniprot:P02144	MB	Gene_or_gene_product
+PMC2386837	453	uniprot:UNRESOLVED ID	Draf-CWT	Gene_or_gene_product
+PMC2386837	453	uniprot:UNRESOLVED ID	Draf-CY510F	Gene_or_gene_product
+PMC2386837	453	uniprot:UNRESOLVED ID	Draf-CY510E	Gene_or_gene_product
+PMC2386837	454	uniprot:UNRESOLVED ID	Purified proteins	Gene_or_gene_product
+PMC2386837	456	uniprot:UNRESOLVED ID	166 KB JPG	Gene_or_gene_product
+PMC2386837	457	uniprot:P15056	B-Raf	Gene_or_gene_product
+PMC2386837	458	uniprot:P15056	B-Raf	Gene_or_gene_product
+PMC2386837	459	uniprot:UNRESOLVED ID	Protein Data Bank	Gene_or_gene_product
+PMC2386837	459	uniprot:UNRESOLVED ID	1UWH	Gene_or_gene_product
+PMC2386837	460	uniprot:P15056	B-Raf	Gene_or_gene_product
+PMC2386837	462	uniprot:UNRESOLVED ID	P-loop	Gene_or_gene_product
+PMC2386837	462	uniprot:P15056	B-Raf	Gene_or_gene_product
+PMC2386837	463	uniprot:UNRESOLVED ID	914 KB JPG	Gene_or_gene_product
+PMC2386837	464	uniprot:UNRESOLVED ID	Draf-C Kinase	Gene_or_gene_product
+PMC2386837	465	uniprot:UNRESOLVED ID	Draf-CWT	Gene_or_gene_product
+PMC2386837	465	uniprot:UNRESOLVED ID	Draf-CY510F	Gene_or_gene_product
+PMC2386837	465	uniprot:UNRESOLVED ID	Draf-CY538F	Gene_or_gene_product
+PMC2386837	467	uniprot:UNRESOLVED ID	164 KB JPG	Gene_or_gene_product
+PMC2386837	468	uniprot:UNRESOLVED ID	Src64B Increases	Gene_or_gene_product
+PMC2386837	468	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2386837	469	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2386837	469	uniprot:UNRESOLVED ID	anti-dpERK	Gene_or_gene_product
+PMC2386837	470	uniprot:UNRESOLVED ID	dpERK	Gene_or_gene_product
+PMC2386837	470	uazid:UA-ORG-1067	vein	Organ
+PMC2386837	471	uniprot:UNRESOLVED ID	rho vn double mutant	Gene_or_gene_product
+PMC2386837	471	uniprot:UNRESOLVED ID	dpERK	Gene_or_gene_product
+PMC2386837	472	uniprot:UNRESOLVED ID	Src64BDelta540	Gene_or_gene_product
+PMC2386837	472	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2386837	472	uniprot:UNRESOLVED ID	wing	CellType
+PMC2386837	472	uniprot:UNRESOLVED ID	anti-dpERK antibody	Gene_or_gene_product
+PMC2386837	473	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2386837	473	uniprot:UNRESOLVED ID	Src64BDelta540	Gene_or_gene_product
+PMC2386837	473	uniprot:P08100	rho	Gene_or_gene_product
+PMC2386837	473	uniprot:P04004	vn	Gene_or_gene_product
+PMC2386837	473	uniprot:UNRESOLVED ID	wing	CellType
+PMC2386837	473	uniprot:UNRESOLVED ID	dpERK domains	Gene_or_gene_product
+PMC2386837	474	uniprot:UNRESOLVED ID	692 KB JPG	Gene_or_gene_product
+PMC2386837	475	uniprot:UNRESOLVED ID	FlyBase	Gene_or_gene_product
+PMC2386837	475	uniprot:UNRESOLVED ID	http://flybase.bio.indiana.edu	Gene_or_gene_product
+PMC2386837	475	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	475	uniprot:UNRESOLVED ID	FBgn0003079	Gene_or_gene_product
+PMC2386837	475	uniprot:UNRESOLVED ID	FBgn0003205	Gene_or_gene_product
+PMC2386837	475	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	475	uniprot:UNRESOLVED ID	FBgn0003501	Gene_or_gene_product
+PMC2386837	475	uniprot:UNRESOLVED ID	FBgn0003733	Gene_or_gene_product
+PMC2386837	476	uniprot:UNRESOLVED ID	http://www.ncbi.nlm.nih.gov/Genbank	Gene_or_gene_product
+PMC2386837	476	ncbitax:species:ncbi:7165	Anopheles gambiae	Species
+PMC2386837	476	uniprot:UNRESOLVED ID	EAA13186	Gene_or_gene_product
+PMC2386837	476	uniprot:P10398	A-Raf	Gene_or_gene_product
+PMC2386837	476	uniprot:UNRESOLVED ID	TVHUAF	Gene_or_gene_product
+PMC2386837	476	uniprot:P15056	B-Raf	Gene_or_gene_product
+PMC2386837	476	uniprot:UNRESOLVED ID	TVHUBF	Gene_or_gene_product
+PMC2386837	476	uniprot:P08630	Btk29A	Gene_or_gene_product
+PMC2386837	476	uniprot:UNRESOLVED ID	AAF52631	Gene_or_gene_product
+PMC2386837	476	uniprot:UNRESOLVED ID	CG8789	Gene_or_gene_product
+PMC2386837	476	uniprot:UNRESOLVED ID	AAF49129	Gene_or_gene_product
+PMC2386837	476	uniprot:P04049	C-Raf	Gene_or_gene_product
+PMC2386837	476	uniprot:UNRESOLVED ID	TVHUF6	Gene_or_gene_product
+PMC2386837	476	uniprot:O15431	CTR1	Gene_or_gene_product
+PMC2386837	476	uniprot:UNRESOLVED ID	AAA32779	Gene_or_gene_product
+PMC2386837	476	uniprot:P11346	Draf	Gene_or_gene_product
+PMC2386837	476	uniprot:UNRESOLVED ID	AAF45774	Gene_or_gene_product
+PMC2386837	476	uniprot:P00533	Egfr	Gene_or_gene_product
+PMC2386837	476	uniprot:UNRESOLVED ID	AAM70919	Gene_or_gene_product
+PMC2386837	476	uniprot:Q8IVT5	ksr	Gene_or_gene_product
+PMC2386837	476	uniprot:UNRESOLVED ID	AAF52021	Gene_or_gene_product
+PMC2386837	476	uniprot:P53667	LIMK1	Gene_or_gene_product
+PMC2386837	476	uniprot:UNRESOLVED ID	AAF48176	Gene_or_gene_product
+PMC2386837	476	uniprot:Q07292	lin-45	Gene_or_gene_product
+PMC2386837	476	uniprot:UNRESOLVED ID	AAA28142	Gene_or_gene_product
+PMC2386837	476	uniprot:UNRESOLVED ID	PhKgamma	Gene_or_gene_product
+PMC2386837	476	uniprot:UNRESOLVED ID	AAG22343	Gene_or_gene_product
+PMC2386837	476	uniprot:P00528	Src64B	Gene_or_gene_product
+PMC2386837	476	uniprot:UNRESOLVED ID	AAF47922	Gene_or_gene_product
+PMC2386837	477	uniprot:UNRESOLVED ID	Protein Data Bank	Gene_or_gene_product
+PMC2386837	477	uniprot:UNRESOLVED ID	http://www.rcsb.org/pdb	Gene_or_gene_product
+PMC2386837	477	uniprot:UNRESOLVED ID	1UWH	Gene_or_gene_product
+PMC2386837	480	uniprot:P26205	Li	Species
+PMC2386837	482	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	483	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2386837	484	uniprot:P01133	epidermal growth factor	Gene_or_gene_product
+PMC2386837	484	uniprot:P00533	epidermal growth factor receptor	Gene_or_gene_product
+PMC2386837	485	uniprot:UNRESOLVED ID	extracellular signal-regulated kinase	Gene_or_gene_product
+PMC2386837	486	uniprot:UNRESOLVED ID	mitogen-activated protein kinase kinase	Gene_or_gene_product
+PMC2386837	488	uniprot:P12931	Src	Gene_or_gene_product
+PMC2386837	489	uniprot:UNRESOLVED ID	currencyb	Gene_or_gene_product
+PMC2386837	492	uniprot:P62328	FX	Gene_or_gene_product
+PMC2386837	492	uniprot:UNRESOLVED ID	JL	Gene_or_gene_product
+PMC2386837	492	uniprot:UNRESOLVED ID	GWH	Gene_or_gene_product
+PMC2386837	492	uniprot:P21786	AT	Gene_or_gene_product
+PMC2386837	492	uniprot:Q9UEF7	KL	Gene_or_gene_product
+PMC2386837	492	uniprot:Q9ZNU6	DG	Gene_or_gene_product
+PMC2386837	492	uniprot:UNRESOLVED ID	S-JY	Gene_or_gene_product
+PMC2386837	492	uniprot:UNRESOLVED ID	LS-M	Gene_or_gene_product
+PMC2386837	493	uniprot:P62328	FX	Gene_or_gene_product
+PMC2386837	493	uniprot:UNRESOLVED ID	JL	Gene_or_gene_product
+PMC2386837	493	uniprot:UNRESOLVED ID	S-JY	Gene_or_gene_product
+PMC2386837	493	uniprot:UNRESOLVED ID	WXL	Gene_or_gene_product
+PMC2386837	494	uniprot:P62328	FX	Gene_or_gene_product
+PMC2386837	494	uniprot:UNRESOLVED ID	WXL	Gene_or_gene_product
+PMC2386837	496	uniprot:UNRESOLVED ID	JL	Gene_or_gene_product
+PMC2386837	497	uniprot:UNRESOLVED ID	RSG-06-196-01-TBE	Gene_or_gene_product
+PMC2386837	497	uniprot:UNRESOLVED ID	Leukemia	CellType
+PMC2386837	497	uniprot:UNRESOLVED ID	Lymphoma	CellType

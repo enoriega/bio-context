@@ -1,0 +1,702 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC1702562	0	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	0	uniprot:P35222	beta-Catenin	Gene_or_gene_product
+PMC1702562	0	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC1702562	1	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	1	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC1702562	2	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	3	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	3	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	4	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	5	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	5	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	6	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	6	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	7	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	8	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	10	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	11	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	12	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	13	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	14	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	14	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC1702562	18	uniprot:UNRESOLVED ID	3' UTR	Gene_or_gene_product
+PMC1702562	20	uniprot:Q8IZH2	Xrn1	Gene_or_gene_product
+PMC1702562	21	uniprot:UNRESOLVED ID	ARE-binding proteins	Gene_or_gene_product
+PMC1702562	21	uniprot:UNRESOLVED ID	ARE-BPs	Gene_or_gene_product
+PMC1702562	22	uniprot:UNRESOLVED ID	ARE-BPs	Gene_or_gene_product
+PMC1702562	22	uniprot:P26651	TTP	Gene_or_gene_product
+PMC1702562	22	uniprot:Q07352	BRF1	Gene_or_gene_product
+PMC1702562	22	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	22	uniprot:Q15717	HuR	Gene_or_gene_product
+PMC1702562	22	uniprot:Q14103	AUF1	Gene_or_gene_product
+PMC1702562	24	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	24	uniprot:Q86PM2	KH	Gene_or_gene_product
+PMC1702562	25	uniprot:UNRESOLVED ID	c-Jun N-terminal kinase	Gene_or_gene_product
+PMC1702562	25	uniprot:UNRESOLVED ID	p38 MAP	Gene_or_gene_product
+PMC1702562	25	uniprot:P49137	MAPKAPK2	Gene_or_gene_product
+PMC1702562	25	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC1702562	25	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	28	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	29	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	30	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	31	uniprot:O15169	Axin	Gene_or_gene_product
+PMC1702562	31	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	31	uniprot:UNRESOLVED ID	T-cell	CellType
+PMC1702562	31	uniprot:UNRESOLVED ID	lymphoid enhancer factor family	Gene_or_gene_product
+PMC1702562	32	uniprot:UNRESOLVED ID	AKT family	Gene_or_gene_product
+PMC1702562	32	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC1702562	32	uniprot:P01308	insulin	Gene_or_gene_product
+PMC1702562	33	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	33	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC1702562	34	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	35	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC1702562	36	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	36	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	37	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	37	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC1702562	38	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	38	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	39	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	39	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	40	uniprot:P35222	beta-Catenin	Gene_or_gene_product
+PMC1702562	41	ncbitax:species:ncbi:10090	mouse	Species
+PMC1702562	43	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	44	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	45	ncbitax:species:ncbi:10090	mouse	Species
+PMC1702562	45	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	45	uniprot:UNRESOLVED ID	class III AREs	Gene_or_gene_product
+PMC1702562	46	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	46	uniprot:UNRESOLVED ID	control beta2-microglobulin	Gene_or_gene_product
+PMC1702562	46	uniprot:UNRESOLVED ID	beta2-MG	Gene_or_gene_product
+PMC1702562	47	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	47	uniprot:P04040	CAT	Species
+PMC1702562	48	uniprot:UNRESOLVED ID	CAT-beta-catenin	Gene_or_gene_product
+PMC1702562	48	uniprot:P04040	CAT	Species
+PMC1702562	49	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	50	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	50	uniprot:UNRESOLVED ID	beta2-MG	Gene_or_gene_product
+PMC1702562	51	ncbitax:species:ncbi:10090	mouse	Species
+PMC1702562	51	uniprot:P56704	Wnt-3A	Gene_or_gene_product
+PMC1702562	51	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	52	uniprot:P56704	Wnt-3A	Gene_or_gene_product
+PMC1702562	52	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	53	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	54	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	55	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC1702562	55	uniprot:P35222	beta-Catenin	Gene_or_gene_product
+PMC1702562	56	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC1702562	57	uniprot:P31749	AKT1	Gene_or_gene_product
+PMC1702562	57	uniprot:UNRESOLVED ID	myrAKT1	Gene_or_gene_product
+PMC1702562	57	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	58	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC1702562	58	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	59	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC1702562	59	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	60	uniprot:P31749	AKT1	Gene_or_gene_product
+PMC1702562	60	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC1702562	61	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC1702562	61	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	61	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	62	uniprot:P31749	AKT1	Gene_or_gene_product
+PMC1702562	62	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	63	uniprot:UNRESOLVED ID	myrAKT1	Gene_or_gene_product
+PMC1702562	64	uniprot:UNRESOLVED ID	AKT kinase	Gene_or_gene_product
+PMC1702562	64	uniprot:UNRESOLVED ID	myrAKT1	Gene_or_gene_product
+PMC1702562	65	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	66	uniprot:UNRESOLVED ID	myrAKT1	Gene_or_gene_product
+PMC1702562	66	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	66	uniprot:UNRESOLVED ID	C2C12-myrAKT1	Gene_or_gene_product
+PMC1702562	67	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	68	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC1702562	68	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	69	uniprot:P01308	Insulin	Gene_or_gene_product
+PMC1702562	69	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC1702562	69	uniprot:P35222	beta-Catenin	Gene_or_gene_product
+PMC1702562	70	uniprot:P01308	insulin	Gene_or_gene_product
+PMC1702562	70	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	70	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	70	uniprot:P06213	insulin receptor	Gene_or_gene_product
+PMC1702562	70	uniprot:UNRESOLVED ID	HIRc-B	Gene_or_gene_product
+PMC1702562	70	uniprot:Q2G0B1	rat	Species
+PMC1702562	71	uniprot:P01308	insulin	Gene_or_gene_product
+PMC1702562	71	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	72	uniprot:P01308	insulin	Gene_or_gene_product
+PMC1702562	72	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	73	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	73	uniprot:P01308	insulin	Gene_or_gene_product
+PMC1702562	74	uniprot:P01308	insulin	Gene_or_gene_product
+PMC1702562	74	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	75	uniprot:P01308	insulin	Gene_or_gene_product
+PMC1702562	75	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	76	uniprot:P01308	insulin	Gene_or_gene_product
+PMC1702562	76	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	77	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC1702562	77	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	78	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	78	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	79	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	79	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	80	uniprot:UNRESOLVED ID	ARE-BPs	Gene_or_gene_product
+PMC1702562	80	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	80	uniprot:Q15717	HuR	Gene_or_gene_product
+PMC1702562	80	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	81	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	81	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	81	uniprot:Q15717	HuR	Gene_or_gene_product
+PMC1702562	82	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	82	uniprot:P31751	AKT2	Gene_or_gene_product
+PMC1702562	82	uniprot:Q15717	HuR	Gene_or_gene_product
+PMC1702562	83	ncbitax:species:ncbi:9606	human	Species
+PMC1702562	83	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	83	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	84	uniprot:P31751	AKT2	Gene_or_gene_product
+PMC1702562	84	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	85	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	85	uniprot:Q9H3M0	KH1	Gene_or_gene_product
+PMC1702562	85	uniprot:P31751	AKT2	Gene_or_gene_product
+PMC1702562	86	uniprot:UNRESOLVED ID	myrAKT1	Gene_or_gene_product
+PMC1702562	86	uniprot:UNRESOLVED ID	FLAG-KSRP	Gene_or_gene_product
+PMC1702562	87	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	87	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	87	ncbitax:species:ncbi:9606	human	Species
+PMC1702562	87	uniprot:P31751	AKT2	Gene_or_gene_product
+PMC1702562	87	uniprot:P70059	trypsin	Gene_or_gene_product
+PMC1702562	87	uniprot:Q99707	MS	Gene_or_gene_product
+PMC1702562	89	ncbitax:species:ncbi:10090	Mus musculus	Species
+PMC1702562	89	ncbitax:species:ncbi:10116	Rattus norvegicus	Species
+PMC1702562	89	ncbitax:species:ncbi:9615	Canis familiaris	Species
+PMC1702562	89	ncbitax:species:ncbi:9913	Bos taurus	Species
+PMC1702562	89	ncbitax:species:ncbi:9031	Gallus gallus	Species
+PMC1702562	89	ncbitax:species:ncbi:8355	Xenopus laevis	Species
+PMC1702562	89	ncbitax:species:ncbi:7955	Danio rerio	Species
+PMC1702562	90	uniprot:UNRESOLVED ID	KH1-4	Gene_or_gene_product
+PMC1702562	90	uniprot:UNRESOLVED ID	KH1-2	Gene_or_gene_product
+PMC1702562	91	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	92	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	92	ncbitax:species:ncbi:9606	human	Species
+PMC1702562	92	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	93	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	93	uniprot:P35222	beta-Catenin	Gene_or_gene_product
+PMC1702562	94	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	94	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	94	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	95	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	96	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	96	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	97	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	97	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	98	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	98	uniprot:UNRESOLVED ID	alphaT3-1-shKSRP	Gene_or_gene_product
+PMC1702562	99	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	99	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	100	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	101	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	101	uniprot:Q26304	luciferase	Gene_or_gene_product
+PMC1702562	101	uniprot:UNRESOLVED ID	TOP-FLASH	Gene_or_gene_product
+PMC1702562	101	ncbitax:species:ncbi:10090	mouse	Species
+PMC1702562	102	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	102	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	103	uniprot:UNRESOLVED ID	myrAKT1	Gene_or_gene_product
+PMC1702562	103	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	104	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	104	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	105	uniprot:UNRESOLVED ID	14-3-3 Interacts	Gene_or_gene_product
+PMC1702562	105	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	106	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	106	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	107	uniprot:P31751	AKT2	Gene_or_gene_product
+PMC1702562	107	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	107	uniprot:UNRESOLVED ID	alphaT3-1-shKSRP	Gene_or_gene_product
+PMC1702562	108	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	108	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	108	uniprot:P31751	AKT2	Gene_or_gene_product
+PMC1702562	109	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC1702562	109	ncbitax:species:ncbi:10469	Baculovirus	Species
+PMC1702562	109	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	110	uniprot:Q9H3M0	KH1	Gene_or_gene_product
+PMC1702562	110	uniprot:P31751	AKT2	Gene_or_gene_product
+PMC1702562	110	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	111	uniprot:UNRESOLVED ID	14-3-3 protein family	Gene_or_gene_product
+PMC1702562	112	ncbitax:species:ncbi:4932	yeast	Species
+PMC1702562	112	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	112	uniprot:Q1HR36	14-3-3zeta	Gene_or_gene_product
+PMC1702562	113	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	113	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	113	uniprot:UNRESOLVED ID	myrAKT1	Gene_or_gene_product
+PMC1702562	113	uniprot:UNRESOLVED ID	FLAG-KSRP	Gene_or_gene_product
+PMC1702562	115	uniprot:UNRESOLVED ID	FLAG-KSRP	Gene_or_gene_product
+PMC1702562	115	uniprot:UNRESOLVED ID	myrAKT1	Gene_or_gene_product
+PMC1702562	116	uniprot:UNRESOLVED ID	GST-KH1-4	Gene_or_gene_product
+PMC1702562	116	uniprot:UNRESOLVED ID	myrAKT1	Gene_or_gene_product
+PMC1702562	117	uniprot:UNRESOLVED ID	AKT phosphorylation site	Gene_or_gene_product
+PMC1702562	117	uniprot:UNRESOLVED ID	GST-KSRP fusion proteins	Gene_or_gene_product
+PMC1702562	117	uniprot:Q9H3M0	KH1	Gene_or_gene_product
+PMC1702562	118	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	119	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	119	uniprot:UNRESOLVED ID	myrAKT1	Gene_or_gene_product
+PMC1702562	120	uniprot:Q9H3M0	KH1	Gene_or_gene_product
+PMC1702562	121	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	121	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	121	uniprot:UNRESOLVED ID	14-3-3 proteins	Gene_or_gene_product
+PMC1702562	122	uniprot:P31751	AKT2	Gene_or_gene_product
+PMC1702562	122	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	122	uniprot:UNRESOLVED ID	difopein	Gene_or_gene_product
+PMC1702562	123	uniprot:UNRESOLVED ID	KH1-4	Gene_or_gene_product
+PMC1702562	123	uniprot:UNRESOLVED ID	KH1-4 protein	Gene_or_gene_product
+PMC1702562	124	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	124	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	124	uniprot:P29310	14-3-3	Gene_or_gene_product
+PMC1702562	125	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	126	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	126	uniprot:P31751	AKT2	Gene_or_gene_product
+PMC1702562	127	uniprot:P31751	AKT2	Gene_or_gene_product
+PMC1702562	127	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	127	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	127	uniprot:UNRESOLVED ID	recombinant 14-3-3zeta	Gene_or_gene_product
+PMC1702562	128	uniprot:UNRESOLVED ID	myrAKT1	Gene_or_gene_product
+PMC1702562	128	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	128	uniprot:UNRESOLVED ID	hRrp4p	Gene_or_gene_product
+PMC1702562	128	uniprot:UNRESOLVED ID	hRrp41	Gene_or_gene_product
+PMC1702562	128	uniprot:UNRESOLVED ID	exosome-associated factor hMtr4p	Gene_or_gene_product
+PMC1702562	128	uniprot:O95453	PARN	Gene_or_gene_product
+PMC1702562	129	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC1702562	129	uniprot:UNRESOLVED ID	GST-KH1-4	Gene_or_gene_product
+PMC1702562	129	uniprot:UNRESOLVED ID	hRrp4p	Gene_or_gene_product
+PMC1702562	129	uniprot:UNRESOLVED ID	hMtr4p	Gene_or_gene_product
+PMC1702562	129	uniprot:P31751	AKT2	Gene_or_gene_product
+PMC1702562	130	uniprot:UNRESOLVED ID	GST-KH1-4 and 14-3-3	Gene_or_gene_product
+PMC1702562	130	uniprot:UNRESOLVED ID	GST-KH1-4	Gene_or_gene_product
+PMC1702562	130	uniprot:UNRESOLVED ID	hRrp4p	Gene_or_gene_product
+PMC1702562	130	uniprot:UNRESOLVED ID	hMtr4p	Gene_or_gene_product
+PMC1702562	131	uniprot:UNRESOLVED ID	myrAKT1	Gene_or_gene_product
+PMC1702562	131	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	131	uniprot:O95453	PARN	Gene_or_gene_product
+PMC1702562	131	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	132	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	133	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	133	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	134	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	134	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC1702562	135	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	135	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	136	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	136	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	137	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	137	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	138	uniprot:P35222	beta-Catenin	Gene_or_gene_product
+PMC1702562	138	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	139	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	140	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	142	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	142	uniprot:Q15717	HuR	Gene_or_gene_product
+PMC1702562	142	uazid:UA-ORG-172	colon	Organ
+PMC1702562	143	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	143	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC1702562	144	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	144	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	144	uniprot:UNRESOLVED ID	c-myc promoter	Gene_or_gene_product
+PMC1702562	145	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	145	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	147	ncbitax:species:ncbi:9606	human	Species
+PMC1702562	147	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	148	ncbitax:species:ncbi:10090	mouse	Species
+PMC1702562	148	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	150	ncbitax:species:ncbi:9606	human	Species
+PMC1702562	150	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	151	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	151	uniprot:UNRESOLVED ID	HIRc-B	Gene_or_gene_product
+PMC1702562	151	uniprot:UNRESOLVED ID	C2C12	Gene_or_gene_product
+PMC1702562	151	ncbitax:species:ncbi:10090	mouse	Species
+PMC1702562	153	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC1702562	153	uniprot:P35222	beta-Catenin	Gene_or_gene_product
+PMC1702562	153	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	154	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC1702562	154	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	155	uniprot:Q9H4M9	past	Gene_or_gene_product
+PMC1702562	155	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	157	uniprot:P01308	insulin	Gene_or_gene_product
+PMC1702562	157	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC1702562	157	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	157	uniprot:UNRESOLVED ID	myrAKT1	Gene_or_gene_product
+PMC1702562	157	uniprot:UNRESOLVED ID	beta-catenin protein t	Gene_or_gene_product
+PMC1702562	158	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC1702562	158	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	159	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC1702562	159	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	160	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	160	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	161	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	161	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	161	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	162	uazid:UA-ORG-860	sense	Organ
+PMC1702562	162	uniprot:P29310	14-3-3	Gene_or_gene_product
+PMC1702562	162	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	163	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	163	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	163	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	164	uniprot:Q07352	BRF1	Gene_or_gene_product
+PMC1702562	164	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	164	uniprot:P26651	TTP	Gene_or_gene_product
+PMC1702562	165	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC1702562	165	uniprot:Q07352	BRF1	Gene_or_gene_product
+PMC1702562	165	uniprot:P26651	TTP	Gene_or_gene_product
+PMC1702562	166	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	166	uniprot:Q15717	HuR	Gene_or_gene_product
+PMC1702562	166	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	167	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC1702562	167	uniprot:Q15717	HuR	Gene_or_gene_product
+PMC1702562	167	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	169	uazid:UA-ORG-381	hand	Organ
+PMC1702562	169	uniprot:UNRESOLVED ID	ARE-BP	Gene_or_gene_product
+PMC1702562	170	uniprot:UNRESOLVED ID	MAPK p38	Gene_or_gene_product
+PMC1702562	170	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	170	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC1702562	171	uniprot:O75791	p38	Gene_or_gene_product
+PMC1702562	171	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	172	uniprot:UNRESOLVED ID	ARE-BP	Gene_or_gene_product
+PMC1702562	173	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	174	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	174	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC1702562	174	uniprot:UNRESOLVED ID	14-3-3 binding site	Gene_or_gene_product
+PMC1702562	176	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	176	N/A	KSRP	Gene_or_gene_product
+PMC1702562	176	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	176	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	177	uniprot:UNRESOLVED ID	14-3-3 competitor peptide difopein	Gene_or_gene_product
+PMC1702562	177	uniprot:UNRESOLVED ID	KSRP-14-3-3	Gene_or_gene_product
+PMC1702562	178	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	178	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	178	uniprot:O95453	PARN	Gene_or_gene_product
+PMC1702562	178	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	179	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	179	uniprot:O95453	PARN	Gene_or_gene_product
+PMC1702562	180	uniprot:O95453	PARN	Gene_or_gene_product
+PMC1702562	180	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	181	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	182	uniprot:UNRESOLVED ID	hRrp4p	Gene_or_gene_product
+PMC1702562	182	uniprot:UNRESOLVED ID	hRrp41p	Gene_or_gene_product
+PMC1702562	182	uniprot:UNRESOLVED ID	hRrp45	Gene_or_gene_product
+PMC1702562	182	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	183	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	184	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	185	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	185	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	186	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	187	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	188	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	188	uniprot:UNRESOLVED ID	melanoma	CellType
+PMC1702562	189	uazid:UA-ORG-381	hand	Organ
+PMC1702562	189	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	190	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	190	ncbitax:species:ncbi:9606	human	Species
+PMC1702562	191	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	191	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC1702562	191	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	192	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC1702562	192	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	192	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	193	uniprot:UNRESOLVED ID	LY	Gene_or_gene_product
+PMC1702562	193	uniprot:P01308	insulin	Gene_or_gene_product
+PMC1702562	193	uniprot:P50402	EMD	Gene_or_gene_product
+PMC1702562	193	uniprot:P56704	Wnt-3A	Gene_or_gene_product
+PMC1702562	193	uniprot:UNRESOLVED ID	R&D Systems	Gene_or_gene_product
+PMC1702562	193	uniprot:UNRESOLVED ID	histone 2B	Gene_or_gene_product
+PMC1702562	194	ncbitax:species:ncbi:10090	mouse	Species
+PMC1702562	194	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	194	uniprot:P04406	GAPDH	Gene_or_gene_product
+PMC1702562	195	ncbitax:species:ncbi:9606	human	Species
+PMC1702562	195	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	195	uniprot:UNRESOLVED ID	EcoRI-XhoI sites	Gene_or_gene_product
+PMC1702562	195	uniprot:UNRESOLVED ID	pCMV-Tag2B	Gene_or_gene_product
+PMC1702562	195	uniprot:Q56704	FLAG	Species
+PMC1702562	196	uniprot:UNRESOLVED ID	FLAG-KSRP	Gene_or_gene_product
+PMC1702562	197	uniprot:UNRESOLVED ID	HA-myrAKT1 cassette	Gene_or_gene_product
+PMC1702562	198	uniprot:UNRESOLVED ID	pcDNA3	Gene_or_gene_product
+PMC1702562	198	uniprot:UNRESOLVED ID	pCMV-myr-AKT1	Gene_or_gene_product
+PMC1702562	198	uniprot:P31749	AKT1	Gene_or_gene_product
+PMC1702562	198	uniprot:UNRESOLVED ID	TOP-FLASH	Gene_or_gene_product
+PMC1702562	199	uniprot:UNRESOLVED ID	c-myc promoter	Gene_or_gene_product
+PMC1702562	199	uniprot:Q26304	Luciferase	Gene_or_gene_product
+PMC1702562	200	uniprot:UNRESOLVED ID	pCAT-beta-catenin 3' UTR	Gene_or_gene_product
+PMC1702562	200	ncbitax:species:ncbi:10090	mouse	Species
+PMC1702562	200	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	201	uniprot:UNRESOLVED ID	Recombinant proteins	Gene_or_gene_product
+PMC1702562	202	ncbitax:species:ncbi:9606	human	Species
+PMC1702562	202	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	202	ncbitax:species:ncbi:10469	Baculovirus	Species
+PMC1702562	204	uniprot:UNRESOLVED ID	GST-KSRP deletion mutants	Gene_or_gene_product
+PMC1702562	205	uniprot:UNRESOLVED ID	GST-KH1-2	Gene_or_gene_product
+PMC1702562	205	uniprot:UNRESOLVED ID	GST-KH1-4	Gene_or_gene_product
+PMC1702562	206	uniprot:UNRESOLVED ID	GST-14-3-3	Gene_or_gene_product
+PMC1702562	206	ncbitax:species:ncbi:10090	mouse	Species
+PMC1702562	207	ncbitax:species:ncbi:10090	Mouse	Species
+PMC1702562	207	uniprot:P08727	K-19	Gene_or_gene_product
+PMC1702562	207	uniprot:UNRESOLVED ID	14-3-3 family members	Gene_or_gene_product
+PMC1702562	207	uniprot:UNRESOLVED ID	anti-14-3-3zeta	Gene_or_gene_product
+PMC1702562	207	uniprot:P23668	C-16	Gene_or_gene_product
+PMC1702562	207	uniprot:UNRESOLVED ID	zeta	Gene_or_gene_product
+PMC1702562	207	uniprot:UNRESOLVED ID	anti-HuR monoclonal antibody 3A2	Gene_or_gene_product
+PMC1702562	207	ncbitax:species:ncbi:10090	mouse	Species
+PMC1702562	207	ncbitax:species:ncbi:9986	rabbit	Species
+PMC1702562	207	uniprot:UNRESOLVED ID	anti-KSRP antibody	Gene_or_gene_product
+PMC1702562	207	ncbitax:species:ncbi:9606	human	Species
+PMC1702562	207	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	207	uniprot:UNRESOLVED ID	anti-hMtr4p	Gene_or_gene_product
+PMC1702562	207	uniprot:UNRESOLVED ID	hMtr4p	Gene_or_gene_product
+PMC1702562	207	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC1702562	208	uniprot:UNRESOLVED ID	Anti-AUF1	Gene_or_gene_product
+PMC1702562	208	uniprot:UNRESOLVED ID	anti-hnRNP-A1	Gene_or_gene_product
+PMC1702562	208	uniprot:UNRESOLVED ID	anti-hRrp41	Gene_or_gene_product
+PMC1702562	208	uniprot:UNRESOLVED ID	anti-hRrp4p	Gene_or_gene_product
+PMC1702562	209	uniprot:UNRESOLVED ID	Anti-FLAG	Gene_or_gene_product
+PMC1702562	209	uniprot:UNRESOLVED ID	anti-alpha-tubulin	Gene_or_gene_product
+PMC1702562	209	uniprot:UNRESOLVED ID	anti-beta-actin monoclonal antibodies	Gene_or_gene_product
+PMC1702562	210	uniprot:Q2G0B1	rat	Species
+PMC1702562	210	uazid:UA-CT-100023	fibroblasts	CellType
+PMC1702562	210	ncbitax:species:ncbi:9606	human	Species
+PMC1702562	210	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC1702562	213	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC1702562	214	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC1702562	215	uniprot:UNRESOLVED ID	pcDNA3-CAT	Gene_or_gene_product
+PMC1702562	215	uniprot:UNRESOLVED ID	pcDNA3-CAT-beta-catenin	Gene_or_gene_product
+PMC1702562	215	uniprot:UNRESOLVED ID	LipofectAMINE Plus	Gene_or_gene_product
+PMC1702562	216	uniprot:P10721	Kit	Gene_or_gene_product
+PMC1702562	216	uniprot:P24855	DNase I	Gene_or_gene_product
+PMC1702562	217	uniprot:O00370	Reverse Transcriptase	Gene_or_gene_product
+PMC1702562	219	uniprot:UNRESOLVED ID	beta2-MG	Gene_or_gene_product
+PMC1702562	222	uniprot:UNRESOLVED ID	RT-PCR product	Gene_or_gene_product
+PMC1702562	223	uniprot:P24855	DNase I	Gene_or_gene_product
+PMC1702562	225	uniprot:UNRESOLVED ID	Ribonucleoprotein complexes	Gene_or_gene_product
+PMC1702562	231	uniprot:Q99707	MS	Gene_or_gene_product
+PMC1702562	232	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	232	uniprot:P31751	AKT2	Gene_or_gene_product
+PMC1702562	233	uniprot:P70059	trypsin	Gene_or_gene_product
+PMC1702562	233	uniprot:Q99707	MS	Gene_or_gene_product
+PMC1702562	233	uniprot:UNRESOLVED ID	MS3 spectrum	Gene_or_gene_product
+PMC1702562	234	uniprot:Q99707	MS	Gene_or_gene_product
+PMC1702562	234	uniprot:UNRESOLVED ID	LC run	Gene_or_gene_product
+PMC1702562	234	uniprot:UNRESOLVED ID	MASCOT search engine	Gene_or_gene_product
+PMC1702562	234	ncbitax:species:ncbi:9606	human	Species
+PMC1702562	235	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	236	uniprot:UNRESOLVED ID	pSUPER-Puro-shKSRP	Gene_or_gene_product
+PMC1702562	239	uniprot:Q26304	Luciferase	Gene_or_gene_product
+PMC1702562	240	uniprot:UNRESOLVED ID	alphaT3-1-shKSRP	Gene_or_gene_product
+PMC1702562	240	uniprot:UNRESOLVED ID	LipofectAMINE Plus	Gene_or_gene_product
+PMC1702562	241	uniprot:Q26304	Luciferase	Gene_or_gene_product
+PMC1702562	241	uniprot:UNRESOLVED ID	Dual Luciferase System	Gene_or_gene_product
+PMC1702562	242	uniprot:P35222	beta-Catenin	Gene_or_gene_product
+PMC1702562	242	uniprot:UNRESOLVED ID	myrAKT1 Expression	Gene_or_gene_product
+PMC1702562	243	uniprot:UNRESOLVED ID	myrAKT1	Gene_or_gene_product
+PMC1702562	245	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	245	uniprot:UNRESOLVED ID	myrAKT1	Gene_or_gene_product
+PMC1702562	249	uniprot:Q06418	TIF	Gene_or_gene_product
+PMC1702562	250	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	250	uniprot:P35222	beta-Catenin	Gene_or_gene_product
+PMC1702562	251	uniprot:Q06418	TIF	Gene_or_gene_product
+PMC1702562	252	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	252	uniprot:P31749	AKT1	Gene_or_gene_product
+PMC1702562	253	uniprot:UNRESOLVED ID	anti-KSRP	Gene_or_gene_product
+PMC1702562	253	uniprot:UNRESOLVED ID	alpha-tubulin antibodies	Gene_or_gene_product
+PMC1702562	255	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	257	uniprot:UNRESOLVED ID	alpha-Tubulin immunoblotting	Gene_or_gene_product
+PMC1702562	258	uniprot:Q06418	TIF	Gene_or_gene_product
+PMC1702562	259	ncbitax:species:ncbi:10090	Mouse	Species
+PMC1702562	259	uniprot:P35222	beta-Catenin	Gene_or_gene_product
+PMC1702562	260	uniprot:UNRESOLVED ID	alphaT3-1-myrAKT1	Gene_or_gene_product
+PMC1702562	262	uniprot:Q06418	TIF	Gene_or_gene_product
+PMC1702562	263	uniprot:UNRESOLVED ID	RT-PCRs	Gene_or_gene_product
+PMC1702562	263	uniprot:UNRESOLVED ID	m-beta-catenin	Gene_or_gene_product
+PMC1702562	263	ncbitax:species:ncbi:10090	mouse	Species
+PMC1702562	263	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	263	uniprot:UNRESOLVED ID	m-AKT1	Gene_or_gene_product
+PMC1702562	263	uniprot:P31749	AKT1	Gene_or_gene_product
+PMC1702562	263	uniprot:UNRESOLVED ID	r-beta-catenin	Gene_or_gene_product
+PMC1702562	263	uniprot:Q2G0B1	rat	Species
+PMC1702562	263	uniprot:UNRESOLVED ID	b-C	Gene_or_gene_product
+PMC1702562	263	uniprot:UNRESOLVED ID	m-beta2-MG	Gene_or_gene_product
+PMC1702562	263	uniprot:UNRESOLVED ID	r-beta2-MG	Gene_or_gene_product
+PMC1702562	263	uniprot:P04040	CAT	Species
+PMC1702562	263	uniprot:UNRESOLVED ID	CAT-beta-catenin	Gene_or_gene_product
+PMC1702562	263	uniprot:UNRESOLVED ID	m-beta-cat Q-PCR	Gene_or_gene_product
+PMC1702562	263	uniprot:UNRESOLVED ID	m-beta2-MG q-PCR	Gene_or_gene_product
+PMC1702562	266	uniprot:UNRESOLVED ID	ARE-binding proteins	Gene_or_gene_product
+PMC1702562	269	uniprot:P61769	beta2-microglobulin	Gene_or_gene_product
+PMC1702562	270	uniprot:P31749	AKT1	Gene_or_gene_product
+PMC1702562	272	uniprot:P35222	beta-Catenin	Gene_or_gene_product
+PMC1702562	272	uniprot:UNRESOLVED ID	LiCl	Gene_or_gene_product
+PMC1702562	272	uniprot:P56704	Wnt-3A	Gene_or_gene_product
+PMC1702562	273	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	273	uniprot:UNRESOLVED ID	beta2-MG	Gene_or_gene_product
+PMC1702562	274	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	274	uniprot:UNRESOLVED ID	beta2-MG transcripts	Gene_or_gene_product
+PMC1702562	277	uniprot:P04040	CAT	Species
+PMC1702562	277	uniprot:UNRESOLVED ID	CAT-beta-catenin transcripts	Gene_or_gene_product
+PMC1702562	277	uniprot:UNRESOLVED ID	CAT-beta-catenin	Gene_or_gene_product
+PMC1702562	280	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	280	uniprot:UNRESOLVED ID	beta2-MG transcripts	Gene_or_gene_product
+PMC1702562	284	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	284	uniprot:UNRESOLVED ID	beta2-MG	Gene_or_gene_product
+PMC1702562	285	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	285	uniprot:UNRESOLVED ID	beta2-MG transcripts	Gene_or_gene_product
+PMC1702562	288	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC1702562	288	uniprot:P35222	beta-Catenin	Gene_or_gene_product
+PMC1702562	289	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	289	uniprot:UNRESOLVED ID	beta2-MG transcripts	Gene_or_gene_product
+PMC1702562	289	ncbitax:species:ncbi:41568	muM	Species
+PMC1702562	292	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	292	uniprot:UNRESOLVED ID	beta2-MG transcripts	Gene_or_gene_product
+PMC1702562	292	ncbitax:species:ncbi:41568	muM	Species
+PMC1702562	295	N/A	AKT1	Gene_or_gene_product
+PMC1702562	297	uniprot:P21912	Ip	Gene_or_gene_product
+PMC1702562	297	uniprot:UNRESOLVED ID	IgG	Gene_or_gene_product
+PMC1702562	297	uniprot:UNRESOLVED ID	cIgG	Gene_or_gene_product
+PMC1702562	298	uniprot:UNRESOLVED ID	histone 2B	Gene_or_gene_product
+PMC1702562	300	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	300	uniprot:UNRESOLVED ID	beta2-MG	Gene_or_gene_product
+PMC1702562	301	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	301	uniprot:UNRESOLVED ID	beta2-MG transcripts	Gene_or_gene_product
+PMC1702562	304	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	304	uniprot:Q5I2J3	alpha-tubulin	Gene_or_gene_product
+PMC1702562	304	uniprot:Q92769	HDAC2	Gene_or_gene_product
+PMC1702562	305	uniprot:P01308	Insulin	Gene_or_gene_product
+PMC1702562	305	uniprot:P35222	beta-Catenin	Gene_or_gene_product
+PMC1702562	306	uniprot:P01308	insulin	Gene_or_gene_product
+PMC1702562	306	ncbitax:species:ncbi:41568	muM	Species
+PMC1702562	307	uniprot:UNRESOLVED ID	IgG	Gene_or_gene_product
+PMC1702562	307	uniprot:UNRESOLVED ID	cIgG	Gene_or_gene_product
+PMC1702562	308	uniprot:UNRESOLVED ID	histone 2B	Gene_or_gene_product
+PMC1702562	310	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	310	uniprot:UNRESOLVED ID	beta2-MG	Gene_or_gene_product
+PMC1702562	310	uniprot:P01308	insulin	Gene_or_gene_product
+PMC1702562	310	uniprot:UNRESOLVED ID	LY	Gene_or_gene_product
+PMC1702562	311	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	311	uniprot:UNRESOLVED ID	beta2-MG transcripts	Gene_or_gene_product
+PMC1702562	311	uniprot:P01308	insulin	Gene_or_gene_product
+PMC1702562	311	uniprot:UNRESOLVED ID	LY	Gene_or_gene_product
+PMC1702562	314	uniprot:P01308	insulin	Gene_or_gene_product
+PMC1702562	314	uniprot:UNRESOLVED ID	anti-beta-catenin	Gene_or_gene_product
+PMC1702562	314	uniprot:P60709	beta-actin	Gene_or_gene_product
+PMC1702562	314	uniprot:Q92769	HDAC2	Gene_or_gene_product
+PMC1702562	315	uniprot:P01308	insulin	Gene_or_gene_product
+PMC1702562	315	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	316	uniprot:P01308	insulin	Gene_or_gene_product
+PMC1702562	317	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	319	uniprot:P60709	beta-Actin	Gene_or_gene_product
+PMC1702562	320	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	321	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	324	ncbitax:species:ncbi:9606	human	Species
+PMC1702562	324	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	324	uniprot:UNRESOLVED ID	GST-HuR	Gene_or_gene_product
+PMC1702562	324	uniprot:P31751	AKT2	Gene_or_gene_product
+PMC1702562	325	uniprot:UNRESOLVED ID	top panel	Gene_or_gene_product
+PMC1702562	327	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	327	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC1702562	328	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	329	uniprot:P31751	AKT2	Gene_or_gene_product
+PMC1702562	330	uniprot:P31751	AKT2	Gene_or_gene_product
+PMC1702562	331	uniprot:UNRESOLVED ID	FLAG-KSRP	Gene_or_gene_product
+PMC1702562	331	uniprot:UNRESOLVED ID	pCMV-myr-AKT1	Gene_or_gene_product
+PMC1702562	332	uniprot:P02810	protein A	Gene_or_gene_product
+PMC1702562	332	ncbitax:species:ncbi:10090	mouse	Species
+PMC1702562	332	uniprot:UNRESOLVED ID	cIgG	Gene_or_gene_product
+PMC1702562	332	uniprot:UNRESOLVED ID	anti-FLAG antibody	Gene_or_gene_product
+PMC1702562	332	uniprot:UNRESOLVED ID	top panel	Gene_or_gene_product
+PMC1702562	333	uniprot:UNRESOLVED ID	anti-FLAG antibody	Gene_or_gene_product
+PMC1702562	334	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	335	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	336	uniprot:P31751	AKT2	Gene_or_gene_product
+PMC1702562	337	uniprot:P31751	AKT2	Gene_or_gene_product
+PMC1702562	338	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	338	uniprot:P35222	beta-Catenin	Gene_or_gene_product
+PMC1702562	339	uniprot:UNRESOLVED ID	alphaT3-1-shKSRP	Gene_or_gene_product
+PMC1702562	339	uniprot:UNRESOLVED ID	anti-KSRP and anti-alpha-tubulin antibodies	Gene_or_gene_product
+PMC1702562	340	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	340	uniprot:UNRESOLVED ID	beta2-MG	Gene_or_gene_product
+PMC1702562	341	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	341	uniprot:UNRESOLVED ID	beta2-MG transcripts	Gene_or_gene_product
+PMC1702562	344	uniprot:UNRESOLVED ID	anti-beta-catenin	Gene_or_gene_product
+PMC1702562	344	uniprot:UNRESOLVED ID	alpha-tubulin antibodies	Gene_or_gene_product
+PMC1702562	346	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	348	uniprot:UNRESOLVED ID	alpha-Tubulin immunoblotting	Gene_or_gene_product
+PMC1702562	349	uniprot:UNRESOLVED ID	TOP-FLASH	Gene_or_gene_product
+PMC1702562	349	uniprot:UNRESOLVED ID	c-myc-LUC	Gene_or_gene_product
+PMC1702562	349	uniprot:Q26304	luciferase	Gene_or_gene_product
+PMC1702562	351	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	351	uniprot:P54644	AKT	Gene_or_gene_product
+PMC1702562	351	uniprot:P29310	14-3-3	Gene_or_gene_product
+PMC1702562	352	uniprot:P02769	BSA	Gene_or_gene_product
+PMC1702562	352	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC1702562	352	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	352	uniprot:P31751	AKT2	Gene_or_gene_product
+PMC1702562	352	uniprot:UNRESOLVED ID	KH1-4	Gene_or_gene_product
+PMC1702562	354	uniprot:UNRESOLVED ID	FLAG-KSRP	Gene_or_gene_product
+PMC1702562	354	uniprot:UNRESOLVED ID	mock 293T	Gene_or_gene_product
+PMC1702562	354	uniprot:UNRESOLVED ID	pCMV-myrAKT1	Gene_or_gene_product
+PMC1702562	354	uniprot:UNRESOLVED ID	293T-myrAKT1	Gene_or_gene_product
+PMC1702562	355	uniprot:UNRESOLVED ID	anti-14-3-3 antibody	Gene_or_gene_product
+PMC1702562	356	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC1702562	356	uniprot:UNRESOLVED ID	lanes 1-3	Gene_or_gene_product
+PMC1702562	356	uniprot:UNRESOLVED ID	alphaT3-1-myrAKT1	Gene_or_gene_product
+PMC1702562	356	uniprot:UNRESOLVED ID	GST-KH1-4	Gene_or_gene_product
+PMC1702562	356	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	357	uniprot:UNRESOLVED ID	anti-14-3-3 antibody	Gene_or_gene_product
+PMC1702562	358	uniprot:UNRESOLVED ID	FLAG-KSRP	Gene_or_gene_product
+PMC1702562	358	uniprot:UNRESOLVED ID	pCMV-myrAKT1	Gene_or_gene_product
+PMC1702562	358	uniprot:UNRESOLVED ID	293T-myrAKT1	Gene_or_gene_product
+PMC1702562	359	uniprot:UNRESOLVED ID	anti-14-3-3 antibody	Gene_or_gene_product
+PMC1702562	360	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC1702562	360	uniprot:UNRESOLVED ID	KH1-4	Gene_or_gene_product
+PMC1702562	360	uniprot:P31751	AKT2	Gene_or_gene_product
+PMC1702562	362	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC1702562	362	uniprot:UNRESOLVED ID	GST-KH1-4	Gene_or_gene_product
+PMC1702562	363	uniprot:UNRESOLVED ID	anti-14-3-3 antibody	Gene_or_gene_product
+PMC1702562	364	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	364	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	364	uniprot:P31751	AKT2	Gene_or_gene_product
+PMC1702562	365	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	365	uniprot:Q92945	KSRP	Gene_or_gene_product
+PMC1702562	365	uniprot:P31751	AKT2	Gene_or_gene_product
+PMC1702562	365	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC1702562	365	uniprot:UNRESOLVED ID	GST-14-3-3	Gene_or_gene_product
+PMC1702562	366	uniprot:UNRESOLVED ID	FLAG-KSRP	Gene_or_gene_product
+PMC1702562	366	uniprot:UNRESOLVED ID	hRrp4p	Gene_or_gene_product
+PMC1702562	366	uniprot:UNRESOLVED ID	hMtr4p	Gene_or_gene_product
+PMC1702562	366	uniprot:O95453	PARN	Gene_or_gene_product
+PMC1702562	366	uniprot:UNRESOLVED ID	pCMV-myrAKT1	Gene_or_gene_product
+PMC1702562	366	uniprot:UNRESOLVED ID	293T-myrAKT1	Gene_or_gene_product
+PMC1702562	368	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC1702562	368	uniprot:UNRESOLVED ID	hRrp4p	Gene_or_gene_product
+PMC1702562	368	uniprot:UNRESOLVED ID	hMtr4p	Gene_or_gene_product
+PMC1702562	368	uniprot:UNRESOLVED ID	GST-KH1-4	Gene_or_gene_product
+PMC1702562	368	uniprot:P31751	AKT2	Gene_or_gene_product
+PMC1702562	371	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC1702562	371	uniprot:UNRESOLVED ID	hRrp4p	Gene_or_gene_product
+PMC1702562	371	uniprot:UNRESOLVED ID	hMtr4p	Gene_or_gene_product
+PMC1702562	371	uniprot:UNRESOLVED ID	GST-KH1-4	Gene_or_gene_product
+PMC1702562	374	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	374	uniprot:P04406	GAPDH	Gene_or_gene_product
+PMC1702562	375	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC1702562	377	uniprot:Q9SPP9	RG	Gene_or_gene_product
+PMC1702562	377	uniprot:P15516	PB	Gene_or_gene_product
+PMC1702562	378	uniprot:Q9SPP9	RG	Gene_or_gene_product
+PMC1702562	378	uniprot:Q8IVS2	MT	Gene_or_gene_product
+PMC1702562	378	uniprot:P02786	TR	Gene_or_gene_product
+PMC1702562	378	uniprot:UNRESOLVED ID	KSK	Gene_or_gene_product
+PMC1702562	378	uniprot:UNRESOLVED ID	JSA	Gene_or_gene_product
+PMC1702562	378	uniprot:P15516	PB	Gene_or_gene_product
+PMC1702562	379	uniprot:Q9SPP9	RG	Gene_or_gene_product
+PMC1702562	379	uniprot:Q8IVS2	MT	Gene_or_gene_product
+PMC1702562	379	uniprot:UNRESOLVED ID	KSK	Gene_or_gene_product
+PMC1702562	379	uniprot:UNRESOLVED ID	JSA	Gene_or_gene_product
+PMC1702562	379	uniprot:P15516	PB	Gene_or_gene_product
+PMC1702562	380	uniprot:P02774	GC	Gene_or_gene_product
+PMC1702562	380	uniprot:P99999	CYC	Gene_or_gene_product
+PMC1702562	381	uniprot:Q9SPP9	RG	Gene_or_gene_product
+PMC1702562	381	uniprot:Q8IVS2	MT	Gene_or_gene_product
+PMC1702562	381	uniprot:P15516	PB	Gene_or_gene_product
+PMC1702562	383	uniprot:P22234	AIRC	Gene_or_gene_product
+PMC1702562	383	uniprot:Q9SPP9	RG	Gene_or_gene_product
+PMC1702562	383	uniprot:UNRESOLVED ID	GGP04012	Gene_or_gene_product
+PMC1702562	383	uniprot:UNRESOLVED ID	Istituto Superiore di Sanita	Gene_or_gene_product
+PMC1702562	383	uniprot:P15516	PB	Gene_or_gene_product

@@ -1,0 +1,11 @@
+Paper ID	Line Num	Master ID	Dependent ID	Text	Type
+PMC2212994	35	uazid:UA-CT-200004	uazid:UA-CT-100002	B cells from spleens	ContextDirection
+PMC2212994	35	uniprot:O89094	uazid:UA-CT-200004	spleens of C57BL/6J mice	ContextPossesive
+PMC2212994	59	uazid:UA-CT-100004	uniprot:UNRESOLVED ID	anti-phospho-PKCbeta Ab (T500; corresponding to human PKCbeta threonine 500) in wild-type (wt) or TAK-/- DT40 cells	ContextLocation
+PMC2212994	60	uazid:UA-CT-100041	uniprot:Q9BXL7	CARMA1 in wild-type or TAK-/- DT40 cells	ContextLocation
+PMC2212994	66	uazid:UA-CT-100003	uniprot:Q9BXL7	CARMA1 in DT40 B cells	ContextLocation
+PMC2212994	77	uazid:UA-CT-200004	uazid:UA-CT-100002	B cells from spleens	ContextDirection
+PMC2212994	77	uniprot:O89094	uazid:UA-CT-200004	spleens of C57BL/6J mice	ContextPossesive
+PMC2212994	100	uazid:UA-CT-100040	uniprot:Q9BXL7	CARMA1 in wild-type or PKCbeta-/- DT40 cells	ContextLocation
+PMC2212994	101	uazid:UA-CT-100008	uniprot:O95999	Bcl10 or MALT1 in PKCbeta-/- cells	ContextLocation
+PMC2212994	202	uazid:UA-CT-100004	uniprot:P11274	BCR on various mutant DT40 cells	ContextLocation

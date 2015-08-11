@@ -4,11 +4,10 @@ import numpy as np
 import itertools as it
 import matplotlib
 import matplotlib.pyplot as plt
-from collections import defaultdict
+from collections import defaultdict, Counter
 from sklearn.feature_extraction import DictVectorizer
 from sklearn.cluster import AffinityPropagation
 
-# Necessary to work in OS X
 
 def parse_files(dir):
     ''' Parsed the TSV files generated from ODIN into pandas' data frames '''
@@ -36,6 +35,25 @@ def parse_files(dir):
 
     return entities, relations, lines
 
+def feature_overlap_grid(dicts):
+    ''' Creates a pandas data frame with the feature overlap for all the papers
+        takes set of feature dictionaries as input '''
+
+    keys = sorted(dicts.keys())
+    rows = []
+
+    for k1 in keys:
+        row = {}
+        for k2 in keys:
+            f1, f2 = set(dicts[k1].keys()), set(dicts[k2].keys())
+            row[k2] = len(f1 & f2)
+        rows.append(row)
+
+    return pd.DataFrame(rows, index=keys)
+
+
+    return
+
 if __name__ == '__main__':
 
     print "Parsing files"
@@ -50,10 +68,14 @@ if __name__ == '__main__':
 
     # Remove the non-grounded entities
     lent = lent[lent['Grounded ID'] != 'uniprot:UNRESOLVED ID']
+    lent = lent[pd.notnull(lent['Grounded ID'])]
+
+    # Comment this line if you want to include proteins in the context
+    lent = lent[(lent['Grounded ID'].str.startswith('uniprot')) == False]
 
     # Get the entity counts
     def make_ent_dicts(frame):
-        features = defaultdict(int)
+        features = Counter()
         def inc(series):
             features[series['Grounded ID']] += 1
         frame.apply(inc, axis=1)
@@ -76,7 +98,7 @@ if __name__ == '__main__':
 
     # Get the relation counts
     def make_rel_dicts(frame):
-        features = defaultdict(int)
+        features = Counter() #defaultdict(int)
         def inc(series):
             features[make_relation_tuple(series)] += 1
         frame.apply(inc, axis=1)
@@ -103,6 +125,7 @@ if __name__ == '__main__':
 
     # Binarize X
     X[X > 1] = 1
+    original_X = X.copy()
 
 
     ## Give an index to each document
@@ -122,7 +145,7 @@ if __name__ == '__main__':
     # Sort X documents by decimal value value
     sorted_rows = [x[0] for x in sorted(enumerate([bits2decimal(X[i, :]) for i in xrange(X.shape[0])]), key=lambda x: x[1], reverse=True)] #sort(X)
     X = X[sorted_rows, :]
-    X = X[:, :129]
+    #X = X[:, :129]
 
     plt.ion()
     fig, ax = plt.subplots()

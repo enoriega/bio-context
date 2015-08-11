@@ -1,0 +1,439 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC3174055	0	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	0	uniprot:UNRESOLVED ID	phosphoinositide 3-kinase	Gene_or_gene_product
+PMC3174055	1	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3174055	1	uniprot:UNRESOLVED ID	phosphoinositide 3-kinase	Gene_or_gene_product
+PMC3174055	1	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3174055	1	uniprot:Q04205	tensin	Gene_or_gene_product
+PMC3174055	1	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC3174055	2	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3174055	2	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	3	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3174055	3	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	4	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	6	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3174055	6	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3174055	6	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3174055	6	uniprot:P31749	protein kinase B	Gene_or_gene_product
+PMC3174055	6	uniprot:UNRESOLVED ID	p110alpha/p110beta/p110delta	Gene_or_gene_product
+PMC3174055	7	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	7	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3174055	7	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3174055	7	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3174055	8	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC3174055	8	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	8	uniprot:UNRESOLVED ID	class-Ia PI3K	Gene_or_gene_product
+PMC3174055	9	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	10	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3174055	10	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3174055	11	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	12	uniprot:UNRESOLVED ID	class-Ia PI3Ks	Gene_or_gene_product
+PMC3174055	12	uniprot:UNRESOLVED ID	phosphoinositide 3-kinases	Gene_or_gene_product
+PMC3174055	12	uniprot:UNRESOLVED ID	p110alpha/p110beta/p110delta	Gene_or_gene_product
+PMC3174055	12	uniprot:UNRESOLVED ID	class-Ib PI3K	Gene_or_gene_product
+PMC3174055	12	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3174055	12	uniprot:UNRESOLVED ID	couple growth factor receptors and G-protein-coupled receptors	Gene_or_gene_product
+PMC3174055	13	uniprot:UNRESOLVED ID	PtdIns	Gene_or_gene_product
+PMC3174055	13	uniprot:P09131	P3	Gene_or_gene_product
+PMC3174055	14	uniprot:UNRESOLVED ID	PtdIns	Gene_or_gene_product
+PMC3174055	14	uniprot:P09131	P3	Gene_or_gene_product
+PMC3174055	14	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3174055	14	uniprot:Q04205	tensin	Gene_or_gene_product
+PMC3174055	16	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3174055	16	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC3174055	16	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	16	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3174055	17	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC3174055	19	uniprot:Q9KNM2	spot	Species
+PMC3174055	19	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC3174055	20	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC3174055	20	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3174055	21	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC3174055	21	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3174055	22	uniprot:UNRESOLVED ID	PI3K isoforms	Gene_or_gene_product
+PMC3174055	22	uniprot:P42345	mTOR	Gene_or_gene_product
+PMC3174055	22	uniprot:P42345	mammalian target of rapamycin	Gene_or_gene_product
+PMC3174055	24	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	24	uniprot:UNRESOLVED ID	class-I PI3Ks	Gene_or_gene_product
+PMC3174055	25	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	25	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC3174055	26	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	27	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	27	uniprot:UNRESOLVED ID	PI3K isoforms	Gene_or_gene_product
+PMC3174055	28	uniprot:UNRESOLVED ID	PIK-75	Gene_or_gene_product
+PMC3174055	28	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	28	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3174055	29	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	29	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3174055	29	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3174055	29	uniprot:P31749	protein kinase B	Gene_or_gene_product
+PMC3174055	30	uniprot:UNRESOLVED ID	PIK-75	Gene_or_gene_product
+PMC3174055	30	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	31	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	32	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	33	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	33	uniprot:UNRESOLVED ID	PI3Ks	Gene_or_gene_product
+PMC3174055	34	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	34	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC3174055	34	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3174055	36	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	39	uniprot:UNRESOLVED ID	400 MHz, CDCl3) delta 8.56	Gene_or_gene_product
+PMC3174055	39	uniprot:UNRESOLVED ID	br s, 1H	Gene_or_gene_product
+PMC3174055	39	uniprot:UNRESOLVED ID	J 8.0 Hz	Gene_or_gene_product
+PMC3174055	39	uniprot:UNRESOLVED ID	1H	Gene_or_gene_product
+PMC3174055	39	uniprot:UNRESOLVED ID	3H	Gene_or_gene_product
+PMC3174055	39	uniprot:UNRESOLVED ID	9H	Gene_or_gene_product
+PMC3174055	44	uniprot:UNRESOLVED ID	SN34452	Gene_or_gene_product
+PMC3174055	45	uniprot:UNRESOLVED ID	400 MHz, CDCl3) delta 7.78	Gene_or_gene_product
+PMC3174055	45	uniprot:UNRESOLVED ID	br s, 1H	Gene_or_gene_product
+PMC3174055	45	uniprot:UNRESOLVED ID	4H	Gene_or_gene_product
+PMC3174055	45	uniprot:UNRESOLVED ID	3H	Gene_or_gene_product
+PMC3174055	45	uniprot:UNRESOLVED ID	9H	Gene_or_gene_product
+PMC3174055	49	uniprot:UNRESOLVED ID	SN34452	Gene_or_gene_product
+PMC3174055	50	uniprot:UNRESOLVED ID	NVP-BEZ-235	Gene_or_gene_product
+PMC3174055	51	uniprot:UNRESOLVED ID	PIK-75	Gene_or_gene_product
+PMC3174055	51	uniprot:UNRESOLVED ID	TGX-221	Gene_or_gene_product
+PMC3174055	51	uniprot:UNRESOLVED ID	IC87114	Gene_or_gene_product
+PMC3174055	53	uniprot:UNRESOLVED ID	SKETCHER	Gene_or_gene_product
+PMC3174055	53	uniprot:UNRESOLVED ID	SYBYL8.2	Gene_or_gene_product
+PMC3174055	53	uniprot:UNRESOLVED ID	Tripos	Gene_or_gene_product
+PMC3174055	54	uniprot:P54829	step	Gene_or_gene_product
+PMC3174055	56	uniprot:P01298	pH	Gene_or_gene_product
+PMC3174055	57	uniprot:UNRESOLVED ID	GOLDv5.0	Gene_or_gene_product
+PMC3174055	58	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	58	uniprot:UNRESOLVED ID	SYBYL8.2	Gene_or_gene_product
+PMC3174055	61	uniprot:UNRESOLVED ID	Ring-NH2	Gene_or_gene_product
+PMC3174055	61	uniprot:UNRESOLVED ID	Ring-NR1R2	Gene_or_gene_product
+PMC3174055	63	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3174055	63	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3174055	63	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	63	uniprot:UNRESOLVED ID	http://www.pymol.org	Gene_or_gene_product
+PMC3174055	64	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3174055	64	ncbitax:species:ncbi:9606	human	Species
+PMC3174055	64	uniprot:UNRESOLVED ID	HTRF Assay	Gene_or_gene_product
+PMC3174055	65	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3174055	65	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3174055	66	ncbitax:species:ncbi:9606	human	Species
+PMC3174055	67	uniprot:UNRESOLVED ID	PI3Ks	Gene_or_gene_product
+PMC3174055	68	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3174055	68	uniprot:UNRESOLVED ID	N-SH2	Gene_or_gene_product
+PMC3174055	68	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3174055	69	uniprot:P25848	Protein Kinase	Gene_or_gene_product
+PMC3174055	71	uniprot:P51606	Age	Gene_or_gene_product
+PMC3174055	71	uniprot:P23043	CD-1	Gene_or_gene_product
+PMC3174055	71	uniprot:O89094	mice	Species
+PMC3174055	71	uniprot:UNRESOLVED ID	M HCl	Gene_or_gene_product
+PMC3174055	72	uniprot:O89094	Mice	Species
+PMC3174055	72	uazid:UA-ORG-92	blood	Organ
+PMC3174055	73	uazid:UA-ORG-92	Blood	Organ
+PMC3174055	73	uazid:UA-ORG-725	plasma	Organ
+PMC3174055	74	uazid:UA-ORG-725	plasma	Organ
+PMC3174055	75	uniprot:Q99707	MS	Gene_or_gene_product
+PMC3174055	76	uniprot:UNRESOLVED ID	Zorbax SB-C18 column	Gene_or_gene_product
+PMC3174055	76	ncbitax:species:ncbi:41568	mum	Species
+PMC3174055	77	uazid:UA-ORG-725	Plasma	Organ
+PMC3174055	78	uniprot:O43623	slug	Gene_or_gene_product
+PMC3174055	78	uazid:UA-ORG-725	plasma	Organ
+PMC3174055	79	uniprot:UNRESOLVED ID	WinNonlin 5.3 software	Gene_or_gene_product
+PMC3174055	83	uniprot:UNRESOLVED ID	Melanoma	CellType
+PMC3174055	85	uniprot:P51606	Age	Gene_or_gene_product
+PMC3174055	85	uniprot:O89094	mice	Species
+PMC3174055	86	uniprot:Q91771	mm3	Gene_or_gene_product
+PMC3174055	86	uniprot:UNRESOLVED ID	Lxw2	Gene_or_gene_product
+PMC3174055	87	uniprot:UNRESOLVED ID	BEZ-235	Gene_or_gene_product
+PMC3174055	88	uniprot:O89094	mice	Species
+PMC3174055	89	uniprot:Q86YQ2	base	Gene_or_gene_product
+PMC3174055	90	uniprot:O89094	mice	Species
+PMC3174055	91	uniprot:UNRESOLVED ID	BCA protein	Gene_or_gene_product
+PMC3174055	93	uniprot:P55957	BID	Gene_or_gene_product
+PMC3174055	93	uniprot:O89094	mice	Species
+PMC3174055	94	uniprot:UNRESOLVED ID	SK-OV-3	Gene_or_gene_product
+PMC3174055	94	uniprot:UNRESOLVED ID	HCT-116	Gene_or_gene_product
+PMC3174055	96	uniprot:O89094	Mice	Species
+PMC3174055	97	uniprot:UNRESOLVED ID	TGI	Gene_or_gene_product
+PMC3174055	97	uniprot:O89094	mice	Species
+PMC3174055	98	uniprot:Q9UNW9	ANOVA	Gene_or_gene_product
+PMC3174055	98	uniprot:Q96FA3	Prism	Gene_or_gene_product
+PMC3174055	99	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	99	uniprot:UNRESOLVED ID	class-I PI3K isoforms	Gene_or_gene_product
+PMC3174055	100	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	100	uniprot:UNRESOLVED ID	PIK-75	Gene_or_gene_product
+PMC3174055	101	uniprot:UNRESOLVED ID	class-II PI3Ks	Gene_or_gene_product
+PMC3174055	101	uniprot:UNRESOLVED ID	class-III PI3K	Gene_or_gene_product
+PMC3174055	101	uniprot:UNRESOLVED ID	PI4Ks	Gene_or_gene_product
+PMC3174055	101	uniprot:UNRESOLVED ID	phosphoinositide 4-kinases	Gene_or_gene_product
+PMC3174055	101	uniprot:UNRESOLVED ID	class-II PI3K PI3K-C2beta	Gene_or_gene_product
+PMC3174055	101	uniprot:Q9UBF8	PI4Kbeta	Gene_or_gene_product
+PMC3174055	101	uniprot:Q9FMJ0	PI4K	Gene_or_gene_product
+PMC3174055	102	uniprot:UNRESOLVED ID	DNA-PK	Gene_or_gene_product
+PMC3174055	102	uniprot:P42345	mTOR	Gene_or_gene_product
+PMC3174055	103	ncbitax:species:ncbi:41568	muM	Species
+PMC3174055	104	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	104	uniprot:UNRESOLVED ID	PIK-75	Gene_or_gene_product
+PMC3174055	105	uniprot:UNRESOLVED ID	TGX-221	Gene_or_gene_product
+PMC3174055	105	uniprot:UNRESOLVED ID	IC87114	Gene_or_gene_product
+PMC3174055	105	uniprot:UNRESOLVED ID	HTRF	Gene_or_gene_product
+PMC3174055	105	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3174055	105	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3174055	106	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC3174055	107	uniprot:UNRESOLVED ID	PI3K isoforms	Gene_or_gene_product
+PMC3174055	107	uniprot:UNRESOLVED ID	HTRF	Gene_or_gene_product
+PMC3174055	110	uniprot:UNRESOLVED ID	PI3K-related kinases	Gene_or_gene_product
+PMC3174055	113	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3174055	113	uniprot:UNRESOLVED ID	PIK-93	Gene_or_gene_product
+PMC3174055	113	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3174055	114	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	114	uniprot:Q9FMJ0	PI4K	Gene_or_gene_product
+PMC3174055	115	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	116	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	118	uniprot:UNRESOLVED ID	PIK-93	Gene_or_gene_product
+PMC3174055	118	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3174055	119	uazid:UA-ORG-521	lobe	Organ
+PMC3174055	119	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	122	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	123	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	128	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	129	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	129	ncbitax:species:ncbi:41568	muM	Species
+PMC3174055	130	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3174055	130	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3174055	130	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	131	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3174055	131	uniprot:UNRESOLVED ID	PIK-93	Gene_or_gene_product
+PMC3174055	131	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3174055	132	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3174055	132	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	133	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3174055	133	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	133	uniprot:UNRESOLVED ID	PIK-93	Gene_or_gene_product
+PMC3174055	134	uazid:UA-ORG-521	lobe	Organ
+PMC3174055	134	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3174055	135	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3174055	136	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	136	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3174055	138	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	138	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3174055	138	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3174055	139	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	139	uniprot:UNRESOLVED ID	SN34552	Gene_or_gene_product
+PMC3174055	141	uniprot:UNRESOLVED ID	SN34452	Gene_or_gene_product
+PMC3174055	141	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	142	uniprot:UNRESOLVED ID	SN34452	Gene_or_gene_product
+PMC3174055	142	uniprot:UNRESOLVED ID	PI4K TypeIIIbeta	Gene_or_gene_product
+PMC3174055	143	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	144	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	144	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3174055	144	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3174055	144	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3174055	145	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3174055	146	uniprot:UNRESOLVED ID	class-I PI3K	Gene_or_gene_product
+PMC3174055	146	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3174055	146	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3174055	147	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	148	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC3174055	149	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3174055	149	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3174055	150	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3174055	150	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3174055	151	uniprot:UNRESOLVED ID	serum	CellType
+PMC3174055	151	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3174055	155	uniprot:UNRESOLVED ID	melanoma	CellType
+PMC3174055	157	uniprot:UNRESOLVED ID	PIK-75	Gene_or_gene_product
+PMC3174055	157	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	157	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3174055	157	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3174055	157	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3174055	157	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC3174055	158	uniprot:UNRESOLVED ID	TGX-221	Gene_or_gene_product
+PMC3174055	158	uniprot:UNRESOLVED ID	IC87114	Gene_or_gene_product
+PMC3174055	159	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3174055	159	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3174055	159	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3174055	160	uniprot:UNRESOLVED ID	serum	CellType
+PMC3174055	160	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3174055	161	uniprot:P20132	SDS	Gene_or_gene_product
+PMC3174055	161	uniprot:UNRESOLVED ID	SK-OV-3	Gene_or_gene_product
+PMC3174055	161	uniprot:UNRESOLVED ID	MCF7	Gene_or_gene_product
+PMC3174055	163	uniprot:UNRESOLVED ID	PIK	Gene_or_gene_product
+PMC3174055	163	uniprot:UNRESOLVED ID	PIK-75	Gene_or_gene_product
+PMC3174055	164	uniprot:UNRESOLVED ID	PIK-75	Gene_or_gene_product
+PMC3174055	164	uniprot:UNRESOLVED ID	TGX-221	Gene_or_gene_product
+PMC3174055	165	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3174055	165	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3174055	165	uniprot:UNRESOLVED ID	TGX-221	Gene_or_gene_product
+PMC3174055	165	uniprot:UNRESOLVED ID	IC87114	Gene_or_gene_product
+PMC3174055	165	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3174055	165	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3174055	166	uniprot:UNRESOLVED ID	PIK-75	Gene_or_gene_product
+PMC3174055	166	uniprot:UNRESOLVED ID	TGX-221	Gene_or_gene_product
+PMC3174055	166	uniprot:UNRESOLVED ID	IC87114	Gene_or_gene_product
+PMC3174055	166	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3174055	166	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3174055	167	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	167	uniprot:UNRESOLVED ID	class-Ia PI3K	Gene_or_gene_product
+PMC3174055	168	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	168	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3174055	169	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	169	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3174055	170	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	170	uniprot:UNRESOLVED ID	PIK-75	Gene_or_gene_product
+PMC3174055	171	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3174055	172	uniprot:UNRESOLVED ID	TGX-221	Gene_or_gene_product
+PMC3174055	172	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3174055	172	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	173	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3174055	174	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3174055	174	uniprot:O43439	p85	Gene_or_gene_product
+PMC3174055	175	uniprot:P78543	PC3	Gene_or_gene_product
+PMC3174055	177	uniprot:Q9UNW9	ANOVA	Gene_or_gene_product
+PMC3174055	178	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	178	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3174055	178	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3174055	178	uniprot:P60709	beta-actin	Gene_or_gene_product
+PMC3174055	180	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3174055	180	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3174055	180	uniprot:UNRESOLVED ID	pan-PI3K	Gene_or_gene_product
+PMC3174055	180	uniprot:UNRESOLVED ID	BEZ-235	Gene_or_gene_product
+PMC3174055	180	uniprot:UNRESOLVED ID	PTEN-null	Gene_or_gene_product
+PMC3174055	180	uniprot:UNRESOLVED ID	HCT-116	Gene_or_gene_product
+PMC3174055	181	uniprot:P23043	CD-1	Gene_or_gene_product
+PMC3174055	181	uniprot:O89094	mice	Species
+PMC3174055	182	uniprot:UNRESOLVED ID	BEZ-235	Gene_or_gene_product
+PMC3174055	184	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3174055	184	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3174055	184	uniprot:P08133	p70	Gene_or_gene_product
+PMC3174055	184	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3174055	184	uniprot:UNRESOLVED ID	extracellular-signal-regulated kinase	Gene_or_gene_product
+PMC3174055	185	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3174055	186	uazid:UA-ORG-725	plasma	Organ
+PMC3174055	186	ncbitax:species:ncbi:41568	muM	Species
+PMC3174055	188	uazid:UA-ORG-725	Plasma	Organ
+PMC3174055	188	uniprot:O89094	mice	Species
+PMC3174055	189	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3174055	190	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3174055	190	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3174055	190	uniprot:P08133	p70	Gene_or_gene_product
+PMC3174055	190	uniprot:UNRESOLVED ID	pS6RbP	Gene_or_gene_product
+PMC3174055	190	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3174055	190	uniprot:O89094	mice	Species
+PMC3174055	191	uniprot:P55957	BID	Gene_or_gene_product
+PMC3174055	192	uniprot:UNRESOLVED ID	SK-OV-3	Gene_or_gene_product
+PMC3174055	192	uniprot:UNRESOLVED ID	pan-PI3K	Gene_or_gene_product
+PMC3174055	192	uniprot:UNRESOLVED ID	BEZ-235	Gene_or_gene_product
+PMC3174055	193	uniprot:P55957	BID	Gene_or_gene_product
+PMC3174055	194	uniprot:P55957	BID	Gene_or_gene_product
+PMC3174055	194	uniprot:O89094	mice	Species
+PMC3174055	197	uniprot:UNRESOLVED ID	BEZ-235	Gene_or_gene_product
+PMC3174055	197	uniprot:UNRESOLVED ID	U87MG	Gene_or_gene_product
+PMC3174055	198	uniprot:UNRESOLVED ID	BEZ-235	Gene_or_gene_product
+PMC3174055	198	uniprot:O89094	mice	Species
+PMC3174055	200	uniprot:P55957	BID	Gene_or_gene_product
+PMC3174055	200	uniprot:UNRESOLVED ID	BEZ-235	Gene_or_gene_product
+PMC3174055	201	uniprot:UNRESOLVED ID	BEZ-235	Gene_or_gene_product
+PMC3174055	202	uniprot:Q9UNW9	ANOVA	Gene_or_gene_product
+PMC3174055	202	uniprot:P55957	BID	Gene_or_gene_product
+PMC3174055	203	uniprot:O89094	mice	Species
+PMC3174055	203	uniprot:UNRESOLVED ID	BEZ-235	Gene_or_gene_product
+PMC3174055	204	uniprot:O89094	mice	Species
+PMC3174055	205	uniprot:UNRESOLVED ID	BEZ-235	Gene_or_gene_product
+PMC3174055	205	uniprot:UNRESOLVED ID	SK-OV-3	Gene_or_gene_product
+PMC3174055	205	uniprot:UNRESOLVED ID	HCT-116	Gene_or_gene_product
+PMC3174055	205	uniprot:UNRESOLVED ID	U87MG	Gene_or_gene_product
+PMC3174055	206	uniprot:Q9BVP2	NS	Gene_or_gene_product
+PMC3174055	207	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	208	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	208	uniprot:UNRESOLVED ID	PI4K IIIbeta	Gene_or_gene_product
+PMC3174055	210	uniprot:UNRESOLVED ID	SN34452	Gene_or_gene_product
+PMC3174055	210	uniprot:UNRESOLVED ID	PI4K IIIbeta	Gene_or_gene_product
+PMC3174055	211	uniprot:UNRESOLVED ID	PIK-93	Gene_or_gene_product
+PMC3174055	211	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	211	uniprot:UNRESOLVED ID	PI4K IIIbeta	Gene_or_gene_product
+PMC3174055	212	uniprot:UNRESOLVED ID	PIK-75	Gene_or_gene_product
+PMC3174055	213	uniprot:UNRESOLVED ID	PIK-75	Gene_or_gene_product
+PMC3174055	213	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	213	uniprot:UNRESOLVED ID	i.e. PI4K IIIbeta	Gene_or_gene_product
+PMC3174055	213	uniprot:O00750	PI3K-C2beta	Gene_or_gene_product
+PMC3174055	214	uniprot:UNRESOLVED ID	TGX-221	Gene_or_gene_product
+PMC3174055	214	uniprot:UNRESOLVED ID	IC87114	Gene_or_gene_product
+PMC3174055	214	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3174055	214	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3174055	215	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3174055	215	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3174055	215	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	216	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	216	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3174055	216	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3174055	216	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3174055	217	uniprot:UNRESOLVED ID	PIK-75	Gene_or_gene_product
+PMC3174055	217	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	218	uniprot:UNRESOLVED ID	TGX-221	Gene_or_gene_product
+PMC3174055	218	uniprot:UNRESOLVED ID	IC87114	Gene_or_gene_product
+PMC3174055	218	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3174055	218	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3174055	218	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3174055	218	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3174055	219	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3174055	219	uniprot:UNRESOLVED ID	TGX-221	Gene_or_gene_product
+PMC3174055	220	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3174055	221	uniprot:P42338	PIK3CB	Gene_or_gene_product
+PMC3174055	221	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3174055	222	uniprot:P42338	PIK3CB	Gene_or_gene_product
+PMC3174055	222	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3174055	222	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3174055	223	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3174055	223	uniprot:UNRESOLVED ID	TGX-221	Gene_or_gene_product
+PMC3174055	223	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3174055	223	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3174055	224	uniprot:UNRESOLVED ID	TGX-221	Gene_or_gene_product
+PMC3174055	224	uniprot:UNRESOLVED ID	PI3K isoforms	Gene_or_gene_product
+PMC3174055	226	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3174055	226	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3174055	226	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3174055	226	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC3174055	227	uniprot:UNRESOLVED ID	TGX-221	Gene_or_gene_product
+PMC3174055	227	uniprot:UNRESOLVED ID	IC87114	Gene_or_gene_product
+PMC3174055	227	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3174055	227	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3174055	228	uniprot:UNRESOLVED ID	class-Ia PI3K isoforms	Gene_or_gene_product
+PMC3174055	228	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3174055	228	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3174055	229	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3174055	229	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3174055	229	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	230	uniprot:UNRESOLVED ID	PIK-75	Gene_or_gene_product
+PMC3174055	231	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	232	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC3174055	232	uniprot:UNRESOLVED ID	PIK-75	Gene_or_gene_product
+PMC3174055	232	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	234	uniprot:UNRESOLVED ID	PIK-75	Gene_or_gene_product
+PMC3174055	235	uniprot:P27986	PIK3R1	Gene_or_gene_product
+PMC3174055	235	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	236	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3174055	237	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3174055	237	uniprot:UNRESOLVED ID	medulloblastoma	CellType
+PMC3174055	237	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	237	uniprot:UNRESOLVED ID	PIK-75	Gene_or_gene_product
+PMC3174055	238	uniprot:UNRESOLVED ID	PIK-75	Gene_or_gene_product
+PMC3174055	238	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3174055	238	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	239	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3174055	239	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	240	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	241	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	242	uniprot:UNRESOLVED ID	class-Ia PI3K isoforms	Gene_or_gene_product
+PMC3174055	242	uniprot:UNRESOLVED ID	TGX-221	Gene_or_gene_product
+PMC3174055	242	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3174055	242	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	245	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	246	uniprot:O43439	p85	Gene_or_gene_product
+PMC3174055	247	uazid:UA-ORG-381	hand	Organ
+PMC3174055	247	uniprot:O43439	p85	Gene_or_gene_product
+PMC3174055	249	uniprot:UNRESOLVED ID	HCT-116	Gene_or_gene_product
+PMC3174055	249	uniprot:UNRESOLVED ID	SK-OV-3	Gene_or_gene_product
+PMC3174055	249	uniprot:UNRESOLVED ID	pan-PI3K	Gene_or_gene_product
+PMC3174055	249	uniprot:P42345	mTOR	Gene_or_gene_product
+PMC3174055	249	uniprot:UNRESOLVED ID	BEZ-235	Gene_or_gene_product
+PMC3174055	249	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	250	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3174055	252	uniprot:UNRESOLVED ID	AUTHOR CONTRIBUTION	Gene_or_gene_product
+PMC3174055	253	uniprot:Q9NR09	Bruce	Gene_or_gene_product
