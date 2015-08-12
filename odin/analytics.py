@@ -67,7 +67,22 @@ def jaccard_overlap_grid(dicts):
 
     return pd.DataFrame(rows, index=keys)
 
-def feature_document_frequency(design_matrix, vocabulary):
+def load_kb_files(*files):
+    ''' Builds a dictionaty out of the files provided '''
+    ret = defaultdict(str)
+
+    for path in files:
+        with open(path) as f:
+            for line in f:
+                val, key = line[:-1].split('\t')
+                ret[key] = val
+
+    return ret
+
+def feature_document_frequency(design_matrix, vocabulary, descriptions=None):
+    ''' Lists the features/context by frequency in the document collection
+        if a dict-like descriptions object is available, it's used to populate
+        a human-friendly name for each element '''
 
     counts = design_matrix.sum(axis=0)
     frame = pd.DataFrame(zip(counts, vocabulary), columns=['count', 'id'])
@@ -75,8 +90,13 @@ def feature_document_frequency(design_matrix, vocabulary):
     frame = frame[frame.id.str.startswith('uniprot') == False]
     frame = frame[frame.id.str.startswith('Context') == False]
     frame = frame[frame.id.str.startswith('interpro') == False]
-    frame.set_index('id', inplace=True)
+
     frame.sort('count', ascending=False, inplace=True)
+
+    if descriptions is not None:
+        frame['desc'] = frame.id.map(lambda x: descriptions[x.replace('uazid:', '').replace('ncbitax:', '')])
+
+    frame.set_index('id', inplace=True)
 
     return frame
 
@@ -167,6 +187,9 @@ if __name__ == '__main__':
         for i in xrange(bits.shape[0]-1, -1, -1):
             ret += bits[bits.shape[0]-1-i]*(long(2**i))
         return ret
+
+    # Load the knowledge bases
+    kb = load_kb_files(*glob.glob("kb/*.tsv"))
 
     # Sort X documents by decimal value value
     sorted_rows = [x[0] for x in sorted(enumerate([bits2decimal(X[i, :]) for i in xrange(X.shape[0])]), key=lambda x: x[1], reverse=True)] #sort(X)
