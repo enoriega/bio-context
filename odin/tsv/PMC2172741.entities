@@ -1,0 +1,841 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2172741	0	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	0	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	0	uniprot:UNRESOLVED ID	p101 phosphoinositide 3-kinase gamma	Gene_or_gene_product
+PMC2172741	1	uniprot:UNRESOLVED ID	Receptor-regulated class I phosphoinositide 3-kinases	Gene_or_gene_product
+PMC2172741	1	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2172741	1	uniprot:P09131	P3	Gene_or_gene_product
+PMC2172741	2	uniprot:P09131	P3	Gene_or_gene_product
+PMC2172741	2	uniprot:P08567	pleckstrin	Gene_or_gene_product
+PMC2172741	3	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	3	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	3	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	3	uniprot:UNRESOLVED ID	G protein-coupled receptors	Gene_or_gene_product
+PMC2172741	4	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	4	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	5	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	5	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	5	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	5	uniprot:UNRESOLVED ID	p101 subunit	Gene_or_gene_product
+PMC2172741	6	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	6	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	6	uniprot:P09131	P3	Gene_or_gene_product
+PMC2172741	7	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	7	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	7	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	8	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	8	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	8	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	9	uniprot:UNRESOLVED ID	Phosphoinositide 3-kinases	Gene_or_gene_product
+PMC2172741	9	uniprot:UNRESOLVED ID	PI3Ks	Gene_or_gene_product
+PMC2172741	10	uniprot:P09131	P3	Gene_or_gene_product
+PMC2172741	12	uniprot:UNRESOLVED ID	PtdIns-3-P	Gene_or_gene_product
+PMC2172741	12	uniprot:P08567	pleckstrin	Gene_or_gene_product
+PMC2172741	12	uniprot:P09131	P3	Gene_or_gene_product
+PMC2172741	13	uniprot:P09131	P3	Gene_or_gene_product
+PMC2172741	13	uniprot:UNRESOLVED ID	class I PI3Ks	Gene_or_gene_product
+PMC2172741	14	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2172741	14	uniprot:UNRESOLVED ID	G protein-coupled receptors	Gene_or_gene_product
+PMC2172741	14	uniprot:F4IEM5	GPCR	Gene_or_gene_product
+PMC2172741	15	uniprot:P14907	p110	Gene_or_gene_product
+PMC2172741	15	uniprot:O43439	p85-	Gene_or_gene_product
+PMC2172741	15	uniprot:UNRESOLVED ID	p101-type	Gene_or_gene_product
+PMC2172741	16	uniprot:O43439	p85	Gene_or_gene_product
+PMC2172741	16	uniprot:UNRESOLVED ID	class IB member	Gene_or_gene_product
+PMC2172741	16	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	16	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	17	uniprot:O43439	p85	Gene_or_gene_product
+PMC2172741	18	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2172741	19	uniprot:P14907	p110	Gene_or_gene_product
+PMC2172741	20	uniprot:O43439	p85	Gene_or_gene_product
+PMC2172741	20	uniprot:P14907	p110	Gene_or_gene_product
+PMC2172741	21	uniprot:O43439	p85	Gene_or_gene_product
+PMC2172741	21	uniprot:P14907	p110	Gene_or_gene_product
+PMC2172741	21	uniprot:UNRESOLVED ID	p110 mutants	Gene_or_gene_product
+PMC2172741	22	uniprot:UNRESOLVED ID	class IA PI3Ks	Gene_or_gene_product
+PMC2172741	22	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	23	uniprot:UNRESOLVED ID	GPCRs	Gene_or_gene_product
+PMC2172741	23	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	23	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	23	interpro:IPR001019	Galpha	Gene_or_gene_product
+PMC2172741	24	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	24	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	25	uniprot:UNRESOLVED ID	p101 subunit	Gene_or_gene_product
+PMC2172741	25	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	25	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	25	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	25	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	26	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	26	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	27	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	27	uniprot:P14907	p110	Gene_or_gene_product
+PMC2172741	27	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC2172741	27	uniprot:O43439	p85	Gene_or_gene_product
+PMC2172741	28	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	28	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	28	uniprot:P03643	G protein	Gene_or_gene_product
+PMC2172741	29	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	29	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	29	uniprot:UNRESOLVED ID	PtdIns-3-P	Gene_or_gene_product
+PMC2172741	29	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	29	uniprot:P09131	P3	Gene_or_gene_product
+PMC2172741	30	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	30	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	30	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	31	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	31	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	31	uniprot:P03643	G protein	Gene_or_gene_product
+PMC2172741	32	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	32	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	32	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	33	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	34	uniprot:UNRESOLVED ID	PI3K fusion proteins	Gene_or_gene_product
+PMC2172741	35	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	35	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	35	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	35	uniprot:P21578	YFP	Gene_or_gene_product
+PMC2172741	35	uniprot:P27918	CFP	Gene_or_gene_product
+PMC2172741	36	ncbitax:species:ncbi:9606	human	Species
+PMC2172741	36	uazid:UA-ORG-461	kidney	Organ
+PMC2172741	36	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	37	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	37	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	37	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	38	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	39	uniprot:P21578	YFP	Gene_or_gene_product
+PMC2172741	39	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	39	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	39	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	40	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	41	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	42	uniprot:P21578	YFP	Gene_or_gene_product
+PMC2172741	42	uniprot:P27918	CFP	Gene_or_gene_product
+PMC2172741	42	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	42	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	43	uniprot:UNRESOLVED ID	p110gamma-CAAX	Gene_or_gene_product
+PMC2172741	44	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	44	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	45	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	46	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	47	uniprot:P21912	IP	Gene_or_gene_product
+PMC2172741	48	uniprot:UNRESOLVED ID	IB	Gene_or_gene_product
+PMC2172741	50	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2172741	50	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	50	uniprot:UNRESOLVED ID	PtdIns-4	Gene_or_gene_product
+PMC2172741	51	uniprot:P09131	P3	Gene_or_gene_product
+PMC2172741	52	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	52	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	53	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	54	uniprot:P21578	YFP	Gene_or_gene_product
+PMC2172741	54	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	54	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	55	uniprot:P21578	YFP	Gene_or_gene_product
+PMC2172741	55	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	55	uniprot:UNRESOLVED ID	wild-type p101	Gene_or_gene_product
+PMC2172741	56	uniprot:P21578	YFP	Gene_or_gene_product
+PMC2172741	56	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	56	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	57	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	57	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	57	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	58	uniprot:P21578	YFP	Gene_or_gene_product
+PMC2172741	58	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	59	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	59	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	59	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	60	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	63	uniprot:UNRESOLVED ID	scale	CellType
+PMC2172741	64	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	64	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	65	uniprot:P21578	YFP	Gene_or_gene_product
+PMC2172741	66	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	66	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	67	uniprot:UNRESOLVED ID	pcDNA3	Gene_or_gene_product
+PMC2172741	68	uniprot:UNRESOLVED ID	anti-GFP antibody	Gene_or_gene_product
+PMC2172741	69	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	69	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	69	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	69	uniprot:UNRESOLVED ID	anti-GFP antibody	Gene_or_gene_product
+PMC2172741	70	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	70	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	71	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	71	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	72	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	72	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	73	uniprot:P21578	YFP	Gene_or_gene_product
+PMC2172741	73	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	73	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	74	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	75	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	76	uniprot:P27918	CFP	Gene_or_gene_product
+PMC2172741	76	uniprot:P21578	YFP	Gene_or_gene_product
+PMC2172741	77	uniprot:P27918	CFP-	Gene_or_gene_product
+PMC2172741	77	uniprot:P21578	YFP	Gene_or_gene_product
+PMC2172741	77	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	77	uniprot:P27918	CFP	Gene_or_gene_product
+PMC2172741	79	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	79	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	80	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	80	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	80	uniprot:UNRESOLVED ID	NH2-	Gene_or_gene_product
+PMC2172741	80	uniprot:P27918	CFP	Gene_or_gene_product
+PMC2172741	80	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	81	uniprot:UNRESOLVED ID	FRET	Gene_or_gene_product
+PMC2172741	82	uniprot:P27918	CFP	Gene_or_gene_product
+PMC2172741	82	uniprot:P21578	YFP	Gene_or_gene_product
+PMC2172741	82	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	84	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	86	uniprot:UNRESOLVED ID	anti-GFP antibody	Gene_or_gene_product
+PMC2172741	87	uniprot:UNRESOLVED ID	FRET	Gene_or_gene_product
+PMC2172741	87	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	87	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	89	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	89	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	90	uniprot:UNRESOLVED ID	YFP-p110gamma	Gene_or_gene_product
+PMC2172741	90	uniprot:UNRESOLVED ID	CFP-p101	Gene_or_gene_product
+PMC2172741	91	uniprot:UNRESOLVED ID	p110gamma-YFP	Gene_or_gene_product
+PMC2172741	91	uniprot:UNRESOLVED ID	CFP-p101	Gene_or_gene_product
+PMC2172741	92	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	92	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	94	uniprot:UNRESOLVED ID	Gbetagamma dimers	Gene_or_gene_product
+PMC2172741	94	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	94	uniprot:UNRESOLVED ID	p101 subunit	Gene_or_gene_product
+PMC2172741	95	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2172741	96	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	96	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	97	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	97	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	98	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	98	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	98	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	99	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	99	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	100	uniprot:UNRESOLVED ID	Gbetagamma dimers	Gene_or_gene_product
+PMC2172741	100	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	100	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	101	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	101	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	102	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	102	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	102	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	102	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	102	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	104	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	104	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	105	uniprot:UNRESOLVED ID	YFP-p101	Gene_or_gene_product
+PMC2172741	105	uniprot:O45040	Gbeta1	Gene_or_gene_product
+PMC2172741	105	uniprot:UNRESOLVED ID	Ggamma2	Gene_or_gene_product
+PMC2172741	105	uniprot:UNRESOLVED ID	Gbeta1gamma2	Gene_or_gene_product
+PMC2172741	105	uniprot:UNRESOLVED ID	Gbetagamma- scavenging Galphai2	Gene_or_gene_product
+PMC2172741	106	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	106	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	108	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	109	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	110	uniprot:P27918	CFP	Gene_or_gene_product
+PMC2172741	110	uniprot:O45040	Gbeta1	Gene_or_gene_product
+PMC2172741	110	uniprot:UNRESOLVED ID	Ggamma2	Gene_or_gene_product
+PMC2172741	112	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	112	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	112	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	115	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	115	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	115	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	116	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	116	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	116	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	116	uazid:UA-ORG-725	plasma	Organ
+PMC2172741	116	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	118	uniprot:P27918	CFP	Gene_or_gene_product
+PMC2172741	118	uniprot:O45040	Gbeta1	Gene_or_gene_product
+PMC2172741	118	uniprot:UNRESOLVED ID	Ggamma2	Gene_or_gene_product
+PMC2172741	118	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	118	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	119	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	119	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	119	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	120	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	120	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	121	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2172741	121	uniprot:UNRESOLVED ID	YFP-p110gamma-K833R mutant	Gene_or_gene_product
+PMC2172741	122	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	122	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	123	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	123	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	124	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2172741	124	uniprot:P31749	protein kinase B	Gene_or_gene_product
+PMC2172741	124	uniprot:P31749	PKB	Gene_or_gene_product
+PMC2172741	124	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2172741	125	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	125	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	125	uniprot:UNRESOLVED ID	Gi-coupled formyl-methionyl-leucyl-phenylalanine	Gene_or_gene_product
+PMC2172741	125	uniprot:UNRESOLVED ID	fMLP	Gene_or_gene_product
+PMC2172741	126	uniprot:UNRESOLVED ID	fMLP	Gene_or_gene_product
+PMC2172741	126	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2172741	126	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	127	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2172741	127	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	127	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	128	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	128	uniprot:F4IEM5	GPCR	Gene_or_gene_product
+PMC2172741	128	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	129	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	129	uniprot:Q9QJ51	G protein-coupled receptor	Gene_or_gene_product
+PMC2172741	130	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2172741	131	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2172741	132	uniprot:UNRESOLVED ID	anti-ERK antibody	Gene_or_gene_product
+PMC2172741	133	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2172741	133	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	134	uniprot:UNRESOLVED ID	fMLP	Gene_or_gene_product
+PMC2172741	134	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2172741	134	uniprot:P21462	fMLP receptor	Gene_or_gene_product
+PMC2172741	134	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	134	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	135	uniprot:P09131	P3	Gene_or_gene_product
+PMC2172741	135	uniprot:O43739	GRP1	Gene_or_gene_product
+PMC2172741	136	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	136	uniprot:O43739	GRP1	Gene_or_gene_product
+PMC2172741	136	uniprot:UNRESOLVED ID	GFP-GRP1PH	Gene_or_gene_product
+PMC2172741	136	ncbitax:species:ncbi:9606	human	Species
+PMC2172741	136	uniprot:P21462	fMLP receptor	Gene_or_gene_product
+PMC2172741	136	uniprot:UNRESOLVED ID	fMLP-R	Gene_or_gene_product
+PMC2172741	136	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	136	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	137	uniprot:UNRESOLVED ID	GFP-GRP1PH	Gene_or_gene_product
+PMC2172741	137	ncbitax:species:ncbi:41568	muM	Species
+PMC2172741	137	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2172741	140	uniprot:P09131	P3	Gene_or_gene_product
+PMC2172741	140	uniprot:Q06187	Btk	Gene_or_gene_product
+PMC2172741	141	uniprot:UNRESOLVED ID	GFP-GRP1PH	Gene_or_gene_product
+PMC2172741	141	uniprot:Q06187	Btk	Gene_or_gene_product
+PMC2172741	141	uniprot:P27918	CFP	Gene_or_gene_product
+PMC2172741	141	uniprot:UNRESOLVED ID	BtkPH-CFP	Gene_or_gene_product
+PMC2172741	141	uniprot:P09131	P3	Gene_or_gene_product
+PMC2172741	142	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	142	uniprot:P21462	fMLP receptor	Gene_or_gene_product
+PMC2172741	142	uniprot:UNRESOLVED ID	GFP-GRP1PH	Gene_or_gene_product
+PMC2172741	143	uniprot:UNRESOLVED ID	phosphoinositides-1	Gene_or_gene_product
+PMC2172741	143	uniprot:O43739	GRP1	Gene_or_gene_product
+PMC2172741	143	uniprot:UNRESOLVED ID	PI3K-activated exchange factor	Gene_or_gene_product
+PMC2172741	143	uniprot:P09131	P3	Gene_or_gene_product
+PMC2172741	144	uniprot:UNRESOLVED ID	fMLP	Gene_or_gene_product
+PMC2172741	144	uniprot:UNRESOLVED ID	GFP-GRP1PH	Gene_or_gene_product
+PMC2172741	144	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	144	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	144	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2172741	144	uniprot:P09131	P3	Gene_or_gene_product
+PMC2172741	144	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2172741	144	uniprot:UNRESOLVED ID	class IA PI3K	Gene_or_gene_product
+PMC2172741	145	uniprot:P21462	fMLP receptor	Gene_or_gene_product
+PMC2172741	145	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	145	uniprot:UNRESOLVED ID	fMLP	Gene_or_gene_product
+PMC2172741	145	uniprot:UNRESOLVED ID	GFP-GRP1PH	Gene_or_gene_product
+PMC2172741	146	uniprot:UNRESOLVED ID	pertussis toxin	Gene_or_gene_product
+PMC2172741	147	uniprot:UNRESOLVED ID	GFP-GRP1PH	Gene_or_gene_product
+PMC2172741	147	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	147	uniprot:P21462	fMLP receptor	Gene_or_gene_product
+PMC2172741	148	uniprot:P21462	fMLP receptor	Gene_or_gene_product
+PMC2172741	149	uniprot:P09131	P3	Gene_or_gene_product
+PMC2172741	149	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2172741	150	uniprot:UNRESOLVED ID	GFP-GRP1PH	Gene_or_gene_product
+PMC2172741	150	uniprot:UNRESOLVED ID	p101 for receptor	Gene_or_gene_product
+PMC2172741	150	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	151	uniprot:UNRESOLVED ID	GFP-GRP1PH	Gene_or_gene_product
+PMC2172741	151	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	151	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	152	uniprot:UNRESOLVED ID	p101 subunit	Gene_or_gene_product
+PMC2172741	152	uniprot:F4IEM5	GPCR	Gene_or_gene_product
+PMC2172741	152	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	153	uniprot:UNRESOLVED ID	GFP-GRP1PH	Gene_or_gene_product
+PMC2172741	153	uniprot:UNRESOLVED ID	BtkPH	Gene_or_gene_product
+PMC2172741	153	uniprot:P09131	P3	Gene_or_gene_product
+PMC2172741	154	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	155	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	155	uniprot:UNRESOLVED ID	BtkPH-CFP	Gene_or_gene_product
+PMC2172741	156	uniprot:UNRESOLVED ID	GFP-GRP1PH	Gene_or_gene_product
+PMC2172741	156	uniprot:UNRESOLVED ID	BtkPH-CFP	Gene_or_gene_product
+PMC2172741	156	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	157	uniprot:UNRESOLVED ID	p110gamma-CAAX	Gene_or_gene_product
+PMC2172741	158	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	158	uniprot:F4IEM5	GPCR	Gene_or_gene_product
+PMC2172741	158	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	158	uniprot:O43439	p85	Gene_or_gene_product
+PMC2172741	158	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2172741	158	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2172741	159	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	159	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	159	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	161	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	162	uniprot:UNRESOLVED ID	p110gamma-CAAX	Gene_or_gene_product
+PMC2172741	162	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	162	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	163	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	163	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	163	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	163	uniprot:UNRESOLVED ID	p101 dimers	Gene_or_gene_product
+PMC2172741	164	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	164	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	165	uniprot:UNRESOLVED ID	p110gamma-CAAX	Gene_or_gene_product
+PMC2172741	166	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	168	uniprot:UNRESOLVED ID	scale	CellType
+PMC2172741	169	uniprot:UNRESOLVED ID	YFP-p110gamma-CAAX	Gene_or_gene_product
+PMC2172741	169	uniprot:UNRESOLVED ID	YFP-p101	Gene_or_gene_product
+PMC2172741	169	uniprot:UNRESOLVED ID	p110gamma-CAAX	Gene_or_gene_product
+PMC2172741	170	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	171	uniprot:UNRESOLVED ID	GFP-GRP1PH	Gene_or_gene_product
+PMC2172741	171	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	171	uniprot:UNRESOLVED ID	p110gamma-CAAX	Gene_or_gene_product
+PMC2172741	171	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	171	uniprot:P21462	fMLP receptor	Gene_or_gene_product
+PMC2172741	172	uniprot:UNRESOLVED ID	p110gamma-CAAX	Gene_or_gene_product
+PMC2172741	172	uniprot:P09131	P3	Gene_or_gene_product
+PMC2172741	173	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	174	uniprot:UNRESOLVED ID	fMLP	Gene_or_gene_product
+PMC2172741	174	uniprot:UNRESOLVED ID	GFP-GRP1PH	Gene_or_gene_product
+PMC2172741	175	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	175	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	176	uniprot:UNRESOLVED ID	fMLP	Gene_or_gene_product
+PMC2172741	176	uniprot:UNRESOLVED ID	p110gamma-CAAX	Gene_or_gene_product
+PMC2172741	176	uniprot:UNRESOLVED ID	Gi proteins	Gene_or_gene_product
+PMC2172741	177	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	177	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	177	uniprot:UNRESOLVED ID	fMLP	Gene_or_gene_product
+PMC2172741	177	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	177	uniprot:UNRESOLVED ID	p110gamma-CAAX	Gene_or_gene_product
+PMC2172741	178	uniprot:UNRESOLVED ID	fMLP	Gene_or_gene_product
+PMC2172741	178	uniprot:UNRESOLVED ID	p110gamma-CAAX	Gene_or_gene_product
+PMC2172741	178	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2172741	178	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2172741	179	uniprot:UNRESOLVED ID	fMLP	Gene_or_gene_product
+PMC2172741	179	uniprot:UNRESOLVED ID	GFP-GRP1PH	Gene_or_gene_product
+PMC2172741	179	uniprot:UNRESOLVED ID	fMLP receptors	Gene_or_gene_product
+PMC2172741	180	uniprot:UNRESOLVED ID	p110gamma-CAAX	Gene_or_gene_product
+PMC2172741	181	uniprot:UNRESOLVED ID	GFP-GRP1PH	Gene_or_gene_product
+PMC2172741	182	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	182	uniprot:UNRESOLVED ID	GFP-GRP1PH	Gene_or_gene_product
+PMC2172741	182	uniprot:UNRESOLVED ID	p110gamma-CAAX	Gene_or_gene_product
+PMC2172741	182	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	182	uniprot:UNRESOLVED ID	fMLP-R	Gene_or_gene_product
+PMC2172741	183	uniprot:P09131	P3	Gene_or_gene_product
+PMC2172741	184	uniprot:UNRESOLVED ID	scale	CellType
+PMC2172741	185	uniprot:UNRESOLVED ID	GFP-GRP1PH	Gene_or_gene_product
+PMC2172741	186	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2172741	186	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2172741	186	uniprot:Q9NZJ5	p-ERK	Gene_or_gene_product
+PMC2172741	188	uniprot:UNRESOLVED ID	BtkPH-CFP	Gene_or_gene_product
+PMC2172741	189	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2172741	191	uniprot:UNRESOLVED ID	p110gamma-CAAX	Gene_or_gene_product
+PMC2172741	191	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	192	uniprot:UNRESOLVED ID	GFP-GRP1PH	Gene_or_gene_product
+PMC2172741	192	uniprot:P09131	P3	Gene_or_gene_product
+PMC2172741	192	uniprot:UNRESOLVED ID	p110gamma-CAAX	Gene_or_gene_product
+PMC2172741	192	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	193	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2172741	193	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	193	uniprot:F4IEM5	GPCR	Gene_or_gene_product
+PMC2172741	193	uniprot:UNRESOLVED ID	p110gamma-CAAX	Gene_or_gene_product
+PMC2172741	194	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	195	uniprot:UNRESOLVED ID	Vascular smooth muscle	CellType
+PMC2172741	195	uniprot:P21462	fMLP receptor	Gene_or_gene_product
+PMC2172741	195	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	195	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	195	uniprot:UNRESOLVED ID	p110gamma-CAAX	Gene_or_gene_product
+PMC2172741	195	uniprot:UNRESOLVED ID	GFP-GRP1PH	Gene_or_gene_product
+PMC2172741	195	uniprot:P09131	P3	Gene_or_gene_product
+PMC2172741	196	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	196	uniprot:F4IEM5	GPCR	Gene_or_gene_product
+PMC2172741	196	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	196	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	197	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	197	uniprot:UNRESOLVED ID	GFP-GRP1PH	Gene_or_gene_product
+PMC2172741	197	uniprot:UNRESOLVED ID	vascular smooth muscle	CellType
+PMC2172741	198	uniprot:UNRESOLVED ID	GFP-GRP1PH	Gene_or_gene_product
+PMC2172741	198	uniprot:UNRESOLVED ID	fMLP-R	Gene_or_gene_product
+PMC2172741	198	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	198	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	198	uniprot:UNRESOLVED ID	p110gamma-CAAX	Gene_or_gene_product
+PMC2172741	199	uniprot:UNRESOLVED ID	GFP-GRP1PH	Gene_or_gene_product
+PMC2172741	199	ncbitax:species:ncbi:41568	muM	Species
+PMC2172741	199	uniprot:UNRESOLVED ID	PDGF-BB	Gene_or_gene_product
+PMC2172741	200	uniprot:UNRESOLVED ID	scale	CellType
+PMC2172741	201	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	201	uniprot:UNRESOLVED ID	leukocyte	CellType
+PMC2172741	202	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	202	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	203	uniprot:UNRESOLVED ID	p110gamma-GFP construct	Gene_or_gene_product
+PMC2172741	203	uniprot:UNRESOLVED ID	G proteins	Gene_or_gene_product
+PMC2172741	204	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	204	uniprot:UNRESOLVED ID	Gbeta	Gene_or_gene_product
+PMC2172741	204	uniprot:UNRESOLVED ID	Ggamma	Gene_or_gene_product
+PMC2172741	205	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	206	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	207	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	208	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	208	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	209	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	209	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	210	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	210	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	211	uniprot:UNRESOLVED ID	NH2	Gene_or_gene_product
+PMC2172741	211	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	211	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	212	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	213	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	213	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	214	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	214	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	214	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	215	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	215	uniprot:F4IEM5	GPCR	Gene_or_gene_product
+PMC2172741	215	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	216	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	216	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	217	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	218	uniprot:P21462	fMLP receptor	Gene_or_gene_product
+PMC2172741	218	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	218	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	218	uniprot:P09131	P3	Gene_or_gene_product
+PMC2172741	218	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2172741	219	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	219	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	219	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	219	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	220	uniprot:P42338	PI3Kbeta	Gene_or_gene_product
+PMC2172741	220	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	220	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2172741	220	uniprot:UNRESOLVED ID	GPCRs	Gene_or_gene_product
+PMC2172741	220	uniprot:UNRESOLVED ID	RTKs	Gene_or_gene_product
+PMC2172741	221	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	221	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	222	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	222	uniprot:UNRESOLVED ID	p110gamma-CAAX	Gene_or_gene_product
+PMC2172741	223	uniprot:UNRESOLVED ID	p110gamma-CAAX	Gene_or_gene_product
+PMC2172741	223	uniprot:P09131	P3	Gene_or_gene_product
+PMC2172741	223	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	224	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	225	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	225	uniprot:UNRESOLVED ID	p110gamma-CAAX	Gene_or_gene_product
+PMC2172741	225	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	225	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	226	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2172741	226	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	226	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	226	uniprot:UNRESOLVED ID	p110gamma-CAAX	Gene_or_gene_product
+PMC2172741	227	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	227	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	227	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	228	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	228	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	229	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	229	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	230	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	230	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	230	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	231	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	232	uniprot:P21462	fMLP receptor	Gene_or_gene_product
+PMC2172741	232	uniprot:UNRESOLVED ID	Gi proteins	Gene_or_gene_product
+PMC2172741	233	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	233	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	233	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	234	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	234	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	236	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	236	uazid:UA-ORG-521	lobes	Organ
+PMC2172741	238	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	238	uniprot:UNRESOLVED ID	Gi proteins	Gene_or_gene_product
+PMC2172741	239	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	239	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	239	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	240	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	240	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	240	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	241	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	242	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	242	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	243	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	245	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	245	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	245	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	246	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	247	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	247	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	247	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	248	uniprot:UNRESOLVED ID	Gbetagamma-PI3Kgamma	Gene_or_gene_product
+PMC2172741	248	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	248	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	248	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	249	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	249	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	250	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	250	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	251	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	251	uniprot:UNRESOLVED ID	PtdIns-3,4,5	Gene_or_gene_product
+PMC2172741	251	uniprot:P09131	P3	Gene_or_gene_product
+PMC2172741	252	uniprot:P09131	P3	Gene_or_gene_product
+PMC2172741	252	uniprot:O43739	GRP1	Gene_or_gene_product
+PMC2172741	252	uniprot:Q06187	Btk	Gene_or_gene_product
+PMC2172741	253	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	253	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	254	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	255	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	255	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	256	uniprot:UNRESOLVED ID	p110 subunit	Gene_or_gene_product
+PMC2172741	256	uniprot:UNRESOLVED ID	class IA PI3Ks	Gene_or_gene_product
+PMC2172741	256	uniprot:O43439	p85	Gene_or_gene_product
+PMC2172741	257	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC2172741	258	uniprot:O43439	p85	Gene_or_gene_product
+PMC2172741	258	uniprot:P14907	p110	Gene_or_gene_product
+PMC2172741	259	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	259	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	260	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	260	uniprot:F4IEM5	GPCR	Gene_or_gene_product
+PMC2172741	261	uniprot:UNRESOLVED ID	p101 subunit	Gene_or_gene_product
+PMC2172741	261	uniprot:P03643	G protein	Gene_or_gene_product
+PMC2172741	261	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	262	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	263	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	264	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	264	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	265	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	265	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	266	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	266	uniprot:UNRESOLVED ID	class I PI3Ks	Gene_or_gene_product
+PMC2172741	266	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2172741	267	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	267	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	268	uniprot:UNRESOLVED ID	p101 subunit	Gene_or_gene_product
+PMC2172741	268	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	269	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC2172741	269	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	270	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	270	uniprot:P08603	HF	Gene_or_gene_product
+PMC2172741	270	uniprot:UNRESOLVED ID	pcDNA3.1	Gene_or_gene_product
+PMC2172741	270	uniprot:UNRESOLVED ID	V5-His-TOPO	Gene_or_gene_product
+PMC2172741	272	uniprot:UNRESOLVED ID	pEYFP-C1	Gene_or_gene_product
+PMC2172741	272	uniprot:UNRESOLVED ID	pECFP-C1	Gene_or_gene_product
+PMC2172741	272	uniprot:UNRESOLVED ID	CLONTECH	Gene_or_gene_product
+PMC2172741	272	uniprot:UNRESOLVED ID	pcDNA3-YFP	Gene_or_gene_product
+PMC2172741	272	uniprot:UNRESOLVED ID	pcDNA3-CFP	Gene_or_gene_product
+PMC2172741	274	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	274	ncbitax:species:ncbi:9606	human	Species
+PMC2172741	274	uniprot:Q2F7J2	GAG	Species
+PMC2172741	274	uniprot:UNRESOLVED ID	AAC TAT	Gene_or_gene_product
+PMC2172741	274	uniprot:Q9H9B4	TCC	Gene_or_gene_product
+PMC2172741	274	uniprot:UNRESOLVED ID	CAC AAT	Gene_or_gene_product
+PMC2172741	274	uniprot:P17735	TAT	Gene_or_gene_product
+PMC2172741	274	uniprot:UNRESOLVED ID	pcDNA3	Gene_or_gene_product
+PMC2172741	274	uniprot:UNRESOLVED ID	KpnI	Gene_or_gene_product
+PMC2172741	274	uniprot:UNRESOLVED ID	XhoI	Gene_or_gene_product
+PMC2172741	275	uniprot:UNRESOLVED ID	p110gamma-YFP	Gene_or_gene_product
+PMC2172741	275	uniprot:P27918	-CFP	Gene_or_gene_product
+PMC2172741	275	uniprot:Q96JE9	stop	Gene_or_gene_product
+PMC2172741	275	uniprot:UNRESOLVED ID	XbaI site	Gene_or_gene_product
+PMC2172741	275	uniprot:Q9H9B4	TCC	Gene_or_gene_product
+PMC2172741	276	uniprot:UNRESOLVED ID	pcDNA3-YFP	Gene_or_gene_product
+PMC2172741	276	uniprot:P27918	-CFP	Gene_or_gene_product
+PMC2172741	276	uniprot:UNRESOLVED ID	BamHI	Gene_or_gene_product
+PMC2172741	276	uniprot:UNRESOLVED ID	XbaI	Gene_or_gene_product
+PMC2172741	277	uniprot:P21578	YFP-	Gene_or_gene_product
+PMC2172741	277	uniprot:UNRESOLVED ID	CFP-p110gamma	Gene_or_gene_product
+PMC2172741	277	uniprot:UNRESOLVED ID	XhoI	Gene_or_gene_product
+PMC2172741	277	uniprot:UNRESOLVED ID	BamHI sites	Gene_or_gene_product
+PMC2172741	277	uniprot:Q2F7J2	GAG	Species
+PMC2172741	277	uniprot:P16066	GCA	Gene_or_gene_product
+PMC2172741	277	uniprot:P20933	AGA	Gene_or_gene_product
+PMC2172741	277	uniprot:Q9H9B4	TCC	Gene_or_gene_product
+PMC2172741	277	uniprot:UNRESOLVED ID	CAC AAT	Gene_or_gene_product
+PMC2172741	277	uniprot:P17735	TAT	Gene_or_gene_product
+PMC2172741	277	uniprot:UNRESOLVED ID	pEYFP-C1	Gene_or_gene_product
+PMC2172741	277	uniprot:UNRESOLVED ID	pECFP-C1	Gene_or_gene_product
+PMC2172741	278	uniprot:UNRESOLVED ID	p110gamma-K833R	Gene_or_gene_product
+PMC2172741	278	uniprot:P10721	Kit	Gene_or_gene_product
+PMC2172741	279	uniprot:UNRESOLVED ID	p110gamma-CAAX	Gene_or_gene_product
+PMC2172741	279	uniprot:UNRESOLVED ID	AfeI sites	Gene_or_gene_product
+PMC2172741	279	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	279	uniprot:Q96JE9	stop	Gene_or_gene_product
+PMC2172741	279	uniprot:UNRESOLVED ID	AfeI site	Gene_or_gene_product
+PMC2172741	279	uniprot:P10721	Kit	Gene_or_gene_product
+PMC2172741	280	uniprot:UNRESOLVED ID	AfeI	Gene_or_gene_product
+PMC2172741	280	uniprot:UNRESOLVED ID	BamHI sites	Gene_or_gene_product
+PMC2172741	281	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	281	uniprot:UNRESOLVED ID	porcine p101	Gene_or_gene_product
+PMC2172741	281	uniprot:UNRESOLVED ID	pcDNA3	Gene_or_gene_product
+PMC2172741	281	uniprot:UNRESOLVED ID	EcoRI	Gene_or_gene_product
+PMC2172741	281	uniprot:UNRESOLVED ID	NotI	Gene_or_gene_product
+PMC2172741	282	uniprot:Q5JSL3	ACG	Gene_or_gene_product
+PMC2172741	282	uniprot:UNRESOLVED ID	AGA CGA	Gene_or_gene_product
+PMC2172741	282	uniprot:UNRESOLVED ID	HindIII	Gene_or_gene_product
+PMC2172741	282	uniprot:UNRESOLVED ID	BsmBI	Gene_or_gene_product
+PMC2172741	283	uniprot:P21578	YFP-	Gene_or_gene_product
+PMC2172741	283	uniprot:UNRESOLVED ID	CFP-p101	Gene_or_gene_product
+PMC2172741	283	uniprot:UNRESOLVED ID	EcoRI	Gene_or_gene_product
+PMC2172741	283	uniprot:UNRESOLVED ID	NotI fragment	Gene_or_gene_product
+PMC2172741	283	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	283	uniprot:UNRESOLVED ID	pEYFP-C1	Gene_or_gene_product
+PMC2172741	283	uniprot:UNRESOLVED ID	pECFP-C1	Gene_or_gene_product
+PMC2172741	284	uniprot:UNRESOLVED ID	HindIII site	Gene_or_gene_product
+PMC2172741	285	uniprot:UNRESOLVED ID	p101-YFP	Gene_or_gene_product
+PMC2172741	285	uniprot:Q9H9B4	TCC	Gene_or_gene_product
+PMC2172741	285	uniprot:UNRESOLVED ID	CAC GGT	Gene_or_gene_product
+PMC2172741	285	uniprot:P10253	GAA	Gene_or_gene_product
+PMC2172741	285	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	285	uniprot:UNRESOLVED ID	XbaI site	Gene_or_gene_product
+PMC2172741	285	uniprot:Q96JE9	stop	Gene_or_gene_product
+PMC2172741	286	uniprot:UNRESOLVED ID	full-length p101 cDNA	Gene_or_gene_product
+PMC2172741	286	uniprot:UNRESOLVED ID	wild-type p101	Gene_or_gene_product
+PMC2172741	286	uniprot:UNRESOLVED ID	pcDNA3	Gene_or_gene_product
+PMC2172741	286	uniprot:UNRESOLVED ID	HindIII	Gene_or_gene_product
+PMC2172741	286	uniprot:Q39528	ClaI	Gene_or_gene_product
+PMC2172741	287	uniprot:UNRESOLVED ID	pcDNA3-YFP	Gene_or_gene_product
+PMC2172741	287	uniprot:UNRESOLVED ID	pcDNA3-CFP	Gene_or_gene_product
+PMC2172741	287	uniprot:UNRESOLVED ID	HindIII	Gene_or_gene_product
+PMC2172741	287	uniprot:UNRESOLVED ID	XbaI	Gene_or_gene_product
+PMC2172741	288	ncbitax:species:ncbi:9606	human	Species
+PMC2172741	288	uniprot:P21462	fMLP receptor	Gene_or_gene_product
+PMC2172741	288	uniprot:Q2F7J2	GAG	Species
+PMC2172741	288	uniprot:UNRESOLVED ID	AAT TCC	Gene_or_gene_product
+PMC2172741	288	uniprot:P21980	TGC	Gene_or_gene_product
+PMC2172741	288	uniprot:UNRESOLVED ID	pcDNA3	Gene_or_gene_product
+PMC2172741	288	uniprot:UNRESOLVED ID	HindIII	Gene_or_gene_product
+PMC2172741	288	uniprot:UNRESOLVED ID	XhoI	Gene_or_gene_product
+PMC2172741	289	uniprot:UNRESOLVED ID	Galphai2	Gene_or_gene_product
+PMC2172741	289	ncbitax:species:ncbi:9606	human	Species
+PMC2172741	289	uniprot:UNRESOLVED ID	bovine Ggamma2	Gene_or_gene_product
+PMC2172741	289	uniprot:UNRESOLVED ID	pcDNA3	Gene_or_gene_product
+PMC2172741	290	uniprot:UNRESOLVED ID	GFP-GRP1PH	Gene_or_gene_product
+PMC2172741	291	uniprot:P27918	CFP	Gene_or_gene_product
+PMC2172741	291	uniprot:O45040	Gbeta1	Gene_or_gene_product
+PMC2172741	291	uniprot:UNRESOLVED ID	BtkPH	Gene_or_gene_product
+PMC2172741	291	uniprot:O42043	TM	Gene_or_gene_product
+PMC2172741	291	uniprot:UNRESOLVED ID	II PCR enzyme	Gene_or_gene_product
+PMC2172741	291	uniprot:UNRESOLVED ID	pGEM	Gene_or_gene_product
+PMC2172741	292	uniprot:UNRESOLVED ID	Gbeta1 cDNA	Gene_or_gene_product
+PMC2172741	292	uniprot:UNRESOLVED ID	AAG TCC	Gene_or_gene_product
+PMC2172741	292	uniprot:Q9H9B4	TCC	Gene_or_gene_product
+PMC2172741	292	uniprot:P01019	AGT	Gene_or_gene_product
+PMC2172741	292	uniprot:Q2F7J2	GAG	Species
+PMC2172741	292	uniprot:Q6IB77	GAT	Gene_or_gene_product
+PMC2172741	292	uniprot:P04040	CAT	Species
+PMC2172741	292	uniprot:P19440	GGT	Gene_or_gene_product
+PMC2172741	292	uniprot:UNRESOLVED ID	AGT TCC AGA	Gene_or_gene_product
+PMC2172741	292	uniprot:UNRESOLVED ID	HindIII	Gene_or_gene_product
+PMC2172741	292	uniprot:UNRESOLVED ID	BamHI sites	Gene_or_gene_product
+PMC2172741	292	uniprot:UNRESOLVED ID	pECFP-C1	Gene_or_gene_product
+PMC2172741	293	ncbitax:species:ncbi:9606	human	Species
+PMC2172741	293	uniprot:Q06187	Btk	Gene_or_gene_product
+PMC2172741	293	uniprot:UNRESOLVED ID	AGT CCT	Gene_or_gene_product
+PMC2172741	293	uniprot:P04040	CAT	Species
+PMC2172741	293	uniprot:P20933	AGA	Gene_or_gene_product
+PMC2172741	294	uniprot:P20933	AGA	Gene_or_gene_product
+PMC2172741	294	uniprot:P01215	CGA	Gene_or_gene_product
+PMC2172741	294	uniprot:P16066	GCA	Gene_or_gene_product
+PMC2172741	294	uniprot:Q6IB77	GAT	Gene_or_gene_product
+PMC2172741	294	uniprot:Q2F7J2	GAG	Species
+PMC2172741	294	uniprot:P04040	CAT	Species
+PMC2172741	294	uniprot:UNRESOLVED ID	TCC TGT	Gene_or_gene_product
+PMC2172741	294	uniprot:UNRESOLVED ID	XhoI	Gene_or_gene_product
+PMC2172741	294	uniprot:UNRESOLVED ID	BamHI sites	Gene_or_gene_product
+PMC2172741	294	uniprot:UNRESOLVED ID	pECFP-N1	Gene_or_gene_product
+PMC2172741	294	uniprot:UNRESOLVED ID	CLONTECH	Gene_or_gene_product
+PMC2172741	295	uniprot:UNRESOLVED ID	CFP-Gbeta1	Gene_or_gene_product
+PMC2172741	295	uniprot:UNRESOLVED ID	BtkPH-CFP constructs	Gene_or_gene_product
+PMC2172741	297	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	298	uniprot:UNRESOLVED ID	FuGENE	Gene_or_gene_product
+PMC2172741	298	uniprot:O42043	TM	Gene_or_gene_product
+PMC2172741	300	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	300	uniprot:P21578	YFP	Gene_or_gene_product
+PMC2172741	300	uniprot:O45040	Gbeta1	Gene_or_gene_product
+PMC2172741	300	uniprot:UNRESOLVED ID	Ggamma2	Gene_or_gene_product
+PMC2172741	301	uniprot:P54644	Akt-	Gene_or_gene_product
+PMC2172741	301	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2172741	301	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	301	uniprot:P21462	fMLP receptor	Gene_or_gene_product
+PMC2172741	301	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	303	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	303	uniprot:P27918	CFP	Gene_or_gene_product
+PMC2172741	303	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	305	uniprot:Q2G0B1	rat	Species
+PMC2172741	305	uazid:UA-ORG-49	aortas	Organ
+PMC2172741	306	uniprot:UNRESOLVED ID	GFP-GRP1PH	Gene_or_gene_product
+PMC2172741	306	uniprot:P21462	fMLP receptor	Gene_or_gene_product
+PMC2172741	306	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	306	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	309	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	309	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	309	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	310	uniprot:UNRESOLVED ID	peroxidase-coupled anti-rabbit IgG antibodies	Gene_or_gene_product
+PMC2172741	311	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2172741	311	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2172741	311	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	311	uniprot:P21462	fMLP receptor	Gene_or_gene_product
+PMC2172741	311	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC2172741	312	uniprot:UNRESOLVED ID	serum	CellType
+PMC2172741	313	uniprot:UNRESOLVED ID	anti-Phospho-ERK1/2	Gene_or_gene_product
+PMC2172741	313	uniprot:UNRESOLVED ID	anti-ERK1/2	Gene_or_gene_product
+PMC2172741	314	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	314	uniprot:UNRESOLVED ID	YFP-p110gamma	Gene_or_gene_product
+PMC2172741	314	uniprot:UNRESOLVED ID	p110gamma-YFP	Gene_or_gene_product
+PMC2172741	314	uniprot:UNRESOLVED ID	CFP-p101	Gene_or_gene_product
+PMC2172741	314	uniprot:UNRESOLVED ID	pcDNA3	Gene_or_gene_product
+PMC2172741	315	uniprot:P01298	pH	Gene_or_gene_product
+PMC2172741	315	uniprot:UNRESOLVED ID	C12E10	Gene_or_gene_product
+PMC2172741	315	ncbitax:species:ncbi:41568	muM	Species
+PMC2172741	315	uniprot:Q96PL5	SC	Gene_or_gene_product
+PMC2172741	315	uniprot:P70059	trypsin	Gene_or_gene_product
+PMC2172741	315	uniprot:UNRESOLVED ID	needle	CellType
+PMC2172741	316	uniprot:UNRESOLVED ID	AKTA	Gene_or_gene_product
+PMC2172741	316	uniprot:O42043	TM	Gene_or_gene_product
+PMC2172741	318	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	318	uniprot:UNRESOLVED ID	YFP-p110gamma-K833R	Gene_or_gene_product
+PMC2172741	318	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	318	uniprot:O45040	Gbeta1	Gene_or_gene_product
+PMC2172741	318	uniprot:UNRESOLVED ID	Ggamma2	Gene_or_gene_product
+PMC2172741	319	uniprot:P10265	protease	Gene_or_gene_product
+PMC2172741	319	uniprot:UNRESOLVED ID	needle	CellType
+PMC2172741	321	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2172741	322	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	322	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC2172741	322	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC2172741	322	uniprot:UNRESOLVED ID	pcDNA3	Gene_or_gene_product
+PMC2172741	323	uniprot:UNRESOLVED ID	monoclonal anti-p110gamma antibody	Gene_or_gene_product
+PMC2172741	324	uniprot:P02810	protein A	Gene_or_gene_product
+PMC2172741	325	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2172741	326	uniprot:P09131	P3	Gene_or_gene_product
+PMC2172741	326	uniprot:Q15286	Ray	Species
+PMC2172741	327	uniprot:UNRESOLVED ID	mM KCl, 1 mM MgCl2, 1 mM CaCl2	Gene_or_gene_product
+PMC2172741	327	uniprot:P01298	pH	Gene_or_gene_product
+PMC2172741	329	uniprot:P21578	YFP	Gene_or_gene_product
+PMC2172741	330	uniprot:P27918	CFP	Gene_or_gene_product
+PMC2172741	331	ncbitax:species:ncbi:41568	mum	Species
+PMC2172741	332	uniprot:UNRESOLVED ID	FRET	Gene_or_gene_product
+PMC2172741	333	uniprot:P27918	CFP	Gene_or_gene_product
+PMC2172741	333	uniprot:P21578	YFP	Gene_or_gene_product
+PMC2172741	333	uniprot:UNRESOLVED ID	TILL Photonics	Gene_or_gene_product
+PMC2172741	334	uniprot:O43557	light	Gene_or_gene_product
+PMC2172741	334	uniprot:P27918	CFP	Gene_or_gene_product
+PMC2172741	334	uniprot:P21578	YFP	Gene_or_gene_product
+PMC2172741	334	uniprot:UNRESOLVED ID	CCD camera	Gene_or_gene_product
+PMC2172741	334	uniprot:UNRESOLVED ID	Imago	Gene_or_gene_product
+PMC2172741	334	uniprot:UNRESOLVED ID	TILL Photonics	Gene_or_gene_product
+PMC2172741	335	uniprot:UNRESOLVED ID	FRET	Gene_or_gene_product
+PMC2172741	335	uniprot:P27918	CFP	Gene_or_gene_product
+PMC2172741	335	uniprot:P21578	YFP	Gene_or_gene_product
+PMC2172741	336	uniprot:P27918	CFP	Gene_or_gene_product
+PMC2172741	336	uniprot:P21578	YFP	Gene_or_gene_product
+PMC2172741	338	ncbitax:species:ncbi:3758	Plum	Species
+PMC2172741	341	uazid:UA-ORG-506	Len	Organ
+PMC2172741	342	uniprot:Q06187	Btk	Gene_or_gene_product
+PMC2172741	342	uniprot:F4IEM5	GPCR	Gene_or_gene_product
+PMC2172741	342	uniprot:Q9QJ51	G protein-coupled receptor	Gene_or_gene_product
+PMC2172741	342	uniprot:O43739	GRP1	Gene_or_gene_product
+PMC2172741	342	uniprot:UNRESOLVED ID	phosphoinositides-1	Gene_or_gene_product
+PMC2172741	342	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2172741	342	ncbitax:species:ncbi:9606	human	Species
+PMC2172741	342	uazid:UA-ORG-461	kidney	Organ
+PMC2172741	342	uniprot:P01298	PH	Gene_or_gene_product
+PMC2172741	342	uniprot:P08567	pleckstrin	Gene_or_gene_product
+PMC2172741	342	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2172741	342	uniprot:UNRESOLVED ID	phosphoinositide 3-kinase	Gene_or_gene_product
+PMC2172741	342	uniprot:UNRESOLVED ID	pertussis toxin	Gene_or_gene_product
+PMC2172741	342	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2172741	342	uniprot:UNRESOLVED ID	VSM	Gene_or_gene_product
+PMC2172741	342	uniprot:UNRESOLVED ID	vascular smooth muscle	CellType

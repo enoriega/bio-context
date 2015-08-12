@@ -1,0 +1,4 @@
+Paper ID	Line Num	Master ID	Dependent ID	Text	Type
+PMC2132836	200	uazid:UA-CT-100023	uniprot:Q16878	CDO in fibroblasts	ContextLocation
+PMC2132836	206	ncbitax:species:ncbi:6239	uniprot:UNRESOLVED ID	sole 5 + 3 protein in C. elegans	ContextLocation
+PMC2132836	214	uniprot:UNRESOLVED ID	uniprot:Q16878	cdo in the dorsal neural tube	ContextLocation

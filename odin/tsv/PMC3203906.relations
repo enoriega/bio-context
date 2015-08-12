@@ -1,0 +1,10 @@
+Paper ID	Line Num	Master ID	Dependent ID	Text	Type
+PMC3203906	38	ncbitax:species:ncbi:10090	uazid:UA-CT-16	macrophages from p110gamma-/- mouse	ContextDirection
+PMC3203906	42	uniprot:O89094	uazid:UA-CT-16	Macrophages from wild type (open bar) or p110gamma/- mice	ContextDirection
+PMC3203906	53	uniprot:O89094	uazid:UA-CT-16	Macrophages from wild type (A, C) or p110gamma-/- mice	ContextDirection
+PMC3203906	64	uniprot:O89094	uazid:UA-CT-16	Macrophages from wild type or p110gamma-/- mice	ContextDirection
+PMC3203906	66	uniprot:O89094	uazid:UA-CT-16	Macrophages from wild type (B) or p110gamma-/- mice	ContextDirection
+PMC3203906	90	uniprot:O89094	uazid:UA-CT-16	Macrophages from wild type or p110gamma-/- mice	ContextDirection
+PMC3203906	97	uniprot:O89094	uazid:UA-CT-16	Macrophages from wild type (open bar) or p110gamma-/- mice	ContextDirection
+PMC3203906	111	uniprot:O89094	uazid:UA-CT-16	Macrophages from wild type or p110gamma-/- mice	ContextDirection
+PMC3203906	126	uniprot:O89094	uazid:UA-CT-16	Macrophages from wild type mice	ContextDirection

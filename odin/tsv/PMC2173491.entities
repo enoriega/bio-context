@@ -1,0 +1,287 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2173491	0	uniprot:Q8N6T3	ARFGAP1	Gene_or_gene_product
+PMC2173491	1	uniprot:P20936	GTPase-activating protein	Gene_or_gene_product
+PMC2173491	1	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	1	uniprot:P84077	ADP-ribosylation factor 1	Gene_or_gene_product
+PMC2173491	1	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	1	uniprot:P07355	protein I	Gene_or_gene_product
+PMC2173491	1	uniprot:UNRESOLVED ID	COPI	Gene_or_gene_product
+PMC2173491	2	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	3	uniprot:UNRESOLVED ID	cargo proteins	Gene_or_gene_product
+PMC2173491	3	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	4	uniprot:Q8N6T3	ARFGAP1	Gene_or_gene_product
+PMC2173491	4	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2173491	5	uniprot:UNRESOLVED ID	GTPgammaS	Gene_or_gene_product
+PMC2173491	5	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	6	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	7	uniprot:Q8N6T3	ARFGAP1	Gene_or_gene_product
+PMC2173491	7	uniprot:UNRESOLVED ID	COPI coat	Gene_or_gene_product
+PMC2173491	8	uniprot:UNRESOLVED ID	small GTPases	Gene_or_gene_product
+PMC2173491	8	uniprot:UNRESOLVED ID	coat proteins	Gene_or_gene_product
+PMC2173491	9	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	9	uniprot:P07355	protein I	Gene_or_gene_product
+PMC2173491	9	uniprot:UNRESOLVED ID	COPI	Gene_or_gene_product
+PMC2173491	9	uniprot:UNRESOLVED ID	clathrin adaptin complexes	Gene_or_gene_product
+PMC2173491	10	uniprot:UNRESOLVED ID	small GTPases	Gene_or_gene_product
+PMC2173491	10	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	10	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2173491	10	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2173491	10	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2173491	10	uniprot:P20936	GTPase-activating protein	Gene_or_gene_product
+PMC2173491	10	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	11	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2173491	11	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2173491	11	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	11	uniprot:UNRESOLVED ID	coat proteins	Gene_or_gene_product
+PMC2173491	12	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2173491	12	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2173491	12	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	14	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	14	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	15	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2173491	15	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	16	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	17	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	17	uniprot:UNRESOLVED ID	coat proteins	Gene_or_gene_product
+PMC2173491	18	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2173491	18	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	18	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	18	uniprot:UNRESOLVED ID	cargo proteins	Gene_or_gene_product
+PMC2173491	19	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	19	uniprot:UNRESOLVED ID	cargo proteins	Gene_or_gene_product
+PMC2173491	20	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	20	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2173491	20	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	21	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	21	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2173491	21	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	21	uniprot:Q8N6T3	ARFGAP1	Gene_or_gene_product
+PMC2173491	22	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	23	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	24	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2173491	25	uniprot:P54829	step	Gene_or_gene_product
+PMC2173491	25	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	25	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	25	uniprot:Q8N6T3	ARFGAP1	Gene_or_gene_product
+PMC2173491	26	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	27	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	28	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	29	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	29	uniprot:UNRESOLVED ID	COPI	Gene_or_gene_product
+PMC2173491	29	uniprot:P53618	beta-COP	Gene_or_gene_product
+PMC2173491	30	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	31	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	31	uniprot:P53618	beta-COP	Gene_or_gene_product
+PMC2173491	33	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	33	uniprot:UNRESOLVED ID	COPI	Gene_or_gene_product
+PMC2173491	33	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	34	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	34	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2173491	35	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	36	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	37	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	38	uniprot:UNRESOLVED ID	COPI	Gene_or_gene_product
+PMC2173491	40	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	41	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	42	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	43	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	44	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	44	uniprot:UNRESOLVED ID	GTPgammaS	Gene_or_gene_product
+PMC2173491	46	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2173491	47	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	48	uniprot:P05463	epsilon-	Gene_or_gene_product
+PMC2173491	48	uniprot:O74891	zeta-COP	Gene_or_gene_product
+PMC2173491	50	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	54	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	57	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	60	uniprot:UNRESOLVED ID	COPI	Gene_or_gene_product
+PMC2173491	60	uniprot:P53618	beta-COP	Gene_or_gene_product
+PMC2173491	62	uniprot:P05463	epsilon-	Gene_or_gene_product
+PMC2173491	62	uniprot:O74891	zeta-COP	Gene_or_gene_product
+PMC2173491	66	uniprot:UNRESOLVED ID	COPI	Gene_or_gene_product
+PMC2173491	66	uniprot:P53618	beta-COP	Gene_or_gene_product
+PMC2173491	72	uniprot:P05463	epsilon-	Gene_or_gene_product
+PMC2173491	72	uniprot:O74891	zeta-COP	Gene_or_gene_product
+PMC2173491	76	uniprot:P05463	epsilon-	Gene_or_gene_product
+PMC2173491	76	uniprot:O74891	zeta-COP	Gene_or_gene_product
+PMC2173491	78	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	78	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2173491	78	uniprot:UNRESOLVED ID	KDEL receptor	Gene_or_gene_product
+PMC2173491	78	uniprot:UNRESOLVED ID	GTPgammaS	Gene_or_gene_product
+PMC2173491	79	uniprot:UNRESOLVED ID	myc-tagged KDEL receptor	Gene_or_gene_product
+PMC2173491	80	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2173491	80	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	82	uniprot:UNRESOLVED ID	myc epitope	Gene_or_gene_product
+PMC2173491	83	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	83	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	84	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2173491	84	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	84	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	85	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	88	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2173491	89	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	90	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2173491	90	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	91	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	92	uniprot:Q5EG05	COP	Gene_or_gene_product
+PMC2173491	92	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	92	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	94	uniprot:P53618	beta-COP	Gene_or_gene_product
+PMC2173491	94	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	94	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	95	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	95	uniprot:UNRESOLVED ID	COPI coat	Gene_or_gene_product
+PMC2173491	96	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	96	uniprot:UNRESOLVED ID	COPI	Gene_or_gene_product
+PMC2173491	97	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	97	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	97	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2173491	99	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	99	uniprot:UNRESOLVED ID	COPI cargo proteins	Gene_or_gene_product
+PMC2173491	100	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2173491	100	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	101	uniprot:UNRESOLVED ID	COPI	Gene_or_gene_product
+PMC2173491	101	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	101	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2173491	102	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	102	uniprot:Q8N6T3	ARFGAP1	Gene_or_gene_product
+PMC2173491	102	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2173491	102	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	103	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	104	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	105	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	105	uniprot:UNRESOLVED ID	COPI	Gene_or_gene_product
+PMC2173491	105	uniprot:UNRESOLVED ID	cargo proteins	Gene_or_gene_product
+PMC2173491	106	uniprot:Q8N6T3	ARFGAP1	Gene_or_gene_product
+PMC2173491	106	uniprot:UNRESOLVED ID	COPI coat	Gene_or_gene_product
+PMC2173491	111	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	111	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2173491	112	uniprot:UNRESOLVED ID	GTPgammaS	Gene_or_gene_product
+PMC2173491	112	uniprot:P54829	step	Gene_or_gene_product
+PMC2173491	114	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2173491	115	uniprot:UNRESOLVED ID	GTPgammaS	Gene_or_gene_product
+PMC2173491	116	uniprot:UNRESOLVED ID	GTPgammaS	Gene_or_gene_product
+PMC2173491	116	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	117	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	117	uniprot:UNRESOLVED ID	GTPgammaS	Gene_or_gene_product
+PMC2173491	118	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	119	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2173491	120	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	121	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2173491	121	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2173491	121	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	122	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	122	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	123	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	124	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2173491	124	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	125	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2173491	125	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	125	uniprot:UNRESOLVED ID	COPI	Gene_or_gene_product
+PMC2173491	126	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	126	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	127	uniprot:UNRESOLVED ID	GTPgammaS	Gene_or_gene_product
+PMC2173491	127	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2173491	127	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	127	uniprot:UNRESOLVED ID	COPI	Gene_or_gene_product
+PMC2173491	128	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	129	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	130	uniprot:O43557	light	Gene_or_gene_product
+PMC2173491	130	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	130	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2173491	130	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	132	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	133	uniprot:UNRESOLVED ID	COPI	Gene_or_gene_product
+PMC2173491	133	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	134	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	134	uniprot:UNRESOLVED ID	COPI coat	Gene_or_gene_product
+PMC2173491	135	uniprot:Q8N6T3	ARFGAP1	Gene_or_gene_product
+PMC2173491	136	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	137	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	137	uniprot:UNRESOLVED ID	COPI	Gene_or_gene_product
+PMC2173491	137	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	139	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	139	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	139	uniprot:UNRESOLVED ID	COPI	Gene_or_gene_product
+PMC2173491	140	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	140	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	140	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2173491	141	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	142	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	142	uniprot:UNRESOLVED ID	COPI coat	Gene_or_gene_product
+PMC2173491	143	uniprot:UNRESOLVED ID	Coat proteins	Gene_or_gene_product
+PMC2173491	147	uniprot:Q8N6T3	ARFGAP1	Gene_or_gene_product
+PMC2173491	148	uniprot:Q8N6T3	ARFGAP1	Gene_or_gene_product
+PMC2173491	148	uniprot:UNRESOLVED ID	Sec23p	Gene_or_gene_product
+PMC2173491	148	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	148	uniprot:UNRESOLVED ID	small GTPase Sar1p	Gene_or_gene_product
+PMC2173491	149	uniprot:UNRESOLVED ID	Sec23p	Gene_or_gene_product
+PMC2173491	149	uniprot:UNRESOLVED ID	COPII coat	Gene_or_gene_product
+PMC2173491	149	uniprot:UNRESOLVED ID	Sec24p	Gene_or_gene_product
+PMC2173491	150	uniprot:UNRESOLVED ID	COPII coat	Gene_or_gene_product
+PMC2173491	150	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	150	uniprot:UNRESOLVED ID	Sar1p	Gene_or_gene_product
+PMC2173491	151	uniprot:UNRESOLVED ID	Sec23p	Gene_or_gene_product
+PMC2173491	151	uniprot:UNRESOLVED ID	COPII coat	Gene_or_gene_product
+PMC2173491	152	uazid:UA-ORG-381	hand	Organ
+PMC2173491	152	uniprot:Q8N6T3	ARFGAP1	Gene_or_gene_product
+PMC2173491	152	uniprot:UNRESOLVED ID	COPI coat complex	Gene_or_gene_product
+PMC2173491	153	uniprot:UNRESOLVED ID	COPI	Gene_or_gene_product
+PMC2173491	153	uniprot:UNRESOLVED ID	COPII	Gene_or_gene_product
+PMC2173491	153	uniprot:Q8N6T3	ARFGAP1	Gene_or_gene_product
+PMC2173491	153	uniprot:UNRESOLVED ID	Sec23p	Gene_or_gene_product
+PMC2173491	155	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2173491	155	uniprot:P02769	BSA	Gene_or_gene_product
+PMC2173491	155	uniprot:Q96T53	goat	Species
+PMC2173491	155	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2173491	155	uniprot:UNRESOLVED ID	IgG	Gene_or_gene_product
+PMC2173491	155	ncbitax:species:ncbi:10090	mouse	Species
+PMC2173491	155	uniprot:UNRESOLVED ID	9E10	Gene_or_gene_product
+PMC2173491	156	uniprot:F1Q4R9	CHO	CellType
+PMC2173491	156	uniprot:Q2G0B1	rat	Species
+PMC2173491	156	uazid:UA-ORG-520	liver	Organ
+PMC2173491	156	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	156	uniprot:Q8N6T3	ARFGAP1	Gene_or_gene_product
+PMC2173491	157	uniprot:F1Q4R9	CHO	CellType
+PMC2173491	157	uniprot:P01106	myc	Gene_or_gene_product
+PMC2173491	157	uniprot:UNRESOLVED ID	KDEL receptor	Gene_or_gene_product
+PMC2173491	158	ncbitax:species:ncbi:10090	mouse	Species
+PMC2173491	158	uniprot:UNRESOLVED ID	M3A5	Gene_or_gene_product
+PMC2173491	158	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2173491	160	uniprot:P84077	ARF1	Gene_or_gene_product
+PMC2173491	160	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2173491	160	ncbitax:species:ncbi:41568	muM	Species
+PMC2173491	160	uniprot:P01298	pH	Gene_or_gene_product
+PMC2173491	160	ncbitax:species:ncbi:3847	soybean	Species
+PMC2173491	160	uniprot:P70059	trypsin	Gene_or_gene_product
+PMC2173491	162	uniprot:Q8N6T3	ARF-GAP1	Gene_or_gene_product
+PMC2173491	164	uniprot:UNRESOLVED ID	SW55 rotor	Gene_or_gene_product
+PMC2173491	166	uniprot:UNRESOLVED ID	mM MgCl2, 40 mM EGTA	Gene_or_gene_product
+PMC2173491	166	uniprot:P01298	pH	Gene_or_gene_product
+PMC2173491	166	uniprot:UNRESOLVED ID	NaOH	Gene_or_gene_product
+PMC2173491	175	uniprot:O75791	grid	Gene_or_gene_product
+PMC2173491	186	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2173491	187	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2173491	187	uniprot:UNRESOLVED ID	tail	CellType
+PMC2173491	187	uniprot:UNRESOLVED ID	KDEL receptor	Gene_or_gene_product
+PMC2173491	187	uniprot:UNRESOLVED ID	wild-type	Gene_or_gene_product
+PMC2173491	187	uniprot:UNRESOLVED ID	TKVLKGKKLSLPA	Gene_or_gene_product
+PMC2173491	187	uniprot:UNRESOLVED ID	TKVLKGSSLSLPA	Gene_or_gene_product
+PMC2173491	187	uniprot:P10301	p23	Gene_or_gene_product
+PMC2173491	187	uniprot:UNRESOLVED ID	LRRFFKAKKLIE	Gene_or_gene_product
+PMC2173491	188	uniprot:UNRESOLVED ID	GST-Wbp1	Gene_or_gene_product
+PMC2173491	188	uniprot:UNRESOLVED ID	GST-Wbp1-SS constructs	Gene_or_gene_product
+PMC2173491	189	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2173491	190	uniprot:UNRESOLVED ID	Purified coatomer	Gene_or_gene_product
+PMC2173491	190	uniprot:Q8N6T3	ARFGAP1	Gene_or_gene_product
+PMC2173491	190	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2173491	190	uniprot:P01298	pH	Gene_or_gene_product
+PMC2173491	191	ncbitax:species:ncbi:9606	Women	Species
+PMC2173491	191	uniprot:O95453	Dan	Gene_or_gene_product
+PMC2173491	193	uniprot:UNRESOLVED ID	Hsu	Gene_or_gene_product
+PMC2173491	193	uazid:UA-ORG-385	Heart	Organ
+PMC2173491	194	uniprot:Q5EG05	COP	Gene_or_gene_product
+PMC2173491	194	uniprot:Q89330	coat protein	Gene_or_gene_product
+PMC2173491	194	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2173491	194	uniprot:P20936	GTPase-activating protein	Gene_or_gene_product
+PMC2173491	194	uniprot:Q9NR83	GEF	Gene_or_gene_product

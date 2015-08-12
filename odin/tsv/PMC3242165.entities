@@ -1,0 +1,683 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC3242165	3	uazid:UA-ORG-451	intestine	Organ
+PMC3242165	4	uazid:UA-ORG-725	plasma	Organ
+PMC3242165	12	uniprot:P02753	retinol-binding protein 4	Gene_or_gene_product
+PMC3242165	12	uniprot:P02753	RBP4	Gene_or_gene_product
+PMC3242165	13	uazid:UA-ORG-520	liver	Organ
+PMC3242165	15	uniprot:P08100	rhodopsin	Gene_or_gene_product
+PMC3242165	18	uazid:UA-ORG-520	liver	Organ
+PMC3242165	18	uniprot:UNRESOLVED ID	adipose	CellType
+PMC3242165	20	uazid:UA-ORG-451	intestine	Organ
+PMC3242165	21	uniprot:Q5TKA1	TGs	Gene_or_gene_product
+PMC3242165	22	uniprot:P06858	lipoprotein lipase	Gene_or_gene_product
+PMC3242165	22	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	22	uniprot:P25445	FAs	Gene_or_gene_product
+PMC3242165	23	uazid:UA-ORG-520	liver	Organ
+PMC3242165	23	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3242165	25	uazid:UA-ORG-520	liver	Organ
+PMC3242165	31	uazid:UA-ORG-451	intestine	Organ
+PMC3242165	32	uniprot:P19835	carboxyl ester lipase	Gene_or_gene_product
+PMC3242165	32	uniprot:P19835	CEL	Gene_or_gene_product
+PMC3242165	32	uniprot:Q16769	EC	Gene_or_gene_product
+PMC3242165	33	uniprot:P19835	CEL	Gene_or_gene_product
+PMC3242165	33	uniprot:Q5TKA1	TGs	Gene_or_gene_product
+PMC3242165	33	uniprot:P80544	PLs	Gene_or_gene_product
+PMC3242165	33	uazid:UA-CT-33	bile	CellType
+PMC3242165	34	uniprot:P19835	CEL	Gene_or_gene_product
+PMC3242165	34	uazid:UA-ORG-666	pancreas	Organ
+PMC3242165	35	uniprot:O89094	mice	Species
+PMC3242165	35	uniprot:P19835	CEL	Gene_or_gene_product
+PMC3242165	36	uazid:UA-ORG-381	hand	Organ
+PMC3242165	36	uniprot:P54829	step	Gene_or_gene_product
+PMC3242165	37	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	37	uazid:UA-ORG-666	pancreas	Organ
+PMC3242165	37	uniprot:O89094	mice	Species
+PMC3242165	38	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	39	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	39	uazid:UA-ORG-451	intestine	Organ
+PMC3242165	40	uniprot:P15493	lipase	Organ
+PMC3242165	40	uniprot:P16233	PTL	Gene_or_gene_product
+PMC3242165	40	uniprot:Q16769	EC	Gene_or_gene_product
+PMC3242165	40	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	40	ncbitax:species:ncbi:10090	mouse	Species
+PMC3242165	40	uniprot:Q2G0B1	rat	Species
+PMC3242165	41	uniprot:P16233	PTL	Gene_or_gene_product
+PMC3242165	41	uniprot:Q5TKA1	TGs	Gene_or_gene_product
+PMC3242165	41	uniprot:P04118	co-lipase	Gene_or_gene_product
+PMC3242165	41	uazid:UA-CT-33	bile	CellType
+PMC3242165	42	uniprot:P16233	PTL	Gene_or_gene_product
+PMC3242165	42	uniprot:P19835	CEL	Gene_or_gene_product
+PMC3242165	43	uniprot:P16233	PTL	Gene_or_gene_product
+PMC3242165	43	uniprot:P19835	CEL	Gene_or_gene_product
+PMC3242165	43	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	43	uniprot:O89094	mice	Species
+PMC3242165	44	uniprot:P16233	PTL	Gene_or_gene_product
+PMC3242165	44	uniprot:P19835	CEL	Gene_or_gene_product
+PMC3242165	44	uniprot:O89094	mice	Species
+PMC3242165	44	uniprot:UNRESOLVED ID	PTL-ko	Gene_or_gene_product
+PMC3242165	45	uniprot:O89094	mice	Species
+PMC3242165	47	uniprot:O89094	mice	Species
+PMC3242165	48	uniprot:O89094	mice	Species
+PMC3242165	48	uniprot:P16233	PTL	Gene_or_gene_product
+PMC3242165	48	uniprot:P19835	CEL	Gene_or_gene_product
+PMC3242165	49	uniprot:O89094	mice	Species
+PMC3242165	49	uniprot:P01266	TG	Gene_or_gene_product
+PMC3242165	49	uniprot:Q9P2X3	impact	Gene_or_gene_product
+PMC3242165	50	uniprot:Q5TKA1	TGs	Gene_or_gene_product
+PMC3242165	50	uniprot:P01266	TG	Gene_or_gene_product
+PMC3242165	51	uniprot:P01266	TG	Gene_or_gene_product
+PMC3242165	51	uniprot:O89094	mice	Species
+PMC3242165	52	uniprot:P19835	CEL	Gene_or_gene_product
+PMC3242165	53	uniprot:P16233	PTL	Gene_or_gene_product
+PMC3242165	53	uniprot:P19835	CEL	Gene_or_gene_product
+PMC3242165	54	uniprot:O89094	mice	Species
+PMC3242165	55	uniprot:P54317	pancreatic lipase-related protein 2	Gene_or_gene_product
+PMC3242165	55	uniprot:P54317	PLRP2	Gene_or_gene_product
+PMC3242165	55	uniprot:Q16769	EC	Gene_or_gene_product
+PMC3242165	56	uniprot:P15493	lipase	Organ
+PMC3242165	56	uniprot:P16233	PTL	Gene_or_gene_product
+PMC3242165	57	uniprot:P54317	PLRP2	Gene_or_gene_product
+PMC3242165	58	uniprot:P54317	PLRP2	Gene_or_gene_product
+PMC3242165	58	uniprot:Q5TKA1	TGs	Gene_or_gene_product
+PMC3242165	59	uniprot:P54317	PLRP2	Gene_or_gene_product
+PMC3242165	59	uniprot:P01266	TG	Gene_or_gene_product
+PMC3242165	60	uniprot:P54317	PLRP2	Gene_or_gene_product
+PMC3242165	60	uniprot:P16233	PTL	Gene_or_gene_product
+PMC3242165	61	uniprot:P54317	PLRP2	Gene_or_gene_product
+PMC3242165	61	uniprot:O89094	mice	Species
+PMC3242165	62	uniprot:P54317	PLRP2	Gene_or_gene_product
+PMC3242165	62	uniprot:P16233	PTL	Gene_or_gene_product
+PMC3242165	63	uniprot:P54317	PLRP2	Gene_or_gene_product
+PMC3242165	64	uniprot:Q6P1J6	phospholipase B	Gene_or_gene_product
+PMC3242165	64	uniprot:UNRESOLVED ID	BPL-B	Gene_or_gene_product
+PMC3242165	64	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	64	ncbitax:species:ncbi:10116	rats	Species
+PMC3242165	64	ncbitax:species:ncbi:9606	humans	Species
+PMC3242165	66	uniprot:UNRESOLVED ID	BPL-B	Gene_or_gene_product
+PMC3242165	66	uazid:UA-ORG-451	intestine	Organ
+PMC3242165	66	uazid:UA-ORG-666	pancreas	Organ
+PMC3242165	68	uniprot:Q5TKA1	TGs	Gene_or_gene_product
+PMC3242165	69	uazid:UA-ORG-520	liver	Organ
+PMC3242165	70	uniprot:UNRESOLVED ID	CM associated REs	Gene_or_gene_product
+PMC3242165	70	uniprot:UNRESOLVED ID	adipose	CellType
+PMC3242165	70	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC3242165	70	uazid:UA-ORG-132	cardiac muscle	Organ
+PMC3242165	70	uazid:UA-ORG-461	kidney	Organ
+PMC3242165	71	uniprot:UNRESOLVED ID	serum	CellType
+PMC3242165	71	uniprot:P02753	RBP4	Gene_or_gene_product
+PMC3242165	72	uazid:UA-ORG-520	liver	Organ
+PMC3242165	73	uniprot:P02649	apoE	Gene_or_gene_product
+PMC3242165	73	uniprot:P0DML2	PL	Gene_or_gene_product
+PMC3242165	73	uniprot:UNRESOLVED ID	low-density lipoprotein-receptor protein 1	Gene_or_gene_product
+PMC3242165	73	uniprot:Q07954	LRP-1	Gene_or_gene_product
+PMC3242165	73	uniprot:UNRESOLVED ID	LPL-anchor glycosylphosphatidylinositol-anchored high-density lipoprotein binding protein 1	Gene_or_gene_product
+PMC3242165	73	uniprot:Q8IV16	GPIHBP1	Gene_or_gene_product
+PMC3242165	73	uniprot:UNRESOLVED ID	hepatocyte	CellType
+PMC3242165	73	uniprot:P34741	HSPG	Gene_or_gene_product
+PMC3242165	73	uniprot:P18827	syndecan-1	Gene_or_gene_product
+PMC3242165	73	uniprot:UNRESOLVED ID	HSPGs	Gene_or_gene_product
+PMC3242165	74	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	74	uniprot:Q16769	EC	Gene_or_gene_product
+PMC3242165	74	uniprot:P11150	hepatic lipase	Gene_or_gene_product
+PMC3242165	74	uniprot:P11150	HL	Gene_or_gene_product
+PMC3242165	74	uniprot:UNRESOLVED ID	HSPGs	Gene_or_gene_product
+PMC3242165	74	uniprot:Q8IV16	GPIHBP1	Gene_or_gene_product
+PMC3242165	74	uniprot:Q07954	LRP-1	Gene_or_gene_product
+PMC3242165	76	uniprot:P11150	HL	Gene_or_gene_product
+PMC3242165	76	uniprot:UNRESOLVED ID	low-density lipoprotein	Gene_or_gene_product
+PMC3242165	76	uniprot:UNRESOLVED ID	VLDL	Gene_or_gene_product
+PMC3242165	76	uniprot:P81182	high-density lipoprotein	Gene_or_gene_product
+PMC3242165	76	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	77	uniprot:P11150	HL	Gene_or_gene_product
+PMC3242165	77	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	77	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	78	uniprot:P01266	TG	Gene_or_gene_product
+PMC3242165	78	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	78	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	79	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	79	uniprot:Q5TKA1	TGs	Gene_or_gene_product
+PMC3242165	80	uniprot:Q2G0B1	rat	Species
+PMC3242165	80	uazid:UA-ORG-520	liver	Organ
+PMC3242165	80	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	80	uniprot:P01266	TG	Gene_or_gene_product
+PMC3242165	81	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3242165	81	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	82	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	83	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	84	uniprot:UNRESOLVED ID	adipocytes	CellType
+PMC3242165	84	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	84	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	85	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	85	uniprot:P01266	TG	Gene_or_gene_product
+PMC3242165	87	uniprot:UNRESOLVED ID	adipocytes	CellType
+PMC3242165	87	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	89	uniprot:UNRESOLVED ID	adipose	CellType
+PMC3242165	90	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	91	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	91	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3242165	91	uniprot:UNRESOLVED ID	adipocytes	CellType
+PMC3242165	91	uniprot:UNRESOLVED ID	adipose	CellType
+PMC3242165	92	uniprot:UNRESOLVED ID	adipose	CellType
+PMC3242165	92	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC3242165	92	uazid:UA-ORG-385	heart	Organ
+PMC3242165	93	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	94	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	94	uazid:UA-ORG-132	cardiac muscle	Organ
+PMC3242165	95	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	96	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	97	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC3242165	97	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	98	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC3242165	98	uazid:UA-ORG-385	heart	Organ
+PMC3242165	99	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC3242165	99	uniprot:UNRESOLVED ID	adipose	CellType
+PMC3242165	99	uazid:UA-ORG-385	heart	Organ
+PMC3242165	100	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	100	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	100	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC3242165	100	uniprot:UNRESOLVED ID	adipose	CellType
+PMC3242165	100	uazid:UA-ORG-385	heart	Organ
+PMC3242165	101	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC3242165	102	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC3242165	102	uazid:UA-ORG-520	liver	Organ
+PMC3242165	103	uazid:UA-ORG-132	cardiac muscle	Organ
+PMC3242165	104	uniprot:UNRESOLVED ID	LPL REH	Gene_or_gene_product
+PMC3242165	104	uazid:UA-ORG-385	heart	Organ
+PMC3242165	104	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC3242165	104	uniprot:UNRESOLVED ID	adipose	CellType
+PMC3242165	105	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	105	uazid:UA-ORG-385	heart	Organ
+PMC3242165	105	uniprot:P01266	TG	Gene_or_gene_product
+PMC3242165	106	uniprot:O89094	mice	Species
+PMC3242165	106	uniprot:P16671	CD36	Gene_or_gene_product
+PMC3242165	107	uniprot:UNRESOLVED ID	VLDL	Gene_or_gene_product
+PMC3242165	107	uazid:UA-ORG-385	heart	Organ
+PMC3242165	107	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	107	uniprot:P16671	CD36	Gene_or_gene_product
+PMC3242165	108	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	109	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	110	uazid:UA-ORG-132	cardiac muscle	Organ
+PMC3242165	110	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	111	uniprot:P02753	RBP4	Gene_or_gene_product
+PMC3242165	111	uniprot:UNRESOLVED ID	milk	CellType
+PMC3242165	112	uniprot:UNRESOLVED ID	Milk	CellType
+PMC3242165	112	uniprot:UNRESOLVED ID	serum	CellType
+PMC3242165	112	uniprot:P02753	RBP4	Gene_or_gene_product
+PMC3242165	112	uniprot:O89094	mice	Species
+PMC3242165	112	uniprot:P25445	FAs	Gene_or_gene_product
+PMC3242165	113	uniprot:P15493	lipase	Organ
+PMC3242165	113	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	113	uniprot:UNRESOLVED ID	milk	CellType
+PMC3242165	114	uniprot:P25445	FAs	Gene_or_gene_product
+PMC3242165	115	uazid:UA-ORG-461	kidney	Organ
+PMC3242165	115	uazid:UA-ORG-537	lung	Organ
+PMC3242165	115	uazid:UA-ORG-903	spleen	Organ
+PMC3242165	115	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	115	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	116	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	120	uniprot:P01266	TG	Gene_or_gene_product
+PMC3242165	120	uazid:UA-ORG-520	liver	Organ
+PMC3242165	121	uniprot:P16233	PTL	Gene_or_gene_product
+PMC3242165	121	uniprot:P19835	CEL	Gene_or_gene_product
+PMC3242165	121	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	121	uazid:UA-ORG-451	intestine	Organ
+PMC3242165	125	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3242165	126	uazid:UA-ORG-520	liver	Organ
+PMC3242165	126	uniprot:P02753	RBP4	Gene_or_gene_product
+PMC3242165	127	uniprot:P02753	RBP4	Gene_or_gene_product
+PMC3242165	127	uniprot:UNRESOLVED ID	RBP4 receptor	Gene_or_gene_product
+PMC3242165	127	uniprot:Q9BX79	STRA6	Gene_or_gene_product
+PMC3242165	129	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	131	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3242165	132	uniprot:O89094	mice	Species
+PMC3242165	132	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3242165	133	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3242165	136	uniprot:P03372	ER	Gene_or_gene_product
+PMC3242165	137	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC3242165	137	uniprot:Q5TKA1	TGs	Gene_or_gene_product
+PMC3242165	139	uniprot:P54829	step	Gene_or_gene_product
+PMC3242165	140	uazid:UA-ORG-725	plasma	Organ
+PMC3242165	141	uniprot:UNRESOLVED ID	CM-associated REs	Gene_or_gene_product
+PMC3242165	142	uniprot:P03372	ER	Gene_or_gene_product
+PMC3242165	143	uniprot:P03372	ER	Gene_or_gene_product
+PMC3242165	143	uniprot:P02753	RBP4	Gene_or_gene_product
+PMC3242165	144	uniprot:UNRESOLVED ID	mammalian non-specific carboxylesterase super-gene family	Gene_or_gene_product
+PMC3242165	144	uniprot:Q16769	EC	Gene_or_gene_product
+PMC3242165	144	uniprot:Q05487	carboxylesterases	Gene_or_gene_product
+PMC3242165	144	uazid:UA-ORG-520	liver	Organ
+PMC3242165	145	uniprot:Q05487	carboxylesterases	Gene_or_gene_product
+PMC3242165	145	uniprot:P03372	ER	Gene_or_gene_product
+PMC3242165	146	uniprot:Q05487	carboxylesterases	Gene_or_gene_product
+PMC3242165	147	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	147	uniprot:Q2G0B1	rat	Species
+PMC3242165	147	uniprot:Q96DF8	Es2	Gene_or_gene_product
+PMC3242165	147	uniprot:UNRESOLVED ID	Es3	Gene_or_gene_product
+PMC3242165	147	uniprot:UNRESOLVED ID	Es4	Gene_or_gene_product
+PMC3242165	147	uniprot:Q9R0P3	Es10	Gene_or_gene_product
+PMC3242165	148	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3242165	149	uniprot:Q05487	carboxylesterases	Gene_or_gene_product
+PMC3242165	149	ncbitax:species:ncbi:10090	mouse	Species
+PMC3242165	149	uniprot:Q2G0B1	rat	Species
+PMC3242165	149	ncbitax:species:ncbi:9606	humans	Species
+PMC3242165	150	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	150	uniprot:Q96DF8	Es2	Gene_or_gene_product
+PMC3242165	151	uniprot:Q2G0B1	Rat	Species
+PMC3242165	151	uniprot:Q96DF8	Es2	Gene_or_gene_product
+PMC3242165	151	uazid:UA-ORG-520	liver	Organ
+PMC3242165	151	uniprot:P03372	ER	Gene_or_gene_product
+PMC3242165	152	uniprot:Q96DF8	Es2	Gene_or_gene_product
+PMC3242165	152	uniprot:Q2G0B1	rat	Species
+PMC3242165	152	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3242165	152	uniprot:UNRESOLVED ID	serum	CellType
+PMC3242165	152	uniprot:P03372	ER	Gene_or_gene_product
+PMC3242165	153	uniprot:P10959	NREH	Gene_or_gene_product
+PMC3242165	153	uniprot:Q5TKA1	TGs	Gene_or_gene_product
+PMC3242165	153	uniprot:Q2G0B1	rat	Species
+PMC3242165	154	uniprot:Q2G0B1	rat	Species
+PMC3242165	154	uniprot:Q96DF8	Es2	Gene_or_gene_product
+PMC3242165	155	uniprot:Q96DF8	Es2	Gene_or_gene_product
+PMC3242165	156	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	156	uniprot:Q9R0P3	Es10	Gene_or_gene_product
+PMC3242165	157	uniprot:Q9R0P3	Es10	Gene_or_gene_product
+PMC3242165	157	uniprot:Q2G0B1	rat	Species
+PMC3242165	157	uniprot:P01298	pH	Gene_or_gene_product
+PMC3242165	157	uniprot:Q5TKA1	TGs	Gene_or_gene_product
+PMC3242165	158	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	158	uniprot:P02753	RBP4	Gene_or_gene_product
+PMC3242165	158	uniprot:P09455	cellular retinol-binding protein	Gene_or_gene_product
+PMC3242165	158	uniprot:P09455	CRBP1	Gene_or_gene_product
+PMC3242165	158	uniprot:UNRESOLVED ID	albumin	Gene_or_gene_product
+PMC3242165	159	uniprot:Q9R0P3	Es10	Gene_or_gene_product
+PMC3242165	159	uniprot:P03372	ER	Gene_or_gene_product
+PMC3242165	159	uniprot:UNRESOLVED ID	HXEL	Gene_or_gene_product
+PMC3242165	160	uniprot:UNRESOLVED ID	Es10 mRNA	Gene_or_gene_product
+PMC3242165	160	uazid:UA-ORG-520	liver	Organ
+PMC3242165	160	uazid:UA-ORG-537	lung	Organ
+PMC3242165	160	uniprot:UNRESOLVED ID	testis	CellType
+PMC3242165	161	uniprot:Q9R0P3	Es10	Gene_or_gene_product
+PMC3242165	161	uniprot:P03372	ER	Gene_or_gene_product
+PMC3242165	162	uniprot:Q64176	Es22	Gene_or_gene_product
+PMC3242165	163	uniprot:UNRESOLVED ID	murine Es22	Gene_or_gene_product
+PMC3242165	163	uazid:UA-ORG-520	liver	Organ
+PMC3242165	163	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3242165	164	uniprot:Q64176	Es22	Gene_or_gene_product
+PMC3242165	164	uniprot:P03372	ER	Gene_or_gene_product
+PMC3242165	165	uniprot:Q64176	Es22	Gene_or_gene_product
+PMC3242165	165	uniprot:Q5TKA1	TGs	Gene_or_gene_product
+PMC3242165	166	uniprot:Q64176	Es22	Gene_or_gene_product
+PMC3242165	167	uniprot:Q64176	Es22	Gene_or_gene_product
+PMC3242165	167	uniprot:P03372	ER	Gene_or_gene_product
+PMC3242165	168	uniprot:P02753	RBP4	Gene_or_gene_product
+PMC3242165	169	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	169	uniprot:P02753	RBP4	Gene_or_gene_product
+PMC3242165	170	uniprot:Q64176	Es22	Gene_or_gene_product
+PMC3242165	171	uniprot:UNRESOLVED ID	Es4	Gene_or_gene_product
+PMC3242165	171	uniprot:Q2G0B1	rat	Species
+PMC3242165	171	uniprot:P30941	pig	Species
+PMC3242165	171	ncbitax:species:ncbi:9606	human	Species
+PMC3242165	171	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	172	uniprot:UNRESOLVED ID	Es4	Gene_or_gene_product
+PMC3242165	172	uniprot:P03372	ER	Gene_or_gene_product
+PMC3242165	173	uniprot:UNRESOLVED ID	Es4	Gene_or_gene_product
+PMC3242165	174	uniprot:Q05487	carboxylesterases	Gene_or_gene_product
+PMC3242165	175	uniprot:Q9R0P3	Es10	Gene_or_gene_product
+PMC3242165	175	uniprot:P86325	carboxylesterase	Gene_or_gene_product
+PMC3242165	175	uazid:UA-ORG-520	liver	Organ
+PMC3242165	175	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3242165	175	uniprot:UNRESOLVED ID	Es4	Gene_or_gene_product
+PMC3242165	175	uniprot:UNRESOLVED ID	Es3	Gene_or_gene_product
+PMC3242165	176	uniprot:Q9R0P3	Es10	Gene_or_gene_product
+PMC3242165	176	uniprot:UNRESOLVED ID	Es4	Gene_or_gene_product
+PMC3242165	176	uniprot:P10959	NREH	Gene_or_gene_product
+PMC3242165	178	uniprot:Q05469	Hormone-sensitive lipase	Gene_or_gene_product
+PMC3242165	178	uniprot:Q05469	HSL	Gene_or_gene_product
+PMC3242165	178	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	178	uniprot:UNRESOLVED ID	adipose	CellType
+PMC3242165	179	uniprot:Q05469	HSL	Gene_or_gene_product
+PMC3242165	179	uazid:UA-ORG-520	liver	Organ
+PMC3242165	180	uniprot:Q05469	HSL	Gene_or_gene_product
+PMC3242165	180	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3242165	181	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3242165	181	uniprot:Q05469	HSL	Gene_or_gene_product
+PMC3242165	181	uniprot:O89094	mice	Species
+PMC3242165	182	uniprot:Q05469	HSL	Gene_or_gene_product
+PMC3242165	182	uazid:UA-ORG-520	liver	Organ
+PMC3242165	182	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3242165	185	uazid:UA-ORG-520	liver	Organ
+PMC3242165	186	uazid:UA-ORG-520	liver	Organ
+PMC3242165	186	uazid:UA-ORG-666	pancreas	Organ
+PMC3242165	186	uazid:UA-CT-200001	brain	Organ
+PMC3242165	186	uazid:UA-ORG-461	kidney	Organ
+PMC3242165	189	uniprot:P19526	HSC	Gene_or_gene_product
+PMC3242165	189	uniprot:Q5TKA1	TGs	Gene_or_gene_product
+PMC3242165	191	uniprot:O95237	LRAT	Gene_or_gene_product
+PMC3242165	191	uniprot:P09455	CRBP1	Gene_or_gene_product
+PMC3242165	191	uazid:UA-ORG-520	liver	Organ
+PMC3242165	192	uniprot:P19526	HSC	Gene_or_gene_product
+PMC3242165	193	uazid:UA-ORG-520	liver	Organ
+PMC3242165	193	uniprot:P19526	HSC	Gene_or_gene_product
+PMC3242165	195	uniprot:P19526	HSC	Gene_or_gene_product
+PMC3242165	196	uniprot:P19526	HSC	Gene_or_gene_product
+PMC3242165	197	uniprot:O89094	mice	Species
+PMC3242165	197	uniprot:O95237	LRAT	Gene_or_gene_product
+PMC3242165	197	uniprot:P19526	HSC	Gene_or_gene_product
+PMC3242165	197	uazid:UA-ORG-520	liver	Organ
+PMC3242165	198	uniprot:P34739	LDs	Gene_or_gene_product
+PMC3242165	198	uazid:UA-ORG-520	liver	Organ
+PMC3242165	200	uniprot:P19526	HSC	Gene_or_gene_product
+PMC3242165	200	uniprot:Q2G0B1	rat	Species
+PMC3242165	200	uazid:UA-ORG-520	livers	Organ
+PMC3242165	200	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	201	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	201	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3242165	202	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	202	uniprot:P19835	CEL	Gene_or_gene_product
+PMC3242165	203	uniprot:P19835	CEL	Gene_or_gene_product
+PMC3242165	203	uazid:UA-ORG-451	intestine	Organ
+PMC3242165	203	uazid:UA-ORG-520	liver	Organ
+PMC3242165	204	uniprot:P19835	CEL	Gene_or_gene_product
+PMC3242165	205	uniprot:O89094	mice	Species
+PMC3242165	205	uniprot:P19835	CEL	Gene_or_gene_product
+PMC3242165	206	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	206	uniprot:P10959	NREH	Gene_or_gene_product
+PMC3242165	206	uniprot:UNRESOLVED ID	AREH	Gene_or_gene_product
+PMC3242165	206	uniprot:P19526	HSC	Gene_or_gene_product
+PMC3242165	206	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3242165	207	uniprot:UNRESOLVED ID	AREH	Gene_or_gene_product
+PMC3242165	207	uniprot:Q2G0B1	rat	Species
+PMC3242165	208	uniprot:UNRESOLVED ID	lysosomal AREH	Gene_or_gene_product
+PMC3242165	208	uniprot:Q2G0B1	rat	Species
+PMC3242165	209	uniprot:P34739	LDs	Gene_or_gene_product
+PMC3242165	209	uniprot:UNRESOLVED ID	lysosomal AREH	Gene_or_gene_product
+PMC3242165	210	uniprot:UNRESOLVED ID	AREH	Gene_or_gene_product
+PMC3242165	211	uniprot:Q2G0B1	rat	Species
+PMC3242165	211	uniprot:Q9R0P3	Es10	Gene_or_gene_product
+PMC3242165	211	uniprot:P86325	carboxylesterase	Gene_or_gene_product
+PMC3242165	211	uniprot:P19526	HSC	Gene_or_gene_product
+PMC3242165	212	uniprot:UNRESOLVED ID	Es10 protein	Gene_or_gene_product
+PMC3242165	212	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3242165	212	uniprot:UNRESOLVED ID	fibrotic liver	CellType
+PMC3242165	212	uniprot:Q9R0P3	Es10	Gene_or_gene_product
+PMC3242165	212	uniprot:P19526	HSC	Gene_or_gene_product
+PMC3242165	214	uniprot:Q05487	carboxylesterases	Gene_or_gene_product
+PMC3242165	214	uniprot:Q2G0B1	rat	Species
+PMC3242165	214	uniprot:UNRESOLVED ID	Es4	Gene_or_gene_product
+PMC3242165	214	uniprot:Q9R0P3	Es10	Gene_or_gene_product
+PMC3242165	214	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3242165	215	uazid:UA-ORG-519	lipases	Organ
+PMC3242165	215	uniprot:Q05469	HSL	Gene_or_gene_product
+PMC3242165	215	uniprot:P16233	PTL	Gene_or_gene_product
+PMC3242165	216	uniprot:Q96AD5	adipose triglyceride lipase	Gene_or_gene_product
+PMC3242165	216	uniprot:Q96AD5	ATGL	Gene_or_gene_product
+PMC3242165	216	uniprot:Q2G0B1	rat	Species
+PMC3242165	217	uniprot:Q96AD5	ATGL	Gene_or_gene_product
+PMC3242165	217	uniprot:Q5TKA1	TGs	Gene_or_gene_product
+PMC3242165	217	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	218	uniprot:P19835	CEL	Gene_or_gene_product
+PMC3242165	218	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3242165	218	uniprot:Q9R0P3	Es10	Gene_or_gene_product
+PMC3242165	218	uniprot:Q96AD5	ATGL	Gene_or_gene_product
+PMC3242165	219	uniprot:Q68DA7	LD	Gene_or_gene_product
+PMC3242165	220	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	221	uniprot:UNRESOLVED ID	adipose	CellType
+PMC3242165	224	uniprot:UNRESOLVED ID	adipocytes	CellType
+PMC3242165	225	uniprot:P02753	RBP4	Gene_or_gene_product
+PMC3242165	225	uniprot:UNRESOLVED ID	~ 1	Gene_or_gene_product
+PMC3242165	225	uazid:UA-ORG-520	liver	Organ
+PMC3242165	226	uniprot:UNRESOLVED ID	adipose	CellType
+PMC3242165	226	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	227	uniprot:UNRESOLVED ID	adipocytes	CellType
+PMC3242165	227	uniprot:P02753	RBP4	Gene_or_gene_product
+PMC3242165	228	uniprot:UNRESOLVED ID	adipose	CellType
+PMC3242165	229	uniprot:UNRESOLVED ID	adipose	CellType
+PMC3242165	229	uazid:UA-ORG-725	plasma	Organ
+PMC3242165	229	uniprot:P02753	RBP4	Gene_or_gene_product
+PMC3242165	230	uniprot:UNRESOLVED ID	adipose	CellType
+PMC3242165	231	uazid:UA-ORG-519	lipases	Organ
+PMC3242165	231	uniprot:Q5TKA1	TGs	Gene_or_gene_product
+PMC3242165	231	uniprot:UNRESOLVED ID	adipocytes	CellType
+PMC3242165	231	uniprot:Q96AD5	ATGL	Gene_or_gene_product
+PMC3242165	231	uniprot:Q05469	HSL	Gene_or_gene_product
+PMC3242165	231	uniprot:Q99685	monoglyceride lipase	Gene_or_gene_product
+PMC3242165	231	uniprot:Q99685	MGL	Gene_or_gene_product
+PMC3242165	231	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	232	uniprot:Q05469	HSL	Gene_or_gene_product
+PMC3242165	232	uniprot:UNRESOLVED ID	brown adipose tissue	CellType
+PMC3242165	232	uniprot:O89094	mice	Species
+PMC3242165	233	uniprot:O89094	mice	Species
+PMC3242165	233	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	235	uniprot:O89094	mice	Species
+PMC3242165	235	uniprot:P10276	retinoic acid receptor alpha	Gene_or_gene_product
+PMC3242165	235	uniprot:P10276	RARalpha	Gene_or_gene_product
+PMC3242165	235	uniprot:P19793	retinoid X receptor alpha	Gene_or_gene_product
+PMC3242165	235	uniprot:UNRESOLVED ID	RXRalpha	Gene_or_gene_product
+PMC3242165	235	uniprot:P37231	peroxisome proliferator-activated receptor gamma	Gene_or_gene_product
+PMC3242165	235	uniprot:P36956	sterol regulatory element binding protein 1	Gene_or_gene_product
+PMC3242165	236	uniprot:Q05469	HSL	Gene_or_gene_product
+PMC3242165	236	uniprot:O89094	mice	Species
+PMC3242165	237	uniprot:O89094	mice	Species
+PMC3242165	237	uniprot:Q5TKA1	TGs	Gene_or_gene_product
+PMC3242165	239	uniprot:O89094	mice	Species
+PMC3242165	241	ncbitax:species:ncbi:10116	rats	Species
+PMC3242165	242	uniprot:P10276	RARalpha-	Gene_or_gene_product
+PMC3242165	242	uniprot:UNRESOLVED ID	RXRbeta-	Gene_or_gene_product
+PMC3242165	242	uniprot:O89094	mice	Species
+PMC3242165	243	uniprot:Q96AD5	ATGL	Gene_or_gene_product
+PMC3242165	243	uniprot:P01266	TG	Gene_or_gene_product
+PMC3242165	244	uniprot:O89094	mice	Species
+PMC3242165	244	uniprot:Q96AD5	ATGL	Gene_or_gene_product
+PMC3242165	244	uazid:UA-ORG-725	plasma	Organ
+PMC3242165	244	uniprot:P02753	RBP4	Gene_or_gene_product
+PMC3242165	245	uniprot:P01308	insulin	Gene_or_gene_product
+PMC3242165	245	uazid:UA-ORG-725	plasma	Organ
+PMC3242165	245	uniprot:P02753	RBP4	Gene_or_gene_product
+PMC3242165	246	uniprot:Q96AD5	ATGL	Gene_or_gene_product
+PMC3242165	246	uniprot:P02753	RBP4	Gene_or_gene_product
+PMC3242165	247	uazid:UA-ORG-882	skin	Organ
+PMC3242165	248	uazid:UA-ORG-882	skin	Organ
+PMC3242165	250	uniprot:O95237	LRAT	Gene_or_gene_product
+PMC3242165	250	uniprot:UNRESOLVED ID	acyl-CoA	Gene_or_gene_product
+PMC3242165	250	uniprot:O75907	ARAT	Gene_or_gene_product
+PMC3242165	250	uazid:UA-ORG-882	skin	Organ
+PMC3242165	251	uazid:UA-ORG-882	skin	Organ
+PMC3242165	251	uniprot:O75907	ARAT	Gene_or_gene_product
+PMC3242165	251	uniprot:O75907	DGAT1	Gene_or_gene_product
+PMC3242165	252	uazid:UA-ORG-882	skin	Organ
+PMC3242165	253	ncbitax:species:ncbi:9606	human	Species
+PMC3242165	253	uniprot:Q90257	Es1	Gene_or_gene_product
+PMC3242165	253	uniprot:Q96DF8	Es2	Gene_or_gene_product
+PMC3242165	253	uniprot:Q05469	HSL	Gene_or_gene_product
+PMC3242165	253	uniprot:UNRESOLVED ID	keratinocyte	CellType
+PMC3242165	254	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	255	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	255	uniprot:Q05487	carboxylesterases	Gene_or_gene_product
+PMC3242165	255	uniprot:Q05469	HSL	Gene_or_gene_product
+PMC3242165	255	uniprot:UNRESOLVED ID	keratinocyte	CellType
+PMC3242165	256	uniprot:UNRESOLVED ID	keratinocyte	CellType
+PMC3242165	256	ncbitax:species:ncbi:9606	human	Species
+PMC3242165	256	uniprot:P41247	GS2	Gene_or_gene_product
+PMC3242165	256	uniprot:P41247	PNPLA4	Gene_or_gene_product
+PMC3242165	256	uniprot:UNRESOLVED ID	iPLA2eta	Gene_or_gene_product
+PMC3242165	256	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	257	uniprot:P41247	GS2	Gene_or_gene_product
+PMC3242165	257	uniprot:UNRESOLVED ID	phospholipase	Gene_or_gene_product
+PMC3242165	257	uniprot:UNRESOLVED ID	PNPLA	Gene_or_gene_product
+PMC3242165	257	uniprot:P01266	TG	Gene_or_gene_product
+PMC3242165	257	uniprot:Q96AD5	ATGL	Gene_or_gene_product
+PMC3242165	258	ncbitax:species:ncbi:9606	humans	Species
+PMC3242165	258	uniprot:P41247	GS2	Gene_or_gene_product
+PMC3242165	258	uazid:UA-ORG-520	liver	Organ
+PMC3242165	258	uazid:UA-ORG-461	kidney	Organ
+PMC3242165	258	uazid:UA-ORG-599	muscle	Organ
+PMC3242165	258	uazid:UA-ORG-537	lung	Organ
+PMC3242165	258	uazid:UA-ORG-721	placenta	Organ
+PMC3242165	258	uazid:UA-CT-200001	brain	Organ
+PMC3242165	259	uniprot:P41247	GS2	Gene_or_gene_product
+PMC3242165	259	ncbitax:species:ncbi:10090	mouse	Species
+PMC3242165	259	uniprot:Q2G0B1	rat	Species
+PMC3242165	260	ncbitax:species:ncbi:9606	human	Species
+PMC3242165	260	uniprot:P41247	GS2	Gene_or_gene_product
+PMC3242165	260	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	260	uniprot:O75907	ARAT	Gene_or_gene_product
+PMC3242165	261	uniprot:P01298	pH	Gene_or_gene_product
+PMC3242165	261	ncbitax:species:ncbi:9606	human	Species
+PMC3242165	261	uniprot:P41247	GS2	Gene_or_gene_product
+PMC3242165	262	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	262	ncbitax:species:ncbi:9606	human	Species
+PMC3242165	262	uniprot:P41247	GS2	Gene_or_gene_product
+PMC3242165	262	uniprot:Q68DA7	LD	Gene_or_gene_product
+PMC3242165	262	uniprot:UNRESOLVED ID	tail	CellType
+PMC3242165	262	uniprot:O60664	TIP47	Gene_or_gene_product
+PMC3242165	262	uniprot:P34739	LDs	Gene_or_gene_product
+PMC3242165	263	uniprot:P41247	GS2	Gene_or_gene_product
+PMC3242165	263	uniprot:Q96AD5	ATGL	Gene_or_gene_product
+PMC3242165	264	uniprot:UNRESOLVED ID	CGI-58 gene	Gene_or_gene_product
+PMC3242165	264	ncbitax:species:ncbi:9606	humans	Species
+PMC3242165	264	uniprot:O89094	mice	Species
+PMC3242165	264	uazid:UA-ORG-882	skin	Organ
+PMC3242165	265	ncbitax:species:ncbi:9606	humans	Species
+PMC3242165	265	uniprot:O89094	mice	Species
+PMC3242165	265	uniprot:Q96AD5	ATGL	Gene_or_gene_product
+PMC3242165	265	uniprot:UNRESOLVED ID	CGI-58	Gene_or_gene_product
+PMC3242165	265	uazid:UA-ORG-882	skin	Organ
+PMC3242165	266	uniprot:UNRESOLVED ID	CGI-58	Gene_or_gene_product
+PMC3242165	266	uniprot:P41247	GS2	Gene_or_gene_product
+PMC3242165	267	uniprot:P41247	GS2	Gene_or_gene_product
+PMC3242165	267	uniprot:O89094	mice	Species
+PMC3242165	267	ncbitax:species:ncbi:9606	humans	Species
+PMC3242165	267	uniprot:P08842	steroid sulfatase	Gene_or_gene_product
+PMC3242165	267	uniprot:P08842	STS	Gene_or_gene_product
+PMC3242165	268	ncbitax:species:ncbi:9606	human	Species
+PMC3242165	268	uniprot:P41247	GS2	Gene_or_gene_product
+PMC3242165	268	uniprot:UNRESOLVED ID	keratinocyte	CellType
+PMC3242165	270	uniprot:UNRESOLVED ID	retinal pigment epithelium	CellType
+PMC3242165	270	uniprot:Q96AT9	RPE	Gene_or_gene_product
+PMC3242165	270	uniprot:P0C8D9	cone	Organ
+PMC3242165	270	uazid:UA-ORG-712	photoreceptor	Organ
+PMC3242165	271	uniprot:Q96AT9	RPE	Gene_or_gene_product
+PMC3242165	271	uazid:UA-ORG-712	photoreceptor	Organ
+PMC3242165	271	uniprot:O95237	LRAT	Gene_or_gene_product
+PMC3242165	272	uniprot:P03372	ER	Gene_or_gene_product
+PMC3242165	273	uniprot:O43557	light	Gene_or_gene_product
+PMC3242165	275	uniprot:Q96AT9	RPE	Gene_or_gene_product
+PMC3242165	276	uniprot:Q16518	RPE65	Gene_or_gene_product
+PMC3242165	279	uniprot:Q16518	RPE65	Gene_or_gene_product
+PMC3242165	280	uniprot:Q16518	RPE65	Gene_or_gene_product
+PMC3242165	281	uniprot:Q16518	RPE65	Gene_or_gene_product
+PMC3242165	281	uniprot:O89094	mice	Species
+PMC3242165	282	uniprot:O89094	mice	Species
+PMC3242165	282	uazid:UA-ORG-712	photoreceptor	Organ
+PMC3242165	283	ncbitax:species:ncbi:9606	humans	Species
+PMC3242165	283	uniprot:Q16518	RPE65	Gene_or_gene_product
+PMC3242165	284	uniprot:Q16518	RPE65	Gene_or_gene_product
+PMC3242165	284	uniprot:P03372	ER	Gene_or_gene_product
+PMC3242165	286	uniprot:O89094	mice	Species
+PMC3242165	286	uniprot:Q16518	RPE65	Gene_or_gene_product
+PMC3242165	286	uniprot:UNRESOLVED ID	RPE-retinal G protein receptor-opsin	Gene_or_gene_product
+PMC3242165	286	uniprot:O43557	light	Gene_or_gene_product
+PMC3242165	287	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	290	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC3242165	290	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	292	uniprot:P54829	step	Gene_or_gene_product
+PMC3242165	292	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	293	uniprot:Q05469	HSL	Gene_or_gene_product
+PMC3242165	294	uniprot:Q05469	HSL	Gene_or_gene_product
+PMC3242165	294	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC3242165	295	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC3242165	296	uazid:UA-ORG-461	Kidney	Organ
+PMC3242165	297	uazid:UA-ORG-725	plasma	Organ
+PMC3242165	298	uazid:UA-ORG-461	kidney	Organ
+PMC3242165	298	uazid:UA-ORG-520	liver	Organ
+PMC3242165	300	uazid:UA-ORG-461	kidney	Organ
+PMC3242165	301	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	301	uazid:UA-ORG-461	kidney	Organ
+PMC3242165	303	uazid:UA-ORG-725	plasma	Organ
+PMC3242165	304	uazid:UA-ORG-461	kidney	Organ
+PMC3242165	304	uazid:UA-ORG-725	plasma	Organ
+PMC3242165	304	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	305	uniprot:Q2G0B1	rat	Species
+PMC3242165	305	uazid:UA-ORG-461	kidney	Organ
+PMC3242165	306	uazid:UA-ORG-461	kidney	Organ
+PMC3242165	306	uniprot:Q5TKA1	TGs	Gene_or_gene_product
+PMC3242165	308	uazid:UA-ORG-537	lung	Organ
+PMC3242165	311	uazid:UA-ORG-461	kidney	Organ
+PMC3242165	312	uazid:UA-ORG-537	lung	Organ
+PMC3242165	313	uniprot:Q2G0B1	rat	Species
+PMC3242165	313	uazid:UA-ORG-537	lung	Organ
+PMC3242165	315	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	315	uazid:UA-ORG-537	lung	Organ
+PMC3242165	316	uazid:UA-ORG-903	Spleen	Organ
+PMC3242165	317	uazid:UA-ORG-903	spleen	Organ
+PMC3242165	317	uazid:UA-ORG-520	liver	Organ
+PMC3242165	318	uazid:UA-ORG-903	Spleen	Organ
+PMC3242165	318	uniprot:Q9BX79	STRA6	Gene_or_gene_product
+PMC3242165	319	uazid:UA-ORG-903	spleen	Organ
+PMC3242165	320	uniprot:UNRESOLVED ID	testis	CellType
+PMC3242165	321	uniprot:P02753	RBP4	Gene_or_gene_product
+PMC3242165	321	uniprot:UNRESOLVED ID	RBP4 receptor	Gene_or_gene_product
+PMC3242165	321	uniprot:Q9BX79	STRA6	Gene_or_gene_product
+PMC3242165	322	uniprot:O95237	LRAT	Gene_or_gene_product
+PMC3242165	323	uniprot:Q05469	HSL	Gene_or_gene_product
+PMC3242165	323	uniprot:UNRESOLVED ID	adipose	CellType
+PMC3242165	324	uazid:UA-CT-200001	brain	Organ
+PMC3242165	326	ncbitax:species:ncbi:10090	mouse	Species
+PMC3242165	326	uniprot:P10826	RARbeta	Gene_or_gene_product
+PMC3242165	326	uniprot:UNRESOLVED ID	RXRgamma	Gene_or_gene_product
+PMC3242165	327	uazid:UA-CT-200001	brain	Organ
+PMC3242165	328	uniprot:Q9BX79	STRA6	Gene_or_gene_product
+PMC3242165	328	uazid:UA-CT-200001	brain	Organ
+PMC3242165	329	uniprot:P09455	CRBP	Gene_or_gene_product
+PMC3242165	329	uniprot:P02753	RBP4	Gene_or_gene_product
+PMC3242165	329	uazid:UA-ORG-162	choroid plexus	Organ
+PMC3242165	330	uniprot:O89094	mice	Species
+PMC3242165	330	uazid:UA-CT-200001	brain	Organ
+PMC3242165	331	uniprot:UNRESOLVED ID	13-cis isomerohydrolase	Gene_or_gene_product
+PMC3242165	331	uniprot:A9C3R9	13cIMH	Gene_or_gene_product
+PMC3242165	331	ncbitax:species:ncbi:7955	zebra fish	Species
+PMC3242165	332	ncbitax:species:ncbi:9606	human	Species
+PMC3242165	332	uniprot:Q16518	RPE65	Gene_or_gene_product
+PMC3242165	333	uniprot:Q16518	RPE65	Gene_or_gene_product
+PMC3242165	333	uniprot:A9C3R9	13cIMH	Gene_or_gene_product
+PMC3242165	334	uniprot:UNRESOLVED ID	13cIMH mRNA transcript	Gene_or_gene_product
+PMC3242165	334	ncbitax:species:ncbi:9606	human	Species
+PMC3242165	334	uazid:UA-CT-200001	brain	Organ
+PMC3242165	334	uniprot:A9C3R9	13cIMH	Gene_or_gene_product
+PMC3242165	335	uniprot:O89094	mice	Species
+PMC3242165	336	uniprot:O89094	mice	Species
+PMC3242165	336	ncbitax:species:ncbi:9606	humans	Species
+PMC3242165	337	uniprot:UNRESOLVED ID	REHs	Gene_or_gene_product
+PMC3242165	340	uniprot:P16233	PTL	Gene_or_gene_product
+PMC3242165	340	uniprot:P19835	CEL	Gene_or_gene_product
+PMC3242165	340	uazid:UA-ORG-451	intestine	Organ
+PMC3242165	340	uniprot:P01266	TG	Gene_or_gene_product
+PMC3242165	341	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	342	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	343	uazid:UA-ORG-520	Liver	Organ
+PMC3242165	346	uazid:UA-ORG-725	plasma	Organ
+PMC3242165	347	uniprot:Q05469	HSL	Gene_or_gene_product
+PMC3242165	347	uniprot:UNRESOLVED ID	adipose	CellType
+PMC3242165	347	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	350	uniprot:UNRESOLVED ID	P18434	Gene_or_gene_product
+PMC3242165	350	uniprot:UNRESOLVED ID	P21296	Gene_or_gene_product
+PMC3242165	350	uniprot:UNRESOLVED ID	P22170	Gene_or_gene_product
+PMC3242165	350	uniprot:UNRESOLVED ID	Wittgenstein Award Z136	Gene_or_gene_product
+PMC3242165	350	uniprot:Q9FGV1	FWF	Gene_or_gene_product
+PMC3242165	352	uniprot:P20916	Mag	Gene_or_gene_product
+PMC3242165	357	uniprot:P23141	REH	Gene_or_gene_product
+PMC3242165	360	uniprot:P19835	CEL	Gene_or_gene_product
+PMC3242165	360	uniprot:P15493	lipase	Organ
+PMC3242165	360	uniprot:UNRESOLVED ID	Es2/3/4	Gene_or_gene_product
+PMC3242165	360	uniprot:P41247	GS2	Gene_or_gene_product
+PMC3242165	360	uniprot:UNRESOLVED ID	gene sequence 2	Gene_or_gene_product
+PMC3242165	360	uniprot:Q05469	HSL	Gene_or_gene_product
+PMC3242165	360	uniprot:Q05469	hormone-sensitive lipase	Gene_or_gene_product
+PMC3242165	360	uniprot:P06858	LPL	Gene_or_gene_product
+PMC3242165	360	uniprot:P06858	lipoprotein lipase	Gene_or_gene_product
+PMC3242165	360	uniprot:P54317	PLRP2	Gene_or_gene_product
+PMC3242165	360	uniprot:P54317	pancreatic lipase related protein 2	Gene_or_gene_product
+PMC3242165	360	uniprot:P16233	PTL	Gene_or_gene_product
+PMC3242165	360	uniprot:Q16518	RPE65	Gene_or_gene_product
+PMC3242165	360	uniprot:UNRESOLVED ID	retinal pigment epithelium	CellType
+PMC3242165	361	ncbitax:species:ncbi:10090	mouse	Species
+PMC3242165	361	uniprot:Q2G0B1	rat	Species
+PMC3242165	361	ncbitax:species:ncbi:9606	humans	Species

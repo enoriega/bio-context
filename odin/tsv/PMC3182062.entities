@@ -1,0 +1,737 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC3182062	0	uniprot:UNRESOLVED ID	hepatocellular carcinoma	CellType
+PMC3182062	0	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	1	uniprot:O89094	Mice	Species
+PMC3182062	1	uniprot:P06400	Rb	Gene_or_gene_product
+PMC3182062	1	uazid:UA-ORG-520	liver	Organ
+PMC3182062	1	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	2	uniprot:UNRESOLVED ID	Hepatocellular carcinoma	CellType
+PMC3182062	2	uniprot:O14763	killer	Gene_or_gene_product
+PMC3182062	4	uniprot:UNRESOLVED ID	retinoblastoma	CellType
+PMC3182062	4	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	5	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	5	uazid:UA-ORG-520	liver	Organ
+PMC3182062	5	uniprot:O89094	mice	Species
+PMC3182062	5	uniprot:P06400	Rb	Gene_or_gene_product
+PMC3182062	5	uniprot:P06400	Rb1	Gene_or_gene_product
+PMC3182062	5	uniprot:P28749	p107	Gene_or_gene_product
+PMC3182062	5	uniprot:Q08999	p130	Gene_or_gene_product
+PMC3182062	6	uniprot:P06400	Rb	Gene_or_gene_product
+PMC3182062	6	uniprot:O89094	mice	Species
+PMC3182062	6	uazid:UA-ORG-520	liver	Organ
+PMC3182062	6	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	7	ncbitax:species:ncbi:10090	mouse	Species
+PMC3182062	7	uazid:UA-ORG-520	liver	Organ
+PMC3182062	7	uniprot:UNRESOLVED ID	stem	CellType
+PMC3182062	7	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	10	uniprot:P06400	Rb	Gene_or_gene_product
+PMC3182062	10	uazid:UA-ORG-520	liver	Organ
+PMC3182062	10	uniprot:O89094	mice	Species
+PMC3182062	10	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	11	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	11	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	11	uniprot:P06400	Rb	Gene_or_gene_product
+PMC3182062	11	uazid:UA-ORG-520	liver	Organ
+PMC3182062	11	uniprot:O89094	mice	Species
+PMC3182062	11	ncbitax:species:ncbi:10535	adenovirus	Species
+PMC3182062	11	uniprot:UNRESOLVED ID	Cre recombinase	Gene_or_gene_product
+PMC3182062	11	uniprot:P10735	TKO	Gene_or_gene_product
+PMC3182062	11	uniprot:UNRESOLVED ID	cTKO	Gene_or_gene_product
+PMC3182062	11	uniprot:UNRESOLVED ID	Rblox	Gene_or_gene_product
+PMC3182062	11	uniprot:P28300	lox	Gene_or_gene_product
+PMC3182062	11	uniprot:UNRESOLVED ID	p130lox	Gene_or_gene_product
+PMC3182062	11	uniprot:P28749	p107-/-	Gene_or_gene_product
+PMC3182062	12	ncbitax:species:ncbi:10535	adenovirus	Species
+PMC3182062	12	uniprot:UNRESOLVED ID	Cre recombinase	Gene_or_gene_product
+PMC3182062	12	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3182062	12	uazid:UA-ORG-520	liver	Organ
+PMC3182062	13	uniprot:O89094	mice	Species
+PMC3182062	13	uniprot:UNRESOLVED ID	Ad-GFP	Gene_or_gene_product
+PMC3182062	13	uazid:UA-ORG-520	liver	Organ
+PMC3182062	14	uniprot:UNRESOLVED ID	RT-PCR	Gene_or_gene_product
+PMC3182062	14	uniprot:UNRESOLVED ID	RT-qPCR	Gene_or_gene_product
+PMC3182062	14	uniprot:P06400	Rb	Gene_or_gene_product
+PMC3182062	14	uniprot:Q08999	p130	Gene_or_gene_product
+PMC3182062	15	uniprot:Q08999	p130	Gene_or_gene_product
+PMC3182062	15	uniprot:P28749	p107	Gene_or_gene_product
+PMC3182062	15	uazid:UA-ORG-520	liver	Organ
+PMC3182062	17	uazid:UA-ORG-520	liver	Organ
+PMC3182062	17	uniprot:O89094	mice	Species
+PMC3182062	18	uniprot:P06400	Rb	Gene_or_gene_product
+PMC3182062	18	ncbitax:species:ncbi:10090	mouse	Species
+PMC3182062	18	uazid:UA-ORG-520	liver	Organ
+PMC3182062	19	ncbitax:species:ncbi:10090	mouse	Species
+PMC3182062	19	uazid:UA-ORG-520	liver	Organ
+PMC3182062	20	uniprot:O89094	mice	Species
+PMC3182062	21	uniprot:P06400	Rb	Gene_or_gene_product
+PMC3182062	21	uniprot:Q08999	p130	Gene_or_gene_product
+PMC3182062	21	uazid:UA-ORG-520	livers	Organ
+PMC3182062	21	uniprot:P40313	CTRL	Gene_or_gene_product
+PMC3182062	21	uniprot:UNRESOLVED ID	Rblox	Gene_or_gene_product
+PMC3182062	21	uniprot:P28300	lox	Gene_or_gene_product
+PMC3182062	21	uniprot:UNRESOLVED ID	p130lox	Gene_or_gene_product
+PMC3182062	21	uniprot:P28749	p107-/-	Gene_or_gene_product
+PMC3182062	22	uazid:UA-ORG-520	liver	Organ
+PMC3182062	24	uniprot:P02771	Afp	Gene_or_gene_product
+PMC3182062	24	uniprot:P40313	CTRL	Gene_or_gene_product
+PMC3182062	24	uazid:UA-ORG-520	livers	Organ
+PMC3182062	25	uniprot:UNRESOLVED ID	H&E	Gene_or_gene_product
+PMC3182062	25	uazid:UA-ORG-520	liver	Organ
+PMC3182062	26	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3182062	27	uniprot:P40313	CTRL	Gene_or_gene_product
+PMC3182062	27	uazid:UA-ORG-520	livers	Organ
+PMC3182062	27	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC3182062	27	uniprot:P08727	CK19	Gene_or_gene_product
+PMC3182062	27	uniprot:UNRESOLVED ID	Albumin	Gene_or_gene_product
+PMC3182062	27	uniprot:P02768	Alb	Gene_or_gene_product
+PMC3182062	28	uazid:UA-CT-33	bile	CellType
+PMC3182062	30	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	30	uniprot:P53701	HCCs	Gene_or_gene_product
+PMC3182062	30	ncbitax:species:ncbi:10090	mouse	Species
+PMC3182062	31	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	31	uniprot:P42771	CDKN2A	Gene_or_gene_product
+PMC3182062	32	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	32	uazid:UA-ORG-520	liver	Organ
+PMC3182062	32	uniprot:P40313	CTRL	Gene_or_gene_product
+PMC3182062	32	ncbitax:species:ncbi:10090	mouse	Species
+PMC3182062	32	uazid:UA-ORG-520	livers	Organ
+PMC3182062	36	uniprot:P02771	Afp	Gene_or_gene_product
+PMC3182062	36	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3182062	37	uniprot:UNRESOLVED ID	Albumin	Gene_or_gene_product
+PMC3182062	37	uniprot:UNRESOLVED ID	hepatocyte	CellType
+PMC3182062	37	uniprot:P08727	CK19	Gene_or_gene_product
+PMC3182062	37	uniprot:P16422	EpCAM	Gene_or_gene_product
+PMC3182062	37	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC3182062	38	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	38	uniprot:P53701	HCCs	Gene_or_gene_product
+PMC3182062	39	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	39	uniprot:P53701	HCCs	Gene_or_gene_product
+PMC3182062	40	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	40	uniprot:P53701	HCCs	Gene_or_gene_product
+PMC3182062	40	uniprot:UNRESOLVED ID	G1-G6	Gene_or_gene_product
+PMC3182062	42	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	42	uniprot:P42771	CDKN2A	Gene_or_gene_product
+PMC3182062	42	uniprot:P42771	p16INK4a	Gene_or_gene_product
+PMC3182062	42	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	43	uazid:UA-ORG-520	liver	Organ
+PMC3182062	43	uniprot:O89094	mice	Species
+PMC3182062	43	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	44	uniprot:UNRESOLVED ID	stem	CellType
+PMC3182062	44	uniprot:P06400	Rb	Gene_or_gene_product
+PMC3182062	44	uazid:UA-ORG-520	liver	Organ
+PMC3182062	44	uniprot:O89094	mice	Species
+PMC3182062	45	ncbitax:species:ncbi:10090	mouse	Species
+PMC3182062	46	uniprot:P16961	Cre	Gene_or_gene_product
+PMC3182062	46	uniprot:P06400	Rb	Gene_or_gene_product
+PMC3182062	46	uazid:UA-ORG-520	liver	Organ
+PMC3182062	46	uniprot:O89094	mice	Species
+PMC3182062	47	uazid:UA-ORG-520	liver	Organ
+PMC3182062	47	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3182062	48	uniprot:P15104	GS	Gene_or_gene_product
+PMC3182062	48	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3182062	48	uazid:UA-ORG-1067	veins	Organ
+PMC3182062	49	uazid:UA-ORG-520	liver	Organ
+PMC3182062	49	uniprot:O89094	mice	Species
+PMC3182062	50	uniprot:UNRESOLVED ID	Ki67	Gene_or_gene_product
+PMC3182062	50	uazid:UA-ORG-520	liver	Organ
+PMC3182062	50	uniprot:O89094	mice	Species
+PMC3182062	50	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3182062	51	uniprot:P42574	caspase 3	Gene_or_gene_product
+PMC3182062	51	uniprot:O89094	mice	Species
+PMC3182062	52	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	52	uazid:UA-ORG-520	liver	Organ
+PMC3182062	52	uniprot:O89094	mice	Species
+PMC3182062	53	uniprot:P06400	Rb	Gene_or_gene_product
+PMC3182062	53	uazid:UA-ORG-520	liver	Organ
+PMC3182062	53	uniprot:UNRESOLVED ID	stem	CellType
+PMC3182062	54	uazid:UA-ORG-520	liver	Organ
+PMC3182062	54	ncbitax:species:ncbi:10090	mouse	Species
+PMC3182062	56	uniprot:O89094	mice	Species
+PMC3182062	58	uazid:UA-ORG-520	liver	Organ
+PMC3182062	58	uniprot:P15104	GS	Gene_or_gene_product
+PMC3182062	58	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3182062	58	uazid:UA-ORG-1067	vein	Organ
+PMC3182062	59	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC3182062	61	uniprot:O89094	mice	Species
+PMC3182062	61	uniprot:UNRESOLVED ID	Ki67	Gene_or_gene_product
+PMC3182062	63	uniprot:P40313	CTRL	Gene_or_gene_product
+PMC3182062	63	uazid:UA-ORG-520	liver	Organ
+PMC3182062	63	uniprot:P42574	Sca1	Gene_or_gene_product
+PMC3182062	64	uniprot:P42574	Sca1	Gene_or_gene_product
+PMC3182062	65	uniprot:P40313	CTRL	Gene_or_gene_product
+PMC3182062	65	uazid:UA-ORG-520	livers	Organ
+PMC3182062	69	uniprot:P08727	CK19	Gene_or_gene_product
+PMC3182062	69	uniprot:P16422	EpCAM	Gene_or_gene_product
+PMC3182062	69	uazid:UA-ORG-520	liver	Organ
+PMC3182062	70	uazid:UA-ORG-520	liver	Organ
+PMC3182062	70	uniprot:O89094	mice	Species
+PMC3182062	71	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC3182062	71	uazid:UA-ORG-520	liver	Organ
+PMC3182062	71	uniprot:UNRESOLVED ID	bile duct cells	CellType
+PMC3182062	71	uniprot:O89094	mice	Species
+PMC3182062	72	uniprot:P48436	Sox9	Gene_or_gene_product
+PMC3182062	72	uazid:UA-ORG-520	liver	Organ
+PMC3182062	73	uniprot:UNRESOLVED ID	MIC1-1C3	Gene_or_gene_product
+PMC3182062	73	uniprot:UNRESOLVED ID	OC2-3C7	Gene_or_gene_product
+PMC3182062	73	uniprot:UNRESOLVED ID	OC2-6E10	Gene_or_gene_product
+PMC3182062	74	uniprot:P20711	DDC	Gene_or_gene_product
+PMC3182062	75	uazid:UA-ORG-520	liver	Organ
+PMC3182062	75	uniprot:O89094	mice	Species
+PMC3182062	75	uniprot:UNRESOLVED ID	stem	CellType
+PMC3182062	75	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	76	uazid:UA-ORG-520	liver	Organ
+PMC3182062	76	uniprot:UNRESOLVED ID	Rosa26CreER cTKO	Gene_or_gene_product
+PMC3182062	76	uniprot:O89094	mice	Species
+PMC3182062	76	uniprot:P06400	Rb	Gene_or_gene_product
+PMC3182062	76	uniprot:Q08999	p130	Gene_or_gene_product
+PMC3182062	77	uniprot:UNRESOLVED ID	CreER	Gene_or_gene_product
+PMC3182062	77	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	78	uniprot:P16961	Cre	Gene_or_gene_product
+PMC3182062	78	uniprot:B1JHA2	Tam	Gene_or_gene_product
+PMC3182062	78	uniprot:P21578	YFP	Gene_or_gene_product
+PMC3182062	78	uniprot:O89094	mice	Species
+PMC3182062	79	uniprot:UNRESOLVED ID	Rosa26CreER cTKO	Gene_or_gene_product
+PMC3182062	79	uniprot:O89094	mice	Species
+PMC3182062	79	uazid:UA-ORG-520	liver	Organ
+PMC3182062	80	uniprot:UNRESOLVED ID	Rosa26CreER TKO	Gene_or_gene_product
+PMC3182062	80	uniprot:O89094	mice	Species
+PMC3182062	80	uniprot:P42574	Sca1	Gene_or_gene_product
+PMC3182062	81	uazid:UA-ORG-520	livers	Organ
+PMC3182062	81	uniprot:P16961	Cre	Gene_or_gene_product
+PMC3182062	82	uniprot:P42574	Sca1	Gene_or_gene_product
+PMC3182062	82	uniprot:UNRESOLVED ID	C3/C7/E10	Gene_or_gene_product
+PMC3182062	83	uniprot:O89094	mice	Species
+PMC3182062	83	uniprot:Q08999	p130	Gene_or_gene_product
+PMC3182062	83	uniprot:UNRESOLVED ID	Sca1+	Gene_or_gene_product
+PMC3182062	84	uniprot:Q08999	p130	Gene_or_gene_product
+PMC3182062	84	uniprot:P06400	Rb	Gene_or_gene_product
+PMC3182062	85	uniprot:P16961	Cre	Gene_or_gene_product
+PMC3182062	86	uniprot:UNRESOLVED ID	stem	CellType
+PMC3182062	87	uniprot:UNRESOLVED ID	stem	CellType
+PMC3182062	87	uniprot:P35226	Bmi1	Gene_or_gene_product
+PMC3182062	87	uniprot:P08727	Ck19	Gene_or_gene_product
+PMC3182062	87	uniprot:UNRESOLVED ID	Albumin	Gene_or_gene_product
+PMC3182062	88	uniprot:O89094	mice	Species
+PMC3182062	89	uniprot:P16961	Cre	Gene_or_gene_product
+PMC3182062	89	uniprot:O89094	mice	Species
+PMC3182062	89	uniprot:P40313	CTRL	Gene_or_gene_product
+PMC3182062	90	uniprot:UNRESOLVED ID	CD45low	Gene_or_gene_product
+PMC3182062	90	uniprot:P42574	Sca1	Gene_or_gene_product
+PMC3182062	90	uniprot:UNRESOLVED ID	C3/C7/E10	Gene_or_gene_product
+PMC3182062	91	uniprot:UNRESOLVED ID	Sca1+	Gene_or_gene_product
+PMC3182062	91	uazid:UA-ORG-520	livers	Organ
+PMC3182062	92	uniprot:Q08999	p130	Gene_or_gene_product
+PMC3182062	92	uniprot:UNRESOLVED ID	RT-qPCR	Gene_or_gene_product
+PMC3182062	92	uniprot:UNRESOLVED ID	Sca1+	Gene_or_gene_product
+PMC3182062	92	uniprot:UNRESOLVED ID	C3/C7/E10+	Gene_or_gene_product
+PMC3182062	93	uniprot:P9WQ36	FACS	Gene_or_gene_product
+PMC3182062	94	uniprot:P35226	Bmi1	Gene_or_gene_product
+PMC3182062	94	uniprot:UNRESOLVED ID	Sca1+	Gene_or_gene_product
+PMC3182062	94	uniprot:UNRESOLVED ID	C3/C7/E10+	Gene_or_gene_product
+PMC3182062	94	uniprot:O89094	mice	Species
+PMC3182062	94	uniprot:UNRESOLVED ID	RT-qPCR	Gene_or_gene_product
+PMC3182062	95	uniprot:UNRESOLVED ID	Albumin	Gene_or_gene_product
+PMC3182062	95	uniprot:P08727	CK19	Gene_or_gene_product
+PMC3182062	96	uniprot:O89094	mice	Species
+PMC3182062	97	uniprot:P01133	EGF	Gene_or_gene_product
+PMC3182062	97	uniprot:P14210	HGF	Gene_or_gene_product
+PMC3182062	99	uniprot:UNRESOLVED ID	TKO Sca1+	Gene_or_gene_product
+PMC3182062	99	uniprot:UNRESOLVED ID	C3/C7/E10+	Gene_or_gene_product
+PMC3182062	100	uniprot:P40313	CTRL	Gene_or_gene_product
+PMC3182062	100	uniprot:P16961	Cre	Gene_or_gene_product
+PMC3182062	101	uniprot:UNRESOLVED ID	Sca1+	Gene_or_gene_product
+PMC3182062	105	uniprot:UNRESOLVED ID	stem	CellType
+PMC3182062	106	uniprot:O89094	mice	Species
+PMC3182062	107	uniprot:P01133	epidermal growth factor	Gene_or_gene_product
+PMC3182062	107	uniprot:P01133	EGF	Gene_or_gene_product
+PMC3182062	107	uniprot:P14210	hepatocyte growth factor	Gene_or_gene_product
+PMC3182062	107	uniprot:P14210	HGF	Gene_or_gene_product
+PMC3182062	107	uazid:UA-ORG-520	livers	Organ
+PMC3182062	108	uazid:UA-ORG-520	liver	Organ
+PMC3182062	108	uniprot:O89094	mice	Species
+PMC3182062	108	uazid:UA-ORG-882	skin	Organ
+PMC3182062	109	uazid:UA-ORG-520	liver	Organ
+PMC3182062	110	uazid:UA-ORG-520	liver	Organ
+PMC3182062	110	uniprot:O89094	mice	Species
+PMC3182062	110	uniprot:UNRESOLVED ID	Sca1/C3/C7	Gene_or_gene_product
+PMC3182062	110	uniprot:Q66677	E10-	Gene_or_gene_product
+PMC3182062	111	uniprot:UNRESOLVED ID	Sca1+	Gene_or_gene_product
+PMC3182062	112	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	112	uazid:UA-ORG-520	liver	Organ
+PMC3182062	112	uniprot:O89094	mice	Species
+PMC3182062	112	uniprot:UNRESOLVED ID	stem	CellType
+PMC3182062	113	uniprot:P01106	Myc	Gene_or_gene_product
+PMC3182062	114	uniprot:O89094	mice	Species
+PMC3182062	114	uazid:UA-ORG-520	liver	Organ
+PMC3182062	115	uniprot:Q07654	Tff3	Gene_or_gene_product
+PMC3182062	115	uniprot:P31350	Rrm2	Gene_or_gene_product
+PMC3182062	115	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	118	ncbitax:species:ncbi:10090	mouse	Species
+PMC3182062	118	uazid:UA-ORG-520	liver	Organ
+PMC3182062	118	uniprot:Q01094	E2F1	Gene_or_gene_product
+PMC3182062	118	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC3182062	119	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC3182062	119	uazid:UA-ORG-520	liver	Organ
+PMC3182062	119	uazid:UA-ORG-520	livers	Organ
+PMC3182062	119	uniprot:Q5HN75	GSEA	Gene_or_gene_product
+PMC3182062	119	uniprot:P01106	Myc	Gene_or_gene_product
+PMC3182062	119	uniprot:UNRESOLVED ID	embryonic stem cell	CellType
+PMC3182062	120	uniprot:Q5HN75	GSEA	Gene_or_gene_product
+PMC3182062	120	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC3182062	120	uniprot:Q01094	E2F1	Gene_or_gene_product
+PMC3182062	120	uniprot:O00716	E2F3	Gene_or_gene_product
+PMC3182062	121	uniprot:P01106	Myc	Gene_or_gene_product
+PMC3182062	121	uniprot:Q01094	E2F1	Gene_or_gene_product
+PMC3182062	121	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC3182062	121	uazid:UA-ORG-520	liver	Organ
+PMC3182062	121	uniprot:O89094	mice	Species
+PMC3182062	121	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	123	ncbitax:species:ncbi:10090	mouse	Species
+PMC3182062	123	uniprot:P10735	TKO	Gene_or_gene_product
+PMC3182062	123	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC3182062	123	uniprot:Q01094	E2F1	Gene_or_gene_product
+PMC3182062	126	uniprot:UNRESOLVED ID	scale	CellType
+PMC3182062	127	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC3182062	127	uazid:UA-ORG-520	livers	Organ
+PMC3182062	127	uniprot:P40313	CTRL	Gene_or_gene_product
+PMC3182062	128	uniprot:P01106	Myc	Gene_or_gene_product
+PMC3182062	129	uniprot:Q5HN75	GSEA	Gene_or_gene_product
+PMC3182062	131	uniprot:P48681	NES	Gene_or_gene_product
+PMC3182062	134	uniprot:P46531	Notch1	Gene_or_gene_product
+PMC3182062	134	uniprot:Q7Z6K4	Nrarp	Gene_or_gene_product
+PMC3182062	134	uniprot:P53701	HCCs	Gene_or_gene_product
+PMC3182062	134	uazid:UA-ORG-520	liver	Organ
+PMC3182062	138	uniprot:Q5HN75	GSEA	Gene_or_gene_product
+PMC3182062	138	uniprot:P01106	Myc	Gene_or_gene_product
+PMC3182062	138	uniprot:P53701	HCCs	Gene_or_gene_product
+PMC3182062	138	uazid:UA-ORG-520	livers	Organ
+PMC3182062	138	uniprot:O75791	p38	Gene_or_gene_product
+PMC3182062	138	uniprot:Q00859	mitogen-activated protein kinase	Gene_or_gene_product
+PMC3182062	138	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	138	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC3182062	139	uniprot:Q5HN75	GSEA	Gene_or_gene_product
+PMC3182062	140	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC3182062	140	uazid:UA-ORG-520	liver	Organ
+PMC3182062	141	uniprot:P53701	HCCs	Gene_or_gene_product
+PMC3182062	141	ncbitax:species:ncbi:10090	mouse	Species
+PMC3182062	141	uniprot:UNRESOLVED ID	Notch receptors	Gene_or_gene_product
+PMC3182062	141	uniprot:UNRESOLVED ID	Notch1-4	Gene_or_gene_product
+PMC3182062	141	uniprot:Q7Z6K4	Nrarp	Gene_or_gene_product
+PMC3182062	142	uniprot:P46531	Notch1	Gene_or_gene_product
+PMC3182062	142	uniprot:Q7Z6K4	Nrarp	Gene_or_gene_product
+PMC3182062	142	uniprot:UNRESOLVED ID	c-Myc-induced HCC	Gene_or_gene_product
+PMC3182062	142	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	143	uniprot:P46531	Notch1	Gene_or_gene_product
+PMC3182062	143	uniprot:Q9UM47	Notch3	Gene_or_gene_product
+PMC3182062	143	uniprot:Q99466	Notch4	Gene_or_gene_product
+PMC3182062	143	uniprot:P30042	Hes1	Gene_or_gene_product
+PMC3182062	143	uniprot:Q9Y5J3	Hey1	Gene_or_gene_product
+PMC3182062	143	uazid:UA-ORG-520	liver	Organ
+PMC3182062	144	uniprot:P06400	Rb	Gene_or_gene_product
+PMC3182062	145	ncbitax:species:ncbi:10090	mouse	Species
+PMC3182062	145	uniprot:P30042	Hes1	Gene_or_gene_product
+PMC3182062	145	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	145	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC3182062	145	uniprot:Q01094	E2F1	Gene_or_gene_product
+PMC3182062	145	uniprot:O00716	E2F3	Gene_or_gene_product
+PMC3182062	146	uniprot:Q9UNE7	ChIP	Gene_or_gene_product
+PMC3182062	146	uniprot:Q01094	E2F1	Gene_or_gene_product
+PMC3182062	146	uniprot:O00716	E2F3	Gene_or_gene_product
+PMC3182062	146	uniprot:Q8N9I9	Dtx3	Gene_or_gene_product
+PMC3182062	146	uniprot:Q9Y2E6	Dtx4	Gene_or_gene_product
+PMC3182062	146	uniprot:P46531	Notch1	Gene_or_gene_product
+PMC3182062	146	uniprot:Q9UM47	Notch3	Gene_or_gene_product
+PMC3182062	146	uniprot:P30042	Hes1	Gene_or_gene_product
+PMC3182062	146	uniprot:Q9Y5J3	Hey1	Gene_or_gene_product
+PMC3182062	147	ncbitax:species:ncbi:10090	mouse	Species
+PMC3182062	147	uazid:UA-ORG-520	livers	Organ
+PMC3182062	147	uniprot:Q16254	E2F4	Gene_or_gene_product
+PMC3182062	147	uazid:UA-ORG-520	liver	Organ
+PMC3182062	148	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	148	uniprot:UNRESOLVED ID	Hep3B	Gene_or_gene_product
+PMC3182062	148	uniprot:UNRESOLVED ID	SNU-449	Gene_or_gene_product
+PMC3182062	148	uniprot:Q01094	E2F1	Gene_or_gene_product
+PMC3182062	148	uniprot:O00716	E2F3	Gene_or_gene_product
+PMC3182062	148	uniprot:Q16254	E2F4	Gene_or_gene_product
+PMC3182062	149	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	149	ncbitax:species:ncbi:10090	mouse	Species
+PMC3182062	149	uniprot:P20248	Ccna2	Gene_or_gene_product
+PMC3182062	149	uniprot:Q9Y5J3	Hey1	Gene_or_gene_product
+PMC3182062	150	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	150	uazid:UA-ORG-75	axis	Organ
+PMC3182062	150	uniprot:P06400	Rb	Gene_or_gene_product
+PMC3182062	152	uazid:UA-ORG-520	livers	Organ
+PMC3182062	152	uniprot:P40313	CTRL	Gene_or_gene_product
+PMC3182062	153	uniprot:P30042	Hes1	Gene_or_gene_product
+PMC3182062	153	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	153	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC3182062	153	uniprot:Q01094	E2F1	Gene_or_gene_product
+PMC3182062	153	uniprot:O00716	E2F3	Gene_or_gene_product
+PMC3182062	155	uniprot:E6UB41	C-E	Gene_or_gene_product
+PMC3182062	155	uniprot:Q9UNE7	ChIP	Gene_or_gene_product
+PMC3182062	155	uniprot:Q01094	E2F1	Gene_or_gene_product
+PMC3182062	155	uniprot:O00716	E2F3	Gene_or_gene_product
+PMC3182062	155	uniprot:UNRESOLVED ID	E2Fs	Gene_or_gene_product
+PMC3182062	155	uniprot:Q16254	E2F4	Gene_or_gene_product
+PMC3182062	155	ncbitax:species:ncbi:10090	mouse	Species
+PMC3182062	155	uazid:UA-ORG-520	liver	Organ
+PMC3182062	155	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	156	uniprot:UNRESOLVED ID	p16 antibody	Gene_or_gene_product
+PMC3182062	157	uniprot:P12004	Cyclin	Gene_or_gene_product
+PMC3182062	157	uniprot:P20248	Ccna2	Gene_or_gene_product
+PMC3182062	159	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	159	ncbitax:species:ncbi:10090	mouse	Species
+PMC3182062	160	uniprot:P53701	HCCs	Gene_or_gene_product
+PMC3182062	160	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	161	uniprot:P20248	Ccna2	Gene_or_gene_product
+PMC3182062	161	uniprot:Q9Y5J3	Hey1	Gene_or_gene_product
+PMC3182062	161	uniprot:P30042	Hes1	Gene_or_gene_product
+PMC3182062	161	uniprot:UNRESOLVED ID	RT-qPCR	Gene_or_gene_product
+PMC3182062	165	uniprot:P46531	Notch1	Gene_or_gene_product
+PMC3182062	165	uniprot:P46531	NICD	Gene_or_gene_product
+PMC3182062	165	uazid:UA-ORG-520	liver	Organ
+PMC3182062	165	uniprot:Q7Z6K4	Nrarp	Gene_or_gene_product
+PMC3182062	166	uniprot:P30042	HES1	Gene_or_gene_product
+PMC3182062	166	uniprot:P46531	Notch1	Gene_or_gene_product
+PMC3182062	166	uniprot:Q04721	Notch2	Gene_or_gene_product
+PMC3182062	168	uniprot:P46531	Notch1	Gene_or_gene_product
+PMC3182062	168	uniprot:UNRESOLVED ID	Notch1ICD	Gene_or_gene_product
+PMC3182062	168	uazid:UA-ORG-520	livers	Organ
+PMC3182062	168	uniprot:P40313	CTRL	Gene_or_gene_product
+PMC3182062	169	uniprot:P04406	GAPDH	Gene_or_gene_product
+PMC3182062	170	uazid:UA-ORG-520	liver	Organ
+PMC3182062	170	uniprot:O89094	mice	Species
+PMC3182062	171	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC3182062	172	uniprot:O89094	mice	Species
+PMC3182062	176	uniprot:Q7Z6K4	Nrarp	Gene_or_gene_product
+PMC3182062	177	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	177	uniprot:UNRESOLVED ID	MigR1-IRES-GFP	Gene_or_gene_product
+PMC3182062	177	uniprot:P40313	CTRL	Gene_or_gene_product
+PMC3182062	177	uniprot:P46531	NICD	Gene_or_gene_product
+PMC3182062	177	uniprot:P9WQ36	FACS	Gene_or_gene_product
+PMC3182062	178	uniprot:P46531	NICD	Gene_or_gene_product
+PMC3182062	182	uniprot:UNRESOLVED ID	TKO1	Gene_or_gene_product
+PMC3182062	182	uniprot:UNRESOLVED ID	TKO2	Gene_or_gene_product
+PMC3182062	182	uniprot:UNRESOLVED ID	HepG2	Gene_or_gene_product
+PMC3182062	182	uniprot:UNRESOLVED ID	SNU-449	Gene_or_gene_product
+PMC3182062	182	uniprot:UNRESOLVED ID	MigR1-IRES-GFP	Gene_or_gene_product
+PMC3182062	182	uniprot:P40313	CTRL	Gene_or_gene_product
+PMC3182062	182	uniprot:P46531	NICD	Gene_or_gene_product
+PMC3182062	183	uniprot:P9WQ36	FACS	Gene_or_gene_product
+PMC3182062	183	uniprot:P08758	Annexin V	Gene_or_gene_product
+PMC3182062	185	uniprot:P9WQ36	FACS	Gene_or_gene_product
+PMC3182062	186	uniprot:UNRESOLVED ID	MigR1-IRES-GFP	Gene_or_gene_product
+PMC3182062	186	uniprot:P40313	CTRL	Gene_or_gene_product
+PMC3182062	186	uniprot:P46531	NICD	Gene_or_gene_product
+PMC3182062	187	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	187	ncbitax:species:ncbi:10090	mouse	Species
+PMC3182062	189	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	189	uniprot:P53701	HCCs	Gene_or_gene_product
+PMC3182062	193	uniprot:O89094	mice	Species
+PMC3182062	193	uniprot:UNRESOLVED ID	gamma-secretase	Gene_or_gene_product
+PMC3182062	193	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC3182062	194	uazid:UA-ORG-520	liver	Organ
+PMC3182062	194	uniprot:O89094	mice	Species
+PMC3182062	194	uniprot:UNRESOLVED ID	DAPT	Gene_or_gene_product
+PMC3182062	195	uniprot:O89094	mice	Species
+PMC3182062	196	uniprot:Q7Z6K4	Nrarp	Gene_or_gene_product
+PMC3182062	196	uniprot:UNRESOLVED ID	DAPT	Gene_or_gene_product
+PMC3182062	197	uniprot:P46531	Notch1	Gene_or_gene_product
+PMC3182062	197	uazid:UA-ORG-520	liver	Organ
+PMC3182062	197	uniprot:O89094	mice	Species
+PMC3182062	197	uniprot:UNRESOLVED ID	TKO1	Gene_or_gene_product
+PMC3182062	197	uniprot:UNRESOLVED ID	TKO2	Gene_or_gene_product
+PMC3182062	197	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	197	uniprot:UNRESOLVED ID	SNU-449	Gene_or_gene_product
+PMC3182062	198	uniprot:P46531	Notch1	Gene_or_gene_product
+PMC3182062	198	uniprot:UNRESOLVED ID	TKO1	Gene_or_gene_product
+PMC3182062	198	uniprot:UNRESOLVED ID	TKO2	Gene_or_gene_product
+PMC3182062	198	uniprot:UNRESOLVED ID	SNU-449	Gene_or_gene_product
+PMC3182062	198	uniprot:UNRESOLVED ID	HepG2	Gene_or_gene_product
+PMC3182062	199	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	200	uazid:UA-ORG-520	liver	Organ
+PMC3182062	201	uazid:UA-ORG-520	liver	Organ
+PMC3182062	201	uniprot:P53701	HCCs	Gene_or_gene_product
+PMC3182062	202	uniprot:P9WQ36	FACS	Gene_or_gene_product
+PMC3182062	202	uniprot:UNRESOLVED ID	Sca1+	Gene_or_gene_product
+PMC3182062	202	uniprot:UNRESOLVED ID	C3/C7/E10+	Gene_or_gene_product
+PMC3182062	202	uazid:UA-ORG-520	liver	Organ
+PMC3182062	202	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3182062	202	uniprot:P46531	Notch1	Gene_or_gene_product
+PMC3182062	203	uniprot:P30042	HES1	Gene_or_gene_product
+PMC3182062	203	uniprot:P46531	Notch1	Gene_or_gene_product
+PMC3182062	204	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3182062	204	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	204	uniprot:P46531	Notch1	Gene_or_gene_product
+PMC3182062	204	uniprot:P30042	Hes1	Gene_or_gene_product
+PMC3182062	204	uniprot:Q9Y5J3	Hey1	Gene_or_gene_product
+PMC3182062	204	uniprot:Q7Z6K4	Nrarp	Gene_or_gene_product
+PMC3182062	205	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	206	uniprot:UNRESOLVED ID	DAPT	Gene_or_gene_product
+PMC3182062	207	uniprot:P10735	TKO	Gene_or_gene_product
+PMC3182062	207	uazid:UA-ORG-520	liver	Organ
+PMC3182062	207	uniprot:O89094	mice	Species
+PMC3182062	207	uniprot:P46531	Notch1	Gene_or_gene_product
+PMC3182062	207	ncbitax:species:ncbi:31931	retrovirus	Species
+PMC3182062	208	uazid:UA-ORG-520	liver	Organ
+PMC3182062	209	ncbitax:species:ncbi:9606	patient	Species
+PMC3182062	211	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	211	uniprot:P01106	Myc	Gene_or_gene_product
+PMC3182062	211	uniprot:Q01094	E2F1	Gene_or_gene_product
+PMC3182062	212	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	212	uniprot:P46531	NOTCH1	Gene_or_gene_product
+PMC3182062	212	uniprot:P30042	HES1	Gene_or_gene_product
+PMC3182062	214	uniprot:Q9UNE7	ChIP	Gene_or_gene_product
+PMC3182062	214	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	214	uniprot:P78504	JAG1	Gene_or_gene_product
+PMC3182062	214	uniprot:P49810	PSEN2	Gene_or_gene_product
+PMC3182062	214	uazid:UA-CT-100023	fibroblasts	CellType
+PMC3182062	218	uniprot:P06400	Rb	Gene_or_gene_product
+PMC3182062	218	uazid:UA-ORG-520	liver	Organ
+PMC3182062	218	uniprot:O89094	mice	Species
+PMC3182062	219	uniprot:P06400	Rb	Gene_or_gene_product
+PMC3182062	219	uniprot:O89094	mice	Species
+PMC3182062	219	ncbitax:species:ncbi:10090	mouse	Species
+PMC3182062	219	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	220	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	220	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	221	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	221	uazid:UA-ORG-520	liver	Organ
+PMC3182062	222	uniprot:P28749	p107	Gene_or_gene_product
+PMC3182062	222	uniprot:Q08999	p130	Gene_or_gene_product
+PMC3182062	222	uniprot:P06400	Rb	Gene_or_gene_product
+PMC3182062	223	uniprot:O89094	mice	Species
+PMC3182062	223	uniprot:Q08999	p130	Gene_or_gene_product
+PMC3182062	224	uniprot:P06400	Rb	Gene_or_gene_product
+PMC3182062	224	ncbitax:species:ncbi:10090	mouse	Species
+PMC3182062	224	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	224	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	225	uazid:UA-ORG-520	liver	Organ
+PMC3182062	225	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3182062	226	uniprot:P16961	Cre	Gene_or_gene_product
+PMC3182062	226	uniprot:O89094	mice	Species
+PMC3182062	226	uazid:UA-ORG-520	liver	Organ
+PMC3182062	226	uniprot:UNRESOLVED ID	stem	CellType
+PMC3182062	227	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3182062	228	uniprot:UNRESOLVED ID	stem	CellType
+PMC3182062	228	uazid:UA-ORG-520	liver	Organ
+PMC3182062	228	uniprot:O89094	mice	Species
+PMC3182062	229	uniprot:UNRESOLVED ID	stem	CellType
+PMC3182062	229	uniprot:Q13618	Cullin 3	Gene_or_gene_product
+PMC3182062	229	uniprot:P12004	Cyclin	Gene_or_gene_product
+PMC3182062	229	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	229	uazid:UA-ORG-520	liver	Organ
+PMC3182062	230	uniprot:P16422	EpCAM	Gene_or_gene_product
+PMC3182062	230	uniprot:P08727	CK19	Gene_or_gene_product
+PMC3182062	230	uazid:UA-ORG-520	liver	Organ
+PMC3182062	231	uniprot:UNRESOLVED ID	EpCAM+	Gene_or_gene_product
+PMC3182062	231	uniprot:UNRESOLVED ID	CK19+	Gene_or_gene_product
+PMC3182062	231	uazid:UA-ORG-520	liver	Organ
+PMC3182062	231	uniprot:UNRESOLVED ID	stem	CellType
+PMC3182062	232	uniprot:P35240	NF2	Gene_or_gene_product
+PMC3182062	232	uniprot:O89094	mice	Species
+PMC3182062	233	uazid:UA-ORG-520	liver	Organ
+PMC3182062	233	uniprot:P20711	DDC	Gene_or_gene_product
+PMC3182062	234	uniprot:UNRESOLVED ID	C3+	Gene_or_gene_product
+PMC3182062	234	uniprot:UNRESOLVED ID	C7+	Gene_or_gene_product
+PMC3182062	234	uniprot:O89094	mice	Species
+PMC3182062	234	uniprot:P20711	DDC	Gene_or_gene_product
+PMC3182062	234	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC3182062	235	uniprot:Q91V27	L-N	Gene_or_gene_product
+PMC3182062	235	uazid:UA-ORG-520	livers	Organ
+PMC3182062	235	uazid:UA-CT-33	bile	CellType
+PMC3182062	235	uniprot:P20711	DDC	Gene_or_gene_product
+PMC3182062	236	uniprot:P48436	Sox9	Gene_or_gene_product
+PMC3182062	237	uazid:UA-ORG-520	liver	Organ
+PMC3182062	238	uniprot:UNRESOLVED ID	stem	CellType
+PMC3182062	238	uniprot:O89094	mice	Species
+PMC3182062	239	uniprot:P35226	Bmi1	Gene_or_gene_product
+PMC3182062	240	uniprot:UNRESOLVED ID	stem	CellType
+PMC3182062	240	uazid:UA-ORG-520	liver	Organ
+PMC3182062	241	uazid:UA-ORG-520	liver	Organ
+PMC3182062	241	uniprot:UNRESOLVED ID	stem	CellType
+PMC3182062	243	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	243	uniprot:UNRESOLVED ID	stem	CellType
+PMC3182062	244	uniprot:UNRESOLVED ID	hepatocyte	CellType
+PMC3182062	245	uniprot:P16961	Cre	Gene_or_gene_product
+PMC3182062	245	ncbitax:species:ncbi:10090	mouse	Species
+PMC3182062	245	uazid:UA-ORG-520	liver	Organ
+PMC3182062	245	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	245	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC3182062	246	uniprot:P28749	p107	Gene_or_gene_product
+PMC3182062	247	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	247	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	247	uazid:UA-ORG-520	liver	Organ
+PMC3182062	248	uazid:UA-ORG-520	liver	Organ
+PMC3182062	250	uniprot:P06400	Rb	Gene_or_gene_product
+PMC3182062	250	uazid:UA-CT-100023	fibroblasts	CellType
+PMC3182062	251	uniprot:UNRESOLVED ID	DAPT	Gene_or_gene_product
+PMC3182062	251	uniprot:UNRESOLVED ID	gamma-secretase	Gene_or_gene_product
+PMC3182062	251	uniprot:O89094	mice	Species
+PMC3182062	252	uazid:UA-ORG-520	liver	Organ
+PMC3182062	252	uniprot:P46531	Notch1	Gene_or_gene_product
+PMC3182062	252	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3182062	252	uniprot:O89094	mice	Species
+PMC3182062	254	ncbitax:species:ncbi:10090	mouse	Species
+PMC3182062	254	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	255	uniprot:P46531	NICD	Gene_or_gene_product
+PMC3182062	258	uazid:UA-ORG-520	liver	Organ
+PMC3182062	260	uniprot:P46531	Notch1	Gene_or_gene_product
+PMC3182062	260	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	261	uniprot:O89094	Mice	Species
+PMC3182062	262	uniprot:P06400	Rb	Gene_or_gene_product
+PMC3182062	262	uniprot:O89094	mice	Species
+PMC3182062	263	uniprot:O89094	mice	Species
+PMC3182062	263	uniprot:UNRESOLVED ID	abdomen	CellType
+PMC3182062	263	ncbitax:species:ncbi:10535	adenovirus	Species
+PMC3182062	263	uazid:UA-ORG-903	spleen	Organ
+PMC3182062	264	uniprot:O89094	mice	Species
+PMC3182062	264	ncbitax:species:ncbi:381124	corn	Species
+PMC3182062	265	uniprot:UNRESOLVED ID	Rosa26CreER TKO	Gene_or_gene_product
+PMC3182062	265	uniprot:O89094	mice	Species
+PMC3182062	266	uniprot:O89094	mice	Species
+PMC3182062	267	uniprot:O89094	mice	Species
+PMC3182062	267	uniprot:P51161	Gt	Gene_or_gene_product
+PMC3182062	267	uniprot:Q9VR07	ROSA	Gene_or_gene_product
+PMC3182062	267	uniprot:UNRESOLVED ID	26Sortm1	Gene_or_gene_product
+PMC3182062	267	uniprot:UNRESOLVED ID	EYFP	Gene_or_gene_product
+PMC3182062	268	uniprot:O89094	mice	Species
+PMC3182062	268	ncbitax:species:ncbi:10090	mouse	Species
+PMC3182062	269	uniprot:O89094	mice	Species
+PMC3182062	270	uniprot:UNRESOLVED ID	DAPT	Gene_or_gene_product
+PMC3182062	270	ncbitax:species:ncbi:381124	corn	Species
+PMC3182062	270	uniprot:UNRESOLVED ID	peritoneal cavity	CellType
+PMC3182062	271	uniprot:O89094	mice	Species
+PMC3182062	273	uniprot:O75051	OCT	Gene_or_gene_product
+PMC3182062	274	uniprot:UNRESOLVED ID	hematoxylin	Gene_or_gene_product
+PMC3182062	274	uniprot:UNRESOLVED ID	eosin	Gene_or_gene_product
+PMC3182062	274	uniprot:UNRESOLVED ID	H&E	Gene_or_gene_product
+PMC3182062	276	uniprot:UNRESOLVED ID	Antigen	Gene_or_gene_product
+PMC3182062	279	uniprot:UNRESOLVED ID	PBST	Gene_or_gene_product
+PMC3182062	279	ncbitax:species:ncbi:9796	horse	Species
+PMC3182062	279	uniprot:UNRESOLVED ID	serum	CellType
+PMC3182062	279	uniprot:P02768	serum Albumin	Gene_or_gene_product
+PMC3182062	280	uniprot:UNRESOLVED ID	PBST	Gene_or_gene_product
+PMC3182062	281	uniprot:UNRESOLVED ID	anti-Albumin	Gene_or_gene_product
+PMC3182062	281	uniprot:UNRESOLVED ID	anti-Sca1	Gene_or_gene_product
+PMC3182062	281	uniprot:Q2G0B1	rat	Species
+PMC3182062	282	uniprot:P46531	Notch1	Gene_or_gene_product
+PMC3182062	282	uniprot:UNRESOLVED ID	Abcam	Gene_or_gene_product
+PMC3182062	282	uniprot:Q04721	Notch2	Gene_or_gene_product
+PMC3182062	282	uniprot:UNRESOLVED ID	Hybridoma	CellType
+PMC3182062	282	uniprot:P30042	HES1	Gene_or_gene_product
+PMC3182062	284	uniprot:P46531	Notch1	Gene_or_gene_product
+PMC3182062	286	uazid:UA-ORG-520	livers	Organ
+PMC3182062	286	uniprot:UNRESOLVED ID	Collagenase A	Gene_or_gene_product
+PMC3182062	286	uniprot:P59916	Collagenase	Gene_or_gene_product
+PMC3182062	287	uazid:UA-CT-4	red blood cells	CellType
+PMC3182062	287	uniprot:UNRESOLVED ID	ACK buffer	Gene_or_gene_product
+PMC3182062	287	uniprot:UNRESOLVED ID	NH4Cl	Gene_or_gene_product
+PMC3182062	287	uniprot:UNRESOLVED ID	KHCO3	Gene_or_gene_product
+PMC3182062	288	uazid:UA-ORG-520	Liver	Organ
+PMC3182062	288	uniprot:UNRESOLVED ID	Collagen IV	Gene_or_gene_product
+PMC3182062	289	uniprot:P01133	EGF	Gene_or_gene_product
+PMC3182062	289	uniprot:P14210	HGF	Gene_or_gene_product
+PMC3182062	291	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC3182062	293	uniprot:O89094	mice	Species
+PMC3182062	293	uniprot:Q5NMC0	RPMI	Gene_or_gene_product
+PMC3182062	293	uniprot:UNRESOLVED ID	serum	CellType
+PMC3182062	293	uniprot:Q08999	p130	Gene_or_gene_product
+PMC3182062	294	uniprot:UNRESOLVED ID	SNU-449	Gene_or_gene_product
+PMC3182062	294	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	294	uniprot:Q5NMC0	RPMI	Gene_or_gene_product
+PMC3182062	294	uniprot:UNRESOLVED ID	serum	CellType
+PMC3182062	295	uazid:UA-ORG-520	liver	Organ
+PMC3182062	295	uniprot:UNRESOLVED ID	MigR1-IRES-GFP	Gene_or_gene_product
+PMC3182062	295	uniprot:UNRESOLVED ID	MigR1-ICN-IRES-GFP	Gene_or_gene_product
+PMC3182062	295	ncbitax:species:ncbi:23211	Pear	Species
+PMC3182062	295	uniprot:P02810	PA	Gene_or_gene_product
+PMC3182062	297	uniprot:UNRESOLVED ID	hNotch1-Luc	Gene_or_gene_product
+PMC3182062	297	uniprot:Q01094	E2F1	Gene_or_gene_product
+PMC3182062	297	uniprot:O00716	E2F3	Gene_or_gene_product
+PMC3182062	300	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	300	uniprot:O05982	CDK	Gene_or_gene_product
+PMC3182062	300	uniprot:UNRESOLVED ID	GFP-RB7LP	Gene_or_gene_product
+PMC3182062	300	uniprot:P02810	PA	Gene_or_gene_product
+PMC3182062	301	uniprot:Q9UNE7	ChIP	Gene_or_gene_product
+PMC3182062	302	uniprot:Q9UNE7	ChIP	Gene_or_gene_product
+PMC3182062	303	uniprot:Q01094	E2F1	Gene_or_gene_product
+PMC3182062	303	uniprot:UNRESOLVED ID	sc-193X	Gene_or_gene_product
+PMC3182062	303	uniprot:O00716	E2F3	Gene_or_gene_product
+PMC3182062	303	uniprot:UNRESOLVED ID	sc-878X	Gene_or_gene_product
+PMC3182062	303	uniprot:Q16254	E2F4	Gene_or_gene_product
+PMC3182062	303	uniprot:UNRESOLVED ID	sc-1082X	Gene_or_gene_product
+PMC3182062	303	uniprot:Q77JX3	p16	Gene_or_gene_product
+PMC3182062	303	uniprot:UNRESOLVED ID	sc-467	Gene_or_gene_product
+PMC3182062	304	uniprot:P12004	Cyclin	Gene_or_gene_product
+PMC3182062	304	uniprot:P46531	Notch1	Gene_or_gene_product
+PMC3182062	304	uniprot:Q9UM47	Notch3	Gene_or_gene_product
+PMC3182062	304	uniprot:Q99466	Notch4	Gene_or_gene_product
+PMC3182062	304	uniprot:Q8N9I9	Dtx3	Gene_or_gene_product
+PMC3182062	304	uniprot:Q9Y2E6	Dtx4	Gene_or_gene_product
+PMC3182062	304	uniprot:Q9Y219	Jag2	Gene_or_gene_product
+PMC3182062	304	uniprot:P03372	ER	Gene_or_gene_product
+PMC3182062	305	uniprot:UNRESOLVED ID	TRIZOL	Gene_or_gene_product
+PMC3182062	309	uniprot:O89094	mice	Species
+PMC3182062	310	uniprot:UNRESOLVED ID	GEO DataSets database	Gene_or_gene_product
+PMC3182062	311	uniprot:UNRESOLVED ID	GSE19004	Gene_or_gene_product
+PMC3182062	312	ncbitax:species:ncbi:10090	mouse	Species
+PMC3182062	312	uniprot:P10735	TKO	Gene_or_gene_product
+PMC3182062	314	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	314	ncbitax:species:ncbi:10090	Mouse	Species
+PMC3182062	318	uniprot:Q5HN75	GSEA	Gene_or_gene_product
+PMC3182062	319	uniprot:Q5HN75	GSEA	Gene_or_gene_product
+PMC3182062	319	uniprot:UNRESOLVED ID	http://www.broadinstitute.org/gsea/msigdb/collections.jsp#C2	Gene_or_gene_product
+PMC3182062	320	uniprot:D5IGG6	FDR	Gene_or_gene_product
+PMC3182062	321	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	321	uniprot:P53701	HCCs	Gene_or_gene_product
+PMC3182062	322	uniprot:UNRESOLVED ID	Illumina bead chips HumanRef8v2	Gene_or_gene_product
+PMC3182062	323	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	325	ncbitax:species:ncbi:9606	human	Species
+PMC3182062	325	uniprot:P53701	HCCs	Gene_or_gene_product
+PMC3182062	326	uniprot:Q96FA3	Prism	Gene_or_gene_product
+PMC3182062	327	uniprot:P08758	Annexin V	Gene_or_gene_product
+PMC3182062	327	uniprot:UNRESOLVED ID	Ter119	Gene_or_gene_product
+PMC3182062	327	uniprot:P08575	CD45	Gene_or_gene_product
+PMC3182062	327	uniprot:P42574	Sca1	Gene_or_gene_product
+PMC3182062	328	uniprot:P48147	PE	Gene_or_gene_product
+PMC3182062	330	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC3182062	331	uazid:UA-ORG-520	liver	Organ
+PMC3182062	331	uniprot:O89094	mice	Species
+PMC3182062	331	uniprot:P06400	Rb	Gene_or_gene_product
+PMC3182062	332	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC3182062	333	uniprot:P06400	Rb	Gene_or_gene_product
+PMC3182062	334	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC3182062	335	uazid:UA-ORG-520	liver	Organ
+PMC3182062	335	uniprot:O89094	mice	Species
+PMC3182062	336	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC3182062	337	uazid:UA-ORG-520	liver	Organ
+PMC3182062	338	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC3182062	340	uniprot:UNRESOLVED ID	Table S1	Gene_or_gene_product
+PMC3182062	340	uazid:UA-ORG-520	livers	Organ
+PMC3182062	341	uazid:UA-ORG-520	livers	Organ
+PMC3182062	344	uniprot:UNRESOLVED ID	http://www.jem.org/cgi/content/full/jem.20110198/DC1	Gene_or_gene_product
+PMC3182062	345	ncbitax:species:ncbi:23211	Pear	Species
+PMC3182062	345	uniprot:UNRESOLVED ID	hNotch1-Luc	Gene_or_gene_product
+PMC3182062	345	uniprot:UNRESOLVED ID	MigR1-ICN-GFP	Gene_or_gene_product
+PMC3182062	345	uniprot:UNRESOLVED ID	mHes1-Luc	Gene_or_gene_product
+PMC3182062	345	uniprot:UNRESOLVED ID	RB-GFP constructs	Gene_or_gene_product
+PMC3182062	345	uniprot:P30042	HES1	Gene_or_gene_product
+PMC3182062	346	uniprot:Q04721	Notch2	Gene_or_gene_product
+PMC3182062	347	ncbitax:species:ncbi:9606	Children	Species
+PMC3182062	347	uniprot:UNRESOLVED ID	RO1 CA114102	Gene_or_gene_product
+PMC3182062	347	uniprot:Q9NXZ1	Sage	Gene_or_gene_product
+PMC3182062	347	ncbitax:species:ncbi:9606	Human	Species
+PMC3182062	348	uniprot:P12004	Cyclin	Gene_or_gene_product
+PMC3182062	348	uniprot:Q9UNE7	ChIP	Gene_or_gene_product
+PMC3182062	348	uniprot:P20711	DDC	Gene_or_gene_product
+PMC3182062	348	uniprot:UNRESOLVED ID	EGF epidermal growth factor	Gene_or_gene_product
+PMC3182062	348	uniprot:P15104	GS	Gene_or_gene_product
+PMC3182062	348	uniprot:UNRESOLVED ID	hepatocellular carcinoma	CellType
+PMC3182062	348	uniprot:UNRESOLVED ID	HGF hepatocyte growth factor	Gene_or_gene_product
+PMC3182062	348	uniprot:P06400	RB	Gene_or_gene_product
+PMC3182062	348	uniprot:UNRESOLVED ID	retinoblastoma	CellType
+PMC3182062	349	uniprot:P12004	Cyclin	Gene_or_gene_product
+PMC3182062	350	uniprot:UNRESOLVED ID	3,5-diethoxycarbonyl-1,4-dihydrocollidine	Gene_or_gene_product
+PMC3182062	351	uniprot:P01133	epidermal growth factor	Gene_or_gene_product
+PMC3182062	353	uniprot:UNRESOLVED ID	hepatocellular carcinoma	CellType

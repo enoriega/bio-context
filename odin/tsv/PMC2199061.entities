@@ -1,0 +1,680 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2199061	0	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	0	uniprot:UNRESOLVED ID	Fcgamma Receptors	Gene_or_gene_product
+PMC2199061	0	uazid:UA-CT-16	Macrophages	CellType
+PMC2199061	1	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	1	uniprot:UNRESOLVED ID	Fc region	Gene_or_gene_product
+PMC2199061	1	uniprot:UNRESOLVED ID	IgG	Gene_or_gene_product
+PMC2199061	1	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	2	uniprot:P12931	Src	Gene_or_gene_product
+PMC2199061	2	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	2	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	3	uazid:UA-CT-16	Macrophages	CellType
+PMC2199061	3	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	3	uniprot:O89094	mice	Species
+PMC2199061	3	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	3	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2199061	4	uniprot:P43405	Syk-	Gene_or_gene_product
+PMC2199061	4	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	4	uazid:UA-CT-16	macrophage	CellType
+PMC2199061	5	uniprot:UNRESOLVED ID	latex	CellType
+PMC2199061	6	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	6	uniprot:UNRESOLVED ID	FcgammaRs	Gene_or_gene_product
+PMC2199061	7	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	8	uniprot:P01009	PI	Gene_or_gene_product
+PMC2199061	8	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	8	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	9	uazid:UA-CT-16	Macrophages	CellType
+PMC2199061	9	uniprot:O89094	mice	Species
+PMC2199061	9	uniprot:P12931	Src	Gene_or_gene_product
+PMC2199061	9	uniprot:P08631	Hck	Gene_or_gene_product
+PMC2199061	9	uniprot:P09769	Fgr	Gene_or_gene_product
+PMC2199061	9	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2199061	9	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	9	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	10	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	10	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	10	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	11	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	11	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2199061	11	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199061	11	uniprot:UNRESOLVED ID	antigen receptors	Gene_or_gene_product
+PMC2199061	12	uniprot:Q2G0B1	rat	Species
+PMC2199061	12	ncbitax:species:ncbi:10090	mouse	Species
+PMC2199061	12	uazid:UA-CT-4	red blood cell	CellType
+PMC2199061	12	uniprot:UNRESOLVED ID	TIB 114	Gene_or_gene_product
+PMC2199061	12	uniprot:UNRESOLVED ID	TIB 109	Gene_or_gene_product
+PMC2199061	14	uniprot:UNRESOLVED ID	4G10 antiphosphotyrosine antibody	Gene_or_gene_product
+PMC2199061	15	ncbitax:species:ncbi:9940	sheep	Species
+PMC2199061	16	ncbitax:species:ncbi:9940	sheep	Species
+PMC2199061	18	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2199061	18	ncbitax:species:ncbi:83971	Lake	Species
+PMC2199061	19	uniprot:O75791	p38	Gene_or_gene_product
+PMC2199061	19	uniprot:P27361	Erk1	Gene_or_gene_product
+PMC2199061	19	uniprot:P05412	Jun	Gene_or_gene_product
+PMC2199061	19	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2199061	20	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2199061	21	uniprot:UNRESOLVED ID	Anti-Shc antisera	Gene_or_gene_product
+PMC2199061	21	uniprot:O60760	glutathione S-transferase	Gene_or_gene_product
+PMC2199061	21	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2199061	21	ncbitax:species:ncbi:9606	human	Species
+PMC2199061	21	uniprot:P29353	Shc	Gene_or_gene_product
+PMC2199061	22	uniprot:UNRESOLVED ID	Shc-GST	Gene_or_gene_product
+PMC2199061	22	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2199061	23	uniprot:UNRESOLVED ID	Wortmannin	Gene_or_gene_product
+PMC2199061	25	uniprot:P02686	Myelin Basic Protein	Gene_or_gene_product
+PMC2199061	26	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2199061	26	uniprot:P05412	Jun	Gene_or_gene_product
+PMC2199061	26	uniprot:UNRESOLVED ID	GST-c-Jun	Gene_or_gene_product
+PMC2199061	28	uniprot:O89094	Mice	Species
+PMC2199061	28	uniprot:UNRESOLVED ID	syk gene	Gene_or_gene_product
+PMC2199061	28	uazid:UA-CT-200003	embryos	Organ
+PMC2199061	28	uazid:UA-ORG-520	liver	Organ
+PMC2199061	30	ncbitax:species:ncbi:41568	muM	Species
+PMC2199061	30	uniprot:P09603	M-CSF	Gene_or_gene_product
+PMC2199061	30	uniprot:P04141	GM-CSF	Gene_or_gene_product
+PMC2199061	31	uazid:UA-CT-16	macrophage	CellType
+PMC2199061	31	uniprot:P11215	CD11b	Gene_or_gene_product
+PMC2199061	31	uniprot:UNRESOLVED ID	CD16	Gene_or_gene_product
+PMC2199061	31	uniprot:P12318	CD32	Gene_or_gene_product
+PMC2199061	31	uniprot:P47791	Gr-1	Gene_or_gene_product
+PMC2199061	31	uniprot:UNRESOLVED ID	T lymphocyte	CellType
+PMC2199061	32	uniprot:P08631	hck	Gene_or_gene_product
+PMC2199061	32	uniprot:P07948	lyn-	Gene_or_gene_product
+PMC2199061	32	uniprot:O89094	mice	Species
+PMC2199061	33	uazid:UA-CT-16	Macrophages	CellType
+PMC2199061	33	uniprot:P08631	hck	Gene_or_gene_product
+PMC2199061	33	uniprot:P07948	lyn-	Gene_or_gene_product
+PMC2199061	33	uniprot:O89094	mice	Species
+PMC2199061	33	uazid:UA-ORG-100	bone	Organ
+PMC2199061	33	uniprot:UNRESOLVED ID	marrow	CellType
+PMC2199061	34	uniprot:UNRESOLVED ID	Marrow	CellType
+PMC2199061	34	uazid:UA-ORG-1002	tibia	Organ
+PMC2199061	34	uazid:UA-ORG-303	femur	Organ
+PMC2199061	34	uazid:UA-ORG-100	bones	Organ
+PMC2199061	36	uazid:UA-CT-19	Erythrocytes	CellType
+PMC2199061	38	uazid:UA-ORG-520	liver	Organ
+PMC2199061	41	uniprot:O89094	mice	Species
+PMC2199061	42	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	42	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2199061	43	uazid:UA-CT-19	Erythrocytes	CellType
+PMC2199061	43	uniprot:P49344	EA	Gene_or_gene_product
+PMC2199061	44	uniprot:P49344	EA	Gene_or_gene_product
+PMC2199061	44	ncbitax:species:ncbi:9940	sheep	Species
+PMC2199061	44	uazid:UA-CT-19	erythrocytes	CellType
+PMC2199061	44	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2199061	44	uazid:UA-CT-4	red blood cell	CellType
+PMC2199061	45	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	45	uniprot:P49344	EA	Gene_or_gene_product
+PMC2199061	46	uniprot:P49344	EA	Gene_or_gene_product
+PMC2199061	46	uniprot:UNRESOLVED ID	rosettes	CellType
+PMC2199061	48	uniprot:P49344	EA	Gene_or_gene_product
+PMC2199061	48	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	49	uniprot:P49344	EA	Gene_or_gene_product
+PMC2199061	50	uniprot:UNRESOLVED ID	cytochalasin D	Gene_or_gene_product
+PMC2199061	50	ncbitax:species:ncbi:41568	muM	Species
+PMC2199061	51	uniprot:P49344	EA	Gene_or_gene_product
+PMC2199061	52	uniprot:P49344	EA	Gene_or_gene_product
+PMC2199061	53	uniprot:P49344	EA	Gene_or_gene_product
+PMC2199061	55	uniprot:UNRESOLVED ID	BODIPY-phalloidin	Gene_or_gene_product
+PMC2199061	55	uniprot:UNRESOLVED ID	Oregon green-phalloidin	Gene_or_gene_product
+PMC2199061	60	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	60	uniprot:UNRESOLVED ID	hybridoma	CellType
+PMC2199061	65	uniprot:UNRESOLVED ID	FcgammaR-	Gene_or_gene_product
+PMC2199061	66	uniprot:P01298	pH	Gene_or_gene_product
+PMC2199061	66	uniprot:P10145	NaF	Gene_or_gene_product
+PMC2199061	68	uniprot:UNRESOLVED ID	Anti-Shc	Gene_or_gene_product
+PMC2199061	69	uniprot:Q9W704	RIPA	Gene_or_gene_product
+PMC2199061	69	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2199061	69	uniprot:Q9NQV6	Tris	Gene_or_gene_product
+PMC2199061	69	uniprot:P01298	pH	Gene_or_gene_product
+PMC2199061	71	uniprot:UNRESOLVED ID	p42 Erk2	Gene_or_gene_product
+PMC2199061	72	uniprot:UNRESOLVED ID	Vitro Protein Kinase Assays	Gene_or_gene_product
+PMC2199061	73	uniprot:UNRESOLVED ID	anti-Erk2 antibody	Gene_or_gene_product
+PMC2199061	74	uniprot:P01298	pH	Gene_or_gene_product
+PMC2199061	74	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2199061	74	uniprot:P29323	Erk	Gene_or_gene_product
+PMC2199061	75	uniprot:P02686	Myelin Basic Protein	Gene_or_gene_product
+PMC2199061	75	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2199061	75	uniprot:P28482	Erk2	Gene_or_gene_product
+PMC2199061	76	uniprot:UNRESOLVED ID	Anti-Syk	Gene_or_gene_product
+PMC2199061	76	uniprot:Q9NQV6	Tris	Gene_or_gene_product
+PMC2199061	76	uniprot:P01298	pH	Gene_or_gene_product
+PMC2199061	76	uniprot:UNRESOLVED ID	mM MgCl2	Gene_or_gene_product
+PMC2199061	78	uniprot:P27361	Erk1	Gene_or_gene_product
+PMC2199061	78	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2199061	78	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	79	uazid:UA-CT-16	Macrophages	CellType
+PMC2199061	84	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	84	uazid:UA-CT-16	Macrophages	CellType
+PMC2199061	85	uazid:UA-CT-16	macrophage	CellType
+PMC2199061	86	uniprot:UNRESOLVED ID	complement receptor	Gene_or_gene_product
+PMC2199061	87	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	87	uniprot:P12931	Src	Gene_or_gene_product
+PMC2199061	87	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	87	uazid:UA-ORG-520	liver	Organ
+PMC2199061	87	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	87	uazid:UA-ORG-100	bone	Organ
+PMC2199061	87	uniprot:UNRESOLVED ID	marrow	CellType
+PMC2199061	87	uniprot:P08631	Hck	Gene_or_gene_product
+PMC2199061	87	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2199061	88	uniprot:P12931	Src	Gene_or_gene_product
+PMC2199061	88	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	89	uazid:UA-ORG-520	liver	Organ
+PMC2199061	89	uazid:UA-ORG-100	bone	Organ
+PMC2199061	89	uniprot:UNRESOLVED ID	marrow	CellType
+PMC2199061	89	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	90	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	90	uniprot:P08631	Hck	Gene_or_gene_product
+PMC2199061	90	uniprot:P49344	EA	Gene_or_gene_product
+PMC2199061	91	uniprot:P08631	Hck	Gene_or_gene_product
+PMC2199061	91	uniprot:P12931	Src	Gene_or_gene_product
+PMC2199061	91	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	92	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	93	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	94	uniprot:P08631	Hck	Gene_or_gene_product
+PMC2199061	94	uniprot:P07948	Lyn-	Gene_or_gene_product
+PMC2199061	94	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	95	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	96	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	96	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	97	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	97	uazid:UA-CT-19	erythrocytes	CellType
+PMC2199061	97	uazid:UA-CT-16	macrophage	CellType
+PMC2199061	97	uniprot:P49344	EA	Gene_or_gene_product
+PMC2199061	98	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	98	uazid:UA-CT-19	erythrocytes	CellType
+PMC2199061	98	uniprot:UNRESOLVED ID	IgG3	Gene_or_gene_product
+PMC2199061	98	uniprot:P20760	IgG2a	Gene_or_gene_product
+PMC2199061	98	uniprot:UNRESOLVED ID	IgG2b antibodies	Gene_or_gene_product
+PMC2199061	99	uazid:UA-CT-19	erythrocytes	CellType
+PMC2199061	99	uniprot:UNRESOLVED ID	FcgammaRs	Gene_or_gene_product
+PMC2199061	99	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	100	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	100	uazid:UA-CT-19	erythrocytes	CellType
+PMC2199061	100	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	101	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	101	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	101	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	102	uniprot:P43405	Syk-	Gene_or_gene_product
+PMC2199061	102	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	102	uniprot:P08631	Hck	Gene_or_gene_product
+PMC2199061	102	uniprot:P07948	Lyn-	Gene_or_gene_product
+PMC2199061	102	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199061	102	uniprot:UNRESOLVED ID	antigen receptors	Gene_or_gene_product
+PMC2199061	103	uniprot:P12931	Src	Gene_or_gene_product
+PMC2199061	103	uniprot:UNRESOLVED ID	receptor ITAM	Gene_or_gene_product
+PMC2199061	103	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	103	uniprot:P43403	ZAP-70	Gene_or_gene_product
+PMC2199061	104	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	104	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	104	uniprot:P08631	Hck	Gene_or_gene_product
+PMC2199061	104	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	104	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2199061	106	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	106	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	106	uniprot:P12931	Src	Gene_or_gene_product
+PMC2199061	107	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	107	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	107	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	108	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	108	uniprot:P08631	Hck	Gene_or_gene_product
+PMC2199061	108	uniprot:P07948	Lyn-	Gene_or_gene_product
+PMC2199061	108	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	108	uniprot:UNRESOLVED ID	latex	CellType
+PMC2199061	108	ncbitax:species:ncbi:41568	mum	Species
+PMC2199061	108	ncbitax:species:ncbi:4932	yeast	Species
+PMC2199061	109	uazid:UA-CT-16	macrophage	CellType
+PMC2199061	110	uniprot:UNRESOLVED ID	lectin-like glycoproteins	Gene_or_gene_product
+PMC2199061	110	uniprot:UNRESOLVED ID	integrins	Gene_or_gene_product
+PMC2199061	110	uazid:UA-CT-16	macrophage	CellType
+PMC2199061	111	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	112	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	112	uniprot:P43405	Syk-	Gene_or_gene_product
+PMC2199061	112	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	113	uazid:UA-CT-16	macrophage	CellType
+PMC2199061	113	uniprot:UNRESOLVED ID	cytochalasin D	Gene_or_gene_product
+PMC2199061	114	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	115	uazid:UA-CT-19	erythrocytes	CellType
+PMC2199061	115	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	115	uniprot:P08631	Hck	Gene_or_gene_product
+PMC2199061	116	uniprot:UNRESOLVED ID	cytochalasin D	Gene_or_gene_product
+PMC2199061	117	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	118	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	119	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	121	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	121	uazid:UA-CT-16	macrophage	CellType
+PMC2199061	122	uazid:UA-CT-16	Macrophages	CellType
+PMC2199061	123	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	123	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	125	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	126	uazid:UA-CT-16	Macrophages	CellType
+PMC2199061	127	uniprot:P43405	Syk-	Gene_or_gene_product
+PMC2199061	127	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	128	uniprot:Q63203	FcgammaRII	Gene_or_gene_product
+PMC2199061	128	uniprot:O75015	FcgammaRIII	Gene_or_gene_product
+PMC2199061	128	uniprot:P43405	Syk-	Gene_or_gene_product
+PMC2199061	128	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	130	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2199061	131	uniprot:P43405	Syk-	Gene_or_gene_product
+PMC2199061	131	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	132	uniprot:P28482	Erk2	Gene_or_gene_product
+PMC2199061	132	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	133	uniprot:P12931	Src	Gene_or_gene_product
+PMC2199061	134	uniprot:P29353	Shc	Gene_or_gene_product
+PMC2199061	134	uniprot:UNRESOLVED ID	p145Ship	Gene_or_gene_product
+PMC2199061	135	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	135	uniprot:P29353	Shc	Gene_or_gene_product
+PMC2199061	135	uniprot:UNRESOLVED ID	p145Ship	Gene_or_gene_product
+PMC2199061	136	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	136	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	136	uniprot:P29353	Shc	Gene_or_gene_product
+PMC2199061	136	uniprot:UNRESOLVED ID	p145Ship	Gene_or_gene_product
+PMC2199061	137	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	137	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	138	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	138	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	138	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2199061	139	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	139	uniprot:P28482	p42MAPK	Gene_or_gene_product
+PMC2199061	139	uniprot:P28482	Erk2	Gene_or_gene_product
+PMC2199061	139	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	139	uniprot:P27361	p44MAPK	Gene_or_gene_product
+PMC2199061	139	uniprot:P27361	Erk1	Gene_or_gene_product
+PMC2199061	140	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	141	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	141	uniprot:UNRESOLVED ID	Erk2 MAP	Gene_or_gene_product
+PMC2199061	141	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	142	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC2199061	142	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	142	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	142	uniprot:P27361	p44 Erk1	Gene_or_gene_product
+PMC2199061	142	uniprot:P28482	Erk2	Gene_or_gene_product
+PMC2199061	143	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	143	uniprot:P27361	Erk1	Gene_or_gene_product
+PMC2199061	143	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2199061	143	uniprot:O75791	p38	Gene_or_gene_product
+PMC2199061	143	uniprot:P45983	JNK1	Gene_or_gene_product
+PMC2199061	143	uniprot:P45984	JNK2	Gene_or_gene_product
+PMC2199061	144	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2199061	144	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	145	uniprot:O75791	p38	Gene_or_gene_product
+PMC2199061	145	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	146	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	146	uniprot:O75791	p38	Gene_or_gene_product
+PMC2199061	146	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	147	uniprot:P27361	Erk1	Gene_or_gene_product
+PMC2199061	147	uniprot:P28482	Erk2	Gene_or_gene_product
+PMC2199061	147	uniprot:O75791	p38	Gene_or_gene_product
+PMC2199061	147	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	147	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	147	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	148	uniprot:UNRESOLVED ID	JNK kinase	Gene_or_gene_product
+PMC2199061	148	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	148	uazid:UA-ORG-520	liver	Organ
+PMC2199061	148	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	148	uazid:UA-CT-16	macrophage	CellType
+PMC2199061	148	uniprot:UNRESOLVED ID	P388D1	Gene_or_gene_product
+PMC2199061	149	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2199061	149	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	150	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2199061	150	uniprot:P29353	Shc	Gene_or_gene_product
+PMC2199061	150	uniprot:Q92835	Ship	Gene_or_gene_product
+PMC2199061	150	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2199061	152	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	152	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	153	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	153	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2199061	153	uniprot:UNRESOLVED ID	p85 PI	Gene_or_gene_product
+PMC2199061	153	uazid:UA-CT-16	Macrophages	CellType
+PMC2199061	154	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	154	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	154	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2199061	154	uniprot:O43439	p85	Gene_or_gene_product
+PMC2199061	154	uniprot:P01009	PI	Gene_or_gene_product
+PMC2199061	155	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	155	uniprot:O43439	p85	Gene_or_gene_product
+PMC2199061	155	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2199061	155	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	155	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2199061	159	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	159	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2199061	159	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	159	uniprot:O43439	p85	Gene_or_gene_product
+PMC2199061	159	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2199061	161	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2199061	161	uniprot:P12931	Src	Gene_or_gene_product
+PMC2199061	162	uniprot:O43439	p85	Gene_or_gene_product
+PMC2199061	162	uniprot:P01009	PI	Gene_or_gene_product
+PMC2199061	162	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	162	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	163	uniprot:P01009	PI	Gene_or_gene_product
+PMC2199061	163	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	163	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	163	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	163	ncbitax:species:ncbi:9606	human	Species
+PMC2199061	163	uazid:UA-CT-24	monocyte	CellType
+PMC2199061	163	uazid:UA-ORG-100	bone	Organ
+PMC2199061	163	uniprot:UNRESOLVED ID	marrow	CellType
+PMC2199061	164	uniprot:P49344	EA	Gene_or_gene_product
+PMC2199061	164	uazid:UA-ORG-520	liver	Organ
+PMC2199061	164	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	165	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	166	uazid:UA-CT-16	Macrophages	CellType
+PMC2199061	167	uniprot:UNRESOLVED ID	FcgammaR receptors	Gene_or_gene_product
+PMC2199061	167	uazid:UA-CT-16	macrophage	CellType
+PMC2199061	168	uazid:UA-CT-16	macrophage	CellType
+PMC2199061	169	uazid:UA-ORG-520	liver	Organ
+PMC2199061	169	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	169	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	170	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	170	uniprot:P01584	IL-1beta	Gene_or_gene_product
+PMC2199061	170	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2199061	171	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	171	uniprot:P01584	IL-1beta	Gene_or_gene_product
+PMC2199061	171	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2199061	171	interpro:IPR004281	IL-12	Gene_or_gene_product
+PMC2199061	174	uniprot:P01584	IL-1beta	Gene_or_gene_product
+PMC2199061	174	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2199061	174	interpro:IPR004281	IL-12	Gene_or_gene_product
+PMC2199061	174	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	174	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	175	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	175	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	176	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	176	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	176	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	177	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	177	uniprot:Q50EK2	LPS-	Gene_or_gene_product
+PMC2199061	177	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	177	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	177	uniprot:O89094	mice	Species
+PMC2199061	178	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	179	uniprot:P27361	Erk1	Gene_or_gene_product
+PMC2199061	179	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2199061	179	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2199061	179	uniprot:P01584	IL-1beta	Gene_or_gene_product
+PMC2199061	179	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2199061	179	interpro:IPR004281	IL-12	Gene_or_gene_product
+PMC2199061	180	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	181	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	181	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	182	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	182	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	183	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	183	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	183	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	184	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	184	uniprot:P29353	Shc	Gene_or_gene_product
+PMC2199061	184	uniprot:UNRESOLVED ID	p145Ship	Gene_or_gene_product
+PMC2199061	184	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	185	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	185	uniprot:P28482	Erk2	Gene_or_gene_product
+PMC2199061	185	uniprot:UNRESOLVED ID	p38 MAP	Gene_or_gene_product
+PMC2199061	186	uniprot:P29353	Shc	Gene_or_gene_product
+PMC2199061	186	uniprot:P62993	Grb-2	Gene_or_gene_product
+PMC2199061	186	uniprot:P26675	SOS	Gene_or_gene_product
+PMC2199061	186	uniprot:UNRESOLVED ID	Ras-Raf	Gene_or_gene_product
+PMC2199061	186	uniprot:P27361	Erk1	Gene_or_gene_product
+PMC2199061	186	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2199061	186	uniprot:P28482	Erk2	Gene_or_gene_product
+PMC2199061	187	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	187	uniprot:UNRESOLVED ID	FcgammaR-	Gene_or_gene_product
+PMC2199061	187	uniprot:O43439	p85	Gene_or_gene_product
+PMC2199061	187	uniprot:P01009	PI	Gene_or_gene_product
+PMC2199061	188	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	188	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	188	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2199061	189	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	189	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2199061	189	uniprot:O43439	p85	Gene_or_gene_product
+PMC2199061	190	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	191	uniprot:UNRESOLVED ID	FcgammaRs	Gene_or_gene_product
+PMC2199061	191	uniprot:UNRESOLVED ID	ITAM	Gene_or_gene_product
+PMC2199061	191	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2199061	191	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199061	191	uniprot:UNRESOLVED ID	antigen receptors	Gene_or_gene_product
+PMC2199061	191	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2199061	191	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	191	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	191	uniprot:P43403	ZAP-70	Gene_or_gene_product
+PMC2199061	192	uniprot:UNRESOLVED ID	Antigen	Gene_or_gene_product
+PMC2199061	192	uniprot:UNRESOLVED ID	Fc receptor	Gene_or_gene_product
+PMC2199061	192	uniprot:P12931	Src	Gene_or_gene_product
+PMC2199061	192	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	192	uniprot:P43403	ZAP-70	Gene_or_gene_product
+PMC2199061	193	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	193	uniprot:P43403	ZAP-70	Gene_or_gene_product
+PMC2199061	194	uazid:UA-CT-22	lymphocyte	CellType
+PMC2199061	194	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2199061	194	uniprot:UNRESOLVED ID	antigen receptors	Gene_or_gene_product
+PMC2199061	194	uniprot:UNRESOLVED ID	FcgammaRs	Gene_or_gene_product
+PMC2199061	194	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	195	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	195	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	195	uniprot:P12931	Src	Gene_or_gene_product
+PMC2199061	195	uniprot:P08631	Hck	Gene_or_gene_product
+PMC2199061	195	uniprot:P09769	Fgr	Gene_or_gene_product
+PMC2199061	195	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2199061	196	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	196	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	196	uniprot:P08631	Hck	Gene_or_gene_product
+PMC2199061	196	uniprot:P07948	Lyn-	Gene_or_gene_product
+PMC2199061	196	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	197	uniprot:P12931	Src	Gene_or_gene_product
+PMC2199061	197	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	198	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	198	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	198	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	199	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	200	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	201	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	201	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	201	uazid:UA-CT-16	macrophage	CellType
+PMC2199061	202	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	202	uniprot:UNRESOLVED ID	FcR	Gene_or_gene_product
+PMC2199061	203	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	203	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	204	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	205	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	205	uniprot:P08631	Hck	Gene_or_gene_product
+PMC2199061	205	uniprot:P07948	Lyn-	Gene_or_gene_product
+PMC2199061	205	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	205	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	206	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	206	uniprot:UNRESOLVED ID	FcgammaRs	Gene_or_gene_product
+PMC2199061	206	uniprot:P08631	Hck	Gene_or_gene_product
+PMC2199061	206	uniprot:P07948	Lyn-	Gene_or_gene_product
+PMC2199061	206	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	207	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	207	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	207	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	208	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	210	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	210	uniprot:Q63203	FcgammaRII	Gene_or_gene_product
+PMC2199061	210	uazid:UA-CT-100034	platelets	Organ
+PMC2199061	211	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	211	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	212	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	213	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	215	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	216	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	217	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	218	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	219	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	219	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	220	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	220	uniprot:P01009	PI	Gene_or_gene_product
+PMC2199061	221	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	221	uniprot:O43439	p85	Gene_or_gene_product
+PMC2199061	221	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	222	uniprot:P01009	PI	Gene_or_gene_product
+PMC2199061	226	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	226	uniprot:P01009	PI	Gene_or_gene_product
+PMC2199061	227	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	227	uniprot:P01009	PI	Gene_or_gene_product
+PMC2199061	228	uniprot:Q63203	FcgammaRII	Gene_or_gene_product
+PMC2199061	228	uazid:UA-CT-100034	platelets	Organ
+PMC2199061	228	uniprot:P01009	PI	Gene_or_gene_product
+PMC2199061	229	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	229	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	229	uniprot:UNRESOLVED ID	p145Ship	Gene_or_gene_product
+PMC2199061	230	uniprot:P09131	P3	Gene_or_gene_product
+PMC2199061	230	uniprot:P01009	PI	Gene_or_gene_product
+PMC2199061	231	uniprot:UNRESOLVED ID	p145Ship	Gene_or_gene_product
+PMC2199061	231	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	231	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	231	uniprot:P29353	Shc	Gene_or_gene_product
+PMC2199061	232	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	232	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	232	uniprot:UNRESOLVED ID	p145Ship	Gene_or_gene_product
+PMC2199061	232	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	233	uniprot:P01009	PI	Gene_or_gene_product
+PMC2199061	233	uniprot:UNRESOLVED ID	p145Ship	Gene_or_gene_product
+PMC2199061	234	uniprot:P01009	PI	Gene_or_gene_product
+PMC2199061	234	uniprot:UNRESOLVED ID	small G proteins	Gene_or_gene_product
+PMC2199061	235	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2199061	235	uniprot:P31749	Rac	Gene_or_gene_product
+PMC2199061	235	uniprot:P60953	CDC42	Gene_or_gene_product
+PMC2199061	236	uniprot:P01009	PI	Gene_or_gene_product
+PMC2199061	237	uniprot:P31749	Rac	Gene_or_gene_product
+PMC2199061	237	uniprot:UNRESOLVED ID	PDGF	Gene_or_gene_product
+PMC2199061	237	uniprot:UNRESOLVED ID	PDGF receptor	Gene_or_gene_product
+PMC2199061	237	uniprot:P01009	PI	Gene_or_gene_product
+PMC2199061	238	uniprot:P01009	PI	Gene_or_gene_product
+PMC2199061	238	uniprot:P31749	Rac	Gene_or_gene_product
+PMC2199061	239	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2199061	240	uniprot:P60953	CDC42	Gene_or_gene_product
+PMC2199061	241	uniprot:P60953	CDC42	Gene_or_gene_product
+PMC2199061	241	uniprot:P31749	Rac	Gene_or_gene_product
+PMC2199061	242	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	245	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2199061	246	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	246	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	246	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2199061	246	uniprot:P01009	PI	Gene_or_gene_product
+PMC2199061	246	uniprot:UNRESOLVED ID	p145Ship	Gene_or_gene_product
+PMC2199061	247	uniprot:P43405	Syk-	Gene_or_gene_product
+PMC2199061	247	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	248	uniprot:P43405	Syk-	Gene_or_gene_product
+PMC2199061	248	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	248	uniprot:P49344	EA	Gene_or_gene_product
+PMC2199061	249	uniprot:P49344	EA	Gene_or_gene_product
+PMC2199061	250	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	250	uazid:UA-CT-19	erythrocytes	CellType
+PMC2199061	251	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	252	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	252	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	252	uazid:UA-CT-19	erythrocytes	CellType
+PMC2199061	253	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	253	uazid:UA-CT-16	macrophage	CellType
+PMC2199061	253	uazid:UA-CT-19	erythrocyte	CellType
+PMC2199061	254	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2199061	254	ncbitax:species:ncbi:41568	mum	Species
+PMC2199061	255	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	255	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	255	uniprot:P08631	Hck	Gene_or_gene_product
+PMC2199061	255	uniprot:P07948	Lyn-	Gene_or_gene_product
+PMC2199061	255	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	256	uazid:UA-ORG-100	Bone	Organ
+PMC2199061	256	uniprot:UNRESOLVED ID	marrow	CellType
+PMC2199061	256	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	256	uniprot:UNRESOLVED ID	IgG	Gene_or_gene_product
+PMC2199061	257	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	258	uniprot:UNRESOLVED ID	Anti-Syk immunoblotting	Gene_or_gene_product
+PMC2199061	258	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	259	uniprot:P49344	EA	Gene_or_gene_product
+PMC2199061	259	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	259	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	260	uazid:UA-CT-16	Macrophages	CellType
+PMC2199061	260	uniprot:P49344	EA	Gene_or_gene_product
+PMC2199061	261	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	261	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2199061	262	uazid:UA-CT-19	erythrocytes	CellType
+PMC2199061	264	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	264	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	264	uniprot:P49344	EA	Gene_or_gene_product
+PMC2199061	265	uniprot:P49344	EA	Gene_or_gene_product
+PMC2199061	265	uazid:UA-CT-19	erythrocytes	CellType
+PMC2199061	266	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	266	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	266	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	267	uniprot:UNRESOLVED ID	IgG	Gene_or_gene_product
+PMC2199061	270	uniprot:UNRESOLVED ID	anti-Shc antibodies	Gene_or_gene_product
+PMC2199061	270	uniprot:UNRESOLVED ID	anti-Erk2 antibodies	Gene_or_gene_product
+PMC2199061	271	uniprot:P28482	Erk2	Gene_or_gene_product
+PMC2199061	271	uniprot:P29353	Shc	Gene_or_gene_product
+PMC2199061	272	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	272	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC2199061	272	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	272	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	273	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	273	uniprot:UNRESOLVED ID	IgG	Gene_or_gene_product
+PMC2199061	274	uniprot:UNRESOLVED ID	p44 MAP	Gene_or_gene_product
+PMC2199061	274	uniprot:UNRESOLVED ID	anti-MAP kinase antibodies	Gene_or_gene_product
+PMC2199061	275	uniprot:P27361	Erk1	Gene_or_gene_product
+PMC2199061	275	uniprot:P28482	Erk2	Gene_or_gene_product
+PMC2199061	275	uniprot:UNRESOLVED ID	anti-Erk2 antibodies	Gene_or_gene_product
+PMC2199061	275	uniprot:P02686	myelin basic protein	Gene_or_gene_product
+PMC2199061	276	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	276	uniprot:P43405	Syk-	Gene_or_gene_product
+PMC2199061	276	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	278	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	279	uniprot:P27361	Erk1	Gene_or_gene_product
+PMC2199061	279	uniprot:P28482	Erk2	Gene_or_gene_product
+PMC2199061	279	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	281	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2199061	281	uniprot:O75791	p38	Gene_or_gene_product
+PMC2199061	281	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	281	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	282	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2199061	282	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	282	uniprot:UNRESOLVED ID	anti-JNK antibodies	Gene_or_gene_product
+PMC2199061	282	uniprot:UNRESOLVED ID	c-Jun- GST	Gene_or_gene_product
+PMC2199061	283	uniprot:O75791	p38	Gene_or_gene_product
+PMC2199061	283	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	283	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	284	uniprot:O75791	p38	Gene_or_gene_product
+PMC2199061	284	uniprot:UNRESOLVED ID	anti-p38 antibody	Gene_or_gene_product
+PMC2199061	285	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	285	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	286	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	290	uniprot:P28482	Erk2	Gene_or_gene_product
+PMC2199061	290	uniprot:UNRESOLVED ID	anti-Erk2 antibodies	Gene_or_gene_product
+PMC2199061	290	uniprot:Q8NFH3	p42	Gene_or_gene_product
+PMC2199061	291	uniprot:UNRESOLVED ID	anti-Shc antibodies	Gene_or_gene_product
+PMC2199061	293	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	293	uniprot:UNRESOLVED ID	p85 PI	Gene_or_gene_product
+PMC2199061	293	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2199061	294	uazid:UA-ORG-520	liver	Organ
+PMC2199061	294	uazid:UA-CT-16	macrophage	CellType
+PMC2199061	294	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	295	uniprot:P01009	PI	Gene_or_gene_product
+PMC2199061	296	uniprot:P01009	PI	Gene_or_gene_product
+PMC2199061	296	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	297	uazid:UA-CT-16	Macrophages	CellType
+PMC2199061	297	uazid:UA-CT-19	erythrocytes	CellType
+PMC2199061	298	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2199061	299	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2199061	299	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	300	uazid:UA-CT-16	macrophages	CellType
+PMC2199061	300	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2199061	300	uniprot:P01584	IL-1beta	Gene_or_gene_product
+PMC2199061	300	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2199061	300	interpro:IPR004281	IL-12	Gene_or_gene_product
+PMC2199061	300	uniprot:UNRESOLVED ID	IL-12 from gamma-IFN	Gene_or_gene_product
+PMC2199061	301	uniprot:UNRESOLVED ID	AI20038	Gene_or_gene_product
+PMC2199061	301	uniprot:UNRESOLVED ID	AI33442	Gene_or_gene_product
+PMC2199061	303	uniprot:UNRESOLVED ID	Leukaemia	CellType
+PMC2199061	304	uazid:UA-CT-19	erythrocytes	CellType
+PMC2199061	304	uniprot:UNRESOLVED ID	FcgammaR	Gene_or_gene_product
+PMC2199061	304	uniprot:UNRESOLVED ID	Fc receptor	Gene_or_gene_product
+PMC2199061	304	uniprot:UNRESOLVED ID	IgG	Gene_or_gene_product
+PMC2199061	304	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2199061	304	uniprot:O60760	glutathione S-transferase	Gene_or_gene_product
+PMC2199061	304	uniprot:UNRESOLVED ID	GST-c-Jun	Gene_or_gene_product
+PMC2199061	304	uniprot:UNRESOLVED ID	c-Jun	Gene_or_gene_product
+PMC2199061	304	uniprot:UNRESOLVED ID	ITAM	Gene_or_gene_product
+PMC2199061	304	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2199061	304	uniprot:P05412	Jun	Gene_or_gene_product
+PMC2199061	304	uniprot:P0DML2	Pl	Gene_or_gene_product

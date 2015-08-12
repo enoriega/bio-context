@@ -1,0 +1,599 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2185068	0	uazid:UA-ORG-407	Immunoglobulin	Organ
+PMC2185068	0	uniprot:P55196	Afadin	Gene_or_gene_product
+PMC2185068	1	uniprot:P55196	afadin	Gene_or_gene_product
+PMC2185068	2	uniprot:P55196	Afadin	Gene_or_gene_product
+PMC2185068	3	uniprot:P55196	afadin	Gene_or_gene_product
+PMC2185068	3	uazid:UA-ORG-407	immunoglobulin	Organ
+PMC2185068	3	uniprot:P15151	poliovirus receptor	Gene_or_gene_product
+PMC2185068	3	uniprot:Q3Z1H6	PRR	Gene_or_gene_product
+PMC2185068	3	uniprot:Q15223	PRR1	Gene_or_gene_product
+PMC2185068	4	uniprot:Q3Z1H6	PRR	Gene_or_gene_product
+PMC2185068	4	uniprot:P55196	afadin	Gene_or_gene_product
+PMC2185068	5	uniprot:Q3Z1H6	PRR	Gene_or_gene_product
+PMC2185068	5	uniprot:P55196	afadin	Gene_or_gene_product
+PMC2185068	6	uniprot:Q5QJ74	EL	Gene_or_gene_product
+PMC2185068	6	uniprot:Q3Z1H6	PRR	Gene_or_gene_product
+PMC2185068	6	uniprot:P55196	afadin	Gene_or_gene_product
+PMC2185068	7	uniprot:Q3Z1H6	PRR	Gene_or_gene_product
+PMC2185068	8	uniprot:Q3Z1H6	PRR	Gene_or_gene_product
+PMC2185068	8	uazid:UA-ORG-407	immunoglobulin	Organ
+PMC2185068	8	uniprot:P55196	afadin	Gene_or_gene_product
+PMC2185068	9	uniprot:Q3Z1H6	PRR	Gene_or_gene_product
+PMC2185068	9	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	9	uniprot:UNRESOLVED ID	Latin	Gene_or_gene_product
+PMC2185068	10	ncbitax:species:ncbi:4932	Yeast	Species
+PMC2185068	10	uniprot:P16278	beta-Galactosidase	Gene_or_gene_product
+PMC2185068	11	uniprot:UNRESOLVED ID	pBTM116-l-afadin-1	Gene_or_gene_product
+PMC2185068	11	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	11	uniprot:UNRESOLVED ID	pBTM116	Gene_or_gene_product
+PMC2185068	12	ncbitax:species:ncbi:4932	yeast	Species
+PMC2185068	12	uniprot:Q2G0B1	rat	Species
+PMC2185068	12	uazid:UA-CT-200001	brain	Organ
+PMC2185068	12	uniprot:UNRESOLVED ID	pBTM116-l-afadin-1 and -2	Gene_or_gene_product
+PMC2185068	13	uniprot:P16278	beta-Galactosidase	Gene_or_gene_product
+PMC2185068	14	ncbitax:species:ncbi:9606	human	Species
+PMC2185068	14	uniprot:Q15223	nectin-1	Gene_or_gene_product
+PMC2185068	14	ncbitax:species:ncbi:10090	mouse	Species
+PMC2185068	14	uazid:UA-CT-200001	brain	Organ
+PMC2185068	16	ncbitax:species:ncbi:9606	human	Species
+PMC2185068	16	uniprot:Q15223	nectin-1	Gene_or_gene_product
+PMC2185068	17	uniprot:UNRESOLVED ID	pCMV-Myc	Gene_or_gene_product
+PMC2185068	17	uniprot:UNRESOLVED ID	pFLAG-CMV1	Gene_or_gene_product
+PMC2185068	17	uniprot:UNRESOLVED ID	pCAGGS	Gene_or_gene_product
+PMC2185068	17	uniprot:UNRESOLVED ID	pCAGGS-FLAG	Gene_or_gene_product
+PMC2185068	17	uniprot:UNRESOLVED ID	pBTM116	Gene_or_gene_product
+PMC2185068	17	uniprot:UNRESOLVED ID	pVP16-3	Gene_or_gene_product
+PMC2185068	18	uniprot:Q56704	FLAG	Species
+PMC2185068	18	uniprot:UNRESOLVED ID	pFLAG-CMV1	Gene_or_gene_product
+PMC2185068	19	uniprot:O60760	glutathione S-transferase	Gene_or_gene_product
+PMC2185068	19	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2185068	19	uniprot:UNRESOLVED ID	beta-catenins	Gene_or_gene_product
+PMC2185068	19	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2185068	19	uniprot:UNRESOLVED ID	aa 734-884	Gene_or_gene_product
+PMC2185068	20	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	20	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	20	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	GST-nectin-1-CPC	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	aa 449-518	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	GST-nectin-1-CPC-DeltaC	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	aa 449-514	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	GST-nectin-2alpha-CP	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	aa 387-467	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	GST-nectin-2alpha-CP-DeltaC	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	aa 387-463	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	GST-nectin-2delta-CP	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	aa 403-530	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	GST-nectin-2delta-CP-DeltaC	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	aa 403-526	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	GST-l-afadin-PDZ	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	aa 1007-1125	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	pFLAG-CMV1-nectin-1	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	aa 27-518	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	pFLAG-CMV1-nectin-2alpha	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	aa 28-467	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	pFLAG-CMV1-nectin-2delta	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	aa 28-530	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	pCMV-Myc-l-afadin	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	aa 1-1829	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	pCAGGS-FLAG-nectin-1	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	pCAGGS-FLAG-nectin-1-DeltaC	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	aa 27-514	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	pCAGGS-nectin-1	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	aa 1-518	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	pCAGGS-nectin-2alpha	Gene_or_gene_product
+PMC2185068	21	uniprot:UNRESOLVED ID	aa 1-467	Gene_or_gene_product
+PMC2185068	24	uniprot:UNRESOLVED ID	l-Afadin	Gene_or_gene_product
+PMC2185068	24	uniprot:UNRESOLVED ID	Nectin	Gene_or_gene_product
+PMC2185068	26	uniprot:UNRESOLVED ID	Anti-Myc epitope Ab-coupled beads	Gene_or_gene_product
+PMC2185068	26	ncbitax:species:ncbi:10090	mouse	Species
+PMC2185068	27	uniprot:UNRESOLVED ID	pCMV-Myc-nectin-1-CP	Gene_or_gene_product
+PMC2185068	27	uniprot:UNRESOLVED ID	pCMV-Myc-nectin-2alpha-CP	Gene_or_gene_product
+PMC2185068	27	uniprot:UNRESOLVED ID	pCMV-Myc-nectin-2delta-CP	Gene_or_gene_product
+PMC2185068	27	uniprot:P01298	pH	Gene_or_gene_product
+PMC2185068	27	uniprot:UNRESOLVED ID	leupeptin, 1 mM PMSF	Gene_or_gene_product
+PMC2185068	28	uniprot:UNRESOLVED ID	anti-Myc Ab-coupled beads	Gene_or_gene_product
+PMC2185068	31	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2185068	31	uniprot:P01298	pH	Gene_or_gene_product
+PMC2185068	34	uniprot:UNRESOLVED ID	35S-labeled l-afadin	Gene_or_gene_product
+PMC2185068	34	uniprot:P13805	TNT	Gene_or_gene_product
+PMC2185068	36	uniprot:UNRESOLVED ID	milk	CellType
+PMC2185068	37	uniprot:UNRESOLVED ID	35S-labeled l-afadin	Gene_or_gene_product
+PMC2185068	37	uniprot:UNRESOLVED ID	milk	CellType
+PMC2185068	38	uniprot:UNRESOLVED ID	milk	CellType
+PMC2185068	38	uniprot:UNRESOLVED ID	Fujix BAS-2000II	Gene_or_gene_product
+PMC2185068	38	uniprot:UNRESOLVED ID	Fuji Photo Film Co.	Gene_or_gene_product
+PMC2185068	39	ncbitax:species:ncbi:9986	Rabbit	Species
+PMC2185068	39	uniprot:Q15223	nectin-1	Gene_or_gene_product
+PMC2185068	39	uniprot:UNRESOLVED ID	GST-nectin-1-CPN	Gene_or_gene_product
+PMC2185068	39	uniprot:UNRESOLVED ID	GST-nectin-2alpha-CP	Gene_or_gene_product
+PMC2185068	39	uniprot:UNRESOLVED ID	GST-nectin-2delta-CP	Gene_or_gene_product
+PMC2185068	40	uniprot:Q6T4R5	NHS	Gene_or_gene_product
+PMC2185068	41	uniprot:Q2G0B1	rat	Species
+PMC2185068	42	uniprot:UNRESOLVED ID	anti-nectin-2 mAb	Gene_or_gene_product
+PMC2185068	43	ncbitax:species:ncbi:10090	mouse	Species
+PMC2185068	44	ncbitax:species:ncbi:10090	mouse	Species
+PMC2185068	46	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2185068	46	ncbitax:species:ncbi:10090	mouse	Species
+PMC2185068	47	ncbitax:species:ncbi:10090	Mouse	Species
+PMC2185068	47	uniprot:Q2G0B1	rat	Species
+PMC2185068	47	uniprot:P9WNQ4	ECCD2	Gene_or_gene_product
+PMC2185068	48	ncbitax:species:ncbi:10090	Mouse	Species
+PMC2185068	49	uazid:UA-CT-33	bile	CellType
+PMC2185068	49	ncbitax:species:ncbi:10090	mouse	Species
+PMC2185068	49	uazid:UA-ORG-520	liver	Organ
+PMC2185068	51	uniprot:P01298	pH	Gene_or_gene_product
+PMC2185068	51	uniprot:UNRESOLVED ID	leupeptin, 1 mM PMSF	Gene_or_gene_product
+PMC2185068	51	uniprot:UNRESOLVED ID	anti-nectin-2 mAb at 4degreesC for 3 h. Protein G-Sepharose beads	Gene_or_gene_product
+PMC2185068	52	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2185068	56	uniprot:UNRESOLVED ID	anti-nectin-2 mAb	Gene_or_gene_product
+PMC2185068	57	uniprot:Q56704	FLAG	Species
+PMC2185068	57	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2185068	57	uniprot:UNRESOLVED ID	anti-Myc mAb	Gene_or_gene_product
+PMC2185068	58	uniprot:Q5QJ74	EL	Gene_or_gene_product
+PMC2185068	58	uniprot:Q56704	FLAG	Species
+PMC2185068	58	uniprot:UNRESOLVED ID	anti-FLAG mAb	Gene_or_gene_product
+PMC2185068	61	uniprot:Q5QJ74	EL	Gene_or_gene_product
+PMC2185068	62	uniprot:Q5QJ74	EL	Gene_or_gene_product
+PMC2185068	62	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2185068	64	uniprot:Q56704	FLAG	Species
+PMC2185068	64	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2185068	64	uniprot:UNRESOLVED ID	pFLAG-CMV1 construct	Gene_or_gene_product
+PMC2185068	64	uniprot:UNRESOLVED ID	pCMV-Myc	Gene_or_gene_product
+PMC2185068	65	uniprot:Q5QJ74	EL	Gene_or_gene_product
+PMC2185068	65	uniprot:Q56704	FLAG	Species
+PMC2185068	65	uniprot:UNRESOLVED ID	pCAGGS-FLAG	Gene_or_gene_product
+PMC2185068	65	uniprot:O95696	BRL	Gene_or_gene_product
+PMC2185068	67	uniprot:UNRESOLVED ID	FLAG-nectin-1	Gene_or_gene_product
+PMC2185068	68	uniprot:UNRESOLVED ID	pCAGGS-FLAG-nectin-1	Gene_or_gene_product
+PMC2185068	68	uniprot:O95696	BRL	Gene_or_gene_product
+PMC2185068	69	uniprot:UNRESOLVED ID	Geneticin	Gene_or_gene_product
+PMC2185068	69	uniprot:O95696	BRL	Gene_or_gene_product
+PMC2185068	70	uniprot:Q15223	nectin-1	Gene_or_gene_product
+PMC2185068	70	uniprot:UNRESOLVED ID	nectin-2alpha	Gene_or_gene_product
+PMC2185068	70	uniprot:UNRESOLVED ID	pCAGGS-nectin-1	Gene_or_gene_product
+PMC2185068	70	uniprot:UNRESOLVED ID	pCAGGS-nectin-2alpha	Gene_or_gene_product
+PMC2185068	70	uniprot:UNRESOLVED ID	Geneticin	Gene_or_gene_product
+PMC2185068	71	ncbitax:species:ncbi:10090	mouse	Species
+PMC2185068	72	ncbitax:species:ncbi:10090	mouse	Species
+PMC2185068	72	uazid:UA-ORG-451	intestine	Organ
+PMC2185068	76	uniprot:UNRESOLVED ID	HBSS	Gene_or_gene_product
+PMC2185068	76	uniprot:P02769	BSA	Gene_or_gene_product
+PMC2185068	78	uniprot:P30990	Nt	Gene_or_gene_product
+PMC2185068	79	uniprot:P18206	Vinculin	Gene_or_gene_product
+PMC2185068	79	ncbitax:species:ncbi:9031	chicken	Species
+PMC2185068	79	uniprot:UNRESOLVED ID	gizzard	CellType
+PMC2185068	80	uniprot:P02769	BSA	Gene_or_gene_product
+PMC2185068	82	uniprot:P02769	BSA	Gene_or_gene_product
+PMC2185068	82	uniprot:Q6V115	ovalbumin	Gene_or_gene_product
+PMC2185068	82	uniprot:Q92051	carbonic anhydrase	Gene_or_gene_product
+PMC2185068	82	ncbitax:species:ncbi:3847	soybean	Species
+PMC2185068	82	uniprot:P70059	trypsin	Gene_or_gene_product
+PMC2185068	83	uniprot:Q3Z1H6	PRR	Gene_or_gene_product
+PMC2185068	84	ncbitax:species:ncbi:4932	yeast	Species
+PMC2185068	85	uniprot:Q2G0B1	rat	Species
+PMC2185068	85	uazid:UA-CT-200001	brain	Organ
+PMC2185068	85	uniprot:UNRESOLVED ID	pBTM116-l-afadin-1	Gene_or_gene_product
+PMC2185068	85	uniprot:UNRESOLVED ID	aa 1-1015	Gene_or_gene_product
+PMC2185068	87	uniprot:Q15223	PRR1	Gene_or_gene_product
+PMC2185068	88	ncbitax:species:ncbi:9606	human	Species
+PMC2185068	88	uniprot:Q15223	PRR1	Gene_or_gene_product
+PMC2185068	88	uniprot:UNRESOLVED ID	aa 421- 518	Gene_or_gene_product
+PMC2185068	89	uniprot:Q2G0B1	rat	Species
+PMC2185068	89	ncbitax:species:ncbi:9606	human	Species
+PMC2185068	89	uniprot:Q15223	PRR1	Gene_or_gene_product
+PMC2185068	90	uniprot:Q3Z1H6	PRR	Gene_or_gene_product
+PMC2185068	90	uniprot:Q15223	PRR1	Gene_or_gene_product
+PMC2185068	90	uniprot:Q15223	HveC	Gene_or_gene_product
+PMC2185068	90	uniprot:Q92692	HveB	Gene_or_gene_product
+PMC2185068	91	uniprot:Q3Z1H6	PRR	Gene_or_gene_product
+PMC2185068	91	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	92	ncbitax:species:ncbi:4932	yeast	Species
+PMC2185068	92	uniprot:UNRESOLVED ID	pBTM116-l-afadin-2	Gene_or_gene_product
+PMC2185068	94	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	94	uniprot:Q15223	nectin-1	Gene_or_gene_product
+PMC2185068	94	uniprot:UNRESOLVED ID	pBTM116-neurabin-II	Gene_or_gene_product
+PMC2185068	94	uniprot:Q96SB3	neurabin-II	Gene_or_gene_product
+PMC2185068	95	uniprot:Q9P2S2	Neurexin-2alpha	Gene_or_gene_product
+PMC2185068	95	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	95	uniprot:UNRESOLVED ID	E-Y-Y-V	Gene_or_gene_product
+PMC2185068	95	uniprot:O14936	CASK	Gene_or_gene_product
+PMC2185068	96	uniprot:Q96SB3	Neurabin-II	Gene_or_gene_product
+PMC2185068	96	uniprot:Q0ZGT2	F-actin-binding protein	Gene_or_gene_product
+PMC2185068	97	ncbitax:species:ncbi:4932	yeast	Species
+PMC2185068	97	uniprot:P16278	beta-galactosidase	Gene_or_gene_product
+PMC2185068	98	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	98	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	98	uniprot:Q9P2S2	neurexin-2alpha	Gene_or_gene_product
+PMC2185068	99	uniprot:Q96SB3	neurabin-II	Gene_or_gene_product
+PMC2185068	100	uniprot:UNRESOLVED ID	l-Afadin	Gene_or_gene_product
+PMC2185068	100	uniprot:UNRESOLVED ID	Nectin	Gene_or_gene_product
+PMC2185068	101	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	101	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	102	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	102	uniprot:UNRESOLVED ID	GST-l-afadin-PDZ	Gene_or_gene_product
+PMC2185068	102	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2185068	102	uniprot:Q15223	nectin-1	Gene_or_gene_product
+PMC2185068	102	uniprot:UNRESOLVED ID	Myc-nectin-1-CP	Gene_or_gene_product
+PMC2185068	102	uniprot:UNRESOLVED ID	anti-Myc mAb	Gene_or_gene_product
+PMC2185068	103	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	103	uniprot:Q15223	nectin-1	Gene_or_gene_product
+PMC2185068	104	uniprot:UNRESOLVED ID	nectin-2alpha and -2delta	Gene_or_gene_product
+PMC2185068	105	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	105	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	105	uniprot:UNRESOLVED ID	35S-labeled l-afadin	Gene_or_gene_product
+PMC2185068	107	uniprot:UNRESOLVED ID	35S-labeled l-afadin	Gene_or_gene_product
+PMC2185068	108	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	108	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	109	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	109	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	110	uniprot:UNRESOLVED ID	nectin-2alpha	Gene_or_gene_product
+PMC2185068	110	ncbitax:species:ncbi:10090	mouse	Species
+PMC2185068	110	uazid:UA-ORG-520	liver	Organ
+PMC2185068	111	uazid:UA-CT-33	bile	CellType
+PMC2185068	111	ncbitax:species:ncbi:10090	mouse	Species
+PMC2185068	111	uazid:UA-ORG-520	liver	Organ
+PMC2185068	111	uniprot:UNRESOLVED ID	anti-nectin-2 mAb	Gene_or_gene_product
+PMC2185068	111	uniprot:UNRESOLVED ID	nectin-2alpha and -2delta	Gene_or_gene_product
+PMC2185068	111	uniprot:UNRESOLVED ID	anti-l-afadin mAb	Gene_or_gene_product
+PMC2185068	112	uniprot:UNRESOLVED ID	l-Afadin	Gene_or_gene_product
+PMC2185068	112	uniprot:UNRESOLVED ID	nectin-2alpha	Gene_or_gene_product
+PMC2185068	113	ncbitax:species:ncbi:10090	mouse	Species
+PMC2185068	113	uniprot:UNRESOLVED ID	anti-nectin-2 mAb	Gene_or_gene_product
+PMC2185068	113	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	113	uniprot:UNRESOLVED ID	nectin-2alpha and -2delta	Gene_or_gene_product
+PMC2185068	114	uniprot:UNRESOLVED ID	Myc-l-afadin	Gene_or_gene_product
+PMC2185068	114	uniprot:UNRESOLVED ID	anti-Myc or anti-FLAG mAb	Gene_or_gene_product
+PMC2185068	115	uniprot:UNRESOLVED ID	Myc-l-Afadin	Gene_or_gene_product
+PMC2185068	115	uniprot:UNRESOLVED ID	FLAG-nectin-1	Gene_or_gene_product
+PMC2185068	116	uniprot:UNRESOLVED ID	Myc-l-Afadin	Gene_or_gene_product
+PMC2185068	116	uniprot:UNRESOLVED ID	FLAG-nectin-2alpha or -2delta	Gene_or_gene_product
+PMC2185068	117	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	118	uniprot:UNRESOLVED ID	Nectin	Gene_or_gene_product
+PMC2185068	119	uazid:UA-ORG-886	small intestine	Organ
+PMC2185068	119	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	119	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	120	uazid:UA-ORG-886	small intestine	Organ
+PMC2185068	120	uniprot:Q2G0B1	rat	Species
+PMC2185068	120	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2185068	120	ncbitax:species:ncbi:10090	mouse	Species
+PMC2185068	120	uniprot:Q92692	nectin-2	Gene_or_gene_product
+PMC2185068	120	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	120	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2185068	120	uazid:UA-ORG-451	intestine	Organ
+PMC2185068	121	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	121	uniprot:UNRESOLVED ID	anti-nectin-1	Gene_or_gene_product
+PMC2185068	121	uniprot:UNRESOLVED ID	anti-nectin-2alpha	Gene_or_gene_product
+PMC2185068	122	uazid:UA-ORG-126	Canine	Organ
+PMC2185068	122	uniprot:Q92692	nectin-2	Gene_or_gene_product
+PMC2185068	122	uniprot:UNRESOLVED ID	anti-nectin-2 mAb	Gene_or_gene_product
+PMC2185068	123	uniprot:UNRESOLVED ID	FLAG-nectin-1	Gene_or_gene_product
+PMC2185068	124	uniprot:UNRESOLVED ID	FLAG-nectin-1	Gene_or_gene_product
+PMC2185068	125	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2185068	126	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	127	uniprot:Q92692	nectin-2	Gene_or_gene_product
+PMC2185068	127	uazid:UA-ORG-451	intestine	Organ
+PMC2185068	128	uniprot:Q92692	Nectin-2	Gene_or_gene_product
+PMC2185068	128	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2185068	130	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	130	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	131	uniprot:UNRESOLVED ID	Nectin	Gene_or_gene_product
+PMC2185068	132	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	132	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	133	uazid:UA-ORG-385	heart	Organ
+PMC2185068	133	uniprot:UNRESOLVED ID	anti-nectin-2 mAb	Gene_or_gene_product
+PMC2185068	134	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	134	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	135	uniprot:Q5QJ74	EL	Gene_or_gene_product
+PMC2185068	135	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2185068	136	uniprot:Q5QJ74	EL	Gene_or_gene_product
+PMC2185068	136	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2185068	137	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	137	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2185068	137	uniprot:Q5QJ74	EL	Gene_or_gene_product
+PMC2185068	138	uniprot:Q92692	nectin-2	Gene_or_gene_product
+PMC2185068	139	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	140	uniprot:UNRESOLVED ID	Nectin	Gene_or_gene_product
+PMC2185068	140	uniprot:Q5QJ74	EL	Gene_or_gene_product
+PMC2185068	141	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	141	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	142	uniprot:Q5QJ74	EL	Gene_or_gene_product
+PMC2185068	142	uniprot:Q56704	FLAG	Species
+PMC2185068	142	uniprot:Q15223	nectin-1	Gene_or_gene_product
+PMC2185068	143	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	143	uniprot:UNRESOLVED ID	FLAG-nectin-1	Gene_or_gene_product
+PMC2185068	143	uniprot:UNRESOLVED ID	FLAG-nectin-1-DeltaC	Gene_or_gene_product
+PMC2185068	144	uniprot:UNRESOLVED ID	FLAG-nectin-1	Gene_or_gene_product
+PMC2185068	144	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	144	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2185068	145	uniprot:UNRESOLVED ID	nectin-1-DeltaC	Gene_or_gene_product
+PMC2185068	145	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2185068	146	uniprot:UNRESOLVED ID	Nectin-1-DeltaC	Gene_or_gene_product
+PMC2185068	146	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	147	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	147	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	147	uniprot:Q5QJ74	EL	Gene_or_gene_product
+PMC2185068	148	uniprot:UNRESOLVED ID	Nectin	Gene_or_gene_product
+PMC2185068	149	uniprot:UNRESOLVED ID	nectin-2alpha and -2delta	Gene_or_gene_product
+PMC2185068	150	uniprot:Q15223	nectin-1	Gene_or_gene_product
+PMC2185068	151	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	152	uniprot:Q15223	Nectin-1	Gene_or_gene_product
+PMC2185068	152	uniprot:UNRESOLVED ID	nectin-2alpha	Gene_or_gene_product
+PMC2185068	152	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2185068	154	uniprot:Q15223	nectin-1	Gene_or_gene_product
+PMC2185068	155	uniprot:UNRESOLVED ID	Nectin	Gene_or_gene_product
+PMC2185068	156	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	156	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	156	uniprot:UNRESOLVED ID	beta-catenins	Gene_or_gene_product
+PMC2185068	156	uniprot:P18206	vinculin	Gene_or_gene_product
+PMC2185068	156	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2185068	157	uniprot:UNRESOLVED ID	Myc-nectin-1-CP	Gene_or_gene_product
+PMC2185068	157	uniprot:UNRESOLVED ID	GST-l-afadin-PDZ	Gene_or_gene_product
+PMC2185068	157	uniprot:P18206	vinculin	Gene_or_gene_product
+PMC2185068	157	uniprot:UNRESOLVED ID	beta-catenins	Gene_or_gene_product
+PMC2185068	157	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2185068	158	uniprot:UNRESOLVED ID	nectin-2alpha and -2delta	Gene_or_gene_product
+PMC2185068	159	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	159	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC2185068	159	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2185068	160	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	160	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	161	uniprot:UNRESOLVED ID	Nectin	Gene_or_gene_product
+PMC2185068	161	uniprot:Q15223	nectin-1	Gene_or_gene_product
+PMC2185068	161	uniprot:UNRESOLVED ID	Ig superfamily	Gene_or_gene_product
+PMC2185068	162	uniprot:UNRESOLVED ID	Ig superfamily	Gene_or_gene_product
+PMC2185068	164	uniprot:UNRESOLVED ID	IgCAMs	Gene_or_gene_product
+PMC2185068	165	uniprot:P13591	NCAM	Gene_or_gene_product
+PMC2185068	166	uniprot:Q13938	caps	Gene_or_gene_product
+PMC2185068	166	uniprot:Q9UJV9	Abs	Gene_or_gene_product
+PMC2185068	167	uniprot:UNRESOLVED ID	IgCAMs	Gene_or_gene_product
+PMC2185068	168	uniprot:Q0ZGT2	F-actin-binding protein	Gene_or_gene_product
+PMC2185068	168	uniprot:UNRESOLVED ID	IgCAMs	Gene_or_gene_product
+PMC2185068	169	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	169	uniprot:Q0ZGT2	F-actin-binding protein	Gene_or_gene_product
+PMC2185068	169	uniprot:UNRESOLVED ID	nectin family	Gene_or_gene_product
+PMC2185068	170	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	170	uniprot:Q15223	nectin-1	Gene_or_gene_product
+PMC2185068	170	uniprot:UNRESOLVED ID	nectin-2alpha and -2delta	Gene_or_gene_product
+PMC2185068	170	ncbitax:species:ncbi:4932	yeast	Species
+PMC2185068	171	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	171	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	171	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2185068	172	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	173	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	173	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	174	uniprot:UNRESOLVED ID	cadherin-catenin	Gene_or_gene_product
+PMC2185068	175	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	175	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC2185068	175	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2185068	176	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	177	uniprot:UNRESOLVED ID	cadherin-catenin	Gene_or_gene_product
+PMC2185068	178	uniprot:Q9BX66	ponsin	Gene_or_gene_product
+PMC2185068	178	uniprot:P18206	vinculin	Gene_or_gene_product
+PMC2185068	179	uniprot:Q9BX66	ponsin	Gene_or_gene_product
+PMC2185068	179	uniprot:P18206	vinculin	Gene_or_gene_product
+PMC2185068	180	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	180	uniprot:P18206	vinculin	Gene_or_gene_product
+PMC2185068	180	uniprot:UNRESOLVED ID	cadherin-catenin	Gene_or_gene_product
+PMC2185068	181	uniprot:UNRESOLVED ID	ZO	Gene_or_gene_product
+PMC2185068	181	uniprot:UNRESOLVED ID	ZA	Gene_or_gene_product
+PMC2185068	181	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	181	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2185068	182	uniprot:P18206	vinculin	Gene_or_gene_product
+PMC2185068	182	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	182	uniprot:Q9BX66	ponsin	Gene_or_gene_product
+PMC2185068	183	uniprot:UNRESOLVED ID	ZO	Gene_or_gene_product
+PMC2185068	183	uniprot:UNRESOLVED ID	ZA	Gene_or_gene_product
+PMC2185068	185	uazid:UA-ORG-172	colon	Organ
+PMC2185068	185	uniprot:UNRESOLVED ID	carcinoma	CellType
+PMC2185068	185	uniprot:P18206	vinculin	Gene_or_gene_product
+PMC2185068	185	uniprot:UNRESOLVED ID	ZO	Gene_or_gene_product
+PMC2185068	187	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	187	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	187	uniprot:Q9BX66	ponsin	Gene_or_gene_product
+PMC2185068	187	uniprot:P18206	vinculin	Gene_or_gene_product
+PMC2185068	187	uniprot:UNRESOLVED ID	cadherin-catenin	Gene_or_gene_product
+PMC2185068	188	uniprot:UNRESOLVED ID	nectin-2alpha	Gene_or_gene_product
+PMC2185068	188	uniprot:Q15223	nectin-1	Gene_or_gene_product
+PMC2185068	190	uniprot:Q15223	nectin-1	Gene_or_gene_product
+PMC2185068	191	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	191	uniprot:P62158	CAM	Gene_or_gene_product
+PMC2185068	191	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	192	uniprot:Q15223	Nectin-1	Gene_or_gene_product
+PMC2185068	193	uniprot:UNRESOLVED ID	nectin family	Gene_or_gene_product
+PMC2185068	194	uniprot:UNRESOLVED ID	nectin family members	Gene_or_gene_product
+PMC2185068	194	uniprot:UNRESOLVED ID	nectin family	Gene_or_gene_product
+PMC2185068	195	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	195	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	199	uniprot:P55196	AF-6	Gene_or_gene_product
+PMC2185068	199	uniprot:UNRESOLVED ID	s-afadin	Gene_or_gene_product
+PMC2185068	201	uniprot:UNRESOLVED ID	Nectin	Gene_or_gene_product
+PMC2185068	201	uniprot:Q15223	nectin-1	Gene_or_gene_product
+PMC2185068	202	ncbitax:species:ncbi:4932	yeast	Species
+PMC2185068	202	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	202	uniprot:Q9P2S2	neurexin-2alpha	Gene_or_gene_product
+PMC2185068	203	uniprot:P78352	PSD-95	Gene_or_gene_product
+PMC2185068	203	uniprot:P78352	SAP90	Gene_or_gene_product
+PMC2185068	204	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	206	uniprot:P55196	AF-6	Gene_or_gene_product
+PMC2185068	206	uniprot:UNRESOLVED ID	s-afadin	Gene_or_gene_product
+PMC2185068	206	uniprot:UNRESOLVED ID	neurexin	Gene_or_gene_product
+PMC2185068	206	uniprot:P21709	Eph	Gene_or_gene_product
+PMC2185068	206	uniprot:UNRESOLVED ID	Eph receptor	Gene_or_gene_product
+PMC2185068	207	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	207	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	208	uniprot:P06401	PR	Gene_or_gene_product
+PMC2185068	208	uniprot:O42043	TM	Gene_or_gene_product
+PMC2185068	209	uniprot:UNRESOLVED ID	Nectin	Gene_or_gene_product
+PMC2185068	209	uniprot:UNRESOLVED ID	Neurexin Family Members	Gene_or_gene_product
+PMC2185068	210	uniprot:UNRESOLVED ID	Nectin Family Members	Gene_or_gene_product
+PMC2185068	211	uniprot:P16278	beta-galactosidase	Gene_or_gene_product
+PMC2185068	211	ncbitax:species:ncbi:4932	yeast	Species
+PMC2185068	212	uniprot:P46060	SD	Gene_or_gene_product
+PMC2185068	213	uniprot:P16278	beta-galactosidase	Gene_or_gene_product
+PMC2185068	215	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	215	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	217	uniprot:UNRESOLVED ID	GST-l-afadin-PDZ	Gene_or_gene_product
+PMC2185068	217	uniprot:UNRESOLVED ID	aa 1007-1125	Gene_or_gene_product
+PMC2185068	217	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2185068	217	uniprot:UNRESOLVED ID	Myc-nectin-1-CP	Gene_or_gene_product
+PMC2185068	217	uniprot:UNRESOLVED ID	aa 379-518	Gene_or_gene_product
+PMC2185068	217	uniprot:UNRESOLVED ID	anti-Myc mAb	Gene_or_gene_product
+PMC2185068	219	uniprot:UNRESOLVED ID	GST-l-afadin-PDZ	Gene_or_gene_product
+PMC2185068	219	uniprot:UNRESOLVED ID	arrowhead	Gene_or_gene_product
+PMC2185068	219	uniprot:UNRESOLVED ID	Myc-nectin-1-CP	Gene_or_gene_product
+PMC2185068	221	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	222	uniprot:P41349	B1	Gene_or_gene_product
+PMC2185068	223	uniprot:P41348	B2	Gene_or_gene_product
+PMC2185068	224	uniprot:UNRESOLVED ID	GST-Nectin-1-CPC	Gene_or_gene_product
+PMC2185068	224	uniprot:UNRESOLVED ID	aa 449-518	Gene_or_gene_product
+PMC2185068	224	uniprot:UNRESOLVED ID	GST-Nectin-1-CPC-DeltaC	Gene_or_gene_product
+PMC2185068	224	uniprot:UNRESOLVED ID	aa 449-514	Gene_or_gene_product
+PMC2185068	224	uniprot:UNRESOLVED ID	GST-Nectin-2alpha-CP	Gene_or_gene_product
+PMC2185068	224	uniprot:UNRESOLVED ID	aa 387-467	Gene_or_gene_product
+PMC2185068	224	uniprot:UNRESOLVED ID	GST-Nectin-2alpha-CP-DeltaC	Gene_or_gene_product
+PMC2185068	224	uniprot:UNRESOLVED ID	aa 387-463	Gene_or_gene_product
+PMC2185068	224	uniprot:UNRESOLVED ID	GST-Nectin-2delta-CP	Gene_or_gene_product
+PMC2185068	224	uniprot:UNRESOLVED ID	aa 403-530	Gene_or_gene_product
+PMC2185068	224	uniprot:UNRESOLVED ID	GST-Nectin-2delta-CP-DeltaC	Gene_or_gene_product
+PMC2185068	225	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	225	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	226	uazid:UA-CT-33	bile	CellType
+PMC2185068	226	ncbitax:species:ncbi:10090	mouse	Species
+PMC2185068	226	uazid:UA-ORG-520	liver	Organ
+PMC2185068	227	uazid:UA-CT-33	bile	CellType
+PMC2185068	227	uniprot:UNRESOLVED ID	anti-nectin-2 mAb or control IgG	Gene_or_gene_product
+PMC2185068	228	uniprot:UNRESOLVED ID	anti-l-afadin mAb	Gene_or_gene_product
+PMC2185068	229	ncbitax:species:ncbi:10090	mouse	Species
+PMC2185068	230	uniprot:UNRESOLVED ID	anti-nectin-2 mAb or control IgG	Gene_or_gene_product
+PMC2185068	231	uniprot:UNRESOLVED ID	anti-l-afadin mAb	Gene_or_gene_product
+PMC2185068	232	uniprot:UNRESOLVED ID	FLAG-nectin-1	Gene_or_gene_product
+PMC2185068	232	uniprot:UNRESOLVED ID	Myc-l-afadin	Gene_or_gene_product
+PMC2185068	233	uniprot:UNRESOLVED ID	FLAG-Nectin-1	Gene_or_gene_product
+PMC2185068	233	uniprot:UNRESOLVED ID	Myc-l-afadin	Gene_or_gene_product
+PMC2185068	234	uniprot:UNRESOLVED ID	anti-Myc mAb	Gene_or_gene_product
+PMC2185068	235	uniprot:UNRESOLVED ID	anti-Myc mAb	Gene_or_gene_product
+PMC2185068	236	uniprot:P21912	IP	Gene_or_gene_product
+PMC2185068	237	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	237	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	237	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2185068	238	uniprot:Q92692	nectin-2	Gene_or_gene_product
+PMC2185068	238	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	238	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2185068	238	ncbitax:species:ncbi:10090	mouse	Species
+PMC2185068	238	uazid:UA-ORG-886	small intestine	Organ
+PMC2185068	239	ncbitax:species:ncbi:10090	mouse	Species
+PMC2185068	239	uazid:UA-ORG-886	small intestine	Organ
+PMC2185068	239	uniprot:Q2G0B1	rat	Species
+PMC2185068	239	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2185068	240	uniprot:Q2G0B1	rat	Species
+PMC2185068	240	uniprot:UNRESOLVED ID	FITC	Gene_or_gene_product
+PMC2185068	240	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2185068	240	uniprot:UNRESOLVED ID	Cy5	Gene_or_gene_product
+PMC2185068	240	uniprot:UNRESOLVED ID	IgG Abs	Gene_or_gene_product
+PMC2185068	241	uniprot:Q92692	Nectin-2	Gene_or_gene_product
+PMC2185068	241	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2185068	242	uazid:UA-ORG-886	small intestine	Organ
+PMC2185068	243	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2185068	243	ncbitax:species:ncbi:41568	mum	Species
+PMC2185068	244	uniprot:Q15223	nectin-1	Gene_or_gene_product
+PMC2185068	244	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	244	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2185068	245	uniprot:UNRESOLVED ID	FLAG-nectin-1	Gene_or_gene_product
+PMC2185068	245	ncbitax:species:ncbi:10090	mouse	Species
+PMC2185068	245	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2185068	245	uniprot:Q2G0B1	rat	Species
+PMC2185068	246	uniprot:UNRESOLVED ID	IgG	Gene_or_gene_product
+PMC2185068	246	uniprot:UNRESOLVED ID	Cy5	Gene_or_gene_product
+PMC2185068	246	uniprot:UNRESOLVED ID	IgG Abs	Gene_or_gene_product
+PMC2185068	247	uniprot:P41349	B1	Gene_or_gene_product
+PMC2185068	247	uniprot:P15308	B4	Gene_or_gene_product
+PMC2185068	247	uniprot:UNRESOLVED ID	FLAG-nectin-1	Gene_or_gene_product
+PMC2185068	247	uniprot:P41348	B2	Gene_or_gene_product
+PMC2185068	247	uniprot:P46977	B5	Gene_or_gene_product
+PMC2185068	247	uniprot:Q64637	B3	Gene_or_gene_product
+PMC2185068	247	uniprot:Q96895	B6	Gene_or_gene_product
+PMC2185068	247	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2185068	250	ncbitax:species:ncbi:41568	mum	Species
+PMC2185068	251	uniprot:Q92692	nectin-2	Gene_or_gene_product
+PMC2185068	251	ncbitax:species:ncbi:10090	mouse	Species
+PMC2185068	251	uazid:UA-ORG-886	small intestine	Organ
+PMC2185068	252	uazid:UA-ORG-451	Intestine	Organ
+PMC2185068	252	uniprot:UNRESOLVED ID	anti-nectin-2 mAb	Gene_or_gene_product
+PMC2185068	254	ncbitax:species:ncbi:41568	mum	Species
+PMC2185068	255	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	255	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	256	uniprot:Q92692	nectin-2	Gene_or_gene_product
+PMC2185068	256	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	256	ncbitax:species:ncbi:10090	mouse	Species
+PMC2185068	256	uazid:UA-ORG-385	heart	Organ
+PMC2185068	257	ncbitax:species:ncbi:10090	mouse	Species
+PMC2185068	257	uazid:UA-ORG-385	heart	Organ
+PMC2185068	257	uniprot:Q2G0B1	rat	Species
+PMC2185068	257	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2185068	258	uniprot:UNRESOLVED ID	IgG	Gene_or_gene_product
+PMC2185068	258	uniprot:UNRESOLVED ID	FITC	Gene_or_gene_product
+PMC2185068	258	uniprot:UNRESOLVED ID	IgG Abs	Gene_or_gene_product
+PMC2185068	259	uniprot:Q92692	Nectin-2	Gene_or_gene_product
+PMC2185068	261	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2185068	261	ncbitax:species:ncbi:41568	mum	Species
+PMC2185068	262	uniprot:Q92692	nectin-2	Gene_or_gene_product
+PMC2185068	262	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	262	uniprot:Q5QJ74	EL	Gene_or_gene_product
+PMC2185068	263	uniprot:Q5QJ74	EL	Gene_or_gene_product
+PMC2185068	263	uniprot:Q2G0B1	rat	Species
+PMC2185068	263	ncbitax:species:ncbi:10090	mouse	Species
+PMC2185068	264	uniprot:UNRESOLVED ID	IgG	Gene_or_gene_product
+PMC2185068	264	uniprot:UNRESOLVED ID	IgG Abs	Gene_or_gene_product
+PMC2185068	265	uniprot:UNRESOLVED ID	anti-l-afadin mAb	Gene_or_gene_product
+PMC2185068	266	uniprot:P41349	B1	Gene_or_gene_product
+PMC2185068	266	uniprot:Q92692	Nectin-2	Gene_or_gene_product
+PMC2185068	267	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2185068	267	ncbitax:species:ncbi:41568	mum	Species
+PMC2185068	268	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	268	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2185068	269	uniprot:Q5QJ74	EL	Gene_or_gene_product
+PMC2185068	269	uniprot:UNRESOLVED ID	FLAG-nectin-1	Gene_or_gene_product
+PMC2185068	269	uniprot:UNRESOLVED ID	FLAG-nectin-1-DeltaC	Gene_or_gene_product
+PMC2185068	270	uniprot:UNRESOLVED ID	FLAG-Nectin-1	Gene_or_gene_product
+PMC2185068	270	uniprot:UNRESOLVED ID	FLAG-nectin-1-DeltaC	Gene_or_gene_product
+PMC2185068	270	uniprot:Q5QJ74	EL	Gene_or_gene_product
+PMC2185068	271	uniprot:UNRESOLVED ID	anti-FLAG mAb	Gene_or_gene_product
+PMC2185068	272	uniprot:UNRESOLVED ID	anti-l-afadin mAb	Gene_or_gene_product
+PMC2185068	274	ncbitax:species:ncbi:10090	mouse	Species
+PMC2185068	274	uniprot:Q2G0B1	rat	Species
+PMC2185068	274	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2185068	275	uniprot:UNRESOLVED ID	IgG	Gene_or_gene_product
+PMC2185068	275	uniprot:UNRESOLVED ID	IgG Abs	Gene_or_gene_product
+PMC2185068	277	uniprot:UNRESOLVED ID	B1-B6	Gene_or_gene_product
+PMC2185068	277	uniprot:UNRESOLVED ID	B7-B12	Gene_or_gene_product
+PMC2185068	277	uniprot:P41349	B1	Gene_or_gene_product
+PMC2185068	277	uniprot:P15308	B4	Gene_or_gene_product
+PMC2185068	277	uniprot:UNRESOLVED ID	FLAG-nectin-1	Gene_or_gene_product
+PMC2185068	277	uniprot:P33681	B7	Gene_or_gene_product
+PMC2185068	277	uniprot:P97675	B10	Gene_or_gene_product
+PMC2185068	277	uniprot:P41348	B2	Gene_or_gene_product
+PMC2185068	277	uniprot:P24770	B8	Gene_or_gene_product
+PMC2185068	277	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2185068	277	uniprot:P46977	B5	Gene_or_gene_product
+PMC2185068	277	uniprot:UNRESOLVED ID	B11	Gene_or_gene_product
+PMC2185068	277	uniprot:P15979	B12	Gene_or_gene_product
+PMC2185068	279	ncbitax:species:ncbi:41568	mum	Species
+PMC2185068	280	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2185068	281	uniprot:Q15223	nectin-1	Gene_or_gene_product
+PMC2185068	282	uniprot:Q15223	nectin-1	Gene_or_gene_product
+PMC2185068	282	uniprot:UNRESOLVED ID	nectin-2alpha	Gene_or_gene_product
+PMC2185068	282	uniprot:P70059	trypsin	Gene_or_gene_product
+PMC2185068	283	uniprot:UNRESOLVED ID	HBSS	Gene_or_gene_product
+PMC2185068	284	uniprot:P30990	Nt	Gene_or_gene_product
+PMC2185068	289	uniprot:P30990	Nt	Gene_or_gene_product
+PMC2185068	289	uniprot:P46060	SD	Gene_or_gene_product
+PMC2185068	291	uniprot:UNRESOLVED ID	HBSS	Gene_or_gene_product
+PMC2185068	292	uniprot:P41349	B1	Gene_or_gene_product
+PMC2185068	293	uniprot:P41348	B2	Gene_or_gene_product
+PMC2185068	294	ncbitax:species:ncbi:41568	mum	Species
+PMC2185068	296	uniprot:Q5QJ74	EL	Gene_or_gene_product
+PMC2185068	296	uniprot:UNRESOLVED ID	beta-catenins	Gene_or_gene_product
+PMC2185068	296	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2185068	300	uniprot:O60760	glutathione S-transferase	Gene_or_gene_product
+PMC2185068	301	uniprot:P15151	poliovirus receptor	Gene_or_gene_product

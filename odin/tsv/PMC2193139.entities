@@ -1,0 +1,805 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2193139	0	uniprot:UNRESOLVED ID	B Lymphocyte	CellType
+PMC2193139	0	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	0	uniprot:UNRESOLVED ID	Antigen	Gene_or_gene_product
+PMC2193139	0	uniprot:UNRESOLVED ID	Antigen Receptor	Gene_or_gene_product
+PMC2193139	1	uniprot:UNRESOLVED ID	src homology 2	Gene_or_gene_product
+PMC2193139	1	uniprot:P55241	SH2	Gene_or_gene_product
+PMC2193139	1	uniprot:P08567	pleckstrin	Gene_or_gene_product
+PMC2193139	1	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	1	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	2	ncbitax:species:ncbi:9606	human	Species
+PMC2193139	2	ncbitax:species:ncbi:10090	mouse	Species
+PMC2193139	2	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	2	uniprot:Q9UN19	bam32	Gene_or_gene_product
+PMC2193139	3	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	3	uazid:UA-CT-22	lymphocytes	CellType
+PMC2193139	4	ncbitax:species:ncbi:9606	Human	Species
+PMC2193139	4	uazid:UA-ORG-359	germinal center	Organ
+PMC2193139	4	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	4	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	4	uniprot:P25942	CD40	Gene_or_gene_product
+PMC2193139	4	uazid:UA-ORG-407	immunoglobulin	Organ
+PMC2193139	4	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	4	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2193139	4	uniprot:UNRESOLVED ID	antigen receptor	Gene_or_gene_product
+PMC2193139	4	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	4	uniprot:P16885	phospholipase Cgamma2	Gene_or_gene_product
+PMC2193139	5	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	5	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	6	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	7	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	7	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	7	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	7	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	8	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	8	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	8	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	8	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	9	uazid:UA-ORG-100	bone	Organ
+PMC2193139	9	uniprot:UNRESOLVED ID	marrow	CellType
+PMC2193139	9	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	11	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	11	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2193139	11	uniprot:UNRESOLVED ID	antigen receptor	Gene_or_gene_product
+PMC2193139	11	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	11	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2193139	12	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	12	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	12	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2193139	13	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	13	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2193139	13	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	14	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	14	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2193139	14	uniprot:P20273	CD22	Gene_or_gene_product
+PMC2193139	14	uniprot:P25942	CD40	Gene_or_gene_product
+PMC2193139	14	uniprot:P21854	CD72	Gene_or_gene_product
+PMC2193139	14	uniprot:UNRESOLVED ID	CD95	Gene_or_gene_product
+PMC2193139	14	uniprot:Q13291	CDw150	Gene_or_gene_product
+PMC2193139	14	uniprot:Q63203	FcgammaRII	Gene_or_gene_product
+PMC2193139	15	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	16	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	16	uniprot:UNRESOLVED ID	PTKs	Gene_or_gene_product
+PMC2193139	17	uniprot:P98160	PLC	Gene_or_gene_product
+PMC2193139	17	uniprot:P32540	gamma	Gene_or_gene_product
+PMC2193139	17	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC2193139	18	uniprot:UNRESOLVED ID	PTKs	Gene_or_gene_product
+PMC2193139	18	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	19	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	19	uniprot:P42680	Tec	Gene_or_gene_product
+PMC2193139	19	uniprot:P37101	PTK	Gene_or_gene_product
+PMC2193139	19	uniprot:Q06187	Btk	Gene_or_gene_product
+PMC2193139	20	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	20	uniprot:Q8WV28	BLNK	Gene_or_gene_product
+PMC2193139	20	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	20	uniprot:P37101	PTK	Gene_or_gene_product
+PMC2193139	21	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	21	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	21	uniprot:UNRESOLVED ID	kappa	Gene_or_gene_product
+PMC2193139	21	uniprot:UNRESOLVED ID	NF-kappaB	Gene_or_gene_product
+PMC2193139	22	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	23	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	23	uazid:UA-ORG-996	thymus	Organ
+PMC2193139	23	uazid:UA-ORG-359	germinal centers	Organ
+PMC2193139	23	uniprot:Q16739	GCs	Gene_or_gene_product
+PMC2193139	24	uniprot:P02774	GC	Gene_or_gene_product
+PMC2193139	24	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	24	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2193139	24	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2193139	24	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	24	uniprot:UNRESOLVED ID	dendritic cell	CellType
+PMC2193139	24	uniprot:P18627	FDC	Gene_or_gene_product
+PMC2193139	25	uniprot:P02774	GC	Gene_or_gene_product
+PMC2193139	25	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	25	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2193139	25	uniprot:UNRESOLVED ID	Ig	Gene_or_gene_product
+PMC2193139	25	uazid:UA-ORG-725	plasma	Organ
+PMC2193139	26	uniprot:P02774	GC	Gene_or_gene_product
+PMC2193139	26	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	26	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	27	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	27	uniprot:Q16739	GCs	Gene_or_gene_product
+PMC2193139	28	uniprot:P02774	GC	Gene_or_gene_product
+PMC2193139	28	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	28	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	28	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	29	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	30	uniprot:P18627	FDC	Gene_or_gene_product
+PMC2193139	30	ncbitax:species:ncbi:9606	human	Species
+PMC2193139	30	uazid:UA-ORG-1013	tonsils	Organ
+PMC2193139	33	uniprot:P18627	FDC	Gene_or_gene_product
+PMC2193139	33	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	33	uniprot:UNRESOLVED ID	CD21	Gene_or_gene_product
+PMC2193139	34	uniprot:UNRESOLVED ID	fibroblast	CellType
+PMC2193139	34	uniprot:UNRESOLVED ID	HFF	Gene_or_gene_product
+PMC2193139	34	uniprot:Q54CD8	HeLa	CellType
+PMC2193139	35	uniprot:Q6IVY4	SSH	Gene_or_gene_product
+PMC2193139	35	uniprot:P18627	FDC	Gene_or_gene_product
+PMC2193139	35	uniprot:UNRESOLVED ID	fibroblast	CellType
+PMC2193139	37	uniprot:P48147	PE	Gene_or_gene_product
+PMC2193139	38	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	38	ncbitax:species:ncbi:9606	human	Species
+PMC2193139	38	uazid:UA-ORG-539	lymph	Organ
+PMC2193139	38	uniprot:P06231	node	Organ
+PMC2193139	39	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	39	uniprot:P10266	RT	Gene_or_gene_product
+PMC2193139	39	uazid:UA-ORG-903	spleen	Organ
+PMC2193139	40	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	40	uniprot:UNRESOLVED ID	nick translation	Gene_or_gene_product
+PMC2193139	40	uniprot:O95696	BRL	Gene_or_gene_product
+PMC2193139	41	uazid:UA-CT-22	lymphocytes	CellType
+PMC2193139	41	ncbitax:species:ncbi:9606	human	Species
+PMC2193139	45	uniprot:Q86XP6	Blot	Gene_or_gene_product
+PMC2193139	46	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	46	ncbitax:species:ncbi:9606	human	Species
+PMC2193139	46	uazid:UA-ORG-1013	tonsils	Organ
+PMC2193139	47	uniprot:UNRESOLVED ID	II reverse transcriptase	Gene_or_gene_product
+PMC2193139	47	uniprot:O95696	BRL	Gene_or_gene_product
+PMC2193139	48	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	48	uniprot:UNRESOLVED ID	TGTCTCACAGAGCGAGAAGGTGTCAGG	Gene_or_gene_product
+PMC2193139	48	uniprot:UNRESOLVED ID	GAACCATCAGAGTGCCTGTCTCGCTTCC	Gene_or_gene_product
+PMC2193139	48	uniprot:P04406	glyceraldehyde-3-phosphate dehydrogenase	Gene_or_gene_product
+PMC2193139	48	uniprot:Q28554	G3PDH	Gene_or_gene_product
+PMC2193139	49	uniprot:UNRESOLVED ID	CTCTACCTCTGTGAAGGGCGCGAATG	Gene_or_gene_product
+PMC2193139	49	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	49	uniprot:UNRESOLVED ID	TGGGCGCCTGGTCACCAGGGCTGCTT	Gene_or_gene_product
+PMC2193139	49	uniprot:Q28554	G3PDH	Gene_or_gene_product
+PMC2193139	50	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	50	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	50	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	50	uniprot:UNRESOLVED ID	mAb deltaSTA4-1	Gene_or_gene_product
+PMC2193139	50	uniprot:P48147	PE	Gene_or_gene_product
+PMC2193139	50	uniprot:UNRESOLVED ID	IgD+CD38-	Gene_or_gene_product
+PMC2193139	50	uniprot:UNRESOLVED ID	IgD-CD38+	Gene_or_gene_product
+PMC2193139	50	uniprot:P02774	GC	Gene_or_gene_product
+PMC2193139	50	uniprot:UNRESOLVED ID	FACStarPLUS	Gene_or_gene_product
+PMC2193139	50	uniprot:O42043	TM	Gene_or_gene_product
+PMC2193139	51	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	52	uniprot:UNRESOLVED ID	mAb G28-5	Gene_or_gene_product
+PMC2193139	54	uniprot:UNRESOLVED ID	pcDNA3	Gene_or_gene_product
+PMC2193139	55	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2193139	55	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	55	uniprot:UNRESOLVED ID	pcDNA3.1 myc/hisA	Gene_or_gene_product
+PMC2193139	55	uniprot:UNRESOLVED ID	myc tag	Gene_or_gene_product
+PMC2193139	56	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	56	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2193139	56	uniprot:UNRESOLVED ID	EGFP-Bam32	Gene_or_gene_product
+PMC2193139	56	uniprot:UNRESOLVED ID	EGFP-SH2	Gene_or_gene_product
+PMC2193139	56	uniprot:UNRESOLVED ID	EGFP-PH	Gene_or_gene_product
+PMC2193139	57	uniprot:UNRESOLVED ID	pEGFP-C1	Gene_or_gene_product
+PMC2193139	57	uniprot:UNRESOLVED ID	pcDNA3	Gene_or_gene_product
+PMC2193139	58	uniprot:UNRESOLVED ID	pEGFP-C1	Gene_or_gene_product
+PMC2193139	59	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	59	uniprot:O60760	glutathione S-transferase	Gene_or_gene_product
+PMC2193139	59	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2193139	59	uniprot:UNRESOLVED ID	pGEX 5-x-2 vector	Gene_or_gene_product
+PMC2193139	61	uniprot:UNRESOLVED ID	serum	CellType
+PMC2193139	61	ncbitax:species:ncbi:9986	rabbits	Species
+PMC2193139	61	uniprot:UNRESOLVED ID	Bam32-GST	Gene_or_gene_product
+PMC2193139	62	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	62	uniprot:UNRESOLVED ID	UW32	Gene_or_gene_product
+PMC2193139	62	uniprot:UNRESOLVED ID	IgG1 isotype	Gene_or_gene_product
+PMC2193139	62	uniprot:O89094	mice	Species
+PMC2193139	62	uniprot:UNRESOLVED ID	Bam32-GST	Gene_or_gene_product
+PMC2193139	62	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2193139	63	uniprot:UNRESOLVED ID	mAb 4G10	Gene_or_gene_product
+PMC2193139	63	uniprot:UNRESOLVED ID	anti-myc mAb 9E10	Gene_or_gene_product
+PMC2193139	63	uniprot:UNRESOLVED ID	anti-BLNK mAb 2C9	Gene_or_gene_product
+PMC2193139	63	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2193139	63	uniprot:UNRESOLVED ID	anti-PLCgamma1	Gene_or_gene_product
+PMC2193139	63	uniprot:UNRESOLVED ID	anti-PLCgamma2 sera	Gene_or_gene_product
+PMC2193139	65	uniprot:UNRESOLVED ID	muF	Gene_or_gene_product
+PMC2193139	65	uniprot:Q5NMC0	RPMI	Gene_or_gene_product
+PMC2193139	67	uniprot:Q96T53	goat	Species
+PMC2193139	67	uniprot:UNRESOLVED ID	ab'	Gene_or_gene_product
+PMC2193139	67	ncbitax:species:ncbi:41568	muM	Species
+PMC2193139	67	uniprot:Q9NQV6	Tris	Gene_or_gene_product
+PMC2193139	67	uniprot:P01298	pH	Gene_or_gene_product
+PMC2193139	67	uniprot:P10265	protease	Gene_or_gene_product
+PMC2193139	67	uniprot:UNRESOLVED ID	mM PMSF	Gene_or_gene_product
+PMC2193139	67	uniprot:P10145	NaF	Gene_or_gene_product
+PMC2193139	75	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	75	ncbitax:species:ncbi:41568	muM	Species
+PMC2193139	75	uniprot:Q96T53	goat	Species
+PMC2193139	75	uniprot:UNRESOLVED ID	ab'	Gene_or_gene_product
+PMC2193139	77	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2193139	77	uniprot:UNRESOLVED ID	LaserSharp software	Gene_or_gene_product
+PMC2193139	77	uniprot:UNRESOLVED ID	MRC-1024	Gene_or_gene_product
+PMC2193139	78	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2193139	80	uniprot:UNRESOLVED ID	Luciferase Assays	Gene_or_gene_product
+PMC2193139	81	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	81	uniprot:UNRESOLVED ID	pcDNA3	Gene_or_gene_product
+PMC2193139	81	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	81	uniprot:UNRESOLVED ID	NF-AT-luciferase reporter construct	Gene_or_gene_product
+PMC2193139	83	uniprot:UNRESOLVED ID	anti-IgM F	Gene_or_gene_product
+PMC2193139	83	uniprot:UNRESOLVED ID	ab'	Gene_or_gene_product
+PMC2193139	83	ncbitax:species:ncbi:41568	muM	Species
+PMC2193139	84	uniprot:Q26304	luciferase	Gene_or_gene_product
+PMC2193139	85	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	85	uniprot:P02774	GC	Gene_or_gene_product
+PMC2193139	86	uniprot:Q16739	GCs	Gene_or_gene_product
+PMC2193139	86	ncbitax:species:ncbi:9606	human	Species
+PMC2193139	87	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	89	ncbitax:species:ncbi:9606	human	Species
+PMC2193139	89	uazid:UA-ORG-539	lymph	Organ
+PMC2193139	89	uniprot:P06231	node	Organ
+PMC2193139	93	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	93	uniprot:UNRESOLVED ID	B lymphocyte	CellType
+PMC2193139	94	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	95	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	95	ncbitax:species:ncbi:9606	human	Species
+PMC2193139	95	uniprot:P55241	SH2	Gene_or_gene_product
+PMC2193139	96	ncbitax:species:ncbi:9606	human	Species
+PMC2193139	97	ncbitax:species:ncbi:9606	human	Species
+PMC2193139	97	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	97	ncbitax:species:ncbi:10090	mouse	Species
+PMC2193139	98	ncbitax:species:ncbi:9606	human	Species
+PMC2193139	98	uniprot:UNRESOLVED ID	hbam1	Gene_or_gene_product
+PMC2193139	98	uniprot:UNRESOLVED ID	hbam2	Gene_or_gene_product
+PMC2193139	98	uniprot:UNRESOLVED ID	mbam1	Gene_or_gene_product
+PMC2193139	99	ncbitax:species:ncbi:9606	human	Species
+PMC2193139	99	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	99	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2193139	101	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	102	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	102	ncbitax:species:ncbi:9606	human	Species
+PMC2193139	103	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	104	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	104	uazid:UA-ORG-100	bone	Organ
+PMC2193139	104	uniprot:UNRESOLVED ID	marrow	CellType
+PMC2193139	104	uazid:UA-ORG-903	spleen	Organ
+PMC2193139	104	uazid:UA-ORG-539	lymph	Organ
+PMC2193139	104	uniprot:P06231	node	Organ
+PMC2193139	104	uniprot:UNRESOLVED ID	peripheral blood	CellType
+PMC2193139	104	uazid:UA-ORG-996	thymus	Organ
+PMC2193139	105	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	105	uazid:UA-ORG-1021	trachea	Organ
+PMC2193139	105	uazid:UA-ORG-721	placenta	Organ
+PMC2193139	105	uazid:UA-CT-200001	brain	Organ
+PMC2193139	105	uazid:UA-ORG-385	heart	Organ
+PMC2193139	105	uazid:UA-ORG-461	kidney	Organ
+PMC2193139	105	uazid:UA-ORG-520	liver	Organ
+PMC2193139	105	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC2193139	105	uazid:UA-ORG-406	immune system	Organ
+PMC2193139	106	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	106	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	106	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2193139	106	uniprot:UNRESOLVED ID	fibroblast	CellType
+PMC2193139	106	uniprot:UNRESOLVED ID	leukemia	CellType
+PMC2193139	107	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	107	uniprot:P18627	FDC	Gene_or_gene_product
+PMC2193139	107	uniprot:UNRESOLVED ID	fibroblast	CellType
+PMC2193139	108	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	108	uazid:UA-CT-100001	B Cell	CellType
+PMC2193139	109	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	109	uniprot:P02774	GC	Gene_or_gene_product
+PMC2193139	109	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	110	ncbitax:species:ncbi:9606	human	Species
+PMC2193139	110	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	110	uniprot:P02774	GC	Gene_or_gene_product
+PMC2193139	110	uniprot:P28907	CD38	Gene_or_gene_product
+PMC2193139	110	uniprot:UNRESOLVED ID	IgD	Gene_or_gene_product
+PMC2193139	111	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	111	uniprot:P02774	GC	Gene_or_gene_product
+PMC2193139	111	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	112	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	112	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	112	uniprot:P02774	GC	Gene_or_gene_product
+PMC2193139	112	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	113	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	113	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	114	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	114	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	114	uniprot:P25942	CD40	Gene_or_gene_product
+PMC2193139	115	uniprot:P25942	CD40	Gene_or_gene_product
+PMC2193139	115	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	115	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	116	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	116	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2193139	116	uniprot:P02774	GC	Gene_or_gene_product
+PMC2193139	116	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	117	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	117	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2193139	117	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	118	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	118	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	118	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	118	uniprot:UNRESOLVED ID	streptavidin-peroxidase	Gene_or_gene_product
+PMC2193139	119	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	120	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	121	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	121	uniprot:UNRESOLVED ID	~35/36 kD	Gene_or_gene_product
+PMC2193139	121	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	122	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	123	uniprot:UNRESOLVED ID	myc epitope	Gene_or_gene_product
+PMC2193139	123	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	124	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2193139	124	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2193139	124	uniprot:Q8WV28	BLNK	Gene_or_gene_product
+PMC2193139	124	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	125	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	125	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2193139	126	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	126	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2193139	126	uniprot:P20273	CD22	Gene_or_gene_product
+PMC2193139	126	uniprot:P43405	syk	Gene_or_gene_product
+PMC2193139	126	uniprot:Q92835	SHIP	Gene_or_gene_product
+PMC2193139	126	uniprot:UNRESOLVED ID	Bam32-PLCgamma2	Gene_or_gene_product
+PMC2193139	127	uniprot:UNRESOLVED ID	Bam32 SH2	Gene_or_gene_product
+PMC2193139	127	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2193139	128	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	128	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	128	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2193139	129	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	129	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	129	uniprot:P01298	PH	Gene_or_gene_product
+PMC2193139	130	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	130	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	130	uniprot:Q06187	Btk	Gene_or_gene_product
+PMC2193139	130	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	131	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	131	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	131	uniprot:UNRESOLVED ID	BJAB	Gene_or_gene_product
+PMC2193139	131	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	131	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2193139	132	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2193139	132	uniprot:UNRESOLVED ID	EGFP-Bam32	Gene_or_gene_product
+PMC2193139	133	uniprot:UNRESOLVED ID	Bam32-EGFP	Gene_or_gene_product
+PMC2193139	133	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	134	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	134	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2193139	135	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	136	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	137	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	137	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	137	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	138	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	140	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	141	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	142	uniprot:UNRESOLVED ID	Bam32 PH	Gene_or_gene_product
+PMC2193139	142	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	143	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	143	uniprot:UNRESOLVED ID	EGFP-Bam32	Gene_or_gene_product
+PMC2193139	143	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	144	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	144	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	145	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	145	uniprot:Q60867	beta2	Gene_or_gene_product
+PMC2193139	145	uniprot:O09029	beta3	Gene_or_gene_product
+PMC2193139	145	uniprot:Q06187	Btk	Gene_or_gene_product
+PMC2193139	145	ncbitax:species:ncbi:9606	human	Species
+PMC2193139	145	uniprot:O89094	mice	Species
+PMC2193139	146	uniprot:P01009	PI	Gene_or_gene_product
+PMC2193139	146	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2193139	147	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	147	uniprot:P01009	PI	Gene_or_gene_product
+PMC2193139	148	uniprot:Q06187	Btk	Gene_or_gene_product
+PMC2193139	149	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	151	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	152	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	152	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	152	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	152	uniprot:Q06187	Btk	Gene_or_gene_product
+PMC2193139	153	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	153	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	154	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	154	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	155	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	155	uniprot:UNRESOLVED ID	luciferase reporter construct	Gene_or_gene_product
+PMC2193139	155	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	155	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2193139	156	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	156	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	156	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	156	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	157	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	157	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	157	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	158	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	158	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	158	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	159	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	159	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	159	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	159	uniprot:P01009	PI	Gene_or_gene_product
+PMC2193139	160	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	160	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	160	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	160	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	160	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	161	uniprot:UNRESOLVED ID	Ly294002	Gene_or_gene_product
+PMC2193139	161	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	161	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	162	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	162	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	162	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	162	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193139	163	ncbitax:species:ncbi:9606	humans	Species
+PMC2193139	163	uazid:UA-CT-22	lymphocytes	CellType
+PMC2193139	164	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	164	uazid:UA-CT-22	lymphocyte	CellType
+PMC2193139	165	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	166	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	166	ncbitax:species:ncbi:10090	mouse	Species
+PMC2193139	166	ncbitax:species:ncbi:9606	human	Species
+PMC2193139	166	ncbitax:species:ncbi:9031	chicken	Species
+PMC2193139	167	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	168	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	168	uazid:UA-CT-22	lymphocytes	CellType
+PMC2193139	169	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	169	uazid:UA-ORG-1021	trachea	Organ
+PMC2193139	169	uazid:UA-CT-22	lymphocytes	CellType
+PMC2193139	170	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	170	uazid:UA-CT-24	monocyte	CellType
+PMC2193139	170	uazid:UA-ORG-1021	trachea	Organ
+PMC2193139	171	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	171	uniprot:UNRESOLVED ID	pre-B cell	CellType
+PMC2193139	172	uazid:UA-CT-100027	mature B cells	CellType
+PMC2193139	172	uniprot:P02774	GC	Gene_or_gene_product
+PMC2193139	172	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	172	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	173	ncbitax:species:ncbi:9606	human	Species
+PMC2193139	173	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	173	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	173	uniprot:UNRESOLVED ID	lymphoma	CellType
+PMC2193139	173	uniprot:UNRESOLVED ID	Ramos	Gene_or_gene_product
+PMC2193139	173	uniprot:UNRESOLVED ID	Daudi	Gene_or_gene_product
+PMC2193139	173	uniprot:P02774	GC	Gene_or_gene_product
+PMC2193139	173	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	174	uniprot:P25942	CD40	Gene_or_gene_product
+PMC2193139	174	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	174	uniprot:P02774	GC	Gene_or_gene_product
+PMC2193139	174	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	175	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	175	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	175	uniprot:P25942	CD40	Gene_or_gene_product
+PMC2193139	176	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	176	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2193139	176	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	176	uniprot:P02774	GC	Gene_or_gene_product
+PMC2193139	177	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	177	uniprot:P25942	CD40	Gene_or_gene_product
+PMC2193139	177	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	177	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	177	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2193139	177	uniprot:Q16739	GCs	Gene_or_gene_product
+PMC2193139	178	ncbitax:species:ncbi:9606	human	Species
+PMC2193139	178	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	178	uniprot:P60568	IL-2	Gene_or_gene_product
+PMC2193139	178	uniprot:P01133	epidermal growth factor	Gene_or_gene_product
+PMC2193139	178	uniprot:P09038	fibroblast growth factor 2	Gene_or_gene_product
+PMC2193139	178	uniprot:UNRESOLVED ID	caspase 6, I factor	Gene_or_gene_product
+PMC2193139	178	uniprot:Q9UJU2	lymphoid enhancer-binding factor 1	Gene_or_gene_product
+PMC2193139	179	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	179	uniprot:P08842	STS	Gene_or_gene_product
+PMC2193139	180	uniprot:P02774	GC	Gene_or_gene_product
+PMC2193139	180	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	181	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	181	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	181	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	181	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	181	uniprot:UNRESOLVED ID	lymphoma	CellType
+PMC2193139	182	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	183	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	183	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	184	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	185	uniprot:UNRESOLVED ID	src family kinases	Gene_or_gene_product
+PMC2193139	185	uniprot:UNRESOLVED ID	I/L-Y-D/E	Gene_or_gene_product
+PMC2193139	185	uniprot:UNRESOLVED ID	syk kinase	Gene_or_gene_product
+PMC2193139	185	uniprot:Q7ZU29	D-Y-E	Gene_or_gene_product
+PMC2193139	187	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	188	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	189	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	189	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	190	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	191	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	191	uniprot:P16333	Nck	Gene_or_gene_product
+PMC2193139	191	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2193139	191	uniprot:UNRESOLVED ID	PI3K p85	Gene_or_gene_product
+PMC2193139	191	uniprot:P34223	SHP-1	Gene_or_gene_product
+PMC2193139	191	uniprot:Q06124	SHP-2	Gene_or_gene_product
+PMC2193139	192	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	192	uniprot:P16333	Nck	Gene_or_gene_product
+PMC2193139	192	uniprot:UNRESOLVED ID	betaD3	Gene_or_gene_product
+PMC2193139	192	uniprot:UNRESOLVED ID	betaD5	Gene_or_gene_product
+PMC2193139	193	uniprot:P16333	Nck	Gene_or_gene_product
+PMC2193139	193	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	193	uazid:UA-CT-22	lymphocytes	CellType
+PMC2193139	193	uniprot:Q8WV28	BLNK	Gene_or_gene_product
+PMC2193139	193	uniprot:UNRESOLVED ID	p62 DOK	Gene_or_gene_product
+PMC2193139	193	uniprot:UNRESOLVED ID	p120 Ras-GAP	Gene_or_gene_product
+PMC2193139	194	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	194	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2193139	195	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	195	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2193139	196	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2193139	196	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2193139	196	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	197	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	197	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2193139	198	uniprot:UNRESOLVED ID	Bam32 PH	Gene_or_gene_product
+PMC2193139	199	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	200	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	200	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	201	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	201	uniprot:O43739	Grp1	Gene_or_gene_product
+PMC2193139	201	uniprot:Q15438	cytohesin-1	Gene_or_gene_product
+PMC2193139	201	uniprot:Q99418	ARNO	Gene_or_gene_product
+PMC2193139	201	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	202	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	202	uniprot:O43739	Grp1	Gene_or_gene_product
+PMC2193139	202	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2193139	202	uniprot:Q06187	Btk	Gene_or_gene_product
+PMC2193139	202	uniprot:UNRESOLVED ID	beta1 and beta2	Gene_or_gene_product
+PMC2193139	203	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	204	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	204	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	205	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	205	ncbitax:species:ncbi:55581	name	Species
+PMC2193139	205	uniprot:Q9UN19	DAPP1	Gene_or_gene_product
+PMC2193139	206	uniprot:Q9UN19	DAPP1	Gene_or_gene_product
+PMC2193139	206	uniprot:P01009	PI	Gene_or_gene_product
+PMC2193139	206	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	207	uniprot:Q06187	Btk	Gene_or_gene_product
+PMC2193139	207	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	207	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	208	uniprot:Q06187	Btk	Gene_or_gene_product
+PMC2193139	208	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	209	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	209	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	211	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	211	uniprot:UNRESOLVED ID	3-phosphoinositide-dependent kinase 1	Gene_or_gene_product
+PMC2193139	211	uniprot:O15530	PDK1	Gene_or_gene_product
+PMC2193139	214	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	214	uazid:UA-CT-100001	B Cell	CellType
+PMC2193139	215	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	215	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	216	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	216	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	216	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	217	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	217	uniprot:O15530	PDK1	Gene_or_gene_product
+PMC2193139	217	uniprot:Q06187	Btk	Gene_or_gene_product
+PMC2193139	217	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2193139	217	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	218	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	218	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	219	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	219	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	219	uniprot:Q06187	Btk	Gene_or_gene_product
+PMC2193139	219	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2193139	220	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	220	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	220	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	221	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	221	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	221	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	222	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	222	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	222	uniprot:P13678	PKC	Gene_or_gene_product
+PMC2193139	223	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	223	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	223	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	223	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	224	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	224	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	224	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2193139	225	uniprot:Q06187	Btk	Gene_or_gene_product
+PMC2193139	225	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	225	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2193139	226	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	226	uniprot:Q06187	Btk	Gene_or_gene_product
+PMC2193139	226	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2193139	227	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	227	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	227	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	227	uniprot:Q06187	Btk	Gene_or_gene_product
+PMC2193139	228	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	228	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	228	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	228	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2193139	229	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2193139	229	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	230	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2193139	230	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193139	230	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	231	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	231	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	231	uniprot:UNRESOLVED ID	PI3K p85alpha	Gene_or_gene_product
+PMC2193139	231	uniprot:O89094	mice	Species
+PMC2193139	232	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	232	uniprot:P15391	CD19	Gene_or_gene_product
+PMC2193139	232	uniprot:UNRESOLVED ID	CD19 coreceptor	Gene_or_gene_product
+PMC2193139	232	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2193139	232	uniprot:UNRESOLVED ID	antigen receptor	Gene_or_gene_product
+PMC2193139	232	uniprot:UNRESOLVED ID	inhibitory Fc receptor FcgammaRII	Gene_or_gene_product
+PMC2193139	232	uniprot:Q92835	SHIP	Gene_or_gene_product
+PMC2193139	233	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	233	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	233	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	234	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	234	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	234	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	234	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	234	uniprot:O89094	mice	Species
+PMC2193139	234	uniprot:P25942	CD40	Gene_or_gene_product
+PMC2193139	235	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	235	uniprot:O89094	mice	Species
+PMC2193139	236	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	236	uniprot:P02774	GC	Gene_or_gene_product
+PMC2193139	236	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	236	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2193139	237	uniprot:UNRESOLVED ID	NF-AT luciferase	Gene_or_gene_product
+PMC2193139	237	ncbitax:species:ncbi:9606	human	Species
+PMC2193139	237	uniprot:UNRESOLVED ID	anti-Bam32 mAb	Gene_or_gene_product
+PMC2193139	237	uniprot:UNRESOLVED ID	Sasha Solow and Dario Magaletti	Gene_or_gene_product
+PMC2193139	237	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	238	uniprot:UNRESOLVED ID	Clark	Gene_or_gene_product
+PMC2193139	239	uniprot:UNRESOLVED ID	AI45088	Gene_or_gene_product
+PMC2193139	242	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	242	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	242	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	242	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2193139	242	uniprot:UNRESOLVED ID	antigen receptor	Gene_or_gene_product
+PMC2193139	242	uniprot:Q8WV28	BLNK	Gene_or_gene_product
+PMC2193139	242	uniprot:Q06187	Btk	Gene_or_gene_product
+PMC2193139	242	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2193139	242	uniprot:P18627	FDC	Gene_or_gene_product
+PMC2193139	242	uniprot:UNRESOLVED ID	dendritic cell	CellType
+PMC2193139	242	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2193139	242	uniprot:Q28554	G3PDH	Gene_or_gene_product
+PMC2193139	242	uniprot:P02774	GC	Gene_or_gene_product
+PMC2193139	242	uazid:UA-ORG-359	germinal center	Organ
+PMC2193139	242	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2193139	242	uniprot:O60760	glutathione S-transferase	Gene_or_gene_product
+PMC2193139	242	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	242	uniprot:UNRESOLVED ID	NF-kappaB	Gene_or_gene_product
+PMC2193139	242	uniprot:UNRESOLVED ID	kappa	Gene_or_gene_product
+PMC2193139	242	uniprot:P01298	PH	Gene_or_gene_product
+PMC2193139	242	uniprot:P08567	pleckstrin	Gene_or_gene_product
+PMC2193139	242	uniprot:P01009	PI	Gene_or_gene_product
+PMC2193139	242	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	242	uniprot:P98160	PLC	Gene_or_gene_product
+PMC2193139	242	uniprot:P37101	PTK	Gene_or_gene_product
+PMC2193139	242	uniprot:O93323	RACE	Gene_or_gene_product
+PMC2193139	242	uniprot:P10266	RT	Gene_or_gene_product
+PMC2193139	242	uniprot:P55241	SH2	Gene_or_gene_product
+PMC2193139	242	uniprot:UNRESOLVED ID	src homology 2	Gene_or_gene_product
+PMC2193139	242	uniprot:Q6IVY4	SSH	Gene_or_gene_product
+PMC2193139	243	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	243	ncbitax:species:ncbi:9606	human	Species
+PMC2193139	244	ncbitax:species:ncbi:9606	human	Species
+PMC2193139	244	uniprot:P02774	GC	Gene_or_gene_product
+PMC2193139	244	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	244	uniprot:P55241	SH2	Gene_or_gene_product
+PMC2193139	245	ncbitax:species:ncbi:9606	human	Species
+PMC2193139	245	ncbitax:species:ncbi:10090	mouse	Species
+PMC2193139	245	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	247	uniprot:UNRESOLVED ID	hbam1	Gene_or_gene_product
+PMC2193139	248	uniprot:UNRESOLVED ID	hbam2	Gene_or_gene_product
+PMC2193139	248	ncbitax:species:ncbi:10090	mouse	Species
+PMC2193139	248	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	249	uniprot:UNRESOLVED ID	AA459342	Gene_or_gene_product
+PMC2193139	249	uniprot:UNRESOLVED ID	AF150266	Gene_or_gene_product
+PMC2193139	250	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	251	uniprot:UNRESOLVED ID	AF186022	Gene_or_gene_product
+PMC2193139	251	ncbitax:species:ncbi:9606	human	Species
+PMC2193139	251	uniprot:UNRESOLVED ID	AF186023	Gene_or_gene_product
+PMC2193139	251	ncbitax:species:ncbi:10090	mouse	Species
+PMC2193139	252	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2193139	252	ncbitax:species:ncbi:9606	human	Species
+PMC2193139	252	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	253	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	254	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	254	ncbitax:species:ncbi:9606	human	Species
+PMC2193139	254	uazid:UA-ORG-1021	trachea	Organ
+PMC2193139	255	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	255	uniprot:UNRESOLVED ID	B lymphocyte	CellType
+PMC2193139	256	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	256	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	257	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	257	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	258	uazid:UA-ORG-1013	Tonsil	Organ
+PMC2193139	258	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	258	uniprot:P02774	GC	Gene_or_gene_product
+PMC2193139	258	uniprot:P28907	CD38	Gene_or_gene_product
+PMC2193139	258	uniprot:UNRESOLVED ID	IgD	Gene_or_gene_product
+PMC2193139	258	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	259	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	259	uniprot:Q28554	G3PDH	Gene_or_gene_product
+PMC2193139	259	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	261	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	261	uniprot:P25942	CD40	Gene_or_gene_product
+PMC2193139	261	uniprot:UNRESOLVED ID	IgM	Gene_or_gene_product
+PMC2193139	262	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	262	uniprot:UNRESOLVED ID	anti-CD40 mAb	Gene_or_gene_product
+PMC2193139	262	uniprot:Q96T53	goat	Species
+PMC2193139	262	uniprot:UNRESOLVED ID	ab')2 antibodies	Gene_or_gene_product
+PMC2193139	263	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	264	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	265	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	265	uniprot:P25942	CD40	Gene_or_gene_product
+PMC2193139	267	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	267	uazid:UA-CT-100001	B cell	CellType
+PMC2193139	268	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	269	uniprot:UNRESOLVED ID	Ramos	Gene_or_gene_product
+PMC2193139	269	uniprot:UNRESOLVED ID	IgM	Gene_or_gene_product
+PMC2193139	269	uniprot:Q96T53	goat	Species
+PMC2193139	269	uniprot:UNRESOLVED ID	ab'	Gene_or_gene_product
+PMC2193139	269	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	270	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2193139	270	uniprot:UNRESOLVED ID	serum	CellType
+PMC2193139	272	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	273	uniprot:UNRESOLVED ID	pcDNA3	Gene_or_gene_product
+PMC2193139	273	uniprot:P01106	myc	Gene_or_gene_product
+PMC2193139	273	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	274	uniprot:UNRESOLVED ID	anti-myc Western	Gene_or_gene_product
+PMC2193139	274	uniprot:P01106	myc	Gene_or_gene_product
+PMC2193139	274	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	275	uniprot:UNRESOLVED ID	anti-myc	Gene_or_gene_product
+PMC2193139	275	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	276	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	276	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2193139	277	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	277	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2193139	277	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2193139	277	uniprot:Q8WV28	BLNK	Gene_or_gene_product
+PMC2193139	278	uniprot:UNRESOLVED ID	UW32	Gene_or_gene_product
+PMC2193139	278	uniprot:UNRESOLVED ID	anti-PLCgamma1	Gene_or_gene_product
+PMC2193139	278	uniprot:UNRESOLVED ID	anti-PLCgamma2	Gene_or_gene_product
+PMC2193139	279	uniprot:UNRESOLVED ID	Ramos	Gene_or_gene_product
+PMC2193139	280	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	280	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2193139	281	uniprot:UNRESOLVED ID	UW32	Gene_or_gene_product
+PMC2193139	282	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	282	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2193139	283	uniprot:UNRESOLVED ID	anti-GST mAb	Gene_or_gene_product
+PMC2193139	285	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	285	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	286	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	286	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2193139	286	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	288	uniprot:UNRESOLVED ID	anti-IgM F	Gene_or_gene_product
+PMC2193139	288	uniprot:UNRESOLVED ID	ab'	Gene_or_gene_product
+PMC2193139	289	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2193139	290	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	292	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2193139	295	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	295	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	296	uazid:UA-CT-100002	B cells	CellType
+PMC2193139	296	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2193139	297	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	297	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	298	ncbitax:species:ncbi:41568	muM	Species
+PMC2193139	302	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	302	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	302	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	303	uniprot:UNRESOLVED ID	pcDNA3	Gene_or_gene_product
+PMC2193139	303	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	303	uniprot:UNRESOLVED ID	NF-AT-luciferase reporter construct	Gene_or_gene_product
+PMC2193139	304	uniprot:UNRESOLVED ID	anti-IgM F	Gene_or_gene_product
+PMC2193139	304	uniprot:UNRESOLVED ID	ab')2 fragments	Gene_or_gene_product
+PMC2193139	304	uniprot:UNRESOLVED ID	PdBu	Gene_or_gene_product
+PMC2193139	305	uniprot:Q26304	luciferase	Gene_or_gene_product
+PMC2193139	306	uniprot:Q26304	luciferase	Gene_or_gene_product
+PMC2193139	307	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	308	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	308	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	309	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	310	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	310	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	311	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	311	uniprot:UNRESOLVED ID	NF-AT reporter construct	Gene_or_gene_product
+PMC2193139	312	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	314	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	314	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	314	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	315	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	316	uniprot:Q9UN19	Bam32	Gene_or_gene_product
+PMC2193139	318	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2193139	318	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193139	318	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2193139	319	uniprot:UNRESOLVED ID	NF-AT luciferase reporter	Gene_or_gene_product
+PMC2193139	319	uniprot:UNRESOLVED ID	Ly294002	Gene_or_gene_product
+PMC2193139	319	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product

@@ -1,0 +1,6 @@
+Paper ID	Line Num	Master ID	Dependent ID	Text	Type
+PMC2199061	0	uazid:UA-CT-16	uniprot:UNRESOLVED ID	Fcgamma Receptors on Macrophages	ContextLocation
+PMC2199061	34	uazid:UA-ORG-100	uniprot:UNRESOLVED ID	Marrow from tibia and femur bones	ContextDirection
+PMC2199061	139	uazid:UA-CT-16	uniprot:P28482	p42MAPK (Erk2) in the Syk- macrophages	ContextLocation
+PMC2199061	259	uazid:UA-CT-16	uniprot:P49344	EA in normal and Syk-deficient macrophages	ContextLocation
+PMC2199061	282	uazid:UA-CT-16	uniprot:Q966Y3	JNK in wild-type (stippled bars), or Syk- (black bars) macrophages	ContextLocation

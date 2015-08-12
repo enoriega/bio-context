@@ -1,0 +1,446 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2064233	1	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	3	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	4	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	5	ncbitax:species:ncbi:9606	human	Species
+PMC2064233	5	uazid:UA-ORG-461	kidney	Organ
+PMC2064233	5	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	5	uniprot:UNRESOLVED ID	DHHC	Gene_or_gene_product
+PMC2064233	5	uniprot:UNRESOLVED ID	palmitoyl transferase family members	Gene_or_gene_product
+PMC2064233	6	ncbitax:species:ncbi:9606	Human	Species
+PMC2064233	6	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	7	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	7	uniprot:Q9NYG2	DHHC-3	Gene_or_gene_product
+PMC2064233	7	ncbitax:species:ncbi:9606	human	Species
+PMC2064233	7	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	8	ncbitax:species:ncbi:9606	human	Species
+PMC2064233	8	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	8	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	9	uniprot:UNRESOLVED ID	endothelium	CellType
+PMC2064233	10	uniprot:UNRESOLVED ID	Endothelial NO synthase	Gene_or_gene_product
+PMC2064233	10	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	10	uniprot:P29474	NOS3	Gene_or_gene_product
+PMC2064233	10	uniprot:UNRESOLVED ID	endothelium	CellType
+PMC2064233	10	uazid:UA-ORG-92	blood	Organ
+PMC2064233	11	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	12	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	12	uniprot:P12931	src	Gene_or_gene_product
+PMC2064233	13	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	14	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	14	uazid:UA-ORG-725	plasma	Organ
+PMC2064233	15	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	18	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	21	ncbitax:species:ncbi:4932	yeast	Species
+PMC2064233	21	uniprot:P47974	Erf2	Gene_or_gene_product
+PMC2064233	21	uniprot:UNRESOLVED ID	Akr1p	Gene_or_gene_product
+PMC2064233	21	uniprot:UNRESOLVED ID	palmitoyl transferases	Gene_or_gene_product
+PMC2064233	21	uniprot:P23292	Yck2	Gene_or_gene_product
+PMC2064233	22	uniprot:P47974	Erf2	Gene_or_gene_product
+PMC2064233	22	uniprot:O14965	Ark1	Gene_or_gene_product
+PMC2064233	22	uniprot:P34726	Ras2	Gene_or_gene_product
+PMC2064233	22	uniprot:P23292	Yck2	Gene_or_gene_product
+PMC2064233	23	uniprot:P47974	Erf2	Gene_or_gene_product
+PMC2064233	23	uniprot:O14965	Ark1	Gene_or_gene_product
+PMC2064233	23	uniprot:UNRESOLVED ID	DHHC	Gene_or_gene_product
+PMC2064233	24	uniprot:UNRESOLVED ID	DHHC	Gene_or_gene_product
+PMC2064233	25	ncbitax:species:ncbi:9606	human	Species
+PMC2064233	25	ncbitax:species:ncbi:4932	yeast	Species
+PMC2064233	25	uniprot:P47974	Erf2	Gene_or_gene_product
+PMC2064233	25	uniprot:Q758G1	Erf4	Gene_or_gene_product
+PMC2064233	25	uniprot:Q9Y397	DHHC-9	Gene_or_gene_product
+PMC2064233	25	uniprot:Q7Z5G4	GCP16	Gene_or_gene_product
+PMC2064233	26	uniprot:P19526	H-	Gene_or_gene_product
+PMC2064233	26	uniprot:P01111	N-Ras	Gene_or_gene_product
+PMC2064233	27	ncbitax:species:ncbi:10090	mouse	Species
+PMC2064233	27	ncbitax:species:ncbi:9606	human	Species
+PMC2064233	28	uazid:UA-ORG-312	finger	Organ
+PMC2064233	28	uniprot:Q8R173	GODZ	Gene_or_gene_product
+PMC2064233	28	uniprot:Q9NYG2	DHHC-3	Gene_or_gene_product
+PMC2064233	28	uniprot:UNRESOLVED ID	c-Abl-associated protein Abl-philin2	Gene_or_gene_product
+PMC2064233	28	uniprot:Q9ESG8	Aph2	Gene_or_gene_product
+PMC2064233	28	uniprot:Q969W1	DHHC-16	Gene_or_gene_product
+PMC2064233	28	uniprot:UNRESOLVED ID	Sertoli cell	CellType
+PMC2064233	28	uniprot:UNRESOLVED ID	SERZ-beta	Gene_or_gene_product
+PMC2064233	28	uniprot:Q9NXF8	DHHC-7	Gene_or_gene_product
+PMC2064233	28	uniprot:Q8IUH5	Huntingtin interacting protein 14	Gene_or_gene_product
+PMC2064233	28	uniprot:Q8IUH5	HIP14	Gene_or_gene_product
+PMC2064233	28	uniprot:Q8IUH5	DHHC-17	Gene_or_gene_product
+PMC2064233	28	uniprot:Q96MV8	DHHC-15	Gene_or_gene_product
+PMC2064233	28	uniprot:P78352	PSD-95	Gene_or_gene_product
+PMC2064233	29	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	30	uniprot:UNRESOLVED ID	mammalian DHHC proteins	Gene_or_gene_product
+PMC2064233	30	uniprot:Q9UIJ5	DHHC-2	Gene_or_gene_product
+PMC2064233	30	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	30	ncbitax:species:ncbi:9606	human	Species
+PMC2064233	30	uniprot:UNRESOLVED ID	umbilical vein	CellType
+PMC2064233	31	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	31	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	32	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	33	ncbitax:species:ncbi:9606	Human	Species
+PMC2064233	33	uazid:UA-ORG-461	kidney	Organ
+PMC2064233	33	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2064233	33	uniprot:UNRESOLVED ID	palmitoyl transferase cDNAs	Gene_or_gene_product
+PMC2064233	33	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	34	uniprot:Q9UIJ5	DHHC-2	Gene_or_gene_product
+PMC2064233	34	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	35	uniprot:Q86YQ2	base	Gene_or_gene_product
+PMC2064233	36	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	36	uniprot:P78352	PSD-95	Gene_or_gene_product
+PMC2064233	36	uniprot:Q9NYG2	DHHC-3	Gene_or_gene_product
+PMC2064233	37	uniprot:UNRESOLVED ID	DHHC	Gene_or_gene_product
+PMC2064233	37	uniprot:UNRESOLVED ID	DHHS	Gene_or_gene_product
+PMC2064233	37	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	38	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	38	ncbitax:species:ncbi:9606	human	Species
+PMC2064233	38	uniprot:UNRESOLVED ID	aortic smooth muscle	CellType
+PMC2064233	38	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2064233	38	uazid:UA-ORG-537	lung	Organ
+PMC2064233	38	uniprot:UNRESOLVED ID	carcinoma	CellType
+PMC2064233	38	uazid:UA-ORG-759	prostate	Organ
+PMC2064233	38	uniprot:UNRESOLVED ID	LnCAP	Gene_or_gene_product
+PMC2064233	40	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	40	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	40	uniprot:Q9UIJ5	DHHC-2	Gene_or_gene_product
+PMC2064233	41	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	42	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	42	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	43	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	44	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	44	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2064233	45	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	46	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	47	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	48	uniprot:P69208	HA	Gene_or_gene_product
+PMC2064233	48	uniprot:UNRESOLVED ID	DHHC	Gene_or_gene_product
+PMC2064233	49	uniprot:UNRESOLVED ID	NH2OH	Gene_or_gene_product
+PMC2064233	49	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	49	uniprot:UNRESOLVED ID	DHHC enzymes	Gene_or_gene_product
+PMC2064233	50	uniprot:P78352	PSD-95	Gene_or_gene_product
+PMC2064233	51	uniprot:Q9NYG2	DHHC-3	Gene_or_gene_product
+PMC2064233	51	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	52	ncbitax:species:ncbi:9606	human	Species
+PMC2064233	52	uniprot:UNRESOLVED ID	DHHC isoforms	Gene_or_gene_product
+PMC2064233	53	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	53	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	54	uniprot:Q9UIJ5	DHHC-2	Gene_or_gene_product
+PMC2064233	54	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	55	uniprot:P69208	HA	Gene_or_gene_product
+PMC2064233	55	uniprot:UNRESOLVED ID	DHHC proteins	Gene_or_gene_product
+PMC2064233	56	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	56	uniprot:Q9UIJ5	DHHC-2	Gene_or_gene_product
+PMC2064233	57	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	57	uniprot:Q08379	GM130	Gene_or_gene_product
+PMC2064233	60	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2064233	60	uniprot:Q89330	coat protein	Gene_or_gene_product
+PMC2064233	60	uniprot:P53618	beta-COP	Gene_or_gene_product
+PMC2064233	61	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	61	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2064233	61	uniprot:P53618	beta-COP	Gene_or_gene_product
+PMC2064233	61	uniprot:P60709	beta-actin	Gene_or_gene_product
+PMC2064233	62	uniprot:Q9UIJ5	DHHC-2	Gene_or_gene_product
+PMC2064233	63	uniprot:UNRESOLVED ID	DHHC-PATs	Gene_or_gene_product
+PMC2064233	63	uniprot:Q08379	GM130	Gene_or_gene_product
+PMC2064233	63	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	64	uniprot:P69208	HA	Gene_or_gene_product
+PMC2064233	64	uniprot:UNRESOLVED ID	DHHC cDNAs	Gene_or_gene_product
+PMC2064233	65	uniprot:P69208	HA	Gene_or_gene_product
+PMC2064233	65	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2064233	66	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2064233	67	ncbitax:species:ncbi:41568	mum	Species
+PMC2064233	68	uniprot:UNRESOLVED ID	DHHC-HA enzymes	Gene_or_gene_product
+PMC2064233	68	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	69	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	69	uniprot:P69208	HA	Gene_or_gene_product
+PMC2064233	69	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2064233	69	uniprot:P53618	beta-COP	Gene_or_gene_product
+PMC2064233	71	uniprot:Q9UIJ5	DHHC-2	Gene_or_gene_product
+PMC2064233	72	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	73	uniprot:UNRESOLVED ID	DHHC enzymes	Gene_or_gene_product
+PMC2064233	73	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	74	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	74	uniprot:UNRESOLVED ID	DHHC enzymes	Gene_or_gene_product
+PMC2064233	75	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	75	uniprot:P69208	HA	Gene_or_gene_product
+PMC2064233	75	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	76	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	76	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	76	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2064233	77	uniprot:UNRESOLVED ID	http://www.jcb.org/cgi/content/full/jcb.200601051/DC1	Gene_or_gene_product
+PMC2064233	78	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	78	uniprot:UNRESOLVED ID	DHHC enzymes	Gene_or_gene_product
+PMC2064233	79	uniprot:P69208	HA	Gene_or_gene_product
+PMC2064233	79	uniprot:UNRESOLVED ID	DHHCs	Gene_or_gene_product
+PMC2064233	79	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	80	uniprot:P69208	HA	Gene_or_gene_product
+PMC2064233	80	uniprot:UNRESOLVED ID	DHHC enzymes	Gene_or_gene_product
+PMC2064233	80	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	81	uniprot:UNRESOLVED ID	DHHC-PATs	Gene_or_gene_product
+PMC2064233	81	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	82	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	82	uniprot:P69208	HA	Gene_or_gene_product
+PMC2064233	82	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	83	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	83	uniprot:P69208	HA	Gene_or_gene_product
+PMC2064233	83	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2064233	84	ncbitax:species:ncbi:41568	mum	Species
+PMC2064233	85	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	85	uniprot:P69208	HA	Gene_or_gene_product
+PMC2064233	85	uniprot:UNRESOLVED ID	DHHC	Gene_or_gene_product
+PMC2064233	86	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	86	uniprot:UNRESOLVED ID	DHHC-HA enzymes	Gene_or_gene_product
+PMC2064233	87	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	87	N/A	eNOS	Gene_or_gene_product
+PMC2064233	87	uniprot:UNRESOLVED ID	anti-HA antibody	Gene_or_gene_product
+PMC2064233	89	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	89	uniprot:Q13277	syntaxin-3	Gene_or_gene_product
+PMC2064233	90	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	90	uniprot:UNRESOLVED ID	DHHC enzymes	Gene_or_gene_product
+PMC2064233	90	uniprot:Q9NYG2	DHHC-3	Gene_or_gene_product
+PMC2064233	91	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	91	uniprot:UNRESOLVED ID	DHHC enzymes	Gene_or_gene_product
+PMC2064233	91	uniprot:UNRESOLVED ID	DHHCs	Gene_or_gene_product
+PMC2064233	92	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	93	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	93	N/A	eNOS	Gene_or_gene_product
+PMC2064233	94	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2064233	94	uniprot:P49913	cAMP	Gene_or_gene_product
+PMC2064233	94	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	95	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	96	uniprot:UNRESOLVED ID	DHHC enzymes	Gene_or_gene_product
+PMC2064233	96	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	96	uniprot:Q9NYG2	DHHC-3	Gene_or_gene_product
+PMC2064233	97	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	97	uniprot:UNRESOLVED ID	DHHC proteins	Gene_or_gene_product
+PMC2064233	98	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	99	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	99	uniprot:UNRESOLVED ID	DHHC-3-HA	Gene_or_gene_product
+PMC2064233	100	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	100	uniprot:UNRESOLVED ID	26S	Gene_or_gene_product
+PMC2064233	101	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	101	uniprot:P69208	HA	Gene_or_gene_product
+PMC2064233	101	uniprot:Q9NYG2	DHHC-3	Gene_or_gene_product
+PMC2064233	101	uniprot:UNRESOLVED ID	26S	Gene_or_gene_product
+PMC2064233	102	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	103	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	104	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	104	uniprot:UNRESOLVED ID	26S	Gene_or_gene_product
+PMC2064233	105	uniprot:P69208	HA	Gene_or_gene_product
+PMC2064233	105	uniprot:UNRESOLVED ID	DHHC	Gene_or_gene_product
+PMC2064233	105	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	106	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	106	uniprot:P69208	HA	Gene_or_gene_product
+PMC2064233	106	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2064233	107	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2064233	108	ncbitax:species:ncbi:41568	muM	Species
+PMC2064233	109	uniprot:Q9NYG2	DHHC-3	Gene_or_gene_product
+PMC2064233	109	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	109	uniprot:UNRESOLVED ID	anti-HA monoclonal antibody	Gene_or_gene_product
+PMC2064233	109	uniprot:UNRESOLVED ID	DHHC enzymes	Gene_or_gene_product
+PMC2064233	110	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	110	uniprot:UNRESOLVED ID	DHHC-PPATs	Gene_or_gene_product
+PMC2064233	110	uniprot:P69208	HA	Gene_or_gene_product
+PMC2064233	110	uniprot:UNRESOLVED ID	DHHC	Gene_or_gene_product
+PMC2064233	110	uniprot:Q9NYG2	DHHC-3	Gene_or_gene_product
+PMC2064233	112	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	112	uniprot:UNRESOLVED ID	DHHC	Gene_or_gene_product
+PMC2064233	112	uniprot:P00746	D-F	Gene_or_gene_product
+PMC2064233	114	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	115	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	115	uniprot:UNRESOLVED ID	DHHC	Gene_or_gene_product
+PMC2064233	116	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	116	uniprot:Q9NYG2	DHHC-3	Gene_or_gene_product
+PMC2064233	116	uniprot:UNRESOLVED ID	DHHC-3-HA	Gene_or_gene_product
+PMC2064233	117	uniprot:Q9NYG2	DHHC-3	Gene_or_gene_product
+PMC2064233	117	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	118	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	119	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	120	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	120	uniprot:Q9NYG2	DHHC-3	Gene_or_gene_product
+PMC2064233	120	uniprot:UNRESOLVED ID	NO2-	Gene_or_gene_product
+PMC2064233	121	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	122	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	122	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	123	uniprot:UNRESOLVED ID	DHHC enzymes	Gene_or_gene_product
+PMC2064233	123	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	123	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	124	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	124	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	125	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	126	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	126	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	127	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	128	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	128	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	129	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	130	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	130	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	131	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	132	uniprot:Q9BVP2	NS	Gene_or_gene_product
+PMC2064233	132	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	133	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	134	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	134	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	135	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	136	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	136	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	137	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	138	ncbitax:species:ncbi:41568	mum	Species
+PMC2064233	139	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	141	uniprot:Q9NYG2	DHHC-3	Gene_or_gene_product
+PMC2064233	142	uniprot:Q9NYG2	DHHC-3	Gene_or_gene_product
+PMC2064233	143	uniprot:Q9NYG2	DHHC-3	Gene_or_gene_product
+PMC2064233	144	uniprot:Q9NYG2	DHHC-3	Gene_or_gene_product
+PMC2064233	148	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	149	uniprot:P62158	calmodulin	Gene_or_gene_product
+PMC2064233	149	uniprot:P62158	CaM	Gene_or_gene_product
+PMC2064233	149	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	150	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	150	uniprot:UNRESOLVED ID	NO2-	Gene_or_gene_product
+PMC2064233	151	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	151	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	152	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	152	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	152	uniprot:Q9NYG2	DHHC-3	Gene_or_gene_product
+PMC2064233	153	uniprot:Q9NYG2	DHHC-3	Gene_or_gene_product
+PMC2064233	155	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	156	uniprot:Q9UIJ5	DHHC-2	Gene_or_gene_product
+PMC2064233	156	uniprot:Q08379	GM-130	Gene_or_gene_product
+PMC2064233	157	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	158	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	158	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	160	ncbitax:species:ncbi:4932	yeast	Species
+PMC2064233	160	uniprot:P34726	Ras2	Gene_or_gene_product
+PMC2064233	161	uniprot:UNRESOLVED ID	mammalian DHHC genes	Gene_or_gene_product
+PMC2064233	163	uniprot:Q9UIJ5	DHHC-2	Gene_or_gene_product
+PMC2064233	163	uniprot:P78352	PSD-95	Gene_or_gene_product
+PMC2064233	163	uniprot:Q9NYG2	DHHC-3	Gene_or_gene_product
+PMC2064233	163	uniprot:Q8R173	GODZ	Gene_or_gene_product
+PMC2064233	163	uniprot:UNRESOLVED ID	GABA-A receptor	Gene_or_gene_product
+PMC2064233	163	uniprot:Q8IUH5	DHHC-17	Gene_or_gene_product
+PMC2064233	163	uniprot:P60880	SNAP-25	Gene_or_gene_product
+PMC2064233	163	uniprot:Q9Y397	DHHC-9	Gene_or_gene_product
+PMC2064233	163	uniprot:P19526	H-	Gene_or_gene_product
+PMC2064233	163	uniprot:P01111	N-Ras	Gene_or_gene_product
+PMC2064233	164	uniprot:Q9UIJ5	DHHC-2	Gene_or_gene_product
+PMC2064233	164	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	165	uniprot:Q9UIJ5	DHHC-2	Gene_or_gene_product
+PMC2064233	165	uniprot:P78352	PSD95	Gene_or_gene_product
+PMC2064233	165	uniprot:P20354	GalphaS	Gene_or_gene_product
+PMC2064233	166	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	166	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	166	uniprot:Q9NYG2	DHHC-3	Gene_or_gene_product
+PMC2064233	167	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	167	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	168	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	168	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	169	uniprot:UNRESOLVED ID	recombinant DHHC proteins	Gene_or_gene_product
+PMC2064233	170	uniprot:Q9UIJ5	DHHC-2	Gene_or_gene_product
+PMC2064233	170	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	170	uniprot:Q08379	GM130	Gene_or_gene_product
+PMC2064233	170	uniprot:Q9H5J4	face	Organ
+PMC2064233	172	uniprot:Q9Y397	DHHC-9	Gene_or_gene_product
+PMC2064233	172	uniprot:P19526	H-	Gene_or_gene_product
+PMC2064233	172	uniprot:Q7Z5G4	GCP16	Gene_or_gene_product
+PMC2064233	174	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	175	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	175	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	179	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	179	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	180	ncbitax:species:ncbi:10090	Mouse	Species
+PMC2064233	180	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2064233	180	uniprot:Q08379	GM 130	Gene_or_gene_product
+PMC2064233	180	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	181	ncbitax:species:ncbi:9986	Rabbit	Species
+PMC2064233	182	ncbitax:species:ncbi:10090	Mouse	Species
+PMC2064233	182	uniprot:UNRESOLVED ID	beta-actin antibody	Gene_or_gene_product
+PMC2064233	183	uniprot:Q2G0B1	Rat	Species
+PMC2064233	184	ncbitax:species:ncbi:9986	Rabbit	Species
+PMC2064233	185	uniprot:Q96T53	Goat	Species
+PMC2064233	186	uniprot:Q96T53	Goat	Species
+PMC2064233	186	uniprot:Q96T53	goat	Species
+PMC2064233	189	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2064233	189	uniprot:Q07788	COS-7	Gene_or_gene_product
+PMC2064233	189	uniprot:UNRESOLVED ID	HASMC	Gene_or_gene_product
+PMC2064233	189	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2064233	189	uniprot:O60235	HAT	Gene_or_gene_product
+PMC2064233	192	uniprot:UNRESOLVED ID	DHHC proteins	Gene_or_gene_product
+PMC2064233	192	uniprot:UNRESOLVED ID	PEF-Bos-HA	Gene_or_gene_product
+PMC2064233	193	uniprot:UNRESOLVED ID	26S	Gene_or_gene_product
+PMC2064233	193	N/A	eNOS	Gene_or_gene_product
+PMC2064233	194	N/A	eNOS	Gene_or_gene_product
+PMC2064233	196	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2064233	198	uniprot:Q7Z859	PBS	Gene_or_gene_product
+PMC2064233	199	uniprot:Q96T53	goat	Species
+PMC2064233	199	uniprot:UNRESOLVED ID	serum	CellType
+PMC2064233	203	uniprot:UNRESOLVED ID	Openlab software	Gene_or_gene_product
+PMC2064233	204	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	207	ncbitax:species:ncbi:41568	muM	Species
+PMC2064233	209	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	211	uniprot:P01298	pH	Gene_or_gene_product
+PMC2064233	211	uniprot:P10265	protease	Gene_or_gene_product
+PMC2064233	212	uniprot:O14974	MBS	Gene_or_gene_product
+PMC2064233	212	uniprot:UNRESOLVED ID	25 mM MES	Gene_or_gene_product
+PMC2064233	212	uniprot:P01298	pH	Gene_or_gene_product
+PMC2064233	212	uniprot:Q9UJT0	tube	Gene_or_gene_product
+PMC2064233	214	uniprot:Q9UJT0	tube	Gene_or_gene_product
+PMC2064233	215	uniprot:UNRESOLVED ID	NIH program	Gene_or_gene_product
+PMC2064233	216	uniprot:P01298	pH	Gene_or_gene_product
+PMC2064233	216	uniprot:P10145	NaF	Gene_or_gene_product
+PMC2064233	216	uniprot:Q8WYA6	NaP	Gene_or_gene_product
+PMC2064233	216	uniprot:P10265	protease	Gene_or_gene_product
+PMC2064233	216	uniprot:UNRESOLVED ID	AEBSF	Gene_or_gene_product
+PMC2064233	220	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2064233	222	uniprot:P29320	HEK	Gene_or_gene_product
+PMC2064233	223	uniprot:D6RGH6	mCi	Gene_or_gene_product
+PMC2064233	224	uniprot:P01298	pH	Gene_or_gene_product
+PMC2064233	224	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2064233	225	uniprot:P01298	pH	Gene_or_gene_product
+PMC2064233	225	uniprot:P10145	NaF	Gene_or_gene_product
+PMC2064233	225	uniprot:Q8WYA6	NaP	Gene_or_gene_product
+PMC2064233	225	uniprot:P10265	protease	Gene_or_gene_product
+PMC2064233	225	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	227	uniprot:Q99707	MS	Gene_or_gene_product
+PMC2064233	228	uniprot:UNRESOLVED ID	IMAGE J	Gene_or_gene_product
+PMC2064233	229	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	230	uniprot:UNRESOLVED ID	NM_178566	Gene_or_gene_product
+PMC2064233	230	uniprot:Q9NYG2	DHHC-3	Gene_or_gene_product
+PMC2064233	231	uniprot:P00738	HP	Gene_or_gene_product
+PMC2064233	233	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	233	uniprot:UNRESOLVED ID	siRNA-1	Gene_or_gene_product
+PMC2064233	233	uniprot:UNRESOLVED ID	siRNA-2	Gene_or_gene_product
+PMC2064233	233	uniprot:UNRESOLVED ID	siRNA-3	Gene_or_gene_product
+PMC2064233	233	uniprot:UNRESOLVED ID	siRNA-4	Gene_or_gene_product
+PMC2064233	234	uniprot:Q9NYG2	DHHC-3	Gene_or_gene_product
+PMC2064233	234	uniprot:UNRESOLVED ID	siRNA-1	Gene_or_gene_product
+PMC2064233	234	uniprot:UNRESOLVED ID	siRNA-2	Gene_or_gene_product
+PMC2064233	234	uniprot:UNRESOLVED ID	siRNA-3	Gene_or_gene_product
+PMC2064233	234	uniprot:UNRESOLVED ID	siRNA-4	Gene_or_gene_product
+PMC2064233	238	uniprot:UNRESOLVED ID	Opti-MEM-1	Gene_or_gene_product
+PMC2064233	239	uniprot:UNRESOLVED ID	Opti-MEM-1	Gene_or_gene_product
+PMC2064233	241	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2064233	245	uniprot:UNRESOLVED ID	mM dNTPs	Gene_or_gene_product
+PMC2064233	245	uniprot:UNRESOLVED ID	Taq DNA polymerase	Gene_or_gene_product
+PMC2064233	246	uniprot:P04406	GAPDH	Gene_or_gene_product
+PMC2064233	247	uniprot:UNRESOLVED ID	BC_013310	Gene_or_gene_product
+PMC2064233	247	uniprot:Q9UIJ5	DHHC-2	Gene_or_gene_product
+PMC2064233	248	uniprot:UNRESOLVED ID	NM_016353	Gene_or_gene_product
+PMC2064233	248	uniprot:Q9NYG2	DHHC-3	Gene_or_gene_product
+PMC2064233	249	uniprot:Q9NXF8	DHHC-7	Gene_or_gene_product
+PMC2064233	250	uniprot:UNRESOLVED ID	NM_017740	Gene_or_gene_product
+PMC2064233	250	uniprot:Q9ULC8	DHHC-8	Gene_or_gene_product
+PMC2064233	251	uniprot:UNRESOLVED ID	NM_013373	Gene_or_gene_product
+PMC2064233	251	uniprot:Q8IVQ6	DHHC-21	Gene_or_gene_product
+PMC2064233	252	uniprot:UNRESOLVED ID	NM_178566	Gene_or_gene_product
+PMC2064233	256	uniprot:P46060	SD	Gene_or_gene_product
+PMC2064233	257	uniprot:UNRESOLVED ID	Statgraphics Plus 5.0 program	Gene_or_gene_product
+PMC2064233	258	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2064233	259	uniprot:UNRESOLVED ID	DHHC-CRD enzymes	Gene_or_gene_product
+PMC2064233	259	uniprot:Q9UIJ5	DHHC-2	Gene_or_gene_product
+PMC2064233	259	uniprot:Q08379	GM-130	Gene_or_gene_product
+PMC2064233	260	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2064233	261	uniprot:P29474	eNOS	Gene_or_gene_product
+PMC2064233	261	uniprot:UNRESOLVED ID	acyl transferases	Gene_or_gene_product
+PMC2064233	261	uniprot:Q9UIJ5	DHHC-2	Gene_or_gene_product
+PMC2064233	262	uniprot:UNRESOLVED ID	http://www.jcb.org/cgi/content/full/jcb.200601051/DC1	Gene_or_gene_product
+PMC2064233	263	uniprot:P11150	HL	Gene_or_gene_product
+PMC2064233	265	uazid:UA-ORG-385	Heart	Organ

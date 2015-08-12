@@ -1,0 +1,35 @@
+Paper ID	Is title?	Section ID	Passage ID	Line Num	Text
+PMC3398920	true	article-title	0	0	Rac-ing to the plasma membrane
+PMC3398920	false	abstract	1	1	The functional cycle of the Rac1 GTPase involves a large number of steps , including post-translational processing , cytosolic sequestration by RhoGDIs , translocation to specific subcellular localizations , activation by GDP and GTP exchange , inactivation by GTP hydrolysis , and re-formation of cytosolic Rac1 and RhoGDI inhibitory complexes .
+PMC3398920	false	abstract	1	2	Here , we summarize the current knowledge about the regulation of those steps .
+PMC3398920	false	abstract	1	3	In addition , we discuss a recently described , cytoskeletal dependent feed-back loop that favors the efficient translocation and activation of Rac subfamily proteins during cell signaling .
+PMC3398920	false	abstract	1	4	This route is mediated by a heteromolecular protein complex composed of the cytoskeletal protein coronin1A , the Dbl family member ArhGEF7 , the serine and threonine kinase Pak1 , and the Rac1 and RhoGDI dimer .
+PMC3398920	false	abstract	1	5	This route promotes the translocation of Rac1 and RhoGDI to F-actin-rich juxtamembrane areas , the Pak1 dependent release of Rac1 from the Rac1 and RhoGDI complex , and Rac1 activation .
+PMC3398920	false	abstract	1	6	This pathway is important for optimal Rac1 activation during the signaling of the EGF receptor , integrins , and the antigenic T-cell receptor .
+PMC3398920	false	fig-1	2	7	Figure 1 .
+PMC3398920	false	fig-1	2	8	Depiction of the main steps of the functional cycle of Rac1 .
+PMC3398920	false	fig-1	2	9	Enzymes and other cellular factors collaborating in each of those steps are shown in green .
+PMC3398920	false	fig-1	2	10	Other symbols are indicated in the figure .
+PMC3398920	false	fig-1	2	11	Please note that the sequence of the C-terminal LLL tripeptide is different in some Rac1 orthologs , such as those present in horses ( TVF ) , chimpanzees ( LQL ) or Drosophila ( ALL ) .
+PMC3398920	false	fig-1	2	12	The status of Rac1 inside the nucleus is still poorly characterized so we have not incorporated the activation and inactivation cycle of Rac1 in that compartment .
+PMC3398920	false	fig-1	2	13	It is also unclear whether the insertion of Rac1 in membranes is achieved when in the GDP- or GTP bound state .
+PMC3398920	false	fig-1	2	14	The latter case has not been contemplated in the scheme for the sake of simplicity .
+PMC3398920	false	fig-1	2	15	Abbreviations used are : ER , endoplasmic reticulum ; GAP , GTPase activating protein ; Me , methyl group ; Pi , inorganic phosphate ; PKC , protein kinase C ; PM , plasma membrane ; PRR BP , proline rich region binding protein .
+PMC3398920	false	fig-1	2	16	Other abbreviations have been described in the main text .
+PMC3398920	false	fig-2	3	17	Figure 2 .
+PMC3398920	false	fig-2	3	18	Scheme of the cellomic screen used in the work reviewed here .
+PMC3398920	false	fig-2	3	19	The first screening was conducted using an expression library of 135,000 independent cDNA clones obtained from human T cells .
+PMC3398920	false	fig-2	3	20	To this end , we used a reporter HEK293T stably expressing a cytoplasmic EGFP-Rac1 protein ( step 1 ) .
+PMC3398920	false	fig-2	3	21	To increase the efficiency of the screening , this cell line also expressed anti-apoptotic proteins to avoid the loss of clones due to the presence of pro-apoptotic molecules in the transfected cDNA pools .
+PMC3398920	false	fig-2	3	22	The screening was conducted by transfecting separate pools of 90 cDNAs in the reporter cell line using the calcium phosphate precipitation method ( step 2 ) and the subsequent score of cells showing plasma membrane localized EGFP-Rac1 using epifluorescence microscopy ( step 3 ) .
+PMC3398920	false	fig-2	3	23	Positive pools were progressively subdivided and transfected in the reporter cell line ( steps 4a and 4b ) until the isolation of the cDNA clones responsible for the Rac1 translocating activity ( step 5 ) .
+PMC3398920	false	fig-2	3	24	The crystal structure of Coro1A , one of the clones identified in this screening , is shown at the bottom .
+PMC3398920	false	fig-2	3	25	The structure is composed of WD40 domains arranged in a prototypical beta-propeller conformation .
+PMC3398920	false	fig-2	3	26	See inset at the bottom for the shape and color code use for the indicated proteins used in these experiments .
+PMC3398920	false	fig-3	4	27	Figure 3 .
+PMC3398920	false	fig-3	4	28	Schematic representation of the regulatory model for the proposed Coro1A mediated translocation and activation of Rac1 reviewed here .
+PMC3398920	false	fig-3	4	29	The first stimulus triggering the first burst of Rac1 activity via a Coro1A independent route is shown on the left in gray color and thin lanes .
+PMC3398920	false	fig-3	4	30	The Coro1A based relay mechanism involved in the subsequent amplification of Rac1 signals is shown with thicker lanes .
+PMC3398920	false	fig-3	4	31	L , ligand ; X , a putative Rac1 GEF factor associated to ArhGEF7 .
+PMC3398920	false	fig-3	4	32	Phosphorylated residues are shown as yellow lollipops .
+PMC3398920	false	fig-3	4	33	See further details in the main text of this work .

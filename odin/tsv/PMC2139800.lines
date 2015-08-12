@@ -1,0 +1,313 @@
+Paper ID	Is title?	Section ID	Passage ID	Line Num	Text
+PMC2139800	true	article-title	0	0	Afadin : A Novel Actin Filament binding Protein with One PDZ Domain Localized at Cadherin based Cell-to-Cell Adherens Junction
+PMC2139800	false	abstract	1	1	A novel actin filament ( F-actin ) - binding protein with a molecular mass of ~ 205 kD ( p205 ) , which was concentrated at cadherin based cell-to-cell adherens junction ( AJ ) , was isolated and characterized .
+PMC2139800	false	abstract	1	2	p205 was purified from rat brain and its cDNA was cloned from a rat brain cDNA library .
+PMC2139800	false	abstract	1	3	p205 was a protein of 1,829 amino acids ( aa ) with a calculated molecular mass of 207,667 kD .
+PMC2139800	false	abstract	1	4	p205 had one F-actin-binding domain at 1,631-1 ,829 aa residues and one PDZ domain at 1,016- 1,100 aa residues , a domain known to interact with transmembrane proteins .
+PMC2139800	false	abstract	1	5	p205 was copurified from rat brain with another protein with a molecular mass of 190 kD ( p190 ) .
+PMC2139800	false	abstract	1	6	p190 was a protein of 1,663 aa with a calculated molecular mass of 188,971 kD .
+PMC2139800	false	abstract	1	7	p190 was a splicing variant of p205 having one PDZ domain at 1,009-1 ,093 aa residues but lacking the F-actin-binding domain .
+PMC2139800	false	abstract	1	8	Homology search analysis revealed that the aa sequence of p190 showed 90 % identity over the entire sequence with the product of the AF-6 gene , which was found to be fused to the ALL-1 gene , known to be involved in acute leukemia .
+PMC2139800	false	abstract	1	9	p190 is likely to be a rat counterpart of human AF-6 protein .
+PMC2139800	false	abstract	1	10	p205 bound along the sides of F-actin but hardly showed the F-actin-cross-linking activity .
+PMC2139800	false	abstract	1	11	Northern and Western blot analyses showed that p205 was ubiquitously expressed in all the rat tissues examined , whereas p190 was specifically expressed in brain .
+PMC2139800	false	abstract	1	12	Immunofluorescence and immunoelectron microscopic studies revealed that p205 was concentrated at cadherin based cell-to-cell AJ of various tissues .
+PMC2139800	false	abstract	1	13	We named p205 l-afadin ( a large splicing variant of AF-6 protein localized at adherens junction ) and p190 s-afadin ( a small splicing variant of l-afadin ) .
+PMC2139800	false	abstract	1	14	These results suggest that l-afadin serves as a linker of the actin cytoskeleton to the plasma membrane at cell-to-cell AJ .
+PMC2139800	true	sec-2	2	15	125I labeled F-Actin Blot Overlay
+PMC2139800	false	sec-2	3	16	125I labeled F-actin blot overlay was done as described                                               .
+PMC2139800	false	sec-2	3	17	Briefly , purified actin monomer ( G-actin ) was labeled with 125I-Bolton Hunter reagent .
+PMC2139800	false	sec-2	3	18	125I labeled G-actin ( 1 mg and ml , average specific activity = 63.3 muCi and mg ) was polymerized with 18 mug and ml of gelsolin ( molar ratio = 100:1 ; Sigma Chemical Co. , St. Louis , MO ) by incubation for 10 min at 4degreesC in a solution containing 20 mM Pipes , pH 7.0 , 50 mM KCl , and 2 mM MgCl2 .
+PMC2139800	false	sec-2	3	19	Phalloidin was then added to give a final concentration of 40 muM .
+PMC2139800	false	sec-2	3	20	The mixture was then incubated for another 15 min at room temperature and stored at 4degreesC as 125I labeled F-actin .
+PMC2139800	false	sec-2	3	21	The sample to be tested was subjected to SDS-PAGE and transferred to a nitrocellulose membrane .
+PMC2139800	false	sec-2	3	22	The membrane was blocked in TBS containing 5 % defatted powder milk .
+PMC2139800	false	sec-2	3	23	The membrane was then incubated for 1 h at room temperature with 10 mug and ml of 125I labeled F-actin in TBS containing 5 % defatted powder milk and 4 muM phalloidin .
+PMC2139800	false	sec-2	3	24	After the incubation , the membrane was washed with TBS containing 0.5 % Tween 20 , followed by autoradiography using an image analyzer ( Fujix BAS-2000II ; Fuji Photo Film Co. , Tokyo , Japan ) .
+PMC2139800	false	sec-2	4	25	For competition experiments , 125I labeled F-actin was prepared as described above , except that the concentration of gelsolin was reduced to 7.2 mug and ml ( molar ratio = 250:1 ) .
+PMC2139800	false	sec-2	4	26	20 mug and ml of 125I labeled F-actin was incubated for 30 min at room temperature with 0.42 mg and ml of myosin subfragment 1 ( S1 ; Sigma Chemical Co. ) in a solution containing 20 mM Pipes , pH 7.0 , 58 mM KCl , 2 mM MgCl2 , 130 muM CaCl2 , and 0.8 muM phalloidin .
+PMC2139800	false	sec-2	4	27	Where indicated , 4 mM MgATP was added to the mixture .
+PMC2139800	false	sec-2	4	28	After the incubation , the mixture was diluted with an equal volume of TBS containing 10 % defatted powder milk , and it was added to the blot membrane , followed by incubation for 1 h at room temperature .
+PMC2139800	true	sec-3	5	29	Purification of l-Afadin
+PMC2139800	false	sec-3	6	30	All the purification procedures were carried out at 0-4degreesC .
+PMC2139800	false	sec-3	6	31	Fetal brains from 60 mother rats ( 17-d gestation ) were homogenized with a solution containing 10 mM Tris and Cl , pH 8.0 , 2 mM EDTA , 5 mM EGTA , and a protease inhibitor cocktail ( 1 mM PMSF , 20 mug and ml of leupeptin , and 1 mug and ml of pepstatin A ) .
+PMC2139800	false	sec-3	6	32	The homogenate was mildly stirred for 1 h and centrifuged at 200,000 g for 1 h .
+PMC2139800	false	sec-3	6	33	The supernatant ( 600 ml , 2,070 mg of protein ) was stored at -80 degreesC until use .
+PMC2139800	false	sec-3	6	34	The supernatant was applied to a Q-Sepharose FF column ( 2.6 x 34 cm ; Pharmacia Biotech , Inc. , Piscataway , NJ ) equilibrated with buffer A ( 20 mM Tris and Cl , pH 8.0 , 0.5 mM EDTA , and 1 mM DTT ) .
+PMC2139800	false	sec-3	6	35	After the column was washed with 700 ml of buffer A , elution was performed with an 800-ml linear gradient of NaCl ( 0-0 .5 M ) in buffer A. 10-ml fractions were collected .
+PMC2139800	false	sec-3	6	36	l-Afadin appeared in fractions 56-77 .
+PMC2139800	false	sec-3	6	37	These fractions ( 220 ml , 500 mg of protein ) were collected , and 1.2 M ( NH4 ) 2SO4 was added to give a final concentration of 0.6 M .
+PMC2139800	false	sec-3	6	38	The sample was centrifuged at 200,000 g for 20 min , and the supernatant was applied to a phenyl-5PW column ( 2.15 x 15 cm ; Tosoh , Tokyo , Japan ) equilibrated with buffer A containing 0.6 M ( NH4 ) 2SO4 .
+PMC2139800	false	sec-3	6	39	After the column was washed with 250 ml of the same buffer , elution was performed with a 240-ml linear gradient of ( NH4 ) 2SO4 ( 0.6-0 M ) in buffer A. 6-ml fractions were collected .
+PMC2139800	false	sec-3	6	40	l-Afadin appeared in fractions 28-34 .
+PMC2139800	false	sec-3	6	41	The active fractions ( 42 ml , 24 mg of protein ) were collected and applied to a hydroxyapatite column ( 0.78 x 10 cm ; Koken , Tokyo , Japan ) equilibrated with buffer B ( 10 mM potassium phosphate , pH 7.8 , and 1 mM DTT ) .
+PMC2139800	false	sec-3	6	42	After the column was washed with 30 ml of buffer B , elution was performed with a 150-ml linear gradient of potassium phosphate ( 10-500 mM ) , pH 7.8 , in buffer B. 2.0-ml fractions were collected .
+PMC2139800	false	sec-3	6	43	l-Afadin appeared in fractions 39-41 .
+PMC2139800	false	sec-3	6	44	The active fractions ( 6 ml , 0.86 mg of protein ) were collected and diluted with an equal volume of buffer A , and half of the sample was applied to a Mono Q HR 5 and 5 column ( Pharmacia Biotech , Inc. ) equilibrated with buffer A .
+PMC2139800	false	sec-3	6	45	After the column was washed with 6 ml of buffer A , elution was performed with a 30-ml linear gradient of NaCl ( 0.15-0 .4 M ) in buffer A. 0.5-ml fractions were collected .
+PMC2139800	false	sec-3	6	46	The other half of the sample was subjected to Mono Q column chromatography in a similar manner .
+PMC2139800	false	sec-3	6	47	l-Afadin appeared in fractions 34-36                                                                                                          were combined and stored at -80 degreesC until use .
+PMC2139800	false	sec-4	7	48	The purified Mono Q sample ( ~ 40 mug of protein ) was subjected to SDS-PAGE ( 8 % polyacrylamide gel ) .
+PMC2139800	false	sec-4	7	49	The protein bands corresponding to p205 ( l-afadin ) and p190 ( s-afadin ) were separately cut out from the gel , digested with a lysyl endopeptidase , and the digested peptides were separated by TSKgel ODS-80Ts ( 4.6 x 150 mm ; Tosoh ) reverse-phase high pressure liquid column chromatography as described                       .
+PMC2139800	false	sec-4	7	50	The aa sequences of the peptides were determined with a peptide sequencer .
+PMC2139800	false	sec-4	7	51	A rat brain cDNA library in lambdaZAPII ( Stratagene , La Jolla , CA ) was screened using the oligonucleotide probes designed from the partial aa sequences .
+PMC2139800	false	sec-4	7	52	DNA sequencing was performed by the dideoxynucleotide termination method using a DNA sequencer ( model 373 ; Applied Biosystems , Inc. , Foster City , CA ) .
+PMC2139800	true	sec-5	8	53	Chromosome Preparation and In Situ Hybridization
+PMC2139800	false	sec-5	9	54	The fluorescence in situ hybridization ( FISH ) analysis was performed as described                                                  .
+PMC2139800	false	sec-5	9	55	Briefly , the chromosomes were prepared from rat splenocytes , the R-band was stained with Hoechst 33258 , and the chromosomes were exposed to UV light .
+PMC2139800	false	sec-5	9	56	After the cDNAs of clones 20 , 84 , and 94 were labeled with biotin 16-dUTP , the chromosomes were hybridized with these labeled cDNAs , and they were incubated with an antibiotin goat antibody and then with an FITC labeled anti-goat IgG antibody .
+PMC2139800	false	sec-5	9	57	The chromosomes were then stained with propidium iodide and were viewed using Nikon filter B-2A ( 450-490 nm ; Nikon Inc. , Melville , NY ) .
+PMC2139800	true	sec-6	10	58	Expression and Purification of Recombinant l-Afadin
+PMC2139800	false	sec-6	11	59	The full-length l-afadin cDNA corresponding to bp 326-5812 ( aa 1-1829 ) and its fragment corresponding to bp 326-5344 ( aa 1-1673 ) were inserted to the pCMV-myc vector using standard molecular biology methods                        .
+PMC2139800	false	sec-6	11	60	The constructs were transfected to COS7 cells with the DEAE-dextran method                        .
+PMC2139800	false	sec-6	11	61	The whole-cell extracts were subjected to 125I labeled F-actin blot overlay and Western blot analysis using an antibody against the myc-epitope as described below .
+PMC2139800	false	sec-6	11	62	The 597-bp fragment of the l-afadin cDNA corresponding to bp 5216-5812 ( aa 1631-1829 ) was inserted to the pGEX and pQE vectors .
+PMC2139800	false	sec-6	11	63	These constructs were transformed into Escherichia coli , and the glutathione S-transferase ( GST ) fusion protein ( GST-l-afadin-C ) and the six histidine residues ( His6 ) - fusion protein ( His6-l-afadin-C ) were purified by use of glutathione-Sepharose and Ni-agarose , respectively .
+PMC2139800	false	sec-7	12	64	Low shear viscometry was performed as described                                              .
+PMC2139800	false	sec-7	12	65	Briefly , alpha-actinin ( recombinant chick lung type ) or the Mono Q sample of l-afadin , including s-afadin , in an indicated amount was mixed with 0.28 mg and ml of G-actin in a solution containing 20 mM Tris and Cl , pH 8.0 , 0.25 mM EDTA , 2 mM MgCl2 , 140 mM NaCl , 0.1 mM ATP , and 1 mM EGTA , and the solution was sucked into a 0.1-ml micropipette .
+PMC2139800	false	sec-7	12	66	After the incubation for 1 h at 25degreesC , the time for a stainless steel ball to fall a fixed distance in the pipette was measured .
+PMC2139800	false	sec-7	13	67	Cosedimentation of l-afadin with F-actin was performed as follows : G-actin was polymerized by incubation for 30 min at room temperature in a polymerization buffer ( 20 mM imidazol and Cl , pH 7.0 , 2 mM MgCl2 , 1 mM ATP , and 90 mM KCl ) .
+PMC2139800	false	sec-7	13	68	An indicated amount of GST-l-afadin-C or His6- l-afadin-C ( each aa 1631-1829 ) was incubated for 30 min at room temperature with 0.3 mg and ml of F-actin , and the mixture ( 100 mul ) was placed over a 50-mul cushion of 30 % sucrose in the polymerization buffer .
+PMC2139800	false	sec-7	13	69	After the sample was centrifuged at 130,000 g for 20 min , the supernatant was removed from the cushion , and the pellet was brought to the original volume in an SDS sample buffer .
+PMC2139800	false	sec-7	13	70	To quantitate cosedimentation of GST-l-afadin-C or His6-l-afadin-C , the comparable amounts of the supernatant and pellet fractions were subjected to SDS-PAGE ( 15 % polyacrylamide gel ) , transferred to a nitrocellulose membrane , incubated with an antibody against l-afadin as described below , and then incubated with 125I labeled protein A. Amounts of the free and bound fusion proteins were calculated by determining the radioactivity from the supernatant and pellet fractions with an image analyzer ( Fujix BAS-2000II ) .
+PMC2139800	false	sec-8	14	71	A rabbit polyclonal antibody against l-afadin , which specifically recognized l-afadin , was directed against a 16-mer synthetic peptide corresponding to aa 1814-1829 ( KASRKLTELENELNTK ) .
+PMC2139800	false	sec-8	14	72	Another antibody against l-afadin , which recognized both l- and s-afadins , was directed against a 16-mer synthetic peptide corresponding to aa 577-592 ( RLDQEQDYRRRESRTQ ) .
+PMC2139800	false	sec-8	14	73	Each peptide was coupled via cysteine at the NH2-terminal residue to keyhole limpet hemocyanin and was used to raise the antiserum .
+PMC2139800	false	sec-8	14	74	The antiserum specific to l-afadin was affinity purified with GST-l-afadin-C covalently coupled to NHS activated Sepharose ( Pharmacia Biotech , Inc. ) and was used as the anti-l-afadin antibody .
+PMC2139800	false	sec-8	14	75	The antiserum recognizing both l- and s-afadins was purified with the synthetic peptide covalently coupled to EAH-Sepharose ( Pharmacia Biotech , Inc. ) and was used as the anti-l- and s-afadin antibody .
+PMC2139800	false	sec-8	14	76	Monoclonal anti-ZO-1                     and anti-myc epitope                         antibodies were prepared as described .
+PMC2139800	false	sec-8	14	77	Monoclonal anti-E-cadherin ( Takara , Tokyo , Japan ) , antivinculin ( Sigma Chemical Co. ) , and antidesmoplakin ( Progen Biotechnik , Germany ) antibodies were purchased from commercial sources .
+PMC2139800	false	sec-8	15	78	Immunofluorescence microscopy of frozen sections of various rat or mouse tissues was done as described                    .
+PMC2139800	false	sec-8	15	79	Briefly , samples of various tissues were frozen using liquid nitrogen , and the frozen sections ( ~ 10 mum ) were cut in a cryostat .
+PMC2139800	false	sec-8	15	80	The samples were mounted on glass slides , air dried , and fixed with 95 % ethanol for 30 min at 4degreesC and with 100 % acetone for 1 min at room temperature .
+PMC2139800	false	sec-8	15	81	After being washed with PBS containing 1 % BSA , the samples were incubated with the polyclonal anti-l-afadin antibody alone , or with a mixture of the anti-l-afadin antibody and the monoclonal anti-E-cadherin , anti-ZO-1 , or antivinculin antibody .
+PMC2139800	false	sec-8	15	82	The samples were then washed with PBS containing 1 % BSA and 0.1 % Triton X-100 , followed by incubation with rhodamine conjugated donkey anti-rabbit IgG and FITC conjugated sheep anti-mouse IgG antibodies .
+PMC2139800	false	sec-8	15	83	After being washed with PBS , they were embedded and viewed with a confocal imaging system ( MRC-1024 ; Bio-Rad Laboratories , Hercules , CA ) .
+PMC2139800	false	sec-8	16	84	Immunofluorescence microscopy of EL cells was done as described                    .
+PMC2139800	false	sec-8	16	85	Briefly , cells were cultured on a coverglass and fixed with 1 % formaldehyde in PBS .
+PMC2139800	false	sec-8	16	86	The fixed sample was treated with 0.2 % Triton X-100 in PBS and washed three times with PBS .
+PMC2139800	false	sec-8	16	87	After the sample was soaked with PBS containing 1 % BSA , the sample was treated with the rabbit anti-l-afadin antibody and the mouse anti-ZO-1 antibody , and washed with PBS containing 1 % BSA , followed by incubation with the rhodamine conjugated anti-rabbit IgG and FITC conjugated anti-mouse IgG antibodies .
+PMC2139800	false	sec-8	16	88	After the incubation , the sample was washed with PBS , embedded in PBS containing 95 % glycerol , and viewed with the confocal imaging system ( MRC-1024 ; Bio-Rad Laboratories ) .
+PMC2139800	false	sec-8	17	89	Immunofluorescence microscopy of the bile canaliculi isolated from mouse liver was done as described                       .
+PMC2139800	false	sec-8	17	90	Briefly , the fraction rich in the bile canaliculi                             was put on a coverglass , air dried , and fixed with 1 % formaldehyde in PBS .
+PMC2139800	false	sec-8	17	91	The sample was soaked with PBS containing 1 % BSA and then processed as described above .
+PMC2139800	false	sec-9	18	92	Immunoelectron microscopy using the silver enhancement technique was done as described                         .
+PMC2139800	false	sec-9	18	93	Briefly , adult rat small intestine was perfused with 4 % paraformaldehyde in PBS .
+PMC2139800	false	sec-9	18	94	The sample was incubated with the anti-l-afadin antibody , followed by incubation with an anti-rabbit IgG antibody coupled with 1.4-nm gold particles ( Nanoprobes Inc. ) .
+PMC2139800	false	sec-9	18	95	After the sample was washed , it was fixed with 2 % glutaraldehyde in PBS for 15 min , and the sample bound gold particles were silver enhanced by the HQ-silver kit ( Nanoprobes Inc. , Stony Brook , NY ) for 8 min at 18degreesC .
+PMC2139800	false	sec-9	18	96	The sample was again washed and postfixed with 0.5 % osmium oxide in a buffer containing 100 mM cacodylate buffer , pH 7.3 .
+PMC2139800	false	sec-9	18	97	They were dehydrated by passage through a graded series of ethanol ( 50 , 70 , 90 , and 100 % ) and propylene oxide , and were embedded in epoxy resin .
+PMC2139800	false	sec-9	18	98	From this sample , ultrathin sections were cut , stained with uranyl acetate and lead citrate , and then observed with an electron microscope ( JEM-1200EX ; Jeol Ltd. , Tokyo , Japan ) .
+PMC2139800	false	sec-9	19	99	Immunoelectron microscopy using the ultrathin cryosection technique was done as described                 .
+PMC2139800	false	sec-9	19	100	Briefly , adult rat small intestine was fixed with 4 % formaldehyde in 0.1 M phosphate buffer , pH 7.4 , for 6 h at room temperature .
+PMC2139800	false	sec-9	19	101	The fixed sample was infused with 1.8 M sucrose containing 20 % polyvinylpyrrolidone at 4degreesC overnight                 , rapidly frozen using liquid nitrogen , and then cryosectioned at -110 degreesC using a diamond knife .
+PMC2139800	false	sec-9	19	102	The ultrathin sections were collected on Formvar filmed grids and rinsed with PBS containing 10 mM glycine .
+PMC2139800	false	sec-9	19	103	The samples were treated with a mixture of 3 % BSA and 0.5 % gelatin for 30 min , and then incubated sequentially with the anti-l-afadin antibody and with a 5-nm colloidal gold conjugated goat anti-rabbit IgG antibody ( Amersham Corp. , Arlington Heights , IL ) .
+PMC2139800	false	sec-9	19	104	The samples were fixed with 2 % glutaraldehyde in PBS , rinsed with distilled water , incubated with 2 % methylcellulose and 0.5 % uranyl acetate                         , and air dried .
+PMC2139800	false	sec-9	19	105	The samples were observed under an electron microscope ( JEM-100CX ; Jeol Ltd. ) .
+PMC2139800	false	sec-10	20	106	G-Actin was purified from rabbit skeletal muscle as described                           .
+PMC2139800	false	sec-10	20	107	Protein concentrations were determined with BSA as a reference protein                 .
+PMC2139800	true	sec-12	21	108	Purification of l-Afadin and Molecular Cloning of Its cDNA
+PMC2139800	false	sec-12	22	109	To identify novel actin binding proteins , we attempted to detect actin binding proteins using a blot overlay method with 125I labeled F-actin .
+PMC2139800	false	sec-12	22	110	The soluble fraction of rat fetal brain was subjected to SDS-PAGE followed by the blot overlay .
+PMC2139800	false	sec-12	22	111	Several radioactive protein bands with various molecular masses were detected .
+PMC2139800	false	sec-12	22	112	Of these F-actin-binding proteins , the protein band with a molecular mass of ~ 205 kD ( p205 ) was highly purified by column chromatographies , including Q-Sepharose , phenyl-5PW , hydroxyapatite , and Mono Q column chromatographies .
+PMC2139800	false	sec-12	22	113	On the final Mono Q column chromatography , the F-actin-binding protein band well coincided with a protein with a molecular mass of ~ 205 kD that was identified by protein staining with Coomassie brilliant blue                                                                                           , and they could not be separated from each other by further column chromatographies , including Mono S and Superdex 200 column chromatographies ( data not shown ) .
+PMC2139800	false	sec-12	22	114	These proteins appeared at a position corresponding to a molecular mass of > 600 kD on the gel filtration .
+PMC2139800	false	sec-12	22	115	The Mono Q sample including p205 and p190 was used to study the biochemical properties of p205 as described below .
+PMC2139800	false	sec-12	23	116	When the peptide mapping analyses of the Mono Q sample of these two proteins , p205 and p190 , were performed , their maps were almost identical , whereas p205 showed the additional peptide peaks .
+PMC2139800	false	sec-12	23	117	When the aa sequences of the five peptide peaks common between the two proteins were separately determined , all the aa sequences of the p205 and p190 peptides were identical .
+PMC2139800	false	sec-12	23	118	A computer homology search indicated that the aa sequences of the five peptide peaks were identical with or significantly homologous to those of human AF-6 protein .
+PMC2139800	false	sec-12	23	119	When the aa sequences of the two peptide peaks specific to p205 were determined , they were not found in the current protein database .
+PMC2139800	false	sec-12	23	120	These results suggest that p205 and p190 are related to human AF-6 protein , and that p190 is a splicing variant , a homologue , or a degradative product of p205 .
+PMC2139800	false	sec-12	24	121	A rat brain cDNA library was screened using the degenerated oligonucleotide probes designed from the partial aa sequences of the seven peptide peaks described above .
+PMC2139800	false	sec-12	24	122	We obtained several overlapping clones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             .
+PMC2139800	false	sec-12	25	123	The full-length p205 and p190 cDNAs were constructed from clones 84 and 20 , and clones 84 and 94 , respectively .
+PMC2139800	false	sec-12	25	124	When the p205 cDNA was transfected into COS7 cells and the cell extract was subjected to 125I labeled F-actin blot overlay , the recombinant protein ( myc-l-afadin ) showed mobility similar to that of native p205 on SDS-PAGE , as well as 125I labeled F-actin-binding activity           .
+PMC2139800	false	sec-12	25	125	The deletion mutant of p205 lacking the COOH-terminal 156 aa ( myc-l-afadinDeltaC ) did not show the 125I labeled F-actin- binding activity .
+PMC2139800	false	sec-12	25	126	A fusion protein of the COOH-terminal region of p205 ( 199 aa ) with GST ( GST-l-afadin-C ) showed the 125I labeled F-actin-binding activity .
+PMC2139800	false	sec-12	26	127	Based on these observations , together with the fact that the Mono Q sample of p205 indeed showed the F-actin- binding activity as described below , we have concluded that the p205 gene encodes a protein of 1,829 aa with a calculated molecular mass of 207,667 kD ( Gen Bank and EMBL / DDBJ accession number U83230 ) , of which the COOH-terminal 199 aa contributes to its F-actin-binding activity , and that the p190 gene encodes a protein lacking ~ 160 COOH-terminal aa ( GenBank/EMBL/DDBJ accession number U83231 ) and is a splicing variant of the p205 gene .
+PMC2139800	false	sec-12	26	128	A computer homology search revealed that the aa sequence of p190 showed 90 % identity over the entire sequence with that of human AF-6 protein                      , while human AF-6 protein and p190 lacked the COOH-terminal region of p205 .
+PMC2139800	false	sec-12	26	129	p190 is likely to be a rat counterpart of human AF-6 protein .
+PMC2139800	false	sec-12	26	130	The COOH-terminal , F-actin-binding domain showed no significant homology to any known F-actin-binding protein .
+PMC2139800	false	sec-12	26	131	Both p205 and p190 had one PDZ domain           .
+PMC2139800	false	sec-12	26	132	We named p205 and p190 l- and s-afadins , respectively .
+PMC2139800	false	sec-12	27	133	Northern blot analysis using a sequence specific to the l-afadin cDNA as a probe detected ~ 7.5-kb mRNA in all the rat tissues examined , including the heart , brain , spleen , lung , liver , skeletal muscle , kidney , and testis           .
+PMC2139800	false	sec-12	27	134	A similar result was obtained when a sequence common between the cDNAs of l- and s-afadins was used as a probe ( data not shown ) .
+PMC2139800	false	sec-12	27	135	Western blot analysis using an antibody specific to l-afadin detected an ~ 205-kD protein in all the rat tissues examined            .
+PMC2139800	false	sec-12	27	136	When an antibody recognizing both l- and s-afadins was used , however , an ~ 190-kD protein was detected only in the brain            .
+PMC2139800	false	sec-12	27	137	These results indicate that l-afadin is expressed ubiquitously while s-afadin is specifically expressed in brain .
+PMC2139800	false	sec-12	27	138	The reason why the Northern blot analysis did not detect the two bands in the brain may simply be because of the similar length of the mRNAs of l- and s-afadins .
+PMC2139800	true	sec-13	28	139	Biochemical Properties of l-Afadin
+PMC2139800	false	sec-13	29	140	It was examined by competition experiments whether the Mono Q sample of l-afadin ( including s-afadin ) bound along the sides of F-actin or at its ends .
+PMC2139800	false	sec-13	29	141	The binding of 125I labeled F-actin to l-afadin was completely inhibited by an excessive amount of myosin S1 , a well characterized protein that binds along the sides of F-actin                                                         .
+PMC2139800	false	sec-13	29	142	This inhibition was reversed by the addition of MgATP because MgATP dissociates the actin and myosin complex                      .
+PMC2139800	false	sec-13	29	143	These results indicate that l-afadin binds along the sides of F-actin .
+PMC2139800	false	sec-13	29	144	The effect of the Mono Q sample of l-afadin on F-actin was examined using the falling ball method for low shear viscometry .
+PMC2139800	false	sec-13	29	145	This effect was compared to that of alpha-actinin , a well characterized protein that shows F-actin-cross-linking activity                               .
+PMC2139800	false	sec-13	29	146	l-Afadin increased the viscosity of F-actin in a dose dependent manner , and the viscosity became maximal at approximately threefold           .
+PMC2139800	false	sec-13	29	147	alpha-Actinin also increased the viscosity , but the viscosity became unmeasurably high .
+PMC2139800	false	sec-13	29	148	This effect of the Mono Q sample of l-afadin on F-actin was further assessed by transmission electron microscopy of negatively stained specimens .
+PMC2139800	false	sec-13	29	149	l-Afadin hardly caused F-actin to associate into bundles and meshworks under conditions where alpha-actinin showed a marked F-actin-cross-linking activity ( data not shown ) .
+PMC2139800	false	sec-13	29	150	This result was consistent with that of the low shear viscometry .
+PMC2139800	false	sec-13	29	151	The stoichiometry of the binding of l-afadin to actin and the affinity constant were examined using His6- l-afadin-C .
+PMC2139800	false	sec-13	29	152	The stoichiometry was calculated to be 1 His6- l-afadin-C molecule per ~ 500 actin molecules           .
+PMC2139800	false	sec-13	29	153	The kilodalton value was calculated to be the order of 10-7 .
+PMC2139800	false	sec-13	29	154	A similar result was obtained with GST-l-afadin-C ( data not shown ) .
+PMC2139800	false	sec-13	29	155	The effect of the Mono Q sample of l-afadin on actin polymerization was finally examined using pyrene conjugated actin .
+PMC2139800	false	sec-13	29	156	Pyrene conjugated actin is known to increase its fluorescent intensity with the actin polymerization                           .
+PMC2139800	false	sec-13	29	157	l-Afadin did not affect the actin polymerization under the conditions where gelsolin stimulated it ( data not shown ) .
+PMC2139800	true	sec-14	30	158	Localization of l-Afadin at Cadherin based Cell-to-Cell AJ
+PMC2139800	false	sec-14	31	159	The localization of l-afadin was first examined by immunofluorescence microscopy of the frozen sections of various rat or mouse tissues using the anti-l-afadin antibody .
+PMC2139800	false	sec-14	31	160	In the liver , l-afadin was localized at the beltlike junctional complex region along the bile canaliculi           .
+PMC2139800	false	sec-14	31	161	When the frozen sections of the small intestine were doubly stained with the monoclonal anti-E-cadherin , l-afadin was concentrated with E-cadherin at the junctional complex region of intestine absorptive epithelia , but l-afadin was more highly concentrated at the junctional complex region than E-cadherin                        .
+PMC2139800	false	sec-14	31	162	The frozen sections of the heart were doubly stained with the monoclonal antivinculin antibody .
+PMC2139800	false	sec-14	31	163	Vinculin is known to be a marker , not only for cell-to-cell AJ , but also for cell-to-matrix AJ                     .
+PMC2139800	false	sec-14	31	164	l-Afadin was colocalized with vinculin at the intercalated disc              .
+PMC2139800	false	sec-14	31	165	Vinculin was also periodically located along the lateral borders of cardiac muscle cells ( costamere ) while l-afadin was not .
+PMC2139800	false	sec-14	31	166	When the cultured EL cells expressing E-cadherin                          were doubly stained with the anti-ZO-1 antibody , l-afadin showed localization similar to that of ZO-1                  .
+PMC2139800	false	sec-14	31	167	ZO-1 is known to be concentrated at cadherin based , spotlike cell-to-cell AJ in fibroblasts                          .
+PMC2139800	false	sec-14	31	168	These results suggest that l-afadin is localized at cadherin based cell-to-cell AJ .
+PMC2139800	false	sec-14	32	169	To examine the precise localization of l-afadin at the junctional complex region , the frozen sections of small intestine were doubly stained with the monoclonal anti-ZO-1 antibody , and the bile canaliculi isolated from liver were doubly stained with the monoclonal antidesmoplakin antibody .
+PMC2139800	false	sec-14	32	170	ZO-1 and desmoplakin are known to be markers for tight junction                                             and desmosome                                                                                                 , respectively .
+PMC2139800	false	sec-14	32	171	In the absorptive epithelia , l-afadin was localized slightly more at the basal side than ZO-1               .
+PMC2139800	false	sec-14	32	172	In the canaliculi , the localization of l-afadin did not coincide with that of desmoplakin               .
+PMC2139800	false	sec-14	32	173	These results indicate that l-afadin is localized at cell-to-cell AJ rather than at tight junction or desmosome .
+PMC2139800	false	sec-14	32	174	The localization of l-afadin at cell-to-cell AJ was finally confirmed by immunoelectron microscopy of intestine absorptive epithelia using the silver enhancement and ultrathin cryosection techniques .
+PMC2139800	false	sec-14	32	175	l-Afadin was associated with the undercoat of cell-to-cell AJ                  .
+PMC2139800	false	sec-15	33	176	Here , we isolated a novel F-actin-binding protein with a molecular mass of ~ 205 kD ( p205 ) .
+PMC2139800	false	sec-15	33	177	This protein was copurified with another protein with a molecular mass of 190 kD ( p190 ) that lacked the F-actin-binding activity on various column chromatographies .
+PMC2139800	false	sec-15	33	178	The molecular cloning of the cDNAs of these two proteins revealed that the nucleotide sequence of the p190 cDNA was identical to that of the p205 cDNA , except for the two splicing regions .
+PMC2139800	false	sec-15	33	179	FISH analysis revealed that the genes of these two proteins were localized at the same locus .
+PMC2139800	false	sec-15	33	180	These results suggest that p205 and p190 are splicing variants derived from the same gene .
+PMC2139800	false	sec-15	33	181	Because a computer homology search revealed that the aa sequence of p190 was almost identical to that of human AF-6 protein , we theorize that p190 may be a rat counterpart of human AF-6 protein .
+PMC2139800	false	sec-15	33	182	We named p205 and p190 l- and s-afadins , respectively .
+PMC2139800	false	sec-15	33	183	Further purification steps of l-afadin , including Mono S column and Superdex 200 column chromatographies , did not separate l- and s-afadins from each other , and their elution profiles on these column chromatographies were similar but not identical .
+PMC2139800	false	sec-15	33	184	These proteins appeared at a position corresponding to a molecular mass of > 600 kD on the gel filtration .
+PMC2139800	false	sec-15	33	185	These results suggest that 1- and s-afadins form a complex , but we can not exclude the possibility that these two proteins do not form a complex , but instead are incidentally eluted at similar fractions on these column chromatographies .
+PMC2139800	false	sec-15	33	186	It is , therefore , possible that the complex is composed of a heterooligomer alone , a homooligomer alone , or the mixture .
+PMC2139800	false	sec-15	33	187	Western blot analysis indicated that the tissues other than brain expressed l-afadin alone .
+PMC2139800	false	sec-15	33	188	It is likely that l-afadin forms a homooligomer in these tissues .
+PMC2139800	false	sec-15	34	189	Recently , Luna 's group                             has shown that a protein with a molecular mass of ~ 205 kD in bovine neutrophils has the 125I labeled F-actin-binding activity .
+PMC2139800	false	sec-15	34	190	When human neutrophils were subjected to SDS-PAGE , followed either by Western blot analysis using the antibody specific to l-afadin or by 125I labeled F-actin blot overlay , an immunoreactive band with a molecular mass of ~ 200 kD was detected , and this band showed the 125I labeled F-actin-binding activity ( data not shown ) .
+PMC2139800	false	sec-15	34	191	This protein band is likely to be l-afadin , although its molecular mass was slightly smaller than that of rat l-afadin .
+PMC2139800	false	sec-15	34	192	The different molecular mass values may result from the species ' differences .
+PMC2139800	false	sec-15	34	193	The exact relationship between the 205-kD protein described by Luna 's group and l-afadin is not known , since the primary structure of the 205-kD protein has not been determined , but the 205-kD protein may be l-afadin .
+PMC2139800	false	sec-15	35	194	l-Afadin showed 125I labeled F-actin-binding activity .
+PMC2139800	false	sec-15	35	195	Neither s-afadin nor the deletion mutant of l-afadin lacking the COOH-terminal 156 aa ( myc-l-afadinDeltaC ) showed this activity , whereas GST-l-afadin-C corresponding to the COOH-terminal 199 aa showed the 125I labeled F-actin- binding activity .
+PMC2139800	false	sec-15	35	196	The Mono Q sample of l-afadin increased the viscosity of F-actin on the low shear viscometry .
+PMC2139800	false	sec-15	35	197	Furthermore , His6-l-afadin-C corresponding to the COOH-terminal 199 aa was cosedimented with F-actin .
+PMC2139800	false	sec-15	35	198	These results indicate that l-afadin shows F-actin-binding activity and that the domain responsible for this activity is located at the COOH-terminal 199 aa .
+PMC2139800	false	sec-15	35	199	Many actin binding protein families have been isolated and characterized .
+PMC2139800	false	sec-15	35	200	Of these families , for instance , the alpha-actinin and spectrin family members have been shown to usually form oligomers , such as a homodimer or a heterotetramer , and thereby show the F-actin-cross-linking activity .
+PMC2139800	false	sec-15	35	201	alpha-Actinin made the viscosity of F-actin unmeasurably high on the low shear viscometry , and it caused F-actin to associate into bundles and meshworks , as estimated by transmission electron microscopy .
+PMC2139800	false	sec-15	35	202	The stoichiometry is one alpha-actinin molecule per about seven actin molecules , and the kilodalton value is the order of 10 -7                       .
+PMC2139800	false	sec-15	35	203	In contrast , the effect of the Mono Q sample of l-afadin on F-actin was small on the low shear viscometry , and the sample hardly showed F-actin-cross-linking activity , as estimated by transmission electron microscopy .
+PMC2139800	false	sec-15	35	204	The stoichiometry was calculated to be 1 His6-l-afadin-C molecule per ~ 500 actin molecules .
+PMC2139800	false	sec-15	35	205	The kilodalton value was calculated to be the order of 10-7 .
+PMC2139800	false	sec-15	35	206	These results indicate that l-afadin belongs to a family different from the alpha-actinin and spectrin family .
+PMC2139800	false	sec-15	35	207	The ERM family , including ezrin , radixin , and moesin , belongs to the band 4.1 superfamily , an F-actin-binding protein superfamily                                        , and there have been several reports that purified ezrin and moesin are hardly cosedimented with F-actin                                                                       .
+PMC2139800	false	sec-15	35	208	Luna 's group                             has recently shown by the 125I labeled F-actin blot overlay that ezrin and moesin exhibit the F-actin-binding activity .
+PMC2139800	false	sec-15	35	209	They have also shown by competition experiments using the 125I labeled F-actin blot overlay that ezrin and moesin bind along the sides of F-actin .
+PMC2139800	false	sec-15	35	210	The biochemical properties of l-afadin are apparently similar to those of ezrin and moesin .
+PMC2139800	false	sec-15	35	211	l-Afadin may bind F-actin in a manner similar to those of ezrin and moesin .
+PMC2139800	false	sec-15	36	212	An immunofluorescence microscopic study by use of the antibody specific to l-afadin revealed that l-afadin was localized at the junctional complex region .
+PMC2139800	false	sec-15	36	213	Further microscopic and electron microscopic studies revealed that l-afadin was concentrated at cadherin based cell-to-cell AJ .
+PMC2139800	false	sec-15	36	214	Taken together with the biochemical properties of l-afadin , l-afadin is likely to be involved in the linkage between the actin cytoskeleton and cell-to-cell AJ .
+PMC2139800	false	sec-15	36	215	Both l- and s-afadins have one PDZ domain .
+PMC2139800	false	sec-15	36	216	The PDZ domain has been found in a variety of proteins that are typically localized at cell-to-cell junctions                          and shown to bind to the unique COOH-terminal motifs of target proteins , which are found in a large number of transmembrane proteins                                                                 .
+PMC2139800	false	sec-15	36	217	l-Afadin may be recruited to cell-to-cell AJ through its PDZ domain .
+PMC2139800	false	sec-15	36	218	To understand the mechanism by which l-afadin is localized at cell-to-cell AJ , it is of crucial importance to identify its interacting molecule ( s ) .
+PMC2139800	false	sec-15	37	219	Many F-actin-binding proteins , including alpha-actinin , talin , and vinculin , have been shown to serve as linkers between the actin cytoskeleton and integrin at cell-to-matrix AJ                        .
+PMC2139800	false	sec-15	37	220	The cytoplasmic domain of the beta-subunit of integrin interacts directly with alpha-actinin and talin and indirectly with vinculin through alpha-actinin and talin                        .
+PMC2139800	false	sec-15	37	221	At cell-to-cell AJ , the cytoplasmic domain of cadherin interacts with alpha-catenin through beta-catenin                                                                                   .
+PMC2139800	false	sec-15	37	222	alpha-Catenin interacts directly with F-actin                    , alpha-actinin                       , and ZO-1                    .
+PMC2139800	false	sec-15	37	223	Vinculin is highly concentrated at cell-to-cell AJ , but its interacting molecule has not yet been identified                                                  .
+PMC2139800	false	sec-15	37	224	We showed here that l-afadin was localized at cell-to-cell AJ .
+PMC2139800	false	sec-15	37	225	Therefore , the molecular linkage mechanism between the actin cytoskeleton and cadherin is apparently similar to that between the actin cytoskeleton and integrin in the sense that F-actin is linked to each transmembrane protein through multiple F-actin-binding proteins .
+PMC2139800	false	sec-15	38	226	The AF-6 gene has originally been identified as a fusion partner of the ALL-1 gene                      , which is known to be involved in acute leukemia                      .
+PMC2139800	false	sec-15	38	227	It has recently been shown that the AF-6 gene maps outside the minimal region of deletion in ovarian cancers with similar chromosomal aberrations                                        .
+PMC2139800	false	sec-15	38	228	However , neither the significance of the fusion of these two genes nor the role of s-afadin in carcinogenesis has been clarified .
+PMC2139800	false	sec-15	38	229	s-Afadin has recently been shown to have significant homology to the product of the Drosophila canoe gene ( Miyamato et al. , 1995 ) .
+PMC2139800	false	sec-15	38	230	The canoe gene interacts genetically with the Notch signal cascade in the eye , bristle , and wing development ( Miyamato et al. , 1995 ) .
+PMC2139800	false	sec-15	38	231	Moreover , the canoe gene interacts genetically with the armadillo ( beta-catenin ) gene ( Miyamato et al. , 1995 ) .
+PMC2139800	false	sec-15	38	232	The products of the Notch and armadillo genes have been implicated in adhesive cell-to-cell communications                                                       .
+PMC2139800	false	sec-15	38	233	l- and s-Afadins may also play a role in the development of various tissues by mediating interactions between the adhesive molecule initiated signal transduction pathways .
+PMC2139800	false	sec-15	39	234	The AF-6 protein ( s-afadin ) has recently been shown to interact specifically with the GTP bound active form of Ras small G protein                        ; however , we have not been able to reproduce this earlier finding .
+PMC2139800	false	sec-15	39	235	We found that both the GDP- and GTP bound forms of Ki-Ras interacted with l- and s-afadins to similar extents and that the stoichiometry of these interactions was negligible ( data not shown ) .
+PMC2139800	false	sec-15	39	236	Moreover , an immunofluorescence microscopic study of Madin-Darby canine kidney cells stably expressing an myc tagged dominant active mutant of Ki-Ras ( N12V ) or an myc tagged wild type of Ki-Ras showed that these two types of Ras are not concentrated at cell-to-cell AJ ( Takaishi , K. , and Y. Takai , unpublished observations ) .
+PMC2139800	false	sec-15	39	237	All of these results do not support the specific interaction of Ras with s-afadin , and the relationship between Ras and s-afadin is currently unknown .
+PMC2139800	false	fig-1	40	238	Mono Q column chromatography .
+PMC2139800	false	fig-1	40	239	( a ) Absorbance at 280 nm ( A280 ) .
+PMC2139800	false	fig-1	40	240	( b ) 125I labeled F-actin blot overlay .
+PMC2139800	false	fig-1	40	241	An aliquot ( 3 mul ) of each fraction was subjected to 125I labeled F-actin blot overlay .
+PMC2139800	false	fig-1	40	242	( c ) Protein staining with Coomassie brilliant blue .
+PMC2139800	false	fig-1	40	243	An aliquot ( 10 mul ) of each fraction was subjected to SDS-PAGE ( 8 % polyacrylamide gel ) , followed by protein staining with Coomassie brilliant blue .
+PMC2139800	false	fig-2	41	244	Schematic drawings of l-afadin ( p205 ) and s-afadin ( p190 ) cDNAs .
+PMC2139800	false	fig-2	41	245	( 1 ) alternative insertion of 21 bp ; ( 2 ) alternative insertion of 36 bp .
+PMC2139800	false	fig-2	41	246	The sequence data of the l- and s-afadin genes are available from GenBank/EMBL/DDBJ under accession numbers U83230 and U83231 , respectively .
+PMC2139800	false	fig-3	42	247	Domain organization of l-afadin ( p205 ) and s-afadin ( p190 ) .
+PMC2139800	false	fig-3	42	248	( a ) F-actin-binding activity of various fragments of recombinant l-afadin .
+PMC2139800	false	fig-3	42	249	Full-length l-afadin ( aa 1-1829 ) ( myc-l-afadin ) and its deletion mutant ( aa 1-1673 ) ( myc-l-afadinDeltaC ) were expressed as myc tagged proteins in COS7 cells .
+PMC2139800	false	fig-3	42	250	The COOH-terminal fragment ( aa 1631-1829 ) ( GST-l-afadin-C ) was expressed as a GST fusion protein in E. coli and was purified with glutathione-Sepharose .
+PMC2139800	false	fig-3	42	251	The extracts from the COS7 cells and the protein purified from the bacteria were subjected to a 125I labeled F-actin blot overlay .
+PMC2139800	false	fig-3	42	252	The extracts from the COS7 cells were subjected to Western blot analysis using the myc epitope antibody to confirm the expression amounts .
+PMC2139800	false	fig-3	42	253	( Left ) 125I labeled F-actin blot overlay ; ( right ) Western blot analysis using the anti-myc antibody .
+PMC2139800	false	fig-3	42	254	( Asterisks ) endogenous proteins of COS7 cells with 125I labeled F-actin-binding activity .
+PMC2139800	false	fig-3	42	255	( b ) Schematic drawings of l- and s-afadin structures .
+PMC2139800	false	fig-4	43	256	Tissue distribution of l-afadin .
+PMC2139800	false	fig-4	43	257	( a ) Northern blot analysis .
+PMC2139800	false	fig-4	43	258	A RNA blot membrane ( CLONTECH , Palo Alto , CA ) was hybridized with the 32P labeled fragment ( bp 5327-5812 ) of the l-afadin cDNA according to the manufacturer 's protocol .
+PMC2139800	false	fig-4	43	259	In addition to the ~ 7.5-kb mRNA of l-afadin , a smaller mRNA of ~ 4.2 kb was detected in several tissues , but significance of this is unknown .
+PMC2139800	false	fig-4	43	260	( b1 and b2 ) Western blot analyses .
+PMC2139800	false	fig-4	43	261	Various rat tissue homogenates ( 10 mug of protein each ) were subjected to SDS-PAGE ( 8 % polyacrylamide gel ) , followed by immunoblot using the anti-l-afadin ( b1 ) or the anti-l- and -s-afadin antibody ( b2 ) .
+PMC2139800	false	fig-4	43	262	The lower band in the heart lane with the anti-l-afadin antibody was nonspecific , since the treatment with the peptide that was used to raise the antibody did not quench this lower band , while it quenched the band with a molecular mass of ~ 205 kD ( l-afadin ) .
+PMC2139800	false	fig-5	44	263	Biochemical properties of l-afadin .
+PMC2139800	false	fig-5	44	264	( a ) Inhibition by myosin S1 of the binding of l-afadin to 125I labeled F-actin .
+PMC2139800	false	fig-5	44	265	The Mono Q sample of l-afadin ( 0.1 mug of protein ) was subjected to SDS-PAGE ( 8 % polyacrylamide gel ) , followed by the blot overlay with 125I labeled F-actin pretreated with myosin S1 in the presence or absence of ATP .
+PMC2139800	false	fig-5	44	266	( b ) Increase by l-afadin of the viscosity of F-actin .
+PMC2139800	false	fig-5	44	267	The viscosity of F-actin was measured by low shear viscometry .
+PMC2139800	false	fig-5	44	268	* , With l-afadin ; o , with alpha-actinin .
+PMC2139800	false	fig-5	44	269	( c ) Binding of His6-l-afadin-C to F-actin .
+PMC2139800	false	fig-5	44	270	The binding curve was generated by the cosedimentation of His6-l-afadin-C with F-actin .
+PMC2139800	false	fig-6	45	271	Localization of l-afadin , E-cadherin , and vinculin in various rat or mouse tissues .
+PMC2139800	false	fig-6	45	272	( a ) The staining of rat liver with the anti- l-afadin antibody .
+PMC2139800	false	fig-6	45	273	Arrow , longitudinal-section view of bile canaliculi ; arrowhead , cross-section view of bile canaliculi .
+PMC2139800	false	fig-6	45	274	( b1-b3 ) The double staining of mouse small intestinal epithelial cells with the anti-l-afadin and anti-E-cadherin antibodies : ( b1 ) l-afadin ; ( b2 ) E-cadherin ; ( b3 ) l-afadin and E-cadherin .
+PMC2139800	false	fig-6	45	275	Arrows , basal level ; arrowheads , apical level .
+PMC2139800	false	fig-6	45	276	( c1-c3 ) The double staining of the tangential section of mouse small intestinal cells at the level of the apical surface with the anti-l-afadin and anti-E-cadherin antibodies : ( c1 ) l-afadin ; ( c2 ) E-cadherin ; ( c3 ) l-afadin and E-cadherin .
+PMC2139800	false	fig-6	45	277	( d1-d3 ) The double staining of mouse heart with the anti-l-afadin and antivinculin antibodies .
+PMC2139800	false	fig-6	45	278	It should be noted that the staining of l-afadin is also associated with the blood vessels : ( d1 ) l-afadin ; ( d2 ) vinculin ; ( d3 ) l-afadin and vinculin .
+PMC2139800	false	fig-6	45	279	arrows , intercalated disc ; arrowhead , costamere ; double arrowheads , blood vessel .
+PMC2139800	false	fig-6	45	280	Bars : ( a and b ) 10 mum ; ( c ) 5 mum ; ( d ) 50 mum .
+PMC2139800	false	fig-7	46	281	Localization of l-afadin and ZO-1 in the EL cells expressing E-cadherin .
+PMC2139800	false	fig-7	46	282	The EL cells expressing E-cadherin were doubly stained with the anti-l-afadin and anti-ZO-1 antibodies .
+PMC2139800	false	fig-7	46	283	l-Afadin was concentrated at cell-to-cell AJ .
+PMC2139800	false	fig-7	46	284	There were perinuclear and nuclear stainings with this anti-l-afadin antibody , but its significance is not clear .
+PMC2139800	false	fig-7	46	285	( a ) l-afadin ; ( b ) ZO-1 .
+PMC2139800	false	fig-7	46	286	arrows , cell-to-cell AJ .
+PMC2139800	false	fig-7	46	287	Bar , 25 mum .
+PMC2139800	false	fig-8	47	288	Different localization of l-afadin , ZO-1 , and desmoplakin .
+PMC2139800	false	fig-8	47	289	( a1-a3 ) Localization of l-afadin and ZO-1 in mouse small intestine : ( a1 ) l-afadin ; ( a2 ) ZO-1 ; ( a3 ) l-afadin and ZO-1 .
+PMC2139800	false	fig-8	47	290	arrows , the sites where green ( ZO-1 ) , yellow ( the mixture of l-afadin and ZO-1 ) , and red ( l-afadin ) signals occurred in this order from the apical side to the basal side .
+PMC2139800	false	fig-8	47	291	( b1-b3 ) Localization of l-afadin and desmoplakin in the isolated bile canaliculi : ( b1 ) l-afadin ; ( b2 ) desmoplakin ; ( b3 ) l-afadin and desmoplakin .
+PMC2139800	false	fig-8	47	292	Asterisk , the inner space of the bile canaliculi .
+PMC2139800	false	fig-8	47	293	Bars : ( a ) 15 mum ; ( b ) 5 mum .
+PMC2139800	false	fig-9	48	294	Ultrastructural localization of l-afadin in rat small intestine .
+PMC2139800	false	fig-9	48	295	Intestinal epithelial cells were labeled singly with the anti-l-afadin antibody .
+PMC2139800	false	fig-9	48	296	( a ) silver enhancement technique ; ( b ) ultrathin cryosection technique .
+PMC2139800	false	fig-9	48	297	Open arrow , tight junction ; closed arrow , cell-to-cell AJ ; mv , microvilli .
+PMC2139800	false	fig-9	48	298	Bars , 0.2 mum .
+PMC2139800	false	fig-8	49	299	We thank Dr. M. Takeichi ( Kyoto University , Kyoto , Japan ) for providing the EL cells expressing E-cadherin , and Dr. M. Imamura ( National Institute of Neuroscience , Kodaira , Japan ) for providing us the recombinant chick lung type alpha-actinin .
+PMC2139800	false	fig-6	50	300	amino acid
+PMC2139800	false	fig-5	51	301	adherens junction
+PMC2139800	false	fig-4	52	302	actin filament
+PMC2139800	false	fig-2	53	303	actin monomer
+PMC2139800	false	fig-1	54	304	glutathione S-transferase
+PMC2139800	false	sec-16	55	305	six histidine residues
+PMC2139800	false	sec-15	56	306	a large splicing variant of AF-6 protein localized at adherens junction
+PMC2139800	false	sec-13	57	307	a small splicing variant of l-afadin
+PMC2139800	false	sec-13	58	308	Address all correspondence to Y. Takai , Department of Molecular Biology and Biochemistry , Osaka University Medical School , Suita 565 , Osaka , Japan .
+PMC2139800	false	sec-13	58	309	Tel. : 81-6-879-3410 .
+PMC2139800	false	sec-13	58	310	Fax : 81-6-879-3419 .
+PMC2139800	false	sec-13	58	311	E-mail : ytakai@molbio.med.osaka-u.ac.jp

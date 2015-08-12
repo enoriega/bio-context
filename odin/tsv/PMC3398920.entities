@@ -1,0 +1,48 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC3398920	1	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC3398920	1	uniprot:UNRESOLVED ID	RhoGDIs	Gene_or_gene_product
+PMC3398920	1	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC3398920	1	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC3398920	3	uniprot:P31749	Rac	Gene_or_gene_product
+PMC3398920	4	uniprot:P10911	Dbl	Gene_or_gene_product
+PMC3398920	4	uniprot:Q14155	ArhGEF7	Gene_or_gene_product
+PMC3398920	4	uniprot:Q13153	Pak1	Gene_or_gene_product
+PMC3398920	4	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC3398920	5	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC3398920	5	uniprot:UNRESOLVED ID	F-actin-rich juxtamembrane areas	Gene_or_gene_product
+PMC3398920	5	uniprot:Q13153	Pak1	Gene_or_gene_product
+PMC3398920	6	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC3398920	6	uniprot:UNRESOLVED ID	integrins	Gene_or_gene_product
+PMC3398920	6	uniprot:UNRESOLVED ID	T-cell	CellType
+PMC3398920	8	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC3398920	11	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC3398920	11	ncbitax:species:ncbi:9796	horses	Species
+PMC3398920	11	uniprot:UNRESOLVED ID	TVF	Gene_or_gene_product
+PMC3398920	11	ncbitax:species:ncbi:9598	chimpanzees	Species
+PMC3398920	11	uniprot:UNRESOLVED ID	LQL	Gene_or_gene_product
+PMC3398920	12	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC3398920	13	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC3398920	13	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC3398920	15	uniprot:P03372	ER	Gene_or_gene_product
+PMC3398920	15	uniprot:P20936	GAP	Gene_or_gene_product
+PMC3398920	15	uniprot:P20936	GTPase activating protein	Gene_or_gene_product
+PMC3398920	15	uniprot:P39900	Me	Gene_or_gene_product
+PMC3398920	15	uniprot:P01009	Pi	Gene_or_gene_product
+PMC3398920	15	uniprot:P13678	PKC	Gene_or_gene_product
+PMC3398920	15	uniprot:UNRESOLVED ID	PRR BP	Gene_or_gene_product
+PMC3398920	19	ncbitax:species:ncbi:9606	human	Species
+PMC3398920	20	uniprot:UNRESOLVED ID	cytoplasmic EGFP-Rac1 protein	Gene_or_gene_product
+PMC3398920	20	uniprot:P54829	step	Gene_or_gene_product
+PMC3398920	22	uniprot:P54829	step	Gene_or_gene_product
+PMC3398920	22	uniprot:UNRESOLVED ID	EGFP-Rac1	Gene_or_gene_product
+PMC3398920	23	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC3398920	23	uniprot:P54829	step	Gene_or_gene_product
+PMC3398920	24	uniprot:P31146	Coro1A	Gene_or_gene_product
+PMC3398920	28	uniprot:P31146	Coro1A	Gene_or_gene_product
+PMC3398920	28	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC3398920	29	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC3398920	29	uniprot:P31146	Coro1A	Gene_or_gene_product
+PMC3398920	30	uniprot:P31146	Coro1A	Gene_or_gene_product
+PMC3398920	30	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC3398920	31	uniprot:UNRESOLVED ID	Rac1 GEF	Gene_or_gene_product
+PMC3398920	31	uniprot:Q14155	ArhGEF7	Gene_or_gene_product

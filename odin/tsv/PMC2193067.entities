@@ -1,0 +1,488 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2193067	0	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	0	uniprot:UNRESOLVED ID	Alveolar Macrophage	CellType
+PMC2193067	1	uazid:UA-CT-16	macrophages	CellType
+PMC2193067	1	uniprot:UNRESOLVED ID	scavenger-type receptors	Gene_or_gene_product
+PMC2193067	2	uniprot:O89094	mice	Species
+PMC2193067	2	uazid:UA-CT-16	macrophage	CellType
+PMC2193067	2	uniprot:O76070	SR	Gene_or_gene_product
+PMC2193067	2	uniprot:UNRESOLVED ID	AII	Gene_or_gene_product
+PMC2193067	2	uniprot:O76070	SR-/-	Gene_or_gene_product
+PMC2193067	2	uniprot:UNRESOLVED ID	SR+/+	Gene_or_gene_product
+PMC2193067	3	uniprot:Q8VXG7	PAL-1	Gene_or_gene_product
+PMC2193067	3	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	3	uniprot:UNRESOLVED ID	Fe2O3	Gene_or_gene_product
+PMC2193067	3	uniprot:UNRESOLVED ID	latex	CellType
+PMC2193067	4	uniprot:UNRESOLVED ID	~70 kD	Gene_or_gene_product
+PMC2193067	4	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	4	uazid:UA-CT-16	macrophages	CellType
+PMC2193067	5	uniprot:UNRESOLVED ID	mAb PAL-1-reactive protein	Gene_or_gene_product
+PMC2193067	5	ncbitax:species:ncbi:10090	mouse	Species
+PMC2193067	5	ncbitax:species:ncbi:9606	human	Species
+PMC2193067	5	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	6	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	7	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	7	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	7	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	8	ncbitax:species:ncbi:9606	human	Species
+PMC2193067	8	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	8	uniprot:P19835	BAL	Gene_or_gene_product
+PMC2193067	8	uazid:UA-ORG-537	lung	Organ
+PMC2193067	9	ncbitax:species:ncbi:10090	mouse	Species
+PMC2193067	9	uniprot:UNRESOLVED ID	anti-MARCO mAb ED31	Gene_or_gene_product
+PMC2193067	9	uniprot:UNRESOLVED ID	TiO2 ~40%	Gene_or_gene_product
+PMC2193067	10	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	10	uazid:UA-ORG-537	lungs	Organ
+PMC2193067	11	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	11	uniprot:UNRESOLVED ID	Fe2O3	Gene_or_gene_product
+PMC2193067	11	uazid:UA-CT-200001	Brain	Organ
+PMC2193067	12	ncbitax:species:ncbi:41568	mum	Species
+PMC2193067	13	uniprot:UNRESOLVED ID	Latex	CellType
+PMC2193067	13	ncbitax:species:ncbi:41568	mum	Species
+PMC2193067	14	uniprot:UNRESOLVED ID	BSS- [124 mM NaCl, 5.8 mM KCl	Gene_or_gene_product
+PMC2193067	15	uniprot:UNRESOLVED ID	Anti-TNP	Gene_or_gene_product
+PMC2193067	15	uniprot:UNRESOLVED ID	PharMingen	Gene_or_gene_product
+PMC2193067	15	uniprot:UNRESOLVED ID	Seikagaku Corp.	Gene_or_gene_product
+PMC2193067	15	ncbitax:species:ncbi:9606	human	Species
+PMC2193067	15	uniprot:Q2G0B1	rat	Species
+PMC2193067	16	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	16	ncbitax:species:ncbi:9986	rabbits	Species
+PMC2193067	17	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	17	uniprot:UNRESOLVED ID	ED31	Gene_or_gene_product
+PMC2193067	17	uniprot:UNRESOLVED ID	IgG1	Gene_or_gene_product
+PMC2193067	20	uniprot:O89094	mice	Species
+PMC2193067	21	uniprot:O89094	Mice	Species
+PMC2193067	22	uazid:UA-ORG-537	lung	Organ
+PMC2193067	23	uniprot:UNRESOLVED ID	hybridoma	CellType
+PMC2193067	23	uniprot:UNRESOLVED ID	ml cytochalasin D	Gene_or_gene_product
+PMC2193067	23	uniprot:Q9UJT0	tube	Gene_or_gene_product
+PMC2193067	26	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	27	uniprot:UNRESOLVED ID	Latex	CellType
+PMC2193067	28	ncbitax:species:ncbi:4932	yeast	Species
+PMC2193067	29	ncbitax:species:ncbi:4932	yeast	Species
+PMC2193067	30	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	31	uniprot:O89094	Mice	Species
+PMC2193067	31	uniprot:UNRESOLVED ID	BSS+	Gene_or_gene_product
+PMC2193067	31	uazid:UA-ORG-537	lungs	Organ
+PMC2193067	32	uniprot:P19835	BAL	Gene_or_gene_product
+PMC2193067	33	uniprot:UNRESOLVED ID	mAb	Gene_or_gene_product
+PMC2193067	34	uniprot:O89094	mice	Species
+PMC2193067	35	uniprot:O89094	mice	Species
+PMC2193067	35	uazid:UA-CT-200004	spleens	Organ
+PMC2193067	36	ncbitax:species:ncbi:10090	mouse	Species
+PMC2193067	36	uniprot:UNRESOLVED ID	myeloma	CellType
+PMC2193067	36	uniprot:UNRESOLVED ID	P3U1	Gene_or_gene_product
+PMC2193067	37	uniprot:UNRESOLVED ID	hybridoma	CellType
+PMC2193067	37	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	38	uniprot:UNRESOLVED ID	mM NaCl, 2 mM CaCl2, 2 mM MgCl2	Gene_or_gene_product
+PMC2193067	38	uniprot:P10265	protease	Gene_or_gene_product
+PMC2193067	39	uniprot:Q2G0B1	rat	Species
+PMC2193067	40	uniprot:UNRESOLVED ID	mAbs PAL-1	Gene_or_gene_product
+PMC2193067	40	uniprot:Q92834	RP-3	Gene_or_gene_product
+PMC2193067	40	uniprot:Q2G0B1	rat	Species
+PMC2193067	41	uniprot:P10265	protease	Gene_or_gene_product
+PMC2193067	41	uniprot:UNRESOLVED ID	avidin- HRP conjugate	Gene_or_gene_product
+PMC2193067	43	uniprot:Q96T53	goat	Species
+PMC2193067	43	ncbitax:species:ncbi:10090	mouse	Species
+PMC2193067	43	uniprot:UNRESOLVED ID	antiperoxidase	Gene_or_gene_product
+PMC2193067	44	uniprot:Q05855	peroxidase	Gene_or_gene_product
+PMC2193067	44	uniprot:UNRESOLVED ID	antiperoxidase	Gene_or_gene_product
+PMC2193067	45	uniprot:UNRESOLVED ID	Paraffin	Gene_or_gene_product
+PMC2193067	45	ncbitax:species:ncbi:9606	human	Species
+PMC2193067	45	uazid:UA-ORG-537	lung	Organ
+PMC2193067	45	uniprot:P02701	avidin	Gene_or_gene_product
+PMC2193067	46	uniprot:UNRESOLVED ID	hematoxylin	Gene_or_gene_product
+PMC2193067	46	uniprot:O43557	light	Gene_or_gene_product
+PMC2193067	47	uniprot:UNRESOLVED ID	Seed	CellType
+PMC2193067	49	uniprot:Q8VXG7	PAL-1	Gene_or_gene_product
+PMC2193067	50	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	52	uniprot:Q86XP6	Blot	Gene_or_gene_product
+PMC2193067	53	ncbitax:species:ncbi:9606	Human	Species
+PMC2193067	53	uniprot:P19835	BAL	Gene_or_gene_product
+PMC2193067	55	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2193067	55	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2193067	55	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	55	uniprot:UNRESOLVED ID	avidin-HRP	Gene_or_gene_product
+PMC2193067	56	uniprot:Q9UNW9	ANOVA	Gene_or_gene_product
+PMC2193067	56	uniprot:UNRESOLVED ID	paired	Gene_or_gene_product
+PMC2193067	58	uniprot:Q3Z1M3	SR-A	Gene_or_gene_product
+PMC2193067	58	uniprot:UNRESOLVED ID	I/II) receptors	Gene_or_gene_product
+PMC2193067	58	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	58	uniprot:Q37972	I/II	Gene_or_gene_product
+PMC2193067	58	uniprot:O89094	mice	Species
+PMC2193067	58	uniprot:UNRESOLVED ID	SR-A+/+	Gene_or_gene_product
+PMC2193067	59	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	59	uniprot:Q3Z1M3	SR-A-/-	Gene_or_gene_product
+PMC2193067	59	uniprot:UNRESOLVED ID	SR-A+/+ AMs	Gene_or_gene_product
+PMC2193067	60	uniprot:Q3Z1M3	SR-A-/-	Gene_or_gene_product
+PMC2193067	60	uniprot:UNRESOLVED ID	SR-A+/+ AMs	Gene_or_gene_product
+PMC2193067	61	uniprot:UNRESOLVED ID	SR-A-/- AMs	Gene_or_gene_product
+PMC2193067	61	uniprot:UNRESOLVED ID	latex	CellType
+PMC2193067	62	uniprot:P01009	PI	Gene_or_gene_product
+PMC2193067	62	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	62	uniprot:Q3Z1M3	SR-A-/-	Gene_or_gene_product
+PMC2193067	62	uniprot:UNRESOLVED ID	SR+/+ AMs	Gene_or_gene_product
+PMC2193067	63	uniprot:O75390	CS	Gene_or_gene_product
+PMC2193067	64	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	65	uniprot:O89094	mice	Species
+PMC2193067	65	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	66	uniprot:O89094	mice	Species
+PMC2193067	66	uniprot:P19835	BAL	Gene_or_gene_product
+PMC2193067	66	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	67	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2193067	68	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	69	uniprot:Q3Z1M3	SR-A	Gene_or_gene_product
+PMC2193067	70	uniprot:UNRESOLVED ID	SRs	Gene_or_gene_product
+PMC2193067	70	uniprot:Q3Z1M3	SR-A	Gene_or_gene_product
+PMC2193067	71	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	71	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	72	uniprot:O89094	mice	Species
+PMC2193067	72	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	73	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2193067	74	uniprot:UNRESOLVED ID	scavenger receptor ligand	Gene_or_gene_product
+PMC2193067	74	uniprot:P01009	PI	Gene_or_gene_product
+PMC2193067	74	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	74	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	75	uniprot:Q8VXG7	PAL-1	Gene_or_gene_product
+PMC2193067	75	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	75	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	76	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	76	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	77	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	77	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	77	uniprot:UNRESOLVED ID	Fe2O3	Gene_or_gene_product
+PMC2193067	77	uniprot:UNRESOLVED ID	quartz	Gene_or_gene_product
+PMC2193067	77	uniprot:UNRESOLVED ID	SiO2	Gene_or_gene_product
+PMC2193067	77	uniprot:UNRESOLVED ID	latex	CellType
+PMC2193067	78	uniprot:Q8VXG7	PAL-1	Gene_or_gene_product
+PMC2193067	78	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	78	uniprot:UNRESOLVED ID	Fe2O3	Gene_or_gene_product
+PMC2193067	78	uniprot:UNRESOLVED ID	SiO2	Gene_or_gene_product
+PMC2193067	78	uniprot:UNRESOLVED ID	latex	CellType
+PMC2193067	79	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	79	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	80	uniprot:O42043	Surface Protein	Gene_or_gene_product
+PMC2193067	80	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	81	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	82	uniprot:Q8VXG7	PAL-1	Gene_or_gene_product
+PMC2193067	82	uniprot:UNRESOLVED ID	SDS-PAGE (Fig.   . In both reducing and nonreducing conditions, a single band with an apparent molecular mass of  70 kD was detected in lysates of normal AMs (Fig.   . This band was absent from cells precipitated with an isotype-matched (IgM) negative control antibody	Gene_or_gene_product
+PMC2193067	83	uniprot:UNRESOLVED ID	Antigen	Gene_or_gene_product
+PMC2193067	84	uniprot:Q8VXG7	PAL-1	Gene_or_gene_product
+PMC2193067	84	uazid:UA-CT-16	macrophages	CellType
+PMC2193067	84	uazid:UA-ORG-539	lymph	Organ
+PMC2193067	84	uniprot:P06231	node	Organ
+PMC2193067	84	uazid:UA-ORG-878	sinuses	Organ
+PMC2193067	84	uazid:UA-ORG-520	liver	Organ
+PMC2193067	85	uazid:UA-CT-16	Macrophages	CellType
+PMC2193067	85	uazid:UA-ORG-770	pulp	Organ
+PMC2193067	85	uniprot:UNRESOLVED ID	Peyer's patch	CellType
+PMC2193067	85	uazid:UA-ORG-996	thymus	Organ
+PMC2193067	86	uazid:UA-ORG-882	skin	Organ
+PMC2193067	86	uazid:UA-CT-200001	brain	Organ
+PMC2193067	86	uazid:UA-ORG-385	heart	Organ
+PMC2193067	86	uazid:UA-ORG-917	stomach	Organ
+PMC2193067	86	uazid:UA-ORG-759	prostate	Organ
+PMC2193067	86	uazid:UA-ORG-461	kidney	Organ
+PMC2193067	87	uniprot:Q8VXG7	PAL-1	Gene_or_gene_product
+PMC2193067	88	uazid:UA-CT-22	Lymphocytes	CellType
+PMC2193067	88	uazid:UA-ORG-539	lymph	Organ
+PMC2193067	88	uazid:UA-ORG-626	nodes	Organ
+PMC2193067	89	uazid:UA-CT-16	macrophages	CellType
+PMC2193067	89	uazid:UA-ORG-624	neutrophils	Organ
+PMC2193067	89	uazid:UA-CT-24	monocytes	CellType
+PMC2193067	90	uniprot:UNRESOLVED ID	Particle Adhesion Receptor	Gene_or_gene_product
+PMC2193067	91	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	92	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	94	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2193067	96	ncbitax:species:ncbi:9606	human	Species
+PMC2193067	96	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	96	ncbitax:species:ncbi:10090	mouse	Species
+PMC2193067	97	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	98	ncbitax:species:ncbi:9606	human	Species
+PMC2193067	98	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	99	ncbitax:species:ncbi:10090	mouse	Species
+PMC2193067	99	ncbitax:species:ncbi:9606	human	Species
+PMC2193067	99	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	100	ncbitax:species:ncbi:10090	mouse	Species
+PMC2193067	100	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	100	ncbitax:species:ncbi:9606	human	Species
+PMC2193067	101	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	101	ncbitax:species:ncbi:9606	human	Species
+PMC2193067	101	ncbitax:species:ncbi:10090	mouse	Species
+PMC2193067	102	uniprot:UNRESOLVED ID	SRCR	Gene_or_gene_product
+PMC2193067	103	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	103	ncbitax:species:ncbi:9606	human	Species
+PMC2193067	104	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	104	uniprot:UNRESOLVED ID	mAb PAL-1-inhibitable TiO2	Gene_or_gene_product
+PMC2193067	105	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	106	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2193067	107	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	107	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	108	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	108	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	108	uniprot:UNRESOLVED ID	anti-MARCO mAb PAL-1	Gene_or_gene_product
+PMC2193067	108	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2193067	110	uniprot:P16070	CD44	Gene_or_gene_product
+PMC2193067	110	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	110	uniprot:P01009	PI	Gene_or_gene_product
+PMC2193067	110	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	110	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	111	uniprot:UNRESOLVED ID	particle-binding receptor	Gene_or_gene_product
+PMC2193067	111	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	112	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	112	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	113	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	113	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	113	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	114	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2193067	115	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	115	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	116	uniprot:Q8VXG7	PAL-1	Gene_or_gene_product
+PMC2193067	116	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	117	ncbitax:species:ncbi:4932	yeast	Species
+PMC2193067	118	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	118	ncbitax:species:ncbi:9606	human	Species
+PMC2193067	118	ncbitax:species:ncbi:10090	mouse	Species
+PMC2193067	118	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	118	ncbitax:species:ncbi:4932	yeast	Species
+PMC2193067	119	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	119	ncbitax:species:ncbi:9606	Human	Species
+PMC2193067	120	ncbitax:species:ncbi:9606	human	Species
+PMC2193067	120	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	120	uazid:UA-ORG-537	lungs	Organ
+PMC2193067	121	ncbitax:species:ncbi:9606	human	Species
+PMC2193067	121	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	122	ncbitax:species:ncbi:9606	human	Species
+PMC2193067	122	uniprot:P19835	BAL	Gene_or_gene_product
+PMC2193067	122	uazid:UA-ORG-537	lung	Organ
+PMC2193067	122	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2193067	123	ncbitax:species:ncbi:9606	human	Species
+PMC2193067	123	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2193067	124	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	124	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2193067	128	ncbitax:species:ncbi:9606	human	Species
+PMC2193067	128	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	129	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	129	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	129	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	130	ncbitax:species:ncbi:10090	mouse	Species
+PMC2193067	130	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	130	uazid:UA-CT-16	macrophages	CellType
+PMC2193067	131	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	131	ncbitax:species:ncbi:10090	mouse	Species
+PMC2193067	131	uazid:UA-ORG-537	lungs	Organ
+PMC2193067	131	ncbitax:species:ncbi:9606	human	Species
+PMC2193067	131	uniprot:UNRESOLVED ID	anti-MARCO mAb ED31	Gene_or_gene_product
+PMC2193067	132	uniprot:UNRESOLVED ID	ED31	Gene_or_gene_product
+PMC2193067	132	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	132	ncbitax:species:ncbi:10090	mouse	Species
+PMC2193067	133	uniprot:O76070	SR	Gene_or_gene_product
+PMC2193067	133	uniprot:P01009	PI	Gene_or_gene_product
+PMC2193067	133	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	133	uniprot:O76070	SR-/-	Gene_or_gene_product
+PMC2193067	133	uniprot:UNRESOLVED ID	SR+/+	Gene_or_gene_product
+PMC2193067	133	uniprot:O89094	mice	Species
+PMC2193067	133	uniprot:O75390	CS	Gene_or_gene_product
+PMC2193067	134	uniprot:UNRESOLVED ID	SR-/- AMs	Gene_or_gene_product
+PMC2193067	134	uniprot:UNRESOLVED ID	ED31	Gene_or_gene_product
+PMC2193067	134	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	135	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	135	uniprot:UNRESOLVED ID	SR+/+	Gene_or_gene_product
+PMC2193067	135	uniprot:UNRESOLVED ID	anti-MARCO mAb	Gene_or_gene_product
+PMC2193067	136	uniprot:UNRESOLVED ID	IgG1	Gene_or_gene_product
+PMC2193067	137	ncbitax:species:ncbi:10090	mouse	Species
+PMC2193067	137	uniprot:UNRESOLVED ID	latex	CellType
+PMC2193067	138	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	138	ncbitax:species:ncbi:10090	mouse	Species
+PMC2193067	139	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	140	uazid:UA-ORG-537	lung	Organ
+PMC2193067	145	uniprot:Q8VXG7	PAL-1	Gene_or_gene_product
+PMC2193067	146	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	146	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	147	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	147	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	148	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	149	uniprot:UNRESOLVED ID	serum	CellType
+PMC2193067	150	uniprot:UNRESOLVED ID	opsonin	Gene_or_gene_product
+PMC2193067	151	uniprot:UNRESOLVED ID	opsonin	Gene_or_gene_product
+PMC2193067	151	uniprot:UNRESOLVED ID	Fcgamma receptor	Gene_or_gene_product
+PMC2193067	151	uniprot:UNRESOLVED ID	complement receptor CR3	Gene_or_gene_product
+PMC2193067	152	uniprot:UNRESOLVED ID	collectin receptor	Gene_or_gene_product
+PMC2193067	152	uniprot:UNRESOLVED ID	opsonin	Gene_or_gene_product
+PMC2193067	153	uniprot:UNRESOLVED ID	opsonin	Gene_or_gene_product
+PMC2193067	153	uniprot:UNRESOLVED ID	scavenger receptor	Gene_or_gene_product
+PMC2193067	153	uniprot:UNRESOLVED ID	mannose receptor	Gene_or_gene_product
+PMC2193067	153	uniprot:P04004	vitronectin	Gene_or_gene_product
+PMC2193067	153	uniprot:UNRESOLVED ID	vitronectin receptor	Gene_or_gene_product
+PMC2193067	153	uniprot:UNRESOLVED ID	asialoglycoprotein receptor	Gene_or_gene_product
+PMC2193067	153	uniprot:UNRESOLVED ID	beta2 integrins	Gene_or_gene_product
+PMC2193067	154	uniprot:UNRESOLVED ID	SRs	Gene_or_gene_product
+PMC2193067	154	uazid:UA-CT-16	macrophages	CellType
+PMC2193067	155	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	155	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	155	uniprot:UNRESOLVED ID	Fe2O3	Gene_or_gene_product
+PMC2193067	155	uniprot:UNRESOLVED ID	SiO2	Gene_or_gene_product
+PMC2193067	155	uniprot:UNRESOLVED ID	latex	CellType
+PMC2193067	155	uniprot:O76070	SR	Gene_or_gene_product
+PMC2193067	155	uniprot:P01009	PI	Gene_or_gene_product
+PMC2193067	156	uniprot:Q3Z1M3	SR-A	Gene_or_gene_product
+PMC2193067	156	uniprot:Q37972	I/II	Gene_or_gene_product
+PMC2193067	156	uniprot:O89094	mice	Species
+PMC2193067	157	uazid:UA-CT-16	macrophages	CellType
+PMC2193067	158	uniprot:UNRESOLVED ID	scavenger receptor	Gene_or_gene_product
+PMC2193067	158	uniprot:P01009	PI	Gene_or_gene_product
+PMC2193067	158	uazid:UA-CT-16	macrophages	CellType
+PMC2193067	158	uniprot:O76070	SR	Gene_or_gene_product
+PMC2193067	158	uniprot:UNRESOLVED ID	opsonin	Gene_or_gene_product
+PMC2193067	159	uniprot:Q8VXG7	PAL-1	Gene_or_gene_product
+PMC2193067	159	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	160	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	162	uniprot:UNRESOLVED ID	particle adhesion receptor	Gene_or_gene_product
+PMC2193067	163	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	164	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	164	uniprot:UNRESOLVED ID	AM receptor	Gene_or_gene_product
+PMC2193067	165	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	167	uniprot:UNRESOLVED ID	particle-binding receptor	Gene_or_gene_product
+PMC2193067	168	uniprot:UNRESOLVED ID	lung epithelial cell	CellType
+PMC2193067	168	uniprot:P01009	PI	Gene_or_gene_product
+PMC2193067	169	uniprot:UNRESOLVED ID	particle-binding receptor	Gene_or_gene_product
+PMC2193067	169	ncbitax:species:ncbi:9606	human	Species
+PMC2193067	169	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	169	ncbitax:species:ncbi:10090	mouse	Species
+PMC2193067	170	ncbitax:species:ncbi:9606	human	Species
+PMC2193067	170	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	171	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2193067	174	uniprot:UNRESOLVED ID	SRCR	Gene_or_gene_product
+PMC2193067	175	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	175	ncbitax:species:ncbi:10090	mouse	Species
+PMC2193067	175	ncbitax:species:ncbi:9606	human	Species
+PMC2193067	175	ncbitax:species:ncbi:4932	yeast	Species
+PMC2193067	175	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2193067	177	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	178	ncbitax:species:ncbi:9606	human	Species
+PMC2193067	178	ncbitax:species:ncbi:10090	mouse	Species
+PMC2193067	178	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	178	uazid:UA-ORG-537	lung	Organ
+PMC2193067	179	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	179	uazid:UA-ORG-537	lungs	Organ
+PMC2193067	180	uniprot:O89094	mice	Species
+PMC2193067	181	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	181	uazid:UA-ORG-537	lung	Organ
+PMC2193067	181	uazid:UA-ORG-520	liver	Organ
+PMC2193067	181	uazid:UA-CT-16	macrophages	CellType
+PMC2193067	181	uniprot:O89094	mice	Species
+PMC2193067	181	ncbitax:species:ncbi:573	Klebsiella pneumoniae	Species
+PMC2193067	182	uniprot:O89094	mice	Species
+PMC2193067	182	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	183	uniprot:P01009	PI	Gene_or_gene_product
+PMC2193067	183	uniprot:UNRESOLVED ID	ED31	Gene_or_gene_product
+PMC2193067	183	ncbitax:species:ncbi:10090	mouse	Species
+PMC2193067	185	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	185	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	186	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	186	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	187	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	188	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	188	uazid:UA-ORG-537	lung	Organ
+PMC2193067	189	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	190	uniprot:O76070	SR-/-	Gene_or_gene_product
+PMC2193067	190	uniprot:UNRESOLVED ID	SR+/+	Gene_or_gene_product
+PMC2193067	191	uniprot:O76070	SR-/-	Gene_or_gene_product
+PMC2193067	191	uniprot:UNRESOLVED ID	SR+/+ AMs	Gene_or_gene_product
+PMC2193067	191	uniprot:O76070	SR	Gene_or_gene_product
+PMC2193067	191	uniprot:P01009	PI	Gene_or_gene_product
+PMC2193067	191	uniprot:O75390	CS	Gene_or_gene_product
+PMC2193067	191	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	192	uniprot:O76070	SR-/-	Gene_or_gene_product
+PMC2193067	192	uniprot:UNRESOLVED ID	SR+/+ AMs	Gene_or_gene_product
+PMC2193067	192	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	192	uniprot:P19835	BAL	Gene_or_gene_product
+PMC2193067	193	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	194	uniprot:O89094	mice	Species
+PMC2193067	195	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	196	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	196	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	196	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	197	uniprot:P01009	PI	Gene_or_gene_product
+PMC2193067	197	uniprot:O75390	CS	Gene_or_gene_product
+PMC2193067	197	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	197	uniprot:UNRESOLVED ID	IgM	Gene_or_gene_product
+PMC2193067	197	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	198	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	200	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	201	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	201	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	202	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	203	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	203	uniprot:UNRESOLVED ID	Fe2O3	Gene_or_gene_product
+PMC2193067	203	uniprot:UNRESOLVED ID	SiO2	Gene_or_gene_product
+PMC2193067	203	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	204	uniprot:UNRESOLVED ID	IgM	Gene_or_gene_product
+PMC2193067	205	uniprot:UNRESOLVED ID	AM surface protein	Gene_or_gene_product
+PMC2193067	205	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	206	uniprot:UNRESOLVED ID	sulfo-NHS-biotin	Gene_or_gene_product
+PMC2193067	206	uniprot:UNRESOLVED ID	anti-mouse IgM magnetic beads	Gene_or_gene_product
+PMC2193067	206	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	206	uniprot:UNRESOLVED ID	IgM	Gene_or_gene_product
+PMC2193067	207	uniprot:P49102	NR	Gene_or_gene_product
+PMC2193067	209	uniprot:Q8VXG7	PAL-1	Gene_or_gene_product
+PMC2193067	210	uniprot:P19835	BAL	Gene_or_gene_product
+PMC2193067	211	uazid:UA-ORG-537	lung	Organ
+PMC2193067	211	uazid:UA-ORG-520	liver	Organ
+PMC2193067	211	uazid:UA-ORG-539	lymph	Organ
+PMC2193067	211	uazid:UA-ORG-626	nodes	Organ
+PMC2193067	211	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	212	uniprot:P19835	BAL	Gene_or_gene_product
+PMC2193067	213	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	214	uazid:UA-ORG-153	cervical lymph node	Organ
+PMC2193067	214	uniprot:P0DMT0	MLN	Gene_or_gene_product
+PMC2193067	214	uazid:UA-ORG-539	lymph	Organ
+PMC2193067	214	uniprot:P06231	node	Organ
+PMC2193067	214	uniprot:P01298	PP	Gene_or_gene_product
+PMC2193067	214	uniprot:UNRESOLVED ID	Peyer's patch	CellType
+PMC2193067	214	uazid:UA-ORG-624	neutrophils	Organ
+PMC2193067	214	uniprot:P19835	BAL	Gene_or_gene_product
+PMC2193067	214	uniprot:P35318	AM	Gene_or_gene_product
+PMC2193067	214	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	214	uniprot:Q96T53	goat	Species
+PMC2193067	216	uniprot:UNRESOLVED ID	IgM	Gene_or_gene_product
+PMC2193067	216	uniprot:Q8VXG7	PAL-1	Gene_or_gene_product
+PMC2193067	217	uniprot:Q8VXG7	PAL-1	Gene_or_gene_product
+PMC2193067	218	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	219	uniprot:UNRESOLVED ID	Control IgM antibody	Gene_or_gene_product
+PMC2193067	220	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	220	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	220	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	221	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	221	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	221	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	223	uniprot:UNRESOLVED ID	TiO2	Gene_or_gene_product
+PMC2193067	224	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	230	ncbitax:species:ncbi:10090	mouse	Species
+PMC2193067	230	ncbitax:species:ncbi:9606	human	Species
+PMC2193067	230	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	234	ncbitax:species:ncbi:10090	Mouse	Species
+PMC2193067	234	ncbitax:species:ncbi:9606	Human	Species
+PMC2193067	234	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	235	uniprot:UNRESOLVED ID	http://biology.ncsa.uiuc.edu	Gene_or_gene_product
+PMC2193067	236	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	236	ncbitax:species:ncbi:4932	yeast	Species
+PMC2193067	237	uniprot:P01009	PI	Gene_or_gene_product
+PMC2193067	237	uniprot:O75390	CS	Gene_or_gene_product
+PMC2193067	237	uniprot:UNRESOLVED ID	mAb PAL-1	Gene_or_gene_product
+PMC2193067	237	uniprot:UNRESOLVED ID	IgM	Gene_or_gene_product
+PMC2193067	238	ncbitax:species:ncbi:4932	yeast	Species
+PMC2193067	241	ncbitax:species:ncbi:9606	Human	Species
+PMC2193067	241	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	242	uniprot:P19835	BAL	Gene_or_gene_product
+PMC2193067	242	uazid:UA-ORG-537	lung	Organ
+PMC2193067	242	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2193067	242	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	242	uniprot:UNRESOLVED ID	IgG	Gene_or_gene_product
+PMC2193067	243	uniprot:P19835	BAL	Gene_or_gene_product
+PMC2193067	243	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2193067	243	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	243	uniprot:P40313	Ctrl	Gene_or_gene_product
+PMC2193067	245	uniprot:Q9UEW3	MARCO	Gene_or_gene_product
+PMC2193067	246	uniprot:UNRESOLVED ID	alveolar macrophage	CellType
+PMC2193067	249	uniprot:UNRESOLVED ID	scavenger receptor	Gene_or_gene_product

@@ -1,0 +1,8 @@
+Paper ID	Line Num	Master ID	Dependent ID	Text	Type
+PMC2861648	8	ncbitax:species:ncbi:9606	uniprot:UNRESOLVED ID	retinoblastoma in children	ContextLocation
+PMC2861648	25	ncbitax:species:ncbi:6239	uniprot:UNRESOLVED ID	lin35 in C. elegans	ContextLocation
+PMC2861648	110	uazid:UA-ORG-248	uniprot:P35855	BMP and p63 in the double knockout epidermis	ContextLocation
+PMC2861648	123	uazid:UA-CT-200001	uniprot:UNRESOLVED ID	cortex of the mammalian brain	ContextPossesive
+PMC2861648	155	uazid:UA-ORG-248	uniprot:P06400	Rb specifically in the epidermis	ContextLocation
+PMC2861648	165	uazid:UA-ORG-805	uniprot:P06400	Rb in murine retinas	ContextLocation
+PMC2861648	168	uazid:UA-ORG-381	uniprot:Q08999	p130, on the other hand	ContextLocation

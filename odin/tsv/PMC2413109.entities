@@ -1,0 +1,757 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2413109	9	uazid:UA-ORG-451	intestine	Organ
+PMC2413109	9	uazid:UA-ORG-882	skin	Organ
+PMC2413109	9	uazid:UA-ORG-92	blood	Organ
+PMC2413109	11	uazid:UA-ORG-451	intestine	Organ
+PMC2413109	11	uazid:UA-ORG-882	skin	Organ
+PMC2413109	11	uniprot:UNRESOLVED ID	stem	CellType
+PMC2413109	13	uniprot:UNRESOLVED ID	leukocyte	CellType
+PMC2413109	13	uniprot:UNRESOLVED ID	endothelium	CellType
+PMC2413109	20	uazid:UA-ORG-451	intestine	Organ
+PMC2413109	20	uniprot:P27695	apex	Gene_or_gene_product
+PMC2413109	22	uniprot:UNRESOLVED ID	scaffolding proteins	Gene_or_gene_product
+PMC2413109	27	uniprot:UNRESOLVED ID	AJs	Gene_or_gene_product
+PMC2413109	28	uniprot:UNRESOLVED ID	tail	CellType
+PMC2413109	28	uniprot:UNRESOLVED ID	catenins	Gene_or_gene_product
+PMC2413109	29	uniprot:UNRESOLVED ID	cadherin-catenin complexes	Gene_or_gene_product
+PMC2413109	30	uniprot:UNRESOLVED ID	neural tube	CellType
+PMC2413109	32	uniprot:UNRESOLVED ID	Cadherins	Gene_or_gene_product
+PMC2413109	32	uniprot:UNRESOLVED ID	catenins	Gene_or_gene_product
+PMC2413109	33	uniprot:UNRESOLVED ID	catenin	Gene_or_gene_product
+PMC2413109	35	uniprot:UNRESOLVED ID	tail	CellType
+PMC2413109	35	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2413109	35	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC2413109	35	uniprot:UNRESOLVED ID	gamma-catenin	Gene_or_gene_product
+PMC2413109	35	uniprot:Q00839	p120	Gene_or_gene_product
+PMC2413109	35	uniprot:UNRESOLVED ID	p120ctn	Gene_or_gene_product
+PMC2413109	36	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC2413109	36	uniprot:UNRESOLVED ID	p120ctn	Gene_or_gene_product
+PMC2413109	36	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2413109	39	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC2413109	39	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2413109	39	uniprot:UNRESOLVED ID	plakoglobin	Gene_or_gene_product
+PMC2413109	39	uniprot:UNRESOLVED ID	gamma-catenin	Gene_or_gene_product
+PMC2413109	41	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC2413109	41	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2413109	41	uniprot:P03372	ER	Gene_or_gene_product
+PMC2413109	43	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2413109	43	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC2413109	45	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC2413109	46	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC2413109	46	uniprot:UNRESOLVED ID	ubiquitin-proteasome	Gene_or_gene_product
+PMC2413109	49	uniprot:UNRESOLVED ID	catenin	Gene_or_gene_product
+PMC2413109	49	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2413109	49	uniprot:UNRESOLVED ID	p120ctn	Gene_or_gene_product
+PMC2413109	49	uniprot:B1JSR0	beta	Gene_or_gene_product
+PMC2413109	49	uniprot:UNRESOLVED ID	gamma-catenin	Gene_or_gene_product
+PMC2413109	50	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC2413109	50	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2413109	51	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2413109	51	uniprot:P55196	afadin	Gene_or_gene_product
+PMC2413109	52	uniprot:P55196	Afadin	Gene_or_gene_product
+PMC2413109	54	uniprot:P55196	Afadin	Gene_or_gene_product
+PMC2413109	55	uniprot:Q9BX66	ponsin	Gene_or_gene_product
+PMC2413109	55	uniprot:Q9BX66	SH3P12	Gene_or_gene_product
+PMC2413109	55	uniprot:Q0ZGT2	F-actin-binding protein	Gene_or_gene_product
+PMC2413109	55	uniprot:P18206	vinculin	Gene_or_gene_product
+PMC2413109	55	uniprot:Q8WWI1	LMO7	Gene_or_gene_product
+PMC2413109	55	uniprot:Q9Y2D8	ADIP	Gene_or_gene_product
+PMC2413109	56	uniprot:UNRESOLVED ID	catenin	Gene_or_gene_product
+PMC2413109	57	uniprot:Q9P0L2	mark	Gene_or_gene_product
+PMC2413109	60	uniprot:UNRESOLVED ID	catenin	Gene_or_gene_product
+PMC2413109	60	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2413109	60	uniprot:UNRESOLVED ID	p120ctn	Gene_or_gene_product
+PMC2413109	60	uniprot:B1JSR0	beta	Gene_or_gene_product
+PMC2413109	60	uniprot:UNRESOLVED ID	gamma-catenin	Gene_or_gene_product
+PMC2413109	61	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC2413109	61	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2413109	62	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2413109	62	uniprot:P55196	afadin	Gene_or_gene_product
+PMC2413109	63	uniprot:P55196	Afadin	Gene_or_gene_product
+PMC2413109	65	uniprot:P55196	Afadin	Gene_or_gene_product
+PMC2413109	66	uniprot:Q9BX66	ponsin	Gene_or_gene_product
+PMC2413109	66	uniprot:Q9BX66	SH3P12	Gene_or_gene_product
+PMC2413109	66	uniprot:Q0ZGT2	F-actin-binding protein	Gene_or_gene_product
+PMC2413109	66	uniprot:P18206	vinculin	Gene_or_gene_product
+PMC2413109	66	uniprot:Q8WWI1	LMO7	Gene_or_gene_product
+PMC2413109	66	uniprot:Q9Y2D8	ADIP	Gene_or_gene_product
+PMC2413109	67	uniprot:UNRESOLVED ID	catenin	Gene_or_gene_product
+PMC2413109	68	uniprot:Q9P0L2	mark	Gene_or_gene_product
+PMC2413109	69	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2413109	69	uniprot:UNRESOLVED ID	p120ctn	Gene_or_gene_product
+PMC2413109	70	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC2413109	70	uniprot:UNRESOLVED ID	p120ctn	Gene_or_gene_product
+PMC2413109	72	uniprot:UNRESOLVED ID	p120ctn	Gene_or_gene_product
+PMC2413109	72	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2413109	73	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2413109	73	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2413109	73	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2413109	74	uniprot:UNRESOLVED ID	small GTPases	Gene_or_gene_product
+PMC2413109	74	uniprot:UNRESOLVED ID	p120ctn	Gene_or_gene_product
+PMC2413109	74	uniprot:P31749	Rac	Gene_or_gene_product
+PMC2413109	74	uniprot:P52735	Vav2	Gene_or_gene_product
+PMC2413109	75	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2413109	75	uniprot:UNRESOLVED ID	p190RhoGAP	Gene_or_gene_product
+PMC2413109	77	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2413109	77	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2413109	77	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2413109	79	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC2413109	79	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2413109	82	uniprot:UNRESOLVED ID	catenin	Gene_or_gene_product
+PMC2413109	83	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2413109	84	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2413109	85	uniprot:P18206	vinculin	Gene_or_gene_product
+PMC2413109	85	uniprot:UNRESOLVED ID	alpha-actinin	Gene_or_gene_product
+PMC2413109	85	uniprot:UNRESOLVED ID	catenin	Gene_or_gene_product
+PMC2413109	87	uniprot:P55196	AF-6	Gene_or_gene_product
+PMC2413109	87	uniprot:P55196	afadin	Gene_or_gene_product
+PMC2413109	88	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2413109	91	uniprot:Q96IF1	ajuba	Gene_or_gene_product
+PMC2413109	93	uniprot:UNRESOLVED ID	Nectins	Gene_or_gene_product
+PMC2413109	93	uniprot:P55196	afadin	Gene_or_gene_product
+PMC2413109	94	uniprot:UNRESOLVED ID	nectin family of adhesion molecules	Gene_or_gene_product
+PMC2413109	94	uniprot:P03716	scaffolding protein	Gene_or_gene_product
+PMC2413109	94	uniprot:UNRESOLVED ID	nectins	Gene_or_gene_product
+PMC2413109	94	uniprot:P55196	AF-6	Gene_or_gene_product
+PMC2413109	95	uniprot:UNRESOLVED ID	Nectins	Gene_or_gene_product
+PMC2413109	95	uazid:UA-ORG-407	immunoglobulin	Organ
+PMC2413109	95	uniprot:Q15223	nectin-1	Gene_or_gene_product
+PMC2413109	98	uniprot:UNRESOLVED ID	nectin family	Gene_or_gene_product
+PMC2413109	98	uniprot:UNRESOLVED ID	nectin-related adhesion molecules Nectin-like	Gene_or_gene_product
+PMC2413109	100	uniprot:UNRESOLVED ID	Nectins	Gene_or_gene_product
+PMC2413109	108	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2413109	108	uniprot:Q92692	nectin-2	Gene_or_gene_product
+PMC2413109	108	uniprot:Q9KNM2	spot	Species
+PMC2413109	110	uniprot:UNRESOLVED ID	nectins	Gene_or_gene_product
+PMC2413109	110	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2413109	110	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2413109	111	uniprot:UNRESOLVED ID	nectins	Gene_or_gene_product
+PMC2413109	111	uniprot:UNRESOLVED ID	c-Src	Gene_or_gene_product
+PMC2413109	111	uniprot:UNRESOLVED ID	Cdc42 GEF	Gene_or_gene_product
+PMC2413109	111	uniprot:UNRESOLVED ID	FRG	Gene_or_gene_product
+PMC2413109	111	uniprot:P52735	Vav2	Gene_or_gene_product
+PMC2413109	111	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2413109	111	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2413109	114	uniprot:UNRESOLVED ID	small GTPases	Gene_or_gene_product
+PMC2413109	114	uniprot:UNRESOLVED ID	nectins	Gene_or_gene_product
+PMC2413109	119	uniprot:UNRESOLVED ID	L-Afadin	Gene_or_gene_product
+PMC2413109	119	uniprot:P03716	scaffolding protein	Gene_or_gene_product
+PMC2413109	119	uniprot:UNRESOLVED ID	nectins	Gene_or_gene_product
+PMC2413109	119	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2413109	119	uniprot:UNRESOLVED ID	nectin	Gene_or_gene_product
+PMC2413109	120	uniprot:Q8WWI1	LMO7	Gene_or_gene_product
+PMC2413109	122	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2413109	129	uniprot:UNRESOLVED ID	TJ area	Gene_or_gene_product
+PMC2413109	132	uniprot:Q15025	Van	Gene_or_gene_product
+PMC2413109	135	uniprot:UNRESOLVED ID	Ig-SF members	Gene_or_gene_product
+PMC2413109	135	uniprot:UNRESOLVED ID	Ig-like domains	Gene_or_gene_product
+PMC2413109	136	uniprot:Q9BUF7	CRB3	Gene_or_gene_product
+PMC2413109	136	uniprot:UNRESOLVED ID	tail	CellType
+PMC2413109	137	uniprot:Q9BUF7	CRB3	Gene_or_gene_product
+PMC2413109	139	uniprot:Q16625	occludin	Gene_or_gene_product
+PMC2413109	139	uniprot:UNRESOLVED ID	claudins	Gene_or_gene_product
+PMC2413109	139	uniprot:Q8N4S9	tricellulin	Gene_or_gene_product
+PMC2413109	140	uniprot:UNRESOLVED ID	Ig-SF members	Gene_or_gene_product
+PMC2413109	140	uniprot:UNRESOLVED ID	Ig-like domains	Gene_or_gene_product
+PMC2413109	141	uniprot:Q9BUF7	CRB3	Gene_or_gene_product
+PMC2413109	141	uniprot:UNRESOLVED ID	tail	CellType
+PMC2413109	142	uniprot:Q9BUF7	CRB3	Gene_or_gene_product
+PMC2413109	149	uniprot:Q9Y624	JAM-A	Gene_or_gene_product
+PMC2413109	149	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	152	uniprot:Q9Y624	JAM-A	Gene_or_gene_product
+PMC2413109	153	ncbitax:species:ncbi:8164	Suzuki	Species
+PMC2413109	154	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	155	uniprot:Q9Y624	JAM-A	Gene_or_gene_product
+PMC2413109	155	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	155	uniprot:Q9NZ01	TER	Gene_or_gene_product
+PMC2413109	158	uniprot:UNRESOLVED ID	Crumbs3	Gene_or_gene_product
+PMC2413109	158	uniprot:Q9BUF7	CRB3	Gene_or_gene_product
+PMC2413109	158	uniprot:UNRESOLVED ID	Drosophila Crumbs protein	Gene_or_gene_product
+PMC2413109	161	uniprot:Q9BUF7	CRB3	Gene_or_gene_product
+PMC2413109	161	uniprot:Q9JLB2	Pals1	Gene_or_gene_product
+PMC2413109	162	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	163	uniprot:Q9JLB2	Pals1	Gene_or_gene_product
+PMC2413109	163	uniprot:Q8NI35	PATJ	Gene_or_gene_product
+PMC2413109	163	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6 complex	Gene_or_gene_product
+PMC2413109	166	uniprot:Q9BUF7	CRB3	Gene_or_gene_product
+PMC2413109	170	uniprot:UNRESOLVED ID	scaffolding proteins	Gene_or_gene_product
+PMC2413109	170	uniprot:UNRESOLVED ID	ZO protein complex	Gene_or_gene_product
+PMC2413109	170	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6 complex	Gene_or_gene_product
+PMC2413109	172	uniprot:UNRESOLVED ID	scaffolding proteins	Gene_or_gene_product
+PMC2413109	172	uniprot:O75970	MUPP1	Gene_or_gene_product
+PMC2413109	172	uniprot:Q6P9H4	MAGI-1	Gene_or_gene_product
+PMC2413109	172	uniprot:UNRESOLVED ID	small GTPases	Gene_or_gene_product
+PMC2413109	176	uniprot:UNRESOLVED ID	scaffolding proteins	Gene_or_gene_product
+PMC2413109	176	uniprot:UNRESOLVED ID	ZO protein complex	Gene_or_gene_product
+PMC2413109	176	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6 complex	Gene_or_gene_product
+PMC2413109	178	uniprot:UNRESOLVED ID	scaffolding proteins	Gene_or_gene_product
+PMC2413109	178	uniprot:O75970	MUPP1	Gene_or_gene_product
+PMC2413109	178	uniprot:Q6P9H4	MAGI-1	Gene_or_gene_product
+PMC2413109	178	uniprot:UNRESOLVED ID	small GTPases	Gene_or_gene_product
+PMC2413109	181	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2413109	184	uniprot:UNRESOLVED ID	small GTPases	Gene_or_gene_product
+PMC2413109	184	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2413109	188	uniprot:P31006	GuK	Gene_or_gene_product
+PMC2413109	188	uniprot:P55241	SH2	Gene_or_gene_product
+PMC2413109	189	uniprot:UNRESOLVED ID	scaffolding proteins	Gene_or_gene_product
+PMC2413109	189	uniprot:UNRESOLVED ID	ZO protein complex	Gene_or_gene_product
+PMC2413109	189	uniprot:Q9JLB2	Pals1	Gene_or_gene_product
+PMC2413109	189	uniprot:Q8NI35	PATJ	Gene_or_gene_product
+PMC2413109	189	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6 complex	Gene_or_gene_product
+PMC2413109	189	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2413109	191	uniprot:UNRESOLVED ID	ZO protein complex	Gene_or_gene_product
+PMC2413109	192	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2413109	192	uniprot:P03716	scaffolding protein	Gene_or_gene_product
+PMC2413109	192	uniprot:UNRESOLVED ID	MAGUK family	Gene_or_gene_product
+PMC2413109	192	uniprot:UNRESOLVED ID	GuK domain	Gene_or_gene_product
+PMC2413109	194	uniprot:Q16625	occludin	Gene_or_gene_product
+PMC2413109	194	uniprot:P36575	CAR	Gene_or_gene_product
+PMC2413109	195	uniprot:O75970	MUPP1	Gene_or_gene_product
+PMC2413109	195	uniprot:Q9Y624	JAM-A	Gene_or_gene_product
+PMC2413109	195	uniprot:P36575	CAR	Gene_or_gene_product
+PMC2413109	195	uniprot:Q4VCS5	angiomotin	Gene_or_gene_product
+PMC2413109	199	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2413109	202	uniprot:Q9BUF7	CRB3	Gene_or_gene_product
+PMC2413109	202	uniprot:Q9JLB2	Pals1	Gene_or_gene_product
+PMC2413109	202	uniprot:Q8NI35	PATJ	Gene_or_gene_product
+PMC2413109	203	uniprot:Q9BUF7	CRB3	Gene_or_gene_product
+PMC2413109	203	uniprot:Q9JLB2	Pals1	Gene_or_gene_product
+PMC2413109	203	uniprot:Q8NI35	PATJ	Gene_or_gene_product
+PMC2413109	204	uniprot:Q9BUF7	CRB3	Gene_or_gene_product
+PMC2413109	207	uniprot:UNRESOLVED ID	ZO complex	Gene_or_gene_product
+PMC2413109	207	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2413109	207	uniprot:Q16625	occludin	Gene_or_gene_product
+PMC2413109	207	uniprot:UNRESOLVED ID	claudins	Gene_or_gene_product
+PMC2413109	207	uniprot:Q9Y624	JAM-A	Gene_or_gene_product
+PMC2413109	207	uniprot:P36575	CAR	Gene_or_gene_product
+PMC2413109	208	uniprot:Q9UDY2	ZO-2	Gene_or_gene_product
+PMC2413109	208	uniprot:O95049	ZO-3	Gene_or_gene_product
+PMC2413109	208	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2413109	209	uniprot:UNRESOLVED ID	ZO protein complex	Gene_or_gene_product
+PMC2413109	209	uniprot:UNRESOLVED ID	ZO proteins	Gene_or_gene_product
+PMC2413109	209	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2413109	210	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6 complex	Gene_or_gene_product
+PMC2413109	210	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	210	uniprot:Q9Y624	JAM-A	Gene_or_gene_product
+PMC2413109	211	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	211	uniprot:UNRESOLVED ID	aPKC-interacting domain	Gene_or_gene_product
+PMC2413109	211	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	212	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	212	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	213	uniprot:UNRESOLVED ID	PAR complex	Gene_or_gene_product
+PMC2413109	214	uniprot:UNRESOLVED ID	Ig-SF	Gene_or_gene_product
+PMC2413109	214	uniprot:Q9NSI5	JAM4	Gene_or_gene_product
+PMC2413109	214	uniprot:Q6P9H4	MAGI-1	Gene_or_gene_product
+PMC2413109	215	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	215	uniprot:Q9BUF7	CRB3	Gene_or_gene_product
+PMC2413109	215	uniprot:Q9JLB2	Pals1	Gene_or_gene_product
+PMC2413109	215	uniprot:O95049	ZO-3	Gene_or_gene_product
+PMC2413109	215	uniprot:Q8NI35	PATJ	Gene_or_gene_product
+PMC2413109	216	uniprot:O75970	MUPP1	Gene_or_gene_product
+PMC2413109	216	uniprot:Q9Y624	JAM-A	Gene_or_gene_product
+PMC2413109	216	uniprot:P36575	CAR	Gene_or_gene_product
+PMC2413109	216	uniprot:Q4VCS5	angiomotin	Gene_or_gene_product
+PMC2413109	220	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2413109	221	uniprot:UNRESOLVED ID	CRB3-Pals1-PATJ complex	Gene_or_gene_product
+PMC2413109	226	uniprot:UNRESOLVED ID	CRB3-Pals1-PATJ	Gene_or_gene_product
+PMC2413109	226	uniprot:Q9JLB2	Pals1	Gene_or_gene_product
+PMC2413109	226	uniprot:Q9BUF7	CRB3	Gene_or_gene_product
+PMC2413109	226	uniprot:Q8NI35	PATJ	Gene_or_gene_product
+PMC2413109	228	uniprot:Q8NI35	PATJ	Gene_or_gene_product
+PMC2413109	228	uniprot:Q9JLB2	Pals1	Gene_or_gene_product
+PMC2413109	228	uniprot:Q9BUF7	CRB3	Gene_or_gene_product
+PMC2413109	228	uniprot:Q16625	occludin	Gene_or_gene_product
+PMC2413109	228	uniprot:O95049	ZO-3	Gene_or_gene_product
+PMC2413109	229	uazid:UA-ORG-869	Shin	Organ
+PMC2413109	231	uniprot:UNRESOLVED ID	CRB3-Pals1-PATJ complex	Gene_or_gene_product
+PMC2413109	232	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6 complex	Gene_or_gene_product
+PMC2413109	233	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6 complex	Gene_or_gene_product
+PMC2413109	234	uniprot:UNRESOLVED ID	ZO protein complex	Gene_or_gene_product
+PMC2413109	234	ncbitax:species:ncbi:6239	C.elegans	Species
+PMC2413109	235	uniprot:UNRESOLVED ID	acronym Par	Gene_or_gene_product
+PMC2413109	235	ncbitax:species:ncbi:6239	C.elegans	Species
+PMC2413109	235	uazid:UA-CT-200003	embryos	Organ
+PMC2413109	235	uniprot:UNRESOLVED ID	sperm	CellType
+PMC2413109	237	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	237	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	237	uniprot:P25116	PAR-1	Gene_or_gene_product
+PMC2413109	237	uniprot:Q96IZ0	PAR-4	Gene_or_gene_product
+PMC2413109	237	uazid:UA-ORG-312	finger	Organ
+PMC2413109	237	uniprot:P0CG47	ubiquitin	Gene_or_gene_product
+PMC2413109	237	uniprot:P55085	PAR-2	Gene_or_gene_product
+PMC2413109	237	uniprot:UNRESOLVED ID	14-3-3 family	Gene_or_gene_product
+PMC2413109	237	uniprot:P41932	PAR-5	Gene_or_gene_product
+PMC2413109	237	ncbitax:species:ncbi:8164	Suzuki	Species
+PMC2413109	238	uniprot:P55085	PAR-2	Gene_or_gene_product
+PMC2413109	238	uniprot:UNRESOLVED ID	PAR proteins	Gene_or_gene_product
+PMC2413109	239	uniprot:UNRESOLVED ID	PAR proteins	Gene_or_gene_product
+PMC2413109	239	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	239	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	239	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	239	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6 complex	Gene_or_gene_product
+PMC2413109	240	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	240	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	240	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	240	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2413109	242	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	242	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	242	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	243	uniprot:UNRESOLVED ID	scaffolding proteins	Gene_or_gene_product
+PMC2413109	243	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	243	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	243	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	244	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	244	uniprot:Q9Y624	JAM-A	Gene_or_gene_product
+PMC2413109	244	uniprot:P13741	-B	Gene_or_gene_product
+PMC2413109	244	uniprot:P13742	-C	Gene_or_gene_product
+PMC2413109	245	uniprot:Q9Y624	JAM-A	Gene_or_gene_product
+PMC2413109	245	uniprot:Q55309	PAR	Gene_or_gene_product
+PMC2413109	245	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	246	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	246	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	248	uniprot:UNRESOLVED ID	small GTPases	Gene_or_gene_product
+PMC2413109	248	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2413109	248	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2413109	249	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2413109	249	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2413109	249	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	249	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	251	uniprot:Q55309	PAR	Gene_or_gene_product
+PMC2413109	251	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	252	uniprot:UNRESOLVED ID	PAR complex	Gene_or_gene_product
+PMC2413109	258	ncbitax:species:ncbi:8164	Suzuki	Species
+PMC2413109	261	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	261	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	261	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	264	ncbitax:species:ncbi:8164	Suzuki	Species
+PMC2413109	267	uniprot:Q55309	PAR	Gene_or_gene_product
+PMC2413109	267	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	268	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6 complex	Gene_or_gene_product
+PMC2413109	278	uniprot:UNRESOLVED ID	pAJs	Gene_or_gene_product
+PMC2413109	278	uniprot:UNRESOLVED ID	puncta	Gene_or_gene_product
+PMC2413109	278	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2413109	278	uniprot:Q9Y624	JAM-A	Gene_or_gene_product
+PMC2413109	278	uniprot:Q92692	nectin-2	Gene_or_gene_product
+PMC2413109	278	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2413109	279	uniprot:Q16625	occludin	Gene_or_gene_product
+PMC2413109	279	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2413109	280	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	280	uniprot:Q9Y624	JAM-A	Gene_or_gene_product
+PMC2413109	280	uniprot:Q92692	nectin-2	Gene_or_gene_product
+PMC2413109	280	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2413109	281	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	281	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	281	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	284	uniprot:Q9KNM2	spot	Species
+PMC2413109	289	uniprot:UNRESOLVED ID	pAJs	Gene_or_gene_product
+PMC2413109	289	uniprot:UNRESOLVED ID	puncta	Gene_or_gene_product
+PMC2413109	289	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2413109	289	uniprot:Q9Y624	JAM-A	Gene_or_gene_product
+PMC2413109	289	uniprot:Q92692	nectin-2	Gene_or_gene_product
+PMC2413109	289	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2413109	290	uniprot:Q16625	occludin	Gene_or_gene_product
+PMC2413109	290	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2413109	291	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	291	uniprot:Q9Y624	JAM-A	Gene_or_gene_product
+PMC2413109	291	uniprot:Q92692	nectin-2	Gene_or_gene_product
+PMC2413109	291	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2413109	292	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	292	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	292	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	294	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2413109	294	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC2413109	294	uniprot:Q92692	nectin-2	Gene_or_gene_product
+PMC2413109	294	uniprot:P55196	AF-6	Gene_or_gene_product
+PMC2413109	294	uniprot:P55196	afadin	Gene_or_gene_product
+PMC2413109	294	uniprot:Q9BX66	ponsin	Gene_or_gene_product
+PMC2413109	294	uniprot:UNRESOLVED ID	TJ proteins	Gene_or_gene_product
+PMC2413109	294	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2413109	294	uniprot:Q9Y624	JAM-A	Gene_or_gene_product
+PMC2413109	297	ncbitax:species:ncbi:8164	Suzuki	Species
+PMC2413109	300	uniprot:Q16625	occludin	Gene_or_gene_product
+PMC2413109	300	uniprot:O95832	claudin-1	Gene_or_gene_product
+PMC2413109	300	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	300	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	300	ncbitax:species:ncbi:8164	Suzuki	Species
+PMC2413109	301	uniprot:Q9Y624	JAM-A	Gene_or_gene_product
+PMC2413109	301	uniprot:Q92692	nectin-2	Gene_or_gene_product
+PMC2413109	301	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	301	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6 complex	Gene_or_gene_product
+PMC2413109	302	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6 complex	Gene_or_gene_product
+PMC2413109	302	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	302	ncbitax:species:ncbi:8164	Suzuki	Species
+PMC2413109	304	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2413109	304	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2413109	304	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2413109	304	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	304	uniprot:UNRESOLVED ID	PAR-6-associated aPKC	Gene_or_gene_product
+PMC2413109	308	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2413109	308	uniprot:Q92692	nectin-2	Gene_or_gene_product
+PMC2413109	308	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2413109	308	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2413109	309	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2413109	309	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2413109	309	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2413109	313	uniprot:Q92692	nectin-2	Gene_or_gene_product
+PMC2413109	313	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2413109	313	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2413109	317	uniprot:UNRESOLVED ID	Rac1 GEF Tiam1	Gene_or_gene_product
+PMC2413109	317	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	318	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2413109	318	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	319	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	320	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	321	uniprot:Q16625	occludin	Gene_or_gene_product
+PMC2413109	321	uniprot:O95832	claudin-1	Gene_or_gene_product
+PMC2413109	321	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2413109	321	uniprot:UNRESOLVED ID	aPKCzeta	Gene_or_gene_product
+PMC2413109	324	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	326	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	326	uniprot:P25116	PAR-1	Gene_or_gene_product
+PMC2413109	326	uazid:UA-ORG-75	axis	Organ
+PMC2413109	328	uniprot:P25116	PAR-1	Gene_or_gene_product
+PMC2413109	328	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	329	ncbitax:species:ncbi:8164	Suzuki	Species
+PMC2413109	331	uniprot:P25116	PAR-1	Gene_or_gene_product
+PMC2413109	333	uniprot:P25116	PAR-1	Gene_or_gene_product
+PMC2413109	333	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	333	uniprot:UNRESOLVED ID	Bazooka	Gene_or_gene_product
+PMC2413109	333	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6	Gene_or_gene_product
+PMC2413109	334	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6 complex	Gene_or_gene_product
+PMC2413109	335	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	335	uniprot:P25116	PAR-1	Gene_or_gene_product
+PMC2413109	336	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	337	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6 complex	Gene_or_gene_product
+PMC2413109	338	uniprot:UNRESOLVED ID	TJ maintenance	Gene_or_gene_product
+PMC2413109	338	uniprot:Q68EM7	Rich1	Gene_or_gene_product
+PMC2413109	338	uniprot:Q4VCS5	Amot	Gene_or_gene_product
+PMC2413109	340	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2413109	340	uniprot:Q68EM7	Rich1	Gene_or_gene_product
+PMC2413109	340	uniprot:Q4VCS5	angiomotin	Gene_or_gene_product
+PMC2413109	340	uniprot:Q4VCS5	Amot	Gene_or_gene_product
+PMC2413109	341	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2413109	341	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2413109	341	uniprot:UNRESOLVED ID	RhoGAP domain	Gene_or_gene_product
+PMC2413109	341	uniprot:UNRESOLVED ID	Richnau	Gene_or_gene_product
+PMC2413109	344	uniprot:Q4VCS5	Amot	Gene_or_gene_product
+PMC2413109	346	uniprot:Q68EM7	Rich1	Gene_or_gene_product
+PMC2413109	346	uniprot:Q4VCS5	Amot	Gene_or_gene_product
+PMC2413109	346	uniprot:Q8NI35	PATJ	Gene_or_gene_product
+PMC2413109	346	uniprot:UNRESOLVED ID	CRB3-Pals1	Gene_or_gene_product
+PMC2413109	347	uniprot:Q68EM7	Rich1	Gene_or_gene_product
+PMC2413109	347	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	347	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	347	uniprot:UNRESOLVED ID	PAR complex	Gene_or_gene_product
+PMC2413109	347	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6	Gene_or_gene_product
+PMC2413109	347	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	347	uniprot:UNRESOLVED ID	aPKC-binding domain	Gene_or_gene_product
+PMC2413109	348	uniprot:Q4VCS5	Amot	Gene_or_gene_product
+PMC2413109	348	uniprot:Q8IY63	Amotl1	Gene_or_gene_product
+PMC2413109	348	uniprot:Q9Y2J4	Amotl2	Gene_or_gene_product
+PMC2413109	348	uniprot:Q68EM7	Rich1	Gene_or_gene_product
+PMC2413109	348	uniprot:O75970	MUPP1	Gene_or_gene_product
+PMC2413109	348	uniprot:Q8NI35	PATJ	Gene_or_gene_product
+PMC2413109	350	uniprot:Q68EM7	Rich1	Gene_or_gene_product
+PMC2413109	350	uniprot:Q4VCS5	Amot	Gene_or_gene_product
+PMC2413109	351	uniprot:Q68EM7	Rich1	Gene_or_gene_product
+PMC2413109	351	uniprot:P38339	RhoGAP	Gene_or_gene_product
+PMC2413109	351	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2413109	352	uniprot:Q68EM7	Rich1	Gene_or_gene_product
+PMC2413109	352	uniprot:Q4VCS5	Amot	Gene_or_gene_product
+PMC2413109	353	uniprot:Q68EM7	Rich1	Gene_or_gene_product
+PMC2413109	353	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2413109	354	uniprot:Q4VCS5	Amot	Gene_or_gene_product
+PMC2413109	354	uniprot:Q8NI35	PATJ	Gene_or_gene_product
+PMC2413109	354	uniprot:UNRESOLVED ID	CRB3-Pals1	Gene_or_gene_product
+PMC2413109	355	uniprot:Q68EM7	Rich1	Gene_or_gene_product
+PMC2413109	355	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	355	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	355	uniprot:UNRESOLVED ID	PAR complex	Gene_or_gene_product
+PMC2413109	355	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6	Gene_or_gene_product
+PMC2413109	355	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	355	uniprot:UNRESOLVED ID	aPKC-binding domain	Gene_or_gene_product
+PMC2413109	356	uniprot:Q4VCS5	Amot	Gene_or_gene_product
+PMC2413109	356	uniprot:Q8IY63	Amotl1	Gene_or_gene_product
+PMC2413109	356	uniprot:Q9Y2J4	Amotl2	Gene_or_gene_product
+PMC2413109	356	uniprot:Q68EM7	Rich1	Gene_or_gene_product
+PMC2413109	356	uniprot:O75970	MUPP1	Gene_or_gene_product
+PMC2413109	356	uniprot:Q8NI35	PATJ	Gene_or_gene_product
+PMC2413109	358	uniprot:Q4VCS5	Amot	Gene_or_gene_product
+PMC2413109	358	uniprot:Q8NI35	PATJ	Gene_or_gene_product
+PMC2413109	358	uniprot:Q9JLB2	Pals1	Gene_or_gene_product
+PMC2413109	358	uniprot:Q68EM7	Rich1	Gene_or_gene_product
+PMC2413109	358	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	358	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	360	uniprot:Q68EM7	Rich1	Gene_or_gene_product
+PMC2413109	360	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	360	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	360	uniprot:UNRESOLVED ID	aPKC-interacting domain	Gene_or_gene_product
+PMC2413109	360	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	362	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	362	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	362	uniprot:Q68EM7	Rich1	Gene_or_gene_product
+PMC2413109	362	uniprot:Q4VCS5	Amot	Gene_or_gene_product
+PMC2413109	362	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6	Gene_or_gene_product
+PMC2413109	362	uniprot:Q9JLB2	Pals1	Gene_or_gene_product
+PMC2413109	362	uniprot:Q8NI35	PATJ	Gene_or_gene_product
+PMC2413109	363	uniprot:Q8IY63	Amotl1	Gene_or_gene_product
+PMC2413109	363	uniprot:Q9D4H4	JEAP	Gene_or_gene_product
+PMC2413109	363	uniprot:Q9Y2J4	Amotl2	Gene_or_gene_product
+PMC2413109	363	uniprot:UNRESOLVED ID	MASCOT	Gene_or_gene_product
+PMC2413109	364	uniprot:UNRESOLVED ID	Patrie	Gene_or_gene_product
+PMC2413109	364	uniprot:Q4VCS5	Amot	Gene_or_gene_product
+PMC2413109	364	uniprot:Q68EM7	Rich1	Gene_or_gene_product
+PMC2413109	365	uniprot:Q4VCS5	Amot	Gene_or_gene_product
+PMC2413109	365	uniprot:O75970	MUPP1	Gene_or_gene_product
+PMC2413109	365	uniprot:Q8NI35	PATJ	Gene_or_gene_product
+PMC2413109	366	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2413109	368	uniprot:Q4VCS5	Amot	Gene_or_gene_product
+PMC2413109	368	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2413109	369	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2413109	372	uniprot:UNRESOLVED ID	TJ proteins	Gene_or_gene_product
+PMC2413109	373	uniprot:UNRESOLVED ID	TJ proteins	Gene_or_gene_product
+PMC2413109	373	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2413109	374	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2413109	374	uniprot:UNRESOLVED ID	ZONAB	Gene_or_gene_product
+PMC2413109	374	uniprot:P16989	DbpA	Gene_or_gene_product
+PMC2413109	374	uniprot:P11802	CDK4	Gene_or_gene_product
+PMC2413109	374	uniprot:P12004	cyclin	Gene_or_gene_product
+PMC2413109	374	uniprot:P12004	PCNA	Gene_or_gene_product
+PMC2413109	377	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2413109	377	uniprot:UNRESOLVED ID	ZONAB	Gene_or_gene_product
+PMC2413109	377	uniprot:P16989	DbpA	Gene_or_gene_product
+PMC2413109	378	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2413109	378	uniprot:UNRESOLVED ID	ZONAB	Gene_or_gene_product
+PMC2413109	378	uniprot:P16989	DbpA	Gene_or_gene_product
+PMC2413109	379	uniprot:UNRESOLVED ID	ZONAB	Gene_or_gene_product
+PMC2413109	379	uniprot:P16989	DbpA	Gene_or_gene_product
+PMC2413109	379	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2413109	380	uniprot:UNRESOLVED ID	heat shock protein Apg-2	Gene_or_gene_product
+PMC2413109	380	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2413109	380	uniprot:UNRESOLVED ID	ZONAB	Gene_or_gene_product
+PMC2413109	380	uniprot:P16989	DbpA	Gene_or_gene_product
+PMC2413109	382	uniprot:UNRESOLVED ID	ZONAB	Gene_or_gene_product
+PMC2413109	382	uniprot:P16989	DbpA	Gene_or_gene_product
+PMC2413109	384	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2413109	385	uniprot:Q9UDY2	ZO-2	Gene_or_gene_product
+PMC2413109	385	uniprot:UNRESOLVED ID	scaffolding proteins	Gene_or_gene_product
+PMC2413109	386	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2413109	386	uniprot:Q9UDY2	ZO-2	Gene_or_gene_product
+PMC2413109	387	uniprot:Q9UDY2	ZO-2	Gene_or_gene_product
+PMC2413109	389	uniprot:Q15125	EBP	Gene_or_gene_product
+PMC2413109	390	uniprot:Q15424	SAF-B	Gene_or_gene_product
+PMC2413109	391	uniprot:UNRESOLVED ID	p120ctn family	Gene_or_gene_product
+PMC2413109	391	uniprot:O00192	ARVCF	Gene_or_gene_product
+PMC2413109	393	uniprot:Q9UDY2	ZO-2	Gene_or_gene_product
+PMC2413109	393	uniprot:Q15125	EBP	Gene_or_gene_product
+PMC2413109	395	uniprot:O00192	ARVCF	Gene_or_gene_product
+PMC2413109	395	uniprot:Q9UDY2	ZO-2	Gene_or_gene_product
+PMC2413109	396	uniprot:UNRESOLVED ID	p120ctn family members	Gene_or_gene_product
+PMC2413109	398	uniprot:UNRESOLVED ID	Larvae	CellType
+PMC2413109	399	uniprot:Q14160	Scribble	Gene_or_gene_product
+PMC2413109	399	uniprot:Q14160	Scrib	Gene_or_gene_product
+PMC2413109	399	uniprot:UNRESOLVED ID	Discs Large	Gene_or_gene_product
+PMC2413109	399	uniprot:UNRESOLVED ID	Dlg	Gene_or_gene_product
+PMC2413109	399	uniprot:UNRESOLVED ID	Larvae	CellType
+PMC2413109	401	uniprot:Q14160	Scrib	Gene_or_gene_product
+PMC2413109	401	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6	Gene_or_gene_product
+PMC2413109	401	uniprot:UNRESOLVED ID	Crumbs-Sdt-PATJ	Gene_or_gene_product
+PMC2413109	402	uniprot:UNRESOLVED ID	Tanentzapf	Gene_or_gene_product
+PMC2413109	404	uniprot:UNRESOLVED ID	Dlg	Gene_or_gene_product
+PMC2413109	404	uniprot:UNRESOLVED ID	Dlg1-Dlg4	Gene_or_gene_product
+PMC2413109	404	uniprot:UNRESOLVED ID	Lgl	Gene_or_gene_product
+PMC2413109	404	uniprot:UNRESOLVED ID	Lgl1	Gene_or_gene_product
+PMC2413109	404	uniprot:Q9JM04	Lgl2	Gene_or_gene_product
+PMC2413109	406	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6	Gene_or_gene_product
+PMC2413109	406	uniprot:UNRESOLVED ID	CRB3-Pals1-PATJ complexes	Gene_or_gene_product
+PMC2413109	406	uniprot:Q14160	Scrib	Gene_or_gene_product
+PMC2413109	406	uniprot:UNRESOLVED ID	Dlg	Gene_or_gene_product
+PMC2413109	406	uniprot:UNRESOLVED ID	Lgl	Gene_or_gene_product
+PMC2413109	407	uniprot:Q14160	Scrib	Gene_or_gene_product
+PMC2413109	407	uniprot:Q9JM04	Lgl2	Gene_or_gene_product
+PMC2413109	410	uniprot:UNRESOLVED ID	Srib protein complex	Gene_or_gene_product
+PMC2413109	411	uniprot:Q14160	Scrib	Gene_or_gene_product
+PMC2413109	412	uniprot:Q12959	Dlg1	Gene_or_gene_product
+PMC2413109	412	uniprot:UNRESOLVED ID	TJ	Gene_or_gene_product
+PMC2413109	414	uniprot:UNRESOLVED ID	Lgl	Gene_or_gene_product
+PMC2413109	414	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	414	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	416	uniprot:UNRESOLVED ID	Dlg	Gene_or_gene_product
+PMC2413109	416	uniprot:UNRESOLVED ID	larvae	CellType
+PMC2413109	417	uniprot:P13394	Scrb	Gene_or_gene_product
+PMC2413109	417	uniprot:UNRESOLVED ID	Lgl	Gene_or_gene_product
+PMC2413109	418	uniprot:UNRESOLVED ID	Lgl	Gene_or_gene_product
+PMC2413109	418	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	418	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	418	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	419	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	419	uniprot:UNRESOLVED ID	Lgl	Gene_or_gene_product
+PMC2413109	419	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	419	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	421	uniprot:P13394	Scrb	Gene_or_gene_product
+PMC2413109	421	uniprot:UNRESOLVED ID	Dlg	Gene_or_gene_product
+PMC2413109	421	uniprot:UNRESOLVED ID	larvae	CellType
+PMC2413109	422	uniprot:P13394	Scrb	Gene_or_gene_product
+PMC2413109	422	uniprot:UNRESOLVED ID	Lgl	Gene_or_gene_product
+PMC2413109	423	uniprot:UNRESOLVED ID	Lgl	Gene_or_gene_product
+PMC2413109	423	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	423	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	423	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	424	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	424	uniprot:UNRESOLVED ID	Lgl	Gene_or_gene_product
+PMC2413109	424	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	424	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	429	uniprot:Q14160	scrib	Gene_or_gene_product
+PMC2413109	430	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6 complex	Gene_or_gene_product
+PMC2413109	430	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2413109	431	uazid:UA-ORG-252	epithelium	Organ
+PMC2413109	432	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2413109	433	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6 complex	Gene_or_gene_product
+PMC2413109	435	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2413109	435	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6	Gene_or_gene_product
+PMC2413109	435	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	435	uniprot:UNRESOLVED ID	ErbB2-PAR-6-aPKC complex	Gene_or_gene_product
+PMC2413109	437	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2413109	437	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	437	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	437	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6 complex	Gene_or_gene_product
+PMC2413109	439	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2413109	439	uniprot:UNRESOLVED ID	PAR complex	Gene_or_gene_product
+PMC2413109	440	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	440	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	440	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	442	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2413109	442	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	442	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	442	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6 complex	Gene_or_gene_product
+PMC2413109	444	uniprot:O75751	EMT	Gene_or_gene_product
+PMC2413109	445	uniprot:O75751	EMT	Gene_or_gene_product
+PMC2413109	445	uazid:UA-ORG-252	epithelium	Organ
+PMC2413109	445	uazid:UA-CT-200002	embryo	Organ
+PMC2413109	446	uniprot:O75751	EMT	Gene_or_gene_product
+PMC2413109	446	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2413109	448	uniprot:O75751	EMT	Gene_or_gene_product
+PMC2413109	448	uniprot:UNRESOLVED ID	RTKs	Gene_or_gene_product
+PMC2413109	450	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2413109	450	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6 complex	Gene_or_gene_product
+PMC2413109	451	uniprot:UNRESOLVED ID	TGFbeta receptors	Gene_or_gene_product
+PMC2413109	451	uniprot:P36897	TbetaRI	Gene_or_gene_product
+PMC2413109	451	uniprot:P37173	TbetaRII	Gene_or_gene_product
+PMC2413109	452	uniprot:O75751	EMT	Gene_or_gene_product
+PMC2413109	452	uniprot:P37173	TbetaRII	Gene_or_gene_product
+PMC2413109	453	uniprot:P36897	TbetaRI	Gene_or_gene_product
+PMC2413109	453	uniprot:Q16625	occludin	Gene_or_gene_product
+PMC2413109	455	uniprot:P36897	TbetaRI	Gene_or_gene_product
+PMC2413109	455	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	456	uniprot:Q16625	occludin	Gene_or_gene_product
+PMC2413109	456	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	458	uniprot:UNRESOLVED ID	panel	Gene_or_gene_product
+PMC2413109	458	uniprot:UNRESOLVED ID	TGFbeta receptors	Gene_or_gene_product
+PMC2413109	458	uniprot:UNRESOLVED ID	TbetaR2	Gene_or_gene_product
+PMC2413109	458	uniprot:P37173	TbetaRII	Gene_or_gene_product
+PMC2413109	458	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	459	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	459	uniprot:Q9HCE7	Smurf1	Gene_or_gene_product
+PMC2413109	459	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2413109	461	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	461	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	462	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6 complex	Gene_or_gene_product
+PMC2413109	463	uniprot:UNRESOLVED ID	PAR complex	Gene_or_gene_product
+PMC2413109	464	uniprot:UNRESOLVED ID	TGFbeta receptor	Gene_or_gene_product
+PMC2413109	464	uniprot:P36897	TbetaRI	Gene_or_gene_product
+PMC2413109	464	uniprot:Q16625	occludin	Gene_or_gene_product
+PMC2413109	464	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	466	uniprot:UNRESOLVED ID	panel	Gene_or_gene_product
+PMC2413109	466	uniprot:UNRESOLVED ID	TGFbeta receptors	Gene_or_gene_product
+PMC2413109	466	uniprot:UNRESOLVED ID	TbetaR2	Gene_or_gene_product
+PMC2413109	466	uniprot:P37173	TbetaRII	Gene_or_gene_product
+PMC2413109	466	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	467	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	467	uniprot:Q9HCE7	Smurf1	Gene_or_gene_product
+PMC2413109	467	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2413109	469	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	469	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	470	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6 complex	Gene_or_gene_product
+PMC2413109	473	uniprot:Q16625	occludin	Gene_or_gene_product
+PMC2413109	473	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2413109	480	ncbitax:species:ncbi:210	Helicobacter pylori	Species
+PMC2413109	480	ncbitax:species:ncbi:210	H.pylori	Species
+PMC2413109	480	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2413109	480	uniprot:P05109	CagA	Gene_or_gene_product
+PMC2413109	481	ncbitax:species:ncbi:210	H.pylori	Species
+PMC2413109	483	ncbitax:species:ncbi:210	H.pylori	Species
+PMC2413109	483	uniprot:Q9HCI5	damage	Gene_or_gene_product
+PMC2413109	483	uniprot:UNRESOLVED ID	gastric carcinoma	CellType
+PMC2413109	483	uniprot:UNRESOLVED ID	Peek	Gene_or_gene_product
+PMC2413109	484	uniprot:P05109	CagA	Gene_or_gene_product
+PMC2413109	485	uniprot:P05109	CagA	Gene_or_gene_product
+PMC2413109	485	uniprot:UNRESOLVED ID	src-family kinases	Gene_or_gene_product
+PMC2413109	485	uniprot:Q06124	SHP-2	Gene_or_gene_product
+PMC2413109	487	uniprot:P05109	CagA	Gene_or_gene_product
+PMC2413109	488	uniprot:UNRESOLVED ID	TJ proteins	Gene_or_gene_product
+PMC2413109	488	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2413109	488	uniprot:Q9Y624	JAM-A	Gene_or_gene_product
+PMC2413109	490	uniprot:P25116	PAR-1	Gene_or_gene_product
+PMC2413109	492	uniprot:P25116	PAR-1	Gene_or_gene_product
+PMC2413109	492	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6 complex	Gene_or_gene_product
+PMC2413109	493	ncbitax:species:ncbi:8164	Suzuki	Species
+PMC2413109	495	uniprot:P05109	CagA	Gene_or_gene_product
+PMC2413109	495	uniprot:P25116	PAR-1	Gene_or_gene_product
+PMC2413109	495	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	495	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	498	uniprot:UNRESOLVED ID	scaffolding proteins	Gene_or_gene_product
+PMC2413109	498	uniprot:P05109	CagA	Gene_or_gene_product
+PMC2413109	500	uniprot:UNRESOLVED ID	TJ	Gene_or_gene_product
+PMC2413109	501	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6	Gene_or_gene_product
+PMC2413109	501	uniprot:UNRESOLVED ID	CRB3-Pals1-PATJ	Gene_or_gene_product
+PMC2413109	505	uniprot:UNRESOLVED ID	male reproductive system	CellType
+PMC2413109	511	uniprot:UNRESOLVED ID	peripheral nervous system	CellType
+PMC2413109	511	uniprot:UNRESOLVED ID	PNS	CellType
+PMC2413109	511	uniprot:UNRESOLVED ID	Schwann cell	CellType
+PMC2413109	512	uniprot:Q9BX67	JAM-C	Gene_or_gene_product
+PMC2413109	512	uniprot:Q8N126	Necl-1	Gene_or_gene_product
+PMC2413109	512	uniprot:Q9BY67	Necl-2	Gene_or_gene_product
+PMC2413109	512	uniprot:Q8NFZ8	Necl-4	Gene_or_gene_product
+PMC2413109	512	uniprot:UNRESOLVED ID	scaffolding proteins	Gene_or_gene_product
+PMC2413109	512	uniprot:O75970	MUPP1	Gene_or_gene_product
+PMC2413109	512	uniprot:Q8NI35	PATJ	Gene_or_gene_product
+PMC2413109	512	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2413109	512	uniprot:Q9UDY2	ZO-2	Gene_or_gene_product
+PMC2413109	512	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	512	uniprot:Q86UL8	MAGI-2	Gene_or_gene_product
+PMC2413109	517	uniprot:P18206	MV	Gene_or_gene_product
+PMC2413109	517	uniprot:P27027	PNL	Gene_or_gene_product
+PMC2413109	517	uniprot:UNRESOLVED ID	PNJ	Gene_or_gene_product
+PMC2413109	518	uniprot:UNRESOLVED ID	peripheral nervous system	CellType
+PMC2413109	518	uniprot:UNRESOLVED ID	PNS	CellType
+PMC2413109	520	uniprot:P18206	MV	Gene_or_gene_product
+PMC2413109	520	uniprot:P27027	PNL	Gene_or_gene_product
+PMC2413109	520	uniprot:UNRESOLVED ID	PNJ	Gene_or_gene_product
+PMC2413109	522	uniprot:Q9BX67	JAM-C	Gene_or_gene_product
+PMC2413109	522	uniprot:O89094	mice	Species
+PMC2413109	522	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	522	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	522	uniprot:Q8NI35	PATJ	Gene_or_gene_product
+PMC2413109	522	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	523	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	523	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	523	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	523	uniprot:Q9BX67	JAM-C	Gene_or_gene_product
+PMC2413109	524	ncbitax:species:ncbi:8164	Suzuki	Species
+PMC2413109	525	uniprot:O76095	PAR protein	Gene_or_gene_product
+PMC2413109	525	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6	Gene_or_gene_product
+PMC2413109	525	uniprot:Q55309	PAR	Gene_or_gene_product
+PMC2413109	525	uniprot:O00254	PAR-3	Gene_or_gene_product
+PMC2413109	525	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	525	uniprot:P33151	VE-cadherin	Gene_or_gene_product
+PMC2413109	525	uniprot:A1Z9X0	aPKC	Gene_or_gene_product
+PMC2413109	530	uniprot:UNRESOLVED ID	ZO proteins	Gene_or_gene_product
+PMC2413109	532	uazid:UA-ORG-623	neurons	Organ
+PMC2413109	536	uniprot:UNRESOLVED ID	PAR-3-aPKC-PAR-6 complex	Gene_or_gene_product
+PMC2413109	539	uniprot:Q9BUF7	CRB3	Gene_or_gene_product
+PMC2413109	539	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	540	uniprot:Q9NPB6	PAR-6	Gene_or_gene_product
+PMC2413109	540	uniprot:Q9JLB2	Pals1	Gene_or_gene_product
+PMC2413109	541	uniprot:O95049	ZO-3	Gene_or_gene_product
+PMC2413109	541	uniprot:Q8NI35	PATJ	Gene_or_gene_product
+PMC2413109	547	ncbitax:species:ncbi:8164	Suzuki	Species

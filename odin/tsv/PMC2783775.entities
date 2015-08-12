@@ -1,0 +1,179 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2783775	0	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	0	uazid:UA-ORG-537	Lung	Organ
+PMC2783775	0	uniprot:UNRESOLVED ID	Esophageal Squamous Cell	CellType
+PMC2783775	2	uniprot:UNRESOLVED ID	squamous cell	CellType
+PMC2783775	2	uazid:UA-ORG-537	lung	Organ
+PMC2783775	2	uazid:UA-ORG-254	esophagus	Organ
+PMC2783775	2	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	2	ncbitax:species:ncbi:9606	human	Species
+PMC2783775	2	uniprot:UNRESOLVED ID	tracheal	CellType
+PMC2783775	2	uniprot:UNRESOLVED ID	stem	CellType
+PMC2783775	3	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	3	uazid:UA-ORG-537	lung	Organ
+PMC2783775	4	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	4	uniprot:O00358	FOXE1	Gene_or_gene_product
+PMC2783775	4	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2783775	5	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	6	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	6	uazid:UA-ORG-537	lung	Organ
+PMC2783775	7	uazid:UA-ORG-537	lung	Organ
+PMC2783775	7	uniprot:UNRESOLVED ID	A.K.R	Gene_or_gene_product
+PMC2783775	11	uniprot:Q8NDV1	Sty	Gene_or_gene_product
+PMC2783775	11	uniprot:Q9UNE7	chip	Gene_or_gene_product
+PMC2783775	11	ncbitax:species:ncbi:9606	Human	Species
+PMC2783775	11	uniprot:UNRESOLVED ID	Affymetrix Inc	Gene_or_gene_product
+PMC2783775	14	uniprot:UNRESOLVED ID	SNP locus	Gene_or_gene_product
+PMC2783775	16	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2783775	20	uniprot:P54829	step	Gene_or_gene_product
+PMC2783775	22	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2783775	23	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	25	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2783775	27	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	30	uniprot:UNRESOLVED ID	HCC95	Gene_or_gene_product
+PMC2783775	30	uniprot:UNRESOLVED ID	NCI-H1355	Gene_or_gene_product
+PMC2783775	30	uniprot:UNRESOLVED ID	NCI-H2009	Gene_or_gene_product
+PMC2783775	30	uniprot:UNRESOLVED ID	NCI-H1437	Gene_or_gene_product
+PMC2783775	31	uniprot:UNRESOLVED ID	TE10	Gene_or_gene_product
+PMC2783775	31	uniprot:UNRESOLVED ID	TE11	Gene_or_gene_product
+PMC2783775	32	uazid:UA-ORG-537	Lung	Organ
+PMC2783775	32	uniprot:UNRESOLVED ID	serum	CellType
+PMC2783775	33	uniprot:UNRESOLVED ID	serum	CellType
+PMC2783775	35	ncbitax:species:ncbi:9913	calf	Species
+PMC2783775	35	uniprot:UNRESOLVED ID	serum	CellType
+PMC2783775	37	uniprot:UNRESOLVED ID	http://www.broadinstitute.org/rnai/trc;	Gene_or_gene_product
+PMC2783775	38	uniprot:P51114	FXR1	Gene_or_gene_product
+PMC2783775	38	uniprot:Q96RQ3	MCCC1	Gene_or_gene_product
+PMC2783775	38	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC2783775	39	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	39	uniprot:Q86YR7	MCF2L2	Gene_or_gene_product
+PMC2783775	39	uniprot:Q96DA6	DNAJC19	Gene_or_gene_product
+PMC2783775	39	uniprot:Q96N46	TTC14	Gene_or_gene_product
+PMC2783775	39	uniprot:Q8WZ60	KLHL6	Gene_or_gene_product
+PMC2783775	39	uniprot:Q96GG9	DCUN1D1	Gene_or_gene_product
+PMC2783775	39	uniprot:Q9BYG0	B3GNT5	Gene_or_gene_product
+PMC2783775	39	uniprot:Q9H3D4	TP63	Gene_or_gene_product
+PMC2783775	39	uniprot:Q9Y2G3	ATP11B	Gene_or_gene_product
+PMC2783775	39	uniprot:P08962	LAMP3	Gene_or_gene_product
+PMC2783775	40	uniprot:B1JI86	LacZ	Gene_or_gene_product
+PMC2783775	44	uniprot:UNRESOLVED ID	shGFP	Gene_or_gene_product
+PMC2783775	44	uniprot:UNRESOLVED ID	shLacZ	Gene_or_gene_product
+PMC2783775	45	uniprot:UNRESOLVED ID	RIGER	Gene_or_gene_product
+PMC2783775	48	uniprot:D5IGG6	FDR	Gene_or_gene_product
+PMC2783775	49	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	49	uniprot:UNRESOLVED ID	TRC protocols	Gene_or_gene_product
+PMC2783775	49	uniprot:UNRESOLVED ID	http://www.broadinstitute.org/rnai/trc	Gene_or_gene_product
+PMC2783775	50	uniprot:P40225	mL	Gene_or_gene_product
+PMC2783775	53	uniprot:UNRESOLVED ID	anti-Sox2 polyclonal antibody	Gene_or_gene_product
+PMC2783775	53	uniprot:UNRESOLVED ID	Abcam	Gene_or_gene_product
+PMC2783775	53	uniprot:UNRESOLVED ID	anti-DCUN1D1 monoclonal antibody	Gene_or_gene_product
+PMC2783775	53	uniprot:UNRESOLVED ID	anti-vinculin monoclonal antibody	Gene_or_gene_product
+PMC2783775	54	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	55	uniprot:O00358	FOXE1	Gene_or_gene_product
+PMC2783775	55	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2783775	57	uniprot:P48431	Sox2	Gene_or_gene_product
+PMC2783775	57	uniprot:UNRESOLVED ID	Abcam	Gene_or_gene_product
+PMC2783775	57	uniprot:P18206	vinculin	Gene_or_gene_product
+PMC2783775	57	uniprot:UNRESOLVED ID	Sigma	Gene_or_gene_product
+PMC2783775	57	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2783775	57	uniprot:UNRESOLVED ID	Santa Cruz	Gene_or_gene_product
+PMC2783775	57	uniprot:O00358	FoxE1	Gene_or_gene_product
+PMC2783775	57	uniprot:P02730	Di	Gene_or_gene_product
+PMC2783775	61	uniprot:UNRESOLVED ID	ImageJ software	Gene_or_gene_product
+PMC2783775	61	uniprot:UNRESOLVED ID	http://rsb.info.nih.gov/ij/	Gene_or_gene_product
+PMC2783775	68	uniprot:UNRESOLVED ID	Spectra Max5 plate reader	Gene_or_gene_product
+PMC2783775	69	uniprot:UNRESOLVED ID	shSOX2	Gene_or_gene_product
+PMC2783775	71	uniprot:P05231	CDF	Gene_or_gene_product
+PMC2783775	74	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	74	uazid:UA-ORG-537	lung	Organ
+PMC2783775	76	uniprot:UNRESOLVED ID	ES cell	CellType
+PMC2783775	76	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	76	uazid:UA-ORG-537	lung	Organ
+PMC2783775	77	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	79	uniprot:UNRESOLVED ID	Qiagen QuanTiTECT cDNA	Gene_or_gene_product
+PMC2783775	80	uniprot:UNRESOLVED ID	SYBR Green Master Mix	Gene_or_gene_product
+PMC2783775	80	uniprot:P04406	GAPDH	Gene_or_gene_product
+PMC2783775	82	uniprot:P48431	Sox2	Gene_or_gene_product
+PMC2783775	82	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2783775	83	uniprot:UNRESOLVED ID	ZEISS MIRAX Scanner	Gene_or_gene_product
+PMC2783775	83	uniprot:UNRESOLVED ID	scale	CellType
+PMC2783775	84	uniprot:UNRESOLVED ID	scale	CellType
+PMC2783775	87	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	87	uniprot:Q96FA3	Prism	Gene_or_gene_product
+PMC2783775	90	uniprot:UNRESOLVED ID	3q	Gene_or_gene_product
+PMC2783775	90	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	90	uazid:UA-ORG-537	lung	Organ
+PMC2783775	90	uniprot:UNRESOLVED ID	esophageal squamous cell	CellType
+PMC2783775	91	uazid:UA-ORG-537	lung	Organ
+PMC2783775	94	uniprot:UNRESOLVED ID	esophageal squamous cell	CellType
+PMC2783775	94	uazid:UA-ORG-537	lung	Organ
+PMC2783775	97	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	97	uniprot:Q9H3D4	TP63	Gene_or_gene_product
+PMC2783775	98	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	99	uniprot:UNRESOLVED ID	RefSeq genes	Gene_or_gene_product
+PMC2783775	99	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	99	uniprot:Q9Y2G3	ATP11B	Gene_or_gene_product
+PMC2783775	99	uniprot:Q96DA6	DNAJC19	Gene_or_gene_product
+PMC2783775	99	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC2783775	100	uniprot:UNRESOLVED ID	panel C.	Gene_or_gene_product
+PMC2783775	101	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	102	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	103	uazid:UA-ORG-537	lung	Organ
+PMC2783775	108	uniprot:UNRESOLVED ID	shGFP	Gene_or_gene_product
+PMC2783775	108	uniprot:UNRESOLVED ID	shLacZ	Gene_or_gene_product
+PMC2783775	109	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	109	uniprot:UNRESOLVED ID	shGFP	Gene_or_gene_product
+PMC2783775	110	uniprot:UNRESOLVED ID	HCC95	Gene_or_gene_product
+PMC2783775	110	uniprot:UNRESOLVED ID	NCI-H520	Gene_or_gene_product
+PMC2783775	110	uazid:UA-ORG-537	lung	Organ
+PMC2783775	110	uniprot:UNRESOLVED ID	TE10	Gene_or_gene_product
+PMC2783775	110	uniprot:UNRESOLVED ID	NCI-H1437	Gene_or_gene_product
+PMC2783775	110	uniprot:UNRESOLVED ID	NCI-H1355	Gene_or_gene_product
+PMC2783775	111	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	116	uniprot:UNRESOLVED ID	HCC95	Gene_or_gene_product
+PMC2783775	116	uniprot:UNRESOLVED ID	NCI-H520	Gene_or_gene_product
+PMC2783775	116	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	116	uniprot:UNRESOLVED ID	shGFP	Gene_or_gene_product
+PMC2783775	117	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	118	uniprot:UNRESOLVED ID	shGFP	Gene_or_gene_product
+PMC2783775	119	uniprot:P48431	Sox2	Gene_or_gene_product
+PMC2783775	119	uniprot:P18206	vinculin	Gene_or_gene_product
+PMC2783775	120	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	120	uniprot:O00358	FOXE1-	Gene_or_gene_product
+PMC2783775	120	uniprot:UNRESOLVED ID	FGFR2IIIb	Gene_or_gene_product
+PMC2783775	121	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	121	uniprot:O00358	FOXE1	Gene_or_gene_product
+PMC2783775	122	uniprot:UNRESOLVED ID	Graph	Gene_or_gene_product
+PMC2783775	123	uniprot:P48431	Sox2	Gene_or_gene_product
+PMC2783775	123	uniprot:O00358	FoxE1	Gene_or_gene_product
+PMC2783775	124	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	124	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2783775	125	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	126	uazid:UA-ORG-537	lung	Organ
+PMC2783775	126	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	127	uniprot:D5IGG6	FDR	Gene_or_gene_product
+PMC2783775	127	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	128	uniprot:Q9H3D4	TP63	Gene_or_gene_product
+PMC2783775	128	uniprot:P02538	KRT6A	Gene_or_gene_product
+PMC2783775	128	uniprot:P48431	SOX2	Gene_or_gene_product
+PMC2783775	129	uazid:UA-ORG-537	lung	Organ
+PMC2783775	129	uniprot:UNRESOLVED ID	esophageal squamous cell	CellType
+PMC2783775	130	uazid:UA-ORG-537	lung	Organ
+PMC2783775	130	uniprot:UNRESOLVED ID	squamous cell	CellType
+PMC2783775	130	uniprot:UNRESOLVED ID	carcinoma	CellType
+PMC2783775	130	uniprot:UNRESOLVED ID	esophageal squamous cell	CellType
+PMC2783775	131	uniprot:F1Q4R9	Cho	CellType
+PMC2783775	134	uniprot:UNRESOLVED ID	KWF	Gene_or_gene_product
+PMC2783775	135	uniprot:UNRESOLVED ID	5P01CA098101-05	Gene_or_gene_product
+PMC2783775	136	uniprot:UNRESOLVED ID	P50CA70907	Gene_or_gene_product
+PMC2783775	136	uniprot:UNRESOLVED ID	J.D.M	Gene_or_gene_product
+PMC2783775	136	uniprot:UNRESOLVED ID	R01CA071606-12	Gene_or_gene_product
+PMC2783775	136	uniprot:UNRESOLVED ID	D.G.B	Gene_or_gene_product
+PMC2783775	136	uniprot:UNRESOLVED ID	P01CA098101-05	Gene_or_gene_product
+PMC2783775	136	uniprot:UNRESOLVED ID	R01CA109038	Gene_or_gene_product
+PMC2783775	136	uniprot:UNRESOLVED ID	P20CA90578	Gene_or_gene_product
+PMC2783775	137	uazid:UA-ORG-537	lung	Organ
+PMC2783775	139	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2783775	146	uniprot:UNRESOLVED ID	Interest Statement	Gene_or_gene_product
+PMC2783775	147	uniprot:O16011	MM	Gene_or_gene_product
+PMC2783775	147	uniprot:UNRESOLVED ID	WCH	Gene_or_gene_product

@@ -1,0 +1,547 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2139800	0	uniprot:P55196	Afadin	Gene_or_gene_product
+PMC2139800	1	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	1	uniprot:UNRESOLVED ID	~205 kD	Gene_or_gene_product
+PMC2139800	1	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	1	uniprot:UNRESOLVED ID	AJ	Gene_or_gene_product
+PMC2139800	2	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	2	uniprot:Q2G0B1	rat	Species
+PMC2139800	2	uazid:UA-CT-200001	brain	Organ
+PMC2139800	3	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	4	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	5	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	5	uniprot:Q2G0B1	rat	Species
+PMC2139800	5	uazid:UA-CT-200001	brain	Organ
+PMC2139800	5	uniprot:P78357	p190	Gene_or_gene_product
+PMC2139800	6	uniprot:P78357	p190	Gene_or_gene_product
+PMC2139800	7	uniprot:P78357	p190	Gene_or_gene_product
+PMC2139800	7	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	8	uniprot:P78357	p190	Gene_or_gene_product
+PMC2139800	8	uniprot:UNRESOLVED ID	AF-6 gene	Gene_or_gene_product
+PMC2139800	8	uniprot:Q03164	ALL-1	Gene_or_gene_product
+PMC2139800	8	uniprot:UNRESOLVED ID	leukemia	CellType
+PMC2139800	9	uniprot:P78357	p190	Gene_or_gene_product
+PMC2139800	9	uniprot:Q2G0B1	rat	Species
+PMC2139800	9	ncbitax:species:ncbi:9606	human	Species
+PMC2139800	10	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	10	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	11	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	11	uniprot:Q2G0B1	rat	Species
+PMC2139800	11	uniprot:P78357	p190	Gene_or_gene_product
+PMC2139800	11	uazid:UA-CT-200001	brain	Organ
+PMC2139800	12	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	13	uniprot:UNRESOLVED ID	p205 l-afadin	Gene_or_gene_product
+PMC2139800	13	uniprot:UNRESOLVED ID	AF-6 protein	Gene_or_gene_product
+PMC2139800	13	uniprot:P78357	p190	Gene_or_gene_product
+PMC2139800	13	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	14	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	15	uniprot:Q86XP6	Blot	Gene_or_gene_product
+PMC2139800	16	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	17	uniprot:UNRESOLVED ID	G-actin	Gene_or_gene_product
+PMC2139800	18	uniprot:UNRESOLVED ID	G-actin	Gene_or_gene_product
+PMC2139800	18	uniprot:P06396	gelsolin	Gene_or_gene_product
+PMC2139800	18	uniprot:P01298	pH	Gene_or_gene_product
+PMC2139800	18	uniprot:UNRESOLVED ID	mM KCl, and 2 mM MgCl2	Gene_or_gene_product
+PMC2139800	19	uniprot:UNRESOLVED ID	Phalloidin	Gene_or_gene_product
+PMC2139800	19	ncbitax:species:ncbi:41568	muM	Species
+PMC2139800	20	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	22	uniprot:UNRESOLVED ID	milk	CellType
+PMC2139800	23	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	23	uniprot:UNRESOLVED ID	milk	CellType
+PMC2139800	23	ncbitax:species:ncbi:41568	muM	Species
+PMC2139800	24	uniprot:UNRESOLVED ID	Fujix BAS-2000II	Gene_or_gene_product
+PMC2139800	24	uniprot:UNRESOLVED ID	Fuji Photo Film Co.	Gene_or_gene_product
+PMC2139800	25	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	25	uniprot:P06396	gelsolin	Gene_or_gene_product
+PMC2139800	26	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	26	uniprot:UNRESOLVED ID	myosin subfragment 1	Gene_or_gene_product
+PMC2139800	26	uniprot:UNRESOLVED ID	Sigma	Gene_or_gene_product
+PMC2139800	26	uniprot:P01298	pH	Gene_or_gene_product
+PMC2139800	26	uniprot:UNRESOLVED ID	mM KCl, 2 mM MgCl2, 130 muM CaCl2	Gene_or_gene_product
+PMC2139800	26	ncbitax:species:ncbi:41568	muM	Species
+PMC2139800	27	uniprot:UNRESOLVED ID	mM MgATP	Gene_or_gene_product
+PMC2139800	28	uniprot:UNRESOLVED ID	milk	CellType
+PMC2139800	29	uniprot:UNRESOLVED ID	l-Afadin	Gene_or_gene_product
+PMC2139800	31	uazid:UA-ORG-114	brains	Organ
+PMC2139800	31	ncbitax:species:ncbi:10116	rats	Species
+PMC2139800	31	uniprot:Q9NQV6	Tris	Gene_or_gene_product
+PMC2139800	31	uniprot:P01298	pH	Gene_or_gene_product
+PMC2139800	31	uniprot:P10265	protease	Gene_or_gene_product
+PMC2139800	31	uniprot:UNRESOLVED ID	mM PMSF	Gene_or_gene_product
+PMC2139800	31	uniprot:UNRESOLVED ID	leupeptin	Gene_or_gene_product
+PMC2139800	34	uniprot:UNRESOLVED ID	FF	Gene_or_gene_product
+PMC2139800	34	uniprot:Q9NQV6	Tris	Gene_or_gene_product
+PMC2139800	34	uniprot:P01298	pH	Gene_or_gene_product
+PMC2139800	39	uniprot:UNRESOLVED ID	NH4	Gene_or_gene_product
+PMC2139800	41	uniprot:P01298	pH	Gene_or_gene_product
+PMC2139800	42	uniprot:P01298	pH	Gene_or_gene_product
+PMC2139800	44	uniprot:O43593	HR	Gene_or_gene_product
+PMC2139800	49	uniprot:P78357	p190	Gene_or_gene_product
+PMC2139800	49	uniprot:UNRESOLVED ID	s-afadin	Gene_or_gene_product
+PMC2139800	49	uniprot:Q02SZ7	lysyl endopeptidase	Gene_or_gene_product
+PMC2139800	49	uniprot:UNRESOLVED ID	TSKgel ODS-80Ts	Gene_or_gene_product
+PMC2139800	51	uniprot:Q2G0B1	rat	Species
+PMC2139800	51	uazid:UA-CT-200001	brain	Organ
+PMC2139800	51	uniprot:UNRESOLVED ID	lambdaZAPII	Gene_or_gene_product
+PMC2139800	54	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2139800	55	uniprot:Q2G0B1	rat	Species
+PMC2139800	55	uniprot:O43557	light	Gene_or_gene_product
+PMC2139800	56	uniprot:Q96T53	goat	Species
+PMC2139800	56	uniprot:UNRESOLVED ID	anti-goat IgG antibody	Gene_or_gene_product
+PMC2139800	57	uniprot:UNRESOLVED ID	Nikon filter B-2A	Gene_or_gene_product
+PMC2139800	58	uniprot:UNRESOLVED ID	Recombinant l-Afadin	Gene_or_gene_product
+PMC2139800	59	uniprot:UNRESOLVED ID	bp 326-5344	Gene_or_gene_product
+PMC2139800	59	uniprot:UNRESOLVED ID	aa 1-1673	Gene_or_gene_product
+PMC2139800	59	uniprot:UNRESOLVED ID	pCMV-myc	Gene_or_gene_product
+PMC2139800	61	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	62	uniprot:UNRESOLVED ID	l-afadin cDNA	Gene_or_gene_product
+PMC2139800	63	uniprot:O60760	glutathione S-transferase	Gene_or_gene_product
+PMC2139800	63	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2139800	63	uniprot:UNRESOLVED ID	GST-l-afadin-C	Gene_or_gene_product
+PMC2139800	63	uniprot:UNRESOLVED ID	His6-l-afadin-C	Gene_or_gene_product
+PMC2139800	65	uniprot:UNRESOLVED ID	alpha-actinin	Gene_or_gene_product
+PMC2139800	65	ncbitax:species:ncbi:9031	chick	Species
+PMC2139800	65	uazid:UA-ORG-537	lung	Organ
+PMC2139800	65	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	65	uniprot:UNRESOLVED ID	s-afadin	Gene_or_gene_product
+PMC2139800	65	uniprot:UNRESOLVED ID	G-actin	Gene_or_gene_product
+PMC2139800	65	uniprot:Q9NQV6	Tris	Gene_or_gene_product
+PMC2139800	65	uniprot:P01298	pH	Gene_or_gene_product
+PMC2139800	67	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	67	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	67	uniprot:UNRESOLVED ID	G-actin	Gene_or_gene_product
+PMC2139800	67	uniprot:P01298	pH	Gene_or_gene_product
+PMC2139800	68	uniprot:UNRESOLVED ID	GST-l-afadin-C	Gene_or_gene_product
+PMC2139800	68	uniprot:UNRESOLVED ID	His6- l-afadin-C	Gene_or_gene_product
+PMC2139800	68	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	69	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2139800	70	uniprot:UNRESOLVED ID	GST-l-afadin-C	Gene_or_gene_product
+PMC2139800	70	uniprot:UNRESOLVED ID	His6-l-afadin-C	Gene_or_gene_product
+PMC2139800	70	uniprot:UNRESOLVED ID	Fujix BAS-2000II	Gene_or_gene_product
+PMC2139800	71	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2139800	71	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	71	uniprot:UNRESOLVED ID	KASRKLTELENELNTK	Gene_or_gene_product
+PMC2139800	72	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	72	uniprot:UNRESOLVED ID	aa 577-592	Gene_or_gene_product
+PMC2139800	72	uniprot:UNRESOLVED ID	RLDQEQDYRRRESRTQ	Gene_or_gene_product
+PMC2139800	73	uniprot:UNRESOLVED ID	limpet hemocyanin	Gene_or_gene_product
+PMC2139800	74	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	74	uniprot:UNRESOLVED ID	GST-l-afadin-C	Gene_or_gene_product
+PMC2139800	74	uniprot:Q6T4R5	NHS	Gene_or_gene_product
+PMC2139800	74	uniprot:UNRESOLVED ID	anti-l-afadin antibody	Gene_or_gene_product
+PMC2139800	75	uniprot:UNRESOLVED ID	anti-l- and s-afadin antibody	Gene_or_gene_product
+PMC2139800	76	uniprot:UNRESOLVED ID	anti-ZO-1	Gene_or_gene_product
+PMC2139800	76	uniprot:UNRESOLVED ID	anti-myc epitope                         antibodies	Gene_or_gene_product
+PMC2139800	77	uniprot:UNRESOLVED ID	antivinculin	Gene_or_gene_product
+PMC2139800	78	uniprot:Q2G0B1	rat	Species
+PMC2139800	78	ncbitax:species:ncbi:10090	mouse	Species
+PMC2139800	81	uniprot:UNRESOLVED ID	anti-l-afadin antibody	Gene_or_gene_product
+PMC2139800	81	uniprot:UNRESOLVED ID	antivinculin antibody	Gene_or_gene_product
+PMC2139800	82	ncbitax:species:ncbi:9793	donkey	Species
+PMC2139800	82	uniprot:UNRESOLVED ID	IgG	Gene_or_gene_product
+PMC2139800	82	uniprot:UNRESOLVED ID	FITC	Gene_or_gene_product
+PMC2139800	82	ncbitax:species:ncbi:9940	sheep	Species
+PMC2139800	82	uniprot:UNRESOLVED ID	IgG antibodies	Gene_or_gene_product
+PMC2139800	84	uniprot:Q5QJ74	EL	Gene_or_gene_product
+PMC2139800	86	uniprot:Q7Z859	PBS	Gene_or_gene_product
+PMC2139800	87	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2139800	87	ncbitax:species:ncbi:10090	mouse	Species
+PMC2139800	87	uniprot:UNRESOLVED ID	IgG	Gene_or_gene_product
+PMC2139800	87	uniprot:UNRESOLVED ID	FITC	Gene_or_gene_product
+PMC2139800	87	uniprot:UNRESOLVED ID	IgG antibodies	Gene_or_gene_product
+PMC2139800	89	uazid:UA-CT-33	bile	CellType
+PMC2139800	89	ncbitax:species:ncbi:10090	mouse	Species
+PMC2139800	89	uazid:UA-ORG-520	liver	Organ
+PMC2139800	90	uazid:UA-CT-33	bile	CellType
+PMC2139800	93	uniprot:Q2G0B1	rat	Species
+PMC2139800	93	uazid:UA-ORG-886	small intestine	Organ
+PMC2139800	94	uniprot:UNRESOLVED ID	anti-l-afadin antibody	Gene_or_gene_product
+PMC2139800	94	uniprot:UNRESOLVED ID	anti-rabbit IgG antibody	Gene_or_gene_product
+PMC2139800	96	uniprot:P01298	pH	Gene_or_gene_product
+PMC2139800	97	uniprot:UNRESOLVED ID	resin	CellType
+PMC2139800	100	uniprot:Q2G0B1	rat	Species
+PMC2139800	100	uazid:UA-ORG-886	small intestine	Organ
+PMC2139800	100	uniprot:P01298	pH	Gene_or_gene_product
+PMC2139800	103	uniprot:UNRESOLVED ID	anti-l-afadin antibody	Gene_or_gene_product
+PMC2139800	103	uniprot:Q96T53	goat	Species
+PMC2139800	106	uniprot:UNRESOLVED ID	G-Actin	Gene_or_gene_product
+PMC2139800	106	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2139800	106	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC2139800	107	uniprot:P02769	BSA	Gene_or_gene_product
+PMC2139800	108	uniprot:UNRESOLVED ID	l-Afadin	Gene_or_gene_product
+PMC2139800	109	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	110	uniprot:Q2G0B1	rat	Species
+PMC2139800	110	uazid:UA-CT-200001	brain	Organ
+PMC2139800	112	uniprot:UNRESOLVED ID	~205 kD	Gene_or_gene_product
+PMC2139800	112	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	113	uniprot:Q0ZGT2	F-actin-binding protein	Gene_or_gene_product
+PMC2139800	113	uniprot:UNRESOLVED ID	~205	Gene_or_gene_product
+PMC2139800	113	uniprot:UNRESOLVED ID	Mono S	Gene_or_gene_product
+PMC2139800	115	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	115	uniprot:P78357	p190	Gene_or_gene_product
+PMC2139800	116	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	116	uniprot:P78357	p190	Gene_or_gene_product
+PMC2139800	117	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	117	uniprot:P78357	p190	Gene_or_gene_product
+PMC2139800	118	ncbitax:species:ncbi:9606	human	Species
+PMC2139800	119	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	120	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	120	uniprot:P78357	p190	Gene_or_gene_product
+PMC2139800	120	ncbitax:species:ncbi:9606	human	Species
+PMC2139800	121	uniprot:Q2G0B1	rat	Species
+PMC2139800	121	uazid:UA-CT-200001	brain	Organ
+PMC2139800	123	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	123	uniprot:P78357	p190	Gene_or_gene_product
+PMC2139800	124	uniprot:UNRESOLVED ID	p205 cDNA	Gene_or_gene_product
+PMC2139800	124	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	125	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	125	uniprot:UNRESOLVED ID	myc-l-afadinDeltaC	Gene_or_gene_product
+PMC2139800	125	uniprot:UNRESOLVED ID	F-actin-	Gene_or_gene_product
+PMC2139800	126	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	126	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2139800	126	uniprot:UNRESOLVED ID	GST-l-afadin-C	Gene_or_gene_product
+PMC2139800	127	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	127	uniprot:UNRESOLVED ID	F-actin-	Gene_or_gene_product
+PMC2139800	127	uniprot:UNRESOLVED ID	p205 gene	Gene_or_gene_product
+PMC2139800	127	uniprot:UNRESOLVED ID	Gen Bank	Gene_or_gene_product
+PMC2139800	127	uniprot:UNRESOLVED ID	EMBL	Gene_or_gene_product
+PMC2139800	127	uniprot:UNRESOLVED ID	DDBJ	Gene_or_gene_product
+PMC2139800	127	uniprot:P78357	p190	Gene_or_gene_product
+PMC2139800	127	uniprot:UNRESOLVED ID	~160 COOH-terminal aa	Gene_or_gene_product
+PMC2139800	127	uniprot:UNRESOLVED ID	GenBank/EMBL/DDBJ accession number U83231	Gene_or_gene_product
+PMC2139800	128	uniprot:P78357	p190	Gene_or_gene_product
+PMC2139800	128	ncbitax:species:ncbi:9606	human	Species
+PMC2139800	128	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	129	uniprot:P78357	p190	Gene_or_gene_product
+PMC2139800	129	uniprot:Q2G0B1	rat	Species
+PMC2139800	129	ncbitax:species:ncbi:9606	human	Species
+PMC2139800	130	uniprot:Q0ZGT2	F-actin-binding protein	Gene_or_gene_product
+PMC2139800	131	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	131	uniprot:P78357	p190	Gene_or_gene_product
+PMC2139800	132	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	132	uniprot:P78357	p190	Gene_or_gene_product
+PMC2139800	132	uniprot:UNRESOLVED ID	s-afadins	Gene_or_gene_product
+PMC2139800	133	uniprot:UNRESOLVED ID	l-afadin cDNA	Gene_or_gene_product
+PMC2139800	133	uniprot:Q2G0B1	rat	Species
+PMC2139800	133	uazid:UA-ORG-385	heart	Organ
+PMC2139800	133	uazid:UA-CT-200001	brain	Organ
+PMC2139800	133	uazid:UA-ORG-903	spleen	Organ
+PMC2139800	133	uazid:UA-ORG-537	lung	Organ
+PMC2139800	133	uazid:UA-ORG-520	liver	Organ
+PMC2139800	133	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC2139800	133	uazid:UA-ORG-461	kidney	Organ
+PMC2139800	133	uniprot:UNRESOLVED ID	testis	CellType
+PMC2139800	134	uniprot:Q6V1Q2	l-	Gene_or_gene_product
+PMC2139800	134	uniprot:UNRESOLVED ID	s-afadins	Gene_or_gene_product
+PMC2139800	135	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	135	uniprot:UNRESOLVED ID	~205-kD protein	Gene_or_gene_product
+PMC2139800	135	uniprot:Q2G0B1	rat	Species
+PMC2139800	136	uniprot:UNRESOLVED ID	~190-kD protein	Gene_or_gene_product
+PMC2139800	136	uazid:UA-CT-200001	brain	Organ
+PMC2139800	137	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	137	uniprot:UNRESOLVED ID	s-afadin	Gene_or_gene_product
+PMC2139800	137	uazid:UA-CT-200001	brain	Organ
+PMC2139800	138	uazid:UA-CT-200001	brain	Organ
+PMC2139800	139	uniprot:UNRESOLVED ID	l-Afadin	Gene_or_gene_product
+PMC2139800	140	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	140	uniprot:UNRESOLVED ID	s-afadin	Gene_or_gene_product
+PMC2139800	140	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	141	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	141	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	142	uniprot:UNRESOLVED ID	MgATP	Gene_or_gene_product
+PMC2139800	142	uniprot:UNRESOLVED ID	myosin	Gene_or_gene_product
+PMC2139800	143	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	143	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	144	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	144	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	145	uniprot:UNRESOLVED ID	alpha-actinin	Gene_or_gene_product
+PMC2139800	146	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	147	uniprot:UNRESOLVED ID	alpha-Actinin	Gene_or_gene_product
+PMC2139800	148	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	148	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	149	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	149	uniprot:UNRESOLVED ID	alpha-actinin	Gene_or_gene_product
+PMC2139800	151	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	151	uniprot:UNRESOLVED ID	His6- l-afadin-C	Gene_or_gene_product
+PMC2139800	154	uniprot:UNRESOLVED ID	GST-l-afadin-C	Gene_or_gene_product
+PMC2139800	155	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	157	uniprot:P06396	gelsolin	Gene_or_gene_product
+PMC2139800	158	uniprot:UNRESOLVED ID	l-Afadin	Gene_or_gene_product
+PMC2139800	158	uniprot:UNRESOLVED ID	Cell-to-Cell AJ	Gene_or_gene_product
+PMC2139800	159	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	159	uniprot:Q2G0B1	rat	Species
+PMC2139800	159	ncbitax:species:ncbi:10090	mouse	Species
+PMC2139800	159	uniprot:UNRESOLVED ID	anti-l-afadin antibody	Gene_or_gene_product
+PMC2139800	160	uazid:UA-ORG-520	liver	Organ
+PMC2139800	160	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	160	uazid:UA-CT-33	bile	CellType
+PMC2139800	161	uazid:UA-ORG-886	small intestine	Organ
+PMC2139800	161	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	161	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2139800	161	uazid:UA-ORG-451	intestine	Organ
+PMC2139800	162	uazid:UA-ORG-385	heart	Organ
+PMC2139800	162	uniprot:UNRESOLVED ID	monoclonal antivinculin antibody	Gene_or_gene_product
+PMC2139800	163	uniprot:P18206	Vinculin	Gene_or_gene_product
+PMC2139800	164	uniprot:UNRESOLVED ID	l-Afadin	Gene_or_gene_product
+PMC2139800	164	uniprot:P18206	vinculin	Gene_or_gene_product
+PMC2139800	165	uniprot:P18206	Vinculin	Gene_or_gene_product
+PMC2139800	165	uazid:UA-ORG-132	cardiac muscle	Organ
+PMC2139800	165	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	166	uniprot:Q5QJ74	EL	Gene_or_gene_product
+PMC2139800	166	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2139800	166	uniprot:UNRESOLVED ID	anti-ZO-1 antibody	Gene_or_gene_product
+PMC2139800	166	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	166	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2139800	167	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2139800	167	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2139800	168	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	169	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	169	uazid:UA-ORG-886	small intestine	Organ
+PMC2139800	169	uniprot:UNRESOLVED ID	monoclonal anti-ZO-1 antibody	Gene_or_gene_product
+PMC2139800	169	uazid:UA-CT-33	bile	CellType
+PMC2139800	169	uazid:UA-ORG-520	liver	Organ
+PMC2139800	169	uniprot:UNRESOLVED ID	monoclonal antidesmoplakin antibody	Gene_or_gene_product
+PMC2139800	170	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2139800	170	uniprot:P15924	desmoplakin	Gene_or_gene_product
+PMC2139800	171	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	171	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2139800	172	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	172	uniprot:P15924	desmoplakin	Gene_or_gene_product
+PMC2139800	173	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	174	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	174	uazid:UA-ORG-451	intestine	Organ
+PMC2139800	176	uniprot:Q0ZGT2	F-actin-binding protein	Gene_or_gene_product
+PMC2139800	176	uniprot:UNRESOLVED ID	~205 kD	Gene_or_gene_product
+PMC2139800	176	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	177	uniprot:P78357	p190	Gene_or_gene_product
+PMC2139800	178	uniprot:P78357	p190	Gene_or_gene_product
+PMC2139800	178	uniprot:UNRESOLVED ID	p205 cDNA	Gene_or_gene_product
+PMC2139800	179	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2139800	180	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	180	uniprot:P78357	p190	Gene_or_gene_product
+PMC2139800	181	uniprot:P78357	p190	Gene_or_gene_product
+PMC2139800	181	ncbitax:species:ncbi:9606	human	Species
+PMC2139800	181	uniprot:Q2G0B1	rat	Species
+PMC2139800	182	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	182	uniprot:P78357	p190	Gene_or_gene_product
+PMC2139800	182	uniprot:UNRESOLVED ID	s-afadins	Gene_or_gene_product
+PMC2139800	183	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	183	uniprot:UNRESOLVED ID	Mono S	Gene_or_gene_product
+PMC2139800	187	uazid:UA-CT-200001	brain	Organ
+PMC2139800	187	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	189	uazid:UA-ORG-624	neutrophils	Organ
+PMC2139800	190	ncbitax:species:ncbi:9606	human	Species
+PMC2139800	190	uazid:UA-ORG-624	neutrophils	Organ
+PMC2139800	190	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	190	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	191	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	191	uniprot:Q2G0B1	rat	Species
+PMC2139800	194	uniprot:UNRESOLVED ID	l-Afadin	Gene_or_gene_product
+PMC2139800	195	uniprot:UNRESOLVED ID	s-afadin	Gene_or_gene_product
+PMC2139800	195	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	195	uniprot:UNRESOLVED ID	myc-l-afadinDeltaC	Gene_or_gene_product
+PMC2139800	195	uniprot:UNRESOLVED ID	GST-l-afadin-C	Gene_or_gene_product
+PMC2139800	195	uniprot:UNRESOLVED ID	F-actin-	Gene_or_gene_product
+PMC2139800	196	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	196	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	197	uniprot:UNRESOLVED ID	His6-l-afadin-C	Gene_or_gene_product
+PMC2139800	197	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	198	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	200	uniprot:UNRESOLVED ID	alpha-actinin	Gene_or_gene_product
+PMC2139800	201	uniprot:UNRESOLVED ID	alpha-Actinin	Gene_or_gene_product
+PMC2139800	201	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	202	uniprot:UNRESOLVED ID	alpha-actinin	Gene_or_gene_product
+PMC2139800	203	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	203	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	206	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	206	uniprot:UNRESOLVED ID	alpha-actinin	Gene_or_gene_product
+PMC2139800	207	uniprot:P41161	ERM	Gene_or_gene_product
+PMC2139800	207	uniprot:P15311	ezrin	Gene_or_gene_product
+PMC2139800	207	uniprot:P35241	radixin	Gene_or_gene_product
+PMC2139800	207	uniprot:P26038	moesin	Gene_or_gene_product
+PMC2139800	207	uniprot:P11171	band 4.1	Gene_or_gene_product
+PMC2139800	207	uniprot:Q0ZGT2	F-actin-binding protein	Gene_or_gene_product
+PMC2139800	207	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	208	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	208	uniprot:P15311	ezrin	Gene_or_gene_product
+PMC2139800	208	uniprot:P26038	moesin	Gene_or_gene_product
+PMC2139800	209	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	209	uniprot:P15311	ezrin	Gene_or_gene_product
+PMC2139800	209	uniprot:P26038	moesin	Gene_or_gene_product
+PMC2139800	210	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	210	uniprot:P15311	ezrin	Gene_or_gene_product
+PMC2139800	210	uniprot:P26038	moesin	Gene_or_gene_product
+PMC2139800	211	uniprot:UNRESOLVED ID	l-Afadin	Gene_or_gene_product
+PMC2139800	211	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	211	uniprot:P15311	ezrin	Gene_or_gene_product
+PMC2139800	211	uniprot:P26038	moesin	Gene_or_gene_product
+PMC2139800	212	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	213	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	214	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	218	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	219	uniprot:UNRESOLVED ID	alpha-actinin	Gene_or_gene_product
+PMC2139800	219	uniprot:UNRESOLVED ID	talin	Gene_or_gene_product
+PMC2139800	219	uniprot:P18206	vinculin	Gene_or_gene_product
+PMC2139800	220	uniprot:UNRESOLVED ID	alpha-actinin	Gene_or_gene_product
+PMC2139800	220	uniprot:UNRESOLVED ID	talin	Gene_or_gene_product
+PMC2139800	220	uniprot:P18206	vinculin	Gene_or_gene_product
+PMC2139800	221	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC2139800	222	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	222	uniprot:UNRESOLVED ID	alpha-actinin	Gene_or_gene_product
+PMC2139800	222	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2139800	223	uniprot:P18206	Vinculin	Gene_or_gene_product
+PMC2139800	224	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	225	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	225	uniprot:O42043	transmembrane protein	Gene_or_gene_product
+PMC2139800	226	uniprot:UNRESOLVED ID	AF-6 gene	Gene_or_gene_product
+PMC2139800	226	uniprot:Q03164	ALL-1	Gene_or_gene_product
+PMC2139800	226	uniprot:UNRESOLVED ID	leukemia	CellType
+PMC2139800	227	uniprot:UNRESOLVED ID	AF-6 gene	Gene_or_gene_product
+PMC2139800	228	uniprot:UNRESOLVED ID	s-afadin	Gene_or_gene_product
+PMC2139800	229	uniprot:UNRESOLVED ID	s-Afadin	Gene_or_gene_product
+PMC2139800	229	uniprot:UNRESOLVED ID	Drosophila canoe gene	Gene_or_gene_product
+PMC2139800	230	uniprot:UNRESOLVED ID	wing	CellType
+PMC2139800	231	uniprot:UNRESOLVED ID	armadillo	Gene_or_gene_product
+PMC2139800	231	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC2139800	232	uniprot:UNRESOLVED ID	armadillo genes	Gene_or_gene_product
+PMC2139800	233	uniprot:Q6V1Q2	l-	Gene_or_gene_product
+PMC2139800	233	uniprot:UNRESOLVED ID	s-Afadins	Gene_or_gene_product
+PMC2139800	234	uniprot:UNRESOLVED ID	AF-6 protein	Gene_or_gene_product
+PMC2139800	234	uniprot:UNRESOLVED ID	s-afadin	Gene_or_gene_product
+PMC2139800	234	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2139800	234	uniprot:P15153	small G protein	Gene_or_gene_product
+PMC2139800	235	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2139800	235	uniprot:P01116	Ki-Ras	Gene_or_gene_product
+PMC2139800	236	uazid:UA-ORG-461	kidney	Organ
+PMC2139800	236	uniprot:P01106	myc	Gene_or_gene_product
+PMC2139800	236	uniprot:P01116	Ki-Ras	Gene_or_gene_product
+PMC2139800	237	uniprot:UNRESOLVED ID	s-afadin	Gene_or_gene_product
+PMC2139800	240	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	241	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	244	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	244	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	244	uniprot:UNRESOLVED ID	s-afadin	Gene_or_gene_product
+PMC2139800	244	uniprot:P78357	p190	Gene_or_gene_product
+PMC2139800	246	uniprot:Q6V1Q2	l-	Gene_or_gene_product
+PMC2139800	246	uniprot:UNRESOLVED ID	s-afadin genes	Gene_or_gene_product
+PMC2139800	246	uniprot:UNRESOLVED ID	U83230	Gene_or_gene_product
+PMC2139800	246	uniprot:UNRESOLVED ID	U83231	Gene_or_gene_product
+PMC2139800	247	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	247	uniprot:P68040	p205	Gene_or_gene_product
+PMC2139800	247	uniprot:UNRESOLVED ID	s-afadin	Gene_or_gene_product
+PMC2139800	247	uniprot:P78357	p190	Gene_or_gene_product
+PMC2139800	248	uniprot:UNRESOLVED ID	recombinant l-afadin	Gene_or_gene_product
+PMC2139800	249	uniprot:UNRESOLVED ID	Full-length l-afadin	Gene_or_gene_product
+PMC2139800	249	uniprot:UNRESOLVED ID	myc-l-afadin	Gene_or_gene_product
+PMC2139800	249	uniprot:UNRESOLVED ID	aa 1-1673	Gene_or_gene_product
+PMC2139800	249	uniprot:UNRESOLVED ID	myc-l-afadinDeltaC	Gene_or_gene_product
+PMC2139800	249	uniprot:P01106	myc	Gene_or_gene_product
+PMC2139800	250	uniprot:UNRESOLVED ID	GST-l-afadin-C	Gene_or_gene_product
+PMC2139800	250	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2139800	251	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	252	uniprot:UNRESOLVED ID	myc epitope antibody	Gene_or_gene_product
+PMC2139800	253	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	253	uniprot:UNRESOLVED ID	anti-myc antibody	Gene_or_gene_product
+PMC2139800	256	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	258	uniprot:UNRESOLVED ID	CLONTECH	Gene_or_gene_product
+PMC2139800	258	uniprot:UNRESOLVED ID	Palo Alto	Gene_or_gene_product
+PMC2139800	258	uniprot:UNRESOLVED ID	l-afadin cDNA	Gene_or_gene_product
+PMC2139800	259	uniprot:UNRESOLVED ID	~7.5-kb mRNA	Gene_or_gene_product
+PMC2139800	259	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	259	uniprot:UNRESOLVED ID	~4.2 kb	Gene_or_gene_product
+PMC2139800	260	uniprot:P41349	b1	Gene_or_gene_product
+PMC2139800	260	uniprot:P41348	b2	Gene_or_gene_product
+PMC2139800	261	uniprot:Q2G0B1	rat	Species
+PMC2139800	261	uniprot:P41349	b1	Gene_or_gene_product
+PMC2139800	261	uniprot:UNRESOLVED ID	anti-l- and -s-afadin antibody	Gene_or_gene_product
+PMC2139800	261	uniprot:P41348	b2	Gene_or_gene_product
+PMC2139800	262	uazid:UA-ORG-385	heart	Organ
+PMC2139800	262	uniprot:UNRESOLVED ID	anti-l-afadin antibody	Gene_or_gene_product
+PMC2139800	262	uniprot:UNRESOLVED ID	~205 kD	Gene_or_gene_product
+PMC2139800	262	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	263	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	264	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	264	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	265	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	265	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	266	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	267	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	268	uniprot:UNRESOLVED ID	alpha-actinin	Gene_or_gene_product
+PMC2139800	269	uniprot:UNRESOLVED ID	His6-l-afadin-C	Gene_or_gene_product
+PMC2139800	269	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	270	uniprot:UNRESOLVED ID	His6-l-afadin-C	Gene_or_gene_product
+PMC2139800	270	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2139800	271	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	271	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2139800	271	uniprot:P18206	vinculin	Gene_or_gene_product
+PMC2139800	271	uniprot:Q2G0B1	rat	Species
+PMC2139800	271	ncbitax:species:ncbi:10090	mouse	Species
+PMC2139800	272	uniprot:Q2G0B1	rat	Species
+PMC2139800	272	uazid:UA-ORG-520	liver	Organ
+PMC2139800	272	uniprot:UNRESOLVED ID	anti- l-afadin antibody	Gene_or_gene_product
+PMC2139800	273	uazid:UA-CT-33	bile	CellType
+PMC2139800	274	uniprot:UNRESOLVED ID	b1-b3	Gene_or_gene_product
+PMC2139800	274	ncbitax:species:ncbi:10090	mouse	Species
+PMC2139800	274	uniprot:UNRESOLVED ID	anti-l-afadin and anti-E-cadherin antibodies	Gene_or_gene_product
+PMC2139800	274	uniprot:P41349	b1	Gene_or_gene_product
+PMC2139800	274	uniprot:P41348	b2	Gene_or_gene_product
+PMC2139800	274	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2139800	274	uniprot:Q64637	b3	Gene_or_gene_product
+PMC2139800	274	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	276	uniprot:UNRESOLVED ID	c1-c3	Gene_or_gene_product
+PMC2139800	276	ncbitax:species:ncbi:10090	mouse	Species
+PMC2139800	276	uniprot:UNRESOLVED ID	anti-l-afadin and anti-E-cadherin antibodies	Gene_or_gene_product
+PMC2139800	276	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2139800	276	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	277	uniprot:UNRESOLVED ID	d1-d3	Gene_or_gene_product
+PMC2139800	277	ncbitax:species:ncbi:10090	mouse	Species
+PMC2139800	277	uazid:UA-ORG-385	heart	Organ
+PMC2139800	277	uniprot:UNRESOLVED ID	anti-l-afadin and antivinculin antibodies	Gene_or_gene_product
+PMC2139800	278	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	278	uazid:UA-ORG-92	blood	Organ
+PMC2139800	278	uniprot:P18206	vinculin	Gene_or_gene_product
+PMC2139800	279	uazid:UA-ORG-92	blood	Organ
+PMC2139800	280	ncbitax:species:ncbi:41568	mum	Species
+PMC2139800	281	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	281	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2139800	281	uniprot:Q5QJ74	EL	Gene_or_gene_product
+PMC2139800	281	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2139800	282	uniprot:Q5QJ74	EL	Gene_or_gene_product
+PMC2139800	282	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2139800	282	uniprot:UNRESOLVED ID	anti-l-afadin and anti-ZO-1 antibodies	Gene_or_gene_product
+PMC2139800	283	uniprot:UNRESOLVED ID	l-Afadin	Gene_or_gene_product
+PMC2139800	285	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2139800	287	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2139800	287	ncbitax:species:ncbi:41568	mum	Species
+PMC2139800	288	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	288	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2139800	288	uniprot:P15924	desmoplakin	Gene_or_gene_product
+PMC2139800	289	uniprot:UNRESOLVED ID	a1-a3	Gene_or_gene_product
+PMC2139800	289	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	289	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2139800	289	ncbitax:species:ncbi:10090	mouse	Species
+PMC2139800	289	uazid:UA-ORG-886	small intestine	Organ
+PMC2139800	290	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC2139800	290	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	291	uniprot:UNRESOLVED ID	b1-b3	Gene_or_gene_product
+PMC2139800	291	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	291	uniprot:P15924	desmoplakin	Gene_or_gene_product
+PMC2139800	291	uazid:UA-CT-33	bile	CellType
+PMC2139800	291	uniprot:P41349	b1	Gene_or_gene_product
+PMC2139800	291	uniprot:P41348	b2	Gene_or_gene_product
+PMC2139800	291	uniprot:Q64637	b3	Gene_or_gene_product
+PMC2139800	292	uazid:UA-CT-33	bile	CellType
+PMC2139800	293	ncbitax:species:ncbi:41568	mum	Species
+PMC2139800	294	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	294	uniprot:Q2G0B1	rat	Species
+PMC2139800	294	uazid:UA-ORG-886	small intestine	Organ
+PMC2139800	295	uniprot:UNRESOLVED ID	anti-l-afadin antibody	Gene_or_gene_product
+PMC2139800	298	ncbitax:species:ncbi:41568	mum	Species
+PMC2139800	299	uniprot:Q5QJ74	EL	Gene_or_gene_product
+PMC2139800	299	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2139800	299	ncbitax:species:ncbi:9031	chick	Species
+PMC2139800	299	uazid:UA-ORG-537	lung	Organ
+PMC2139800	304	uniprot:O60760	glutathione S-transferase	Gene_or_gene_product
+PMC2139800	306	uniprot:UNRESOLVED ID	AF-6 protein	Gene_or_gene_product
+PMC2139800	307	uniprot:UNRESOLVED ID	l-afadin	Gene_or_gene_product
+PMC2139800	310	uniprot:Q95RI5	Fax	Gene_or_gene_product

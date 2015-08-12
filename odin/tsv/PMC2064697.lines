@@ -1,0 +1,376 @@
+Paper ID	Is title?	Section ID	Passage ID	Line Num	Text
+PMC2064697	true	article-title	0	0	Loss of linker histone H1 in cellular senescence
+PMC2064697	false	abstract	1	1	Cellular senescence is a tumor suppressing mechanism that is accompanied by characteristic chromatin condensation called senescence associated heterochromatic foci ( SAHFs ) .
+PMC2064697	false	abstract	1	2	We found that individual SAHFs originate from individual chromosomes .
+PMC2064697	false	abstract	1	3	SAHFs do not show alterations of posttranslational modifications of core histones that mark condensed chromatin in mitotic chromosomes , apoptotic chromatin , or transcriptionally inactive heterochromatin .
+PMC2064697	false	abstract	1	4	Remarkably , SAHF positive senescent cells lose linker histone H1 and exhibit increased levels of chromatin bound high mobility group A2 ( HMGA2 ) .
+PMC2064697	false	abstract	1	5	The expression of N-terminally enhanced green fluorescent protein ( EGFP ) - tagged histone H1 induces premature senescence phenotypes , including increased levels of phosphorylated p53 , p21 , and hypophosphorylated Rb , and a decrease in the chromatin bound endogenous histone H1 level but not in p16 level accumulation or SAHF formation .
+PMC2064697	false	abstract	1	6	However , the simultaneous ectopic expression of hemagglutinin tagged HMGA2 and N-terminally EGFP tagged histone H1 leads to significant SAHF formation ( P < 0.001 ) .
+PMC2064697	false	abstract	1	7	It is known that histone H1 and HMG proteins compete for a common binding site , the linker DNA .
+PMC2064697	false	abstract	1	8	These results suggest that SAHFs are a novel type of chromatin condensation involving alterations in linker DNA binding proteins .
+PMC2064697	false	sec-1	2	9	Normal human cells gradually lose replicative capacity after a finite number of cell divisions as a result of telomere shortening and irreversibly enter the growth arrested state called replicative senescence                              .
+PMC2064697	false	sec-1	2	10	This process is accompanied by a series of changes , including cell enlargement , increased acidic beta-galactosida se activity ( senescence associated beta-galactosidase [ SA-beta-gal ] ) , and alterations of chromatin structures .
+PMC2064697	false	sec-1	2	11	Replicative senescence has been suggested to represent certain aspects of organismal aging                .
+PMC2064697	false	sec-1	3	12	It is known that cells also enter a state that is indistinguishable from replicative senescence after exposure to sublethal doses of various types of stress , including reactive oxygen species , oncogenic activation , and inappropriate culture conditions .
+PMC2064697	false	sec-1	3	13	Such a stress induced state is called premature senescence or stress induced senescence                                             .
+PMC2064697	false	sec-1	3	14	Accordingly , cellular senescence refers to both replicative and premature senescence .
+PMC2064697	false	sec-1	3	15	Although the stimuli inducing the two types of senescence appear to be considerably diverse ( telomere dependent and independent ) , the stress induced MAPK p38 plays a key role in signaling such diverse stimuli to induce both types of senescence                 .
+PMC2064697	false	sec-1	4	16	The contribution of cellular senescence to tumor suppression depends on the stable maintenance of growth arrest .
+PMC2064697	false	sec-1	4	17	Alterations of chromatin structure are believed to account for the irreversible nature of the senescent state                      .
+PMC2064697	false	sec-1	4	18	In the nucleus , DNA is wrapped around histone octamers to form nucleosomes , an array of which , in turn , is packed into higher ordered chromatin structures by the association of linker histone H1 and other chromatin proteins                     .
+PMC2064697	false	sec-1	4	19	Senescent cells form characteristic heterochromatin structures called senescence associated heterochromatic foci ( SAHFs ;                    ;                    .
+PMC2064697	false	sec-1	4	20	SAHFs contain methylated histone H3 at Lys9 ( H3 ( K9 ) me ) and heterochromatin protein 1 , which are typically detected in heterochromatin .
+PMC2064697	false	sec-1	4	21	It was also reported that H3 ( K9 ) me is enriched at proliferation promoting gene promoters specifically in senescent cells that are concomitant with the appearance of SAHFs but not in quiescent cells                      .
+PMC2064697	false	sec-1	4	22	Furthermore , Suv39h1 , a histone methyltransferase for H3K9 , is required for oncogene induced senescence in mouse lymphocytes and for the suppression of lymphoma                          .
+PMC2064697	false	sec-1	4	23	Therefore , it is suggested that senescent cells maintain the growth arrested state , at least in part , by stably forming heterochromatin at proliferation promoting gene loci .
+PMC2064697	false	sec-1	5	24	The molecular mechanism of SAHF formation remains poorly understood .
+PMC2064697	false	sec-1	5	25	Although histone chaperones Asf1a and histone regulation A have been reported to play a role in SAHF formation                     , it is not known how these chaperones induce SAHFs .
+PMC2064697	false	sec-1	5	26	In this study , we have found an unexpected role of histone H1 in cellular senescence .
+PMC2064697	false	sec-3	6	27	SAHFs are characterized by numerous , highly condensed granular DNAs spreading throughout the nucleus , as shown in WI-38 cells that were induced to senesce by the retroviral expression of oncogenic Ras ( RasG12V ;         , bottom ) .
+PMC2064697	false	sec-3	6	28	SAHFs were observed in > 80 % of RasG12V transfected cells as early as day 1 after drug selection .
+PMC2064697	false	sec-3	6	29	However , the degree of chromatin condensation appeared to increase during the following 7 d , during which the senescent state was stably maintained .
+PMC2064697	false	fig-1	7	30	A single SAHF originates from a single chromosome .
+PMC2064697	false	fig-1	7	31	( A ) Similar sizes of SAHFs and inactive X chromosomes .
+PMC2064697	false	fig-1	7	32	The top two figures show a single mock transfected WI-38 nucleus stained with DAPI ( left ) or anti-macroH2A antibody ( right ) .
+PMC2064697	false	fig-1	7	33	The inactive X chromosomes are indicated by arrowheads .
+PMC2064697	false	fig-1	7	34	Two separate RasG12V transfected WI-38 SAHF nuclei stained with DAPI are shown at the bottom .
+PMC2064697	false	fig-1	7	35	( B ) Mock- or RasG12V transfected WI-38 cells were stained with anti-CENP-B antibody and DAPI .
+PMC2064697	false	fig-1	7	36	Schematic drawings illustrating the localization of SAHFs and CENP-B foci are shown ( right ) .
+PMC2064697	false	fig-1	7	37	( C ) Percentages of CENP-B foci that colocalized with ( + ) or excluded ( - ) SAHF signals ( n = 418 derived from 16 senescent cells ) .
+PMC2064697	false	fig-1	7	38	Error bars show the SD from the mean of three independent experiments .
+PMC2064697	false	fig-1	7	39	( D ) Percentages of SAHFs that contained zero , one , or more than one CENP-B foci ( n = 665 derived from 24 senescent cells ) .
+PMC2064697	false	fig-1	7	40	The mean number of SAHFs per optical section was 27.7 + /- 5.8 ( mean + /- SD ) .
+PMC2064697	false	fig-1	7	41	( E ) RasG12V transfected senescent WI-38 cells were hybridized with a probe specific for chromosome 12 ( Chr12 ) and stained with DAPI .
+PMC2064697	false	fig-1	7	42	The probe stained two equal sized metaphase chromosomes in WI-38 cell metaphase spreads , showing its specificity                                                                                .
+PMC2064697	false	fig-1	7	43	Enlarged images of regions A and B are optical sections at 0.4-mum intervals ( right ) .
+PMC2064697	false	fig-1	7	44	Arrowheads indicate the overlapping of a single SAHF and chromosome 12 .
+PMC2064697	false	fig-1	7	45	The results are representative of observations of five independent cells .
+PMC2064697	false	fig-1	7	46	Bars , 10 mum .
+PMC2064697	false	sec-3	8	47	Because SAHFs are similar in size to inactive X chromosomes in WI-38 female normal fibroblasts                , we hypothesized that each granular structure originates from individual chromosomes .
+PMC2064697	false	sec-3	8	48	It is known that individual chromosomes occupy nonoverlapping and discrete spaces called chromosome territories                          .
+PMC2064697	false	sec-3	8	49	Previously , it was reported that centromeres are localized at the periphery of chromosome territories in quiescent human lymphocytes and human fibroblasts                        .
+PMC2064697	false	sec-3	8	50	We examined the number and position of centromeres in RasG12V transfected senescent WI-38 cells using antibodies recognizing centromere protein B ( CENP-B ) .
+PMC2064697	false	sec-3	8	51	Approximately 85 % of CENP-B foci were colocalized with SAHF signals                  .
+PMC2064697	false	sec-3	8	52	Conversely , ~ 70 % of SAHFs contained one CENP-B focus at their periphery                  .
+PMC2064697	false	sec-3	8	53	These results suggest that individual SAHFs originate from individual chromosomes .
+PMC2064697	false	sec-2	9	54	We also performed FISH analysis using a probe specific for chromosome 12 .
+PMC2064697	false	sec-2	9	55	Optical sections of the nucleus of RasG12V transfected senescent WI-38 cells at 0.4-mum intervals showed that two chromosome 12 signals completely overlapped with two SAHFs in all of the five senescent cells exained           .
+PMC2064697	false	sec-2	9	56	Together , we conclude that each SAHF represents a heterochromatinized portion of an individual chromosome .
+PMC2064697	false	sec-4	10	57	It has been proposed that in interphase nuclei , individual chromosomes are surrounded by the interchromosome domain ( ICD ) , where transcription and RNA splicing take place                          .
+PMC2064697	false	sec-4	10	58	To investigate which regions in the nucleus are responsible for transcription in SAHF positive senescent cells , RNA polymerase II was subjected to immunofluorescence ( IF ) analysis using specific antibodies           .
+PMC2064697	false	sec-4	10	59	In mock transfected WI-38 cells , anti-RNA polymerase II signals were diffusely distributed throughout the nucleus .
+PMC2064697	false	sec-4	10	60	In RasG12V transfected senescent WI-38 cells , RNA polymerase II was specifically localized in the DAPI negative regions in a mutually exclusive manner with SAHFs                   .
+PMC2064697	false	sec-4	10	61	Quantitative analyses revealed that ~ 90 % of SAHFs excluded anti-RNA polymerase II signals           .
+PMC2064697	false	sec-4	10	62	This result is not caused by the inability of the antibody to penetrate SAHFs because anti-H3 ( K9 ) me antibody reacted with SAHFs in IF experiments ( see          .
+PMC2064697	false	fig-2	11	63	SAHFs are surrounded by the ICD .
+PMC2064697	false	fig-2	11	64	( A ) Mock- or RasG12V transfected WI-38 cells were stained with anti-RNA polymerase II antibody and DAPI .
+PMC2064697	false	fig-2	11	65	( B ) Percentages of SAHFs that overlapped with ( + ) or excluded ( - ) anti-RNA polymerase II signals ( n = 341 derived from 13 senescent cells ) .
+PMC2064697	false	fig-2	11	66	Error bars represent SD .
+PMC2064697	false	fig-2	11	67	( C ) Senescent cells were incubated with bromo labeled UTP ( BrU ) and stained with anti-BrdU antibody .
+PMC2064697	false	fig-2	11	68	Enlarged images of the boxed areas are shown in bottom panels .
+PMC2064697	false	fig-2	11	69	No signals were observed when unlabeled UTP was used instead of BrU , when cells were treated with 1 mug and ml alpha-amanitin ( the concentration that inhibits RNA polymerase II ) , or when they were treated with RNase A                                                                                .
+PMC2064697	false	fig-2	11	70	Bars , 10 mum .
+PMC2064697	false	sec-4	12	71	Next , we performed in situ labeling of nascent RNAs to visualize the transcription sites           .
+PMC2064697	false	sec-4	12	72	RasG12V transfected senescent WI-38 cells were permeabilized with 0.05 % Triton X-100 and incubated with transcription buffer containing bromo labeled UTP ( BrU ) .
+PMC2064697	false	sec-4	12	73	The incorporation of BrU into nascent RNAs was visualized by IF analysis using anti-BrdU antibody .
+PMC2064697	false	sec-4	12	74	Although the shape of SAHFs was not well preserved after the transcription reaction , small dots of anti-BrU signals were exclusively localized in the DAPI negative regions           .
+PMC2064697	false	sec-4	12	75	Interestingly , relatively large dots of anti-BrU signals were localized at the surface of SAHFs                                   .
+PMC2064697	false	sec-4	12	76	Together , we conclude that in SAHF positive senescent cells , active transcription occurs at the DAPI negative inter-SAHF regions , particularly at the surface of SAHFs .
+PMC2064697	false	sec-4	12	77	This result is consistent with a previous report that SAHFs do not contain active sites for transcription                       and with our hypothesis that the DAPI negative regions correspond to ICDs ( see Discussion ) .
+PMC2064697	true	sec-5	13	78	SAHFs do not show histone modifications that characterize other types of chromatin condensation
+PMC2064697	false	sec-5	14	79	Three types of condensed chromatin are characterized by specific posttranslational modifications of core histones : phosphorylations of histone H3 at Ser10 and Ser28 ( H3 ( S10 ) ph and H3 ( S28 ) ph ) in mitotic chromosomes , phosphorylation of histone H2B at Ser14 ( H2B ( S14 ) ph ) in apoptotic chromatin , and methylation of histone H3 at Lys9 ( H3 ( K9 ) me ) in transcriptionally inactive heterochromatin                            .
+PMC2064697	false	sec-5	14	80	It has been argued that SAHFs represent transcriptionally inactive heterochromatin because SAHFs are colocalized with H3 ( K9 ) me and heterochromatin protein 1                                          .
+PMC2064697	false	sec-5	15	81	To investigate to which of these distinct chromatin condensations SAHFs are related , we examined the posttranslational modifications of histone H2B and histone H3 in RasG12V transfected senescent WI-38 cells         .
+PMC2064697	false	sec-5	15	82	In IF experiments , neither anti-H3 ( S10 ) ph , anti-H3 ( S28 ) ph , nor anti-H2B ( S14 ) ph antibodies stained SAHFs in senescent WI-38 cells , whereas they stained mitotic WI-38 chromosomes and apoptotic HeLa nuclei           .
+PMC2064697	false	sec-5	15	83	Similarly , in immunoblotting experiments , neither anti-H3 ( S10 ) ph nor anti-H3 ( S28 ) ph antibodies detected substantial protein bands in acid extracted ( AE ) histone fractions derived from mock- or RasG12V transfected WI-38 cells , whereas strong signals were observed in histone fractions from colcemid treated HeLa cells           .
+PMC2064697	false	sec-5	15	84	Although anti-H2B ( S14 ) ph signals were observed in histone fractions derived from mock- and RasG12V transfected WI-38 cells , they were much weaker than those observed in colcemid- or UV treated HeLa derived histone fractions           .
+PMC2064697	false	sec-5	15	85	These results indicate that SAHFs are a type of chromatin condensation that is distinct from those found in mitotic chromosomes or apoptotic cells .
+PMC2064697	false	sec-5	15	86	Anti-H3 ( K9 ) me antibody reacted with SAHFs in senescent cells as well as the whole nuclear regions in mock transfected cells           , as previously reported                      .
+PMC2064697	false	sec-5	15	87	Importantly , however , immunoblotting analysis of AE fractions using anti-H3 ( K9 ) me antibody revealed that the total amount of H3 ( K9 ) me per unit cell ( calibrated by anti-H2B signals ) was not substantially different between mock- and RasG12V transfected WI-38 cells           , suggesting that the apparently strong anti-H3 ( K9 ) me signals at SAHFs reflect the condensation of DNAs .
+PMC2064697	false	fig-3	16	88	SAHFs do not show histone modifications that characterize three types of chromatin condensation .
+PMC2064697	false	fig-3	16	89	( A ) Mock- or RasG12V transfected WI-38 cells as well as HeLa cells irradiated with 100 Jm-2 UV rays ( HeLa-UV ) were stained with antihistone antibodies and DAPI .
+PMC2064697	false	fig-3	16	90	Mitotic WI-38 nuclei and apoptotic HeLa nuclei are shown by arrowheads and arrows , respectively .
+PMC2064697	false	fig-3	16	91	( B ) WI-38 cells were mock- or RasG12V transfected and harvested at the indicated time points after drug selection .
+PMC2064697	false	fig-3	16	92	HeLa cells were untreated ( non treat ) , treated with 100 ng and ml colcemid , or irradiated with 100 Jm-2 UV rays ( UV ) .
+PMC2064697	false	fig-3	16	93	Histones were prepared by acid extraction and analyzed by immunoblotting .
+PMC2064697	false	fig-3	16	94	Percentages of SAHF positive cells are shown ( bottom ; n = 300 ) .
+PMC2064697	false	fig-3	16	95	Bars , 10 mum .
+PMC2064697	true	sec-6	17	96	Histone H1 does not exist in the senescent cell
+PMC2064697	false	sec-6	18	97	To analyze the molecular mechanisms involved in SAHF formation , we examined chromatin proteins in mock- and RasG12V transfected WI-38 cells .
+PMC2064697	false	sec-6	18	98	The fractionation scheme used in this study is shown in         .
+PMC2064697	false	sec-6	18	99	SDS-PAGE and Coomassie staining of the fractionated proteins revealed several protein bands showing distinct patterns in mock transfected and senescent cells           .
+PMC2064697	false	sec-6	18	100	Notably , a protein band having an apparent molecular mass of 37 kD ( hereafter referred to as a 37-kD protein ) was found in chromatin rich fraction N2 derived from mock transfected cells but not from senescent cells                  .
+PMC2064697	false	sec-6	18	101	Mass spectrometric analysis identified this protein as histone H1           .
+PMC2064697	false	fig-4	19	102	Histone H1 is lost from the senescent cell .
+PMC2064697	false	fig-4	19	103	( A ) Scheme showing the fractionation of WI-38 cells to isolate chromatin fractions .
+PMC2064697	false	fig-4	19	104	Hoechst 33342 staining of the chromatin rich fraction ( fraction N2 ) showed that SAHFs are retained in the nuclei present in this fraction ( not depicted ) .
+PMC2064697	false	fig-4	19	105	( B ) Coomassie staining of fractions C , N1 , and N2 derived from mock- and RasG12V transfected WI-38 cells .
+PMC2064697	false	fig-4	19	106	The 37-kD protein band from which peptide sequences of human histone H1 were obtained ( right ) is indicated with an arrow .
+PMC2064697	false	fig-4	19	107	( C ) Chromatin rich fractions ( N2 ) were prepared as shown in A and analyzed by Coomassie staining and immunoblotting .
+PMC2064697	false	fig-4	19	108	AE fractions prepared from mock transfected cells were used for comparison .
+PMC2064697	false	fig-4	19	109	The amount of loaded proteins was standardized with core histones ( vertical bold line ) .
+PMC2064697	false	fig-4	19	110	Arrowheads indicate the positions of histone H1 .
+PMC2064697	false	fig-4	19	111	The band of which signal intensity appeared to increase in RasG12V transfected cells ( lane 9 , open circle ) was detected in the absence of the first antibody , indicating that it is unrelated to histone H1                                                                                .
+PMC2064697	false	fig-4	19	112	( D ) Histones were prepared from mock- or RasG12V transfected WI-38 cells by acid extraction and analyzed by Coomassie staining and immunoblotting .
+PMC2064697	false	fig-4	19	113	HeLa cells with or without colcemid treatment were used for comparison .
+PMC2064697	false	fig-4	19	114	( E ) Quiescent cells were prepared by culturing mock transfected cells in 0.1 % FBS for 1 wk .
+PMC2064697	false	fig-4	19	115	WCEs were prepared from mock transfected , RasG12V transfected , or serum starved quiescent cells and analyzed by immunoblotting .
+PMC2064697	false	fig-4	19	116	AE fractions obtained from mock transfected cells were also examined .
+PMC2064697	false	fig-4	19	117	Two bands that showed slightly slower and faster migration than the 37-kD band were detected in RasG12V transfected cells ( lane 3 ; open and filled circles , respectively ) .
+PMC2064697	false	fig-4	19	118	However , these bands were also detected in the absence of the first antibody , indicating that they are unrelated to histone H1            .
+PMC2064697	false	fig-4	19	119	( F ) WCEs were prepared from mock- or RasG12V transfected cells at the indicated time points after drug selection .
+PMC2064697	false	fig-4	19	120	Samples were analyzed by immunoblotting .
+PMC2064697	false	sec-6	20	121	To confirm that the 37-kD protein is histone H1 , we performed immunoblotting analyses using two different antihistone H1 antibodies prepared in rabbit or sheep           .
+PMC2064697	false	sec-6	20	122	Although the anti-H1 rabbit antibody detected a single band , the anti-H1 sheep antibody detected two bands showing apparent molecular masses of 37 kD                                             .
+PMC2064697	false	sec-6	20	123	This is probably the result of different specificities of these antibodies for histone H1 variants .
+PMC2064697	false	sec-6	20	124	In both cases , no anti-H1 signals were detected in fraction N2 derived from RasG12V transfected senescent WI-38 cells                          .
+PMC2064697	false	fig-3	21	125	To further confirm that histone H1 is lost from senescent cell chromatin , histones were prepared from fraction N2 by acid extraction           .
+PMC2064697	false	fig-3	21	126	Histone H1 prepared from colcemid treated HeLa cells                           showed lower mobility than that prepared from nontreated HeLa cells                           and mock transfected WI-38 cells                          , which is consistent with the hyperphosphorylation of histone H1 at metaphase .
+PMC2064697	false	fig-3	21	127	Histone H1 was not detected by Coomassie staining                    or by anti-H1 sheep antibody                   .
+PMC2064697	false	fig-3	21	128	Collectively , we conclude that histone H1 is lost from the chromatin of RasG12V transfected senescent WI-38 cells .
+PMC2064697	false	sec-5	22	129	To determine whether histone H1 existed in any other fractions of RasG12V transfected senescent WI-38 cells , we performed immunoblotting analyses of whole cell extracts ( WCEs ) using anti-H1 sheep antibody           .
+PMC2064697	false	sec-5	22	130	WCEs were prepared from mock transfected , RasG12V transfected , and serum starved quiescent ( 0.1 % FBS ) WI-38 cells by directly suspending cell pellets in SDS sample buffer .
+PMC2064697	false	sec-5	22	131	No 37-kD histone H1 band was detected in the WCE from senescent cells                   .
+PMC2064697	false	sec-5	22	132	Time-course experiments showed that the majority of histone H1 was lost between days 2 and 3 after the completion of drug selection in the RasG12V transfected cells           .
+PMC2064697	false	sec-5	22	133	These results indicate that histone H1 is lost from the entire cell in the Ras induced senescence .
+PMC2064697	true	sec-7	23	134	Histone H1 is lost from various types of senescent cells
+PMC2064697	false	sec-7	24	135	We extended the experiments to include other types of normal human fibroblasts ( MRC-5 , IMR-90 , and BJ ;          .
+PMC2064697	false	sec-7	24	136	The amount of histone H1 was moderately decreased in RasG12V transfected MRC-5 and IMR-90 cells                           but not in BJ cells                   .
+PMC2064697	false	sec-7	24	137	Importantly , as shown in         , the extent of histone H1 reduction is well correlated with the frequency of SAHF positive cells after RasG12V expression .
+PMC2064697	false	sec-7	24	138	We also examined histone H1 in cellular senescence induced by other types of stimuli .
+PMC2064697	false	sec-7	24	139	Histone H1 was lost from or considerably decreased in senescent cells induced by extensive culturing ( replicative senescence ) or by the ectopic expression of a constitutive active form of MKK6 ( MKK6EE ) that activates the stress induced MAPK p38                                                  .
+PMC2064697	false	sec-7	24	140	Moreover , the extent of histone H1 reduction was correlated with the frequency of SAHF positive cells .
+PMC2064697	false	sec-7	24	141	Together , the loss of histone H1 is observed not only in RasG12V transfected WI-38 cells but also in other types of RasG12V transfected normal human fibroblasts and in senescent cells induced by other stimuli , extending its correlation with SAHF formation .
+PMC2064697	false	fig-5	25	142	Histone H1 is lost from various types of senescent cells .
+PMC2064697	false	fig-5	25	143	( A ) Mock- or RasG12V transfected cells ( WI-38 , MRC-5 , IMR-90 , and BJ ) were fractionated as shown in          at day 5 after drug selection .
+PMC2064697	false	fig-5	25	144	AE and cytoplasmic fractions ( C ) were analyzed by immunoblotting .
+PMC2064697	false	fig-5	25	145	The amounts of loaded proteins were calibrated by anti-H2B or antiactin signals , respectively .
+PMC2064697	false	fig-5	25	146	Transfected cells were scored for the percentages of BrdU- and SAHF positive cells at harvest time ( bottom ; n = 200 ) .
+PMC2064697	false	fig-5	25	147	( B ) WI-38 cells were induced to senesce by the retroviral expression of RasG12V or a constitutive active form of MKK6 ( MKK6EE ) .
+PMC2064697	false	fig-5	25	148	Replicative senescent cells were analyzed at 57 population doubling levels , at which cells could not reach confluence for 3 wk .
+PMC2064697	false	fig-5	25	149	Quiescent cells were prepared by culturing the mock transfected cells in 0.1 % FBS for 1 wk .
+PMC2064697	false	fig-5	25	150	WCEs were analyzed by immunoblotting .
+PMC2064697	false	fig-5	25	151	The percentages of BrdU- and SAHF positive cells are indicated ( bottom ; n = 200 ) .
+PMC2064697	true	sec-8	26	152	Loss of histone H1 from senescent cell chromatin is posttranslationally regulated
+PMC2064697	false	sec-8	27	153	The expressions of most histone genes are coupled with DNA replication                      .
+PMC2064697	false	sec-8	27	154	As senescent cells do not undergo DNA replication                                            , it is expected that histone H1 is transcriptionally repressed .
+PMC2064697	false	sec-8	27	155	Indeed , RT-PCR analysis showed that the mRNA expression of HIST1H1D , one of the major histone H1 genes encoding histone H1 .3 , was repressed in RasG12V transfected senescent WI-38 cells compared with young proliferating cells ( 10 % FBS ;         , lanes 1 and 3 ) .
+PMC2064697	false	sec-8	27	156	This raised the possibility that the loss of histone H1 from senescent cell chromatin is simply caused by the repression of de novo histone H1 synthesis .
+PMC2064697	false	sec-8	27	157	We found that the mRNA expression of HIST1H1D was not detected in quiescent WI-38 cells that had been serum starved for 1 wk ( note that 1 wk is long enough for RasG12V expression to cause histone H1 loss ;           and    , lane 2 ) , as expected from the observation that the fraction of quiescent cells in S phase was very small                  .
+PMC2064697	false	sec-8	27	158	Nevertheless , the serum starved quiescent WI-38 cells contained the same amount of chromatin bound histone H1 protein as proliferating WI-38 cells cultured with 10 % FBS           , arguing that repression of the de novo histone H1 synthesis itself is not sufficient for the loss of histone H1 protein from chromatin .
+PMC2064697	false	sec-8	27	159	Therefore , the loss of histone H1 from senescent cells is most likely posttranslationally regulated .
+PMC2064697	false	fig-6	28	160	Loss of histone H1 from senescent cell chromatin is posttranslationally regulated .
+PMC2064697	false	fig-6	28	161	( A ) Mock- and RasG12V transfected WI-38 cells in 10 % FBS and quiescent cells prepared by culturing noninfected WI-38 cells in 0.1 % FBS for 1 wk were analyzed for mRNA expressions of HIST1H1D ( encoding histone H1 .3 ) and GAPDH by RT-PCR from total RNA in the presence ( lanes 1-3 ) or absence ( lanes 4-6 ) of reverse transcriptase ( RT ) .
+PMC2064697	false	fig-6	28	162	( B ) Cells were stained with DAPI ( left ) or propidium iodide and were analyzed for DNA contents with a laser scanning cytometer ( right ) .
+PMC2064697	false	fig-6	28	163	Although RasG12V transfected cells completely stopped dividing , the laser scanning cytometer analysis showed a large percentage of the cells in S phase .
+PMC2064697	false	fig-6	28	164	It is not clear whether this reflects cell cycle arrest in S phase or whether the laser scanning cytometer did not accurately measure DNA contents in senescent cells , presumably as a result of the highly irregular patterns of DNA staining .
+PMC2064697	false	fig-6	28	165	( C ) AE fractions were prepared from cells described in A and were analyzed by Coomassie staining ( left ) and immunoblotting ( right ) .
+PMC2064697	false	fig-6	28	166	Bars , 10 mum .
+PMC2064697	true	sec-9	29	167	Ectopic expression of histone H1 does not prevent RasG12V induced senescence
+PMC2064697	false	sec-9	30	168	To examine whether the loss of histone H1 has a causative role in senescence phenotype induction and SAHF formation , we prepared WI-38 cells that express short hairpin RNA to knock down the expression of histone H1 .
+PMC2064697	false	sec-9	30	169	However , despite repeated trials , we did not succeed in knocking down the genes ( unpublished data ) , probably as a result of the presence of multiple histone H1 variant genes .
+PMC2064697	false	sec-9	31	170	We next examined whether or not the ectopic expression of histone H1 prevented RasG12V induced senescence .
+PMC2064697	false	sec-9	31	171	Young proliferating WI-38 cells were first infected with retrovirus ( driven by the weak long terminal repeat promoter or the strong cytomegalovirus promoter ) or lentivirus ( driven by the strong EF1alpha promoter ) expressing untagged histone H1 and were infected with RasG12V expressing retrovirus         .
+PMC2064697	false	sec-9	31	172	The ectopic expression of histone H1 only slightly increased the amount of chromatin bound histone H1 in RasG12V transfected cells                                                .
+PMC2064697	false	sec-9	31	173	However , it did not substantially prevent the RasG12V induced loss of histone H1 , growth arrest , or SAHF formation          even when histone H1 was expressed by the strong cytomegalovirus and EF1alpha promoters .
+PMC2064697	false	sec-9	31	174	Together , these experiments do not conclude whether or not histone H1 loss has any causative role in cellular senescence because we could not manipulate the histone H1 level sufficiently to induce phenotypic changes .
+PMC2064697	false	fig-7	32	175	Ectopic expression of histone H1 does not prevent RasG12V induced senescence .
+PMC2064697	false	fig-7	32	176	WI-38 cells were first infected with retrovirus ( retro ) or lentivirus ( lenti ) expressing histone H1 under the control of the indicated promoters and were infected with RasG12V expressing retrovirus .
+PMC2064697	false	fig-7	32	177	Cell lysates were prepared from transfected cells at day 7 after drug selection and analyzed by immunoblotting .
+PMC2064697	false	fig-7	32	178	Transfected cells were scored for the percentages of BrdU- and SAHF positive cells at day 3 after drug selection ( bottom ; n = 200 ) .
+PMC2064697	false	fig-7	32	179	CMV , cytomegalovirus ; LTR , long terminal repeat .
+PMC2064697	true	sec-10	33	180	Ectopic expression of N-terminally EGFP tagged histone H1 induces senescence phenotypes
+PMC2064697	false	sec-10	34	181	We next examined whether the ectopic expression of various types of recombinant histone H1 alone had any effects on WI-38 cells .
+PMC2064697	false	sec-10	34	182	Young proliferating WI-38 cells were transfected with one of four retroviruses expressing histone H1 fused to EGFP or HA                .
+PMC2064697	false	sec-10	34	183	Fluorescence microscopy revealed that all histone H1 fusion proteins were localized in nuclei and colocalized with mitotic chromosomes                                                                                             , indicating their proficient chromatin binding in nuclei .
+PMC2064697	false	sec-10	34	184	Unexpectedly , cells expressing N-terminal EGFP-H1 fusion proteins ( N fusions 1 and 2 ) showed decreased levels of chromatin bound endogenous histone H1 compared with cells expressing C fusion or HA-H1           .
+PMC2064697	false	sec-10	34	185	N fusions 1 and 2 have different linker amino acid sequences between EGFP and the histone H1 open reading frame ( see Materials and methods ) but showed the same phenotypes in WI-38 cells .
+PMC2064697	false	fig-8	35	186	Ectopic expression of N-terminally EGFP tagged histone H1 induces premature senescence .
+PMC2064697	false	fig-8	35	187	( A ) Nuclear localization of histone H1 fusion proteins .
+PMC2064697	false	fig-8	35	188	Schematic structures of histone H1 ( histone H1 .3 ) fusion proteins are indicated ( top ) .
+PMC2064697	false	fig-8	35	189	Transfected WI-38 cells were examined for EGFP and stained with anti-HA antibody ( HA ) and DAPI ( DNA ) at day 2 after drug selection .
+PMC2064697	false	fig-8	35	190	Images are projections of whole nuclei .
+PMC2064697	false	fig-8	35	191	( B ) Cell lysates were prepared from transfected cells at day 3 after drug selection and analyzed by immunoblotting .
+PMC2064697	false	fig-8	35	192	The amounts of loaded proteins were calibrated by anti-H2B signals .
+PMC2064697	false	fig-8	35	193	Endogenous histone H1 ( H1 ) and H1 fusion proteins were analyzed using anti-H1 sheep antibody .
+PMC2064697	false	fig-8	35	194	( C ) The number of transfected cells was scored at the indicated time points after drug selection .
+PMC2064697	false	fig-8	35	195	Error bars represent SD .
+PMC2064697	false	fig-8	35	196	( D ) Transfected cells were scored for the percentages of BrdU- ( top ) and SA-beta-gal-positive cells ( bottom ) at days 3 and 5 after drug selection , respectively ( n = 200 ) .
+PMC2064697	false	fig-8	35	197	( E ) Cell lysates were prepared from transfected cells at day 3 after drug selection and analyzed by immunoblotting .
+PMC2064697	false	fig-8	35	198	The amounts of loaded proteins were calibrated by antiactin signals .
+PMC2064697	false	fig-8	35	199	( F ) Cell lysates were analyzed as described in B and E .
+PMC2064697	false	fig-8	35	200	The percentages of BrdU- and SAHF positive cells are indicated ( bottom ; n = 200 ) .
+PMC2064697	false	fig-8	35	201	Bars , 10 mum .
+PMC2064697	false	sec-10	36	202	Interestingly , concomitant with the decreases in histone H1 protein levels , the expression of N fusions caused severe growth defects in young WI-38 cells as revealed by the growth curves            and the BrdU incorporation assay                .
+PMC2064697	false	sec-10	36	203	N fusions also induced a large , flat morphology and increased the percentage of SA-beta-gal-positive cells                                 , suggesting that the ectopic expression of N fusions induced premature senescence in WI-38 cells .
+PMC2064697	false	sec-10	36	204	Consistent with this idea , cells expressing N fusions showed decreased levels of phosphorylated Rb and cyclin A and increased levels of p21 and phosphorylated p53           , which are typical molecular markers for senescent cells .
+PMC2064697	false	sec-10	36	205	In contrast , the ectopic expression of C fusion or HA-H1 did not induce senescence markers or decrease the levels of endogenous histone H1 .
+PMC2064697	false	sec-10	36	206	The ectopic expression of untagged histone H1 slightly increased the levels of histone H1 protein but did not induce senescence phenotypes in WI-38 cells either                   .
+PMC2064697	false	sec-10	36	207	Collectively , these results suggest that the induction of senescence phenotypes is correlated with the decreased levels of chromatin bound endogenous histone H1 .
+PMC2064697	false	sec-10	36	208	Notably , N fusions did not induce the accumulation of p16 or SAHF formation                       .
+PMC2064697	true	sec-11	37	209	Coexpression of N-fusion histone H1 and HA tagged HMGA2 induces SAHF formation
+PMC2064697	false	sec-11	38	210	We found that a protein band showing an apparent molecular mass of 22 kD was accumulated in the AE fraction prepared from RasG12V transfected senescent WI-38 cells                      .
+PMC2064697	false	sec-11	38	211	Mass spectrometric analysis and immunoblotting analysis identified this protein as high mobility group A2 ( HMGA2 ;          .
+PMC2064697	false	sec-11	38	212	Similar observations have been reported recently                      .
+PMC2064697	false	sec-11	38	213	Time-course experiments indicated that the accumulation of chromatin bound HMGA2 was inversely correlated with the loss of histone H1 from chromatin                      .
+PMC2064697	false	sec-11	38	214	Interestingly , the amount of chromatin bound HMGA2 was also increased in senescent WI-38 cells expressing both histone H1 and RasG12V           .
+PMC2064697	false	sec-11	38	215	We also showed that macroH2A was incorporated into chromatin in RasG12V transfected cells as previously reported                                          .
+PMC2064697	false	fig-9	39	216	Coexpression of HA tagged HMGA2 and N-fusion histone H1 induces SAHF formation .
+PMC2064697	false	fig-9	39	217	( A ) AE fractions were prepared from mock- and RasG12V transfected WI-38 cells and analyzed by Coomassie staining and immunoblotting .
+PMC2064697	false	fig-9	39	218	A protein band having an apparent molecular mass of 22 kD from which peptide sequences of human HMGA2 were obtained is indicated with an arrowhead .
+PMC2064697	false	fig-9	39	219	( B ) AE fractions were prepared from mock- and RasG12V transfected WI-38 cells at the indicated time points after drug selection and were analyzed by immunoblotting .
+PMC2064697	false	fig-9	39	220	Histone H1 was analyzed using anti-H1 rabbit antibody .
+PMC2064697	false	fig-9	39	221	( C ) Cell lysates were prepared from transfected WI-38 cells at day 7 after drug selection and were analyzed by immunoblotting as described in         .
+PMC2064697	false	fig-9	39	222	CMV , cytomegalovirus ; LTR , long terminal repeat .
+PMC2064697	false	fig-9	39	223	( D ) Transfected WI-38 cells were analyzed as described in B. Histone H1 was analyzed using anti-H1 sheep antibody .
+PMC2064697	false	fig-9	39	224	The percentages of SAHF positive cells are indicated ( bottom ; n = 200 ) .
+PMC2064697	false	fig-9	39	225	( E ) Transfected WI-38 cells were scored for the percentage of SAHF positive cells at day 3 after drug selection ( top ; n = 200 ) .
+PMC2064697	false	fig-9	39	226	* , P < 0.001 by t test .
+PMC2064697	false	fig-9	39	227	Error bars represent SD .
+PMC2064697	false	fig-9	39	228	Transfected WI-38 cells were analyzed as described in          ( bottom ) .
+PMC2064697	false	fig-9	39	229	( F ) Representative images of SAHF positive cells .
+PMC2064697	false	fig-9	39	230	Transfected WI-38 cells were stained with DAPI at day 3 after drug selection .
+PMC2064697	false	fig-9	39	231	Arrowheads indicate SAHF positive nuclei .
+PMC2064697	false	fig-9	39	232	( G ) A model of the role of histone H1 dissociation and HMGA2 accumulation in inducing growth arrest and SAHF formation .
+PMC2064697	false	fig-9	39	233	p53-p21-pRb-dependent growth arrest is mediated by either histone H1-free chromatin itself or signaling elicited by unbound histone H1 .
+PMC2064697	false	fig-9	39	234	SAHFs are formed when histone H1 is replaced with HMGA2 , which occurs only when RasG12V is expressed or N-fusion H1 and HMGA2 are coexpressed .
+PMC2064697	false	fig-9	39	235	Bars , 10 mum .
+PMC2064697	false	sec-11	40	236	To investigate the role of macroH2A and HMGA2 in senescence phenotype induction and SAHF formation , young proliferating WI-38 cells were transfected with HA tagged HMGA2 ( HA-HMGA2 ) or FLAG tagged macroH2A ( macroH2A-FLAG ;          .
+PMC2064697	false	sec-11	40	237	The amounts of chromatin bound HA-HMGA2 and macroH2A-FLAG were comparable with those of endogenous proteins observed in RasG12V transfected cells                                                                                                         .
+PMC2064697	false	sec-11	40	238	Furthermore , IF analysis revealed that both HA-HMGA2 and macroH2A-FLAG were localized in nuclei                             .
+PMC2064697	false	sec-11	40	239	The expression of HA-HMGA2 or macroH2A-FLAG did not induce senescence phenotypes , including growth defects , a large , flat morphology , or SAHF formation                                                       .
+PMC2064697	false	sec-10	41	240	To investigate whether the overexpression of HMGA2 or macroH2A collaborates with the reduced endogenous histone H1 level found in N fusion expressing cells , young WI-38 cells expressing HA-HMGA2 or macroH2A-FLAG were further transfected with the retrovirus expressing N fusion 2 and were scored for SAHF positive cells                  .
+PMC2064697	false	sec-10	41	241	The coexpression of HA-HMGA2 and N fusion 2 significantly increased the percentage of SAHF positive cells ( P < 0.001 ) , whereas the coexpression of macroH2A-FLAG and N fusion 2 did not .
+PMC2064697	false	sec-10	41	242	The coexpression of HA-HMGA2 and N fusion 1 led to similar results , but the coexpression of HA-HMGA2 and HA-H1 did not          , suggesting that the removal of endogenous histone H1 from chromatin by N-fusion histone H1 rather than the production of recombinant histone H1 itself is important for SAHF formation .
+PMC2064697	false	sec-10	41	243	Together , these results indicate that the simultaneous overexpression of HA-HMGA2 and N-fusion histone H1 leads to SAHF formation .
+PMC2064697	false	sec-10	41	244	However , cells coexpressing HA-HMGA2 and N fusion 2 did not show the accumulation of p16 , at least up to day 3 after drug selection ( unpublished data ) .
+PMC2064697	false	sec-12	42	245	In this study , we found that the induction of senescence phenotypes is accompanied by the loss of linker histone H1 from and the accumulation of HMGA2 to chromatin .
+PMC2064697	false	sec-12	42	246	The loss of histone H1 is not simply through the repression of histone H1 mRNA expression but is most likely through a posttranslational mechanism .
+PMC2064697	false	sec-12	42	247	The ectopic expression of N-terminally EGFP tagged histone H1 in WI-38 cells acutely induces senescence phenotypes except SAHF formation and p16 accumulation , which is concomitant with a decrease in the chromatin bound endogenous histone H1 protein level .
+PMC2064697	false	sec-12	42	248	This result suggests that distinct pathways are responsible for p53-p21-pRb-dependent growth arrest and SAHF formation with or without p16 accumulation in cellular senescence .
+PMC2064697	false	sec-12	42	249	Notably , when HMGA2 was coexpressed in this condition , significant amounts of SAHFs were formed ( P , 0.001 ) , suggesting that the substitution of HMGA2 for histone H1 is required for SAHF formation .
+PMC2064697	false	sec-12	42	250	Previously , it was reported that the amount of histone H1 protein was decreased in replicative senescence                      .
+PMC2064697	false	sec-12	42	251	However , the biological significance of that observation has remained a mystery .
+PMC2064697	false	sec-12	42	252	We suggest that SAHFs are a novel type of chromatin condensation involving alterations in linker DNA binding proteins .
+PMC2064697	false	sec-13	43	253	We propose that individual SAHFs originate from individual chromosomes .
+PMC2064697	false	sec-13	43	254	This proposition is based on several lines of evidence .
+PMC2064697	false	sec-13	43	255	The majority of SAHFs contained one centromere at their periphery and was surrounded by DAPI negative regions where RNA polymerase II exists and de novo transcription occurs .
+PMC2064697	false	sec-13	43	256	Such features of the DAPI negative regions have been proposed and described for ICD , a system of channels that run between chromosome territories and metabolize and transport RNA transcripts                          .
+PMC2064697	false	sec-13	43	257	Finally , the painting probe for chromosome 12 stained exactly one SAHF .
+PMC2064697	false	sec-13	44	258	A recent study has demonstrated the presence of RNA transcripts and transcription factors inside the chromosome territory , challenging the conventional ICD model                 .
+PMC2064697	false	sec-13	44	259	A revised model has been developed in which a single chromosome territory is composed of condensed chromatin subdomains as well as channels canalizing the territory and ultimately draining into ICDs .
+PMC2064697	false	sec-13	44	260	Active genes are proposed to exist on the surface of the condensed chromatin subdomains inside the territory .
+PMC2064697	false	sec-13	44	261	We found that RNA polymerase II exists more or less diffusely throughout the nucleus in young WI-38 cells , supporting this revised model .
+PMC2064697	false	sec-13	44	262	However , we also found that RNA polymerase II and RNA transcripts are excluded from SAHFs in senescent cells .
+PMC2064697	false	sec-13	44	263	These observations suggest that SAHF is a heterochromatinized portion of an individual chromosome whose chromatin is so tightly condensed that active genes are virtually excluded .
+PMC2064697	false	sec-13	45	264	SAHFs are a novel type of chromatin condensation not only from a cytological viewpoint but also from a biochemical viewpoint .
+PMC2064697	false	sec-13	45	265	We found that SAHFs do not show the phosphorylation of histone H3 at either Ser10 or Ser28 or the phosphorylation of histone H2B at Ser14 , which are hallmarks of mitotic and apoptotic chromatins , respectively .
+PMC2064697	false	sec-13	45	266	It has been reported that SAHFs exhibit features of transcriptionally inactive heterochromatin                                          .
+PMC2064697	false	sec-13	45	267	Consistent with such earlier studies , we also observed that SAHFs were strongly stained with anti-H3 ( K9 ) me antibody .
+PMC2064697	false	sec-13	45	268	However , we found that the total amount of H3 ( K9 ) me remained unchanged at least for 1 wk after the induction of senescence , during which the majority of cells became SAHF positive .
+PMC2064697	false	sec-13	45	269	These results suggest that although de novo histone methylation may occur locally and repress gene expression at some particular gene loci , a genome-wide increase in the total amount of H3 ( K9 ) me does not occur in senescent cells .
+PMC2064697	false	sec-13	45	270	Although these results do not exclude the involvement of transcriptionally inactive heterochromatin in SAHFs , they suggest that SAHFs are generated by a mechanism that should be distinguished from those involved in conventional chromosome condensation and heterochromatinization .
+PMC2064697	true	sec-14	46	271	Loss of histone H1 and senescence phenotypes
+PMC2064697	false	sec-14	47	272	We found that linker histone H1 is lost from senescent cells .
+PMC2064697	false	sec-14	47	273	Because it is generally believed that histone H1 facilitates chromatin condensation and acts mainly as a transcriptional repressor                         , it was unexpected that histone H1 was lost instead of increased in SAHFs .
+PMC2064697	false	sec-14	47	274	Although we could not definitely conclude whether the loss of histone H1 is causally linked to the induction of senescence phenotypes and SAHF formation , the following observations suggest that the alterations in histone H1 metabolism are involved in a senescence inducing mechanism .
+PMC2064697	false	sec-14	47	275	First , the amount of histone H1 protein was lost or considerably reduced in a variety of cellular senescence occurring in different cell types and through different stimuli .
+PMC2064697	false	sec-14	47	276	Second , the extent of histone H1 loss in such occasions was well correlated with the frequency of SAHF formation .
+PMC2064697	false	sec-14	47	277	Finally , senescence phenotypes except SAHF formation and p16 accumulation were induced in young WI-38 cells by the ectopic expression of N fusion but not of C fusion , HA-H1 , or untagged recombinant H1 proteins .
+PMC2064697	false	sec-14	47	278	These proteins were produced at similar levels                   and were efficiently bound to chromatin                         , suggesting that senescence was not induced by nonspecific effects caused by the overproduction of nonfunctional histone H1 proteins .
+PMC2064697	false	sec-14	48	279	Interestingly , the senescence induction and reduced level of endogenous histone H1 were well correlated : only N fusions showed both effects , whereas the other recombinant histone H1 proteins showed neither .
+PMC2064697	false	sec-14	48	280	We do not know why N fusions but not C fusion affect the level of endogenous histone H1 and induce SAHF formation .
+PMC2064697	false	sec-14	48	281	It has been reported that N-terminal GFP tagged histone H1 .1 binds to chromatin with higher affinity than C-terminal GFP tagged histone H1 .1 in SK-N-SH neuroblastoma cells                       .
+PMC2064697	false	sec-14	48	282	It is possible that such different affinities cause different stabilities of endogenous histone H1 protein .
+PMC2064697	false	sec-14	48	283	Alternatively , N-terminal GFP may perturb the incorporation of endogenous histone H1 into neighboring nucleosomes by steric hindrance , for example .
+PMC2064697	false	sec-14	49	284	Embryonic stem cells homozygously deleted of three out of six somatic histone H1 variant genes were viable and showed apparently normal growth .
+PMC2064697	false	sec-14	49	285	Interestingly , however , the DNA methylation and expression patterns of some specific loci , including imprinted genes , were deregulated                   .
+PMC2064697	false	sec-14	49	286	These results raise the possibility that the absence of histone H1 in senescent cells may specifically affect the expression of genes involved in senescence phenotypes           .
+PMC2064697	false	sec-14	50	287	The amounts of histone proteins , especially those of chromatin-unbound forms , are strictly regulated in cells .
+PMC2064697	false	sec-14	50	288	It has been reported that the chromatin-unbound free core histones are degraded in a Rad53 dependent manner in yeast .
+PMC2064697	false	sec-14	50	289	In rad53 cells , chromatin-unbound core histones persist at the completion of S phase , leading to impaired cell growth                      .
+PMC2064697	false	sec-14	50	290	Therefore , another interesting possibility is that the production of free histone H1 , not the reduction of chromatin bound histone H1 , positively triggers a signal leading to senescence           .
+PMC2064697	false	sec-14	50	291	A hypothesis reminiscent of this case was reported previously : after exposure to x rays , histone H1 .2 , a histone H1 variant , moves to the cytoplasm , where it induces cytochrome c release from mitochondria to activate caspase dependent destruction cascades                       .
+PMC2064697	true	sec-15	51	292	Altered balance between histone H1 and HMGA2 bound to chromatin in SAHF formation
+PMC2064697	false	sec-15	52	293	Recent studies have emphasized the dynamic binding of histone H1 to chromatin .
+PMC2064697	false	sec-15	52	294	Histone H1 associates with and dissociates from chromatin in a rapid turnover                                          .
+PMC2064697	false	sec-15	52	295	Histone H1 dissociation from chromatin may be enhanced by activities that destabilize the histone H1-chromatin association .
+PMC2064697	false	sec-15	52	296	HMG proteins are the second most abundant chromatin proteins after histones and consist of three subfamilies : HMGA , HMGB , and HMGN .
+PMC2064697	false	sec-15	52	297	It was reported that HMG proteins and histone H1 compete with each other for the same binding site , the linker DNA .
+PMC2064697	false	sec-15	52	298	Specifically , microinjected excess amounts of HMG proteins leads to high turnover rates and reduces the residence time of endogenous chromatin bound histone H1 , presumably by being excluded from chromatin by the excess HMG proteins                     .
+PMC2064697	false	sec-15	53	299	On the surface , the failure of the ectopic expression of histone H1 to prevent RasG12V induced senescence appears to refute the causative role of histone H1 loss in senescence induction .
+PMC2064697	false	sec-15	53	300	However , the amounts of chromatin bound HMGA2 and chromatin bound histone H1 were similarly increased and reduced , respectively , in RasG12V expressing cells irrespective of histone H1 coexpression                  , suggesting that RasG12V expression shifts the balance of HMGA2 and histone H1 association with the linker DNA in favor of HMGA2           .
+PMC2064697	false	sec-15	53	301	The ectopic expression of histone H1 may fail to restore the balance in favor of histone H1 to a degree that is sufficient to prevent senescence in the RasG12V expressing condition .
+PMC2064697	false	sec-15	53	302	It is not clear why the ectopic expression of histone H1 even by the strong promoters failed to restore the chromatin bound histone H1 protein level in RasG12V transfected cells .
+PMC2064697	false	sec-15	53	303	It is possible that histone H1 is actively removed from chromatin in such cells .
+PMC2064697	false	sec-15	53	304	Alternatively , senescent cell chromatin may be incompetent to incorporate newly synthesized histone H1 .
+PMC2064697	false	sec-15	53	305	It is also not clear how endogenous histone H1 disappears from senescent cells .
+PMC2064697	false	sec-15	53	306	Further studies are warranted to determine whether histone H1 loss plays a causative role in senescence induction .
+PMC2064697	false	sec-15	54	307	When HMGA2 was ectopically expressed in young WI-38 cells to the level found in RasG12V expressing cells , no senescence phenotypes were induced                       .
+PMC2064697	false	sec-15	54	308	Conversely , when the amount of chromatin bound histone H1 was reduced by N-fusion expression , no SAHFs were formed either           .
+PMC2064697	false	sec-15	54	309	SAHFs were formed only when N fusions accompanying histone H1 loss and HMGA2 were coexpressed .
+PMC2064697	false	sec-15	54	310	We hypothesize that both the reduced association of histone H1 and the increased association of HMGA2 with chromatin , which reflect the substitution of HMGA2 for histone H1 , are required for SAHF formation           .
+PMC2064697	false	sec-15	54	311	Therefore , SAHFs may be viewed as heterochromatin in which the balance of the two major linker DNA binding proteins ( histone H1 and HMGA2 ) is altered .
+PMC2064697	false	sec-15	55	312	We also found that the coexpression of N fusion 2 and HA-HMGA2 did not induce p16 accumulation , at least up to day 3 after drug selection .
+PMC2064697	false	sec-15	55	313	Additional conditions may be required to trigger the full-blown senescence program , including the activation of p16 .
+PMC2064697	true	sec-17	56	314	Cell culture and retroviral gene transfer
+PMC2064697	false	sec-17	57	315	Normal human fibroblasts WI-38 , MRC-5 , and IMR-90 were purchased from Coriell Cell Repositories .
+PMC2064697	false	sec-17	57	316	BJ was purchased from American Type Culture Collection .
+PMC2064697	false	sec-17	57	317	The cells were cultured in DME supplemented with 10 % FBS .
+PMC2064697	false	sec-17	57	318	Phoenix cells ( provided by G. Nolan , Stanford University , Stanford , CA ) were transfected with retroviral vectors using FuGene 6 ( Roche ) .
+PMC2064697	false	sec-17	57	319	Culture supernatants were supplemented with 8 mug and ml polybrene ( Sigma-Aldrich ) and incubated with target cells .
+PMC2064697	false	sec-17	57	320	Infected cells were selected by incubating with 2.5 mug and ml puromycin ( Sigma-Aldrich ) or 600 mug and ml G418 ( Nacalai Tesque ) for 3 or 5 d , respectively .
+PMC2064697	false	sec-17	58	321	Retroviral vectors used in this study are pMX-puro and pMX-neo ( gift from T. Kitamura , University of Tokyo , Tokyo , Japan ) .
+PMC2064697	false	sec-17	58	322	MKK6EE cDNA was provided by E. Nishida ( Kyoto University , Kyoto , Japan ) and Y. Goto ( University of Tokyo , Tokyo , Japan ) .
+PMC2064697	false	sec-17	58	323	MacroH2A cDNA was provided by K. Shibahara ( National Institute of Genetics , Mishima , Japan ) .
+PMC2064697	false	sec-17	58	324	Amino acid sequences between EGFP and the histone H1 open reading frame in N and C fusions are as follows : EGFP-Leu-Glu-Ala-Ala-Ala-Ile-Gly-Ser-H1 for N fusion 1 , EGFP-Pro-Glu-Phe-Thr-H1 for N fusion 2 , and H1-Pro-Glu-Phe-Thr-EGFP for C fusion .
+PMC2064697	false	sec-18	59	325	The following primary antibodies were used : anti-RNA polymerase II ( 8WG16 ) , anti-HA ( 16B12 ) , and anti-HMGA2 ( Covance ) ; anticyclin A , anti-p16 , anti-p21 , anti-p53 ( Bp53-12 ) , anti-H-Ras , and anti-MKK6 ( Santa Cruz Biotechnology , Inc. ) ; antiphospho-S10 histone H3 , antiphospho-S14 histone H2B , antidimethyl-K9 histone H3 , antihistone H2B , and antihistone macroH2A1 ( Upstate Biotechnology ) ; anti-BrdU ( BMC9318 ; Roche ) ; antiactin ( Chemicon ) ; antihistone H1 sheep ( Abcam ) ; anti-Rb ( G3-245 ; BD Biosciences ) ; antiphospho-S15 p53 ( Cell Signaling ) ; anti-CENP-B ( provided by H. Masumoto , Nagoya University , Nagoya , Japan ) ; antiphospho-S28 histone H3 ( provided by T. Urano , Nagoya University ) ; and antihistone H1 rabbit ( provided by K. Ohsumi , Tokyo Institute of Technology , Kanagawa , Japan ) .
+PMC2064697	false	sec-19	60	326	Cells were fixed with 3 % formaldehyde in PBS at 4degreesC for 20 min and permeabilized with Triton buffer ( TB ; 0.5 % Triton X-100 in PBS ) for 10 min .
+PMC2064697	false	sec-19	60	327	After incubation in TB containing 5 % skim milk for 1 h , the cells were treated with primary antibody and incubated with AlexaFluor488- or Cy-3-conjugated secondary antibody ( Invitrogen and Jackson ImmunoResearch Laboratories , respectively ) .
+PMC2064697	false	sec-19	60	328	DNA was stained with 1 mug and ml DAPI in PBS for 10 min .
+PMC2064697	false	sec-19	60	329	Images were acquired at room temperature with a deconvolution microscope ( IX70 ; Olympus ; and DeltaVision ; Applied Precision ) equipped with a 40x NA 1.35 oil immersion objective lens ( UApo and 340 ; Olympus ) and a charge coupled device camera ( CH350 ; Photometrics ) .
+PMC2064697	false	sec-19	60	330	The images were deconvolved and processed by SoftWoRx ( Applied Precision ) and Photoshop ( Adobe ) .
+PMC2064697	false	sec-19	60	331	Unless otherwise mentioned , images are single optical sections .
+PMC2064697	false	sec-19	61	332	For DNA content analysis , cells were fixed with 3 % formaldehyde and permeabilized with TB .
+PMC2064697	false	sec-19	61	333	Then , the cells were incubated in PBS containing 50 mug and ml propidium iodide and 200 mug and ml RNase A at 37degreesC for 30 min .
+PMC2064697	false	sec-19	61	334	DNA content was analyzed with a laser scanning cytometer ( LSC2 ; Olympus ) .
+PMC2064697	false	sec-20	62	335	In situ labeling of nascent RNAs was performed as previously described                        with slight modifications .
+PMC2064697	false	sec-20	62	336	In brief , cells were rinsed with glycerol buffer ( 20 mM Tris-HCl , pH 7.5 , 5 mM MgCl2 , 0.5 mM EGTA , 25 % glycerol , and Complete protease inhibitors [ Roche ] ) containing 0.05 % Triton X-100 at 4degreesC for 1 min .
+PMC2064697	false	sec-20	62	337	Then , the cells were incubated in transcription buffer ( 50 mM Tris-HCl , pH 7.5 , 10 mM MgCl2 , 0.5 mM EGTA , 100 mM KCl , 25 % glycerol , 25 muM S-adenosylmethionine [ New England Biolabs , Inc. ] , 0.5 mM each of BrU [ Sigma-Aldrich ] , ATP , CTP , and GTP , 8 U and ml RNase inhibitor [ Takara ] , and Complete protease inhibitors ) at 35degreesC for 10 min .
+PMC2064697	false	sec-20	62	338	Incorporated BrU was visualized by IF analysis using anti-BrdU antibody .
+PMC2064697	false	sec-20	62	339	For BrdU incorporation assay , cells were cultured in DME supplemented with 100 muM BrdU for 5 h , fixed with 2 % formaldehyde at 4degreesC for 15 min , and permeabilized with TB at room temperature for 5 min .
+PMC2064697	false	sec-20	62	340	After treatment with 1.5 N HCl at room temperature for 10 min , incorporated BrdU was visualized by IF analysis using anti-BrdU antibody .
+PMC2064697	true	sec-21	63	341	FISH
+PMC2064697	false	sec-21	64	342	FISH was performed using a chromosome 12 specific probe conjugated with Cy-3 ( StarFISH ; Cambio ) .
+PMC2064697	false	sec-21	64	343	FISH on metaphase spreads was performed according to the manufacturer 's protocol .
+PMC2064697	false	sec-21	64	344	FISH on senescent cells was performed as described previously                     .
+PMC2064697	false	sec-22	65	345	Cells were harvested and incubated in buffer A ( 40 mM Tris-HCl , pH 7.4 , 1 mM EDTA , 0.5 mM DTT , 1 mM sodium orthovanadate , 1 mM sodium fluoride , 100 nM okadaic acid , and Complete protease inhibitors ) containing 10 mM NaCl at 4degreesC for 10 min .
+PMC2064697	false	sec-22	65	346	Then , the cells were passed through a 26- ( mock transfected cells ) or 23-gauge ( RasG12V transfected cells ) needle ~ 20 times to disrupt the cell membrane and were centrifuged at 1,000 g for 10 min at 4degreesC .
+PMC2064697	false	sec-22	65	347	Supernatants were removed ( fraction C ) , and pellets were incubated in buffer A containing 150 mM NaCl and 0.2 % Triton X-100 at 4degreesC for 10 min .
+PMC2064697	false	sec-22	65	348	After centrifugation at 1,000 g for 10 min at 4degreesC , supernatants were removed ( fraction N1 ) .
+PMC2064697	false	sec-22	65	349	Pellets ( fraction N2 ) were resuspended in the SDS sample buffer ( 125 mM Tris-HCl , pH 6.8 , 4 % SDS , and 20 % glycerol , colored with bromophenol blue ) and sonicated .
+PMC2064697	false	sec-22	65	350	For acid extraction of histones , fraction N2 was incubated with 200 mM sulfuric acid at 4degreesC for 30 min and centrifuged at 20,000 g for 10 min at 4degreesC .
+PMC2064697	false	sec-22	65	351	Supernatants were supplemented with 1 and 4 vol of 100 % trichloroacetic acid and incubated at 4degreesC for 10 min .
+PMC2064697	false	sec-22	65	352	After centrifugation at 20,000 g for 5 min at 4degreesC , pellets were rinsed with cold acetone , dried , and resuspended in the SDS sample buffer .
+PMC2064697	false	sec-22	65	353	For the preparation of cell lysates            , cells were suspended in lysis buffer ( 50 mM Tris-HCl , pH 7.4 , 150 mM NaCl , 1 % NP-40 , 1 mM EDTA , 1 mM DTT , 1 mM sodium orthovanadate , 1.25 mM sodium fluoride , 100 nM okadaic acid , 10 mM beta-glycerophosphate , and Complete protease inhibitors ) at 4degreesC for 30 min .
+PMC2064697	false	sec-22	65	354	After centrifugation at 20,000 g at 4degreesC for 10 min , the supernatants were used for immunoblotting analyses using anti-Rb , cyclin A , p16 , p21 , p53 , P-p53 , Ras , and actin antibodies .
+PMC2064697	false	sec-22	65	355	Pellets were suspended in the SDS sample buffer and used for immunoblotting analyses using anti-H1 , HMGA2 , and H2B antibodies .
+PMC2064697	false	sec-22	66	356	For mass spectrometry , protein bands were cut out from SDS-PAGE gels and digested with trypsin ( Promega ) .
+PMC2064697	false	sec-22	66	357	The eluted peptides were analyzed with a hybrid mass spectrometer ( QSTAR XL ; Applied Biosystems ) equipped with a nanoelectrospray ion source ( MDS Protana ) .
+PMC2064697	false	sec-22	67	358	For immunoblotting , proteins were loaded onto SDS-PAGE gels , transferred onto polyvinylidene fluoride membranes ( Millipore ) , and detected with ECL immunoblotting detection reagents ( GE Healthcare ) .
+PMC2064697	false	sec-23	68	359	RT-PCR was performed with an RNA PCR kit ( Takara ) according to the manufacturer 's protocol .
+PMC2064697	false	sec-23	68	360	PCR primers used in this study are HIST1H1D ( 5 ' - CAAGCCTAGGAAGCCTGCTG-3 ' and 5 ' - AAAGGGGAACGTCCCGCCAG-3 ' ) and GAPDH ( 5 ' - ATTTGGTCGTATTGGGCGCCTGGTC-3 ' and 5 ' - TTGTCATACTTCTCATGGTTCACAC-3 ' ) .
+PMC2064697	false	sec-23	69	361	For SA-beta-gal staining , cells were fixed with 0.5 % glutaraldehyde in PBS at room temperature for 10 min and incubated in staining solution ( 0.65 mg and ml X-Gal [ 5-bromo-4-chloro-3-indolyl-beta-d-galactoside ] , 5 mM K3Fe ( CN ) 6 , 5 mM K4Fe ( CN ) 6 , and 1 mM MgCl2 in PBS , pH 6.0 ) at 37degreesC overnight .
+PMC2064697	false	sec-24	70	362	Fig .
+PMC2064697	false	sec-24	70	363	S1 shows the specificities of FISH signals and anti-BrdU IF signals .
+PMC2064697	false	sec-24	70	364	Fig .
+PMC2064697	false	sec-24	70	365	S2 shows the specificity of antihistone H1 sheep antibody .
+PMC2064697	false	sec-24	70	366	Fig .
+PMC2064697	false	sec-24	70	367	S3 shows the colocalization of N-fusion H1 and mitotic chromosomes and the enlargement of WI-38 cells expressing N-fusion H1 .
+PMC2064697	false	sec-24	70	368	Fig .
+PMC2064697	false	sec-24	70	369	S4 shows the effect of HA-HMGA2 expression on cell growth and SAHF formation .
+PMC2064697	false	sec-24	70	370	Fig .
+PMC2064697	false	sec-24	70	371	S5 shows the effect of N-fusion 1 expression on SAHF formation .
+PMC2064697	false	sec-24	70	372	Online supplemental material is available at http://www.jcb.org/cgi/content/full/jcb.200604005/DC1 .
+PMC2064697	false	sec-25	71	373	We thank T. Kitamura for providing retroviral vectors , E. Nishida and Y. Goto for human MKK6EE cDNA , K. Shibahara for macroH2A cDNA , H. Masumoto for anti-CENP-B antibody , T. Urano for antiphospho-S28 histone H3 antibody , K. Ohsumi for antihistone H1 rabbit antibody , and G. Nolan for Phoenix cells .
+PMC2064697	false	sec-25	71	374	The excellent secretarial work of A. Katayama , M. Sasaki , and M. Sakamoto and the technical assistance of M. Tamura are also acknowledged .

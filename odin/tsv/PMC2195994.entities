@@ -1,0 +1,707 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2195994	0	uniprot:UNRESOLVED ID	Cdc42hs	Gene_or_gene_product
+PMC2195994	0	uniprot:P01308	Insulin	Gene_or_gene_product
+PMC2195994	0	uniprot:P06213	Insulin Receptor	Gene_or_gene_product
+PMC2195994	1	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	2	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	2	uniprot:UNRESOLVED ID	Cdc42Hs protein	Gene_or_gene_product
+PMC2195994	2	ncbitax:species:ncbi:4932	yeast	Species
+PMC2195994	3	uniprot:P01308	insulin	Gene_or_gene_product
+PMC2195994	3	uniprot:P06213	insulin receptor	Gene_or_gene_product
+PMC2195994	3	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	3	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	4	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	4	uazid:UA-CT-200001	brain	Organ
+PMC2195994	4	uniprot:UNRESOLVED ID	Cdc42Hs binding site	Gene_or_gene_product
+PMC2195994	4	uniprot:P12931	Src	Gene_or_gene_product
+PMC2195994	4	uniprot:P33496	SH	Gene_or_gene_product
+PMC2195994	5	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	6	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	7	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	7	uniprot:UNRESOLVED ID	SH3-	Gene_or_gene_product
+PMC2195994	8	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	8	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	9	uniprot:P41252	IRS	Gene_or_gene_product
+PMC2195994	9	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	9	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	10	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	10	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	10	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	11	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2195994	11	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195994	11	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2195994	11	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	11	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2195994	11	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2195994	12	uniprot:UNRESOLVED ID	Extracellular factors	Gene_or_gene_product
+PMC2195994	12	uniprot:UNRESOLVED ID	PDGF	Gene_or_gene_product
+PMC2195994	12	uniprot:P01042	bradykinin	Gene_or_gene_product
+PMC2195994	12	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2195994	12	uniprot:UNRESOLVED ID	GTPase activating proteins	Gene_or_gene_product
+PMC2195994	12	uniprot:UNRESOLVED ID	GAPs	Gene_or_gene_product
+PMC2195994	12	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2195994	13	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2195994	14	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	14	ncbitax:species:ncbi:12721	HIV	Species
+PMC2195994	14	uniprot:UNRESOLVED ID	c-Jun NH2-terminal kinase	Gene_or_gene_product
+PMC2195994	15	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	15	uniprot:P01042	bradykinin	Gene_or_gene_product
+PMC2195994	16	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	16	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195994	17	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	17	uniprot:UNRESOLVED ID	neuroblastoma	CellType
+PMC2195994	18	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	19	uniprot:UNRESOLVED ID	Cdc42Hs targets	Gene_or_gene_product
+PMC2195994	19	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2195994	19	uniprot:UNRESOLVED ID	[ACK]	Gene_or_gene_product
+PMC2195994	19	uniprot:P38936	p21	Gene_or_gene_product
+PMC2195994	19	uniprot:UNRESOLVED ID	[PAK]	Gene_or_gene_product
+PMC2195994	19	uniprot:UNRESOLVED ID	myotonic dystrophy kinase	Gene_or_gene_product
+PMC2195994	19	uniprot:UNRESOLVED ID	[MRCK]	Gene_or_gene_product
+PMC2195994	19	uniprot:P42768	Wiskott-Aldrich syndrome protein	Gene_or_gene_product
+PMC2195994	19	uniprot:P42768	WASP	Gene_or_gene_product
+PMC2195994	19	ncbitax:species:ncbi:4932	yeast	Species
+PMC2195994	20	uniprot:Q9FZ06	PAK	Gene_or_gene_product
+PMC2195994	21	uniprot:P42768	WASP	Gene_or_gene_product
+PMC2195994	21	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2195994	21	uniprot:O43516	WIP	Gene_or_gene_product
+PMC2195994	21	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2195994	22	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2195994	22	uniprot:P42768	WASP	Gene_or_gene_product
+PMC2195994	23	ncbitax:species:ncbi:4932	yeast	Species
+PMC2195994	23	ncbitax:species:ncbi:9606	human	Species
+PMC2195994	23	uazid:UA-CT-200001	brain	Organ
+PMC2195994	23	uniprot:UNRESOLVED ID	Cdc42Hs targets	Gene_or_gene_product
+PMC2195994	24	uniprot:P01308	insulin	Gene_or_gene_product
+PMC2195994	24	uniprot:P06213	insulin receptor	Gene_or_gene_product
+PMC2195994	24	uniprot:Q9UQB8	IRS58	Gene_or_gene_product
+PMC2195994	25	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	26	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	27	uniprot:UNRESOLVED ID	neuroblastoma	CellType
+PMC2195994	27	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	27	uazid:UA-ORG-182	cones	Organ
+PMC2195994	28	uniprot:P41252	IRS	Gene_or_gene_product
+PMC2195994	28	uniprot:P12931	Src	Gene_or_gene_product
+PMC2195994	28	uniprot:P33496	SH	Gene_or_gene_product
+PMC2195994	29	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	29	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	30	uniprot:P41252	IRS	Gene_or_gene_product
+PMC2195994	30	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	30	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	31	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	31	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	31	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	32	ncbitax:species:ncbi:4932	Yeast	Species
+PMC2195994	33	uniprot:P56470	GAL4	Gene_or_gene_product
+PMC2195994	34	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	34	uniprot:Q08215	pAS2-1	Gene_or_gene_product
+PMC2195994	34	uniprot:UNRESOLVED ID	GAL4 binding domain	Gene_or_gene_product
+PMC2195994	35	uniprot:UNRESOLVED ID	Gal4BD-Cdc42Hs	Gene_or_gene_product
+PMC2195994	35	ncbitax:species:ncbi:4932	yeast	Species
+PMC2195994	36	uniprot:UNRESOLVED ID	Cdc42Hs-GAL4	Gene_or_gene_product
+PMC2195994	37	uniprot:UNRESOLVED ID	pAS2-1-Cdc42HsL61S189	Gene_or_gene_product
+PMC2195994	37	ncbitax:species:ncbi:9606	human	Species
+PMC2195994	37	uazid:UA-CT-200001	brain	Organ
+PMC2195994	38	uniprot:B1JI86	LacZ	Gene_or_gene_product
+PMC2195994	38	uniprot:UNRESOLVED ID	beta-galactoside	Gene_or_gene_product
+PMC2195994	40	uniprot:UNRESOLVED ID	pACT-2	Gene_or_gene_product
+PMC2195994	40	ncbitax:species:ncbi:4932	yeast	Species
+PMC2195994	41	uniprot:UNRESOLVED ID	His+LacZ+	Gene_or_gene_product
+PMC2195994	41	uniprot:UNRESOLVED ID	pAS2-1-Cdc42HsL61S189	Gene_or_gene_product
+PMC2195994	41	uniprot:Q08215	pAS2-1	Gene_or_gene_product
+PMC2195994	42	uniprot:UNRESOLVED ID	pACT-2	Gene_or_gene_product
+PMC2195994	44	uniprot:Q5AMT2	Bgl2	Gene_or_gene_product
+PMC2195994	44	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	44	uniprot:UNRESOLVED ID	Bgl2 site	Gene_or_gene_product
+PMC2195994	46	uniprot:Q5AMT2	Bgl2	Gene_or_gene_product
+PMC2195994	46	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	46	uniprot:UNRESOLVED ID	BamH1 site	Gene_or_gene_product
+PMC2195994	46	uniprot:UNRESOLVED ID	p265	Gene_or_gene_product
+PMC2195994	47	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	47	uniprot:O36024	Sma1	Gene_or_gene_product
+PMC2195994	47	uniprot:UNRESOLVED ID	Xho1	Gene_or_gene_product
+PMC2195994	47	uniprot:UNRESOLVED ID	Hind3	Gene_or_gene_product
+PMC2195994	48	uniprot:Q0IH24	clamp	Gene_or_gene_product
+PMC2195994	48	uniprot:UNRESOLVED ID	BamH1 site	Gene_or_gene_product
+PMC2195994	48	uniprot:UNRESOLVED ID	GACGTCGGATCC	Gene_or_gene_product
+PMC2195994	48	uniprot:UNRESOLVED ID	EcoR1	Gene_or_gene_product
+PMC2195994	48	uniprot:UNRESOLVED ID	GACGTCGAATTC	Gene_or_gene_product
+PMC2195994	48	uniprot:UNRESOLVED ID	BamH1-EcoR1 sites	Gene_or_gene_product
+PMC2195994	48	uniprot:UNRESOLVED ID	p265	Gene_or_gene_product
+PMC2195994	49	uniprot:UNRESOLVED ID	Taq	Gene_or_gene_product
+PMC2195994	52	uniprot:Q5AMT2	Bgl2	Gene_or_gene_product
+PMC2195994	52	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	52	uniprot:UNRESOLVED ID	BamH1 site	Gene_or_gene_product
+PMC2195994	52	uniprot:UNRESOLVED ID	pXJ40	Gene_or_gene_product
+PMC2195994	52	uniprot:P33807	hemagglutinin	Gene_or_gene_product
+PMC2195994	52	uniprot:P69208	HA	Gene_or_gene_product
+PMC2195994	53	uniprot:UNRESOLVED ID	BamH1	Gene_or_gene_product
+PMC2195994	54	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	54	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	55	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	55	uniprot:P69208	HA	Gene_or_gene_product
+PMC2195994	57	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	57	uniprot:UNRESOLVED ID	betaPAK fragment	Gene_or_gene_product
+PMC2195994	57	uniprot:UNRESOLVED ID	Nco1 fragment	Gene_or_gene_product
+PMC2195994	63	uniprot:O60760	Glutathione S-transferase	Gene_or_gene_product
+PMC2195994	63	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2195994	63	uniprot:P01298	pH	Gene_or_gene_product
+PMC2195994	64	uniprot:P01298	pH	Gene_or_gene_product
+PMC2195994	65	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	65	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195994	65	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2195994	65	uniprot:Q9NQV6	Tris	Gene_or_gene_product
+PMC2195994	65	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2195994	65	uniprot:P38936	p21	Gene_or_gene_product
+PMC2195994	66	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	66	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195994	66	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2195994	67	uniprot:P38936	p21	Gene_or_gene_product
+PMC2195994	67	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	67	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195994	67	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2195994	67	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2195994	67	uniprot:D6RGH6	mCi	Gene_or_gene_product
+PMC2195994	67	uniprot:P01298	pH	Gene_or_gene_product
+PMC2195994	67	uniprot:UNRESOLVED ID	mM DTT	Gene_or_gene_product
+PMC2195994	68	uniprot:P01298	pH	Gene_or_gene_product
+PMC2195994	68	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2195994	69	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	69	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	69	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2195994	69	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2195994	70	uniprot:UNRESOLVED ID	Cdc42Hs GTPase	Gene_or_gene_product
+PMC2195994	70	uniprot:UNRESOLVED ID	[alpha32P-GDP]Cdc42H5	Gene_or_gene_product
+PMC2195994	71	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	71	uniprot:Q9FZ06	PAK	Gene_or_gene_product
+PMC2195994	71	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2195994	72	uniprot:UNRESOLVED ID	mM MgCl2, 5 mM DTT	Gene_or_gene_product
+PMC2195994	73	uniprot:P01298	pH	Gene_or_gene_product
+PMC2195994	75	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	76	uniprot:UNRESOLVED ID	ExpressHyb	Gene_or_gene_product
+PMC2195994	77	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	80	uniprot:UNRESOLVED ID	2x SSC	Gene_or_gene_product
+PMC2195994	80	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2195994	86	uniprot:UNRESOLVED ID	laminin	Gene_or_gene_product
+PMC2195994	87	uniprot:O30807	DME	Gene_or_gene_product
+PMC2195994	98	uniprot:UNRESOLVED ID	FITC	Gene_or_gene_product
+PMC2195994	101	uniprot:UNRESOLVED ID	GST IRS-58	Gene_or_gene_product
+PMC2195994	101	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	103	uniprot:UNRESOLVED ID	Palmix TM-6CN video camera	Gene_or_gene_product
+PMC2195994	103	uniprot:UNRESOLVED ID	Sony-u-matic V0-5800 PS video recorder	Gene_or_gene_product
+PMC2195994	106	uniprot:UNRESOLVED ID	Screen	Gene_or_gene_product
+PMC2195994	106	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	107	uniprot:UNRESOLVED ID	Cdc42HsL61S189	Gene_or_gene_product
+PMC2195994	108	uniprot:UNRESOLVED ID	CBP1-7	Gene_or_gene_product
+PMC2195994	108	uniprot:UNRESOLVED ID	Cdc42Hs-binding proteins	Gene_or_gene_product
+PMC2195994	109	uniprot:UNRESOLVED ID	His+LacZ+	Gene_or_gene_product
+PMC2195994	111	uniprot:P50454	CBP2	Gene_or_gene_product
+PMC2195994	111	uniprot:O75914	betaPAK	Gene_or_gene_product
+PMC2195994	111	uniprot:Q54QT9	CBP6	Gene_or_gene_product
+PMC2195994	111	uniprot:Q13153	alphaPAK	Gene_or_gene_product
+PMC2195994	111	uniprot:P11515	CBP3	Gene_or_gene_product
+PMC2195994	111	uniprot:O83489	ACK	Gene_or_gene_product
+PMC2195994	111	uniprot:P50454	CBP1	Gene_or_gene_product
+PMC2195994	111	ncbitax:species:ncbi:9606	human	Species
+PMC2195994	111	uniprot:P01308	insulin	Gene_or_gene_product
+PMC2195994	111	uniprot:P06213	insulin receptor	Gene_or_gene_product
+PMC2195994	111	uniprot:Q9UQB8	IRSp53/58	Gene_or_gene_product
+PMC2195994	112	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	112	uazid:UA-ORG-147	central nervous system	Organ
+PMC2195994	112	uniprot:P54259	DRPLA	Gene_or_gene_product
+PMC2195994	112	uniprot:P54259	atrophin-1	Gene_or_gene_product
+PMC2195994	113	uniprot:Q2UE23	CBP4	Gene_or_gene_product
+PMC2195994	114	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	115	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	116	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	116	uniprot:Q5AMT2	Bgl2	Gene_or_gene_product
+PMC2195994	117	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	118	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	118	uniprot:UNRESOLVED ID	tail	CellType
+PMC2195994	119	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	119	uniprot:Q9UQB8	IRSp53/58	Gene_or_gene_product
+PMC2195994	120	uniprot:UNRESOLVED ID	hamster IRS-53 sequence	Gene_or_gene_product
+PMC2195994	120	ncbitax:species:ncbi:9606	human	Species
+PMC2195994	123	ncbitax:species:ncbi:9606	human	Species
+PMC2195994	124	ncbitax:species:ncbi:9606	Human	Species
+PMC2195994	124	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	124	uniprot:P01308	insulin	Gene_or_gene_product
+PMC2195994	124	uniprot:P06213	insulin receptor	Gene_or_gene_product
+PMC2195994	125	ncbitax:species:ncbi:9606	human	Species
+PMC2195994	125	ncbitax:species:ncbi:4932	yeast	Species
+PMC2195994	125	uniprot:O14514	brain-specific angiogenesis inhibitor 1	Gene_or_gene_product
+PMC2195994	125	uniprot:O14514	BAI1	Gene_or_gene_product
+PMC2195994	125	uniprot:P54259	atrophin-1	Gene_or_gene_product
+PMC2195994	127	ncbitax:species:ncbi:9606	human	Species
+PMC2195994	127	uniprot:P14618	p58	Gene_or_gene_product
+PMC2195994	127	uniprot:P25445	Fas	Gene_or_gene_product
+PMC2195994	129	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	129	uniprot:UNRESOLVED ID	SH3-binding site	Gene_or_gene_product
+PMC2195994	129	uniprot:UNRESOLVED ID	PPXY motif	Gene_or_gene_product
+PMC2195994	131	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	131	uniprot:UNRESOLVED ID	Cdc42Hs-binding sites	Gene_or_gene_product
+PMC2195994	131	uniprot:O83489	ACK	Gene_or_gene_product
+PMC2195994	131	uniprot:Q9FZ06	PAK	Gene_or_gene_product
+PMC2195994	131	uniprot:P42768	WASP	Gene_or_gene_product
+PMC2195994	131	uniprot:UNRESOLVED ID	myotonic dystrophy kinase	Gene_or_gene_product
+PMC2195994	131	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2195994	131	uniprot:UNRESOLVED ID	MRCK	Gene_or_gene_product
+PMC2195994	131	uniprot:UNRESOLVED ID	IQGAP	Gene_or_gene_product
+PMC2195994	131	uniprot:Q15642	CIP4	Gene_or_gene_product
+PMC2195994	132	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	132	ncbitax:species:ncbi:9606	human	Species
+PMC2195994	134	uazid:UA-ORG-721	placenta	Organ
+PMC2195994	134	uazid:UA-ORG-520	liver	Organ
+PMC2195994	134	uazid:UA-ORG-461	kidney	Organ
+PMC2195994	135	uazid:UA-CT-200001	brain	Organ
+PMC2195994	136	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	136	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	137	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2195994	137	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	137	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195994	137	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2195994	137	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	137	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2195994	137	uniprot:UNRESOLVED ID	Cdc42HsQ61L	Gene_or_gene_product
+PMC2195994	137	uniprot:UNRESOLVED ID	Rac1Q61L	Gene_or_gene_product
+PMC2195994	137	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2195994	138	uniprot:Q9FZ06	PAK	Gene_or_gene_product
+PMC2195994	139	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	139	uniprot:UNRESOLVED ID	Cdc42Hs-specific binding protein	Gene_or_gene_product
+PMC2195994	139	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195994	139	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2195994	140	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	140	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2195994	140	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	140	uniprot:UNRESOLVED ID	Cdc42Hs-GDP	Gene_or_gene_product
+PMC2195994	141	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	141	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	141	uniprot:Q9FZ06	PAK	Gene_or_gene_product
+PMC2195994	142	uniprot:Q9FZ06	PAK	Gene_or_gene_product
+PMC2195994	142	uniprot:P42768	WASP	Gene_or_gene_product
+PMC2195994	142	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	143	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	143	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	144	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	145	uniprot:UNRESOLVED ID	Cdc42Hs-binding site	Gene_or_gene_product
+PMC2195994	146	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2195994	147	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	148	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	149	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	150	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	150	uniprot:UNRESOLVED ID	Cdc42Hs-binding sites	Gene_or_gene_product
+PMC2195994	151	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2195994	151	uniprot:P31749	Rac	Gene_or_gene_product
+PMC2195994	151	uniprot:UNRESOLVED ID	CRIB	Gene_or_gene_product
+PMC2195994	152	uniprot:UNRESOLVED ID	CRIB motif	Gene_or_gene_product
+PMC2195994	152	uniprot:UNRESOLVED ID	G protein-binding domain	Gene_or_gene_product
+PMC2195994	152	uniprot:Q9FZ06	PAK	Gene_or_gene_product
+PMC2195994	152	uniprot:O83489	ACK	Gene_or_gene_product
+PMC2195994	152	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	152	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195994	153	uniprot:UNRESOLVED ID	P268	Gene_or_gene_product
+PMC2195994	154	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	155	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	155	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2195994	156	uniprot:UNRESOLVED ID	Cdc42Hs-binding site	Gene_or_gene_product
+PMC2195994	158	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	159	uniprot:UNRESOLVED ID	F-actin structures	Gene_or_gene_product
+PMC2195994	160	uniprot:P01042	bradykinin	Gene_or_gene_product
+PMC2195994	160	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	160	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2195994	160	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195994	161	uniprot:UNRESOLVED ID	F-actin structures	Gene_or_gene_product
+PMC2195994	162	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	162	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	162	uniprot:P69208	HA	Gene_or_gene_product
+PMC2195994	163	uniprot:P69208	HA	Gene_or_gene_product
+PMC2195994	163	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	164	uniprot:P69208	HA	Gene_or_gene_product
+PMC2195994	164	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	165	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	166	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	166	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	167	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	168	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	169	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	170	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	170	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	170	uniprot:UNRESOLVED ID	ZEISS	Gene_or_gene_product
+PMC2195994	171	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	171	uniprot:UNRESOLVED ID	small F-actin clusters	Gene_or_gene_product
+PMC2195994	172	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	173	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	173	uniprot:UNRESOLVED ID	punctate F-actin	Gene_or_gene_product
+PMC2195994	173	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	174	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	175	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	176	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	176	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	177	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	177	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	178	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	178	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	179	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	180	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	180	uniprot:UNRESOLVED ID	IRS-58Delta510-534	Gene_or_gene_product
+PMC2195994	180	uniprot:UNRESOLVED ID	IRS-58Delta143-534	Gene_or_gene_product
+PMC2195994	180	uniprot:UNRESOLVED ID	Cdc42Hs binding-defective IRS-58I267N	Gene_or_gene_product
+PMC2195994	181	uniprot:UNRESOLVED ID	IRS-58Delta510-534 protein	Gene_or_gene_product
+PMC2195994	181	ncbitax:species:ncbi:9606	human	Species
+PMC2195994	181	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	182	uniprot:UNRESOLVED ID	IRS-58Delta510-534	Gene_or_gene_product
+PMC2195994	183	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	183	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	183	uniprot:UNRESOLVED ID	IRS-58Delta143-534	Gene_or_gene_product
+PMC2195994	184	uniprot:UNRESOLVED ID	IRS-58Delta143-534 mutant	Gene_or_gene_product
+PMC2195994	185	uniprot:UNRESOLVED ID	IRS-58Delta143-534	Gene_or_gene_product
+PMC2195994	186	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2195994	187	uniprot:P41252	IRS	Gene_or_gene_product
+PMC2195994	187	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	187	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	188	uniprot:UNRESOLVED ID	IRS-58I267N F-actin	Gene_or_gene_product
+PMC2195994	188	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	189	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	189	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	189	uniprot:UNRESOLVED ID	F-actin structures	Gene_or_gene_product
+PMC2195994	191	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	192	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	192	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195994	192	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	193	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	194	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	194	uazid:UA-CT-200001	brain	Organ
+PMC2195994	195	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2195994	195	uniprot:UNRESOLVED ID	neuroblastoma	CellType
+PMC2195994	195	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	195	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195994	195	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2195994	196	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	196	uniprot:UNRESOLVED ID	serum	CellType
+PMC2195994	197	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	200	uniprot:UNRESOLVED ID	serum	CellType
+PMC2195994	201	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	201	uazid:UA-ORG-182	cones	Organ
+PMC2195994	203	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	203	uazid:UA-ORG-182	cones	Organ
+PMC2195994	204	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	205	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	206	uniprot:UNRESOLVED ID	Serum	CellType
+PMC2195994	207	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	207	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	209	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	209	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195994	209	uniprot:UNRESOLVED ID	GTPases	Gene_or_gene_product
+PMC2195994	210	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	210	uniprot:UNRESOLVED ID	Rac1T17N	Gene_or_gene_product
+PMC2195994	211	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	211	uniprot:UNRESOLVED ID	Cdc42HsT17N	Gene_or_gene_product
+PMC2195994	212	uniprot:UNRESOLVED ID	Rac1T17N	Gene_or_gene_product
+PMC2195994	212	uniprot:UNRESOLVED ID	Cdc42HsT17N	Gene_or_gene_product
+PMC2195994	212	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	213	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	213	uniprot:UNRESOLVED ID	IRS-58Delta510-534	Gene_or_gene_product
+PMC2195994	213	uniprot:UNRESOLVED ID	IRS-58Delta390-534	Gene_or_gene_product
+PMC2195994	213	uniprot:UNRESOLVED ID	IRS-58Delta143-534	Gene_or_gene_product
+PMC2195994	214	uniprot:UNRESOLVED ID	IRS-58Delta510-534	Gene_or_gene_product
+PMC2195994	215	uniprot:UNRESOLVED ID	IRS-58Delta390-534	Gene_or_gene_product
+PMC2195994	216	uniprot:UNRESOLVED ID	IRS-58Delta143-534	Gene_or_gene_product
+PMC2195994	217	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	217	uniprot:UNRESOLVED ID	neuroblastoma	CellType
+PMC2195994	218	uniprot:UNRESOLVED ID	Cdc42Hs binding-defective mutation	Gene_or_gene_product
+PMC2195994	218	uniprot:UNRESOLVED ID	IRS-58I267N	Gene_or_gene_product
+PMC2195994	218	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	219	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	219	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	220	uniprot:UNRESOLVED ID	IRS-58I267N	Gene_or_gene_product
+PMC2195994	221	uniprot:UNRESOLVED ID	IRS-58I267N	Gene_or_gene_product
+PMC2195994	221	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	222	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	222	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	222	uniprot:UNRESOLVED ID	neuroblastoma	CellType
+PMC2195994	223	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	224	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	224	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	225	uniprot:UNRESOLVED ID	Cdc42Hs-binding region	Gene_or_gene_product
+PMC2195994	225	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	225	uniprot:UNRESOLVED ID	CRIB motif	Gene_or_gene_product
+PMC2195994	226	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	226	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	227	uniprot:UNRESOLVED ID	Cdc42Hs binding sites	Gene_or_gene_product
+PMC2195994	227	uniprot:O83489	ACK	Gene_or_gene_product
+PMC2195994	227	uniprot:Q9FZ06	PAK	Gene_or_gene_product
+PMC2195994	227	uniprot:P42768	WASP	Gene_or_gene_product
+PMC2195994	228	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	228	uniprot:UNRESOLVED ID	CRIB motif proteins	Gene_or_gene_product
+PMC2195994	228	uniprot:Q9FZ06	PAK	Gene_or_gene_product
+PMC2195994	229	uniprot:Q9FZ06	PAK	Gene_or_gene_product
+PMC2195994	229	uniprot:P42768	WASP	Gene_or_gene_product
+PMC2195994	229	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2195994	230	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2195994	232	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	233	uniprot:Q9FZ06	PAK	Gene_or_gene_product
+PMC2195994	233	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2195994	233	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	235	uniprot:UNRESOLVED ID	Cdc42HsC40	Gene_or_gene_product
+PMC2195994	235	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	235	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	235	uniprot:UNRESOLVED ID	CRIB motif proteins	Gene_or_gene_product
+PMC2195994	236	uniprot:UNRESOLVED ID	Cdc42HsC40	Gene_or_gene_product
+PMC2195994	236	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	236	uniprot:UNRESOLVED ID	Cdc42HsA37	Gene_or_gene_product
+PMC2195994	237	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	238	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	239	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	239	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	239	uniprot:P69208	HA	Gene_or_gene_product
+PMC2195994	240	uniprot:UNRESOLVED ID	Serum	CellType
+PMC2195994	240	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	241	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	241	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	243	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	243	uniprot:P01042	bradykinin	Gene_or_gene_product
+PMC2195994	244	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	244	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	245	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195994	246	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	246	uniprot:P42768	WASP	Gene_or_gene_product
+PMC2195994	246	uniprot:P15882	n-chimaerin	Gene_or_gene_product
+PMC2195994	246	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195994	246	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2195994	246	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	247	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	248	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	248	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	249	uniprot:P01042	bradykinin	Gene_or_gene_product
+PMC2195994	249	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	250	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	251	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	251	uazid:UA-CT-200001	brain	Organ
+PMC2195994	251	uniprot:UNRESOLVED ID	neuroblastoma	CellType
+PMC2195994	252	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	252	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	252	uniprot:UNRESOLVED ID	neuroblastoma	CellType
+PMC2195994	253	uniprot:UNRESOLVED ID	Serum	CellType
+PMC2195994	253	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	254	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	256	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	256	uniprot:UNRESOLVED ID	serum	CellType
+PMC2195994	256	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	257	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	258	uazid:UA-ORG-182	cones	Organ
+PMC2195994	260	uniprot:UNRESOLVED ID	Cdc42Hs binding-defective IRS-58I267N	Gene_or_gene_product
+PMC2195994	260	ncbitax:species:ncbi:4932	yeast	Species
+PMC2195994	260	uniprot:UNRESOLVED ID	Cdc42p binding-defective Ste20	Gene_or_gene_product
+PMC2195994	261	uniprot:UNRESOLVED ID	dominant negative T17N cDNAs	Gene_or_gene_product
+PMC2195994	261	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	261	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195994	262	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	263	uniprot:P54259	atrophin-1	Gene_or_gene_product
+PMC2195994	263	uniprot:Q90486	BA1	Gene_or_gene_product
+PMC2195994	264	uniprot:UNRESOLVED ID	Cdc42Hs-IRS-58	Gene_or_gene_product
+PMC2195994	265	uniprot:UNRESOLVED ID	IRS-58I267N	Gene_or_gene_product
+PMC2195994	265	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	265	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	266	uniprot:UNRESOLVED ID	Cdc4Hs-IRS-58	Gene_or_gene_product
+PMC2195994	266	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	266	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	267	uniprot:P54259	Atrophin-1	Gene_or_gene_product
+PMC2195994	267	uniprot:O14514	BAI1	Gene_or_gene_product
+PMC2195994	267	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	268	uniprot:P01308	insulin	Gene_or_gene_product
+PMC2195994	268	uniprot:P05019	IGF1	Gene_or_gene_product
+PMC2195994	268	uniprot:P01344	IGF2	Gene_or_gene_product
+PMC2195994	269	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	269	uniprot:P54259	atrophin-1	Gene_or_gene_product
+PMC2195994	269	uniprot:O14514	BAI1	Gene_or_gene_product
+PMC2195994	269	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	269	uniprot:P01308	insulin	Gene_or_gene_product
+PMC2195994	269	uniprot:P06213	insulin receptor	Gene_or_gene_product
+PMC2195994	270	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	271	uniprot:O83489	ACK	Gene_or_gene_product
+PMC2195994	271	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2195994	271	uniprot:O14514	BAI1	Gene_or_gene_product
+PMC2195994	271	uniprot:O14514	brain-specific angiogenesis inhibitor 1	Gene_or_gene_product
+PMC2195994	271	uniprot:UNRESOLVED ID	CRIB	Gene_or_gene_product
+PMC2195994	271	uniprot:P31749	Rac	Gene_or_gene_product
+PMC2195994	271	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2195994	271	uniprot:P20936	GTPase activating protein	Gene_or_gene_product
+PMC2195994	271	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2195994	271	uniprot:O60760	glutathione S-transferase	Gene_or_gene_product
+PMC2195994	271	uniprot:P69208	HA	Gene_or_gene_product
+PMC2195994	271	uniprot:P33807	hemagglutinin	Gene_or_gene_product
+PMC2195994	271	uniprot:P41252	IRS	Gene_or_gene_product
+PMC2195994	271	uniprot:P01308	insulin	Gene_or_gene_product
+PMC2195994	271	uniprot:P06213	insulin receptor	Gene_or_gene_product
+PMC2195994	271	uniprot:P96122	MTN	Gene_or_gene_product
+PMC2195994	271	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2195994	271	uniprot:P42768	WASP	Gene_or_gene_product
+PMC2195994	271	uniprot:Q9FZ06	PAK	Gene_or_gene_product
+PMC2195994	271	uniprot:P38936	p21	Gene_or_gene_product
+PMC2195994	271	uniprot:P33496	SH	Gene_or_gene_product
+PMC2195994	271	uniprot:P12931	Src	Gene_or_gene_product
+PMC2195994	271	uniprot:P42768	Wiskott-Aldrich syndrome protein	Gene_or_gene_product
+PMC2195994	272	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	273	uniprot:UNRESOLVED ID	Bgl2 fragment	Gene_or_gene_product
+PMC2195994	273	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	275	uniprot:UNRESOLVED ID	SH3-binding domain	Gene_or_gene_product
+PMC2195994	276	uniprot:UNRESOLVED ID	SH3-binding site	Gene_or_gene_product
+PMC2195994	276	uniprot:UNRESOLVED ID	SH3-binding domain	Gene_or_gene_product
+PMC2195994	277	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	278	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	278	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195994	278	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2195994	278	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	279	uniprot:UNRESOLVED ID	Cdc42HsL61	Gene_or_gene_product
+PMC2195994	279	uniprot:UNRESOLVED ID	Rac1L61	Gene_or_gene_product
+PMC2195994	279	uniprot:UNRESOLVED ID	RhoAL63	Gene_or_gene_product
+PMC2195994	279	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2195994	279	uniprot:UNRESOLVED ID	IRS-58-GST	Gene_or_gene_product
+PMC2195994	280	uniprot:UNRESOLVED ID	Lanes 1-3	Gene_or_gene_product
+PMC2195994	280	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	280	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2195994	280	uniprot:UNRESOLVED ID	lane 5	Gene_or_gene_product
+PMC2195994	280	uniprot:O75914	betaPAK	Gene_or_gene_product
+PMC2195994	280	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	280	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195994	280	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2195994	281	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	282	uniprot:UNRESOLVED ID	GTPase	Gene_or_gene_product
+PMC2195994	282	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	282	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2195994	282	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2195994	283	uniprot:UNRESOLVED ID	LANES 1 and 2	Gene_or_gene_product
+PMC2195994	283	uniprot:UNRESOLVED ID	IRS-58-GST	Gene_or_gene_product
+PMC2195994	284	uniprot:UNRESOLVED ID	Lanes 1-3	Gene_or_gene_product
+PMC2195994	284	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	284	uniprot:UNRESOLVED ID	L61C40	Gene_or_gene_product
+PMC2195994	284	uniprot:UNRESOLVED ID	L61A37	Gene_or_gene_product
+PMC2195994	284	uniprot:UNRESOLVED ID	lane 4	Gene_or_gene_product
+PMC2195994	284	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2195994	284	uniprot:Q9FZ06	PAK	Gene_or_gene_product
+PMC2195994	284	uazid:UA-ORG-624	neutrophil	Organ
+PMC2195994	285	uniprot:UNRESOLVED ID	Cdc42Hs-binding site	Gene_or_gene_product
+PMC2195994	285	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	286	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	286	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2195994	286	uniprot:UNRESOLVED ID	Cdc42HsL61	Gene_or_gene_product
+PMC2195994	288	uniprot:UNRESOLVED ID	Lane 1	Gene_or_gene_product
+PMC2195994	288	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2195994	290	uniprot:P18168	B-D	Gene_or_gene_product
+PMC2195994	292	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2195994	293	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	293	uniprot:UNRESOLVED ID	Cdc42Hs-binding fragment	Gene_or_gene_product
+PMC2195994	293	uniprot:UNRESOLVED ID	NSDA	Gene_or_gene_product
+PMC2195994	293	uniprot:UNRESOLVED ID	NSDP	Gene_or_gene_product
+PMC2195994	293	uniprot:UNRESOLVED ID	IPDP	Gene_or_gene_product
+PMC2195994	294	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2195994	294	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	295	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2195994	295	uniprot:UNRESOLVED ID	IRS-58I267N	Gene_or_gene_product
+PMC2195994	296	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	297	uniprot:UNRESOLVED ID	scale	CellType
+PMC2195994	299	uniprot:UNRESOLVED ID	Cdc42H5	Gene_or_gene_product
+PMC2195994	300	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	301	uniprot:UNRESOLVED ID	Serum	CellType
+PMC2195994	301	uniprot:P69208	HA	Gene_or_gene_product
+PMC2195994	301	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	302	uniprot:UNRESOLVED ID	Anti-HA antibody	Gene_or_gene_product
+PMC2195994	302	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	303	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	303	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	304	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	309	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2195994	309	ncbitax:species:ncbi:41568	muM	Species
+PMC2195994	310	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	311	uniprot:UNRESOLVED ID	Serum	CellType
+PMC2195994	311	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	311	uniprot:UNRESOLVED ID	pXJ40	Gene_or_gene_product
+PMC2195994	312	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	313	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	313	uniprot:UNRESOLVED ID	panel A	Gene_or_gene_product
+PMC2195994	313	uniprot:P69208	HA	Gene_or_gene_product
+PMC2195994	313	uniprot:UNRESOLVED ID	panel D	Gene_or_gene_product
+PMC2195994	314	uniprot:Q7MHF3	A-D	Gene_or_gene_product
+PMC2195994	316	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	318	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	318	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	319	ncbitax:species:ncbi:41568	muM	Species
+PMC2195994	320	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	320	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	321	uniprot:UNRESOLVED ID	Serum	CellType
+PMC2195994	321	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	322	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	325	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2195994	325	ncbitax:species:ncbi:41568	muM	Species
+PMC2195994	326	uniprot:UNRESOLVED ID	IRS-58I267N	Gene_or_gene_product
+PMC2195994	326	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	327	uniprot:UNRESOLVED ID	Serum	CellType
+PMC2195994	327	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	328	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	328	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	330	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	330	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	331	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	331	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	332	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2195994	332	ncbitax:species:ncbi:41568	muM	Species
+PMC2195994	334	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	334	uniprot:UNRESOLVED ID	pXJ40	Gene_or_gene_product
+PMC2195994	334	uniprot:UNRESOLVED ID	neuroblastoma	CellType
+PMC2195994	339	ncbitax:species:ncbi:41568	muM	Species
+PMC2195994	340	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	341	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	341	uniprot:UNRESOLVED ID	pXJ40	Gene_or_gene_product
+PMC2195994	341	uniprot:UNRESOLVED ID	neuroblastoma	CellType
+PMC2195994	343	uniprot:UNRESOLVED ID	Panel A	Gene_or_gene_product
+PMC2195994	343	uniprot:UNRESOLVED ID	serum	CellType
+PMC2195994	343	uniprot:UNRESOLVED ID	pXJ40	Gene_or_gene_product
+PMC2195994	344	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	345	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	345	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2195994	345	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product
+PMC2195994	346	uniprot:UNRESOLVED ID	Panel A	Gene_or_gene_product
+PMC2195994	346	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	347	uniprot:UNRESOLVED ID	Panels B-G	Gene_or_gene_product
+PMC2195994	347	uniprot:UNRESOLVED ID	HA-stain	Gene_or_gene_product
+PMC2195994	348	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	349	uniprot:P69208	HA	Gene_or_gene_product
+PMC2195994	349	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	350	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	350	uniprot:P69208	HA	Gene_or_gene_product
+PMC2195994	351	uniprot:UNRESOLVED ID	Panels G	Gene_or_gene_product
+PMC2195994	351	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	351	uniprot:P41252	IRS	Gene_or_gene_product
+PMC2195994	352	ncbitax:species:ncbi:41568	muM	Species
+PMC2195994	353	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	353	uniprot:UNRESOLVED ID	neuroblastoma	CellType
+PMC2195994	355	uniprot:UNRESOLVED ID	Lane 1	Gene_or_gene_product
+PMC2195994	355	uniprot:UNRESOLVED ID	pXJ40	Gene_or_gene_product
+PMC2195994	355	uniprot:UNRESOLVED ID	lane 2	Gene_or_gene_product
+PMC2195994	355	uniprot:UNRESOLVED ID	serum	CellType
+PMC2195994	355	uniprot:UNRESOLVED ID	lane 4	Gene_or_gene_product
+PMC2195994	355	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	355	uniprot:UNRESOLVED ID	lane 5	Gene_or_gene_product
+PMC2195994	355	uniprot:UNRESOLVED ID	IRS-58I269N	Gene_or_gene_product
+PMC2195994	357	uniprot:UNRESOLVED ID	serum	CellType
+PMC2195994	357	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	361	uniprot:P46060	SD	Gene_or_gene_product
+PMC2195994	362	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	362	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	363	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	364	uniprot:UNRESOLVED ID	Serum	CellType
+PMC2195994	367	ncbitax:species:ncbi:41568	muM	Species
+PMC2195994	368	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	369	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	370	uniprot:P01308	insulin	Gene_or_gene_product
+PMC2195994	370	uniprot:P06213	insulin receptor	Gene_or_gene_product
+PMC2195994	370	uniprot:P06213	IR	Gene_or_gene_product
+PMC2195994	371	uniprot:UNRESOLVED ID	Cdc42Hs-binding site	Gene_or_gene_product
+PMC2195994	372	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	373	uniprot:P54259	Atrophin-1	Gene_or_gene_product
+PMC2195994	373	uniprot:UNRESOLVED ID	BA1I	Gene_or_gene_product
+PMC2195994	374	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	375	uniprot:Q9UQB8	IRS-58	Gene_or_gene_product
+PMC2195994	377	uniprot:UNRESOLVED ID	1IRS-58I267N mutant	Gene_or_gene_product
+PMC2195994	377	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2195994	377	uniprot:UNRESOLVED ID	Cdc42Hs	Gene_or_gene_product

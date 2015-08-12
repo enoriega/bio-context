@@ -1,0 +1,460 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC3378484	0	uniprot:UNRESOLVED ID	class IA PI3-kinases	Gene_or_gene_product
+PMC3378484	1	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC3378484	1	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	1	uniprot:UNRESOLVED ID	phosphoinositide 3-kinases	Gene_or_gene_product
+PMC3378484	1	uniprot:UNRESOLVED ID	PI3Ks	Gene_or_gene_product
+PMC3378484	1	ncbitax:species:ncbi:9606	human	Species
+PMC3378484	2	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3378484	3	uniprot:P27986	PIK3R1	Gene_or_gene_product
+PMC3378484	3	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3378484	4	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	4	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3378484	6	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC3378484	6	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3378484	8	uniprot:UNRESOLVED ID	hotspot E545K mutant	Gene_or_gene_product
+PMC3378484	8	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	9	uniprot:UNRESOLVED ID	RTK phosphopeptide	Gene_or_gene_product
+PMC3378484	10	uniprot:UNRESOLVED ID	hotspot H1047R mutant	Gene_or_gene_product
+PMC3378484	10	uniprot:UNRESOLVED ID	p85alpha-N564D	Gene_or_gene_product
+PMC3378484	11	uniprot:UNRESOLVED ID	RTK phosphopeptide	Gene_or_gene_product
+PMC3378484	11	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	12	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3378484	12	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3378484	12	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3378484	13	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	13	uniprot:UNRESOLVED ID	p85alpha inter-SH2 domain	Gene_or_gene_product
+PMC3378484	13	uniprot:UNRESOLVED ID	iSH2	Gene_or_gene_product
+PMC3378484	14	uniprot:UNRESOLVED ID	PIK-108 binding site	Gene_or_gene_product
+PMC3378484	15	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	15	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3378484	16	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	16	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3378484	17	uniprot:UNRESOLVED ID	Class IA PI3Ks transduce growth factor	Gene_or_gene_product
+PMC3378484	17	uniprot:UNRESOLVED ID	PtdIns	Gene_or_gene_product
+PMC3378484	17	uniprot:P09131	P3	Gene_or_gene_product
+PMC3378484	18	uniprot:UNRESOLVED ID	RTKs	Gene_or_gene_product
+PMC3378484	18	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC3378484	19	uniprot:P09131	P3	Gene_or_gene_product
+PMC3378484	19	uniprot:P08567	pleckstrin	Gene_or_gene_product
+PMC3378484	20	uniprot:O15530	PDK1	Gene_or_gene_product
+PMC3378484	20	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3378484	20	uniprot:P54644	AKT	Gene_or_gene_product
+PMC3378484	21	uniprot:UNRESOLVED ID	PtdIns	Gene_or_gene_product
+PMC3378484	21	uniprot:P09131	P3	Gene_or_gene_product
+PMC3378484	22	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3378484	22	uniprot:P14907	p110	Gene_or_gene_product
+PMC3378484	22	uniprot:UNRESOLVED ID	PtdIns	Gene_or_gene_product
+PMC3378484	22	uniprot:P09131	P3	Gene_or_gene_product
+PMC3378484	23	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3378484	23	uniprot:UNRESOLVED ID	RTKs	Gene_or_gene_product
+PMC3378484	23	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	23	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3378484	23	ncbitax:species:ncbi:9606	human	Species
+PMC3378484	24	uniprot:UNRESOLVED ID	PI3K isoforms	Gene_or_gene_product
+PMC3378484	24	uniprot:UNRESOLVED ID	PtdIns	Gene_or_gene_product
+PMC3378484	24	uniprot:P09131	P3	Gene_or_gene_product
+PMC3378484	24	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	27	ncbitax:species:ncbi:10090	mouse	Species
+PMC3378484	28	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	28	uniprot:UNRESOLVED ID	85alpha	Gene_or_gene_product
+PMC3378484	28	uniprot:O43439	p85	Gene_or_gene_product
+PMC3378484	29	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	29	uniprot:UNRESOLVED ID	p85alpha nSH2 domain	Gene_or_gene_product
+PMC3378484	29	uniprot:UNRESOLVED ID	p85alpha iSH2 domain	Gene_or_gene_product
+PMC3378484	30	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3378484	30	uniprot:P14907	p110	Gene_or_gene_product
+PMC3378484	30	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	31	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	31	uniprot:UNRESOLVED ID	p85alpha iSH2	Gene_or_gene_product
+PMC3378484	31	uniprot:O43439	p85	Gene_or_gene_product
+PMC3378484	32	uniprot:O43439	p85	Gene_or_gene_product
+PMC3378484	32	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3378484	32	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	32	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3378484	32	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3378484	33	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	38	ncbitax:species:ncbi:9606	human	Species
+PMC3378484	38	uazid:UA-ORG-116	breast	Organ
+PMC3378484	39	ncbitax:species:ncbi:9031	chicken	Species
+PMC3378484	39	uazid:UA-CT-100023	fibroblasts	CellType
+PMC3378484	40	uniprot:UNRESOLVED ID	WT enzyme	Gene_or_gene_product
+PMC3378484	41	uniprot:P14907	p110	Gene_or_gene_product
+PMC3378484	43	uniprot:UNRESOLVED ID	p85alpha nSH2	Gene_or_gene_product
+PMC3378484	43	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	44	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	44	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3378484	45	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	45	uniprot:UNRESOLVED ID	p85alpha-iSH2	Gene_or_gene_product
+PMC3378484	47	uniprot:UNRESOLVED ID	tail	CellType
+PMC3378484	48	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	49	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	49	uniprot:UNRESOLVED ID	p85alpha-iSH2	Gene_or_gene_product
+PMC3378484	50	ncbitax:species:ncbi:10090	mouse	Species
+PMC3378484	50	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	50	ncbitax:species:ncbi:9606	human	Species
+PMC3378484	50	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3378484	50	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3378484	50	uniprot:UNRESOLVED ID	PIK-108	Gene_or_gene_product
+PMC3378484	50	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3378484	52	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	52	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3378484	52	uniprot:UNRESOLVED ID	PIK-108	Gene_or_gene_product
+PMC3378484	53	ncbitax:species:ncbi:9606	human	Species
+PMC3378484	53	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	53	uniprot:UNRESOLVED ID	p85alpha-iSH2	Gene_or_gene_product
+PMC3378484	53	uniprot:UNRESOLVED ID	p85alpha niSH2 fragment	Gene_or_gene_product
+PMC3378484	54	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3378484	54	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	55	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	55	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3378484	56	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	56	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3378484	57	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3378484	57	uazid:UA-ORG-382	head	Organ
+PMC3378484	58	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	58	uniprot:UNRESOLVED ID	p85alpha-iSH2	Gene_or_gene_product
+PMC3378484	58	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC3378484	60	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3378484	61	uniprot:UNRESOLVED ID	PIK-108	Gene_or_gene_product
+PMC3378484	62	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3378484	62	uniprot:P14907	p110	Gene_or_gene_product
+PMC3378484	63	uniprot:UNRESOLVED ID	PIK-108	Gene_or_gene_product
+PMC3378484	63	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3378484	63	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3378484	65	uniprot:P14907	p110	Gene_or_gene_product
+PMC3378484	66	uniprot:UNRESOLVED ID	PIK-108	Gene_or_gene_product
+PMC3378484	66	uniprot:P14907	p110	Gene_or_gene_product
+PMC3378484	67	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	68	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	68	uniprot:UNRESOLVED ID	tail	CellType
+PMC3378484	68	uniprot:UNRESOLVED ID	p85alpha-niSH2	Gene_or_gene_product
+PMC3378484	68	uniprot:UNRESOLVED ID	p85alpha-iSH2	Gene_or_gene_product
+PMC3378484	69	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	69	uniprot:UNRESOLVED ID	p85alpha-iSH2	Gene_or_gene_product
+PMC3378484	69	uniprot:Q13127	rest	Gene_or_gene_product
+PMC3378484	69	uniprot:P14907	p110	Gene_or_gene_product
+PMC3378484	69	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3378484	70	uniprot:UNRESOLVED ID	tail	CellType
+PMC3378484	70	uniprot:UNRESOLVED ID	kalpha11	Gene_or_gene_product
+PMC3378484	71	uniprot:UNRESOLVED ID	WIF motif	Gene_or_gene_product
+PMC3378484	73	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3378484	73	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	74	uniprot:UNRESOLVED ID	Helix kalpha12	Gene_or_gene_product
+PMC3378484	74	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3378484	74	uniprot:Q8NEB9	Vps34	Gene_or_gene_product
+PMC3378484	75	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	75	uniprot:UNRESOLVED ID	p85alpha-niSH2 structures	Gene_or_gene_product
+PMC3378484	76	uniprot:UNRESOLVED ID	tail	CellType
+PMC3378484	76	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	77	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	79	uniprot:Q8NEB9	Vps34	Gene_or_gene_product
+PMC3378484	79	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3378484	79	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3378484	80	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	81	uniprot:UNRESOLVED ID	kalpha12	Gene_or_gene_product
+PMC3378484	81	uniprot:Q8NEB9	Vps34	Gene_or_gene_product
+PMC3378484	81	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3378484	81	uniprot:A3DIJ8	ATPase	Gene_or_gene_product
+PMC3378484	81	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	82	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3378484	83	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	83	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3378484	83	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3378484	83	uniprot:Q8NEB9	Vps34	Gene_or_gene_product
+PMC3378484	84	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	85	uniprot:UNRESOLVED ID	lipid kinase	Gene_or_gene_product
+PMC3378484	86	uniprot:P14907	p110	Gene_or_gene_product
+PMC3378484	86	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	86	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3378484	86	uniprot:P55241	SH2	Gene_or_gene_product
+PMC3378484	87	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC3378484	87	uniprot:P09619	PDGFRbeta	Gene_or_gene_product
+PMC3378484	88	uazid:UA-ORG-725	plasma	Organ
+PMC3378484	90	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3378484	90	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3378484	90	uniprot:P14907	p110	Gene_or_gene_product
+PMC3378484	90	uniprot:O43439	p85	Gene_or_gene_product
+PMC3378484	91	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	91	uniprot:UNRESOLVED ID	p85alpha proteins	Gene_or_gene_product
+PMC3378484	92	uniprot:P25103	SPR	Gene_or_gene_product
+PMC3378484	94	uniprot:Q9UNE7	chip	Gene_or_gene_product
+PMC3378484	95	uniprot:Q0JA75	Fc1	Gene_or_gene_product
+PMC3378484	95	uniprot:Q9UNE7	chip	Gene_or_gene_product
+PMC3378484	95	uniprot:O00592	PC	Gene_or_gene_product
+PMC3378484	95	uniprot:P48147	PE	Gene_or_gene_product
+PMC3378484	95	uniprot:UNRESOLVED ID	Fc2	Gene_or_gene_product
+PMC3378484	95	uniprot:UNRESOLVED ID	Fc3	Gene_or_gene_product
+PMC3378484	95	uniprot:UNRESOLVED ID	Fc4	Gene_or_gene_product
+PMC3378484	96	uniprot:Q0JA75	Fc1	Gene_or_gene_product
+PMC3378484	97	uniprot:Q0JA75	Fc1	Gene_or_gene_product
+PMC3378484	97	uniprot:UNRESOLVED ID	lipid kinase dead mutants	Gene_or_gene_product
+PMC3378484	98	uniprot:UNRESOLVED ID	p85alpha nSH2	Gene_or_gene_product
+PMC3378484	98	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3378484	98	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	99	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	100	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	100	uniprot:UNRESOLVED ID	p85alpha-nicSH2	Gene_or_gene_product
+PMC3378484	100	uniprot:UNRESOLVED ID	p85alpha-niSH2	Gene_or_gene_product
+PMC3378484	101	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC3378484	101	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3378484	103	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC3378484	104	uniprot:UNRESOLVED ID	RTK phosphopeptide	Gene_or_gene_product
+PMC3378484	104	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3378484	107	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	107	uniprot:UNRESOLVED ID	nSH2-p110alpha	Gene_or_gene_product
+PMC3378484	108	uniprot:UNRESOLVED ID	tail	CellType
+PMC3378484	109	uniprot:UNRESOLVED ID	PtdIns	Gene_or_gene_product
+PMC3378484	109	uniprot:UNRESOLVED ID	engineered kinase domain mutants	Gene_or_gene_product
+PMC3378484	110	uniprot:A3DIJ8	ATPase	Gene_or_gene_product
+PMC3378484	113	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3378484	113	uniprot:UNRESOLVED ID	PtdIns	Gene_or_gene_product
+PMC3378484	113	uniprot:UNRESOLVED ID	PtdIns4P	Gene_or_gene_product
+PMC3378484	114	ncbitax:species:ncbi:41568	muM	Species
+PMC3378484	115	uniprot:UNRESOLVED ID	WIF motif	Gene_or_gene_product
+PMC3378484	117	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	117	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3378484	119	N/A	C2-iSH2 interface	Gene_or_gene_product
+PMC3378484	119	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	119	uniprot:UNRESOLVED ID	p85alpha N564D	Gene_or_gene_product
+PMC3378484	119	uniprot:UNRESOLVED ID	helical-nSH2 interface	Gene_or_gene_product
+PMC3378484	122	uniprot:UNRESOLVED ID	nSH2 inhibitory site	Gene_or_gene_product
+PMC3378484	125	uniprot:UNRESOLVED ID	lipid binding            : non-kinase domain mutants	Gene_or_gene_product
+PMC3378484	125	uniprot:UNRESOLVED ID	p85alpha-N564D	Gene_or_gene_product
+PMC3378484	130	uazid:UA-ORG-237	elbow	Organ
+PMC3378484	132	N/A	C2-iSH2	Gene_or_gene_product
+PMC3378484	132	uniprot:UNRESOLVED ID	p85alpha-N564D	Gene_or_gene_product
+PMC3378484	132	uniprot:UNRESOLVED ID	helical-nSH2 contacts	Gene_or_gene_product
+PMC3378484	133	uniprot:UNRESOLVED ID	C2beta1-beta2	Gene_or_gene_product
+PMC3378484	134	uniprot:UNRESOLVED ID	iSH2 P568	Gene_or_gene_product
+PMC3378484	135	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	135	uniprot:P17252	PKCalpha	Gene_or_gene_product
+PMC3378484	135	uniprot:P47712	cPLA2	Gene_or_gene_product
+PMC3378484	135	uniprot:O00592	PC	Gene_or_gene_product
+PMC3378484	136	uniprot:UNRESOLVED ID	acyl-chain PS molecule	Gene_or_gene_product
+PMC3378484	136	uniprot:P41134	ID	Gene_or_gene_product
+PMC3378484	136	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	136	uniprot:UNRESOLVED ID	p85alpha-iSH2	Gene_or_gene_product
+PMC3378484	138	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	138	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3378484	139	uniprot:UNRESOLVED ID	p85alpha nSH2	Gene_or_gene_product
+PMC3378484	140	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3378484	141	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	141	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3378484	141	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3378484	141	uniprot:UNRESOLVED ID	p85alpha-iSH2 structures	Gene_or_gene_product
+PMC3378484	141	uniprot:UNRESOLVED ID	p85alpha-niSH2 structures	Gene_or_gene_product
+PMC3378484	142	uniprot:P38432	coil	Gene_or_gene_product
+PMC3378484	142	uazid:UA-ORG-75	axis	Organ
+PMC3378484	142	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	142	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3378484	145	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	146	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	146	uniprot:UNRESOLVED ID	p85alpha-iSH2	Gene_or_gene_product
+PMC3378484	146	uniprot:UNRESOLVED ID	PIK-108	Gene_or_gene_product
+PMC3378484	147	uniprot:UNRESOLVED ID	class IA PI3Ks	Gene_or_gene_product
+PMC3378484	148	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3378484	148	uniprot:UNRESOLVED ID	p85alpha-nicSH2	Gene_or_gene_product
+PMC3378484	148	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3378484	149	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3378484	149	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3378484	150	uniprot:UNRESOLVED ID	p110 isoforms	Gene_or_gene_product
+PMC3378484	151	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	151	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3378484	151	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3378484	152	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	152	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3378484	152	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3378484	153	uniprot:UNRESOLVED ID	p110 isoforms	Gene_or_gene_product
+PMC3378484	154	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	154	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3378484	155	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	155	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3378484	156	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	156	uniprot:UNRESOLVED ID	tail	CellType
+PMC3378484	157	uniprot:UNRESOLVED ID	tail	CellType
+PMC3378484	157	uniprot:UNRESOLVED ID	C2-iSH2	Gene_or_gene_product
+PMC3378484	157	uniprot:UNRESOLVED ID	p85alpha-N564D	Gene_or_gene_product
+PMC3378484	160	uniprot:UNRESOLVED ID	WT enzyme	Gene_or_gene_product
+PMC3378484	160	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	160	uniprot:UNRESOLVED ID	p85alpha mutants	Gene_or_gene_product
+PMC3378484	161	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3378484	161	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	162	uniprot:UNRESOLVED ID	p85alpha nSH2	Gene_or_gene_product
+PMC3378484	162	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3378484	162	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	163	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3378484	163	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	163	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3378484	166	uniprot:UNRESOLVED ID	PtdIns	Gene_or_gene_product
+PMC3378484	167	uniprot:P14907	p110	Gene_or_gene_product
+PMC3378484	167	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3378484	169	uniprot:UNRESOLVED ID	tail	CellType
+PMC3378484	170	uniprot:P25103	SPR	Gene_or_gene_product
+PMC3378484	172	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	172	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3378484	173	uniprot:P14907	p110	Gene_or_gene_product
+PMC3378484	173	uniprot:O43439	p85	Gene_or_gene_product
+PMC3378484	175	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3378484	177	uniprot:UNRESOLVED ID	PIK-108	Gene_or_gene_product
+PMC3378484	177	ncbitax:species:ncbi:41568	muM	Species
+PMC3378484	177	uniprot:UNRESOLVED ID	CD_E545K mutant	Gene_or_gene_product
+PMC3378484	177	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3378484	178	uniprot:P54644	AKT	Gene_or_gene_product
+PMC3378484	179	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	179	uniprot:UNRESOLVED ID	p85alpha mutations	Gene_or_gene_product
+PMC3378484	179	uniprot:O43439	p85	Gene_or_gene_product
+PMC3378484	180	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	180	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3378484	181	uniprot:UNRESOLVED ID	RTK phosphopeptides	Gene_or_gene_product
+PMC3378484	182	uniprot:UNRESOLVED ID	hotspot mutant E545K	Gene_or_gene_product
+PMC3378484	183	uniprot:UNRESOLVED ID	P539R	Gene_or_gene_product
+PMC3378484	184	uniprot:UNRESOLVED ID	p85alpha nSH2	Gene_or_gene_product
+PMC3378484	185	uniprot:UNRESOLVED ID	RTK peptide	Gene_or_gene_product
+PMC3378484	185	uniprot:P41252	IRS	Gene_or_gene_product
+PMC3378484	186	uniprot:UNRESOLVED ID	type II mutants	Gene_or_gene_product
+PMC3378484	186	uniprot:UNRESOLVED ID	WT enzyme	Gene_or_gene_product
+PMC3378484	186	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC3378484	187	uniprot:UNRESOLVED ID	type II mutants	Gene_or_gene_product
+PMC3378484	187	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC3378484	189	ncbitax:species:ncbi:9606	Human	Species
+PMC3378484	189	uniprot:P54644	AKT	Gene_or_gene_product
+PMC3378484	189	uniprot:P04626	HER2	Gene_or_gene_product
+PMC3378484	189	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC3378484	190	uniprot:P04626	HER2	Gene_or_gene_product
+PMC3378484	190	uazid:UA-ORG-116	breast	Organ
+PMC3378484	191	uniprot:UNRESOLVED ID	type II mutations	Gene_or_gene_product
+PMC3378484	191	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	191	uniprot:UNRESOLVED ID	RTKs	Gene_or_gene_product
+PMC3378484	191	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC3378484	192	ncbitax:species:ncbi:9031	chicken	Species
+PMC3378484	192	uazid:UA-CT-100023	fibroblasts	CellType
+PMC3378484	193	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	194	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	195	uniprot:UNRESOLVED ID	type II mutants	Gene_or_gene_product
+PMC3378484	196	ncbitax:species:ncbi:9606	human	Species
+PMC3378484	196	uazid:UA-ORG-116	breast	Organ
+PMC3378484	197	ncbitax:species:ncbi:10090	mouse	Species
+PMC3378484	198	uniprot:Q96CJ1	traits	Gene_or_gene_product
+PMC3378484	199	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC3378484	199	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3378484	200	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	200	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3378484	200	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3378484	200	ncbitax:species:ncbi:10090	mouse	Species
+PMC3378484	200	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3378484	200	ncbitax:species:ncbi:9606	human	Species
+PMC3378484	200	uniprot:UNRESOLVED ID	Grp1-PH	Gene_or_gene_product
+PMC3378484	201	uniprot:UNRESOLVED ID	p85alpha fragments	Gene_or_gene_product
+PMC3378484	202	uniprot:P14907	p110	Gene_or_gene_product
+PMC3378484	202	uniprot:O43439	p85	Gene_or_gene_product
+PMC3378484	203	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	204	uniprot:UNRESOLVED ID	GST-Grp1-PH	Gene_or_gene_product
+PMC3378484	206	ncbitax:species:ncbi:12227	TEV	Species
+PMC3378484	206	ncbitax:species:ncbi:10090	mouse	Species
+PMC3378484	206	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	206	ncbitax:species:ncbi:9606	human	Species
+PMC3378484	206	uniprot:UNRESOLVED ID	PIK-108	Gene_or_gene_product
+PMC3378484	207	uniprot:UNRESOLVED ID	3.5 A	Gene_or_gene_product
+PMC3378484	208	ncbitax:species:ncbi:9606	human	Species
+PMC3378484	208	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	208	uniprot:UNRESOLVED ID	p85alpha-iSH2	Gene_or_gene_product
+PMC3378484	208	uniprot:P41134	ID	Gene_or_gene_product
+PMC3378484	211	uniprot:UNRESOLVED ID	PyMOL	Gene_or_gene_product
+PMC3378484	213	uniprot:P09131	P3	Gene_or_gene_product
+PMC3378484	215	ncbitax:species:ncbi:41568	muM	Species
+PMC3378484	215	uniprot:P14907	p110	Gene_or_gene_product
+PMC3378484	215	uniprot:O43439	p85	Gene_or_gene_product
+PMC3378484	215	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	215	uniprot:UNRESOLVED ID	p85alpha-nicSH2	Gene_or_gene_product
+PMC3378484	215	uniprot:Q13127	rest	Gene_or_gene_product
+PMC3378484	216	uniprot:P01298	pH	Gene_or_gene_product
+PMC3378484	216	uniprot:UNRESOLVED ID	GST-Grp1-PH	Gene_or_gene_product
+PMC3378484	217	uniprot:P31040	FP	Gene_or_gene_product
+PMC3378484	218	uniprot:P09131	P3	Gene_or_gene_product
+PMC3378484	220	uniprot:P25103	SPR	Gene_or_gene_product
+PMC3378484	221	uniprot:Q9UNE7	chip	Gene_or_gene_product
+PMC3378484	222	uniprot:Q9P121	HNT	Gene_or_gene_product
+PMC3378484	223	uniprot:Q0JA75	Fc1	Gene_or_gene_product
+PMC3378484	223	uniprot:UNRESOLVED ID	Fc2	Gene_or_gene_product
+PMC3378484	223	uniprot:UNRESOLVED ID	Fc3	Gene_or_gene_product
+PMC3378484	223	uniprot:UNRESOLVED ID	Fc4	Gene_or_gene_product
+PMC3378484	224	uniprot:UNRESOLVED ID	0.1 - 0.2 mM	Gene_or_gene_product
+PMC3378484	224	uniprot:Q86YV9	RU	Gene_or_gene_product
+PMC3378484	225	uniprot:UNRESOLVED ID	M Na2CO3	Gene_or_gene_product
+PMC3378484	226	ncbitax:species:ncbi:9031	Chicken	Species
+PMC3378484	226	uniprot:Q8IWZ3	mask	Gene_or_gene_product
+PMC3378484	226	uniprot:UNRESOLVED ID	M Na2CO3	Gene_or_gene_product
+PMC3378484	227	uniprot:P14907	p110	Gene_or_gene_product
+PMC3378484	227	uniprot:O43439	p85	Gene_or_gene_product
+PMC3378484	227	ncbitax:species:ncbi:41568	muM	Species
+PMC3378484	228	uniprot:UNRESOLVED ID	M Na2CO3	Gene_or_gene_product
+PMC3378484	230	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3378484	231	uniprot:UNRESOLVED ID	ESRF beamlines ID14-1	Gene_or_gene_product
+PMC3378484	231	uniprot:UNRESOLVED ID	ID14-2	Gene_or_gene_product
+PMC3378484	231	uniprot:UNRESOLVED ID	ID14-4	Gene_or_gene_product
+PMC3378484	231	uniprot:UNRESOLVED ID	ID23-1	Gene_or_gene_product
+PMC3378484	231	uniprot:UNRESOLVED ID	ID23-2	Gene_or_gene_product
+PMC3378484	231	uniprot:UNRESOLVED ID	ID29	Gene_or_gene_product
+PMC3378484	231	uniprot:O43557	Light	Gene_or_gene_product
+PMC3378484	232	ncbitax:species:ncbi:10469	baculovirus	Species
+PMC3378484	232	ncbitax:species:ncbi:10090	mouse	Species
+PMC3378484	232	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3378484	232	uniprot:UNRESOLVED ID	WIF motif	Gene_or_gene_product
+PMC3378484	234	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	234	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3378484	237	uniprot:UNRESOLVED ID	tail	CellType
+PMC3378484	238	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	238	uniprot:UNRESOLVED ID	p85alpha-iSH2	Gene_or_gene_product
+PMC3378484	240	uniprot:UNRESOLVED ID	sigmaA weighted Fo-Fc electron density	Gene_or_gene_product
+PMC3378484	240	uniprot:UNRESOLVED ID	tail	CellType
+PMC3378484	241	uniprot:UNRESOLVED ID	PIK-108 binding sites	Gene_or_gene_product
+PMC3378484	242	uniprot:UNRESOLVED ID	PIK-108	Gene_or_gene_product
+PMC3378484	245	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3378484	245	uniprot:UNRESOLVED ID	tail	CellType
+PMC3378484	246	uniprot:UNRESOLVED ID	DRH	Gene_or_gene_product
+PMC3378484	248	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	248	uniprot:UNRESOLVED ID	p85alpha-iSH2	Gene_or_gene_product
+PMC3378484	249	uniprot:UNRESOLVED ID	C-alpha atoms	Gene_or_gene_product
+PMC3378484	251	uniprot:UNRESOLVED ID	iSH2 P568	Gene_or_gene_product
+PMC3378484	252	uniprot:P25103	SPR	Gene_or_gene_product
+PMC3378484	254	uniprot:Q0JA75	Fc1	Gene_or_gene_product
+PMC3378484	256	uniprot:UNRESOLVED ID	PtdIns	Gene_or_gene_product
+PMC3378484	256	uniprot:P09131	P3	Gene_or_gene_product
+PMC3378484	256	ncbitax:species:ncbi:41568	muM	Species
+PMC3378484	257	uniprot:UNRESOLVED ID	lipid kinase-dead mutants	Gene_or_gene_product
+PMC3378484	258	uniprot:P25103	SPR	Gene_or_gene_product
+PMC3378484	259	ncbitax:species:ncbi:41568	muM	Species
+PMC3378484	260	uniprot:UNRESOLVED ID	lipid kinase-dead mutants	Gene_or_gene_product
+PMC3378484	260	uniprot:Q0JA75	Fc1	Gene_or_gene_product
+PMC3378484	260	uniprot:Q86YV9	RU	Gene_or_gene_product
+PMC3378484	262	uniprot:O00592	PC	Gene_or_gene_product
+PMC3378484	262	uniprot:P48147	PE	Gene_or_gene_product
+PMC3378484	262	uniprot:P09131	P3	Gene_or_gene_product
+PMC3378484	262	uniprot:P09619	PDGFRbeta	Gene_or_gene_product
+PMC3378484	262	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	263	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	265	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	265	uniprot:UNRESOLVED ID	p85alpha structures	Gene_or_gene_product
+PMC3378484	265	uniprot:UNRESOLVED ID	p85alpha iSH2 domain	Gene_or_gene_product
+PMC3378484	266	uniprot:UNRESOLVED ID	p85alpha nSH2	Gene_or_gene_product
+PMC3378484	266	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	266	uniprot:UNRESOLVED ID	p85alpha-niSH2	Gene_or_gene_product
+PMC3378484	267	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	267	uniprot:P38432	coil	Gene_or_gene_product
+PMC3378484	267	uazid:UA-ORG-75	axis	Organ
+PMC3378484	268	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	270	uniprot:UNRESOLVED ID	class IA PI3-kinases	Gene_or_gene_product
+PMC3378484	271	ncbitax:species:ncbi:41568	muM	Species
+PMC3378484	272	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3378484	275	uniprot:P14222	P1	Gene_or_gene_product
+PMC3378484	275	uniprot:P01308	Ins	Gene_or_gene_product
+PMC3378484	275	uniprot:P09131	P3	Gene_or_gene_product
+PMC3378484	275	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC3378484	278	uniprot:UNRESOLVED ID	Calpha atoms	Gene_or_gene_product
+PMC3378484	280	uniprot:UNRESOLVED ID	Type I	Gene_or_gene_product
+PMC3378484	280	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3378484	281	uniprot:UNRESOLVED ID	type II mutants	Gene_or_gene_product
+PMC3378484	281	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC3378484	282	uniprot:Q5NL15	PS	Gene_or_gene_product
+PMC3378484	282	uniprot:P42336	p110alpha	Gene_or_gene_product

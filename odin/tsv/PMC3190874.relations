@@ -1,0 +1,6 @@
+Paper ID	Line Num	Master ID	Dependent ID	Text	Type
+PMC3190874	15	uazid:UA-ORG-83	uniprot:UNRESOLVED ID	FcepsilonRI on mast cells and basophils	ContextLocation
+PMC3190874	72	uniprot:O89094	uniprot:Q9UBM7	DHCR7 in mice	ContextLocation
+PMC3190874	126	ncbitax:species:ncbi:9606	uniprot:Q96D31	Orai1 in humans	ContextLocation
+PMC3190874	137	ncbitax:species:ncbi:6239	uniprot:UNRESOLVED ID	ES62 product of filarial nematodes	ContextPossesive
+PMC3190874	142	ncbitax:species:ncbi:6239	uniprot:UNRESOLVED ID	ES62 product of filarial nematodes	ContextPossesive

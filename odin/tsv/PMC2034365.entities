@@ -1,0 +1,230 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2034365	0	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	0	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2034365	2	uniprot:UNRESOLVED ID	DC	Gene_or_gene_product
+PMC2034365	2	uniprot:UNRESOLVED ID	c-Jun amino-terminal kinase	Gene_or_gene_product
+PMC2034365	2	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2034365	3	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	3	uniprot:UNRESOLVED ID	DC	Gene_or_gene_product
+PMC2034365	4	uniprot:Q15404	RSU-1	Gene_or_gene_product
+PMC2034365	4	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	5	uniprot:Q15404	RSU-1	Gene_or_gene_product
+PMC2034365	5	uniprot:UNRESOLVED ID	wing	CellType
+PMC2034365	6	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	6	uniprot:Q15404	RSU-1	Gene_or_gene_product
+PMC2034365	6	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2034365	6	uniprot:UNRESOLVED ID	DC	Gene_or_gene_product
+PMC2034365	7	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	7	uniprot:Q15404	RSU-1	Gene_or_gene_product
+PMC2034365	7	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2034365	10	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2034365	11	uniprot:UNRESOLVED ID	integrins	Gene_or_gene_product
+PMC2034365	12	uazid:UA-ORG-248	epidermis	Organ
+PMC2034365	12	uniprot:UNRESOLVED ID	DC	Gene_or_gene_product
+PMC2034365	13	uniprot:UNRESOLVED ID	DC	Gene_or_gene_product
+PMC2034365	14	uniprot:UNRESOLVED ID	DC	Gene_or_gene_product
+PMC2034365	15	uniprot:UNRESOLVED ID	DC	Gene_or_gene_product
+PMC2034365	15	uniprot:P21217	LE	Gene_or_gene_product
+PMC2034365	16	uniprot:UNRESOLVED ID	integrins	Gene_or_gene_product
+PMC2034365	17	uniprot:UNRESOLVED ID	integrins	Gene_or_gene_product
+PMC2034365	17	uniprot:UNRESOLVED ID	adhesion receptors	Gene_or_gene_product
+PMC2034365	18	uniprot:UNRESOLVED ID	DC	Gene_or_gene_product
+PMC2034365	18	uniprot:UNRESOLVED ID	c-Jun amino-terminal kinase	Gene_or_gene_product
+PMC2034365	18	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2034365	19	uniprot:UNRESOLVED ID	JNK output	Gene_or_gene_product
+PMC2034365	19	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2034365	19	uniprot:UNRESOLVED ID	DC	Gene_or_gene_product
+PMC2034365	20	uniprot:P21217	LE	Gene_or_gene_product
+PMC2034365	20	uniprot:UNRESOLVED ID	DC	Gene_or_gene_product
+PMC2034365	20	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2034365	22	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	22	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2034365	23	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	24	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	24	ncbitax:species:ncbi:8839	duck	Species
+PMC2034365	25	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	25	uniprot:UNRESOLVED ID	wing	CellType
+PMC2034365	26	uazid:UA-ORG-599	muscle	Organ
+PMC2034365	27	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	27	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2034365	28	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	28	uniprot:UNRESOLVED ID	DC	Gene_or_gene_product
+PMC2034365	28	uazid:UA-CT-200003	embryos	Organ
+PMC2034365	29	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	29	uniprot:P21217	LE	Gene_or_gene_product
+PMC2034365	30	uniprot:UNRESOLVED ID	extraembryonic tissue	CellType
+PMC2034365	30	uazid:UA-CT-200002	embryo	Organ
+PMC2034365	31	uazid:UA-ORG-252	epithelium	Organ
+PMC2034365	31	uniprot:P21217	LE	Gene_or_gene_product
+PMC2034365	31	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	32	uazid:UA-CT-200003	embryos	Organ
+PMC2034365	32	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	32	uniprot:P21217	LE	Gene_or_gene_product
+PMC2034365	33	uniprot:P21217	LE	Gene_or_gene_product
+PMC2034365	33	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	33	uazid:UA-ORG-626	nodes	Organ
+PMC2034365	34	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	35	uazid:UA-CT-200002	embryo	Organ
+PMC2034365	35	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	35	uniprot:UNRESOLVED ID	beta-integrin	Gene_or_gene_product
+PMC2034365	35	uniprot:UNRESOLVED ID	magenta	Gene_or_gene_product
+PMC2034365	35	uniprot:P21217	LE	Gene_or_gene_product
+PMC2034365	37	uazid:UA-CT-200002	embryo	Organ
+PMC2034365	37	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	38	uniprot:P21217	LE	Gene_or_gene_product
+PMC2034365	38	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	39	uazid:UA-CT-200003	embryos	Organ
+PMC2034365	40	uazid:UA-CT-200003	embryos	Organ
+PMC2034365	41	uniprot:UNRESOLVED ID	Control FLP-FRT	Gene_or_gene_product
+PMC2034365	41	uazid:UA-CT-200003	embryos	Organ
+PMC2034365	41	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	42	ncbitax:species:ncbi:41568	mum	Species
+PMC2034365	43	uniprot:UNRESOLVED ID	stck mutants	Gene_or_gene_product
+PMC2034365	43	uniprot:UNRESOLVED ID	DC	Gene_or_gene_product
+PMC2034365	44	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	45	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	45	uniprot:UNRESOLVED ID	DC	Gene_or_gene_product
+PMC2034365	46	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	46	uazid:UA-ORG-382	head	Organ
+PMC2034365	46	uazid:UA-CT-200002	embryo	Organ
+PMC2034365	47	uazid:UA-CT-200003	embryos	Organ
+PMC2034365	47	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	48	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	49	uniprot:UNRESOLVED ID	SH2-SH3 adaptor protein	Gene_or_gene_product
+PMC2034365	49	uniprot:O43639	Nck2	Gene_or_gene_product
+PMC2034365	49	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	50	uniprot:O43639	Nck2	Gene_or_gene_product
+PMC2034365	50	uniprot:P26038	Msn	Gene_or_gene_product
+PMC2034365	50	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2034365	51	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2034365	51	uniprot:UNRESOLVED ID	DC	Gene_or_gene_product
+PMC2034365	52	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	52	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2034365	53	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	53	uniprot:UNRESOLVED ID	msn102	Gene_or_gene_product
+PMC2034365	53	uniprot:UNRESOLVED ID	DC	Gene_or_gene_product
+PMC2034365	53	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2034365	54	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	54	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2034365	55	uniprot:UNRESOLVED ID	msn102stck18	Gene_or_gene_product
+PMC2034365	55	uniprot:UNRESOLVED ID	msn102	Gene_or_gene_product
+PMC2034365	55	uazid:UA-CT-200003	embryos	Organ
+PMC2034365	56	uniprot:P21217	LE	Gene_or_gene_product
+PMC2034365	57	uniprot:UNRESOLVED ID	Graph	Gene_or_gene_product
+PMC2034365	57	uazid:UA-CT-200003	embryos	Organ
+PMC2034365	58	uniprot:UNRESOLVED ID	pucE69/+	Gene_or_gene_product
+PMC2034365	58	uazid:UA-CT-200003	embryos	Organ
+PMC2034365	58	uniprot:UNRESOLVED ID	Puc	Gene_or_gene_product
+PMC2034365	58	uniprot:B1JI86	LacZ	Gene_or_gene_product
+PMC2034365	60	uniprot:UNRESOLVED ID	wing	CellType
+PMC2034365	60	uniprot:UNRESOLVED ID	Puc	Gene_or_gene_product
+PMC2034365	60	uniprot:B1JI86	LacZ	Gene_or_gene_product
+PMC2034365	60	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	60	uniprot:UNRESOLVED ID	magenta	Gene_or_gene_product
+PMC2034365	62	uniprot:UNRESOLVED ID	msn3349	Gene_or_gene_product
+PMC2034365	62	uazid:UA-ORG-993	thorax	Organ
+PMC2034365	63	uniprot:UNRESOLVED ID	Graph	Gene_or_gene_product
+PMC2034365	64	ncbitax:species:ncbi:41568	muM	Species
+PMC2034365	65	uniprot:UNRESOLVED ID	Puc	Gene_or_gene_product
+PMC2034365	65	uniprot:UNRESOLVED ID	JNK phosphatase	Gene_or_gene_product
+PMC2034365	65	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2034365	66	uniprot:UNRESOLVED ID	DC	Gene_or_gene_product
+PMC2034365	66	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2034365	66	uniprot:UNRESOLVED ID	Puc-LacZ	Gene_or_gene_product
+PMC2034365	66	uniprot:P21217	LE	Gene_or_gene_product
+PMC2034365	67	uazid:UA-CT-200003	embryos	Organ
+PMC2034365	67	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	67	uniprot:UNRESOLVED ID	Puc-LacZ	Gene_or_gene_product
+PMC2034365	67	uniprot:P21217	LE	Gene_or_gene_product
+PMC2034365	68	uniprot:UNRESOLVED ID	Puc-LacZ	Gene_or_gene_product
+PMC2034365	68	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	68	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2034365	69	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	69	uniprot:Q15404	RSU-1	Gene_or_gene_product
+PMC2034365	70	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	71	uniprot:P32332	pMT	Gene_or_gene_product
+PMC2034365	71	uniprot:UNRESOLVED ID	TAP-PINCH	Gene_or_gene_product
+PMC2034365	72	uniprot:UNRESOLVED ID	Ni-NTA	Gene_or_gene_product
+PMC2034365	73	uniprot:Q15404	RSU-1	Gene_or_gene_product
+PMC2034365	73	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	73	uniprot:UNRESOLVED ID	LIM1-3	Gene_or_gene_product
+PMC2034365	74	ncbitax:species:ncbi:4932	Yeast	Species
+PMC2034365	74	uniprot:P16278	beta-galactosidase	Gene_or_gene_product
+PMC2034365	74	uniprot:Q15404	RSU-1	Gene_or_gene_product
+PMC2034365	75	uazid:UA-CT-200002	embryo	Organ
+PMC2034365	75	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	75	uniprot:Q15404	RSU-1	Gene_or_gene_product
+PMC2034365	75	uazid:UA-ORG-599	muscle	Organ
+PMC2034365	75	uniprot:UNRESOLVED ID	pharynx	CellType
+PMC2034365	76	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2034365	76	ncbitax:species:ncbi:41568	mum	Species
+PMC2034365	77	uniprot:Q15404	RSU-1	Gene_or_gene_product
+PMC2034365	78	uniprot:Q15404	RSU-1	Gene_or_gene_product
+PMC2034365	79	uniprot:UNRESOLVED ID	P-element insertion allele	Gene_or_gene_product
+PMC2034365	80	uniprot:Q15404	RSU-1	Gene_or_gene_product
+PMC2034365	81	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	81	uniprot:Q15404	RSU-1	Gene_or_gene_product
+PMC2034365	81	uniprot:UNRESOLVED ID	wing	CellType
+PMC2034365	82	uniprot:UNRESOLVED ID	wing	CellType
+PMC2034365	83	uniprot:Q15404	RSU-1	Gene_or_gene_product
+PMC2034365	83	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2034365	83	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	84	uazid:UA-CT-200003	embryos	Organ
+PMC2034365	85	uniprot:UNRESOLVED ID	phospho-JNK	Gene_or_gene_product
+PMC2034365	85	uniprot:UNRESOLVED ID	wing	CellType
+PMC2034365	86	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2034365	87	uniprot:P39072	germ	CellType
+PMC2034365	87	uniprot:UNRESOLVED ID	whole embryo	CellType
+PMC2034365	89	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	89	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2034365	90	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	91	uniprot:UNRESOLVED ID	msn102	Gene_or_gene_product
+PMC2034365	91	uniprot:Q9BLM6	TM3	Gene_or_gene_product
+PMC2034365	91	uniprot:UNRESOLVED ID	msn102 stck18	Gene_or_gene_product
+PMC2034365	92	uniprot:UNRESOLVED ID	bsk1	Gene_or_gene_product
+PMC2034365	92	uniprot:D4GUZ4	CyO	Gene_or_gene_product
+PMC2034365	93	uniprot:UNRESOLVED ID	msn3349	Gene_or_gene_product
+PMC2034365	93	uniprot:Q9BLM6	TM3	Gene_or_gene_product
+PMC2034365	93	uniprot:UNRESOLVED ID	stck18	Gene_or_gene_product
+PMC2034365	94	uazid:UA-CT-200003	Embryos	Organ
+PMC2034365	94	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	95	ncbitax:species:ncbi:9986	Rabbit	Species
+PMC2034365	95	uniprot:Q15404	RSU-1	Gene_or_gene_product
+PMC2034365	96	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2034365	96	ncbitax:species:ncbi:10090	mouse	Species
+PMC2034365	96	uniprot:UNRESOLVED ID	anti-phosphotyrosine 4G10	Gene_or_gene_product
+PMC2034365	96	uniprot:UNRESOLVED ID	CF6G11	Gene_or_gene_product
+PMC2034365	96	uniprot:UNRESOLVED ID	DSHB	Gene_or_gene_product
+PMC2034365	97	uazid:UA-CT-200003	embryos	Organ
+PMC2034365	97	uniprot:UNRESOLVED ID	wing	CellType
+PMC2034365	98	uniprot:P10266	RT	Gene_or_gene_product
+PMC2034365	99	uniprot:UNRESOLVED ID	wing	CellType
+PMC2034365	99	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2034365	100	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	100	uniprot:Q15404	RSU-1	Gene_or_gene_product
+PMC2034365	101	uniprot:UNRESOLVED ID	http://www.jcb.org/cgi/content/full/jcb.200408090/DC1	Gene_or_gene_product
+PMC2034365	102	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	103	uazid:UA-CT-200003	embryos	Organ
+PMC2034365	103	uniprot:P32332	pMT	Gene_or_gene_product
+PMC2034365	103	uniprot:UNRESOLVED ID	TAP-PINCH	Gene_or_gene_product
+PMC2034365	103	uniprot:P01298	pH	Gene_or_gene_product
+PMC2034365	103	uniprot:P10265	protease	Gene_or_gene_product
+PMC2034365	104	uniprot:UNRESOLVED ID	IgG	Gene_or_gene_product
+PMC2034365	105	uniprot:P54829	step	Gene_or_gene_product
+PMC2034365	105	uniprot:P01298	pH	Gene_or_gene_product
+PMC2034365	107	uniprot:UNRESOLVED ID	TAP-PINCH complexes	Gene_or_gene_product
+PMC2034365	107	uniprot:Q9NQV6	Tris	Gene_or_gene_product
+PMC2034365	107	uniprot:P01298	pH	Gene_or_gene_product
+PMC2034365	108	uniprot:UNRESOLVED ID	endoproteinase Lys-C	Gene_or_gene_product
+PMC2034365	108	uniprot:P70059	trypsin	Gene_or_gene_product
+PMC2034365	112	ncbitax:species:ncbi:4932	Yeast	Species
+PMC2034365	113	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2034365	113	uniprot:UNRESOLVED ID	pGBD-C1	Gene_or_gene_product
+PMC2034365	114	uniprot:Q15404	RSU-1	Gene_or_gene_product
+PMC2034365	115	ncbitax:species:ncbi:4932	yeast	Species
+PMC2034365	115	uniprot:UNRESOLVED ID	PJ69-2a	Gene_or_gene_product
+PMC2034365	116	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2034365	118	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2034365	120	uniprot:UNRESOLVED ID	http://www.jcb.org/cgi/content/full/jcb.200408090/DC1	Gene_or_gene_product
+PMC2034365	121	uniprot:UNRESOLVED ID	GM56498	Gene_or_gene_product
+PMC2034365	122	uniprot:UNRESOLVED ID	Cancer Center Support grant P30CA42014	Gene_or_gene_product

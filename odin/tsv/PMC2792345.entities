@@ -1,0 +1,674 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2792345	1	uniprot:UNRESOLVED ID	integrins	Gene_or_gene_product
+PMC2792345	2	uniprot:Q9NVD7	alpha-parvin	Gene_or_gene_product
+PMC2792345	2	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	2	uniprot:Q9HBI1	beta-parvin	Gene_or_gene_product
+PMC2792345	2	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	2	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	2	uniprot:P49023	paxillin	Gene_or_gene_product
+PMC2792345	2	uniprot:UNRESOLVED ID	alpha-actinin	Gene_or_gene_product
+PMC2792345	2	uniprot:UNRESOLVED ID	testicular kinase 1	Gene_or_gene_product
+PMC2792345	3	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	3	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	3	uniprot:P48059	PINCH-1	Gene_or_gene_product
+PMC2792345	3	uazid:UA-ORG-461	kidney	Organ
+PMC2792345	4	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	4	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2792345	4	uniprot:UNRESOLVED ID	testicular kinase 1	Gene_or_gene_product
+PMC2792345	4	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	4	uniprot:Q15052	alphaPIX	Gene_or_gene_product
+PMC2792345	4	uniprot:UNRESOLVED ID	alpha-actinin	Gene_or_gene_product
+PMC2792345	5	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	5	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	5	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	6	ncbitax:species:ncbi:9606	human	Species
+PMC2792345	8	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2792345	9	uniprot:UNRESOLVED ID	Cell-ECM adhesion	Gene_or_gene_product
+PMC2792345	10	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2792345	10	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2792345	10	uniprot:UNRESOLVED ID	laminin	Gene_or_gene_product
+PMC2792345	10	uniprot:UNRESOLVED ID	collagen	Gene_or_gene_product
+PMC2792345	11	uniprot:UNRESOLVED ID	talin	Gene_or_gene_product
+PMC2792345	11	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	11	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2792345	11	uniprot:P49023	paxillin	Gene_or_gene_product
+PMC2792345	11	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC2792345	11	uniprot:UNRESOLVED ID	integrins	Gene_or_gene_product
+PMC2792345	11	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2792345	12	uniprot:UNRESOLVED ID	growth factor receptors	Gene_or_gene_product
+PMC2792345	14	uniprot:UNRESOLVED ID	integrins	Gene_or_gene_product
+PMC2792345	15	uniprot:B1JSR0	beta-	Gene_or_gene_product
+PMC2792345	15	uniprot:Q9HBI0	gamma-parvin	Gene_or_gene_product
+PMC2792345	17	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2792345	17	uniprot:P49023	paxillin	Gene_or_gene_product
+PMC2792345	17	uniprot:Q2G0B1	rat	Species
+PMC2792345	17	uniprot:Q9NVD7	actopaxin	Gene_or_gene_product
+PMC2792345	18	ncbitax:species:ncbi:4932	yeast	Species
+PMC2792345	18	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	19	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	19	uniprot:Q9NVD7	CH-ILKBP	Gene_or_gene_product
+PMC2792345	20	ncbitax:species:ncbi:4932	yeast	Species
+PMC2792345	21	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	21	uniprot:Q9HBI1	affixin	Gene_or_gene_product
+PMC2792345	23	uniprot:B1JSR0	beta-	Gene_or_gene_product
+PMC2792345	23	uniprot:Q9HBI0	gamma-parvin	Gene_or_gene_product
+PMC2792345	24	uniprot:Q9NVD7	actopaxin	Gene_or_gene_product
+PMC2792345	24	uniprot:Q9NVD7	CH-ILKBP	Gene_or_gene_product
+PMC2792345	24	uniprot:Q9HBI1	affixin	Gene_or_gene_product
+PMC2792345	25	uniprot:Q9HBI1	parvb	Gene_or_gene_product
+PMC2792345	25	uniprot:Q9HBI0	parvg	Gene_or_gene_product
+PMC2792345	26	uniprot:UNRESOLVED ID	parvins	Gene_or_gene_product
+PMC2792345	26	ncbitax:species:ncbi:6239	Caenorhabditis elegans	Species
+PMC2792345	28	ncbitax:species:ncbi:9606	Human	Species
+PMC2792345	28	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	28	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	28	uniprot:Q9HBI0	PARVG	Gene_or_gene_product
+PMC2792345	29	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	29	uniprot:UNRESOLVED ID	PARVB-s	Gene_or_gene_product
+PMC2792345	29	uniprot:UNRESOLVED ID	PARVB-ss	Gene_or_gene_product
+PMC2792345	30	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	30	uniprot:UNRESOLVED ID	PARVB-l	Gene_or_gene_product
+PMC2792345	30	uniprot:UNRESOLVED ID	PARVB-s	Gene_or_gene_product
+PMC2792345	30	uniprot:UNRESOLVED ID	PARVB-ss	Gene_or_gene_product
+PMC2792345	31	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	32	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	32	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	34	uniprot:UNRESOLVED ID	Protein binding sites	Gene_or_gene_product
+PMC2792345	36	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	36	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	36	uniprot:P86355	CH	Gene_or_gene_product
+PMC2792345	37	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	37	uniprot:UNRESOLVED ID	PARVB-l	Gene_or_gene_product
+PMC2792345	37	uniprot:UNRESOLVED ID	PARVB-s	Gene_or_gene_product
+PMC2792345	37	uniprot:UNRESOLVED ID	PARVB-ss	Gene_or_gene_product
+PMC2792345	38	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	39	ncbitax:species:ncbi:9606	Human	Species
+PMC2792345	39	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	39	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	39	uniprot:Q9HBI0	PARVG	Gene_or_gene_product
+PMC2792345	40	uniprot:UNRESOLVED ID	parvins	Gene_or_gene_product
+PMC2792345	40	uniprot:Q9UBS9	CH1	Gene_or_gene_product
+PMC2792345	40	uniprot:P30440	CH2	Gene_or_gene_product
+PMC2792345	43	uniprot:UNRESOLVED ID	alpha-actinin	Gene_or_gene_product
+PMC2792345	43	uniprot:UNRESOLVED ID	filamin	Gene_or_gene_product
+PMC2792345	45	uniprot:Q9UBS9	CH1	Gene_or_gene_product
+PMC2792345	46	uniprot:Q9UBS9	CH1	Gene_or_gene_product
+PMC2792345	46	uniprot:UNRESOLVED ID	beta-spectrin	Gene_or_gene_product
+PMC2792345	46	uniprot:Q15149	plectin	Gene_or_gene_product
+PMC2792345	46	uniprot:Q9HBI0	PARVG	Gene_or_gene_product
+PMC2792345	46	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	46	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	48	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	48	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	48	uniprot:UNRESOLVED ID	SH3 binding sites	Gene_or_gene_product
+PMC2792345	49	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	49	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	49	uazid:UA-ORG-385	heart	Organ
+PMC2792345	49	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC2792345	50	uniprot:Q9HBI0	PARVG	Gene_or_gene_product
+PMC2792345	50	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	50	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	52	uniprot:UNRESOLVED ID	scale	CellType
+PMC2792345	58	uniprot:UNRESOLVED ID	scale	CellType
+PMC2792345	65	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	66	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	66	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	66	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	67	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	67	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	68	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	69	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	70	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	70	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	72	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	72	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2792345	72	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	72	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	72	uniprot:UNRESOLVED ID	PINCH-ILK-parvin ternary complexes	Gene_or_gene_product
+PMC2792345	73	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	73	uniprot:P48059	PINCH1	Gene_or_gene_product
+PMC2792345	73	uniprot:UNRESOLVED ID	parvins	Gene_or_gene_product
+PMC2792345	74	uniprot:UNRESOLVED ID	beta1-integrin	Gene_or_gene_product
+PMC2792345	74	uniprot:Q96AC1	Mig-2	Gene_or_gene_product
+PMC2792345	74	uniprot:P49023	paxillin	Gene_or_gene_product
+PMC2792345	75	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	75	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	75	uniprot:Q15569	TESK-1	Gene_or_gene_product
+PMC2792345	76	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	76	uniprot:Q15569	TESK-1	Gene_or_gene_product
+PMC2792345	77	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	77	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2792345	78	uniprot:UNRESOLVED ID	PINCH1-ILK-PARVA	Gene_or_gene_product
+PMC2792345	78	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2792345	79	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	79	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	79	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	80	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	80	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	80	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	81	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	81	uniprot:UNRESOLVED ID	alpha-actinin	Gene_or_gene_product
+PMC2792345	81	uniprot:Q15052	alpha-PIX	Gene_or_gene_product
+PMC2792345	81	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2792345	81	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	83	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	83	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2792345	83	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	83	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	83	uniprot:UNRESOLVED ID	PINCH-ILK-parvin ternary complexes	Gene_or_gene_product
+PMC2792345	84	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	84	uniprot:P48059	PINCH1	Gene_or_gene_product
+PMC2792345	84	uniprot:UNRESOLVED ID	parvins	Gene_or_gene_product
+PMC2792345	85	uniprot:UNRESOLVED ID	beta1-integrin	Gene_or_gene_product
+PMC2792345	85	uniprot:Q96AC1	Mig-2	Gene_or_gene_product
+PMC2792345	85	uniprot:P49023	paxillin	Gene_or_gene_product
+PMC2792345	86	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	86	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	86	uniprot:Q15569	TESK-1	Gene_or_gene_product
+PMC2792345	87	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	87	uniprot:Q15569	TESK-1	Gene_or_gene_product
+PMC2792345	88	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	88	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2792345	89	uniprot:UNRESOLVED ID	PINCH1-ILK-PARVA	Gene_or_gene_product
+PMC2792345	89	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2792345	90	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	90	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	90	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	91	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	91	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	91	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	92	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	92	uniprot:UNRESOLVED ID	alpha-actinin	Gene_or_gene_product
+PMC2792345	92	uniprot:Q15052	alpha-PIX	Gene_or_gene_product
+PMC2792345	92	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2792345	92	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	93	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	94	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	94	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	94	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	94	uniprot:UNRESOLVED ID	CH2-binding site	Gene_or_gene_product
+PMC2792345	95	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	95	uniprot:P01298	PH	Gene_or_gene_product
+PMC2792345	96	uniprot:P01298	PH	Gene_or_gene_product
+PMC2792345	96	uniprot:Q02574	PIP3	Gene_or_gene_product
+PMC2792345	96	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2792345	97	uniprot:P42348	PI3-kinase	Gene_or_gene_product
+PMC2792345	97	uniprot:UNRESOLVED ID	ILK-PARVA	Gene_or_gene_product
+PMC2792345	97	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC2792345	98	uniprot:P01298	PH	Gene_or_gene_product
+PMC2792345	98	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	99	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	99	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	99	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	99	uniprot:P48059	PINCH-1	Gene_or_gene_product
+PMC2792345	99	uniprot:Q7Z4I7	PINCH-2	Gene_or_gene_product
+PMC2792345	99	uniprot:UNRESOLVED ID	ankyrin	Gene_or_gene_product
+PMC2792345	100	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2792345	100	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	101	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	101	uniprot:P49023	paxillin	Gene_or_gene_product
+PMC2792345	102	uniprot:P49023	paxillin	Gene_or_gene_product
+PMC2792345	102	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	102	uniprot:UNRESOLVED ID	LD1	Gene_or_gene_product
+PMC2792345	102	uniprot:UNRESOLVED ID	LD4 motifs	Gene_or_gene_product
+PMC2792345	103	uniprot:P49023	paxillin	Gene_or_gene_product
+PMC2792345	103	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	103	uniprot:UNRESOLVED ID	LD1 motif	Gene_or_gene_product
+PMC2792345	104	uniprot:P49023	paxillin	Gene_or_gene_product
+PMC2792345	104	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	104	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	104	uniprot:UNRESOLVED ID	PINCH-ILK-parvin	Gene_or_gene_product
+PMC2792345	105	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	105	uniprot:P49023	paxillin	Gene_or_gene_product
+PMC2792345	105	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	105	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2792345	106	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	106	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2792345	107	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	108	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2792345	109	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2792345	109	uniprot:UNRESOLVED ID	talin	Gene_or_gene_product
+PMC2792345	109	uniprot:P49023	paxillin	Gene_or_gene_product
+PMC2792345	109	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2792345	109	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	109	uniprot:UNRESOLVED ID	parvins	Gene_or_gene_product
+PMC2792345	109	uniprot:UNRESOLVED ID	alpha-actinin	Gene_or_gene_product
+PMC2792345	109	uniprot:P18206	vinculin	Gene_or_gene_product
+PMC2792345	109	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC2792345	109	uniprot:P50552	VASP	Gene_or_gene_product
+PMC2792345	110	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2792345	110	uniprot:P25445	FAs	Gene_or_gene_product
+PMC2792345	111	uniprot:P25445	FAs	Gene_or_gene_product
+PMC2792345	112	uniprot:UNRESOLVED ID	parvins	Gene_or_gene_product
+PMC2792345	112	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	112	uniprot:P49023	paxillin	Gene_or_gene_product
+PMC2792345	113	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	113	uniprot:UNRESOLVED ID	parvins	Gene_or_gene_product
+PMC2792345	113	uniprot:UNRESOLVED ID	LIM proteins	Gene_or_gene_product
+PMC2792345	113	uniprot:P48059	PINCH-1	Gene_or_gene_product
+PMC2792345	113	uniprot:Q7Z4I7	PINCH-2	Gene_or_gene_product
+PMC2792345	114	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	114	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	114	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	114	uniprot:P48059	PINCH-1	Gene_or_gene_product
+PMC2792345	114	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC2792345	114	uniprot:P18206	vinculin	Gene_or_gene_product
+PMC2792345	114	uniprot:P49023	paxillin	Gene_or_gene_product
+PMC2792345	115	uniprot:P25445	FAs	Gene_or_gene_product
+PMC2792345	115	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	115	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	116	uniprot:P25445	FAs	Gene_or_gene_product
+PMC2792345	116	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	116	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2792345	116	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	117	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	117	uniprot:Q04205	tensin	Gene_or_gene_product
+PMC2792345	118	uniprot:UNRESOLVED ID	Tensin-containing fibrillar adhesions	Gene_or_gene_product
+PMC2792345	118	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2792345	118	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2792345	119	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	119	uniprot:UNRESOLVED ID	catenins	Gene_or_gene_product
+PMC2792345	120	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	120	uniprot:UNRESOLVED ID	alpha-actinin	Gene_or_gene_product
+PMC2792345	121	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	121	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	123	uniprot:P25445	FAs	Gene_or_gene_product
+PMC2792345	123	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	123	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	124	uniprot:Q62959	FA	Gene_or_gene_product
+PMC2792345	125	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	125	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	125	uniprot:Q62959	FA	Gene_or_gene_product
+PMC2792345	126	uniprot:P49023	paxillin	Gene_or_gene_product
+PMC2792345	126	uniprot:Q7Z859	PBS	Gene_or_gene_product
+PMC2792345	126	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	126	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	127	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	127	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	127	uniprot:P25445	FAs	Gene_or_gene_product
+PMC2792345	128	N/A	ILK	Gene_or_gene_product
+PMC2792345	128	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	128	uniprot:P25445	FAs	Gene_or_gene_product
+PMC2792345	128	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	129	uniprot:P49023	paxillin	Gene_or_gene_product
+PMC2792345	129	uniprot:Q96AC1	Mig-2	Gene_or_gene_product
+PMC2792345	129	uniprot:UNRESOLVED ID	integrins	Gene_or_gene_product
+PMC2792345	129	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	129	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	129	uniprot:P25445	FAs	Gene_or_gene_product
+PMC2792345	130	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	130	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	130	uniprot:P49023	paxillin	Gene_or_gene_product
+PMC2792345	130	uniprot:P48059	PINCH-1	Gene_or_gene_product
+PMC2792345	131	uniprot:UNRESOLVED ID	PINCH-1-ILK-PARVA complex	Gene_or_gene_product
+PMC2792345	131	uniprot:P25445	FAs	Gene_or_gene_product
+PMC2792345	131	uniprot:UNRESOLVED ID	integrins	Gene_or_gene_product
+PMC2792345	131	uniprot:P49023	paxillin	Gene_or_gene_product
+PMC2792345	131	uniprot:Q96AC1	Mig-2	Gene_or_gene_product
+PMC2792345	133	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	134	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	134	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2792345	134	uniprot:P06493	Cdc2	Gene_or_gene_product
+PMC2792345	135	uniprot:P06493	Cdc2	Gene_or_gene_product
+PMC2792345	135	uniprot:P12004	cyclin	Gene_or_gene_product
+PMC2792345	135	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	135	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2792345	136	uniprot:P06493	Cdc2	Gene_or_gene_product
+PMC2792345	136	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	137	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	138	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	139	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2792345	140	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2792345	140	uniprot:P25445	FAs	Gene_or_gene_product
+PMC2792345	140	uniprot:P49023	paxillin	Gene_or_gene_product
+PMC2792345	141	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	141	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2792345	141	ncbitax:species:ncbi:9606	human	Species
+PMC2792345	141	uniprot:UNRESOLVED ID	osteosarcoma	CellType
+PMC2792345	142	uazid:UA-ORG-461	kidney	Organ
+PMC2792345	142	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	142	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	143	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	143	uniprot:Q15569	TESK1	Gene_or_gene_product
+PMC2792345	144	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	144	uniprot:Q15569	TESK1	Gene_or_gene_product
+PMC2792345	145	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2792345	145	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	145	uniprot:Q15569	TESK1	Gene_or_gene_product
+PMC2792345	145	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2792345	146	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	146	uniprot:UNRESOLVED ID	GST-TESK1	Gene_or_gene_product
+PMC2792345	146	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	146	uniprot:Q15569	TESK1	Gene_or_gene_product
+PMC2792345	147	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	147	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	147	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2792345	147	uniprot:Q15569	TESK1	Gene_or_gene_product
+PMC2792345	148	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	148	uniprot:Q15569	TESK1	Gene_or_gene_product
+PMC2792345	148	uniprot:UNRESOLVED ID	PBS mutant	Gene_or_gene_product
+PMC2792345	148	uniprot:P49023	paxillin	Gene_or_gene_product
+PMC2792345	149	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2792345	150	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2792345	151	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2792345	151	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2792345	151	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2792345	152	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2792345	153	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2792345	154	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2792345	155	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2792345	155	uniprot:UNRESOLVED ID	integrins/PINCH/ILK	Gene_or_gene_product
+PMC2792345	155	uniprot:UNRESOLVED ID	parvins	Gene_or_gene_product
+PMC2792345	156	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	156	uniprot:P48059	PINCH-1	Gene_or_gene_product
+PMC2792345	156	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2792345	157	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	157	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2792345	158	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	158	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2792345	159	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	159	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2792345	160	uniprot:Q9UBS9	CH1	Gene_or_gene_product
+PMC2792345	160	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	160	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2792345	160	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2792345	160	uniprot:UNRESOLVED ID	dominant-negative RacN17	Gene_or_gene_product
+PMC2792345	160	uniprot:UNRESOLVED ID	Cdc42N17	Gene_or_gene_product
+PMC2792345	161	uniprot:UNRESOLVED ID	aPIX	Gene_or_gene_product
+PMC2792345	161	uniprot:Q15052	ARHGEF6	Gene_or_gene_product
+PMC2792345	161	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2792345	161	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2792345	161	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2792345	161	uniprot:Q9UBS9	CH1	Gene_or_gene_product
+PMC2792345	162	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	162	uniprot:UNRESOLVED ID	aPIX	Gene_or_gene_product
+PMC2792345	162	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	162	uniprot:Q15052	alphaPIX	Gene_or_gene_product
+PMC2792345	163	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	163	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	163	uniprot:Q15052	alphaPIX	Gene_or_gene_product
+PMC2792345	164	uniprot:Q15052	Alpha-PIX	Gene_or_gene_product
+PMC2792345	164	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	164	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	165	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2792345	165	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2792345	165	uniprot:Q15052	alphaPIX	Gene_or_gene_product
+PMC2792345	165	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	165	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	166	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2792345	166	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	166	uniprot:P31749	Rac	Gene_or_gene_product
+PMC2792345	166	uniprot:Q14185	DOCK180	Gene_or_gene_product
+PMC2792345	168	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	168	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	168	uniprot:P25445	FAs	Gene_or_gene_product
+PMC2792345	169	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	169	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2792345	170	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	170	uniprot:P48059	PINCH-1	Gene_or_gene_product
+PMC2792345	170	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	170	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	170	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2792345	170	uniprot:Q62959	FA	Gene_or_gene_product
+PMC2792345	171	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	171	uniprot:P48059	PINCH-1	Gene_or_gene_product
+PMC2792345	172	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	172	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2792345	172	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2792345	173	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	173	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2792345	173	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2792345	175	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	176	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	177	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	178	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	178	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	178	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2792345	179	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	179	uniprot:Q15569	TESK1	Gene_or_gene_product
+PMC2792345	180	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	180	uniprot:Q15569	TESK1	Gene_or_gene_product
+PMC2792345	181	N/A	PARVA	Gene_or_gene_product
+PMC2792345	181	uniprot:UNRESOLVED ID	PINCH-ILK-PARVA	Gene_or_gene_product
+PMC2792345	182	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2792345	182	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	182	uniprot:Q15569	TESK1	Gene_or_gene_product
+PMC2792345	183	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	183	uniprot:Q15569	TESK1	Gene_or_gene_product
+PMC2792345	184	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	184	uniprot:P25445	FAs	Gene_or_gene_product
+PMC2792345	185	uniprot:Q9UBS9	CH1	Gene_or_gene_product
+PMC2792345	185	uniprot:Q15052	ARHGEF6	Gene_or_gene_product
+PMC2792345	185	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	185	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	185	uniprot:P25445	FAs	Gene_or_gene_product
+PMC2792345	186	uazid:UA-CT-100034	platelets	Organ
+PMC2792345	186	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	186	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	187	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	188	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	188	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	189	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	189	uniprot:UNRESOLVED ID	alpha-actinin	Gene_or_gene_product
+PMC2792345	189	uniprot:UNRESOLVED ID	integrins	Gene_or_gene_product
+PMC2792345	189	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2792345	190	uniprot:UNRESOLVED ID	alpha-actinin	Gene_or_gene_product
+PMC2792345	190	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	190	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	191	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	191	uniprot:UNRESOLVED ID	alpha-actinin	Gene_or_gene_product
+PMC2792345	191	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	191	uniprot:UNRESOLVED ID	PARVB-alpha-actinin	Gene_or_gene_product
+PMC2792345	192	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	193	uniprot:UNRESOLVED ID	PINCH-ILK-PARVB	Gene_or_gene_product
+PMC2792345	193	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	193	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	194	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	194	uniprot:UNRESOLVED ID	alpha-actinin	Gene_or_gene_product
+PMC2792345	194	uniprot:UNRESOLVED ID	integrin-alpha-actinin complex	Gene_or_gene_product
+PMC2792345	195	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2792345	195	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	195	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	195	uniprot:UNRESOLVED ID	alpha-actinin	Gene_or_gene_product
+PMC2792345	195	uniprot:P16333	Nck	Gene_or_gene_product
+PMC2792345	195	uniprot:P61160	ARP2	Gene_or_gene_product
+PMC2792345	195	uniprot:P31749	Rac	Gene_or_gene_product
+PMC2792345	195	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2792345	195	uniprot:P42768	WASP	Gene_or_gene_product
+PMC2792345	196	uniprot:UNRESOLVED ID	parvins	Gene_or_gene_product
+PMC2792345	196	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2792345	197	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	198	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	199	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	199	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2792345	199	uniprot:P31749	protein kinase B	Gene_or_gene_product
+PMC2792345	200	uniprot:P05019	IGF-1	Gene_or_gene_product
+PMC2792345	200	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2792345	201	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	201	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2792345	202	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2792345	202	uniprot:UNRESOLVED ID	Myr-Akt	Gene_or_gene_product
+PMC2792345	202	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	203	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	203	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2792345	204	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	204	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2792345	205	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	206	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	206	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	207	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	207	uniprot:UNRESOLVED ID	ILK-PARVA	Gene_or_gene_product
+PMC2792345	208	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC2792345	208	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	208	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	209	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	209	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	209	uniprot:UNRESOLVED ID	beta-catenin/TCF/LEF	Gene_or_gene_product
+PMC2792345	210	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	210	uniprot:P48059	PINCH-1	Gene_or_gene_product
+PMC2792345	210	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	210	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2792345	211	uniprot:UNRESOLVED ID	striated muscle	CellType
+PMC2792345	212	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2792345	213	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2792345	213	uniprot:P98160	perlecan	Gene_or_gene_product
+PMC2792345	213	uniprot:Q06561	UNC-52	Gene_or_gene_product
+PMC2792345	213	uniprot:UNRESOLVED ID	outside-in	Gene_or_gene_product
+PMC2792345	213	uniprot:UNRESOLVED ID	integrin receptor	Gene_or_gene_product
+PMC2792345	213	uniprot:Q495N2	PAT-3	Gene_or_gene_product
+PMC2792345	213	uniprot:P18206	vinculin	Gene_or_gene_product
+PMC2792345	213	uniprot:Q9D174	DEB1	Gene_or_gene_product
+PMC2792345	213	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	213	uniprot:Q18685	UNC-112	Gene_or_gene_product
+PMC2792345	214	uniprot:P25445	FAs	Gene_or_gene_product
+PMC2792345	214	uazid:UA-ORG-599	muscle	Organ
+PMC2792345	214	uniprot:UNRESOLVED ID	body wall	CellType
+PMC2792345	215	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	215	uniprot:P48059	PINCH-1	Gene_or_gene_product
+PMC2792345	215	uniprot:P50464	UNC-97	Gene_or_gene_product
+PMC2792345	215	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	215	ncbitax:species:ncbi:4932	yeast	Species
+PMC2792345	216	uniprot:UNRESOLVED ID	PINCH-ILK-parvin complex	Gene_or_gene_product
+PMC2792345	216	uniprot:P18206	vinculin	Gene_or_gene_product
+PMC2792345	216	uniprot:UNRESOLVED ID	talin	Gene_or_gene_product
+PMC2792345	217	uniprot:UNRESOLVED ID	Alpha-actinin	Gene_or_gene_product
+PMC2792345	218	uniprot:UNRESOLVED ID	myosin filaments	Gene_or_gene_product
+PMC2792345	218	uniprot:P18206	vinculin	Gene_or_gene_product
+PMC2792345	218	uniprot:O01761	UNC-89	Gene_or_gene_product
+PMC2792345	219	uniprot:O01761	UNC-89	Gene_or_gene_product
+PMC2792345	219	uniprot:Q5VST9	obscurin	Gene_or_gene_product
+PMC2792345	219	uazid:UA-ORG-407	immunoglobulin	Organ
+PMC2792345	219	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2792345	220	uniprot:Q5VST9	Obscurin	Gene_or_gene_product
+PMC2792345	220	uniprot:Q8WZ42	titin	Gene_or_gene_product
+PMC2792345	220	uniprot:Q5VST9	obscurin-RhoGEF	Gene_or_gene_product
+PMC2792345	221	uniprot:Q5VST9	obscurin	Gene_or_gene_product
+PMC2792345	221	uniprot:Q8WZ42	titin	Gene_or_gene_product
+PMC2792345	221	uniprot:UNRESOLVED ID	PARVA-ILK complexes	Gene_or_gene_product
+PMC2792345	221	uniprot:UNRESOLVED ID	ILK-PARVA complexes	Gene_or_gene_product
+PMC2792345	222	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	222	uniprot:O16785	PAT6	Gene_or_gene_product
+PMC2792345	222	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	224	uniprot:UNRESOLVED ID	PINCH-1-ILK-PARVA complex	Gene_or_gene_product
+PMC2792345	224	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2792345	225	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	225	uniprot:P48059	PINCH-1	Gene_or_gene_product
+PMC2792345	225	uniprot:UNRESOLVED ID	ILK-C	Gene_or_gene_product
+PMC2792345	225	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	226	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	227	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	227	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2792345	227	uniprot:P15153	small G-protein	Gene_or_gene_product
+PMC2792345	227	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	228	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	228	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	228	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC2792345	229	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	229	uniprot:O75923	dysferlin	Gene_or_gene_product
+PMC2792345	229	ncbitax:species:ncbi:9606	human	Species
+PMC2792345	229	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC2792345	230	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	230	uazid:UA-ORG-599	muscle	Organ
+PMC2792345	230	uniprot:O75923	dysferlin	Gene_or_gene_product
+PMC2792345	231	uazid:UA-ORG-599	muscle	Organ
+PMC2792345	233	ncbitax:species:ncbi:9606	human	Species
+PMC2792345	233	uazid:UA-ORG-116	breast	Organ
+PMC2792345	234	uazid:UA-ORG-116	Breast	Organ
+PMC2792345	237	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	238	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	238	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	238	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	239	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	239	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	240	uazid:UA-ORG-116	breast	Organ
+PMC2792345	240	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	240	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	241	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	241	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	242	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	242	uniprot:UNRESOLVED ID	collagen	Gene_or_gene_product
+PMC2792345	242	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	243	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	244	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2792345	244	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	245	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	245	uniprot:P49841	GSK3beta	Gene_or_gene_product
+PMC2792345	245	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC2792345	246	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	246	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC2792345	246	uniprot:Q8IMA8	TCF	Gene_or_gene_product
+PMC2792345	246	uniprot:UNRESOLVED ID	LEF targets	Gene_or_gene_product
+PMC2792345	246	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	247	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	247	uniprot:UNRESOLVED ID	22q13.21	Gene_or_gene_product
+PMC2792345	247	uazid:UA-ORG-172	colon	Organ
+PMC2792345	247	uazid:UA-ORG-116	breast	Organ
+PMC2792345	248	uniprot:Q9HBI0	PARVG	Gene_or_gene_product
+PMC2792345	248	uazid:UA-ORG-172	colon	Organ
+PMC2792345	248	uazid:UA-ORG-116	breast	Organ
+PMC2792345	249	uazid:UA-ORG-461	Kidney	Organ
+PMC2792345	250	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	250	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	250	uniprot:P48059	PINCH-1	Gene_or_gene_product
+PMC2792345	251	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	252	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	252	ncbitax:species:ncbi:9606	human	Species
+PMC2792345	253	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	253	uniprot:UNRESOLVED ID	mesangial cell	CellType
+PMC2792345	254	uniprot:UNRESOLVED ID	PINCH-1-ILK-PARVA	Gene_or_gene_product
+PMC2792345	254	uniprot:P25445	FAs	Gene_or_gene_product
+PMC2792345	254	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2792345	255	uniprot:UNRESOLVED ID	PINCH-1-ILK-PARVA complex	Gene_or_gene_product
+PMC2792345	255	uniprot:UNRESOLVED ID	ILK-C	Gene_or_gene_product
+PMC2792345	255	uniprot:UNRESOLVED ID	ILK-N	Gene_or_gene_product
+PMC2792345	255	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2792345	256	uniprot:P48059	PINCH-1	Gene_or_gene_product
+PMC2792345	256	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	256	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	256	uniprot:UNRESOLVED ID	PINCH-1-ILK-PARVA	Gene_or_gene_product
+PMC2792345	257	uniprot:UNRESOLVED ID	PINCH-1-ILK-PARVA complex	Gene_or_gene_product
+PMC2792345	257	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	257	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	258	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	258	uniprot:P14780	matrix metalloproteinase-9	Gene_or_gene_product
+PMC2792345	258	uniprot:P14780	MMP-9	Gene_or_gene_product
+PMC2792345	258	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC2792345	259	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	260	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	261	uniprot:UNRESOLVED ID	ILK-PINCH1-PARVA complex	Gene_or_gene_product
+PMC2792345	262	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	262	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	262	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2792345	262	uniprot:P25445	FAs	Gene_or_gene_product
+PMC2792345	263	uniprot:Q13418	ILK	Gene_or_gene_product
+PMC2792345	263	uniprot:P48059	PINCH	Gene_or_gene_product
+PMC2792345	263	uniprot:Q96AC1	Mig-2	Gene_or_gene_product
+PMC2792345	263	uniprot:P49023	paxillin	Gene_or_gene_product
+PMC2792345	263	uniprot:Q15052	ARHGEF6	Gene_or_gene_product
+PMC2792345	263	uniprot:UNRESOLVED ID	alpha-actinin	Gene_or_gene_product
+PMC2792345	263	uniprot:Q15569	TESK1	Gene_or_gene_product
+PMC2792345	263	uniprot:P06493	Cdc2	Gene_or_gene_product
+PMC2792345	263	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2792345	263	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	263	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	266	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	266	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	267	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	267	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	268	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	268	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	269	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	269	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	271	uniprot:Q9HBI0	PARVG	Gene_or_gene_product
+PMC2792345	271	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	271	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	272	uniprot:Q9HBI0	PARVG	Gene_or_gene_product
+PMC2792345	273	uniprot:UNRESOLVED ID	PINCH-ILK-parvin complexes	Gene_or_gene_product
+PMC2792345	274	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	274	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	274	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2792345	275	uniprot:Q9NVD7	PARVA	Gene_or_gene_product
+PMC2792345	275	uniprot:Q9HBI1	PARVB	Gene_or_gene_product
+PMC2792345	276	uniprot:P09958	pace	Gene_or_gene_product
+PMC2792345	278	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2792345	279	uniprot:UNRESOLVED ID	Received 5 August 2005	Gene_or_gene_product

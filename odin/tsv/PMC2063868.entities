@@ -1,0 +1,864 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2063868	0	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	0	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	0	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	2	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	2	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	2	uniprot:P20936	GTPase-activating protein	Gene_or_gene_product
+PMC2063868	2	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	2	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	6	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	6	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	7	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	7	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	7	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	7	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	7	uniprot:UNRESOLVED ID	phosphatydylinositol 3-kinase	Gene_or_gene_product
+PMC2063868	7	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	8	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	8	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	8	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	8	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	9	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	9	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	9	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	9	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	9	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	9	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	9	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	10	uniprot:UNRESOLVED ID	nervous system	CellType
+PMC2063868	11	uniprot:UNRESOLVED ID	semaphorins	Gene_or_gene_product
+PMC2063868	11	uniprot:UNRESOLVED ID	plexins	Gene_or_gene_product
+PMC2063868	11	uniprot:UNRESOLVED ID	Plexin-A	Gene_or_gene_product
+PMC2063868	11	uniprot:P13741	-B	Gene_or_gene_product
+PMC2063868	11	uniprot:P13742	-C	Gene_or_gene_product
+PMC2063868	12	uniprot:UNRESOLVED ID	Semaphorins	Gene_or_gene_product
+PMC2063868	13	uniprot:Q14563	Sema3A	Gene_or_gene_product
+PMC2063868	13	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	14	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	15	uniprot:O60486	Plexin-C1	Gene_or_gene_product
+PMC2063868	16	uniprot:UNRESOLVED ID	plexin	Gene_or_gene_product
+PMC2063868	18	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2063868	19	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC2063868	19	uniprot:UNRESOLVED ID	GTPase	Gene_or_gene_product
+PMC2063868	19	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	20	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	20	uniprot:P20936	GTPase-activating protein	Gene_or_gene_product
+PMC2063868	20	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	20	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	20	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	20	uazid:UA-ORG-623	neurons	Organ
+PMC2063868	20	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC2063868	21	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	21	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	21	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	21	uniprot:Q14563	Sema3A	Gene_or_gene_product
+PMC2063868	21	uniprot:Q9UIW2	Plexin-A1	Gene_or_gene_product
+PMC2063868	21	uniprot:UNRESOLVED ID	R-Ras siRNA	Gene_or_gene_product
+PMC2063868	22	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	22	uniprot:UNRESOLVED ID	fibronectins	Gene_or_gene_product
+PMC2063868	23	uniprot:UNRESOLVED ID	integrins	Gene_or_gene_product
+PMC2063868	23	uniprot:UNRESOLVED ID	small GTPases	Gene_or_gene_product
+PMC2063868	24	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	25	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	25	uniprot:UNRESOLVED ID	integrins	Gene_or_gene_product
+PMC2063868	26	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	26	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	27	uniprot:UNRESOLVED ID	plexins	Gene_or_gene_product
+PMC2063868	27	uniprot:Q9QYJ2	R-Ras GAP	Gene_or_gene_product
+PMC2063868	28	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	28	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	29	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	29	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	29	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	29	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	29	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	30	uniprot:UNRESOLVED ID	phosphatydylinositol 3-kinase	Gene_or_gene_product
+PMC2063868	30	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	30	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	30	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	30	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	31	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	32	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	33	uniprot:UNRESOLVED ID	collagen	Gene_or_gene_product
+PMC2063868	33	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	34	uniprot:UNRESOLVED ID	collagen	Gene_or_gene_product
+PMC2063868	34	uniprot:Q874P0	alpha1	Gene_or_gene_product
+PMC2063868	34	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	34	uniprot:UNRESOLVED ID	beta1                   integrin	Gene_or_gene_product
+PMC2063868	35	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	35	uniprot:P17301	collagen receptor	Gene_or_gene_product
+PMC2063868	35	uniprot:Q874P0	alpha1	Gene_or_gene_product
+PMC2063868	35	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	36	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	37	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	38	uniprot:UNRESOLVED ID	collagen	Gene_or_gene_product
+PMC2063868	39	uniprot:Q874P0	alpha1	Gene_or_gene_product
+PMC2063868	39	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	39	uniprot:P16253	3A3	Gene_or_gene_product
+PMC2063868	39	uniprot:UNRESOLVED ID	P5D2	Gene_or_gene_product
+PMC2063868	39	ncbitax:species:ncbi:10090	mouse	Species
+PMC2063868	39	uniprot:UNRESOLVED ID	IgG1	Gene_or_gene_product
+PMC2063868	44	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	44	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	44	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	44	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	44	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	45	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	46	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	46	uniprot:P01138	NGF	Gene_or_gene_product
+PMC2063868	46	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	46	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	46	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	47	uniprot:UNRESOLVED ID	collagen	Gene_or_gene_product
+PMC2063868	47	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	47	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	48	uniprot:UNRESOLVED ID	collagen	Gene_or_gene_product
+PMC2063868	48	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2063868	48	uniprot:Q13114	c-Raf-1	Gene_or_gene_product
+PMC2063868	48	uniprot:UNRESOLVED ID	GST-RBD	Gene_or_gene_product
+PMC2063868	48	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	49	uniprot:UNRESOLVED ID	collagen	Gene_or_gene_product
+PMC2063868	49	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	50	uniprot:UNRESOLVED ID	collagen	Gene_or_gene_product
+PMC2063868	50	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	50	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	50	uniprot:UNRESOLVED ID	P5D2	Gene_or_gene_product
+PMC2063868	51	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	51	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	52	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	52	uniprot:UNRESOLVED ID	collagen	Gene_or_gene_product
+PMC2063868	52	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	52	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	52	uniprot:UNRESOLVED ID	8A2 antibody	Gene_or_gene_product
+PMC2063868	52	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	53	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	53	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	54	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	54	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	54	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	54	uniprot:UNRESOLVED ID	HUTS-4	Gene_or_gene_product
+PMC2063868	55	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	55	uniprot:UNRESOLVED ID	collagen	Gene_or_gene_product
+PMC2063868	55	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	56	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	56	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	56	uniprot:UNRESOLVED ID	HUTS-4 antibody	Gene_or_gene_product
+PMC2063868	57	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	57	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	57	uniprot:UNRESOLVED ID	HUTS-4 antibody	Gene_or_gene_product
+PMC2063868	58	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	58	uniprot:UNRESOLVED ID	HUTS-4	Gene_or_gene_product
+PMC2063868	58	uniprot:UNRESOLVED ID	FITC	Gene_or_gene_product
+PMC2063868	59	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	59	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	59	uniprot:UNRESOLVED ID	HUTS-4	Gene_or_gene_product
+PMC2063868	59	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	60	uniprot:UNRESOLVED ID	HUTS-4	Gene_or_gene_product
+PMC2063868	60	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	60	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	61	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC2063868	61	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	61	uniprot:P54829	step	Gene_or_gene_product
+PMC2063868	62	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	62	uniprot:UNRESOLVED ID	collagen	Gene_or_gene_product
+PMC2063868	62	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC2063868	63	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	63	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	63	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	63	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	64	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	64	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	64	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	64	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	65	uniprot:UNRESOLVED ID	SUSP	Gene_or_gene_product
+PMC2063868	65	uniprot:UNRESOLVED ID	collagen	Gene_or_gene_product
+PMC2063868	65	uniprot:P56721	COL	Gene_or_gene_product
+PMC2063868	65	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	66	uniprot:UNRESOLVED ID	GST-RBD	Gene_or_gene_product
+PMC2063868	66	uniprot:UNRESOLVED ID	R-Ras protein	Gene_or_gene_product
+PMC2063868	67	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	67	uniprot:UNRESOLVED ID	P5D2	Gene_or_gene_product
+PMC2063868	67	uniprot:UNRESOLVED ID	8A2	Gene_or_gene_product
+PMC2063868	68	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	68	uniprot:UNRESOLVED ID	GST-RBD	Gene_or_gene_product
+PMC2063868	68	uniprot:UNRESOLVED ID	NIH Image software	Gene_or_gene_product
+PMC2063868	69	uniprot:UNRESOLVED ID	collagen	Gene_or_gene_product
+PMC2063868	69	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	70	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	70	uniprot:UNRESOLVED ID	HUTS-4	Gene_or_gene_product
+PMC2063868	70	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC2063868	71	uniprot:UNRESOLVED ID	HUTS-4 antibody	Gene_or_gene_product
+PMC2063868	71	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	71	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	73	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	74	uniprot:UNRESOLVED ID	HUTS-4 antibody	Gene_or_gene_product
+PMC2063868	77	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	77	uniprot:UNRESOLVED ID	Plexin-B1 receptor	Gene_or_gene_product
+PMC2063868	77	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	77	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	78	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	78	uniprot:UNRESOLVED ID	collagen	Gene_or_gene_product
+PMC2063868	78	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	79	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	79	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	79	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	79	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	79	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	80	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	80	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	80	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	80	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	80	uniprot:UNRESOLVED ID	Plexin-B1 receptor	Gene_or_gene_product
+PMC2063868	81	ncbitax:species:ncbi:10090	mouse	Species
+PMC2063868	81	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	81	uniprot:UNRESOLVED ID	PlexB1 Ab	Gene_or_gene_product
+PMC2063868	81	uniprot:UNRESOLVED ID	Control Ab	Gene_or_gene_product
+PMC2063868	82	uniprot:UNRESOLVED ID	collagen	Gene_or_gene_product
+PMC2063868	82	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	83	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	83	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	87	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2063868	88	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	88	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	89	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	89	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	90	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	90	uniprot:UNRESOLVED ID	8A2	Gene_or_gene_product
+PMC2063868	91	uniprot:UNRESOLVED ID	collagen	Gene_or_gene_product
+PMC2063868	91	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	92	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	92	uniprot:UNRESOLVED ID	8A2	Gene_or_gene_product
+PMC2063868	92	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	92	uniprot:UNRESOLVED ID	collagen	Gene_or_gene_product
+PMC2063868	92	uniprot:UNRESOLVED ID	control IgG2a antibody	Gene_or_gene_product
+PMC2063868	93	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	93	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	94	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	94	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	94	uniprot:UNRESOLVED ID	collagen	Gene_or_gene_product
+PMC2063868	95	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	95	uniprot:UNRESOLVED ID	8A2	Gene_or_gene_product
+PMC2063868	95	uniprot:UNRESOLVED ID	control IgG2a	Gene_or_gene_product
+PMC2063868	95	uniprot:UNRESOLVED ID	Control Ab	Gene_or_gene_product
+PMC2063868	95	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	99	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2063868	100	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	100	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	100	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	100	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	100	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	101	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	101	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	101	uniprot:UNRESOLVED ID	tail	CellType
+PMC2063868	101	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2063868	101	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC2063868	101	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	102	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	102	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	102	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	103	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	103	uniprot:UNRESOLVED ID	GST-RBD	Gene_or_gene_product
+PMC2063868	103	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	104	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	105	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	105	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	105	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	106	uniprot:UNRESOLVED ID	Plexin-B1-WT	Gene_or_gene_product
+PMC2063868	106	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC2063868	106	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	106	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	107	uniprot:UNRESOLVED ID	Plexin-B1-GGA	Gene_or_gene_product
+PMC2063868	107	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC2063868	107	uniprot:UNRESOLVED ID	Plexin-B1-RA	Gene_or_gene_product
+PMC2063868	107	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	108	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	108	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	108	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	109	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	109	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	109	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	109	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	109	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	109	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC2063868	110	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	110	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC2063868	110	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	110	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	110	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	110	uniprot:UNRESOLVED ID	Plexin-B1-GGA	Gene_or_gene_product
+PMC2063868	110	uniprot:UNRESOLVED ID	Plexin-B1-RA	Gene_or_gene_product
+PMC2063868	111	uniprot:UNRESOLVED ID	HUTS-4 antibody	Gene_or_gene_product
+PMC2063868	113	uniprot:UNRESOLVED ID	GFP-Rnd1	Gene_or_gene_product
+PMC2063868	113	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	113	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	113	uniprot:UNRESOLVED ID	phycoerythrin	Gene_or_gene_product
+PMC2063868	113	uniprot:P48147	PE	Gene_or_gene_product
+PMC2063868	114	uniprot:UNRESOLVED ID	HUTS-4	Gene_or_gene_product
+PMC2063868	114	uniprot:P48147	PE	Gene_or_gene_product
+PMC2063868	114	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	115	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	115	uniprot:UNRESOLVED ID	HUTS-4	Gene_or_gene_product
+PMC2063868	115	uniprot:UNRESOLVED ID	Plexin-B1-WT	Gene_or_gene_product
+PMC2063868	115	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC2063868	116	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC2063868	116	uniprot:UNRESOLVED ID	Plexin-B1-RA	Gene_or_gene_product
+PMC2063868	116	uniprot:UNRESOLVED ID	Plexin-B1-GGA	Gene_or_gene_product
+PMC2063868	116	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	116	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	116	uniprot:UNRESOLVED ID	HUTS-4	Gene_or_gene_product
+PMC2063868	117	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	117	uniprot:UNRESOLVED ID	Plexin-B1-Rnd1	Gene_or_gene_product
+PMC2063868	117	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	117	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC2063868	117	uniprot:UNRESOLVED ID	Plexin-B1-GGA	Gene_or_gene_product
+PMC2063868	117	uniprot:UNRESOLVED ID	Plexin-B1-RA	Gene_or_gene_product
+PMC2063868	118	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	118	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	118	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	118	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	119	uniprot:Q9QYJ2	R-Ras GAP	Gene_or_gene_product
+PMC2063868	119	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	119	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	119	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	120	uniprot:P69208	HA	Gene_or_gene_product
+PMC2063868	120	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	120	uniprot:P02751	FN	Gene_or_gene_product
+PMC2063868	121	uniprot:UNRESOLVED ID	beta1 integrins HUTS-4	Gene_or_gene_product
+PMC2063868	121	uniprot:UNRESOLVED ID	GST-RBD	Gene_or_gene_product
+PMC2063868	121	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	121	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	122	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	122	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	123	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2063868	123	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	123	uniprot:P69208	HA	Gene_or_gene_product
+PMC2063868	123	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC2063868	124	uniprot:UNRESOLVED ID	SUSP	Gene_or_gene_product
+PMC2063868	124	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	124	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	125	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	125	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	125	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC2063868	126	uniprot:UNRESOLVED ID	HUTS-4 antibody	Gene_or_gene_product
+PMC2063868	126	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	126	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	126	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	126	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	129	uniprot:UNRESOLVED ID	GFP-Rnd1	Gene_or_gene_product
+PMC2063868	129	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	129	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	130	uniprot:UNRESOLVED ID	HUTS-4	Gene_or_gene_product
+PMC2063868	130	uniprot:P48147	PE	Gene_or_gene_product
+PMC2063868	130	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	131	uniprot:UNRESOLVED ID	HUTS-4	Gene_or_gene_product
+PMC2063868	131	uniprot:UNRESOLVED ID	GFP-Rnd1	Gene_or_gene_product
+PMC2063868	131	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	131	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	133	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	133	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	133	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	134	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	134	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	134	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	135	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	135	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	136	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	136	uniprot:UNRESOLVED ID	p98-R-RasGAP	Gene_or_gene_product
+PMC2063868	136	uniprot:UNRESOLVED ID	Myr-R-RasGAP	Gene_or_gene_product
+PMC2063868	136	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	137	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	137	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	137	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	138	uniprot:UNRESOLVED ID	R-Ras-QL	Gene_or_gene_product
+PMC2063868	138	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	138	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	139	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	139	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC2063868	140	uniprot:UNRESOLVED ID	Myr-R-RasGAP	Gene_or_gene_product
+PMC2063868	140	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	140	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC2063868	140	uniprot:UNRESOLVED ID	R-Ras-QL	Gene_or_gene_product
+PMC2063868	140	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	140	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	141	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	141	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	141	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	142	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	142	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	142	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC2063868	143	uniprot:UNRESOLVED ID	R-Ras siRNA	Gene_or_gene_product
+PMC2063868	143	uniprot:UNRESOLVED ID	R-Ras protein	Gene_or_gene_product
+PMC2063868	143	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	143	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	143	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC2063868	144	uniprot:UNRESOLVED ID	HUTS-4	Gene_or_gene_product
+PMC2063868	144	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	144	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	144	uniprot:UNRESOLVED ID	Myr-R-RasGAP	Gene_or_gene_product
+PMC2063868	144	uniprot:UNRESOLVED ID	R-Ras RNA	Gene_or_gene_product
+PMC2063868	146	uniprot:UNRESOLVED ID	Myr- R-RasGAP	Gene_or_gene_product
+PMC2063868	146	uniprot:UNRESOLVED ID	R-Ras siRNA	Gene_or_gene_product
+PMC2063868	146	uniprot:UNRESOLVED ID	HUTS-4	Gene_or_gene_product
+PMC2063868	146	uniprot:P48147	PE	Gene_or_gene_product
+PMC2063868	147	uniprot:UNRESOLVED ID	HUTS-4	Gene_or_gene_product
+PMC2063868	147	uniprot:UNRESOLVED ID	Myr-R-RasGAP	Gene_or_gene_product
+PMC2063868	147	uniprot:UNRESOLVED ID	R-Ras siRNA	Gene_or_gene_product
+PMC2063868	148	uniprot:UNRESOLVED ID	R-Ras protein	Gene_or_gene_product
+PMC2063868	148	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	148	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	149	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	149	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	149	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	150	uniprot:UNRESOLVED ID	SUSP	Gene_or_gene_product
+PMC2063868	150	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	150	uniprot:P02751	FN	Gene_or_gene_product
+PMC2063868	151	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	151	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC2063868	152	uniprot:UNRESOLVED ID	HUTS-4	Gene_or_gene_product
+PMC2063868	153	uniprot:UNRESOLVED ID	R-Ras protein	Gene_or_gene_product
+PMC2063868	155	uniprot:UNRESOLVED ID	Myr-R-RasGAP	Gene_or_gene_product
+PMC2063868	155	uniprot:UNRESOLVED ID	R-Ras siRNA	Gene_or_gene_product
+PMC2063868	155	uniprot:UNRESOLVED ID	HUTS-4	Gene_or_gene_product
+PMC2063868	155	uniprot:P48147	PE	Gene_or_gene_product
+PMC2063868	156	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	156	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	157	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	157	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	158	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	158	uniprot:UNRESOLVED ID	GFP- R-Ras-WT	Gene_or_gene_product
+PMC2063868	159	uniprot:UNRESOLVED ID	Plexin-B1-WT	Gene_or_gene_product
+PMC2063868	159	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC2063868	159	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	159	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	160	uazid:UA-ORG-381	hand	Organ
+PMC2063868	160	uniprot:UNRESOLVED ID	Plexin-B1-RA	Gene_or_gene_product
+PMC2063868	160	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	160	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	160	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	160	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	161	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC2063868	161	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	161	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	161	uniprot:UNRESOLVED ID	Plexin-B1-GGA	Gene_or_gene_product
+PMC2063868	162	uniprot:UNRESOLVED ID	Plexin-B subfamily	Gene_or_gene_product
+PMC2063868	162	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2063868	163	uniprot:UNRESOLVED ID	Plexin-B1-DeltaC	Gene_or_gene_product
+PMC2063868	163	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	163	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	163	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	163	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	164	uniprot:UNRESOLVED ID	R-Ras-QL	Gene_or_gene_product
+PMC2063868	164	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	164	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	164	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC2063868	166	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	166	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	166	uniprot:UNRESOLVED ID	Myr-R-RasGAP	Gene_or_gene_product
+PMC2063868	166	uniprot:UNRESOLVED ID	R-Ras RNA	Gene_or_gene_product
+PMC2063868	166	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	167	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	167	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	167	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	168	uniprot:UNRESOLVED ID	GFP-R-Ras-WT	Gene_or_gene_product
+PMC2063868	168	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	168	uniprot:P02751	FN	Gene_or_gene_product
+PMC2063868	170	uniprot:UNRESOLVED ID	Plexin-B1-WT	Gene_or_gene_product
+PMC2063868	170	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC2063868	170	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	171	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	171	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	173	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	173	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	175	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	179	uniprot:Q9QYJ2	R-Ras GAP	Gene_or_gene_product
+PMC2063868	179	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	179	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	179	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	180	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	180	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC2063868	180	uniprot:Q9QYJ2	R-Ras GAP	Gene_or_gene_product
+PMC2063868	181	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC2063868	182	uniprot:UNRESOLVED ID	Plexin-B1-N-Cyt-GGA	Gene_or_gene_product
+PMC2063868	182	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	182	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	182	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC2063868	182	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	182	uniprot:UNRESOLVED ID	Plexin-B1- N-Cyt-GGA	Gene_or_gene_product
+PMC2063868	183	uniprot:UNRESOLVED ID	Plexin-B1-N-Cyt-GGA	Gene_or_gene_product
+PMC2063868	183	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	183	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	184	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	184	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	184	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	185	uniprot:UNRESOLVED ID	Plexin-B1-N-Cyt-GGA	Gene_or_gene_product
+PMC2063868	186	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC2063868	187	uniprot:P42684	Arg	Gene_or_gene_product
+PMC2063868	188	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	189	uniprot:UNRESOLVED ID	HA-Plexin-B1-N-Cyt-GGA	Gene_or_gene_product
+PMC2063868	189	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	193	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2063868	194	uniprot:UNRESOLVED ID	endogenous R-Ras protein	Gene_or_gene_product
+PMC2063868	195	uniprot:UNRESOLVED ID	R-Ras siRNA	Gene_or_gene_product
+PMC2063868	195	uniprot:UNRESOLVED ID	endogenous R-Ras protein	Gene_or_gene_product
+PMC2063868	195	uniprot:UNRESOLVED ID	collagen	Gene_or_gene_product
+PMC2063868	195	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	196	uniprot:UNRESOLVED ID	R-Ras protein	Gene_or_gene_product
+PMC2063868	196	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	196	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	196	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	196	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	196	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	197	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	197	uniprot:UNRESOLVED ID	Plexin-B1-Rnd1	Gene_or_gene_product
+PMC2063868	197	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	197	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	198	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	198	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	199	uniprot:UNRESOLVED ID	R-Ras-QL	Gene_or_gene_product
+PMC2063868	199	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	199	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	199	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC2063868	200	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	200	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	200	uniprot:UNRESOLVED ID	R-Ras-QL	Gene_or_gene_product
+PMC2063868	201	uniprot:UNRESOLVED ID	R-Ras-QL-64A	Gene_or_gene_product
+PMC2063868	201	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	201	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	201	uniprot:UNRESOLVED ID	PI3-K effector Akt	Gene_or_gene_product
+PMC2063868	201	uniprot:P31749	PKB	Gene_or_gene_product
+PMC2063868	202	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	202	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	202	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC2063868	203	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	203	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC2063868	204	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2063868	204	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	205	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	205	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	205	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	205	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	205	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2063868	206	uniprot:UNRESOLVED ID	Plexin-B1-WT	Gene_or_gene_product
+PMC2063868	206	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC2063868	206	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	206	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2063868	206	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	207	uniprot:UNRESOLVED ID	Plexin-B1-GGA	Gene_or_gene_product
+PMC2063868	207	uniprot:UNRESOLVED ID	Plexin-B1-RA	Gene_or_gene_product
+PMC2063868	207	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	208	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	208	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	208	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	208	uniprot:UNRESOLVED ID	Plexin-B1-Rnd1	Gene_or_gene_product
+PMC2063868	208	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	209	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	209	uniprot:UNRESOLVED ID	Plexin-B1-Rnd1	Gene_or_gene_product
+PMC2063868	209	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	209	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	210	uniprot:UNRESOLVED ID	GFP-R-Ras-QL	Gene_or_gene_product
+PMC2063868	210	ncbitax:species:ncbi:41568	muM	Species
+PMC2063868	211	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2063868	214	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2063868	215	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	215	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC2063868	216	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2063868	218	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	218	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	218	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	218	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	219	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	219	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	219	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	219	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	219	uniprot:UNRESOLVED ID	p110alpha-CAAX	Gene_or_gene_product
+PMC2063868	220	uniprot:UNRESOLVED ID	p110alpha-CAAX	Gene_or_gene_product
+PMC2063868	220	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	220	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	221	uazid:UA-ORG-381	hand	Organ
+PMC2063868	221	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC2063868	221	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	221	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	222	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	222	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	223	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	223	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	223	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	223	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	224	uniprot:UNRESOLVED ID	p110alpha-CAAX	Gene_or_gene_product
+PMC2063868	224	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	224	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	224	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	225	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	225	uniprot:UNRESOLVED ID	p110alpha-CAAX	Gene_or_gene_product
+PMC2063868	226	uniprot:UNRESOLVED ID	p110alpha-CAAX	Gene_or_gene_product
+PMC2063868	226	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	227	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	227	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	227	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	227	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	227	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	228	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	228	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	228	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	228	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	229	uniprot:UNRESOLVED ID	p110alpha-CAAX	Gene_or_gene_product
+PMC2063868	229	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	229	uniprot:UNRESOLVED ID	HUTS-4	Gene_or_gene_product
+PMC2063868	230	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	231	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	231	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	232	uniprot:UNRESOLVED ID	p110alpha-CAAX	Gene_or_gene_product
+PMC2063868	232	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	234	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2063868	236	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	236	uniprot:UNRESOLVED ID	Sema4D receptor	Gene_or_gene_product
+PMC2063868	236	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	236	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	236	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	236	uniprot:Q9QYJ2	R-Ras GAP	Gene_or_gene_product
+PMC2063868	237	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	237	uniprot:UNRESOLVED ID	integrins	Gene_or_gene_product
+PMC2063868	237	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	238	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	238	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	238	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	238	uniprot:UNRESOLVED ID	p98-R-RasGAP	Gene_or_gene_product
+PMC2063868	239	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	239	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	240	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	241	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	241	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	242	uniprot:UNRESOLVED ID	Semaphorins	Gene_or_gene_product
+PMC2063868	243	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	243	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	244	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	244	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	244	uniprot:UNRESOLVED ID	tail	CellType
+PMC2063868	244	uniprot:UNRESOLVED ID	Plexin-B1-Rnd1 complex	Gene_or_gene_product
+PMC2063868	244	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	245	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	245	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC2063868	245	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	245	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	246	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	246	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	247	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	247	uniprot:Q14563	Sema3A	Gene_or_gene_product
+PMC2063868	247	uniprot:O89094	mice	Species
+PMC2063868	247	uniprot:UNRESOLVED ID	neural crest	CellType
+PMC2063868	248	uniprot:O60486	Plexin-C1	Gene_or_gene_product
+PMC2063868	249	uniprot:UNRESOLVED ID	R-Ras GAP-homologous domains	Gene_or_gene_product
+PMC2063868	249	uniprot:UNRESOLVED ID	Plexin-A	Gene_or_gene_product
+PMC2063868	249	uniprot:P10290	-C1	Gene_or_gene_product
+PMC2063868	250	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	250	uniprot:Q14563	Sema3A	Gene_or_gene_product
+PMC2063868	250	uazid:UA-ORG-623	neurons	Organ
+PMC2063868	251	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	251	uniprot:UNRESOLVED ID	plexins	Gene_or_gene_product
+PMC2063868	251	uniprot:UNRESOLVED ID	plexin families	Gene_or_gene_product
+PMC2063868	251	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	252	uniprot:UNRESOLVED ID	Semaphorins	Gene_or_gene_product
+PMC2063868	252	uazid:UA-ORG-623	neurons	Organ
+PMC2063868	253	uazid:UA-ORG-623	neurons	Organ
+PMC2063868	253	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	254	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	254	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	254	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	255	uniprot:P98172	ephrin-B1	Gene_or_gene_product
+PMC2063868	255	uniprot:UNRESOLVED ID	ephrin-B1 receptor	Gene_or_gene_product
+PMC2063868	255	uniprot:P29323	EphB2	Gene_or_gene_product
+PMC2063868	255	uniprot:UNRESOLVED ID	repulsive factor receptor	Gene_or_gene_product
+PMC2063868	255	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	256	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	256	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	256	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	256	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	256	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	256	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	257	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	258	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	258	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	259	uazid:UA-ORG-381	hand	Organ
+PMC2063868	259	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	259	uniprot:UNRESOLVED ID	talin	Gene_or_gene_product
+PMC2063868	259	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	259	uniprot:UNRESOLVED ID	tail	CellType
+PMC2063868	259	uniprot:UNRESOLVED ID	integrins	Gene_or_gene_product
+PMC2063868	260	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	261	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	261	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	261	uniprot:UNRESOLVED ID	integrins	Gene_or_gene_product
+PMC2063868	261	uniprot:UNRESOLVED ID	p110alpha-CAAX	Gene_or_gene_product
+PMC2063868	261	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	262	uniprot:UNRESOLVED ID	monoclonal antibody HUTS-4	Gene_or_gene_product
+PMC2063868	262	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	262	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	262	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	262	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2063868	262	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	263	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	263	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	264	uazid:UA-ORG-381	hand	Organ
+PMC2063868	264	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	264	uniprot:O95456	PAC-1	Gene_or_gene_product
+PMC2063868	265	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	266	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	266	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2063868	266	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	266	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	266	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC2063868	266	uniprot:Q9QYJ2	R-Ras GAP	Gene_or_gene_product
+PMC2063868	267	uniprot:P04626	ErbB-2	Gene_or_gene_product
+PMC2063868	267	uniprot:P08581	Met	Gene_or_gene_product
+PMC2063868	267	uniprot:UNRESOLVED ID	plexin	Gene_or_gene_product
+PMC2063868	268	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	268	uniprot:Q9QYJ2	R-Ras GAP	Gene_or_gene_product
+PMC2063868	269	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	270	uniprot:UNRESOLVED ID	neural cell	CellType
+PMC2063868	271	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	272	uniprot:P69208	HA	Gene_or_gene_product
+PMC2063868	272	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC2063868	272	uniprot:P69208	HA-	Gene_or_gene_product
+PMC2063868	272	ncbitax:species:ncbi:9606	human	Species
+PMC2063868	272	uniprot:UNRESOLVED ID	R-Ras-QL	Gene_or_gene_product
+PMC2063868	272	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2063868	272	N/A	c-Raf-1	Gene_or_gene_product
+PMC2063868	272	uniprot:Q9QYJ2	R-RasGAP	Gene_or_gene_product
+PMC2063868	272	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2063868	272	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	272	uniprot:UNRESOLVED ID	Plexin-B1-GGA	Gene_or_gene_product
+PMC2063868	272	uniprot:UNRESOLVED ID	P1851A	Gene_or_gene_product
+PMC2063868	272	N/A	Plexin-B1-RA	Gene_or_gene_product
+PMC2063868	272	uniprot:UNRESOLVED ID	Plexin-B1-DeltaC	Gene_or_gene_product
+PMC2063868	272	uniprot:UNRESOLVED ID	Plexin-B1- N-Cyt-GGA	Gene_or_gene_product
+PMC2063868	273	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	273	uniprot:UNRESOLVED ID	R-Ras-DA	Gene_or_gene_product
+PMC2063868	274	uniprot:Q56704	FLAG	Species
+PMC2063868	274	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC2063868	275	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	276	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	277	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	277	ncbitax:species:ncbi:9606	human	Species
+PMC2063868	278	ncbitax:species:ncbi:10090	mouse	Species
+PMC2063868	278	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2063868	278	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2063868	278	uniprot:Q05397	p125-FAK	Gene_or_gene_product
+PMC2063868	278	uniprot:Q5I2J3	alpha-tubulin	Gene_or_gene_product
+PMC2063868	278	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	278	uniprot:UNRESOLVED ID	HUTS-4	Gene_or_gene_product
+PMC2063868	278	uniprot:Q2G0B1	rat	Species
+PMC2063868	278	uniprot:P69208	HA	Gene_or_gene_product
+PMC2063868	278	uniprot:Q08168	HRP	Gene_or_gene_product
+PMC2063868	279	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	279	uniprot:P20760	IgG2a	Gene_or_gene_product
+PMC2063868	279	uniprot:P16253	3A3	Gene_or_gene_product
+PMC2063868	279	uniprot:UNRESOLVED ID	IgG1	Gene_or_gene_product
+PMC2063868	279	uniprot:UNRESOLVED ID	Serotec	Gene_or_gene_product
+PMC2063868	279	uniprot:UNRESOLVED ID	P5D2	Gene_or_gene_product
+PMC2063868	279	ncbitax:species:ncbi:10090	mouse	Species
+PMC2063868	279	ncbitax:species:ncbi:9606	human	Species
+PMC2063868	279	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	279	uniprot:UNRESOLVED ID	IgG2b	Gene_or_gene_product
+PMC2063868	279	uniprot:F1REV3	Santa	Gene_or_gene_product
+PMC2063868	280	uniprot:UNRESOLVED ID	FITC-	Gene_or_gene_product
+PMC2063868	280	uniprot:P48147	PE	Gene_or_gene_product
+PMC2063868	280	uniprot:UNRESOLVED ID	ab'	Gene_or_gene_product
+PMC2063868	281	uniprot:UNRESOLVED ID	PhosphoPlus Akt Antibody kit	Gene_or_gene_product
+PMC2063868	281	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2063868	283	uniprot:UNRESOLVED ID	milk	CellType
+PMC2063868	284	uniprot:Q08168	HRP	Gene_or_gene_product
+PMC2063868	285	uniprot:O43766	LAS	Gene_or_gene_product
+PMC2063868	287	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2063868	288	uniprot:UNRESOLVED ID	anti-R-Ras antibody	Gene_or_gene_product
+PMC2063868	289	uniprot:P10266	RT	Gene_or_gene_product
+PMC2063868	290	uniprot:UNRESOLVED ID	Photoshop software	Gene_or_gene_product
+PMC2063868	292	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2063868	293	uniprot:UNRESOLVED ID	RPMI 1640	Gene_or_gene_product
+PMC2063868	293	ncbitax:species:ncbi:9796	horse	Species
+PMC2063868	293	uniprot:UNRESOLVED ID	serum	CellType
+PMC2063868	293	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2063868	295	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	295	uniprot:UNRESOLVED ID	Fc fragment	Gene_or_gene_product
+PMC2063868	295	ncbitax:species:ncbi:9606	human	Species
+PMC2063868	296	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	298	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	298	uniprot:UNRESOLVED ID	collagen I	Gene_or_gene_product
+PMC2063868	303	uniprot:UNRESOLVED ID	IgG	Gene_or_gene_product
+PMC2063868	304	uniprot:P10266	RT	Gene_or_gene_product
+PMC2063868	304	uniprot:UNRESOLVED ID	Eclipse TE300-FN	Gene_or_gene_product
+PMC2063868	304	uniprot:P53847	DS-L1	Gene_or_gene_product
+PMC2063868	304	uniprot:UNRESOLVED ID	DS-5M	Gene_or_gene_product
+PMC2063868	306	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	307	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	308	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2063868	309	uniprot:UNRESOLVED ID	Sema4D-Fc	Gene_or_gene_product
+PMC2063868	310	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	311	uniprot:P01298	pH	Gene_or_gene_product
+PMC2063868	311	uniprot:P10145	NaF	Gene_or_gene_product
+PMC2063868	311	uniprot:UNRESOLVED ID	leupeptin	Gene_or_gene_product
+PMC2063868	312	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	313	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	313	uniprot:UNRESOLVED ID	RPMI 1640	Gene_or_gene_product
+PMC2063868	313	uniprot:UNRESOLVED ID	Sema4D-Fc	Gene_or_gene_product
+PMC2063868	314	uniprot:UNRESOLVED ID	collagen I	Gene_or_gene_product
+PMC2063868	316	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	317	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	318	uniprot:UNRESOLVED ID	Sema4D-Fc	Gene_or_gene_product
+PMC2063868	319	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	324	uniprot:P10266	RT	Gene_or_gene_product
+PMC2063868	326	uniprot:Q05855	peroxidase	Gene_or_gene_product
+PMC2063868	326	uniprot:UNRESOLVED ID	XFluor4 program	Gene_or_gene_product
+PMC2063868	329	uniprot:UNRESOLVED ID	active beta1 integrins	Gene_or_gene_product
+PMC2063868	330	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2063868	331	uniprot:UNRESOLVED ID	Sema4D-Fc	Gene_or_gene_product
+PMC2063868	331	uniprot:UNRESOLVED ID	Sema4D-Fc plus 1 mM Mn2+	Gene_or_gene_product
+PMC2063868	332	ncbitax:species:ncbi:9940	sheep	Species
+PMC2063868	332	uniprot:UNRESOLVED ID	serum	CellType
+PMC2063868	334	uniprot:UNRESOLVED ID	EPICS ELITE flow cytometer	Gene_or_gene_product
+PMC2063868	335	uniprot:UNRESOLVED ID	active beta1 integrins	Gene_or_gene_product
+PMC2063868	336	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2063868	336	uniprot:UNRESOLVED ID	Sema4D-Fc	Gene_or_gene_product
+PMC2063868	336	uniprot:UNRESOLVED ID	HUTS-4 antibody	Gene_or_gene_product
+PMC2063868	337	uniprot:P48147	PE	Gene_or_gene_product
+PMC2063868	337	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	338	uniprot:P48147	PE	Gene_or_gene_product
+PMC2063868	340	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	341	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	342	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2063868	343	uniprot:UNRESOLVED ID	beta1 integrins	Gene_or_gene_product
+PMC2063868	343	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2063868	344	uniprot:P01298	pH	Gene_or_gene_product
+PMC2063868	344	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2063868	344	uniprot:UNRESOLVED ID	leupeptin	Gene_or_gene_product
+PMC2063868	344	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2063868	344	uniprot:Q13114	c-Raf-1	Gene_or_gene_product
+PMC2063868	344	uniprot:UNRESOLVED ID	GST-RBD	Gene_or_gene_product
+PMC2063868	345	uniprot:UNRESOLVED ID	collagen I	Gene_or_gene_product
+PMC2063868	345	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	345	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC2063868	345	uniprot:UNRESOLVED ID	RPMI 1640	Gene_or_gene_product
+PMC2063868	345	uniprot:UNRESOLVED ID	Sema4D-Fc	Gene_or_gene_product
+PMC2063868	346	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC2063868	346	uniprot:UNRESOLVED ID	P5D2	Gene_or_gene_product
+PMC2063868	346	uniprot:UNRESOLVED ID	8A2	Gene_or_gene_product
+PMC2063868	347	uniprot:UNRESOLVED ID	collagen I	Gene_or_gene_product
+PMC2063868	348	uniprot:UNRESOLVED ID	GST-RBD	Gene_or_gene_product
+PMC2063868	349	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC2063868	350	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC2063868	351	uniprot:P01298	pH	Gene_or_gene_product
+PMC2063868	351	uniprot:P10145	NaF	Gene_or_gene_product
+PMC2063868	351	uniprot:UNRESOLVED ID	leupeptin	Gene_or_gene_product
+PMC2063868	351	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC2063868	352	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2063868	353	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2063868	354	ncbitax:species:ncbi:41568	muM	Species
+PMC2063868	354	uniprot:P42348	PI3-K	Gene_or_gene_product
+PMC2063868	355	uniprot:UNRESOLVED ID	1x Laemmli sample buffer	Gene_or_gene_product
+PMC2063868	356	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2063868	357	uniprot:UNRESOLVED ID	R-Ras protein	Gene_or_gene_product
+PMC2063868	357	uniprot:UNRESOLVED ID	collagen	Gene_or_gene_product
+PMC2063868	358	uniprot:UNRESOLVED ID	http://www.jcb.org/cgi/content/full/jcb.200508204/DC1	Gene_or_gene_product
+PMC2063868	359	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC2063868	359	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC2063868	359	uniprot:P42336	p110alpha	Gene_or_gene_product

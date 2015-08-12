@@ -1,0 +1,40 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC3392545	0	uniprot:Q86WV6	STING	Gene_or_gene_product
+PMC3392545	0	uniprot:UNRESOLVED ID	c-di-GMP	Gene_or_gene_product
+PMC3392545	0	uazid:UA-ORG-406	Immune System	Organ
+PMC3392545	1	uniprot:Q86WV6	STING	Gene_or_gene_product
+PMC3392545	1	uniprot:UNRESOLVED ID	type I interferons	Gene_or_gene_product
+PMC3392545	2	uniprot:UNRESOLVED ID	STING C-terminal domain	Gene_or_gene_product
+PMC3392545	2	uniprot:UNRESOLVED ID	c-di-GMP molecule	Gene_or_gene_product
+PMC3392545	3	uniprot:UNRESOLVED ID	c-di-GMP	Gene_or_gene_product
+PMC3392545	8	uniprot:UNRESOLVED ID	c-di-GMP	Gene_or_gene_product
+PMC3392545	9	ncbitax:species:ncbi:9606	human	Species
+PMC3392545	9	uniprot:Q86WV6	STING	Gene_or_gene_product
+PMC3392545	10	uniprot:Q86WV6	STING	Gene_or_gene_product
+PMC3392545	11	uniprot:Q86WV6	STING	Gene_or_gene_product
+PMC3392545	12	ncbitax:species:ncbi:9606	human	Species
+PMC3392545	12	uniprot:Q86WV6	STING	Gene_or_gene_product
+PMC3392545	12	uniprot:UNRESOLVED ID	c-di-GMP	Gene_or_gene_product
+PMC3392545	13	uniprot:Q86WV6	STING	Gene_or_gene_product
+PMC3392545	15	uniprot:UNRESOLVED ID	c-di-GMP	Gene_or_gene_product
+PMC3392545	15	uniprot:Q86WV6	STING	Gene_or_gene_product
+PMC3392545	16	uniprot:UNRESOLVED ID	c-di-GMP binding site	Gene_or_gene_product
+PMC3392545	16	uniprot:Q86WV6	STING	Gene_or_gene_product
+PMC3392545	17	uniprot:Q86WV6	STING	Gene_or_gene_product
+PMC3392545	19	uniprot:Q86WV6	STING	Gene_or_gene_product
+PMC3392545	19	uniprot:UNRESOLVED ID	c-di-GMP	Gene_or_gene_product
+PMC3392545	21	uniprot:UNRESOLVED ID	Stereo	Gene_or_gene_product
+PMC3392545	21	uniprot:Q86WV6	STING	Gene_or_gene_product
+PMC3392545	23	uniprot:Q86WV6	STING	Gene_or_gene_product
+PMC3392545	27	uniprot:Q86WV6	STING	Gene_or_gene_product
+PMC3392545	28	uniprot:Q86WV6	STING	Gene_or_gene_product
+PMC3392545	31	uniprot:UNRESOLVED ID	c-di-GMP	Gene_or_gene_product
+PMC3392545	31	uniprot:Q86WV6	STING	Gene_or_gene_product
+PMC3392545	32	uniprot:Q86WV6	STING	Gene_or_gene_product
+PMC3392545	34	uniprot:UNRESOLVED ID	STING mutants	Gene_or_gene_product
+PMC3392545	35	uniprot:P01574	IFN-beta	Gene_or_gene_product
+PMC3392545	35	ncbitax:species:ncbi:10090	mouse	Species
+PMC3392545	35	uniprot:Q86WV6	STING	Gene_or_gene_product
+PMC3392545	36	ncbitax:species:ncbi:10090	mouse	Species
+PMC3392545	36	uniprot:Q86WV6	STING	Gene_or_gene_product
+PMC3392545	36	ncbitax:species:ncbi:9606	human	Species

@@ -1,0 +1,13 @@
+Paper ID	Line Num	Master ID	Dependent ID	Text	Type
+PMC3242165	40	ncbitax:species:ncbi:10090	uniprot:P23141	REH in mouse	ContextLocation
+PMC3242165	64	ncbitax:species:ncbi:10116	uniprot:P23141	REH in rats	ContextLocation
+PMC3242165	171	uniprot:Q2G0B1	uniprot:UNRESOLVED ID	Es4 from rat	ContextDirection
+PMC3242165	171	uniprot:P30941	uniprot:UNRESOLVED ID	Es4 from rat, pig	ContextDirection
+PMC3242165	171	ncbitax:species:ncbi:9606	uniprot:UNRESOLVED ID	Es4 from rat, pig, and human	ContextDirection
+PMC3242165	175	uazid:UA-ORG-520	uniprot:P86325	carboxylesterase in liver	ContextLocation
+PMC3242165	175	uniprot:UNRESOLVED ID	uniprot:P86325	carboxylesterase in liver and in hepatocytes	ContextLocation
+PMC3242165	179	uazid:UA-ORG-520	uniprot:Q05469	HSL in liver	ContextLocation
+PMC3242165	231	uniprot:UNRESOLVED ID	uniprot:Q5TKA1	TGs in adipocytes	ContextLocation
+PMC3242165	264	ncbitax:species:ncbi:9606	uniprot:UNRESOLVED ID	CGI-58 gene in humans	ContextLocation
+PMC3242165	264	uniprot:O89094	uniprot:UNRESOLVED ID	CGI-58 gene in humans           and mice	ContextLocation
+PMC3242165	265	uazid:UA-ORG-882	uniprot:UNRESOLVED ID	CGI-58 in the skin	ContextLocation

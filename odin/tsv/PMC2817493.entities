@@ -1,0 +1,200 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2817493	0	uniprot:P22607	FGFR3	Gene_or_gene_product
+PMC2817493	0	uniprot:P01112	HRAS	Gene_or_gene_product
+PMC2817493	2	uniprot:P39072	germ	CellType
+PMC2817493	3	uniprot:P22607	FGFR3	Gene_or_gene_product
+PMC2817493	3	uniprot:UNRESOLVED ID	G encoding K650E	Gene_or_gene_product
+PMC2817493	3	uniprot:P01112	HRAS	Gene_or_gene_product
+PMC2817493	4	uniprot:UNRESOLVED ID	sperm	CellType
+PMC2817493	4	uniprot:P22607	FGFR3	Gene_or_gene_product
+PMC2817493	4	uazid:UA-ORG-91	bladder	Organ
+PMC2817493	5	uniprot:P22607	FGFR3	Gene_or_gene_product
+PMC2817493	5	uniprot:P01112	HRAS	Gene_or_gene_product
+PMC2817493	6	uniprot:UNRESOLVED ID	testis	CellType
+PMC2817493	7	uniprot:P22607	FGFR3	Gene_or_gene_product
+PMC2817493	7	uniprot:UNRESOLVED ID	NT_006081	Gene_or_gene_product
+PMC2817493	7	uniprot:UNRESOLVED ID	NM_000142	Gene_or_gene_product
+PMC2817493	7	uniprot:P01112	HRAS	Gene_or_gene_product
+PMC2817493	7	uniprot:UNRESOLVED ID	NM_005343	Gene_or_gene_product
+PMC2817493	8	uniprot:P22607	FGFR3	Gene_or_gene_product
+PMC2817493	9	uazid:UA-ORG-460	Joint	Organ
+PMC2817493	9	uniprot:UNRESOLVED ID	KF 01 265848	Gene_or_gene_product
+PMC2817493	12	uniprot:P43358	MAGE-A4	Gene_or_gene_product
+PMC2817493	12	uniprot:P05187	PLAP	Gene_or_gene_product
+PMC2817493	12	uniprot:O75751	OCT3	Gene_or_gene_product
+PMC2817493	14	ncbitax:species:ncbi:9606	men	Species
+PMC2817493	14	uazid:UA-ORG-92	blood	Organ
+PMC2817493	15	uniprot:P22607	FGFR3	Gene_or_gene_product
+PMC2817493	15	uniprot:UNRESOLVED ID	TD3	Gene_or_gene_product
+PMC2817493	15	uniprot:UNRESOLVED ID	TD6	Gene_or_gene_product
+PMC2817493	15	ncbitax:species:ncbi:9606	patient	Species
+PMC2817493	15	uniprot:UNRESOLVED ID	SAD4	Gene_or_gene_product
+PMC2817493	15	uniprot:A9CB96	spike	CellType
+PMC2817493	15	uniprot:Q6NUN9	Paris	Gene_or_gene_product
+PMC2817493	16	uniprot:P31749	AKT1	Gene_or_gene_product
+PMC2817493	16	uniprot:P15056	BRAF	Gene_or_gene_product
+PMC2817493	16	uniprot:P35222	CTNNB1	Gene_or_gene_product
+PMC2817493	16	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2817493	16	uniprot:P11362	FGFR1	Gene_or_gene_product
+PMC2817493	16	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2817493	16	uniprot:P22607	FGFR3	Gene_or_gene_product
+PMC2817493	16	uniprot:P01112	HRAS	Gene_or_gene_product
+PMC2817493	16	uniprot:P10721	KIT	Gene_or_gene_product
+PMC2817493	16	uniprot:P01116	KRAS	Gene_or_gene_product
+PMC2817493	16	uniprot:Q02750	MAP2K1	Gene_or_gene_product
+PMC2817493	16	uniprot:P36507	MAP2K2	Gene_or_gene_product
+PMC2817493	16	uniprot:P01111	NRAS	Gene_or_gene_product
+PMC2817493	16	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC2817493	16	uniprot:Q06124	PTPN11	Gene_or_gene_product
+PMC2817493	16	uniprot:P07949	RET	Gene_or_gene_product
+PMC2817493	16	uniprot:Q07889	SOS1	Gene_or_gene_product
+PMC2817493	17	ncbitax:species:ncbi:41568	muM	Species
+PMC2817493	17	uniprot:UNRESOLVED ID	U FastStart Taq DNA polymerase	Gene_or_gene_product
+PMC2817493	17	uniprot:UNRESOLVED ID	U Pwo DNA polymerase	Gene_or_gene_product
+PMC2817493	20	uniprot:Q9UQ84	Exonuclease I	Gene_or_gene_product
+PMC2817493	20	uniprot:O60880	SAP	Gene_or_gene_product
+PMC2817493	22	uniprot:UNRESOLVED ID	rs2071616	Gene_or_gene_product
+PMC2817493	22	uniprot:UNRESOLVED ID	rs2659871	Gene_or_gene_product
+PMC2817493	22	uniprot:UNRESOLVED ID	rs41279090	Gene_or_gene_product
+PMC2817493	22	uniprot:UNRESOLVED ID	rs2075526	Gene_or_gene_product
+PMC2817493	23	uazid:UA-ORG-249	epididymis	Organ
+PMC2817493	23	uazid:UA-ORG-759	prostate	Organ
+PMC2817493	23	uniprot:UNRESOLVED ID	seminoma	CellType
+PMC2817493	23	uniprot:UNRESOLVED ID	embryonal carcinoma	CellType
+PMC2817493	24	ncbitax:species:ncbi:41568	mum	Species
+PMC2817493	26	ncbitax:species:ncbi:10090	mouse	Species
+PMC2817493	26	uniprot:P22607	FGFR3	Gene_or_gene_product
+PMC2817493	26	uniprot:Q9QJ10	B-9	Gene_or_gene_product
+PMC2817493	26	uniprot:P01112	HRAS	Gene_or_gene_product
+PMC2817493	26	uniprot:UNRESOLVED ID	F-235	Gene_or_gene_product
+PMC2817493	26	uniprot:O75751	OCT-3	Gene_or_gene_product
+PMC2817493	26	uniprot:Q99622	C-10	Gene_or_gene_product
+PMC2817493	26	uniprot:P43358	MAGE-A4	Gene_or_gene_product
+PMC2817493	26	uniprot:P05187	PLAP	Gene_or_gene_product
+PMC2817493	26	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2817493	26	uniprot:Q9ZUE0	pERK1/2	Gene_or_gene_product
+PMC2817493	26	uniprot:UNRESOLVED ID	20G11	Gene_or_gene_product
+PMC2817493	26	uniprot:Q05855	peroxidase	Gene_or_gene_product
+PMC2817493	27	uniprot:Q96T53	goat	Species
+PMC2817493	27	uniprot:UNRESOLVED ID	serum	CellType
+PMC2817493	28	uniprot:Q9NQV6	Tris	Gene_or_gene_product
+PMC2817493	28	uniprot:UNRESOLVED ID	peroxidase conjugated anti-mouse antibody	Gene_or_gene_product
+PMC2817493	28	uniprot:Q9NZJ5	pERK	Gene_or_gene_product
+PMC2817493	28	uniprot:UNRESOLVED ID	AEC	Gene_or_gene_product
+PMC2817493	31	uniprot:P22607	FGFR3	Gene_or_gene_product
+PMC2817493	31	uniprot:UNRESOLVED ID	sperm	CellType
+PMC2817493	31	uazid:UA-ORG-92	blood	Organ
+PMC2817493	32	uazid:UA-ORG-92	blood	Organ
+PMC2817493	32	ncbitax:species:ncbi:9606	human	Species
+PMC2817493	33	uniprot:P22607	FGFR3	Gene_or_gene_product
+PMC2817493	34	uniprot:A9CB96	spike	CellType
+PMC2817493	34	uniprot:UNRESOLVED ID	U XbaI and 40 U BpiI	Gene_or_gene_product
+PMC2817493	36	uniprot:UNRESOLVED ID	4,453 bp XbaI-fragment	Gene_or_gene_product
+PMC2817493	36	uniprot:P22607	FGFR3	Gene_or_gene_product
+PMC2817493	36	uniprot:UNRESOLVED ID	G allele	Gene_or_gene_product
+PMC2817493	36	uniprot:UNRESOLVED ID	G SNP rs7688609	Gene_or_gene_product
+PMC2817493	38	uniprot:Q09926	PCR1	Gene_or_gene_product
+PMC2817493	39	uniprot:UNRESOLVED ID	Pool2	Gene_or_gene_product
+PMC2817493	39	uniprot:Q9LQU4	PCR2	Gene_or_gene_product
+PMC2817493	40	uniprot:P22607	FGFR3	Gene_or_gene_product
+PMC2817493	40	uniprot:UNRESOLVED ID	TD3	Gene_or_gene_product
+PMC2817493	40	uniprot:UNRESOLVED ID	TD6	Gene_or_gene_product
+PMC2817493	40	uniprot:UNRESOLVED ID	SAD4	Gene_or_gene_product
+PMC2817493	40	uazid:UA-ORG-92	blood	Organ
+PMC2817493	40	uniprot:UNRESOLVED ID	sperm	CellType
+PMC2817493	41	uazid:UA-ORG-92	blood	Organ
+PMC2817493	41	uniprot:UNRESOLVED ID	sperm	CellType
+PMC2817493	42	uniprot:UNRESOLVED ID	TD3	Gene_or_gene_product
+PMC2817493	42	uniprot:UNRESOLVED ID	TD6	Gene_or_gene_product
+PMC2817493	42	uniprot:UNRESOLVED ID	SAD4	Gene_or_gene_product
+PMC2817493	43	uniprot:UNRESOLVED ID	BpiI enzyme	Gene_or_gene_product
+PMC2817493	44	uniprot:UNRESOLVED ID	DpnII	Gene_or_gene_product
+PMC2817493	45	uniprot:A9CB96	spike	CellType
+PMC2817493	47	uniprot:UNRESOLVED ID	Pool2 sample	Gene_or_gene_product
+PMC2817493	47	uniprot:P22607	FGFR3	Gene_or_gene_product
+PMC2817493	51	uniprot:UNRESOLVED ID	DpnII	Gene_or_gene_product
+PMC2817493	51	uniprot:O60880	SAP	Gene_or_gene_product
+PMC2817493	52	uniprot:UNRESOLVED ID	Illumina Gex Adapter 1	Gene_or_gene_product
+PMC2817493	52	uniprot:UNRESOLVED ID	Adapter1a	Gene_or_gene_product
+PMC2817493	52	uniprot:UNRESOLVED ID	Adapter1b sequences	Gene_or_gene_product
+PMC2817493	56	uniprot:UNRESOLVED ID	Illumina GAII sequencer	Gene_or_gene_product
+PMC2817493	57	uniprot:P22607	FGFR3	Gene_or_gene_product
+PMC2817493	58	uniprot:UNRESOLVED ID	GAII Illumina	Gene_or_gene_product
+PMC2817493	60	uniprot:UNRESOLVED ID	BpiI restriction site	Gene_or_gene_product
+PMC2817493	62	uniprot:UNRESOLVED ID	zi	Gene_or_gene_product
+PMC2817493	63	uniprot:A9CB96	spike	CellType
+PMC2817493	63	uniprot:P04233	Ii	Gene_or_gene_product
+PMC2817493	64	uniprot:A9CB96	spike	CellType
+PMC2817493	65	uniprot:UNRESOLVED ID	Bjf1j+w1j	Gene_or_gene_product
+PMC2817493	65	uniprot:UNRESOLVED ID	Bjf2j+w2j	Gene_or_gene_product
+PMC2817493	67	uniprot:P32540	Gamma	Gene_or_gene_product
+PMC2817493	67	uniprot:UNRESOLVED ID	Bj+Wj)productiGamma	Gene_or_gene_product
+PMC2817493	67	uniprot:UNRESOLVED ID	Bijfij+wij	Gene_or_gene_product
+PMC2817493	67	uniprot:UNRESOLVED ID	xproductiGamma	Gene_or_gene_product
+PMC2817493	67	uniprot:UNRESOLVED ID	Bijfij+wij+Cij	Gene_or_gene_product
+PMC2817493	67	uniprot:UNRESOLVED ID	Bj+Wj+Cj	Gene_or_gene_product
+PMC2817493	67	uniprot:UNRESOLVED ID	Cij	Gene_or_gene_product
+PMC2817493	73	uniprot:P22607	FGFR3	Gene_or_gene_product
+PMC2817493	73	uniprot:UNRESOLVED ID	sperm	CellType
+PMC2817493	73	uazid:UA-ORG-92	blood	Organ
+PMC2817493	74	uniprot:UNRESOLVED ID	sperm	CellType
+PMC2817493	75	uniprot:UNRESOLVED ID	Rajpert-De Meyts	Gene_or_gene_product
+PMC2817493	75	uniprot:UNRESOLVED ID	MAGE-A4 antibody	Gene_or_gene_product
+PMC2817493	76	uniprot:UNRESOLVED ID	DP08147	Gene_or_gene_product
+PMC2817493	76	uniprot:UNRESOLVED ID	ERDM	Gene_or_gene_product
+PMC2817493	78	uniprot:UNRESOLVED ID	DpnII	Gene_or_gene_product
+PMC2817493	78	uniprot:UNRESOLVED ID	http://illumina.ucr.edu/ht/documentation/molbiol-docs/DGE-DpnII-Sample-Prep.pdf/view	Gene_or_gene_product
+PMC2817493	79	uniprot:P22607	FGFR3	Gene_or_gene_product
+PMC2817493	80	uniprot:UNRESOLVED ID	XbaI	Gene_or_gene_product
+PMC2817493	80	uniprot:UNRESOLVED ID	BpiI restriction enzyme sites	Gene_or_gene_product
+PMC2817493	80	uniprot:UNRESOLVED ID	TDII	Gene_or_gene_product
+PMC2817493	80	uniprot:UNRESOLVED ID	thanatophoric dysplasia type II	Gene_or_gene_product
+PMC2817493	80	uniprot:Q93008	Fam	Gene_or_gene_product
+PMC2817493	81	uniprot:UNRESOLVED ID	BpiI recognition site	Gene_or_gene_product
+PMC2817493	81	uniprot:UNRESOLVED ID	pink box	Gene_or_gene_product
+PMC2817493	83	uniprot:P22607	FGFR3	Gene_or_gene_product
+PMC2817493	83	uniprot:UNRESOLVED ID	sperm	CellType
+PMC2817493	83	uazid:UA-ORG-92	blood	Organ
+PMC2817493	84	uniprot:UNRESOLVED ID	TD3	Gene_or_gene_product
+PMC2817493	84	uniprot:UNRESOLVED ID	TD6	Gene_or_gene_product
+PMC2817493	84	uazid:UA-ORG-92	blood	Organ
+PMC2817493	85	uazid:UA-ORG-92	blood	Organ
+PMC2817493	85	uniprot:UNRESOLVED ID	sperm	CellType
+PMC2817493	86	uniprot:Q9Y6Q6	rank	Gene_or_gene_product
+PMC2817493	86	uniprot:UNRESOLVED ID	sperm	CellType
+PMC2817493	87	uniprot:UNRESOLVED ID	tail	CellType
+PMC2817493	88	uniprot:UNRESOLVED ID	sperm	CellType
+PMC2817493	88	uazid:UA-ORG-92	blood	Organ
+PMC2817493	89	uniprot:UNRESOLVED ID	sperm	CellType
+PMC2817493	89	uniprot:P22607	FGFR3	Gene_or_gene_product
+PMC2817493	90	uniprot:UNRESOLVED ID	sperm	CellType
+PMC2817493	90	uazid:UA-ORG-91	bladder	Organ
+PMC2817493	90	uniprot:P29401	TK	Gene_or_gene_product
+PMC2817493	91	uniprot:UNRESOLVED ID	sperm	CellType
+PMC2817493	93	uniprot:P51606	Age	Gene_or_gene_product
+PMC2817493	93	uniprot:P22607	FGFR3	Gene_or_gene_product
+PMC2817493	93	uniprot:P01112	HRAS	Gene_or_gene_product
+PMC2817493	94	uniprot:P51606	Age	Gene_or_gene_product
+PMC2817493	95	uniprot:P22607	FGFR3	Gene_or_gene_product
+PMC2817493	95	uniprot:P01112	HRAS	Gene_or_gene_product
+PMC2817493	96	uniprot:P51606	Age	Gene_or_gene_product
+PMC2817493	97	uniprot:P22607	FGFR3	Gene_or_gene_product
+PMC2817493	97	uniprot:P01112	HRAS	Gene_or_gene_product
+PMC2817493	99	uniprot:P22607	FGFR3	Gene_or_gene_product
+PMC2817493	99	uniprot:Q86YQ2	base	Gene_or_gene_product
+PMC2817493	99	uniprot:UNRESOLVED ID	seminiferous tubule	CellType
+PMC2817493	99	uniprot:P01112	HRAS	Gene_or_gene_product
+PMC2817493	99	uniprot:UNRESOLVED ID	scale	CellType
+PMC2817493	100	uniprot:UNRESOLVED ID	testis	CellType
+PMC2817493	101	uniprot:UNRESOLVED ID	growth factor receptor-RAS	Gene_or_gene_product
+PMC2817493	101	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC2817493	102	uazid:UA-ORG-978	testes	Organ
+PMC2817493	103	uniprot:Q15814	CFC	Gene_or_gene_product
+PMC2817493	103	ncbitax:species:ncbi:9606	MEN	Species
+PMC2817493	103	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2817493	104	uniprot:UNRESOLVED ID	mutant protein	Gene_or_gene_product
+PMC2817493	105	uniprot:UNRESOLVED ID	stem	CellType
+PMC2817493	106	uniprot:P22607	FGFR3	Gene_or_gene_product
+PMC2817493	106	uniprot:UNRESOLVED ID	testis	CellType
+PMC2817493	107	uniprot:UNRESOLVED ID	sperm	CellType
+PMC2817493	108	uniprot:UNRESOLVED ID	seminoma	CellType

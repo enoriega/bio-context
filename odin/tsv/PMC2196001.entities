@@ -1,0 +1,824 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2196001	0	uniprot:O00401	Neural Wiskott-Aldrich Syndrome Protein	Gene_or_gene_product
+PMC2196001	0	uniprot:O00401	N-Wasp	Gene_or_gene_product
+PMC2196001	0	uniprot:Q9NZQ3	Wish	Gene_or_gene_product
+PMC2196001	0	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	0	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	1	uniprot:P12931	Src	Gene_or_gene_product
+PMC2196001	1	uniprot:P33496	SH	Gene_or_gene_product
+PMC2196001	1	uniprot:P42768	WASP	Gene_or_gene_product
+PMC2196001	1	uniprot:UNRESOLVED ID	SH3 protein	Gene_or_gene_product
+PMC2196001	1	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	2	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	2	uniprot:UNRESOLVED ID	testis	CellType
+PMC2196001	3	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	3	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	3	uniprot:O00401	neural Wiskott-Aldrich syndrome protein	Gene_or_gene_product
+PMC2196001	3	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	4	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	4	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	4	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	5	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	5	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	6	uniprot:P42768	WASP	Gene_or_gene_product
+PMC2196001	6	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	6	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	7	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	7	uazid:UA-CT-200001	brain	Organ
+PMC2196001	8	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	8	uazid:UA-CT-200001	brain	Organ
+PMC2196001	9	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	9	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	10	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	11	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	11	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	11	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	12	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	12	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	12	uniprot:P12931	Src	Gene_or_gene_product
+PMC2196001	12	uniprot:P33496	SH	Gene_or_gene_product
+PMC2196001	13	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	13	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	13	uniprot:UNRESOLVED ID	PDGF	Gene_or_gene_product
+PMC2196001	13	uniprot:UNRESOLVED ID	PDGF receptor	Gene_or_gene_product
+PMC2196001	13	uniprot:P29353	Shc	Gene_or_gene_product
+PMC2196001	13	uniprot:P01308	insulin	Gene_or_gene_product
+PMC2196001	13	uniprot:P06213	insulin receptor	Gene_or_gene_product
+PMC2196001	13	uniprot:P35568	IRS1	Gene_or_gene_product
+PMC2196001	15	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	15	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	15	uniprot:P26675	Sos	Gene_or_gene_product
+PMC2196001	15	uniprot:UNRESOLVED ID	synaptojanin	Gene_or_gene_product
+PMC2196001	15	uniprot:Q54KM6	c-Cbl	Gene_or_gene_product
+PMC2196001	15	uniprot:P00519	Abl	Gene_or_gene_product
+PMC2196001	15	uniprot:O83489	Ack	Gene_or_gene_product
+PMC2196001	15	uniprot:O00401	neural Wiskott-Aldrich syndrome protein	Gene_or_gene_product
+PMC2196001	15	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	16	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	16	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	17	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2196001	17	uniprot:P15153	small G protein	Gene_or_gene_product
+PMC2196001	17	uniprot:P31749	Rac	Gene_or_gene_product
+PMC2196001	17	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	17	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2196001	17	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2196001	18	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2196001	18	uniprot:P31749	Rac	Gene_or_gene_product
+PMC2196001	18	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	19	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	19	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	19	uniprot:UNRESOLVED ID	G proteins	Gene_or_gene_product
+PMC2196001	20	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	20	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	20	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	20	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	21	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	21	uniprot:UNRESOLVED ID	GTPase-binding domain/Cdc42/Rac interactive binding region	Gene_or_gene_product
+PMC2196001	21	uniprot:UNRESOLVED ID	GBD	Gene_or_gene_product
+PMC2196001	21	uniprot:UNRESOLVED ID	CRIB	Gene_or_gene_product
+PMC2196001	21	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	22	uniprot:UNRESOLVED ID	verprolin homology domain	Gene_or_gene_product
+PMC2196001	22	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	22	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	23	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	23	uniprot:UNRESOLVED ID	verplorin homology	Gene_or_gene_product
+PMC2196001	23	uniprot:UNRESOLVED ID	VCA	Gene_or_gene_product
+PMC2196001	23	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	24	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	25	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	25	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	25	uniprot:UNRESOLVED ID	VCA protein	Gene_or_gene_product
+PMC2196001	25	uniprot:UNRESOLVED ID	VCA region	Gene_or_gene_product
+PMC2196001	26	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	26	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	26	uniprot:UNRESOLVED ID	VCA protein	Gene_or_gene_product
+PMC2196001	27	uniprot:P42768	WASP	Gene_or_gene_product
+PMC2196001	27	uniprot:P62701	Scar	Gene_or_gene_product
+PMC2196001	28	uniprot:P31749	Rac	Gene_or_gene_product
+PMC2196001	29	uniprot:P42768	WASP	Gene_or_gene_product
+PMC2196001	29	uniprot:UNRESOLVED ID	WAVE family proteins	Gene_or_gene_product
+PMC2196001	29	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	29	uniprot:UNRESOLVED ID	VCA region	Gene_or_gene_product
+PMC2196001	30	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	30	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	31	uniprot:P42768	WASP	Gene_or_gene_product
+PMC2196001	31	uniprot:UNRESOLVED ID	SH3 protein	Gene_or_gene_product
+PMC2196001	31	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	31	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	32	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	32	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	32	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	33	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	33	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	33	uniprot:P42768	WASP	Gene_or_gene_product
+PMC2196001	33	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	34	uazid:UA-CT-200001	brain	Organ
+PMC2196001	34	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	34	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	34	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	35	uniprot:O60760	Glutathione S-Transferase	Gene_or_gene_product
+PMC2196001	36	uniprot:O60760	Glutathione S-transferase	Gene_or_gene_product
+PMC2196001	36	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2196001	36	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	36	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	36	uniprot:UNRESOLVED ID	GST-AshN	Gene_or_gene_product
+PMC2196001	36	uniprot:UNRESOLVED ID	GST-AshC	Gene_or_gene_product
+PMC2196001	36	uniprot:UNRESOLVED ID	GST-phosphatidylinositol 3-kinase	Gene_or_gene_product
+PMC2196001	36	uniprot:P01009	PI	Gene_or_gene_product
+PMC2196001	36	uniprot:O43439	p85	Gene_or_gene_product
+PMC2196001	36	uniprot:UNRESOLVED ID	SH3	Gene_or_gene_product
+PMC2196001	36	uniprot:UNRESOLVED ID	PLCgamma1 SH3	Gene_or_gene_product
+PMC2196001	36	uniprot:UNRESOLVED ID	GST-Nck SH3	Gene_or_gene_product
+PMC2196001	36	uniprot:UNRESOLVED ID	GST-Fyn SH3	Gene_or_gene_product
+PMC2196001	36	uniprot:UNRESOLVED ID	GST-CA	Gene_or_gene_product
+PMC2196001	37	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2196001	37	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	38	uniprot:UNRESOLVED ID	GST-SH3	Gene_or_gene_product
+PMC2196001	38	ncbitax:species:ncbi:10090	mouse	Species
+PMC2196001	38	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	39	uniprot:UNRESOLVED ID	GST-Leu	Gene_or_gene_product
+PMC2196001	39	uniprot:UNRESOLVED ID	BamHI-EcoRI site	Gene_or_gene_product
+PMC2196001	39	uniprot:UNRESOLVED ID	pGEX-2T	Gene_or_gene_product
+PMC2196001	40	uniprot:UNRESOLVED ID	GST-C	Gene_or_gene_product
+PMC2196001	40	uniprot:UNRESOLVED ID	BamHI-XhoI site	Gene_or_gene_product
+PMC2196001	40	uniprot:UNRESOLVED ID	pGEX-4T-1	Gene_or_gene_product
+PMC2196001	41	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2196001	41	uniprot:UNRESOLVED ID	IPTG	Gene_or_gene_product
+PMC2196001	42	uniprot:UNRESOLVED ID	40 mM Tris-HCl	Gene_or_gene_product
+PMC2196001	42	uniprot:P01298	pH	Gene_or_gene_product
+PMC2196001	42	uniprot:UNRESOLVED ID	0.1 mM PMSF	Gene_or_gene_product
+PMC2196001	44	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2196001	45	uniprot:UNRESOLVED ID	GST-Cdc42	Gene_or_gene_product
+PMC2196001	45	uniprot:UNRESOLVED ID	GST-N-WASP	Gene_or_gene_product
+PMC2196001	45	uniprot:UNRESOLVED ID	GST-NW-Pro	Gene_or_gene_product
+PMC2196001	45	uniprot:O95696	BRL	Gene_or_gene_product
+PMC2196001	48	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	49	ncbitax:species:ncbi:10090	mouse	Species
+PMC2196001	49	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC2196001	49	uniprot:UNRESOLVED ID	myoblast	CellType
+PMC2196001	49	uniprot:UNRESOLVED ID	GST-Ash	Gene_or_gene_product
+PMC2196001	49	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	50	uniprot:UNRESOLVED ID	anti-GST antibody	Gene_or_gene_product
+PMC2196001	51	uniprot:UNRESOLVED ID	pBluescript II KS	Gene_or_gene_product
+PMC2196001	52	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	53	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	54	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	55	uniprot:Q2G0B1	rat	Species
+PMC2196001	59	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	59	uniprot:UNRESOLVED ID	SH3	Gene_or_gene_product
+PMC2196001	59	uniprot:UNRESOLVED ID	BamHI-SacI site	Gene_or_gene_product
+PMC2196001	59	uniprot:UNRESOLVED ID	BamHI-KpnI site	Gene_or_gene_product
+PMC2196001	59	uniprot:UNRESOLVED ID	pQE32 His-tag	Gene_or_gene_product
+PMC2196001	60	uniprot:UNRESOLVED ID	His-WISH-SH3	Gene_or_gene_product
+PMC2196001	61	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2196001	61	ncbitax:species:ncbi:9986	rabbits	Species
+PMC2196001	62	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2196001	63	uniprot:UNRESOLVED ID	synaptojanin	Gene_or_gene_product
+PMC2196001	63	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	63	uniprot:UNRESOLVED ID	WAVE	Gene_or_gene_product
+PMC2196001	63	uniprot:P61158	Arp3	Gene_or_gene_product
+PMC2196001	64	uniprot:UNRESOLVED ID	Anti-Ash	Gene_or_gene_product
+PMC2196001	64	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	66	ncbitax:species:ncbi:10090	mouse	Species
+PMC2196001	66	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	66	uniprot:P01106	myc	Gene_or_gene_product
+PMC2196001	67	uniprot:P42768	WASP	Gene_or_gene_product
+PMC2196001	67	uniprot:A8MVW5	Miki	Gene_or_gene_product
+PMC2196001	69	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	70	uniprot:UNRESOLVED ID	serum	CellType
+PMC2196001	71	uniprot:P01298	pH	Gene_or_gene_product
+PMC2196001	71	uniprot:UNRESOLVED ID	mM PMSF	Gene_or_gene_product
+PMC2196001	74	uniprot:UNRESOLVED ID	serum	CellType
+PMC2196001	74	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2196001	75	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2196001	76	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2196001	77	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2196001	79	uniprot:UNRESOLVED ID	serum	CellType
+PMC2196001	79	uniprot:UNRESOLVED ID	anti-WISH antibody	Gene_or_gene_product
+PMC2196001	81	uniprot:UNRESOLVED ID	anti-Myc antibody	Gene_or_gene_product
+PMC2196001	81	uniprot:UNRESOLVED ID	anti-WISH antibody	Gene_or_gene_product
+PMC2196001	81	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2196001	81	uniprot:UNRESOLVED ID	serum	CellType
+PMC2196001	84	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	84	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	85	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2196001	85	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC2196001	85	uniprot:UNRESOLVED ID	G buffer (2 mM Tris-HCl	Gene_or_gene_product
+PMC2196001	85	uniprot:P01298	pH	Gene_or_gene_product
+PMC2196001	86	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	86	uazid:UA-CT-200001	brain	Organ
+PMC2196001	88	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	88	ncbitax:species:ncbi:10469	baculovirus	Species
+PMC2196001	88	uniprot:A8MVW5	Miki	Gene_or_gene_product
+PMC2196001	93	uniprot:UNRESOLVED ID	G-actin	Gene_or_gene_product
+PMC2196001	93	uniprot:UNRESOLVED ID	unlabeled G-actin	Gene_or_gene_product
+PMC2196001	93	uniprot:P01298	pH	Gene_or_gene_product
+PMC2196001	93	uniprot:UNRESOLVED ID	F-actin	Gene_or_gene_product
+PMC2196001	94	uniprot:UNRESOLVED ID	GST-Cdc42	Gene_or_gene_product
+PMC2196001	94	uniprot:UNRESOLVED ID	GTPgammaS	Gene_or_gene_product
+PMC2196001	95	uniprot:UNRESOLVED ID	mM MgCl2	Gene_or_gene_product
+PMC2196001	96	uniprot:P01298	pH	Gene_or_gene_product
+PMC2196001	96	uniprot:UNRESOLVED ID	mM KCl, 1 mM MgCl2	Gene_or_gene_product
+PMC2196001	99	uazid:UA-CT-200001	brain	Organ
+PMC2196001	100	uazid:UA-CT-200001	brain	Organ
+PMC2196001	102	uniprot:UNRESOLVED ID	GST-Cdc42	Gene_or_gene_product
+PMC2196001	102	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	102	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	102	uniprot:UNRESOLVED ID	Fyn SH3	Gene_or_gene_product
+PMC2196001	105	uniprot:UNRESOLVED ID	Cy5	Gene_or_gene_product
+PMC2196001	105	uniprot:UNRESOLVED ID	Cy5-conjugated antibody	Gene_or_gene_product
+PMC2196001	110	uniprot:UNRESOLVED ID	Eppendorf	Gene_or_gene_product
+PMC2196001	112	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	112	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	112	ncbitax:species:ncbi:41568	muM	Species
+PMC2196001	113	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	113	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	114	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	114	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	114	uniprot:UNRESOLVED ID	lambdaZAPII cDNA	Gene_or_gene_product
+PMC2196001	114	ncbitax:species:ncbi:10090	mouse	Species
+PMC2196001	114	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC2196001	114	uniprot:UNRESOLVED ID	GST-Ash	Gene_or_gene_product
+PMC2196001	115	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	115	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	115	uniprot:Q54KM6	c-Cbl	Gene_or_gene_product
+PMC2196001	115	uniprot:O83489	Ack	Gene_or_gene_product
+PMC2196001	117	uniprot:UNRESOLVED ID	AF130313	Gene_or_gene_product
+PMC2196001	118	uniprot:P42768	WASP	Gene_or_gene_product
+PMC2196001	118	uniprot:UNRESOLVED ID	SH3 protein	Gene_or_gene_product
+PMC2196001	118	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	118	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	119	uniprot:UNRESOLVED ID	SH3 binding motifs	Gene_or_gene_product
+PMC2196001	122	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	123	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	124	uniprot:Q2G0B1	rat	Species
+PMC2196001	124	uazid:UA-CT-200001	brain	Organ
+PMC2196001	124	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	125	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	126	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	126	uniprot:Q2G0B1	rat	Species
+PMC2196001	127	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	127	uazid:UA-CT-200001	brain	Organ
+PMC2196001	127	uniprot:UNRESOLVED ID	testis	CellType
+PMC2196001	128	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	128	uniprot:UNRESOLVED ID	testis	CellType
+PMC2196001	129	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	129	uniprot:Q2G0B1	rat	Species
+PMC2196001	129	uniprot:UNRESOLVED ID	anti-WISH antibody	Gene_or_gene_product
+PMC2196001	130	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	130	uazid:UA-CT-200001	brain	Organ
+PMC2196001	130	uazid:UA-ORG-996	thymus	Organ
+PMC2196001	130	uazid:UA-ORG-903	spleen	Organ
+PMC2196001	130	uniprot:UNRESOLVED ID	testis	CellType
+PMC2196001	131	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	131	uazid:UA-CT-200001	brain	Organ
+PMC2196001	131	uniprot:Q2G0B1	rat	Species
+PMC2196001	131	uazid:UA-ORG-152	cerebrum	Organ
+PMC2196001	131	uazid:UA-ORG-149	cerebellum	Organ
+PMC2196001	131	uniprot:UNRESOLVED ID	diencephalon	CellType
+PMC2196001	131	uazid:UA-ORG-573	medulla oblongata	Organ
+PMC2196001	131	uniprot:UNRESOLVED ID	anti-WISH antibody	Gene_or_gene_product
+PMC2196001	133	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	133	uniprot:UNRESOLVED ID	neuronal cell	CellType
+PMC2196001	133	uniprot:UNRESOLVED ID	C3H10T1	Gene_or_gene_product
+PMC2196001	134	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	134	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	134	uniprot:UNRESOLVED ID	Grb2 SH3 Domains	Gene_or_gene_product
+PMC2196001	135	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	135	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	135	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	136	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2196001	136	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	136	uniprot:UNRESOLVED ID	Myc-WISH	Gene_or_gene_product
+PMC2196001	136	uniprot:UNRESOLVED ID	anti-Myc antibody	Gene_or_gene_product
+PMC2196001	137	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2196001	137	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	137	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	137	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	139	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	139	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	139	uniprot:UNRESOLVED ID	anti-Myc antibody	Gene_or_gene_product
+PMC2196001	140	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	140	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	140	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	141	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	141	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	141	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	142	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	142	uniprot:UNRESOLVED ID	SH3 binding motifs	Gene_or_gene_product
+PMC2196001	143	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	143	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	143	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	143	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2196001	143	uniprot:UNRESOLVED ID	GST-AshN	Gene_or_gene_product
+PMC2196001	143	uniprot:UNRESOLVED ID	GST-AshC	Gene_or_gene_product
+PMC2196001	144	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	144	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	144	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	145	uniprot:P01009	PI	Gene_or_gene_product
+PMC2196001	145	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2196001	145	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	146	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	146	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	147	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	147	uniprot:UNRESOLVED ID	anti-WISH antibody	Gene_or_gene_product
+PMC2196001	148	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	150	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	150	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	151	uniprot:P26675	Sos	Gene_or_gene_product
+PMC2196001	151	uniprot:Q54KM6	c-Cbl	Gene_or_gene_product
+PMC2196001	151	uniprot:UNRESOLVED ID	synaptojanin	Gene_or_gene_product
+PMC2196001	152	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	153	uniprot:P26675	Sos	Gene_or_gene_product
+PMC2196001	153	uniprot:Q54KM6	c-Cbl	Gene_or_gene_product
+PMC2196001	153	uniprot:UNRESOLVED ID	synaptojanin	Gene_or_gene_product
+PMC2196001	153	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	154	uniprot:P42768	WASP	Gene_or_gene_product
+PMC2196001	154	uniprot:UNRESOLVED ID	WAVE	Gene_or_gene_product
+PMC2196001	154	uniprot:A8MVW5	Miki	Gene_or_gene_product
+PMC2196001	155	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	155	uniprot:UNRESOLVED ID	WISH-SH3	Gene_or_gene_product
+PMC2196001	155	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	156	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	156	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	156	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2196001	157	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	157	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	158	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	158	uniprot:UNRESOLVED ID	His-WISH-SH3	Gene_or_gene_product
+PMC2196001	158	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	158	uniprot:UNRESOLVED ID	GST-NW-Pro	Gene_or_gene_product
+PMC2196001	159	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	159	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	160	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	160	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	160	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	162	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	162	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	162	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	164	uniprot:UNRESOLVED ID	GST-VCA	Gene_or_gene_product
+PMC2196001	164	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	164	uniprot:UNRESOLVED ID	VCA	Gene_or_gene_product
+PMC2196001	164	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	166	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	166	uniprot:UNRESOLVED ID	VCA	Gene_or_gene_product
+PMC2196001	167	uniprot:UNRESOLVED ID	GST-Cdc42	Gene_or_gene_product
+PMC2196001	167	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	167	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	167	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	167	uniprot:UNRESOLVED ID	VCA	Gene_or_gene_product
+PMC2196001	168	uniprot:UNRESOLVED ID	GST-WISH	Gene_or_gene_product
+PMC2196001	168	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	168	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	168	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	168	uniprot:UNRESOLVED ID	VCA	Gene_or_gene_product
+PMC2196001	168	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	169	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	170	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	170	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	170	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	171	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2196001	171	uniprot:UNRESOLVED ID	SH3 proteins	Gene_or_gene_product
+PMC2196001	171	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	171	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	171	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC2196001	171	uniprot:P16333	Nck	Gene_or_gene_product
+PMC2196001	171	uniprot:UNRESOLVED ID	AshN	Gene_or_gene_product
+PMC2196001	171	uniprot:O43439	p85	Gene_or_gene_product
+PMC2196001	171	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2196001	171	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2196001	171	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	172	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	172	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	172	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	173	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC2196001	173	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2196001	173	uniprot:P16333	Nck	Gene_or_gene_product
+PMC2196001	173	uniprot:O43439	p85	Gene_or_gene_product
+PMC2196001	173	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	174	uniprot:UNRESOLVED ID	SH3 proteins	Gene_or_gene_product
+PMC2196001	174	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	175	uniprot:UNRESOLVED ID	WISH-SH3	Gene_or_gene_product
+PMC2196001	175	uniprot:UNRESOLVED ID	SH3	Gene_or_gene_product
+PMC2196001	175	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	176	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	176	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	176	uniprot:UNRESOLVED ID	SH3 proteins	Gene_or_gene_product
+PMC2196001	177	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	177	uniprot:UNRESOLVED ID	VCA	Gene_or_gene_product
+PMC2196001	178	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	179	uniprot:P02686	myelin basic protein	Gene_or_gene_product
+PMC2196001	179	uniprot:P02686	MBP	Gene_or_gene_product
+PMC2196001	179	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	181	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	181	uniprot:UNRESOLVED ID	AshN	Gene_or_gene_product
+PMC2196001	181	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC2196001	182	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	182	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	183	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	183	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	183	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	184	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	184	ncbitax:species:ncbi:9913	Bovine	Species
+PMC2196001	184	uazid:UA-CT-200001	Brain	Organ
+PMC2196001	185	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	185	uazid:UA-ORG-624	neutrophils	Organ
+PMC2196001	185	uazid:UA-CT-100031	oocytes	CellType
+PMC2196001	186	uniprot:P42768	WASP	Gene_or_gene_product
+PMC2196001	186	ncbitax:species:ncbi:302767	comets	Species
+PMC2196001	186	uazid:UA-CT-200001	brain	Organ
+PMC2196001	187	uazid:UA-CT-200001	brain	Organ
+PMC2196001	187	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	188	uazid:UA-CT-200001	brain	Organ
+PMC2196001	188	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	189	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	189	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	189	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	189	uazid:UA-CT-200001	brain	Organ
+PMC2196001	189	uniprot:UNRESOLVED ID	anti-WISH antibody	Gene_or_gene_product
+PMC2196001	189	uniprot:UNRESOLVED ID	anti-N-WASP antibody	Gene_or_gene_product
+PMC2196001	189	uniprot:UNRESOLVED ID	GST-CA protein	Gene_or_gene_product
+PMC2196001	190	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	190	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	191	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	191	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	192	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	192	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	192	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	192	uazid:UA-CT-200001	brain	Organ
+PMC2196001	193	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	193	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	193	uniprot:UNRESOLVED ID	Fyn SH3	Gene_or_gene_product
+PMC2196001	194	uazid:UA-ORG-381	hand	Organ
+PMC2196001	194	uniprot:UNRESOLVED ID	Mock	Gene_or_gene_product
+PMC2196001	194	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	194	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	195	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	195	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	195	uniprot:UNRESOLVED ID	WISH-SH3	Gene_or_gene_product
+PMC2196001	196	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	196	uazid:UA-CT-200001	brain	Organ
+PMC2196001	196	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	196	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	197	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	198	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	198	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	199	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	199	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	199	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	200	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	200	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	201	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	201	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	202	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	202	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	203	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	203	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	204	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2196001	204	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	205	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	205	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	205	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2196001	206	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	206	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	206	uniprot:P42768	WASP	Gene_or_gene_product
+PMC2196001	207	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2196001	208	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	210	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	210	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	211	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	211	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	211	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	212	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	212	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	213	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	213	uniprot:UNRESOLVED ID	SH3 binding sites	Gene_or_gene_product
+PMC2196001	214	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	214	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	214	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	214	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2196001	214	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC2196001	214	uniprot:P16333	Nck	Gene_or_gene_product
+PMC2196001	214	uniprot:P01009	PI	Gene_or_gene_product
+PMC2196001	215	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	216	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	217	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	217	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	218	uniprot:P26675	Sos	Gene_or_gene_product
+PMC2196001	218	uniprot:UNRESOLVED ID	synaptojanin	Gene_or_gene_product
+PMC2196001	218	uniprot:Q54KM6	c-Cbl	Gene_or_gene_product
+PMC2196001	218	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	219	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	219	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	219	uniprot:UNRESOLVED ID	VCA region	Gene_or_gene_product
+PMC2196001	221	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	222	uniprot:UNRESOLVED ID	VCA region	Gene_or_gene_product
+PMC2196001	222	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	222	uniprot:UNRESOLVED ID	GBD	Gene_or_gene_product
+PMC2196001	222	uniprot:UNRESOLVED ID	CRIB motif	Gene_or_gene_product
+PMC2196001	222	uniprot:A8MVW5	Miki	Gene_or_gene_product
+PMC2196001	224	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	224	uniprot:UNRESOLVED ID	GBD	Gene_or_gene_product
+PMC2196001	224	uniprot:UNRESOLVED ID	CRIB motif	Gene_or_gene_product
+PMC2196001	225	uniprot:UNRESOLVED ID	VCA region	Gene_or_gene_product
+PMC2196001	225	uniprot:UNRESOLVED ID	G-actin	Gene_or_gene_product
+PMC2196001	225	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	227	uniprot:UNRESOLVED ID	GST-VCA protein	Gene_or_gene_product
+PMC2196001	227	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	227	uniprot:UNRESOLVED ID	VCA region	Gene_or_gene_product
+PMC2196001	228	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	228	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	228	uniprot:UNRESOLVED ID	GST-VCA protein	Gene_or_gene_product
+PMC2196001	229	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	229	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	229	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	230	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	231	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	231	uniprot:UNRESOLVED ID	Grb2 SH3	Gene_or_gene_product
+PMC2196001	231	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	231	uniprot:UNRESOLVED ID	WISH-SH3	Gene_or_gene_product
+PMC2196001	232	uniprot:UNRESOLVED ID	SH3 elements	Gene_or_gene_product
+PMC2196001	232	uniprot:UNRESOLVED ID	SH3	Gene_or_gene_product
+PMC2196001	232	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC2196001	232	uniprot:P16333	Nck	Gene_or_gene_product
+PMC2196001	232	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2196001	232	uniprot:P01009	PI	Gene_or_gene_product
+PMC2196001	232	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	233	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	233	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	233	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	234	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	234	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	234	uniprot:UNRESOLVED ID	GST-VCA protein	Gene_or_gene_product
+PMC2196001	234	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	234	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	235	uazid:UA-CT-200001	brain	Organ
+PMC2196001	235	uniprot:P42768	WASP	Gene_or_gene_product
+PMC2196001	235	ncbitax:species:ncbi:302767	comet	Species
+PMC2196001	236	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	236	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	237	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	238	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	239	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	239	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	239	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	240	uniprot:P42768	WASP	Gene_or_gene_product
+PMC2196001	240	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	240	uniprot:O43516	WIP	Gene_or_gene_product
+PMC2196001	240	uniprot:UNRESOLVED ID	PSTPIP	Gene_or_gene_product
+PMC2196001	241	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	242	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	243	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	243	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	243	uazid:UA-CT-200001	brain	Organ
+PMC2196001	244	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	244	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	244	uazid:UA-CT-200001	brain	Organ
+PMC2196001	246	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	246	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	247	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	248	ncbitax:species:ncbi:8164	Suzuki	Species
+PMC2196001	248	uniprot:P61158	Arp3	Gene_or_gene_product
+PMC2196001	250	uniprot:UNRESOLVED ID	CRIB	Gene_or_gene_product
+PMC2196001	250	uniprot:UNRESOLVED ID	GTPase-binding domain/Cdc42/Rac interactive binding region	Gene_or_gene_product
+PMC2196001	250	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2196001	250	uniprot:O60760	glutathione S-transferase	Gene_or_gene_product
+PMC2196001	250	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	250	uniprot:O00401	neural Wiskott-Aldrich syndrome protein	Gene_or_gene_product
+PMC2196001	250	uniprot:P01009	PI	Gene_or_gene_product
+PMC2196001	250	uniprot:P33496	SH	Gene_or_gene_product
+PMC2196001	250	uniprot:P12931	Src	Gene_or_gene_product
+PMC2196001	250	uniprot:UNRESOLVED ID	VCA	Gene_or_gene_product
+PMC2196001	250	uniprot:UNRESOLVED ID	verplorin homology	Gene_or_gene_product
+PMC2196001	250	uniprot:UNRESOLVED ID	WAVE	Gene_or_gene_product
+PMC2196001	250	uniprot:P42768	WASP	Gene_or_gene_product
+PMC2196001	250	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	250	uniprot:UNRESOLVED ID	SH3 protein	Gene_or_gene_product
+PMC2196001	251	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	251	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	252	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	256	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	257	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	258	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	258	uniprot:Q2G0B1	rat	Species
+PMC2196001	258	uazid:UA-CT-200001	brain	Organ
+PMC2196001	259	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	260	uazid:UA-CT-200001	brain	Organ
+PMC2196001	261	uazid:UA-CT-200001	brain	Organ
+PMC2196001	261	uniprot:UNRESOLVED ID	anti-WISH antibody	Gene_or_gene_product
+PMC2196001	261	uniprot:UNRESOLVED ID	anti-N-WASP antibody	Gene_or_gene_product
+PMC2196001	261	uniprot:UNRESOLVED ID	GST-CA protein	Gene_or_gene_product
+PMC2196001	261	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	261	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	261	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	265	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	265	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	265	uniprot:UNRESOLVED ID	Fyn SH3	Gene_or_gene_product
+PMC2196001	267	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	268	uniprot:UNRESOLVED ID	NW dep	Gene_or_gene_product
+PMC2196001	269	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	273	uniprot:UNRESOLVED ID	MOCK	Gene_or_gene_product
+PMC2196001	273	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	273	uniprot:UNRESOLVED ID	Fyn SH3	Gene_or_gene_product
+PMC2196001	274	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	274	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	274	uniprot:UNRESOLVED ID	Fyn SH3	Gene_or_gene_product
+PMC2196001	274	uazid:UA-CT-200001	brain	Organ
+PMC2196001	275	uniprot:Q8L649	Bb	Gene_or_gene_product
+PMC2196001	278	uniprot:P46060	SD	Gene_or_gene_product
+PMC2196001	280	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	281	uniprot:UNRESOLVED ID	MOCK	Gene_or_gene_product
+PMC2196001	281	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	281	ncbitax:species:ncbi:41568	muM	Species
+PMC2196001	281	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	281	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	282	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	282	ncbitax:species:ncbi:41568	muM	Species
+PMC2196001	282	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	283	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	283	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	283	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	283	uniprot:O60218	Arp	Gene_or_gene_product
+PMC2196001	284	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	285	uniprot:P0CAS1	Cb	Gene_or_gene_product
+PMC2196001	288	uniprot:P46060	SD	Gene_or_gene_product
+PMC2196001	289	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	290	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	291	uniprot:UNRESOLVED ID	MOCK	Gene_or_gene_product
+PMC2196001	291	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	292	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	293	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	294	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	294	uniprot:P48357	Db	Gene_or_gene_product
+PMC2196001	297	uniprot:P46060	SD	Gene_or_gene_product
+PMC2196001	298	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	299	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	299	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	300	uniprot:UNRESOLVED ID	MOCK	Gene_or_gene_product
+PMC2196001	300	uniprot:UNRESOLVED ID	NW dep	Gene_or_gene_product
+PMC2196001	301	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	301	uniprot:UNRESOLVED ID	NW dep	Gene_or_gene_product
+PMC2196001	302	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	302	ncbitax:species:ncbi:41568	muM	Species
+PMC2196001	302	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	302	uniprot:UNRESOLVED ID	NW dep	Gene_or_gene_product
+PMC2196001	303	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	303	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	303	uniprot:UNRESOLVED ID	NW dep	Gene_or_gene_product
+PMC2196001	304	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	304	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	304	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	304	uniprot:UNRESOLVED ID	NW dep	Gene_or_gene_product
+PMC2196001	305	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	305	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	306	uniprot:P49344	Ea	Gene_or_gene_product
+PMC2196001	306	uniprot:P23895	Eb	Gene_or_gene_product
+PMC2196001	309	uniprot:P46060	SD	Gene_or_gene_product
+PMC2196001	311	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	312	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	313	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	314	uniprot:UNRESOLVED ID	anti-WISH antibody	Gene_or_gene_product
+PMC2196001	315	uniprot:Q2G0B1	rat	Species
+PMC2196001	316	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	317	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	317	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	317	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	318	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	318	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	318	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	319	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2196001	319	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	319	uniprot:UNRESOLVED ID	Myc-WISH	Gene_or_gene_product
+PMC2196001	320	uniprot:UNRESOLVED ID	Anti-Myc	Gene_or_gene_product
+PMC2196001	320	uniprot:UNRESOLVED ID	anti-Myc antibody	Gene_or_gene_product
+PMC2196001	320	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	321	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	321	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	321	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	322	uniprot:UNRESOLVED ID	serum	CellType
+PMC2196001	322	uniprot:UNRESOLVED ID	anti-WISH antibody	Gene_or_gene_product
+PMC2196001	322	uniprot:UNRESOLVED ID	alpha-WISH	Gene_or_gene_product
+PMC2196001	323	uniprot:UNRESOLVED ID	anti-WISH antibody	Gene_or_gene_product
+PMC2196001	323	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	324	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	324	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	324	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	325	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	326	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2196001	326	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	326	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	326	uniprot:UNRESOLVED ID	GST-AshN	Gene_or_gene_product
+PMC2196001	326	uniprot:UNRESOLVED ID	GST-AshC	Gene_or_gene_product
+PMC2196001	328	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	328	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	329	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	330	uniprot:UNRESOLVED ID	anti-WISH antibody	Gene_or_gene_product
+PMC2196001	330	uniprot:UNRESOLVED ID	alpha-WISH	Gene_or_gene_product
+PMC2196001	330	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2196001	330	uniprot:UNRESOLVED ID	serum	CellType
+PMC2196001	332	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	334	uniprot:UNRESOLVED ID	anti-WISH antibody	Gene_or_gene_product
+PMC2196001	334	uniprot:UNRESOLVED ID	anti-Sos antibody	Gene_or_gene_product
+PMC2196001	334	uniprot:UNRESOLVED ID	anti-c-Cbl antibody	Gene_or_gene_product
+PMC2196001	334	uniprot:UNRESOLVED ID	antisynaptojanin antibody	Gene_or_gene_product
+PMC2196001	334	uniprot:UNRESOLVED ID	alpha-S.J.	Gene_or_gene_product
+PMC2196001	334	uniprot:UNRESOLVED ID	anti-WAVE antibody	Gene_or_gene_product
+PMC2196001	334	uniprot:UNRESOLVED ID	anti-N-WASP antibody	Gene_or_gene_product
+PMC2196001	335	uniprot:UNRESOLVED ID	WISH GST	Gene_or_gene_product
+PMC2196001	335	uniprot:UNRESOLVED ID	SH3	Gene_or_gene_product
+PMC2196001	335	uniprot:P29150	Pro	Gene_or_gene_product
+PMC2196001	336	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	336	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	337	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2196001	337	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	338	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	339	uniprot:UNRESOLVED ID	anti-N-WASP antibody	Gene_or_gene_product
+PMC2196001	340	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	340	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	341	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2196001	341	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	341	uniprot:UNRESOLVED ID	GST-NW-Pro	Gene_or_gene_product
+PMC2196001	341	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	341	uniprot:UNRESOLVED ID	His-WISH-SH3	Gene_or_gene_product
+PMC2196001	343	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	343	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	346	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	346	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	347	ncbitax:species:ncbi:41568	muM	Species
+PMC2196001	347	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	347	uniprot:UNRESOLVED ID	VCA	Gene_or_gene_product
+PMC2196001	347	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	347	uniprot:UNRESOLVED ID	NW	Gene_or_gene_product
+PMC2196001	347	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	347	uniprot:UNRESOLVED ID	NW+Cdc42	Gene_or_gene_product
+PMC2196001	347	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	347	uniprot:UNRESOLVED ID	NW+WISH	Gene_or_gene_product
+PMC2196001	347	uniprot:UNRESOLVED ID	NW+WISH+Cdc42	Gene_or_gene_product
+PMC2196001	350	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	351	ncbitax:species:ncbi:41568	muM	Species
+PMC2196001	351	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	351	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	351	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	351	uniprot:P02686	myelin basic protein	Gene_or_gene_product
+PMC2196001	351	uniprot:P02686	MBP	Gene_or_gene_product
+PMC2196001	351	uniprot:UNRESOLVED ID	SH3	Gene_or_gene_product
+PMC2196001	351	uniprot:P16333	Nck	Gene_or_gene_product
+PMC2196001	351	uniprot:UNRESOLVED ID	AshN	Gene_or_gene_product
+PMC2196001	351	uniprot:P01009	PI	Gene_or_gene_product
+PMC2196001	351	uniprot:O43439	p85	Gene_or_gene_product
+PMC2196001	351	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2196001	351	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2196001	351	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC2196001	351	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	351	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	351	uniprot:UNRESOLVED ID	NW	Gene_or_gene_product
+PMC2196001	354	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	354	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	354	uniprot:UNRESOLVED ID	SH3	Gene_or_gene_product
+PMC2196001	354	uniprot:P62993	Ash	Gene_or_gene_product
+PMC2196001	354	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2196001	354	uniprot:UNRESOLVED ID	AshN	Gene_or_gene_product
+PMC2196001	354	uniprot:UNRESOLVED ID	Fyn SH3	Gene_or_gene_product
+PMC2196001	354	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC2196001	354	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	354	ncbitax:species:ncbi:41568	muM	Species
+PMC2196001	354	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	354	uniprot:UNRESOLVED ID	NW	Gene_or_gene_product
+PMC2196001	357	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	358	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	358	uniprot:UNRESOLVED ID	Myc-WISH	Gene_or_gene_product
+PMC2196001	359	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2196001	359	uniprot:UNRESOLVED ID	anti-N-WASP	Gene_or_gene_product
+PMC2196001	359	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	359	uniprot:UNRESOLVED ID	anti-Myc	Gene_or_gene_product
+PMC2196001	359	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	359	uniprot:UNRESOLVED ID	rhodamine-phalloidin	Gene_or_gene_product
+PMC2196001	360	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	360	uniprot:UNRESOLVED ID	Myc-WISH	Gene_or_gene_product
+PMC2196001	361	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2196001	361	uniprot:UNRESOLVED ID	anti-N-WASP	Gene_or_gene_product
+PMC2196001	361	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	361	uniprot:UNRESOLVED ID	anti-Myc	Gene_or_gene_product
+PMC2196001	361	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	361	uniprot:UNRESOLVED ID	rhodamine-phalloidin	Gene_or_gene_product
+PMC2196001	362	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	362	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	362	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2196001	363	uniprot:P42768	WASP	Gene_or_gene_product
+PMC2196001	363	uniprot:UNRESOLVED ID	Myc-WISH	Gene_or_gene_product
+PMC2196001	364	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2196001	364	uniprot:UNRESOLVED ID	anti-N-WASP	Gene_or_gene_product
+PMC2196001	364	uniprot:UNRESOLVED ID	anti-Myc	Gene_or_gene_product
+PMC2196001	364	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	364	uniprot:UNRESOLVED ID	rhodamine-phalloidin	Gene_or_gene_product
+PMC2196001	366	uniprot:O00401	N-WASP	Gene_or_gene_product
+PMC2196001	366	uniprot:UNRESOLVED ID	GST-WISH proteins	Gene_or_gene_product
+PMC2196001	370	uniprot:UNRESOLVED ID	serum	CellType
+PMC2196001	370	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2196001	372	uniprot:P46060	SD	Gene_or_gene_product
+PMC2196001	374	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	374	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	375	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	376	uniprot:Q9NZQ3	WISH	Gene_or_gene_product
+PMC2196001	376	uniprot:P61160	Arp2	Gene_or_gene_product
+PMC2196001	377	uniprot:P60953	Cdc42	Gene_or_gene_product

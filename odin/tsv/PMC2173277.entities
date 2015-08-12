@@ -1,0 +1,883 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2173277	0	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	1	uniprot:UNRESOLVED ID	Integrins	Gene_or_gene_product
+PMC2173277	1	uniprot:UNRESOLVED ID	MMPs	Gene_or_gene_product
+PMC2173277	3	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	3	uniprot:UNRESOLVED ID	RGD	Gene_or_gene_product
+PMC2173277	3	uniprot:UNRESOLVED ID	integrins	Gene_or_gene_product
+PMC2173277	3	uniprot:O00585	SLC	Gene_or_gene_product
+PMC2173277	4	uniprot:O00585	SLC	Gene_or_gene_product
+PMC2173277	4	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	5	uniprot:Q9BT22	MT1	Gene_or_gene_product
+PMC2173277	9	uazid:UA-ORG-77	balance	Organ
+PMC2173277	12	uniprot:O89094	mice	Species
+PMC2173277	13	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	13	uniprot:P01137	latency-associated peptide	Gene_or_gene_product
+PMC2173277	13	uniprot:P01137	LAP	Gene_or_gene_product
+PMC2173277	16	uniprot:UNRESOLVED ID	thrombospondin	Gene_or_gene_product
+PMC2173277	16	uniprot:P07996	TSP	Gene_or_gene_product
+PMC2173277	16	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	17	uniprot:P14780	MMP-9	Gene_or_gene_product
+PMC2173277	17	uniprot:P16070	CD44	Gene_or_gene_product
+PMC2173277	17	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	17	uniprot:UNRESOLVED ID	LAP-beta2	Gene_or_gene_product
+PMC2173277	18	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	19	uniprot:O89094	mice	Species
+PMC2173277	19	uniprot:P07996	TSP-1	Gene_or_gene_product
+PMC2173277	19	uniprot:P00747	plasminogen	Gene_or_gene_product
+PMC2173277	19	uniprot:P16070	CD44	Gene_or_gene_product
+PMC2173277	19	uniprot:UNRESOLVED ID	alphavbeta6	Gene_or_gene_product
+PMC2173277	19	uniprot:UNRESOLVED ID	TGF-beta1-null	Gene_or_gene_product
+PMC2173277	20	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	20	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	20	uniprot:UNRESOLVED ID	integrins	Gene_or_gene_product
+PMC2173277	20	uniprot:UNRESOLVED ID	alphav integrin	Gene_or_gene_product
+PMC2173277	21	uniprot:UNRESOLVED ID	alphav integrins	Gene_or_gene_product
+PMC2173277	21	uniprot:UNRESOLVED ID	alphavbeta1	Gene_or_gene_product
+PMC2173277	21	uniprot:UNRESOLVED ID	alphavbeta5	Gene_or_gene_product
+PMC2173277	21	uniprot:UNRESOLVED ID	alphavbeta6	Gene_or_gene_product
+PMC2173277	21	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	22	uniprot:UNRESOLVED ID	alphavbeta6	Gene_or_gene_product
+PMC2173277	22	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	23	uniprot:UNRESOLVED ID	alphav integrins	Gene_or_gene_product
+PMC2173277	23	uniprot:UNRESOLVED ID	alphavbeta3	Gene_or_gene_product
+PMC2173277	23	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	23	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	23	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	25	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	25	ncbitax:species:ncbi:9606	human	Species
+PMC2173277	25	uniprot:UNRESOLVED ID	airway epithelium	CellType
+PMC2173277	26	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	26	uazid:UA-ORG-537	lung	Organ
+PMC2173277	26	uniprot:UNRESOLVED ID	carcinoma	CellType
+PMC2173277	27	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	27	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	27	ncbitax:species:ncbi:9606	human	Species
+PMC2173277	28	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	29	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	29	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	29	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	30	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	30	uniprot:UNRESOLVED ID	integrins	Gene_or_gene_product
+PMC2173277	31	uazid:UA-ORG-537	lung	Organ
+PMC2173277	31	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	31	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	33	uniprot:UNRESOLVED ID	RGD site	Gene_or_gene_product
+PMC2173277	33	uniprot:UNRESOLVED ID	recombinant LAP-beta1	Gene_or_gene_product
+PMC2173277	34	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	34	uniprot:UNRESOLVED ID	RGD-containing LAP-beta1	Gene_or_gene_product
+PMC2173277	34	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	35	uniprot:UNRESOLVED ID	alphav	Gene_or_gene_product
+PMC2173277	35	uniprot:UNRESOLVED ID	beta8 subunits	Gene_or_gene_product
+PMC2173277	35	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	36	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	36	uniprot:UNRESOLVED ID	RGE	Gene_or_gene_product
+PMC2173277	36	uniprot:UNRESOLVED ID	RGD	Gene_or_gene_product
+PMC2173277	36	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	37	uniprot:UNRESOLVED ID	alphav	Gene_or_gene_product
+PMC2173277	37	uniprot:UNRESOLVED ID	beta8 subunits	Gene_or_gene_product
+PMC2173277	38	uniprot:UNRESOLVED ID	Anti-beta8 antibodies	Gene_or_gene_product
+PMC2173277	39	uniprot:UNRESOLVED ID	RGD binding integrins	Gene_or_gene_product
+PMC2173277	39	uniprot:UNRESOLVED ID	alphavbeta5	Gene_or_gene_product
+PMC2173277	39	uniprot:UNRESOLVED ID	alpha5beta1	Gene_or_gene_product
+PMC2173277	40	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	40	uniprot:P04004	vitronectin	Gene_or_gene_product
+PMC2173277	40	uniprot:P04004	VN	Gene_or_gene_product
+PMC2173277	40	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	40	uniprot:UNRESOLVED ID	AP-alphavbeta8	Gene_or_gene_product
+PMC2173277	41	uniprot:UNRESOLVED ID	AP-alphavbeta8	Gene_or_gene_product
+PMC2173277	41	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	42	uniprot:UNRESOLVED ID	truncated alphav	Gene_or_gene_product
+PMC2173277	42	uniprot:UNRESOLVED ID	beta8-AP	Gene_or_gene_product
+PMC2173277	42	uniprot:UNRESOLVED ID	RGD peptide	Gene_or_gene_product
+PMC2173277	43	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	44	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	44	uniprot:P04004	VN	Gene_or_gene_product
+PMC2173277	45	uniprot:UNRESOLVED ID	AP-alphavbeta8	Gene_or_gene_product
+PMC2173277	45	uniprot:P01137	LAP	Gene_or_gene_product
+PMC2173277	46	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	46	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	47	uniprot:UNRESOLVED ID	AP-alphavbeta8	Gene_or_gene_product
+PMC2173277	48	uniprot:UNRESOLVED ID	AP-alphavbeta8	Gene_or_gene_product
+PMC2173277	48	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	49	uniprot:UNRESOLVED ID	AP-alphavbeta8	Gene_or_gene_product
+PMC2173277	49	uniprot:UNRESOLVED ID	secreted alphav integrins	Gene_or_gene_product
+PMC2173277	50	uniprot:UNRESOLVED ID	AP-alphavbeta8	Gene_or_gene_product
+PMC2173277	50	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	50	uniprot:P04004	VN	Gene_or_gene_product
+PMC2173277	50	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	51	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	51	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	51	uniprot:UNRESOLVED ID	RGD	Gene_or_gene_product
+PMC2173277	52	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	52	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	53	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	54	uniprot:UNRESOLVED ID	GRGESNK	Gene_or_gene_product
+PMC2173277	54	uniprot:UNRESOLVED ID	GRGDSNK	Gene_or_gene_product
+PMC2173277	57	uniprot:UNRESOLVED ID	alphav	Gene_or_gene_product
+PMC2173277	57	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	59	uniprot:UNRESOLVED ID	35S	Gene_or_gene_product
+PMC2173277	59	uniprot:UNRESOLVED ID	alphavbeta8-AP	Gene_or_gene_product
+PMC2173277	59	uniprot:UNRESOLVED ID	GRGDSPK	Gene_or_gene_product
+PMC2173277	60	uniprot:UNRESOLVED ID	truncated alphav	Gene_or_gene_product
+PMC2173277	60	uniprot:UNRESOLVED ID	truncated beta8-AP	Gene_or_gene_product
+PMC2173277	62	uniprot:UNRESOLVED ID	AP-alphavbeta8	Gene_or_gene_product
+PMC2173277	62	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	62	uniprot:UNRESOLVED ID	RGE binding motif	Gene_or_gene_product
+PMC2173277	62	uniprot:P04004	VN	Gene_or_gene_product
+PMC2173277	64	uniprot:P01137	LAP	Gene_or_gene_product
+PMC2173277	64	uniprot:UNRESOLVED ID	RGD	Gene_or_gene_product
+PMC2173277	64	uniprot:UNRESOLVED ID	RGE	Gene_or_gene_product
+PMC2173277	65	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	65	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	65	uniprot:UNRESOLVED ID	1fM LAP-beta1/bead	Gene_or_gene_product
+PMC2173277	66	uniprot:UNRESOLVED ID	Receptor	Gene_or_gene_product
+PMC2173277	67	uniprot:UNRESOLVED ID	AP-beta8	Gene_or_gene_product
+PMC2173277	68	uniprot:UNRESOLVED ID	Bound receptor	Gene_or_gene_product
+PMC2173277	69	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	69	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	69	uniprot:P01137	LAP	Gene_or_gene_product
+PMC2173277	69	uniprot:O00585	SLC	Gene_or_gene_product
+PMC2173277	73	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	73	uniprot:O00585	SLC	Gene_or_gene_product
+PMC2173277	73	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	74	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	74	uniprot:O00585	SLC	Gene_or_gene_product
+PMC2173277	74	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	75	uniprot:O00585	SLC	Gene_or_gene_product
+PMC2173277	75	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	76	uniprot:UNRESOLVED ID	TGF-beta1 peptide	Gene_or_gene_product
+PMC2173277	76	uniprot:O00585	SLC	Gene_or_gene_product
+PMC2173277	76	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	77	uniprot:O00585	SLC	Gene_or_gene_product
+PMC2173277	77	uniprot:P04004	VN	Gene_or_gene_product
+PMC2173277	78	uniprot:O00585	SLC	Gene_or_gene_product
+PMC2173277	79	uniprot:UNRESOLVED ID	LAP-alphavbeta8	Gene_or_gene_product
+PMC2173277	79	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	79	uniprot:O00585	SLC	Gene_or_gene_product
+PMC2173277	80	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	81	uniprot:UNRESOLVED ID	TMLC	Gene_or_gene_product
+PMC2173277	82	uniprot:Q8N4C8	mink	Species
+PMC2173277	82	uazid:UA-ORG-537	lung	Organ
+PMC2173277	82	uniprot:P00747	plasminogen	Gene_or_gene_product
+PMC2173277	82	uniprot:UNRESOLVED ID	luciferase gene	Gene_or_gene_product
+PMC2173277	85	uniprot:O75794	HT1080	Gene_or_gene_product
+PMC2173277	85	uniprot:UNRESOLVED ID	SW480	Gene_or_gene_product
+PMC2173277	85	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	85	uniprot:UNRESOLVED ID	RGD motif	Gene_or_gene_product
+PMC2173277	86	uniprot:Q2VPB7	beta5	Gene_or_gene_product
+PMC2173277	86	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	87	uniprot:UNRESOLVED ID	alphavbeta5-	Gene_or_gene_product
+PMC2173277	87	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	87	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	88	uniprot:O00585	SLC	Gene_or_gene_product
+PMC2173277	93	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	93	uniprot:O75794	HT1080	Gene_or_gene_product
+PMC2173277	93	uniprot:UNRESOLVED ID	SW480	Gene_or_gene_product
+PMC2173277	94	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	95	uniprot:UNRESOLVED ID	SW480	Gene_or_gene_product
+PMC2173277	95	uniprot:O75794	HT1080	Gene_or_gene_product
+PMC2173277	96	uniprot:UNRESOLVED ID	alphavbeta6	Gene_or_gene_product
+PMC2173277	97	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	97	uniprot:UNRESOLVED ID	beta6 antibodies	Gene_or_gene_product
+PMC2173277	98	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	98	uniprot:UNRESOLVED ID	beta6	Gene_or_gene_product
+PMC2173277	99	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	99	uniprot:UNRESOLVED ID	TGF-beta1 isoform-specific antibodies	Gene_or_gene_product
+PMC2173277	99	uniprot:UNRESOLVED ID	SW480	Gene_or_gene_product
+PMC2173277	99	uniprot:O75794	HT1080	Gene_or_gene_product
+PMC2173277	99	uniprot:UNRESOLVED ID	MvLu	Gene_or_gene_product
+PMC2173277	99	uniprot:P61812	TGF-beta2	Gene_or_gene_product
+PMC2173277	99	uniprot:UNRESOLVED ID	TGF-beta3 isoform-specific antibodies	Gene_or_gene_product
+PMC2173277	100	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	101	uniprot:O75794	HT1080	Gene_or_gene_product
+PMC2173277	101	uniprot:UNRESOLVED ID	MvLu	Gene_or_gene_product
+PMC2173277	101	uniprot:UNRESOLVED ID	SW480	Gene_or_gene_product
+PMC2173277	101	uniprot:UNRESOLVED ID	TMLC	Gene_or_gene_product
+PMC2173277	101	uniprot:UNRESOLVED ID	anti-beta8 antibody	Gene_or_gene_product
+PMC2173277	101	uniprot:UNRESOLVED ID	37E1	Gene_or_gene_product
+PMC2173277	101	uniprot:UNRESOLVED ID	pan-TGF-beta neutralizing antibody	Gene_or_gene_product
+PMC2173277	101	uniprot:UNRESOLVED ID	1D11	Gene_or_gene_product
+PMC2173277	102	uniprot:UNRESOLVED ID	luciferase units	Gene_or_gene_product
+PMC2173277	103	uniprot:Q26304	luciferase	Gene_or_gene_product
+PMC2173277	103	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	105	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	106	uniprot:O00585	SLC	Gene_or_gene_product
+PMC2173277	107	uniprot:UNRESOLVED ID	alphavbeta6	Gene_or_gene_product
+PMC2173277	107	uniprot:UNRESOLVED ID	beta6 cytoplasmic domain	Gene_or_gene_product
+PMC2173277	108	uniprot:UNRESOLVED ID	beta8 cytoplasmic domain	Gene_or_gene_product
+PMC2173277	108	uniprot:UNRESOLVED ID	beta6	Gene_or_gene_product
+PMC2173277	109	uniprot:UNRESOLVED ID	beta8 cytoplasmic domain	Gene_or_gene_product
+PMC2173277	110	uniprot:UNRESOLVED ID	beta8 cytoplasmic domain	Gene_or_gene_product
+PMC2173277	110	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	111	uniprot:UNRESOLVED ID	beta8 cytoplasmic deletion mutants	Gene_or_gene_product
+PMC2173277	111	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	112	uniprot:O42043	TM	Gene_or_gene_product
+PMC2173277	112	uniprot:O04064	FL	Gene_or_gene_product
+PMC2173277	113	uniprot:O42043	TM	Gene_or_gene_product
+PMC2173277	113	uniprot:UNRESOLVED ID	alphav subunit	Gene_or_gene_product
+PMC2173277	114	uniprot:O42043	TM	Gene_or_gene_product
+PMC2173277	114	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	115	uniprot:UNRESOLVED ID	beta6	Gene_or_gene_product
+PMC2173277	115	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	115	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	116	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	118	uniprot:UNRESOLVED ID	full-length beta8	Gene_or_gene_product
+PMC2173277	118	uniprot:O04064	FL	Gene_or_gene_product
+PMC2173277	118	uniprot:UNRESOLVED ID	complete beta8 cytoplasmic domain	Gene_or_gene_product
+PMC2173277	118	uniprot:O42043	TM	Gene_or_gene_product
+PMC2173277	119	uniprot:O42043	TM	Gene_or_gene_product
+PMC2173277	119	uniprot:UNRESOLVED ID	anti-beta8 monoclonal antibody	Gene_or_gene_product
+PMC2173277	119	uniprot:UNRESOLVED ID	37E1	Gene_or_gene_product
+PMC2173277	120	uniprot:UNRESOLVED ID	alphav subunit	Gene_or_gene_product
+PMC2173277	120	uniprot:O42043	TM	Gene_or_gene_product
+PMC2173277	122	uniprot:UNRESOLVED ID	37E1	Gene_or_gene_product
+PMC2173277	123	uniprot:O42043	TM	Gene_or_gene_product
+PMC2173277	124	uniprot:O42043	TM	Gene_or_gene_product
+PMC2173277	125	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	125	uniprot:O42043	TM	Gene_or_gene_product
+PMC2173277	125	uniprot:UNRESOLVED ID	beta8 cytoplasmic domain	Gene_or_gene_product
+PMC2173277	126	uniprot:P9WQ36	FACS	Gene_or_gene_product
+PMC2173277	126	uniprot:O42043	TM	Gene_or_gene_product
+PMC2173277	126	uniprot:O04064	FL	Gene_or_gene_product
+PMC2173277	127	uniprot:O42043	TM	Gene_or_gene_product
+PMC2173277	129	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	129	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	130	uniprot:O42043	TM	Gene_or_gene_product
+PMC2173277	130	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	131	uniprot:P31482	e-f	Gene_or_gene_product
+PMC2173277	132	uniprot:UNRESOLVED ID	TMLC	Gene_or_gene_product
+PMC2173277	132	uniprot:UNRESOLVED ID	37E1	Gene_or_gene_product
+PMC2173277	132	uniprot:UNRESOLVED ID	pan anti-TGF-beta	Gene_or_gene_product
+PMC2173277	132	uniprot:UNRESOLVED ID	1D11	Gene_or_gene_product
+PMC2173277	133	uniprot:UNRESOLVED ID	luciferase units	Gene_or_gene_product
+PMC2173277	134	uniprot:Q26304	luciferase	Gene_or_gene_product
+PMC2173277	135	uniprot:O42043	TM	Gene_or_gene_product
+PMC2173277	136	uniprot:O42043	TM	Gene_or_gene_product
+PMC2173277	136	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	136	uniprot:UNRESOLVED ID	FL subunit	Gene_or_gene_product
+PMC2173277	137	uniprot:O42043	TM	Gene_or_gene_product
+PMC2173277	137	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	139	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	139	uniprot:UNRESOLVED ID	alphavbeta8-TGF-beta	Gene_or_gene_product
+PMC2173277	140	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	141	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	142	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	142	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	142	uniprot:UNRESOLVED ID	alphavbeta6	Gene_or_gene_product
+PMC2173277	143	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	143	uniprot:UNRESOLVED ID	metalloprotease	Gene_or_gene_product
+PMC2173277	144	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	144	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	144	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	145	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	146	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	146	uniprot:UNRESOLVED ID	lectin- or antibody-purified receptor	Gene_or_gene_product
+PMC2173277	146	uniprot:UNRESOLVED ID	luciferase units	Gene_or_gene_product
+PMC2173277	147	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	148	uniprot:P10265	protease	Gene_or_gene_product
+PMC2173277	148	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	149	uniprot:UNRESOLVED ID	GM6001	Gene_or_gene_product
+PMC2173277	149	uniprot:P10265	protease	Gene_or_gene_product
+PMC2173277	149	uniprot:UNRESOLVED ID	metalloproteases	Gene_or_gene_product
+PMC2173277	149	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	149	ncbitax:species:ncbi:41568	muM	Species
+PMC2173277	150	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	150	uniprot:UNRESOLVED ID	alphavbeta6	Gene_or_gene_product
+PMC2173277	150	ncbitax:species:ncbi:41568	muM	Species
+PMC2173277	151	uniprot:UNRESOLVED ID	PMSF	Gene_or_gene_product
+PMC2173277	151	uniprot:Q9C075	CK-23	Gene_or_gene_product
+PMC2173277	151	uniprot:P00974	aprotinin	Gene_or_gene_product
+PMC2173277	151	uniprot:UNRESOLVED ID	leupeptin	Gene_or_gene_product
+PMC2173277	151	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	151	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	152	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	152	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	152	uniprot:UNRESOLVED ID	metalloprotease	Gene_or_gene_product
+PMC2173277	153	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	153	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	153	uniprot:UNRESOLVED ID	metalloprotease	Gene_or_gene_product
+PMC2173277	154	uniprot:UNRESOLVED ID	metalloprotease	Gene_or_gene_product
+PMC2173277	154	uniprot:UNRESOLVED ID	alphavbeta6	Gene_or_gene_product
+PMC2173277	155	uniprot:UNRESOLVED ID	GM6001	Gene_or_gene_product
+PMC2173277	155	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	156	uniprot:UNRESOLVED ID	metalloprotease	Gene_or_gene_product
+PMC2173277	157	uniprot:UNRESOLVED ID	PMSF	Gene_or_gene_product
+PMC2173277	157	uniprot:Q9C075	CK-23	Gene_or_gene_product
+PMC2173277	157	uniprot:P00974	aprotinin	Gene_or_gene_product
+PMC2173277	157	uniprot:UNRESOLVED ID	leupeptin	Gene_or_gene_product
+PMC2173277	157	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	158	uniprot:UNRESOLVED ID	beta8-	Gene_or_gene_product
+PMC2173277	158	uniprot:UNRESOLVED ID	beta6	Gene_or_gene_product
+PMC2173277	159	uniprot:UNRESOLVED ID	GM6001	Gene_or_gene_product
+PMC2173277	160	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	161	uniprot:P10265	protease	Gene_or_gene_product
+PMC2173277	161	uniprot:O00585	SLC	Gene_or_gene_product
+PMC2173277	161	uniprot:P01137	LAP	Gene_or_gene_product
+PMC2173277	162	uniprot:UNRESOLVED ID	alphavbeta6	Gene_or_gene_product
+PMC2173277	162	uniprot:UNRESOLVED ID	beta6	Gene_or_gene_product
+PMC2173277	163	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	163	uniprot:UNRESOLVED ID	beta6	Gene_or_gene_product
+PMC2173277	164	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	164	uniprot:UNRESOLVED ID	beta6	Gene_or_gene_product
+PMC2173277	165	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	165	uniprot:UNRESOLVED ID	alphavbeta6	Gene_or_gene_product
+PMC2173277	166	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	166	uniprot:UNRESOLVED ID	beta6	Gene_or_gene_product
+PMC2173277	167	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	167	uniprot:UNRESOLVED ID	anti-TGF-beta antibodies	Gene_or_gene_product
+PMC2173277	169	uniprot:UNRESOLVED ID	beta6	Gene_or_gene_product
+PMC2173277	170	uniprot:UNRESOLVED ID	beta6	Gene_or_gene_product
+PMC2173277	171	uniprot:UNRESOLVED ID	beta6	Gene_or_gene_product
+PMC2173277	172	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	172	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	172	uniprot:UNRESOLVED ID	luciferase units	Gene_or_gene_product
+PMC2173277	173	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	173	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	173	uniprot:O00585	SLC	Gene_or_gene_product
+PMC2173277	173	uniprot:UNRESOLVED ID	metalloprotease	Gene_or_gene_product
+PMC2173277	174	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	175	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	175	uniprot:UNRESOLVED ID	beta6	Gene_or_gene_product
+PMC2173277	175	uniprot:UNRESOLVED ID	14E5	Gene_or_gene_product
+PMC2173277	175	uniprot:UNRESOLVED ID	E7P6	Gene_or_gene_product
+PMC2173277	176	uniprot:UNRESOLVED ID	beta8-	Gene_or_gene_product
+PMC2173277	176	uniprot:UNRESOLVED ID	beta6	Gene_or_gene_product
+PMC2173277	176	uniprot:UNRESOLVED ID	TMLC	Gene_or_gene_product
+PMC2173277	177	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	178	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	178	uniprot:UNRESOLVED ID	beta6	Gene_or_gene_product
+PMC2173277	179	uniprot:UNRESOLVED ID	luciferase units	Gene_or_gene_product
+PMC2173277	180	uniprot:Q26304	luciferase	Gene_or_gene_product
+PMC2173277	180	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	181	uniprot:UNRESOLVED ID	membrane-type 1-MMP	Gene_or_gene_product
+PMC2173277	181	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	182	uazid:UA-ORG-537	lung	Organ
+PMC2173277	182	uniprot:UNRESOLVED ID	carcinoma	CellType
+PMC2173277	182	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	183	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	183	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	183	uniprot:UNRESOLVED ID	luciferase units	Gene_or_gene_product
+PMC2173277	184	uniprot:UNRESOLVED ID	metalloprotease cofactor	Gene_or_gene_product
+PMC2173277	184	uniprot:UNRESOLVED ID	metalloprotease	Gene_or_gene_product
+PMC2173277	185	uniprot:UNRESOLVED ID	metalloprotease	Gene_or_gene_product
+PMC2173277	186	uniprot:UNRESOLVED ID	metalloproteases	Gene_or_gene_product
+PMC2173277	186	uniprot:P08253	MMP-2	Gene_or_gene_product
+PMC2173277	186	uniprot:P09237	MMP-7	Gene_or_gene_product
+PMC2173277	186	uniprot:P14780	MMP-9	Gene_or_gene_product
+PMC2173277	186	ncbitax:species:ncbi:37334	Yu	Species
+PMC2173277	186	uniprot:UNRESOLVED ID	metalloprotease domain	Gene_or_gene_product
+PMC2173277	187	uniprot:O00370	reverse transcriptase	Gene_or_gene_product
+PMC2173277	187	uniprot:P10266	RT	Gene_or_gene_product
+PMC2173277	187	uniprot:UNRESOLVED ID	metalloprotease	Gene_or_gene_product
+PMC2173277	187	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	188	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	189	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	191	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	192	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	192	uniprot:UNRESOLVED ID	pro-MMP-2	Gene_or_gene_product
+PMC2173277	194	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	194	ncbitax:species:ncbi:9606	human	Species
+PMC2173277	194	uazid:UA-ORG-537	lung	Organ
+PMC2173277	194	uniprot:UNRESOLVED ID	carcinoma	CellType
+PMC2173277	195	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	196	uniprot:P60709	beta-actin	Gene_or_gene_product
+PMC2173277	197	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	198	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	198	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2173277	199	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	200	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	201	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	201	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	201	uniprot:UNRESOLVED ID	recombinant pro-MMP-2	Gene_or_gene_product
+PMC2173277	202	uniprot:UNRESOLVED ID	gelatin zymography	Gene_or_gene_product
+PMC2173277	203	uniprot:UNRESOLVED ID	Pro-MMP2	Gene_or_gene_product
+PMC2173277	204	uniprot:P08253	MMP-2	Gene_or_gene_product
+PMC2173277	206	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	206	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	206	uniprot:Q99624	SN1	Gene_or_gene_product
+PMC2173277	207	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	207	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	208	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	208	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	208	uniprot:UNRESOLVED ID	luciferase units	Gene_or_gene_product
+PMC2173277	209	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	209	uniprot:UNRESOLVED ID	metalloproteases	Gene_or_gene_product
+PMC2173277	209	uniprot:UNRESOLVED ID	anti-beta8 antibodies	Gene_or_gene_product
+PMC2173277	209	uniprot:UNRESOLVED ID	37E1	Gene_or_gene_product
+PMC2173277	209	uniprot:P16035	TIMP-2	Gene_or_gene_product
+PMC2173277	209	uniprot:UNRESOLVED ID	GM6001	Gene_or_gene_product
+PMC2173277	210	uniprot:UNRESOLVED ID	37E1	Gene_or_gene_product
+PMC2173277	210	uniprot:P16035	TIMP-2	Gene_or_gene_product
+PMC2173277	210	uniprot:UNRESOLVED ID	GM6001	Gene_or_gene_product
+PMC2173277	210	uniprot:UNRESOLVED ID	pan-TGF-beta antibody	Gene_or_gene_product
+PMC2173277	210	uniprot:UNRESOLVED ID	1D11	Gene_or_gene_product
+PMC2173277	211	uniprot:P16035	TIMP-2	Gene_or_gene_product
+PMC2173277	211	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	211	uniprot:UNRESOLVED ID	37E1	Gene_or_gene_product
+PMC2173277	212	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	212	uniprot:UNRESOLVED ID	anti-beta8 antibodies	Gene_or_gene_product
+PMC2173277	212	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	213	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	213	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	213	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	214	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	214	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	214	uniprot:UNRESOLVED ID	anti-beta8 antibody	Gene_or_gene_product
+PMC2173277	214	uniprot:UNRESOLVED ID	14E5	Gene_or_gene_product
+PMC2173277	216	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	216	uniprot:UNRESOLVED ID	TMLC	Gene_or_gene_product
+PMC2173277	216	uniprot:UNRESOLVED ID	37E1	Gene_or_gene_product
+PMC2173277	216	uniprot:UNRESOLVED ID	GM6001	Gene_or_gene_product
+PMC2173277	216	uniprot:UNRESOLVED ID	pan-TGF-beta1 antibody	Gene_or_gene_product
+PMC2173277	216	uniprot:UNRESOLVED ID	1D11	Gene_or_gene_product
+PMC2173277	218	uniprot:P16035	TIMP-2	Gene_or_gene_product
+PMC2173277	218	uniprot:P01033	TIMP-1	Gene_or_gene_product
+PMC2173277	218	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	219	uniprot:P01033	TIMP-1	Gene_or_gene_product
+PMC2173277	219	uniprot:P16035	TIMP-2	Gene_or_gene_product
+PMC2173277	219	ncbitax:species:ncbi:41568	muM	Species
+PMC2173277	219	uniprot:UNRESOLVED ID	anti-beta8	Gene_or_gene_product
+PMC2173277	219	uniprot:UNRESOLVED ID	37E1	Gene_or_gene_product
+PMC2173277	219	uniprot:UNRESOLVED ID	pan-TGF-beta1	Gene_or_gene_product
+PMC2173277	219	uniprot:UNRESOLVED ID	1D11	Gene_or_gene_product
+PMC2173277	220	uniprot:UNRESOLVED ID	luciferase units	Gene_or_gene_product
+PMC2173277	220	uniprot:Q26304	luciferase	Gene_or_gene_product
+PMC2173277	222	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	222	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	223	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	223	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	224	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	224	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	224	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	225	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	227	uniprot:UNRESOLVED ID	MT1-MMP-GFP	Gene_or_gene_product
+PMC2173277	227	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	228	uniprot:UNRESOLVED ID	Anti-GFP antibodies	Gene_or_gene_product
+PMC2173277	228	uniprot:UNRESOLVED ID	MT1-MMP-GFP	Gene_or_gene_product
+PMC2173277	229	uniprot:UNRESOLVED ID	MT1-MMP-GFP	Gene_or_gene_product
+PMC2173277	229	uniprot:P08253	MMP2	Gene_or_gene_product
+PMC2173277	230	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	230	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	231	uniprot:UNRESOLVED ID	MT1-MMP-GFP	Gene_or_gene_product
+PMC2173277	232	uniprot:UNRESOLVED ID	MT1-MMP-GFP	Gene_or_gene_product
+PMC2173277	232	uniprot:UNRESOLVED ID	anti-GFP antibodies	Gene_or_gene_product
+PMC2173277	235	uniprot:P01011	Act	Gene_or_gene_product
+PMC2173277	236	uniprot:P08253	MMP-2	Gene_or_gene_product
+PMC2173277	238	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	239	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	240	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	241	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	242	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2173277	242	ncbitax:species:ncbi:41568	muM	Species
+PMC2173277	243	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	243	uniprot:UNRESOLVED ID	MT1-MMP-GFP	Gene_or_gene_product
+PMC2173277	244	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	244	uniprot:UNRESOLVED ID	MT1-MMP-GFP	Gene_or_gene_product
+PMC2173277	244	uniprot:UNRESOLVED ID	anti-GFP antibody	Gene_or_gene_product
+PMC2173277	245	uniprot:UNRESOLVED ID	alphav subunit	Gene_or_gene_product
+PMC2173277	245	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	246	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	246	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	247	uniprot:UNRESOLVED ID	MT1-MMP-GFP	Gene_or_gene_product
+PMC2173277	247	uniprot:UNRESOLVED ID	anti-GFP antibodies	Gene_or_gene_product
+PMC2173277	247	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	248	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	248	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	249	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	249	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	249	uniprot:UNRESOLVED ID	MT1-MMP-GFP	Gene_or_gene_product
+PMC2173277	249	uniprot:UNRESOLVED ID	collagen I	Gene_or_gene_product
+PMC2173277	250	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	250	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	250	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	251	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	251	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	252	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	252	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	252	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	252	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	253	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	254	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	255	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	255	uniprot:UNRESOLVED ID	metalloprotease	Gene_or_gene_product
+PMC2173277	255	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	255	uniprot:UNRESOLVED ID	GM6001	Gene_or_gene_product
+PMC2173277	256	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	256	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	256	ncbitax:species:ncbi:9606	human	Species
+PMC2173277	256	uniprot:UNRESOLVED ID	alphavbeta8-LAP-beta1	Gene_or_gene_product
+PMC2173277	257	uniprot:UNRESOLVED ID	alphavbeta8-LAP-beta1	Gene_or_gene_product
+PMC2173277	257	uniprot:UNRESOLVED ID	RGD-dependent integrins	Gene_or_gene_product
+PMC2173277	257	uniprot:P04004	VN	Gene_or_gene_product
+PMC2173277	257	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2173277	258	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	258	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	258	uniprot:UNRESOLVED ID	GRRGDLATIH	Gene_or_gene_product
+PMC2173277	258	uniprot:UNRESOLVED ID	RGE mutant peptide	Gene_or_gene_product
+PMC2173277	259	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	259	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	260	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	260	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	260	uniprot:UNRESOLVED ID	recombinant mature TGF-beta1 peptide	Gene_or_gene_product
+PMC2173277	261	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	261	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	262	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	262	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	262	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	263	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	263	uniprot:UNRESOLVED ID	mock-transduced beta8	Gene_or_gene_product
+PMC2173277	263	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	263	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	264	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	265	uniprot:UNRESOLVED ID	anti-LAP antibody	Gene_or_gene_product
+PMC2173277	265	uniprot:O95696	BRL	Gene_or_gene_product
+PMC2173277	266	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	266	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	266	uniprot:UNRESOLVED ID	GM6001	Gene_or_gene_product
+PMC2173277	267	uniprot:UNRESOLVED ID	TGF-beta1 peptide GRRGDLATIH	Gene_or_gene_product
+PMC2173277	267	uniprot:UNRESOLVED ID	alphavbeta8-LAP-beta1	Gene_or_gene_product
+PMC2173277	268	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	268	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	268	uniprot:P04004	VN	Gene_or_gene_product
+PMC2173277	268	uniprot:P02751	fibronectin	Gene_or_gene_product
+PMC2173277	268	uniprot:P02751	FN	Gene_or_gene_product
+PMC2173277	268	uniprot:UNRESOLVED ID	GRRGDLATIH	Gene_or_gene_product
+PMC2173277	269	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	269	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	269	uniprot:UNRESOLVED ID	GRRGDLATIH	Gene_or_gene_product
+PMC2173277	269	uniprot:UNRESOLVED ID	GRRGELATIH peptide	Gene_or_gene_product
+PMC2173277	270	uniprot:UNRESOLVED ID	control GRRGELATIH peptide	Gene_or_gene_product
+PMC2173277	270	uniprot:UNRESOLVED ID	GRRGDLATIH peptide	Gene_or_gene_product
+PMC2173277	271	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	272	uniprot:UNRESOLVED ID	TMLC	Gene_or_gene_product
+PMC2173277	272	uniprot:UNRESOLVED ID	recombinant TGF-beta1	Gene_or_gene_product
+PMC2173277	273	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	274	uniprot:UNRESOLVED ID	luciferase units	Gene_or_gene_product
+PMC2173277	275	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	276	ncbitax:species:ncbi:9606	human	Species
+PMC2173277	276	uazid:UA-ORG-537	lung	Organ
+PMC2173277	277	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	277	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	277	uazid:UA-ORG-537	lung	Organ
+PMC2173277	277	uniprot:UNRESOLVED ID	carcinoma	CellType
+PMC2173277	278	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	278	ncbitax:species:ncbi:9606	human	Species
+PMC2173277	279	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	281	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	283	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	284	uniprot:UNRESOLVED ID	recombinant LAP-beta1	Gene_or_gene_product
+PMC2173277	284	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	284	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	285	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	286	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	286	uazid:UA-ORG-537	lung	Organ
+PMC2173277	287	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	288	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	289	ncbitax:species:ncbi:10090	nude mice	Species
+PMC2173277	290	uniprot:UNRESOLVED ID	collagen	Gene_or_gene_product
+PMC2173277	291	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2173277	291	ncbitax:species:ncbi:41568	mum	Species
+PMC2173277	292	uniprot:O00585	SLC	Gene_or_gene_product
+PMC2173277	292	uazid:UA-ORG-537	lung	Organ
+PMC2173277	293	uniprot:UNRESOLVED ID	luciferase units	Gene_or_gene_product
+PMC2173277	294	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	295	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	295	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	295	ncbitax:species:ncbi:10090	nude mice	Species
+PMC2173277	296	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	297	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	298	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	299	uniprot:UNRESOLVED ID	TMLC	Gene_or_gene_product
+PMC2173277	299	uniprot:O00585	SLC	Gene_or_gene_product
+PMC2173277	300	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	301	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	303	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	305	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	307	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	308	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	308	uniprot:O00585	SLC	Gene_or_gene_product
+PMC2173277	308	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	309	uniprot:P07996	TSP-1	Gene_or_gene_product
+PMC2173277	309	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	309	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	310	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	310	uniprot:O00585	SLC	Gene_or_gene_product
+PMC2173277	310	uniprot:UNRESOLVED ID	alphavbeta6	Gene_or_gene_product
+PMC2173277	310	uniprot:UNRESOLVED ID	beta6-cytoplasmic domain	Gene_or_gene_product
+PMC2173277	311	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	311	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	311	uniprot:UNRESOLVED ID	TSP-1 binding site	Gene_or_gene_product
+PMC2173277	311	uniprot:P07996	TSP-1	Gene_or_gene_product
+PMC2173277	312	uniprot:UNRESOLVED ID	TSP-1                         secreted alphavbeta8	Gene_or_gene_product
+PMC2173277	312	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	313	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	313	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	313	uniprot:UNRESOLVED ID	beta6 cytoplasmic domain	Gene_or_gene_product
+PMC2173277	313	uniprot:P07996	TSP-1	Gene_or_gene_product
+PMC2173277	314	uniprot:O00585	SLC	Gene_or_gene_product
+PMC2173277	314	uniprot:UNRESOLVED ID	metalloprotease	Gene_or_gene_product
+PMC2173277	315	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	315	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	315	uniprot:UNRESOLVED ID	TGF-beta receptors	Gene_or_gene_product
+PMC2173277	315	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	315	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	315	uazid:UA-ORG-537	lung	Organ
+PMC2173277	315	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	315	uniprot:UNRESOLVED ID	beta8-specific RGD	Gene_or_gene_product
+PMC2173277	315	uniprot:UNRESOLVED ID	metalloprotease	Gene_or_gene_product
+PMC2173277	316	uniprot:P14780	MMP-9	Gene_or_gene_product
+PMC2173277	316	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	316	uniprot:P61812	TGF-beta2	Gene_or_gene_product
+PMC2173277	316	uniprot:P01137	LAP	Gene_or_gene_product
+PMC2173277	317	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	317	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	318	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	318	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	318	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	318	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	319	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	319	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	320	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	320	uniprot:UNRESOLVED ID	alphavbeta8-TGF-beta1	Gene_or_gene_product
+PMC2173277	321	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	321	uniprot:O00585	SLC	Gene_or_gene_product
+PMC2173277	321	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	322	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	322	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	323	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	323	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	323	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	324	uniprot:UNRESOLVED ID	MT1-MMP-beta8	Gene_or_gene_product
+PMC2173277	325	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	325	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	325	uniprot:UNRESOLVED ID	alphavbeta8-SLC	Gene_or_gene_product
+PMC2173277	326	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	326	uniprot:UNRESOLVED ID	alphavbeta8-TGF-beta complexes	Gene_or_gene_product
+PMC2173277	327	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	327	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	327	uniprot:UNRESOLVED ID	metalloproteases	Gene_or_gene_product
+PMC2173277	328	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	328	uniprot:P16035	TIMP-2	Gene_or_gene_product
+PMC2173277	328	uniprot:UNRESOLVED ID	MT1-MMP-TIMP-2	Gene_or_gene_product
+PMC2173277	328	uniprot:P08253	MMP-2	Gene_or_gene_product
+PMC2173277	329	uniprot:P08253	MMP-2	Gene_or_gene_product
+PMC2173277	330	uniprot:P08253	MMP-2	Gene_or_gene_product
+PMC2173277	330	uniprot:P01033	TIMP-1	Gene_or_gene_product
+PMC2173277	330	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	330	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	331	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	331	uniprot:P16035	TIMP-2	Gene_or_gene_product
+PMC2173277	331	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	333	uniprot:UNRESOLVED ID	metalloprotease	Gene_or_gene_product
+PMC2173277	333	uniprot:O00585	SLC	Gene_or_gene_product
+PMC2173277	333	uniprot:UNRESOLVED ID	LAP-beta1 binding integrins	Gene_or_gene_product
+PMC2173277	333	uniprot:UNRESOLVED ID	alphavbeta6	Gene_or_gene_product
+PMC2173277	334	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	334	uniprot:UNRESOLVED ID	metalloproteases	Gene_or_gene_product
+PMC2173277	335	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	335	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	335	uniprot:O00585	SLC	Gene_or_gene_product
+PMC2173277	335	uniprot:UNRESOLVED ID	cathepsin	Gene_or_gene_product
+PMC2173277	337	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2173277	337	uniprot:P08253	MMP-2	Gene_or_gene_product
+PMC2173277	337	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	337	uniprot:P16070	CD44	Gene_or_gene_product
+PMC2173277	337	uniprot:P14780	MMP-9	Gene_or_gene_product
+PMC2173277	338	uniprot:UNRESOLVED ID	alphavbeta3	Gene_or_gene_product
+PMC2173277	338	uniprot:P16070	CD44	Gene_or_gene_product
+PMC2173277	338	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	339	uniprot:UNRESOLVED ID	alphavbeta8-	Gene_or_gene_product
+PMC2173277	339	uniprot:UNRESOLVED ID	alphavbeta6	Gene_or_gene_product
+PMC2173277	339	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	340	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	340	uniprot:UNRESOLVED ID	beta6 subunits	Gene_or_gene_product
+PMC2173277	342	uniprot:UNRESOLVED ID	airway epithelium	CellType
+PMC2173277	342	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	342	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	343	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	343	uniprot:O00585	SLC	Gene_or_gene_product
+PMC2173277	343	uazid:UA-ORG-77	balance	Organ
+PMC2173277	343	uniprot:P01033	TIMP	Gene_or_gene_product
+PMC2173277	343	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	344	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	344	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	345	uniprot:UNRESOLVED ID	alphavbeta6	Gene_or_gene_product
+PMC2173277	345	uniprot:UNRESOLVED ID	MMPs	Gene_or_gene_product
+PMC2173277	346	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	346	uniprot:UNRESOLVED ID	integrins	Gene_or_gene_product
+PMC2173277	349	uniprot:UNRESOLVED ID	SW480	Gene_or_gene_product
+PMC2173277	349	uniprot:O75794	HT1080	Gene_or_gene_product
+PMC2173277	349	uniprot:UNRESOLVED ID	HepG2	Gene_or_gene_product
+PMC2173277	349	uniprot:Q02086	SP2	Gene_or_gene_product
+PMC2173277	349	uniprot:Q8N4C8	mink	Species
+PMC2173277	349	uazid:UA-ORG-537	lung	Organ
+PMC2173277	349	uniprot:P00747	plasminogen	Gene_or_gene_product
+PMC2173277	350	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	351	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	351	ncbitax:species:ncbi:10469	baculovirus	Species
+PMC2173277	351	uniprot:UNRESOLVED ID	wild-type simian LAP-beta1	Gene_or_gene_product
+PMC2173277	351	uniprot:UNRESOLVED ID	RGE	Gene_or_gene_product
+PMC2173277	352	uniprot:P02810	protein A	Gene_or_gene_product
+PMC2173277	352	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	352	uniprot:UNRESOLVED ID	IgG	Gene_or_gene_product
+PMC2173277	353	ncbitax:species:ncbi:9606	Human	Species
+PMC2173277	353	uniprot:P01137	TGF-beta1	Gene_or_gene_product
+PMC2173277	353	uniprot:O00585	SLC	Gene_or_gene_product
+PMC2173277	353	uniprot:UNRESOLVED ID	monoclonal anti-TGF-beta	Gene_or_gene_product
+PMC2173277	353	uniprot:UNRESOLVED ID	1D11	Gene_or_gene_product
+PMC2173277	353	uniprot:UNRESOLVED ID	anti-TGF-beta1	Gene_or_gene_product
+PMC2173277	353	uniprot:Q60867	-beta2	Gene_or_gene_product
+PMC2173277	353	uniprot:O09029	-beta3	Gene_or_gene_product
+PMC2173277	354	uniprot:P10265	protease	Gene_or_gene_product
+PMC2173277	354	uniprot:UNRESOLVED ID	PMSF	Gene_or_gene_product
+PMC2173277	354	uniprot:UNRESOLVED ID	E-64	Gene_or_gene_product
+PMC2173277	354	uniprot:Q9C075	CK-23	Gene_or_gene_product
+PMC2173277	354	uniprot:UNRESOLVED ID	Enzyme Systems Products	Gene_or_gene_product
+PMC2173277	354	uniprot:UNRESOLVED ID	leupeptin	Gene_or_gene_product
+PMC2173277	354	uniprot:P00974	aprotinin	Gene_or_gene_product
+PMC2173277	354	ncbitax:species:ncbi:9606	human	Species
+PMC2173277	354	uniprot:P01033	TIMP-1	Gene_or_gene_product
+PMC2173277	354	uniprot:P16035	TIMP-2	Gene_or_gene_product
+PMC2173277	354	uniprot:UNRESOLVED ID	Pro-MMP-2	Gene_or_gene_product
+PMC2173277	355	uniprot:Q99624	SN1	Gene_or_gene_product
+PMC2173277	355	uniprot:UNRESOLVED ID	anti-beta6	Gene_or_gene_product
+PMC2173277	355	uniprot:UNRESOLVED ID	10D5	Gene_or_gene_product
+PMC2173277	355	uniprot:UNRESOLVED ID	E7P6	Gene_or_gene_product
+PMC2173277	355	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2173277	355	uniprot:UNRESOLVED ID	anti-LAP-beta1	Gene_or_gene_product
+PMC2173277	355	uniprot:UNRESOLVED ID	VB3A9	Gene_or_gene_product
+PMC2173277	355	uniprot:UNRESOLVED ID	Hybridoma	CellType
+PMC2173277	356	uniprot:UNRESOLVED ID	P5D10	Gene_or_gene_product
+PMC2173277	356	uniprot:UNRESOLVED ID	anti-beta1	Gene_or_gene_product
+PMC2173277	356	uniprot:UNRESOLVED ID	P5D2	Gene_or_gene_product
+PMC2173277	356	uniprot:UNRESOLVED ID	pan-anti-TGF-beta	Gene_or_gene_product
+PMC2173277	356	uniprot:UNRESOLVED ID	1D11	Gene_or_gene_product
+PMC2173277	356	uniprot:UNRESOLVED ID	R&D Systems	Gene_or_gene_product
+PMC2173277	356	ncbitax:species:ncbi:10090	mouse	Species
+PMC2173277	356	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2173277	356	uniprot:Q96T53	goat	Species
+PMC2173277	356	ncbitax:species:ncbi:9793	donkey	Species
+PMC2173277	356	uniprot:Q08168	HRP	Gene_or_gene_product
+PMC2173277	356	ncbitax:species:ncbi:9940	sheep	Species
+PMC2173277	356	uniprot:P02810	protein A	Gene_or_gene_product
+PMC2173277	357	uniprot:P04004	VN	Gene_or_gene_product
+PMC2173277	357	ncbitax:species:ncbi:9606	human	Species
+PMC2173277	357	uazid:UA-ORG-725	plasma	Organ
+PMC2173277	358	uniprot:UNRESOLVED ID	Collagen type 1	Gene_or_gene_product
+PMC2173277	358	uniprot:Q2G0B1	rat	Species
+PMC2173277	359	uniprot:UNRESOLVED ID	GRGDSNK	Gene_or_gene_product
+PMC2173277	359	uniprot:UNRESOLVED ID	GRGESNK	Gene_or_gene_product
+PMC2173277	359	uniprot:UNRESOLVED ID	GRRGDLATIH	Gene_or_gene_product
+PMC2173277	359	uniprot:UNRESOLVED ID	GRRGELATIH	Gene_or_gene_product
+PMC2173277	360	uniprot:UNRESOLVED ID	geneticin	Gene_or_gene_product
+PMC2173277	360	uniprot:O95696	BRL	Gene_or_gene_product
+PMC2173277	361	uniprot:UNRESOLVED ID	pLXSN	Gene_or_gene_product
+PMC2173277	361	uniprot:UNRESOLVED ID	CLONTECH	Gene_or_gene_product
+PMC2173277	362	uniprot:UNRESOLVED ID	beta6 cDNA	Gene_or_gene_product
+PMC2173277	362	uniprot:UNRESOLVED ID	beta6-Peak10	Gene_or_gene_product
+PMC2173277	364	uniprot:UNRESOLVED ID	beta8 ORF	Gene_or_gene_product
+PMC2173277	364	uniprot:UNRESOLVED ID	full-length beta8 cDNA	Gene_or_gene_product
+PMC2173277	365	uniprot:UNRESOLVED ID	pLXSN	Gene_or_gene_product
+PMC2173277	365	uniprot:UNRESOLVED ID	CLONTECH	Gene_or_gene_product
+PMC2173277	366	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	366	uniprot:UNRESOLVED ID	AP-alphavbeta8	Gene_or_gene_product
+PMC2173277	366	uniprot:UNRESOLVED ID	BspE1-Xho1	Gene_or_gene_product
+PMC2173277	367	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	368	uniprot:UNRESOLVED ID	MT1-MMP-GFP	Gene_or_gene_product
+PMC2173277	368	uniprot:UNRESOLVED ID	MT1-MMP-pLEGFP	Gene_or_gene_product
+PMC2173277	368	uniprot:Q96JE9	stop	Gene_or_gene_product
+PMC2173277	368	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	368	uniprot:UNRESOLVED ID	PCR3.1	Gene_or_gene_product
+PMC2173277	368	uniprot:UNRESOLVED ID	HpaI site	Gene_or_gene_product
+PMC2173277	369	uniprot:UNRESOLVED ID	HindIII	Gene_or_gene_product
+PMC2173277	369	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	369	uniprot:UNRESOLVED ID	pLEGFP	Gene_or_gene_product
+PMC2173277	369	uniprot:UNRESOLVED ID	CLONTECH	Gene_or_gene_product
+PMC2173277	369	uniprot:UNRESOLVED ID	Klenow-treated BamHI site	Gene_or_gene_product
+PMC2173277	372	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	372	uniprot:UNRESOLVED ID	type I collagen	Gene_or_gene_product
+PMC2173277	373	uniprot:UNRESOLVED ID	SMAD binding element	Gene_or_gene_product
+PMC2173277	373	uniprot:P17275	JunB	Gene_or_gene_product
+PMC2173277	375	uniprot:P08253	MMP-2	Gene_or_gene_product
+PMC2173277	375	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	375	uniprot:UNRESOLVED ID	ADAMS-9	Gene_or_gene_product
+PMC2173277	375	uniprot:P60709	beta-actin	Gene_or_gene_product
+PMC2173277	378	uniprot:UNRESOLVED ID	pCDM8	Gene_or_gene_product
+PMC2173277	379	uniprot:UNRESOLVED ID	alphavbeta8-AP	Gene_or_gene_product
+PMC2173277	379	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	379	uniprot:P04004	VN	Gene_or_gene_product
+PMC2173277	380	uniprot:UNRESOLVED ID	Bound receptor	Gene_or_gene_product
+PMC2173277	380	uniprot:UNRESOLVED ID	pNPP	Gene_or_gene_product
+PMC2173277	381	uniprot:UNRESOLVED ID	AP-alphavbeta8	Gene_or_gene_product
+PMC2173277	381	uniprot:UNRESOLVED ID	Vivaspin 100	Gene_or_gene_product
+PMC2173277	383	uniprot:Q9NQV6	Tris	Gene_or_gene_product
+PMC2173277	383	uniprot:P01298	pH	Gene_or_gene_product
+PMC2173277	383	uniprot:UNRESOLVED ID	CaCl2	Gene_or_gene_product
+PMC2173277	385	uniprot:UNRESOLVED ID	RGD peptide	Gene_or_gene_product
+PMC2173277	386	uniprot:Q96FA3	Prism	Gene_or_gene_product
+PMC2173277	388	uniprot:UNRESOLVED ID	beta8 antibodies	Gene_or_gene_product
+PMC2173277	389	uniprot:O89094	mice	Species
+PMC2173277	390	uniprot:Q03403	SP	Gene_or_gene_product
+PMC2173277	390	uniprot:UNRESOLVED ID	myeloma	CellType
+PMC2173277	391	uniprot:UNRESOLVED ID	alphavbeta8	Gene_or_gene_product
+PMC2173277	392	uniprot:UNRESOLVED ID	FPLC	Gene_or_gene_product
+PMC2173277	393	ncbitax:species:ncbi:9986	rabbits	Species
+PMC2173277	393	uniprot:UNRESOLVED ID	TRAVTYRREKPEEIKMDISK	Gene_or_gene_product
+PMC2173277	393	uniprot:UNRESOLVED ID	beta8 ORF	Gene_or_gene_product
+PMC2173277	395	uniprot:P9WQ36	FACS	Gene_or_gene_product
+PMC2173277	395	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	395	uniprot:UNRESOLVED ID	phycoerythrin	Gene_or_gene_product
+PMC2173277	398	uniprot:UNRESOLVED ID	MT1-MMP-pLEGFP	Gene_or_gene_product
+PMC2173277	398	uniprot:UNRESOLVED ID	pLEGFP	Gene_or_gene_product
+PMC2173277	399	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	400	uniprot:UNRESOLVED ID	monoclonal anti-GFP antibody	Gene_or_gene_product
+PMC2173277	400	uniprot:UNRESOLVED ID	CLONTECH	Gene_or_gene_product
+PMC2173277	401	uniprot:Q96T53	goat	Species
+PMC2173277	401	ncbitax:species:ncbi:9940	sheep	Species
+PMC2173277	401	uniprot:UNRESOLVED ID	Oregon green Streptavidin	Gene_or_gene_product
+PMC2173277	404	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	404	uniprot:UNRESOLVED ID	mM PMSF	Gene_or_gene_product
+PMC2173277	406	uniprot:UNRESOLVED ID	LAP-beta1	Gene_or_gene_product
+PMC2173277	406	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	407	uniprot:UNRESOLVED ID	GM6001	Gene_or_gene_product
+PMC2173277	407	uniprot:UNRESOLVED ID	RGD peptide	Gene_or_gene_product
+PMC2173277	408	uniprot:UNRESOLVED ID	TMLC	Gene_or_gene_product
+PMC2173277	408	uniprot:UNRESOLVED ID	recombinant TGF-beta1	Gene_or_gene_product
+PMC2173277	409	uniprot:UNRESOLVED ID	pro-MMP-2	Gene_or_gene_product
+PMC2173277	411	uniprot:UNRESOLVED ID	mM Tris-HCL, 5 mM CaCl2	Gene_or_gene_product
+PMC2173277	411	uniprot:P01298	pH	Gene_or_gene_product
+PMC2173277	413	uniprot:UNRESOLVED ID	Eastman Kodak Co. 1D 3.5.3 Imaging	Gene_or_gene_product
+PMC2173277	416	uniprot:UNRESOLVED ID	37E1	Gene_or_gene_product
+PMC2173277	419	uniprot:O00585	SLC	Gene_or_gene_product
+PMC2173277	421	uniprot:P10265	protease	Gene_or_gene_product
+PMC2173277	423	uniprot:UNRESOLVED ID	beta8	Gene_or_gene_product
+PMC2173277	423	uniprot:UNRESOLVED ID	beta6	Gene_or_gene_product
+PMC2173277	424	uniprot:UNRESOLVED ID	1D11	Gene_or_gene_product
+PMC2173277	426	uniprot:UNRESOLVED ID	luciferase units	Gene_or_gene_product
+PMC2173277	426	uniprot:UNRESOLVED ID	TMLC	Gene_or_gene_product
+PMC2173277	427	uniprot:UNRESOLVED ID	TMLC	Gene_or_gene_product
+PMC2173277	428	uniprot:UNRESOLVED ID	luciferase units	Gene_or_gene_product
+PMC2173277	429	uazid:UA-ORG-537	lung	Organ
+PMC2173277	432	ncbitax:species:ncbi:10090	nude mice	Species
+PMC2173277	433	uniprot:Q9UNW9	ANOVA	Gene_or_gene_product
+PMC2173277	438	uniprot:UNRESOLVED ID	HL63993	Gene_or_gene_product
+PMC2173277	438	uniprot:UNRESOLVED ID	CA63143	Gene_or_gene_product
+PMC2173277	438	uniprot:UNRESOLVED ID	HL8985	Gene_or_gene_product
+PMC2173277	438	uazid:UA-ORG-537	Lung	Organ
+PMC2173277	438	uazid:UA-ORG-385	Heart	Organ
+PMC2173277	438	ncbitax:species:ncbi:4097	Tobacco	Species
+PMC2173277	438	uniprot:UNRESOLVED ID	TRT-0051	Gene_or_gene_product
+PMC2173277	438	uniprot:Q92622	Baron	Gene_or_gene_product
+PMC2173277	439	uniprot:P0C6E3	disintegrin	Gene_or_gene_product
+PMC2173277	439	uniprot:UNRESOLVED ID	metalloprotease domain	Gene_or_gene_product
+PMC2173277	439	uniprot:P01137	LAP	Gene_or_gene_product
+PMC2173277	439	uniprot:P01137	latency-associated peptide	Gene_or_gene_product
+PMC2173277	439	uniprot:P50281	MT1-MMP	Gene_or_gene_product
+PMC2173277	439	uniprot:P10266	RT	Gene_or_gene_product
+PMC2173277	439	uniprot:O00370	reverse transcriptase	Gene_or_gene_product
+PMC2173277	439	uniprot:O00585	SLC	Gene_or_gene_product
+PMC2173277	439	uniprot:P07996	TSP	Gene_or_gene_product
+PMC2173277	439	uniprot:UNRESOLVED ID	thrombospondin	Gene_or_gene_product
+PMC2173277	439	uniprot:P04004	VN	Gene_or_gene_product
+PMC2173277	439	uniprot:P04004	vitronectin	Gene_or_gene_product

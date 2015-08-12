@@ -1,0 +1,529 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2171832	0	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	1	uniprot:UNRESOLVED ID	COPI coat	Gene_or_gene_product
+PMC2171832	2	uniprot:P20936	GTPase-activating protein	Gene_or_gene_product
+PMC2171832	2	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2171832	2	uniprot:UNRESOLVED ID	Arf1 GTP	Gene_or_gene_product
+PMC2171832	3	uniprot:P42345	FRAP	Gene_or_gene_product
+PMC2171832	3	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	3	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	4	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	4	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	5	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	5	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	6	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	6	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	6	uniprot:UNRESOLVED ID	COPI coat	Gene_or_gene_product
+PMC2171832	7	uniprot:UNRESOLVED ID	Cytosolic coat proteins	Gene_or_gene_product
+PMC2171832	9	uniprot:A0PDV5	ras	Gene_or_gene_product
+PMC2171832	9	uniprot:UNRESOLVED ID	small GTPase-ADP-ribosylation factor	Gene_or_gene_product
+PMC2171832	9	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	11	uniprot:Q8N6T3	Arf1-directed GTPase activating protein	Gene_or_gene_product
+PMC2171832	11	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2171832	11	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2171832	11	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	11	uniprot:UNRESOLVED ID	Arf1-GDP	Gene_or_gene_product
+PMC2171832	15	uniprot:UNRESOLVED ID	~70	Gene_or_gene_product
+PMC2171832	15	uazid:UA-ORG-312	finger	Organ
+PMC2171832	16	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	16	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2171832	16	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	16	uniprot:UNRESOLVED ID	COPI coat lattice	Gene_or_gene_product
+PMC2171832	17	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	17	uniprot:UNRESOLVED ID	KDEL receptor	Gene_or_gene_product
+PMC2171832	17	uniprot:O42043	transmembrane protein	Gene_or_gene_product
+PMC2171832	17	uniprot:P03372	ER	Gene_or_gene_product
+PMC2171832	18	uniprot:P10301	p23	Gene_or_gene_product
+PMC2171832	18	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	19	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	20	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	20	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	21	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	21	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2171832	21	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	22	uniprot:UNRESOLVED ID	ArfGAPs	Gene_or_gene_product
+PMC2171832	22	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2171832	23	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2171832	23	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	24	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	24	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	25	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	25	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	26	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	27	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	27	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	28	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	28	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	28	uazid:UA-ORG-312	finger	Organ
+PMC2171832	29	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	30	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	31	uniprot:UNRESOLVED ID	ArfGAP1-GFP	Gene_or_gene_product
+PMC2171832	31	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2171832	31	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	32	uniprot:P27918	CFP	Gene_or_gene_product
+PMC2171832	32	uniprot:P21578	YFP	Gene_or_gene_product
+PMC2171832	32	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	32	uniprot:UNRESOLVED ID	ArfGAP1-C	Gene_or_gene_product
+PMC2171832	33	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	33	uniprot:Q8SQ20	galactosyltransferase	Gene_or_gene_product
+PMC2171832	33	uniprot:P27918	CFP	Gene_or_gene_product
+PMC2171832	34	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	34	uniprot:UNRESOLVED ID	epsilonCOPI-YFP	Gene_or_gene_product
+PMC2171832	34	uniprot:UNRESOLVED ID	ERGIC	Gene_or_gene_product
+PMC2171832	34	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2171832	35	uniprot:UNRESOLVED ID	http://www.jcb.org/cgi/content/full/jcb.200410142/DC1	Gene_or_gene_product
+PMC2171832	36	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	36	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	37	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2171832	37	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	38	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	39	uniprot:UNRESOLVED ID	Arf1-CFP	Gene_or_gene_product
+PMC2171832	39	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	40	uniprot:UNRESOLVED ID	Arf1-CFP	Gene_or_gene_product
+PMC2171832	40	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	41	uniprot:UNRESOLVED ID	Arf1-CFP	Gene_or_gene_product
+PMC2171832	41	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	41	uniprot:UNRESOLVED ID	ArfGAP1Delta64N-YFP	Gene_or_gene_product
+PMC2171832	42	uniprot:UNRESOLVED ID	ArfGAP1-CFP	Gene_or_gene_product
+PMC2171832	42	uniprot:UNRESOLVED ID	GalT-YFP	Gene_or_gene_product
+PMC2171832	43	uniprot:UNRESOLVED ID	ArfGAP1-CFP	Gene_or_gene_product
+PMC2171832	43	uniprot:UNRESOLVED ID	GalT-YFP	Gene_or_gene_product
+PMC2171832	43	uniprot:P03372	ER	Gene_or_gene_product
+PMC2171832	43	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	44	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2171832	44	ncbitax:species:ncbi:41568	mum	Species
+PMC2171832	45	uniprot:UNRESOLVED ID	ArfGAP1-C	Gene_or_gene_product
+PMC2171832	45	uniprot:P21578	YFP	Gene_or_gene_product
+PMC2171832	45	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2171832	45	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	45	uniprot:UNRESOLVED ID	Arf1 GTP	Gene_or_gene_product
+PMC2171832	47	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	47	uniprot:UNRESOLVED ID	Arf1-CFP	Gene_or_gene_product
+PMC2171832	47	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	47	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	47	uniprot:UNRESOLVED ID	Arf1 GTP	Gene_or_gene_product
+PMC2171832	48	uniprot:UNRESOLVED ID	brefeldin A	Gene_or_gene_product
+PMC2171832	48	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	48	uniprot:UNRESOLVED ID	Arf1-CFP	Gene_or_gene_product
+PMC2171832	48	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	48	uniprot:UNRESOLVED ID	Arf1 GTP	Gene_or_gene_product
+PMC2171832	49	uniprot:UNRESOLVED ID	Arf1-CFP	Gene_or_gene_product
+PMC2171832	49	uniprot:P21578	YFP	Gene_or_gene_product
+PMC2171832	49	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	49	uazid:UA-ORG-312	finger	Organ
+PMC2171832	49	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2171832	49	uniprot:UNRESOLVED ID	ArfGAP1Delta64N-YFP	Gene_or_gene_product
+PMC2171832	50	uniprot:UNRESOLVED ID	Arf1-CFP	Gene_or_gene_product
+PMC2171832	50	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	51	uniprot:UNRESOLVED ID	ArfGAP1-CFP	Gene_or_gene_product
+PMC2171832	51	uniprot:UNRESOLVED ID	Golgi enzyme marker galactosyltransferase	Gene_or_gene_product
+PMC2171832	51	uniprot:P21578	YFP	Gene_or_gene_product
+PMC2171832	51	uniprot:UNRESOLVED ID	GalT-YFP	Gene_or_gene_product
+PMC2171832	51	uniprot:P03372	ER	Gene_or_gene_product
+PMC2171832	52	uniprot:UNRESOLVED ID	Arf1 GTP	Gene_or_gene_product
+PMC2171832	52	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	52	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	53	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	53	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2171832	53	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	54	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	55	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	55	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	56	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	56	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	57	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	58	uniprot:P42345	FRAP	Gene_or_gene_product
+PMC2171832	60	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	61	uniprot:UNRESOLVED ID	Golgi-associated ArfGAP1-YFP molecules	Gene_or_gene_product
+PMC2171832	61	uniprot:UNRESOLVED ID	ArfGAP1-YFP molecules	Gene_or_gene_product
+PMC2171832	61	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	62	uniprot:UNRESOLVED ID	Golgi-associated ArfGAP1-YFP molecules	Gene_or_gene_product
+PMC2171832	62	uniprot:P74930	FLIP	Gene_or_gene_product
+PMC2171832	62	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	63	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	64	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	65	uniprot:UNRESOLVED ID	ArfGAP1Delta64N-YFP	Gene_or_gene_product
+PMC2171832	65	uniprot:O43557	light	Gene_or_gene_product
+PMC2171832	67	uniprot:P74930	FLIP	Gene_or_gene_product
+PMC2171832	67	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	68	uniprot:P42345	FRAP	Gene_or_gene_product
+PMC2171832	68	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	68	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	69	uniprot:P42345	FRAP	Gene_or_gene_product
+PMC2171832	70	ncbitax:species:ncbi:41568	mum	Species
+PMC2171832	71	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	71	uniprot:UNRESOLVED ID	ArfGAP1Delta64N-YFP	Gene_or_gene_product
+PMC2171832	72	uniprot:UNRESOLVED ID	ArfGAP1Delta64N-YFP	Gene_or_gene_product
+PMC2171832	74	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	75	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	75	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2171832	75	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	76	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	76	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	77	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	77	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	77	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2171832	78	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	79	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	79	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	79	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	80	uniprot:UNRESOLVED ID	ArfGAP1Delta64N-YFP	Gene_or_gene_product
+PMC2171832	80	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	80	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	80	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	80	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2171832	81	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	81	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	82	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	82	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	82	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2171832	83	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	83	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	83	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2171832	84	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	85	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	85	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	86	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	87	uniprot:UNRESOLVED ID	Arf1-CFP	Gene_or_gene_product
+PMC2171832	87	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	87	uniprot:UNRESOLVED ID	ArfGAP1Delta64N-YFP	Gene_or_gene_product
+PMC2171832	87	uniprot:UNRESOLVED ID	ARFGAP1Delta64N-YFP	Gene_or_gene_product
+PMC2171832	89	ncbitax:species:ncbi:41568	mum	Species
+PMC2171832	90	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	91	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	92	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	92	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	93	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	94	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	94	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	95	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	95	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	96	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	97	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	97	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	97	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	98	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	98	uniprot:UNRESOLVED ID	Arf1-CFP	Gene_or_gene_product
+PMC2171832	99	uniprot:UNRESOLVED ID	ARFGAP1Delta64N-YFP	Gene_or_gene_product
+PMC2171832	99	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	100	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	101	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	101	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	102	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	102	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	103	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	103	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	104	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	104	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	104	uniprot:UNRESOLVED ID	Arf1-CFP	Gene_or_gene_product
+PMC2171832	105	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	105	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	105	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	106	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	106	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2171832	106	uniprot:UNRESOLVED ID	G proteins	Gene_or_gene_product
+PMC2171832	107	uniprot:UNRESOLVED ID	small G proteins	Gene_or_gene_product
+PMC2171832	107	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2171832	107	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	107	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2171832	108	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	108	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	108	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	109	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	109	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	110	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	110	uniprot:UNRESOLVED ID	fluoride-Arf1-ArfGAP1	Gene_or_gene_product
+PMC2171832	111	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	111	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	112	uniprot:UNRESOLVED ID	fluoride-Arf1-ArfGAP1	Gene_or_gene_product
+PMC2171832	112	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	113	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	113	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	114	uniprot:P42345	FRAP	Gene_or_gene_product
+PMC2171832	114	uniprot:UNRESOLVED ID	ArfGAP1Delta64N-YFP	Gene_or_gene_product
+PMC2171832	114	uniprot:UNRESOLVED ID	GGA-YFP	Gene_or_gene_product
+PMC2171832	114	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	114	ncbitax:species:ncbi:41568	muM	Species
+PMC2171832	114	uniprot:P10145	NaF	Gene_or_gene_product
+PMC2171832	115	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	115	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	116	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	117	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	118	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	119	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	119	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	120	uniprot:UNRESOLVED ID	Golgi-associated ArfGAP1-YFP molecules	Gene_or_gene_product
+PMC2171832	120	uniprot:UNRESOLVED ID	fluoride-Arf1-ArfGAP1 complexes	Gene_or_gene_product
+PMC2171832	120	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	121	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	121	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	121	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	121	uniprot:UNRESOLVED ID	ArfGAP1Delta64N-YFP	Gene_or_gene_product
+PMC2171832	122	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	122	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	122	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	122	uniprot:UNRESOLVED ID	fluoride-Arf1-ArfGAP1 complexes	Gene_or_gene_product
+PMC2171832	123	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	124	uniprot:UNRESOLVED ID	Arf1-GTP	Gene_or_gene_product
+PMC2171832	125	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	125	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	125	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2171832	126	uniprot:UNRESOLVED ID	fluoride-Arf1-ArfGAP1 complexes	Gene_or_gene_product
+PMC2171832	126	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	127	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	128	uniprot:UNRESOLVED ID	40degreesC	Gene_or_gene_product
+PMC2171832	129	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	131	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	131	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	132	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	132	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	133	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	134	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	135	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	135	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	136	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	137	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	137	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	137	uniprot:UNRESOLVED ID	GGA	Gene_or_gene_product
+PMC2171832	138	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	138	uniprot:UNRESOLVED ID	fluoride-Arf1-ArfGAP1	Gene_or_gene_product
+PMC2171832	138	uniprot:UNRESOLVED ID	Golgi coat proteins	Gene_or_gene_product
+PMC2171832	139	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	139	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	140	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	140	uniprot:P53618	beta-COP	Gene_or_gene_product
+PMC2171832	141	uniprot:P53618	beta-COP	Gene_or_gene_product
+PMC2171832	141	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	142	uniprot:UNRESOLVED ID	ArfGAP1-GFP	Gene_or_gene_product
+PMC2171832	142	uniprot:P53618	beta-COP	Gene_or_gene_product
+PMC2171832	143	uniprot:P53618	beta-COP	Gene_or_gene_product
+PMC2171832	143	uniprot:UNRESOLVED ID	Arf1-GTP	Gene_or_gene_product
+PMC2171832	143	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	143	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	144	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	144	uniprot:P53618	beta-COP	Gene_or_gene_product
+PMC2171832	145	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	145	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	145	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	145	uniprot:P53618	beta-COP	Gene_or_gene_product
+PMC2171832	146	uniprot:UNRESOLVED ID	ArfGAP1-coatomer-Arf1 ternary complexes	Gene_or_gene_product
+PMC2171832	146	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	147	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	148	uniprot:UNRESOLVED ID	polyclonal anti-ArfGAP1 antibody	Gene_or_gene_product
+PMC2171832	148	uniprot:UNRESOLVED ID	monoclonal anti-beta-COP antibody	Gene_or_gene_product
+PMC2171832	149	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	149	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	150	uniprot:UNRESOLVED ID	monoclonal anti-GFP antibody	Gene_or_gene_product
+PMC2171832	150	uniprot:UNRESOLVED ID	anti-GFP antibody	Gene_or_gene_product
+PMC2171832	151	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	151	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	152	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	153	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	154	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	154	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	155	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	155	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	155	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	157	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	158	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	159	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	160	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	160	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	160	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2171832	160	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	161	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	161	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	162	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2171832	162	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	162	uniprot:UNRESOLVED ID	ArfGAP1-YFP molecules	Gene_or_gene_product
+PMC2171832	163	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	164	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	165	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	166	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	167	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2171832	167	ncbitax:species:ncbi:41568	mum	Species
+PMC2171832	168	uniprot:P42345	FRAP	Gene_or_gene_product
+PMC2171832	168	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	168	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	169	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	169	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	170	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	171	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	171	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	172	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	173	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	173	uniprot:UNRESOLVED ID	VSVG-CFP	Gene_or_gene_product
+PMC2171832	174	uniprot:UNRESOLVED ID	Golgi-associated ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	174	uniprot:UNRESOLVED ID	VSVG-CFP molecules	Gene_or_gene_product
+PMC2171832	175	uniprot:UNRESOLVED ID	VSVG-CFP molecules	Gene_or_gene_product
+PMC2171832	175	uniprot:UNRESOLVED ID	VSVG	Gene_or_gene_product
+PMC2171832	175	uniprot:P03372	ER	Gene_or_gene_product
+PMC2171832	176	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	176	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	176	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	177	uniprot:UNRESOLVED ID	ArfGAP1Delta64N-YFP	Gene_or_gene_product
+PMC2171832	178	uniprot:P53618	beta-COP	Gene_or_gene_product
+PMC2171832	178	uniprot:UNRESOLVED ID	VSVG	Gene_or_gene_product
+PMC2171832	179	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	179	uniprot:UNRESOLVED ID	VSVG-CFP	Gene_or_gene_product
+PMC2171832	180	uniprot:UNRESOLVED ID	ArfGAP1-YFP molecules	Gene_or_gene_product
+PMC2171832	181	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	182	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	182	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	183	uniprot:UNRESOLVED ID	coat proteins	Gene_or_gene_product
+PMC2171832	184	uniprot:UNRESOLVED ID	VSVG-CFP	Gene_or_gene_product
+PMC2171832	184	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	184	uniprot:UNRESOLVED ID	ArfGAP1Delta64N-YFP	Gene_or_gene_product
+PMC2171832	184	uniprot:P03372	ER	Gene_or_gene_product
+PMC2171832	187	uniprot:UNRESOLVED ID	ts045 VSV	Gene_or_gene_product
+PMC2171832	188	uniprot:UNRESOLVED ID	anti-beta-COP antibody	Gene_or_gene_product
+PMC2171832	188	uniprot:UNRESOLVED ID	Alexa Fluor 594	Gene_or_gene_product
+PMC2171832	189	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	189	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	189	uniprot:UNRESOLVED ID	ArfGAP1Delta64N-YFP	Gene_or_gene_product
+PMC2171832	189	uniprot:P53618	beta-COP	Gene_or_gene_product
+PMC2171832	190	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	190	uniprot:UNRESOLVED ID	VSVG-CFP	Gene_or_gene_product
+PMC2171832	191	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	191	uniprot:UNRESOLVED ID	ArfGAP1-YFP molecules	Gene_or_gene_product
+PMC2171832	192	ncbitax:species:ncbi:41568	mum	Species
+PMC2171832	193	uniprot:P42345	FRAP	Gene_or_gene_product
+PMC2171832	193	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	194	uniprot:UNRESOLVED ID	COPI coat lattice	Gene_or_gene_product
+PMC2171832	195	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	196	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	196	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	197	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	197	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	198	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	198	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	198	uniprot:UNRESOLVED ID	COPI coat	Gene_or_gene_product
+PMC2171832	199	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	200	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	200	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	201	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	202	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	202	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	202	uniprot:UNRESOLVED ID	basic coat unit	Gene_or_gene_product
+PMC2171832	204	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	205	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	205	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	206	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	206	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	207	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	207	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	207	uniprot:UNRESOLVED ID	ArfGAP1Delta64N-YFP	Gene_or_gene_product
+PMC2171832	207	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	209	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	210	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	210	uniprot:UNRESOLVED ID	KDEL receptor	Gene_or_gene_product
+PMC2171832	210	uniprot:P10301	p23	Gene_or_gene_product
+PMC2171832	211	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	211	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2171832	211	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	212	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	212	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	212	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	213	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	213	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	214	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	214	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2171832	214	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	215	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2171832	215	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	215	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	215	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	216	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	216	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	217	uniprot:UNRESOLVED ID	COPI	Gene_or_gene_product
+PMC2171832	217	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	217	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	217	uniprot:UNRESOLVED ID	fluoride-Arf1-ArfGAP1	Gene_or_gene_product
+PMC2171832	218	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	218	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	219	ncbitax:species:ncbi:4932	yeast	Species
+PMC2171832	219	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	219	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	219	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	220	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	220	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	220	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	221	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	221	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	221	uniprot:UNRESOLVED ID	COPI coat	Gene_or_gene_product
+PMC2171832	222	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	222	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2171832	222	uniprot:UNRESOLVED ID	Arf1 GTP	Gene_or_gene_product
+PMC2171832	222	uniprot:Q9UPQ3	AGAP1	Gene_or_gene_product
+PMC2171832	222	uniprot:P06593	AP3	Gene_or_gene_product
+PMC2171832	223	uniprot:UNRESOLVED ID	GTPase	Gene_or_gene_product
+PMC2171832	223	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	223	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	223	uazid:UA-ORG-312	finger	Organ
+PMC2171832	225	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	226	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	226	uniprot:UNRESOLVED ID	ArfGAP1-coatomer-Arf1	Gene_or_gene_product
+PMC2171832	227	uniprot:UNRESOLVED ID	basic coat unit	Gene_or_gene_product
+PMC2171832	229	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	230	uniprot:UNRESOLVED ID	Arf1-GTP	Gene_or_gene_product
+PMC2171832	230	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	231	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	231	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	231	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2171832	232	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	232	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	233	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	233	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	233	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2171832	234	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2171832	234	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2171832	238	uniprot:UNRESOLVED ID	coat proteins	Gene_or_gene_product
+PMC2171832	240	uniprot:UNRESOLVED ID	Arf1-GFP	Gene_or_gene_product
+PMC2171832	240	uniprot:UNRESOLVED ID	Arf1-CFP	Gene_or_gene_product
+PMC2171832	240	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	240	uniprot:UNRESOLVED ID	GalT-YFP	Gene_or_gene_product
+PMC2171832	241	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	241	uniprot:UNRESOLVED ID	ArfGAP1-CFP	Gene_or_gene_product
+PMC2171832	241	uniprot:UNRESOLVED ID	ArfGAP1Delta64N-YFP	Gene_or_gene_product
+PMC2171832	241	uniprot:Q2G0B1	rat	Species
+PMC2171832	241	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	241	uniprot:UNRESOLVED ID	pECFP-N1	Gene_or_gene_product
+PMC2171832	241	uniprot:UNRESOLVED ID	pEYFP-N1	Gene_or_gene_product
+PMC2171832	241	uniprot:P51606	Age	Gene_or_gene_product
+PMC2171832	242	uniprot:UNRESOLVED ID	GGA-YFP	Gene_or_gene_product
+PMC2171832	244	uniprot:Q9UNN4	AlF	Gene_or_gene_product
+PMC2171832	244	ncbitax:species:ncbi:41568	muM	Species
+PMC2171832	244	uniprot:P10145	NaF	Gene_or_gene_product
+PMC2171832	245	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2171832	245	uniprot:Q8N6T3	ArfGAP1	Gene_or_gene_product
+PMC2171832	245	uniprot:P53618	beta-COP	Gene_or_gene_product
+PMC2171832	245	ncbitax:species:ncbi:10090	mouse	Species
+PMC2171832	248	uniprot:Q7Z2Y5	NRK	Gene_or_gene_product
+PMC2171832	249	uniprot:Q5NMC0	RPMI	Gene_or_gene_product
+PMC2171832	252	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	252	uniprot:UNRESOLVED ID	Arf1-CFP	Gene_or_gene_product
+PMC2171832	252	uniprot:UNRESOLVED ID	epsilonCOP-YFP	Gene_or_gene_product
+PMC2171832	254	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2171832	254	uniprot:UNRESOLVED ID	ArfGAP1-YFP	Gene_or_gene_product
+PMC2171832	254	uniprot:UNRESOLVED ID	ArfGAP1Delta64N-YFP	Gene_or_gene_product
+PMC2171832	256	uniprot:UNRESOLVED ID	ts045 VSV	Gene_or_gene_product
+PMC2171832	257	uniprot:UNRESOLVED ID	serum	CellType
+PMC2171832	257	uniprot:UNRESOLVED ID	VSVG protein	Gene_or_gene_product
+PMC2171832	257	uniprot:P03372	ER	Gene_or_gene_product
+PMC2171832	259	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2171832	259	uniprot:P01298	pH	Gene_or_gene_product
+PMC2171832	260	uniprot:UNRESOLVED ID	P5D4	Gene_or_gene_product
+PMC2171832	260	uniprot:Q96T53	goat	Species
+PMC2171832	261	uniprot:UNRESOLVED ID	JL-8	Gene_or_gene_product
+PMC2171832	263	uniprot:P01298	pH	Gene_or_gene_product
+PMC2171832	266	uniprot:UNRESOLVED ID	milk	CellType
+PMC2171832	266	uniprot:UNRESOLVED ID	anti-GFP antibody	Gene_or_gene_product
+PMC2171832	266	uniprot:Q08168	HRP	Gene_or_gene_product
+PMC2171832	268	uniprot:P21578	YFP	Gene_or_gene_product
+PMC2171832	268	uniprot:P27918	CFP	Gene_or_gene_product
+PMC2171832	269	uniprot:UNRESOLVED ID	40x1.3 NA	Gene_or_gene_product
+PMC2171832	269	uniprot:UNRESOLVED ID	63x1.4 NA objective	Gene_or_gene_product
+PMC2171832	273	uniprot:P42345	FRAP	Gene_or_gene_product
+PMC2171832	277	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2171832	278	uniprot:UNRESOLVED ID	ArfGAP1-GFP	Gene_or_gene_product
+PMC2171832	279	uniprot:UNRESOLVED ID	http://www.jcb.org/cgi/content/full/jcb.200410142/DC1	Gene_or_gene_product

@@ -1,0 +1,532 @@
+Paper ID	Is title?	Section ID	Passage ID	Line Num	Text
+PMC2592359	true	article-title	0	0	Senescence Associated Secretory Phenotypes Reveal Cell-Nonautonomous Functions of Oncogenic RAS and the p53 Tumor Suppressor
+PMC2592359	false	abstract	1	1	Cellular senescence suppresses cancer by arresting cell proliferation , essentially permanently , in response to oncogenic stimuli , including genotoxic stress .
+PMC2592359	false	abstract	1	2	We modified the use of antibody arrays to provide a quantitative assessment of factors secreted by senescent cells .
+PMC2592359	false	abstract	1	3	We show that human cells induced to senesce by genotoxic stress secrete myriad factors associated with inflammation and malignancy .
+PMC2592359	false	abstract	1	4	This senescence associated secretory phenotype ( SASP ) developed slowly over several days and only after DNA damage of sufficient magnitude to induce senescence .
+PMC2592359	false	abstract	1	5	Remarkably similar SASPs developed in normal fibroblasts , normal epithelial cells , and epithelial tumor cells after genotoxic stress in culture , and in epithelial tumor cells in vivo after treatment of prostate cancer patients with DNA damaging chemotherapy .
+PMC2592359	false	abstract	1	6	In cultured premalignant epithelial cells , SASPs induced an epithelial-mesenchyme transition and invasiveness , hallmarks of malignancy , by a paracrine mechanism that depended largely on the SASP factors interleukin ( IL ) -6 and IL-8 .
+PMC2592359	false	abstract	1	7	Strikingly , two manipulations markedly amplified , and accelerated development of , the SASPs : oncogenic RAS expression , which causes genotoxic stress and senescence in normal cells , and functional loss of the p53 tumor suppressor protein .
+PMC2592359	false	abstract	1	8	Both loss of p53 and gain of oncogenic RAS also exacerbated the promalignant paracrine activities of the SASPs .
+PMC2592359	false	abstract	1	9	Our findings define a central feature of genotoxic stress induced senescence .
+PMC2592359	false	abstract	1	10	Moreover , they suggest a cell-nonautonomous mechanism by which p53 can restrain , and oncogenic RAS can promote , the development of age related cancer by altering the tissue microenvironment .
+PMC2592359	false	abstract	2	11	Author Summary Cells with damaged DNA are at risk of becoming cancerous tumors .
+PMC2592359	false	abstract	2	12	Although " cellular senescence " can suppress tumor formation from damaged cells by blocking the cell division that underlies cancer growth , it has also been implicated in promoting cancer and other age related diseases .
+PMC2592359	false	abstract	2	13	To understand how this might happen , we measured proteins that senescent human cells secrete into their local environment and found many factors associated with inflammation and cancer development .
+PMC2592359	false	abstract	2	14	Different types of cells secrete a common set of proteins when they senesce .
+PMC2592359	false	abstract	2	15	This senescence associated secretory phenotype ( SASP ) occurs not only in cultured cells , but also in vivo in response to DNA damaging chemotherapy .
+PMC2592359	false	abstract	2	16	Normal cells that acquire a highly active mutant version of the RAS protein , which is known to contribute to tumor growth , undergo cellular senescence , and develop a very intense SASP , with higher levels of proteins secreted .
+PMC2592359	false	abstract	2	17	Likewise , the SASP is more intense when cells lose the functions of the tumor suppressor p53 .
+PMC2592359	false	abstract	2	18	Senescent cells promote the growth and aggressiveness of nearby precancerous or cancer cells , and cells with a more intense SASP do so more efficiently .
+PMC2592359	false	abstract	2	19	Our findings support the idea that cellular senescence can be both beneficial , in preventing damaged cells from dividing , and deleterious , by having effects on neighboring cells ; this balance of effects is predicted by an evolutionary theory of aging .
+PMC2592359	false	st1	3	20	Cells with damaged DNA are at risk of becoming cancerous tumors .
+PMC2592359	false	st1	3	21	Although " cellular senescence " can suppress tumor formation from damaged cells by blocking the cell division that underlies cancer growth , it has also been implicated in promoting cancer and other age related diseases .
+PMC2592359	false	st1	3	22	To understand how this might happen , we measured proteins that senescent human cells secrete into their local environment and found many factors associated with inflammation and cancer development .
+PMC2592359	false	st1	3	23	Different types of cells secrete a common set of proteins when they senesce .
+PMC2592359	false	st1	3	24	This senescence associated secretory phenotype ( SASP ) occurs not only in cultured cells , but also in vivo in response to DNA damaging chemotherapy .
+PMC2592359	false	st1	3	25	Normal cells that acquire a highly active mutant version of the RAS protein , which is known to contribute to tumor growth , undergo cellular senescence , and develop a very intense SASP , with higher levels of proteins secreted .
+PMC2592359	false	st1	3	26	Likewise , the SASP is more intense when cells lose the functions of the tumor suppressor p53 .
+PMC2592359	false	st1	3	27	Senescent cells promote the growth and aggressiveness of nearby precancerous or cancer cells , and cells with a more intense SASP do so more efficiently .
+PMC2592359	false	st1	3	28	Our findings support the idea that cellular senescence can be both beneficial , in preventing damaged cells from dividing , and deleterious , by having effects on neighboring cells ; this balance of effects is predicted by an evolutionary theory of aging .
+PMC2592359	false	s1	4	29	Cancer is a multistep disease in which cells acquire increasingly malignant phenotypes .
+PMC2592359	false	s1	4	30	These phenotypes are acquired in part by somatic mutations , which derange normal controls over cell proliferation ( growth ) , survival , invasion , and other processes important for malignant tumorigenesis    .
+PMC2592359	false	s1	4	31	In addition , there is increasing evidence that the tissue microenvironment is an important determinant of whether and how malignancies develop      .
+PMC2592359	false	s1	4	32	Normal tissue environments tend to suppress malignant phenotypes , whereas abnormal tissue environments such at those caused by inflammation can promote cancer progression .
+PMC2592359	false	s1	5	33	Cancer development is restrained by a variety of tumor suppressor genes .
+PMC2592359	false	s1	5	34	Some of these genes permanently arrest the growth of cells at risk for neoplastic transformation , a process termed cellular senescence      .
+PMC2592359	false	s1	5	35	Two tumor suppressor pathways , controlled by the p53 and p16INK4a and pRB proteins , regulate senescence responses .
+PMC2592359	false	s1	5	36	Both pathways integrate multiple aspects of cellular physiology and direct cell fate towards survival , death , proliferation , or growth arrest , depending on the context      .
+PMC2592359	false	s1	6	37	Several lines of evidence indicate that cellular senescence is a potent tumor-suppressive mechanism         .
+PMC2592359	false	s1	6	38	Many potentially oncogenic stimuli ( e.g. , dysfunctional telomeres , DNA damage , and certain oncogenes ) induce senescence       .
+PMC2592359	false	s1	6	39	Moreover , mutations that dampen the p53 or p16INK4a and pRB pathways confer resistance to senescence and greatly increase cancer risk        .
+PMC2592359	false	s1	6	40	Most cancers harbor mutations in one or both of these pathways        .
+PMC2592359	false	s1	6	41	Lastly , in mice and humans , a senescence response to strong mitogenic signals , such as those delivered by certain oncogenes , prevents premalignant lesions from progressing to malignant cancers        .
+PMC2592359	false	s1	6	42	Interestingly , some tumor cells retain the ability to senesce in response to DNA damaging chemotherapy or p53 reactivation ; in mice , this response arrests tumor progression        .
+PMC2592359	false	s1	7	43	Despite support for the idea that senescence is a beneficial anticancer mechanism , indirect evidence suggests that senescent cells can also be deleterious and might contribute to age related pathologies           .
+PMC2592359	false	s1	7	44	The apparent paradox of contributing to both tumor suppression and aging is consistent with an evolutionary theory of aging , termed antagonistic pleiotropy     .
+PMC2592359	false	s1	7	45	Organisms generally evolve in environments that are replete with extrinsic hazards , and so old individuals tend to be rare in natural populations .
+PMC2592359	false	s1	7	46	Therefore , there is little selective pressure for tumor suppressor mechanisms to be effective well into old age ; rather , these mechanisms need to be sufficiently effective only to ensure successful reproduction .
+PMC2592359	false	s1	7	47	Further , tumor suppressor mechanisms could in principle even be deleterious at advanced ages , as predicted by evolutionary antagonistic pleiotropy .
+PMC2592359	false	s1	7	48	Consistent with this view , senescent cells increase with age in mammalian tissues     , and have been found at sites of age related pathologies such as osteoarthritis and atherosclerosis        .
+PMC2592359	false	s1	7	49	Moreover , in mice , chronically active p53 both promotes cellular senescence and accelerates aging phenotypes        .
+PMC2592359	false	s1	8	50	How might senescent cells be deleterious ?
+PMC2592359	false	s1	8	51	Senescent cells acquire many changes in gene expression , mostly documented as altered mRNA abundance , including increased expression of secreted proteins        .
+PMC2592359	false	s1	8	52	Some of these secreted proteins act in an autocrine manner to reinforce the senescence growth arrest              .
+PMC2592359	false	s1	8	53	Moreover , cell culture and mouse xenograft studies suggest that proteins secreted by senescent cells can promote degenerative or hyperproliferative changes in neighboring cells              .
+PMC2592359	false	s1	8	54	Thus , although the cell-autonomous senescence growth arrest suppresses cancer , factors secreted by senescent cells might have deleterious cell-nonautonomous effects that alter the tissue microenvironment .
+PMC2592359	false	s1	8	55	To date , a comprehensive analysis of the secretory profile of senescent cells is lacking , as is knowledge regarding how this profile varies with cell type or senescence inducer , or how it relates to the tumor suppressor proteins that control senescence .
+PMC2592359	false	s1	9	56	To fill these gaps in our knowledge , we modified antibody arrays to be quantitative and sensitive over a wide dynamic range and defined the senescence associated secretory phenotype ( SASP ) .
+PMC2592359	false	s1	9	57	We show that this phenotype is complex , containing elements associated with inflammation and tumorigenesis , and is induced only by genotoxic stress of sufficient magnitude to cause senescence .
+PMC2592359	false	s1	9	58	SASPs are expressed by senescent human fibroblasts and epithelial cells in culture .
+PMC2592359	false	s1	9	59	Moreover , epithelial tumor cells exposed to DNA damaging chemotherapy senesce and express a SASP in vivo .
+PMC2592359	false	s1	9	60	The arrays allowed us to identify two new malignant phenotypes promoted by senescent cells ( the epithelial-mesenchyme transition and invasiveness ) , and the SASP factors responsible for them ( interleukin [ IL ] -6 and IL-8 ) .
+PMC2592359	false	s1	9	61	Strikingly , the SASP was markedly amplified by oncogenic RAS or loss of p53 function .
+PMC2592359	false	s1	9	62	Our results identify a mechanism by which p53 acts as a cell-nonautonomous tumor suppressor , and RAS as a cell-nonautonomous oncogene , and provide a novel framework for understanding how age related cancers might progress .
+PMC2592359	true	s2a	10	63	Senescence Associated Secretory Phenotypes Expressed by Human Fibroblasts
+PMC2592359	false	s2a	11	64	To determine whether tissue of origin , donor age , or genotype affected secretory phenotypes , we first studied five human fibroblast strains , derived from embryonic lung ( WI-38 , IMR-90 ) , neonatal foreskin ( BJ , HCA2 ) , or adult breast ( hBF184 ) .
+PMC2592359	false	s2a	11	65	We cultured the cells under standard conditions , and either atmospheric ( ~ 20 % ) O2 or 3 % O2 , which is more physiological     .
+PMC2592359	false	s2a	11	66	We made presenescent ( PRE ) cultures ( > 80 % of cells capable of proliferation ) quiescent by growing the cells to confluence in order to compare them to nondividing senescent ( SEN ) cultures ( < 10 % proliferative )           .
+PMC2592359	false	s2a	11	67	We induced senescence by either repeatedly passaging the cells ( REP , replicative exhaustion ) or by exposing them to a relatively high dose ( 10 Gy ) of ionizing radiation ( XRA [ X irradiation ] ) ( see                      ;         ; and         .
+PMC2592359	false	s2a	12	68	To identify proteins secreted by PRE and SEN cells , we generated conditioned media ( CM ) by incubating each culture in serum-free medium for 24 h .
+PMC2592359	false	s2a	12	69	After normalizing for cell number , we analyzed CM using antibody arrays designed to detect 120 proteins selected for roles in intercellular signaling           .
+PMC2592359	false	s2a	12	70	We modified the detection protocol ( see                       and         , thereby rendering the arrays linear over two to three orders of magnitude ; accurate , as determined by concordance with enzyme linked immunosorbent assays ( ELISAs ) of recombinant proteins ; and reliable , as determined by comparing triplicate samples analyzed separately to pooled samples          .
+PMC2592359	false	s2a	12	71	We quantified the signals , normalizing intensities to controls on the arrays to facilitate interexperiment comparisons , and calculated secreted protein levels as log2-fold changes relative to averages of all samples for each cell strain ( baseline ) .
+PMC2592359	false	s2a	12	72	We used these values for quantitative data analyses                  and for visual display            .
+PMC2592359	false	s2a	12	73	For the visual display , values over baseline are displayed in grades of yellow , and values under baseline are displayed in grades of blue            .
+PMC2592359	true	fig-1	13	74	SASP of Human Fibroblasts
+PMC2592359	false	fig-1	14	75	( A ) Soluble factors secreted by the indicated cells were detected by antibody arrays and analyzed as described in the text , Materials and Methods ;        ; and            -  .
+PMC2592359	false	fig-1	14	76	For each cell strain , the PRE and SEN signals were averaged and used as the baseline .
+PMC2592359	false	fig-1	14	77	Senescence ( SEN ) was induced by either repeatedly passaging the cells ( REP , replicative exhaustion ) or by exposing them to a relatively high dose ( 10 Gy ) of ionizing radiation ( XRA , X irradiation ) ; for simplification , XRA and REP signals were averaged as a single SEN signal ( see also         C ) .
+PMC2592359	false	fig-1	14	78	Signals higher than baseline are displayed in yellow ; signals below baseline are displayed in blue .
+PMC2592359	false	fig-1	14	79	The numbers on the heat map key ( right ) indicates log2-fold changes from the baseline .
+PMC2592359	false	fig-1	15	80	( B ) Validation by immunostaining .
+PMC2592359	false	fig-1	15	81	PRE WI-38 cells were made senescent by REP or XRA , maintained in 10 % serum until fixation , and immunostained for the cytokines IL-6 and IL-8 and the senescence marker p16INK4a .
+PMC2592359	false	fig-1	16	82	( C ) Correlation between the SASPs of WI-38 cells induced to senescence by XRA or REP , compared to PRE cells , depicted as log2-fold changes .
+PMC2592359	false	fig-1	17	83	( D ) WI-38 cells were X irradiated at the indicated doses .
+PMC2592359	false	fig-1	17	84	CM was collected 2 , 4 , 7 , or 10 d later , and soluble factors were analyzed by antibody arrays .
+PMC2592359	false	fig-1	17	85	PRE cells and cells irradiated with 0.5 Gy transiently arrested growth , but resumed proliferation 24-48 h after CM collection .
+PMC2592359	false	fig-1	17	86	Cells irradiated with 10 Gy became senescent , and therefore did proliferate during and beyond the course of the experiment .
+PMC2592359	false	fig-1	17	87	PRE and SEN ( 10 d ) signals were averaged and used as the baseline .
+PMC2592359	false	fig-1	17	88	Signals higher than baseline are displayed in yellow ; signals below baseline are displayed in blue .
+PMC2592359	false	fig-1	18	89	( E ) PRE and SEN cells were analyzed for the indicated mRNAs by quantitative RT-PCR , and normalized to the corresponding PRE values ( baselines ) .
+PMC2592359	false	fig-1	18	90	The senescence inducers ( REP or XRA ) are given in parentheses .
+PMC2592359	false	fig-1	18	91	Signals higher than baselines are shown in red , signals below baselines are displayed in green , and the fold changes in signals are given to the right of the heat map .
+PMC2592359	false	fig-1	18	92	The results are averages for four cell strains ( WI-38 , IMR90 , HCA-2 , and BJ ) , and the total number of samples for each condition are given below the heat map .
+PMC2592359	false	fig-1	18	93	An asterisk ( * ) indicates non SASP factors ( see           .
+PMC2592359	false	fig-1	19	94	( F ) Correlation between mRNA and secreted protein levels for SASP ( red ) and non SASP ( blue ) factors ( see           .
+PMC2592359	false	fig-1	19	95	PRE and SEN values were averaged to create a baseline ; all values were expressed as the log2-fold change relative to this baseline ; PRE versus baseline and SEN versus baseline are shown .
+PMC2592359	false	s2a	20	96	Although the display gives only a semiquantitative assessment of how secretion levels vary ( see accompanying scale in         A , with log2-fold changes indicated ) , the data                  show that SEN cells secrete significantly higher levels of numerous proteins compared to PRE cells            .
+PMC2592359	false	s2a	20	97	We term this phenomenon a senescence associated secretory phenotype ( SASP ) .
+PMC2592359	false	s2a	20	98	Of 120 proteins interrogated by the arrays , 41 were significantly altered in the SEN CM and were oversecreted in comparison to PRE CM                           .
+PMC2592359	false	s2a	20	99	However , the SASPs did not result from a general stimulation of secretion .
+PMC2592359	false	s2a	20	100	Seventy-nine proteins showed no significant differences in secreted levels between SEN and PRE cells , although many of these proteins were easily detectable by the arrays             .
+PMC2592359	false	s2	21	101	The SASPs were complex , and their biological effects could not be predicted a priori .
+PMC2592359	false	s2	21	102	SASP components included inflammatory and immune-modulatory cytokines and chemokines ( e.g. , IL-6 , -7 , and -8 , MCP-2 , and MIP-3a ) .
+PMC2592359	false	s2	21	103	They also included growth factors ( e.g. , GRO , HGF , and IGFBPs ) , shed cell surface molecules ( e.g. , ICAMs , uPAR , and TNF receptors ) , and survival factors                         .
+PMC2592359	false	s2	21	104	However , the SASP was not a fixed phenotype .
+PMC2592359	false	s2	21	105	Rather , it was a wide ranging profile because each cell strain also displayed unique quantitative or qualitative features .
+PMC2592359	false	s2	21	106	In addition , within strains , PRE cultures secreted higher levels of some factors in 20 % versus 3 % O2 , and SEN cultures secreted higher levels of some factors in 3 % versus 20 % O2 .
+PMC2592359	false	s2	21	107	Thus , although human cells are less sensitive than mouse cells to hyperphysiological O2     , human cells are not unaffected by the ambient O2 level .
+PMC2592359	false	s2	21	108	Nonetheless , the secretory phenotype was highly conserved ( r > 0.75 ) in human senescent cells cultured in 3 % versus 20 % O2 .
+PMC2592359	false	s2	21	109	By contrast , the ambient O2 level strongly affects the secretory phenotype of mouse senescent cells ( J. P. Coppe , C. K. Patil , F. Rodier , A. Krtolica , S. Parrinello , et al. , unpublished data ) .
+PMC2592359	false	s1	22	110	We verified the secretion levels of several SASP proteins by ELISAs                        .
+PMC2592359	false	s1	22	111	Further , because secretion increased greater than 10-fold for some SASP factors , we could verify up regulation by intracellular immunostaining .
+PMC2592359	false	s1	22	112	For example , IL-6 and IL-8 were barely visible in PRE cells but clearly detectable in SEN cells                                    .
+PMC2592359	false	s1	22	113	We performed the immunostaining on cells in 10 % serum , which allowed us to rule out the possibility that the SASP was a senescence specific response to the serum-free incubation needed to collect CM .
+PMC2592359	false	s1	22	114	Moreover , the SASPs of SEN cells induced by REP and XRA were highly correlated ( r > 0.9 ;         C ) , indicating that the phenotype was not specific to one senescence inducer .
+PMC2592359	false	s1	22	115	The secretory profiles of fibroblast strains from the same tissues ( e.g. , BJ and HCA2 from neonatal foreskin ; and IMR90 and Wi-38 from fetal lung ) were highly correlated                     .
+PMC2592359	false	s1	22	116	In subsequent figures , data from these related cell strains , as well as from REP and XRA samples from cells of the same type , were pooled and averaged in order to simplify the display .
+PMC2592359	true	s2b	23	117	SASPs of Human Epithelial Cells
+PMC2592359	false	s2b	24	118	To determine whether the SASP is limited to fibroblasts , we studied the secretory activity of epithelial cells .
+PMC2592359	false	s2b	24	119	Normal human prostate epithelial cells ( PrECs ) underwent a classic senescence growth arrest in response to X irradiation ( see          .
+PMC2592359	false	s2b	24	120	We collected CM from PRE and SEN PrECs , and analyzed the factors secreted by these cells using antibody arrays .
+PMC2592359	false	s2b	24	121	Normal PrECs expressed a robust SASP upon senescence                               .
+PMC2592359	false	s2b	24	122	Like fibroblasts , SEN PrECs secreted many factors at significantly higher levels compared to PRE PrECs .
+PMC2592359	false	s2b	24	123	To compare the SASPs of normal human epithelial and stromal cells senesced under similar conditions , we analyzed factors that showed a significant change ( p < 0.05 ) upon senescence in PrECs or fibroblasts induced by XRA only            .
+PMC2592359	false	s2b	24	124	Using the hypergeometric distribution , we determined that the SASPs of both normal cell types overlapped highly significantly ( p = ~ 10-3 ; see                       .
+PMC2592359	false	s2b	24	125	The trend analysis of all 120 factors on the arrays             demonstrated that the secretory profiles were correlated ( r = 0.53 ) and also indicated > 66 % overlap between normal fibroblasts and normal epithelial cells .
+PMC2592359	false	s2b	24	126	More specifically , both SASPs included inflammatory or immune factors such as IL-6 , IL-8 , or MCP-1 , growth modulators such as GRO and IGFBP-2 , cell survival regulators such as OPG or sTNF RI , and shed surface molecules such as uPAR or ICAM-1            .
+PMC2592359	false	s2b	24	127	Not surprising , there were also differences between the SASPs of fibroblasts and PrECs .
+PMC2592359	false	s2b	24	128	In contrast to fibroblasts , three factors ( Acrp30 , BTC , and IGFBP-6 ) were significantly down regulated by SEN in PrECs .
+PMC2592359	false	s2b	24	129	Moreover , IL-1alpha or HGF were SASP factors unique to either normal epithelial SASP or normal fibroblast SASP , respectively .
+PMC2592359	false	s2b	24	130	This result indicates that the SASP is not limited to normal stromal cells , and that a substantial overlap between normal senescent cells of different tissue origins exists .
+PMC2592359	true	fig-2	25	131	SASP of Human Epithelial Cells
+PMC2592359	false	fig-2	26	132	( A ) Soluble factors secreted by the indicated normal cell type ( epithelial vs. stromal ) were detected by antibody arrays and analyzed as described in the text , Materials and Methods , and            -  .
+PMC2592359	false	fig-2	26	133	Normal prostate epithelial cells ( PrECs ) were induced to senesce by 10 Gy irradiation , and CM from the PRE and SEN cells were analyzed .
+PMC2592359	false	fig-2	26	134	The SASP of PrECs was compared side by side to the SASP of SEN ( XRA ) fibroblasts ( WI-38 , IMR-90 , HCA-2 , and BJ ) .
+PMC2592359	false	fig-2	26	135	The PRE values for each cell type served as the baseline .
+PMC2592359	false	fig-2	26	136	Signals higher than baseline are displayed in yellow ; signals below baseline are displayed in blue .
+PMC2592359	false	fig-2	26	137	The heat map key ( right ) indicates log2-fold changes from the baseline .
+PMC2592359	false	fig-2	26	138	p-Values were calculated by the Student t-test , and are given to the right of the heat map .
+PMC2592359	false	fig-2	26	139	ns = not significant ( p > 0.05 ) and defines non SASP factors .
+PMC2592359	false	fig-2	27	140	( B ) The log2-fold changes for all 120 proteins detected by the antibody arrays were plotted for SEN ( XRA ) PrECs and SEN ( XRA ) fibroblasts , relative to their PRE baseline .
+PMC2592359	false	fig-2	27	141	Seventy-nine secreted factors ( 66 % ) followed the same regulatory trend ( in red ) .
+PMC2592359	false	fig-2	27	142	The remaining factors were not coregulated ( depicted in blue ) .
+PMC2592359	false	fig-2	28	143	( C ) Soluble factors produced by the indicated normal or transformed prostate epithelial cells were analyzed by antibody arrays and the results displayed as described for         A. For each cell strain or cell line , PRE and SEN signals were averaged and used as the baseline .
+PMC2592359	false	fig-2	28	144	Signals higher than the baseline are shown in yellow ; signals below baseline are displayed in blue .
+PMC2592359	false	fig-2	28	145	An asterisk ( * ) indicates SASP factors that are conserved between all fibroblasts             and all epithelial cells .
+PMC2592359	false	s2b	29	146	Some tumor cells retain the ability to senesce in response to DNA damage , including DNA damaging chemotherapy        .
+PMC2592359	false	s2b	29	147	We therefore asked whether prostate cancer cells also developed a SASP .
+PMC2592359	false	s2b	29	148	We studied three prostate tumor cell lines ( BPH1     , RWPE1     , and PC3     , which differ in their degree of malignancy as follows : PC3 > RWPE1 > BPH1 ) .
+PMC2592359	false	s2b	29	149	As with normal epithelial cells ( PrECs ) , we induced senescence by XRA , and analyzed CM using antibody arrays                 .
+PMC2592359	false	s2b	29	150	SEN epithelial cells secreted significantly higher levels of numerous proteins compared to PRE counterparts            .
+PMC2592359	false	s2b	29	151	The SASPs of prostate epithelial cells showed striking overlap between normal and transformed cells                           , and there was also striking similarities between the SASP of fibroblasts and all epithelial cells , transformed and not transformed                                                                             .
+PMC2592359	false	s2b	29	152	Twenty-four proteins were shared between the SASPs of all fibroblasts             and all epithelial cells            ; this overlap was highly significant relative to the overlap predicted from chance ( p = ~ 10-5 ; see                       .
+PMC2592359	false	s2b	29	153	We conclude that normal fibroblasts and both normal and transformed epithelial cells can develop SASPs that significantly overlap , displaying many common , but also some distinct , features .
+PMC2592359	false	s2c	30	154	Many human tumor cells retain the ability to senesce , in culture and in vivo , in response to DNA damaging chemotherapeutic agents        .
+PMC2592359	false	s2c	30	155	Epithelial cell lines , as well as normal fibroblasts , underwent senescence in culture in response to mitoxantrone ( MIT ) ( see          , a topoisomerase 2beta inhibitor that causes DNA breaks and is used to treat prostate cancer     .
+PMC2592359	false	s2c	30	156	Antibody arrays                                and ELISAs for IL-6 , IL-8 , and GRO-alpha             showed that MIT induced a SASP that correlated well ( r = 0.89 ) with the XRA induced SASP            .
+PMC2592359	true	fig-3	31	157	Chemotherapy Induced SASP in Culture and In Vivo
+PMC2592359	false	fig-3	32	158	( A ) Overall correlation between XRA and mitoxantrone ( MIT ) - induced SASPs for all three prostate epithelial cancer cell lines ( BPH-1 , RWPE-1 , and PC-3 ) .
+PMC2592359	false	fig-3	32	159	Correlations for the individual cell lines are given in the table to the right .
+PMC2592359	false	fig-3	32	160	The senescence inducer ( XRA or MIT ) is given in parentheses .
+PMC2592359	false	fig-3	33	161	( B-E ) Human tumor cells were isolated from biopsies obtained from the same patient before MIT chemotherapy and from prostate tissue following prostatectomy after MIT chemotherapy .
+PMC2592359	false	fig-3	33	162	Laser captured cells were analyzed by quantitative RT-PCR for the mRNAs encoding the indicated proteins , as described in Materials and Methods and        .
+PMC2592359	false	fig-3	33	163	The results are displayed on a log10 scale indicating the values before ( horizontal or x-axis ) compared to after ( vertical or y-axis ) chemotherapy ( top left panel in [ B ] ) .
+PMC2592359	false	fig-3	33	164	Each black dot in ( B , C , and D ) represents the results obtained from a single patient .
+PMC2592359	false	fig-3	33	165	The average values for all patients before versus after chemotherapy are indicated by a red dot ( B-D ) ; these values are also represented as a heat map in ( E ) .
+PMC2592359	false	fig-3	34	166	( B ) Values for mRNAs encoding proteins associated with senescence ( p16 and p21 ) and proliferation ( cyclin A , MCM-3 , and PCNA ) .
+PMC2592359	false	fig-3	35	167	( C ) Values for mRNAs encoding SASP associated proteins ( IL-6 , IL-8 , GM-CSF , GRO-alpha , IGFBP-2 , and IL-1beta ) .
+PMC2592359	false	fig-3	36	168	( D ) Value for an mRNA encoding a non-SASP-associated protein ( IL-2 ) .
+PMC2592359	false	fig-3	37	169	( E ) Averages for the values shown in ( B-D ) .
+PMC2592359	false	fig-3	37	170	Overall p-values , determined by the Student t-test , and number of paired samples ( or patients ) analyzed for each mRNA are given to the right of the heat map .
+PMC2592359	false	fig-3	37	171	Signals higher than the prechemotherapy baseline are shown in red ; signals below baseline are displayed in green .
+PMC2592359	false	s2c	38	172	The finding that human prostatic tumor cells express a SASP in response to MIT in culture allowed us to determine whether MIT induced a SASP in vivo .
+PMC2592359	false	s2c	38	173	We laser captured approximately 1,000 tumor epithelial cells in biopsies from human prostate cancer patients before MIT chemotherapy and in tissues removed after chemotherapy and prostatectomy     .
+PMC2592359	false	s2c	38	174	By microscopic inspection , the captured cells were devoid of stromal cells and leukocytes .
+PMC2592359	false	s2c	38	175	Since mRNA and secreted protein levels correlated well for significantly up regulated SASP factors                                 , we used quantitative PCR to quantify mRNAs encoding senescence and proliferation markers and SASP factors .
+PMC2592359	false	s2b	39	176	After chemotherapy , most of the tumors contained significantly higher levels of p16INK4a and p21 mRNAs , which are typically up regulated in senescent cells            .
+PMC2592359	false	s2b	39	177	They also contained significantly lower levels of proliferation associated mRNAs encoding cyclin A , MCM-3 , and PCNA            .
+PMC2592359	false	s2b	39	178	These results suggest that MIT induced tumor cells to senesce in vivo .
+PMC2592359	false	s2b	39	179	Importantly , most of the tumors contained significantly higher levels of mRNAs encoding the SASP components IL-6 , IL-8 , GM-CSF , GRO-alpha , IGFBP-2 , and IL-1beta            .
+PMC2592359	false	s2b	39	180	However , the levels of mRNA encoding IL-2 , which is not a SASP component , did not significantly change on average            .
+PMC2592359	false	s2b	39	181	These findings ( summarized in         E ) suggest that the SASP is not limited to cultured cells , but also occurs when human cells senesce in vivo .
+PMC2592359	false	s2d	40	182	The epithelial-mesenchymal transition ( EMT ) confers invasive and metastatic properties on epithelial cells , and is an important step in cancer progression that presages the conversion of carcinomas in situ to potentially fatal invasive cancers        .
+PMC2592359	false	s2d	40	183	We found that the fibroblast SASP induced a classic EMT in two nonaggressive human breast cancer cell lines ( T47D and ZR75 .1 ) .
+PMC2592359	false	s2d	40	184	Secreted factors from SEN , but not PRE , fibroblasts caused dose dependent epithelial cell scattering , a mesenchymal characteristic            .
+PMC2592359	false	s2d	40	185	Moreover , immunostaining showed that PRE CM preserved surface associated beta-catenin and E-cadherin , and strong cytokeratin 8 and 18 expression            , and western analysis showed that PRE CM preserved low expression of vimentin ( see below ) .
+PMC2592359	false	s2d	40	186	These features are epithelial characteristics frequently retained by nonaggressive cells        .
+PMC2592359	false	s2d	40	187	By contrast , CM from SEN cells markedly decreased overall and cell surface beta-catenin and E-cadherin and reduced cytokeratin expression            , consistent with a mesenchymal transition .
+PMC2592359	false	s2d	40	188	Further , SEN CM down regulated the tight junction protein claudin-1 , leaving the remaining protein localized primarily to the nucleus            , a hallmark of an EMT and a feature of metastatic but not primary tumors     .
+PMC2592359	false	s2d	40	189	Finally , SEN CM increased vimentin expression ( see below ) , another mesenchymal marker and hallmark of an EMT     .
+PMC2592359	true	fig-4	41	190	Novel SASP Biological Activities and Key Factors
+PMC2592359	false	fig-4	42	191	( A ) T47D and ZR75 .1 cells were incubated for 2 d with CM from PRE fibroblasts , or SEN fibroblasts induced by XRA .
+PMC2592359	false	fig-4	42	192	The cells were photographed under phase contrast , or analyzed for cluster size using an automated Cellomix imager and software .
+PMC2592359	false	fig-4	42	193	Smaller cluster or clump sizes ( pixel2 ) indicate greater scattering .
+PMC2592359	false	fig-4	42	194	The senescence inducer is given in parentheses .
+PMC2592359	false	fig-4	42	195	Quadruple asterisks ( **** ) indicate p < 0.001 .
+PMC2592359	false	fig-4	42	196	Error bars indicate the standard deviation around the mean .
+PMC2592359	false	fig-4	43	197	( B ) T47D and ZR75 .1 cells were incubated with the indicated CM for 3 d and immunostained for the indicated EMT marker proteins .
+PMC2592359	false	fig-4	43	198	Induction of the mesenchymal marker vimentin by SEN ( XRA ) CM is shown by the western blot in         A.
+PMC2592359	false	fig-4	44	199	( C ) Epithelial cell invasion was measured using Boyden chambers containing CM alone or CM plus IL-6 and IL-8 recombinant proteins or IL-6 and IL-8 blocking antibodies , as described in Materials and Methods .
+PMC2592359	false	fig-4	44	200	After 16-24 h , invasion was scored by counting the number of cells on the underside of the membrane .
+PMC2592359	false	fig-4	44	201	Invasion stimulated by PRE CM was given a value of one , and other conditions were normalized to this value .
+PMC2592359	false	fig-4	44	202	Invasion was significantly stimulated by recombinant protein and significantly inhibited by antibodies ( p < 0.05 ) .
+PMC2592359	false	fig-4	44	203	Error bars indicate the standard deviation around the mean .
+PMC2592359	false	s2d	45	204	Consistent with a SASP induced EMT , CM from SEN , but not PRE , cells stimulated premalignant MCF-10A and malignant T47D , ZR75 .1 , CAMA1 , and HCC1187 cells to invade a basement membrane            , as well as MDA-MB-231 and MDA-MB-453 ( data not shown and unpublished data ) .
+PMC2592359	false	s2d	45	205	The antibody arrays guided us in identifying the highly secreted SASP components IL-6 and IL-8 as candidates for this activity        .
+PMC2592359	false	s2d	45	206	Recombinant IL-6 and IL-8 added to PRE CM stimulated invasion to varying degrees depending on the epithelial line .
+PMC2592359	false	s2d	45	207	Importantly , IL-6 and IL-8 blocking antibodies reduced the invasion stimulated by SEN CM            , indicating a substantial contribution from IL-6 and IL-8 .
+PMC2592359	false	s2d	45	208	These results support the idea that paracrine activities of the SASP can promote malignant phenotypes in nearby premalignant or malignant cells , and identify new SASP activities : the ability to induce an EMT and to invade a basement membrane .
+PMC2592359	true	s2e	46	209	Oncogenic RAS Induces an Amplified SASP
+PMC2592359	false	s2e	47	210	Certain oncogenes , of which oncogenic RAS is the prototype     , induce senescence in part by indirectly causing DNA damage        .
+PMC2592359	false	s2e	47	211	RAS and related oncogenes are best known for generating mitogenic signals that promote cell-autonomous malignant phenotypes , although RAS transformed cells are also known to secrete specific factors that contribute to tumorigenesis        .
+PMC2592359	false	s2e	47	212	Our finding that SASPs can promote malignant phenotypes in nearby cells suggested that RAS like oncogenes might also promote malignancy cell-nonautonomously via a complex SASP .
+PMC2592359	false	s2e	47	213	To test this possibility , we expressed oncogenic RAS in fibroblasts and epithelial cells using lentiviruses , allowed the cells to senesce           , and analyzed CM using antibody arrays .
+PMC2592359	false	s2e	48	214	RAS induced a SASP that had both common and unique features relative to SASPs induced by REP or XRA                                   .
+PMC2592359	false	s2e	48	215	The RAS induced SASP subsumed a subset of proteins that showed increased secretion upon REP- or XRA induced senescence            .
+PMC2592359	false	s2e	48	216	To simplify the visual comparison , we averaged the highly correlated data                    from cells originating from the same tissue ( WI-38 + IMR90 from embryonic lung , and BJ + HCA-2 from neonatal foreskin ) , and from cells induced to senesce by REP or XRA ( see            -    for details of the averaging , and the raw and processed data ) .
+PMC2592359	false	s2e	48	217	Overall , there was good correlation between the SASPs of fibroblasts induced to senesce by RAS , XRA , or REP            .
+PMC2592359	false	s2e	48	218	Correlations between SEN ( XRA or REP ) ( averaged ) and SEN ( RAS ) were 0.75 for WI-38 and IMR-90 fibroblasts ( averaged ) and 0.84 for HCA-2 fibroblasts .
+PMC2592359	true	fig-5	49	219	Oncogenic RAS Amplifies the SASP
+PMC2592359	false	fig-5	50	220	( A ) Soluble factors produced by the indicated fibroblasts were analyzed by antibody arrays and displayed as described for         A , but in this case , PRE signals were used as the baseline .
+PMC2592359	false	fig-5	50	221	Therefore , color intensities represent log2-fold changes of SEN CM relative to PRE CM from cells of the same genotype under the same culture conditions .
+PMC2592359	false	fig-5	50	222	We pooled and averaged highly correlated data ( see         C ) from cells originating from a common tissue ( WI-38 , IMR-90 from embryonic lung ; and HCA-2 , BJ from neonatal foreskin ) , and from senescence induced by REP or XRA .
+PMC2592359	false	fig-5	50	223	Details of the data processing are provided in            -   .
+PMC2592359	false	fig-5	50	224	The senescence inducer is given in parentheses .
+PMC2592359	false	fig-5	50	225	Signals higher than baseline are shown in yellow ; signals below baseline are displayed in blue .
+PMC2592359	false	fig-5	50	226	The numbers on the heat map key ( right ) indicates log2-fold changes from the baseline .
+PMC2592359	false	fig-5	51	227	( B ) WI-38 cells induced to senesce by RAS were immunostained for the SASP proteins IL-6 and IL-8 , and the senescence marker p16INK4a .
+PMC2592359	false	fig-5	52	228	( C ) Correlations between SASPs induced by RAS versus REP or XRA in fibroblasts from embryonic lung ( WI-38 , IMR-90 , left ) or neonatal foreskin ( HCA-2 , right ) .
+PMC2592359	false	fig-5	52	229	Correlations for the individual cell strains and senescence inducers are given in the tables below the graphs .
+PMC2592359	false	fig-5	53	230	( D ) Shown are the log2-fold values for factors that are significantly increased in CM from fibroblasts induced to senesce by RAS compared to fibroblasts induced to senesce by XRA or REP. Green indicates SEN WI-38 and IMR-90 cells induced to senesce by RAS versus XRA .
+PMC2592359	false	fig-5	53	231	Red indicates SEN WI-38 and IMR-90 induced to senesce by RAS versus REP. Gray indicates HCA2 cells induced to senesce by RAS versus XRA .
+PMC2592359	false	fig-5	53	232	Blue indicates HCA2 cells induced to senesce by RAS versus REP.
+PMC2592359	false	fig-5	54	233	( E ) Shown are the log2-fold values for factors that are uniquely and significantly increased in CM from fibroblasts induced to senesce by RAS compared to PRE CM , but not significantly changed in CM from fibroblasts induced to senesce by XRA or REP. The color code is identical to ( D ) .
+PMC2592359	false	fig-5	55	234	( F ) Soluble factors from CM produced by the indicated epithelial cells were analyzed by antibody arrays and displayed as described for         A , using PRE CM as the baseline .
+PMC2592359	false	fig-5	55	235	Signals higher than baseline are shown in yellow ; signals below baseline are in blue .
+PMC2592359	false	fig-5	55	236	Asterisks ( * ) indicate factors conserved between fibroblasts and epithelial cells .
+PMC2592359	false	fig-5	56	237	( G ) Correlations between SASPs induced by RAS versus XRA in prostate epithelial cells .
+PMC2592359	false	s2e	57	238	A striking feature of the RAS induced SASP was that all fibroblasts induced to senesce by RAS secreted multiple proteins at levels significantly and dramatically higher than other SEN cells .
+PMC2592359	false	s2e	57	239	Because the visual display             is only semiquantitative , the quantitative nature of the amplified SASP is best illustrated by the bar graph            , which plots the log2-fold increases in factors secreted by SEN ( RAS ) cells compared to their SEN ( REP or XRA ) counterparts ( nine proteins were significantly more secreted in SEN ( RAS ) versus SEN ( REP ; XRA ) across all fibroblasts ) .
+PMC2592359	false	s2e	57	240	In addition , the RAS induced SASPs had unique features because this SASP included five proteins that were not secreted at significantly elevated levels by other SEN ( REP or XRA ) cells            .
+PMC2592359	false	s2e	57	241	We refer to the overall secretory response of cells induced to senesce by RAS , including the quantitative increase in secretion of specific proteins and the secretion of proteins not present in REP or XRA SASPs , as the amplified SASP .
+PMC2592359	false	s2e	57	242	We confirmed the robust SASP induced by RAS by immunostaining                           and ELISAs            .
+PMC2592359	false	s2e	57	243	Further , we confirmed that oncogenic RAS induced an amplified SASP in prostate epithelial cells                   .
+PMC2592359	false	s2d	58	244	Taken together , these results suggest that oncogenic RAS , despite inducing a tumor-suppressive senescence arrest , might promote tumorigenesis in a cell-nonautonomous manner by inducing an amplified SASP .
+PMC2592359	true	s2f	59	245	Cell-Nonautonomous Tumor-Suppressive Function of p53
+PMC2592359	false	s2f	60	246	The p53 pathway is important for establishing and maintaining the senescence growth arrest caused by genotoxic stress , although cells that lack p53 can undergo senescence providing they express p16     .
+PMC2592359	false	s2f	60	247	We therefore asked whether p53 established or maintained the SASP .
+PMC2592359	false	s2f	60	248	To inactivate p53 , we expressed genetic suppressor element 22 ( GSE22 , also designated GSE ) , a peptide that prevents p53 tetramerization and causes inactive monomeric p53 to accumulate ( detectable by immunostaining ,                .
+PMC2592359	false	s2f	60	249	We obtained similar results using a short hairpin RNA ( shRNA ) that reduces p53 expression by RNA interference .
+PMC2592359	false	s2f	60	250	We induced WI-38 fibroblasts to senesce by REP or XRA and then inactivated p53 .
+PMC2592359	false	s2f	60	251	Because WI-38 and IMR90 cells senesce with high levels of p16INK4a , they do not resume proliferation when p53 is inactivated     .
+PMC2592359	false	s2f	60	252	To simplify the visual comparison of antibody array readouts , we averaged data from highly correlated samples , as described for          ( see             -    for details of the averaging , and the raw and processed data ) .
+PMC2592359	false	s2f	60	253	The SASPs of SEN WI-38 in which p53 was either wild type or inactivated after senescence were similar by visual display                                       , and by the graphical plot of the log2-fold changes that occurred in specific factors                                                                                                                     versus SEN ( REP ) in WI-38 ) and             -    .
+PMC2592359	false	s2f	60	254	This finding indicates that p53 is not required to maintain an established SASP .
+PMC2592359	true	fig-6	61	255	p53 Restrains the SASP
+PMC2592359	false	fig-6	62	256	( A ) CM containing factors secreted by the indicted cells were analyzed by antibody arrays and displayed , using PRE CM as the baseline .
+PMC2592359	false	fig-6	62	257	We pooled data from cells of the same genotype ( p53 wild type or p53 deficient ) under the same culture conditions .
+PMC2592359	false	fig-6	62	258	SEN indicates pooled data from cells originating from the same tissue ( WI-38 , IMR-90 from embryonic lung ; and HCA-2 , BJ from neonatal foreskin ) and induced to senesce by REP or XRA .
+PMC2592359	false	fig-6	62	259	Pooling and averaging of highly correlated samples was performed as described for         , and details of the data processing are provided in             -   .
+PMC2592359	false	fig-6	62	260	The top four rows are the same top four rows in         A and are included to serve as a visual reference .
+PMC2592359	false	fig-6	62	261	The senescence inducer is given in parentheses .
+PMC2592359	false	fig-6	62	262	p53 status is indicated as either wild type ( wt ) or deficient ( d ) owing to either GSE22 expression or expression of an shRNA against p53 .
+PMC2592359	false	fig-6	62	263	Manipulations are indicated in sequence , separated by a greater than symbol ( > ) .
+PMC2592359	false	fig-6	62	264	The heat map key ( right ) indicates the log2-fold changes .
+PMC2592359	false	fig-6	62	265	Signals higher than the baseline are shown in yellow ; signals below baseline are displayed in blue .
+PMC2592359	false	fig-6	62	266	Comparison between rows is accurately illustrated in ( B ) and ( C ) in which each genetically manipulated cell type is compared to its appropriate control baseline .
+PMC2592359	false	fig-6	63	267	( B ) Log2-fold values for SASP factors that are significantly increased , or significantly and uniquely ( as indicated by double asterisks [ ** ] ) elevated , in CM from SEN cells made p53 deficient by GSE22 , using untreated wild-type SEN values as the baseline .
+PMC2592359	false	fig-6	63	268	Green indicates WI-38 cells made senescent by XRA , after which p53 was subsequently inactivated by expressing GSE22 using a lentivirus ; these cells do not resume proliferation ( " unreverted " ) upon p53 inactivation ( see           .
+PMC2592359	false	fig-6	63	269	Blue indicates WI-38 in which p16 was inactivated by an shRNA , induced to senesce by XRA , then infected with the GSE22 expressing lentivirus ; these cells do revert ( REV ) after p53 inactivation .
+PMC2592359	false	fig-6	63	270	Pink indicates HCA2 cells made SEN by XRA , then infected with GSE22 lentivirus ; these cells also revert after p53 inactivation .
+PMC2592359	false	fig-6	64	271	( C ) Log2-fold values for SASP factors that are significantly increased , or significantly and uniquely ( as indicated by double asterisks [ ** ] ) elevated , in CM from cells made p53 deficient ( by GSE22 expression ) , then induced to senesce by REP , XRA , or RAS .
+PMC2592359	false	fig-6	64	272	Red indicates WI-38 and IMR90 ( averaged ) cells expressing GSE22 , then induced to senesce by XRA or REP , using cells made SEN by XRA or REP as a baseline .
+PMC2592359	false	fig-6	64	273	Gray indicates WI-38 , IMR-90 , and HCA2 ( averaged ) expressing GSE22 , then made senescent by RAS , using SEN by RAS as a baseline .
+PMC2592359	false	fig-6	65	274	( D ) WI-38 cells expressing GSE22 were induced to senesce by XRA and then immunostained for the SASP proteins IL-6 and IL-8 , the senescence marker p16INK4a , and p53 , which accumulates in the presence of GSE22 .
+PMC2592359	false	fig-6	66	275	( E ) Comparative graphical representation of the secretory profiles of cells made senescent by XRA or REP ( dotted line ) , RAS ( black line ) , p53 inactivation ( GSE22 ) followed by XRA or REP ( blue line ) , or p53 inactivation ( GSE22 ) followed by RAS ( red line ) .
+PMC2592359	false	fig-6	66	276	The increased slopes ( as indicated by the arrow ) indicate amplified SASPs .
+PMC2592359	false	fig-6	67	277	( F ) Hierarchical cluster analysis of all the cells analyzed in ( A ) , plus the SASP induced by RAS ( see          .
+PMC2592359	false	fig-6	67	278	RAS status is indicated as either wild type ( wt ) or oncogenic ( o ) owing to expression of Ha-RASv12 .
+PMC2592359	false	fig-6	68	279	( G ) WI-38 cells with wild-type ( wt ) or inactive ( GSE ) p53 were irradiated or induced to express oncogenic RAS ( RAS ) , and CM was collected 4 or 10 d later .
+PMC2592359	false	fig-6	68	280	Soluble factors were analyzed by antibody arrays and displayed as described in         D , using PRE CM as the baseline ( black column on the left ; see also          C for details ) .
+PMC2592359	false	fig-6	68	281	Signals higher than baseline are shown in yellow ; signals below baseline are in blue .
+PMC2592359	false	fig-6	68	282	n and a , not applicable .
+PMC2592359	false	fig-6	69	283	( H ) Log2-fold values for prostate epithelial cell SASP factors that are significantly or uniquely ( as indicated by double asterisks [ ** ] ) elevated in CM from p53 deficient cancer cells ( PC3 , BPH1 , and RWPE1 ) that were induced to senesce by XRA , compared to primary p53 wild-type cells ( PrECs ) that were induced to senesce by XRA .
+PMC2592359	true	fig-7	70	284	Biological Activities of the Amplified SASP
+PMC2592359	false	fig-7	71	285	( A ) T47D and ZR75 .1 cells were incubated with the indicated CM for 3 d and then analyzed for cell scattering , immunostained for the indicated proteins , and analyzed for vimentin and actin levels by western blotting .
+PMC2592359	false	fig-7	71	286	Controls for the immunofluorescence from the same individual experiment are shown in         B .
+PMC2592359	false	fig-7	71	287	The senescence inducer is given in parentheses .
+PMC2592359	false	fig-7	71	288	p53 status was either wild type or deficient ( GSE ) .
+PMC2592359	false	fig-7	71	289	Manipulations are indicated in sequence , separated by > .
+PMC2592359	false	fig-7	72	290	( C ) Epithelial cells were incubated with CM from the indicated fibroblasts and cell number was determined by cell counting , total protein , or green fluorescent protein ( GFP ) fluorescence using epithelial cells expressing GFP , as described in     .
+PMC2592359	false	fig-7	72	291	A single asterisks ( * ) indicates p < 0.05 .
+PMC2592359	false	fig-7	72	292	Error bars indicate the standard deviation around the mean .
+PMC2592359	false	fig-7	73	293	( D ) Model for the cell-nonautonomous activities of oncogenic RAS and the p53 tumor suppressor protein .
+PMC2592359	false	fig-7	73	294	Oncogenic and genotoxic stress of sufficient magnitude to cause senescence induce a SASP , whereby cells secrete inflammatory cytokines , chemokines , and growth factors that can alter the tissue microenvironment and stimulate malignant phenotypes in nearby cells .
+PMC2592359	false	fig-7	73	295	Thus , in addition to their well-known cell-autonomous effects , oncogenes can promote cancer cell-nonautonomously by inducing a SASP .
+PMC2592359	false	fig-7	73	296	Oncogenic and genotoxic stress also activate p53 , which suppresses cancer by cell-autonomous mechanisms ( promoting repair , or inducing apoptosis or senescence ) .
+PMC2592359	false	fig-7	73	297	In addition , p53 suppresses cancer by the cell-nonautonomous effects of suppressing the intensity of the SASP and its deleterious effects .
+PMC2592359	false	fig-6	74	298	To determine whether p53 is needed to initiate a SASP , we inactivated p53 in PRE WI-38 cells and then induced senescence by XRA , REP , or RAS                       .
+PMC2592359	false	fig-6	74	299	p53 inactivation did not induce a SASP in PRE cells                                                                .
+PMC2592359	false	fig-6	74	300	Upon senescence by either REP , XRA , or RAS , however , p53 deficient cells not only developed a SASP , but the magnitude of the SASP was markedly enhanced                                  , similar to the amplified SASP induced by RAS .
+PMC2592359	false	fig-6	74	301	The quantitative effect of p53 deficiency on SASPs is best illustrated by the bar graph , which plots the log2-fold increases of significantly altered factors secreted by cells made p53 deficient and then induced to senesce , compared to cells with wild-type p53 and induced to senesce                               .
+PMC2592359	false	fig-6	74	302	We confirmed the robust SASP by immunostaining                           and ELISA            .
+PMC2592359	false	fig-6	74	303	Together , these findings indicate that p53 is not required to initiate the SASP , and further that it restrains development of an amplified SASP .
+PMC2592359	false	s2f	75	304	Importantly , the combined loss of p53 and gain of oncogenic RAS resulted in the most amplified SASP                                                                                  .
+PMC2592359	false	s2f	75	305	In addition , when p53 was inactivated prior to XRA , the SASP developed much earlier -- between 2 and 4 d after irradiation                                    , compared to 4-7 d in cells with wild-type p53            .
+PMC2592359	false	s2f	75	306	Interestingly , cells induced to senesce by RAS also developed the amplified SASP earlier -- within 2-4 d after irradiation                                                    .
+PMC2592359	false	s2f	75	307	Thus , loss of the p53 tumor suppressor , or gain of oncogenic RAS , not only amplified the SASP , but also accelerated its development .
+PMC2592359	false	s2d	76	308	We also inactivated p53 in fibroblasts that senesce with low p16INK4a levels : HCA2 , BJ , and WI-38 expressing a shRNA ( shp16 ) that reduces p16INK4a expression by RNA interference .
+PMC2592359	false	s2d	76	309	In these cells , whether the cells were induced to senesce by REP or XRA , the SASP was also markedly amplified                                        .
+PMC2592359	false	s2d	76	310	The quantitative outcome of p53 loss on established SASPs is best illustrated by the bar graph , which lists the significantly altered factors secreted by cells made to senesce and then induced to lose p53 function , compared to cells induced to senesce and keeping a functional p53                                .
+PMC2592359	false	s2d	76	311	As reported     , p53 inactivation reversed the growth arrest of these cells , and the reverted cells resumed growth            .
+PMC2592359	false	s2d	76	312	We refer to these cells as REV , and the reversal of the growth arrest verified the efficacy of the p53 inactivation .
+PMC2592359	false	s2d	76	313	These findings indicate that , once established , the SASP can not be suppressed despite reversion of the senescence growth arrest .
+PMC2592359	false	s2d	76	314	Together , the results indicate that p53 activation by genotoxic stress not only restrains cell proliferation , but also restrains the SASP .
+PMC2592359	false	s2b	77	315	The SASPs of p53 deficient cells were qualitatively similar to those of SEN cells with wild-type p53 , resulting in tightly clustered profiles            .
+PMC2592359	false	s2b	77	316	The main influence of p53 status was quantitative .
+PMC2592359	false	s2b	77	317	As was the case for RAS induced senescence , a subset of SASP proteins was secreted at 5- to 30-fold higher levels after p53 inactivation                                              .
+PMC2592359	false	s2b	77	318	However , there were also unique features of the p53 deficient SASP                           .
+PMC2592359	false	s2b	77	319	Interestingly , many factors that were further or uniquely up regulated by cells made senescent by RAS were amplified in a similar fashion in p53 deficient cells                                 .
+PMC2592359	false	s2g	78	320	To determine the possible biological consequences of the amplified SASPs , we compared the ability of CM from fibroblasts with unamplified or amplified SASPs to induce an EMT and invasiveness in relatively nonaggressive human cancer cells .
+PMC2592359	false	s2g	78	321	CM from cells with an amplified SASP was significantly more potent than CM from SEN cells with wild-type p53 at inducing an EMT , as determined by cell scattering ( compare         A with         A ) , immunostaining ( compare         A with         B ) , and robust expression of vimentin            , an important quantitative marker of the EMT     .
+PMC2592359	false	s2g	78	322	These comparisons were made on cells from the same single experiment .
+PMC2592359	false	s2g	78	323	Further , the amplified SASP was significantly more potent at stimulating cancer cell invasiveness            .
+PMC2592359	false	s2g	78	324	Senescent cells have been shown to stimulate the growth of premalignant or malignant epithelial cells        .
+PMC2592359	false	s2g	78	325	We found the amplified SASP stimulated this epithelial cell growth to a significantly greater extent than the unamplified SASP            .
+PMC2592359	false	s2g	78	326	These findings support the idea that p53 restrains the cell-nonautonomous promalignant activities of the SASP .
+PMC2592359	false	s3	79	327	We identified a hallmark of cellular senescence -- the senescence associated secretory phenotype or SASP -- that confers cell-nonautonomous paracrine functions on cells , and is markedly exacerbated by gain of oncogenic RAS or loss of p53 function .
+PMC2592359	false	s3	80	328	To study the SASP , we modified a commercially available antibody array protocol , substituting radioactivity for chemiluminescence as a final detection method .
+PMC2592359	false	s3	80	329	This modification greatly improved the dynamic range of the arrays , and rendered them highly quantitative , reliable , and accurate .
+PMC2592359	false	s3	80	330	Using this modified array protocol , we were able to study both qualitative and quantitative aspects of the SASP , and compare similarities and differences among individual donors , cell types , and tissues of origin .
+PMC2592359	false	s3	80	331	Importantly , we uncovered quantitative differences caused by oncogenic RAS or loss of p53 function .
+PMC2592359	false	s3	81	332	The SASP was a general feature of senescent fibroblasts from different tissues , donors , and donor ages , as well as prostate epithelial cells , both normal and transformed .
+PMC2592359	false	s3	81	333	There were distinct quantitative and qualitative differences among the different cell strains and lines , as expected given their different genotypes and tissue origins , indicating that the SASP is not an invariant phenotype .
+PMC2592359	false	s3	81	334	However , the striking feature of the phenotype was the marked similarities among the SASPs from diverse donors , cell types , and tissues , suggesting the existence of a conserved core secretory program that any cell undergoing senescence would trigger .
+PMC2592359	false	s3	81	335	Notably , all the SASPs featured high levels of secreted inflammatory cytokines , immune modulators , and growth factors , suggesting that SASPs might have myriad biological activities in addition to those we describe here .
+PMC2592359	false	s3	81	336	Many SASP factors were up regulated at the level of mRNA abundance , suggesting that the phenotype may be controlled transcriptionally .
+PMC2592359	false	s3	82	337	The correspondence between mRNA levels and SASP factors allowed us to probe human biopsy samples for the expression of SASP components before and after DNA damaging chemotherapy .
+PMC2592359	false	s3	82	338	Our results showed that human tumor cells very likely undergo senescence in response to DNA damaging chemotherapy in vivo , as reported for mice     .
+PMC2592359	false	s3	82	339	Moreover , human tumor cells very likely express a SASP after chemotherapy .
+PMC2592359	false	s3	82	340	We speculate that components of chemotherapy induced SASPs , particularly the high levels of inflammatory cytokines , might contribute to the debilitating effects of DNA damaging chemotherapy .
+PMC2592359	false	s3	82	341	These SASPs might also fuel development of secondary cancers by creating a local tissue environment that is permissive for the growth and progression of cells that acquire therapy induced mutations , and fail to senesce or die .
+PMC2592359	false	s3	83	342	Senescent human fibroblasts have been shown to stimulate the proliferation of premalignant and malignant epithelial cells in culture , and the tumorigenicity of premalignant epithelial cells in mouse xenografts           .
+PMC2592359	false	s3	83	343	However , the mechanisms responsible for these stimulatory activities are incompletely understood .
+PMC2592359	false	s3	83	344	We identified two new biological activities of SEN cells mediated by the SASP : the ability to induce an EMT in relatively nonaggressive carcinoma cells , and the ability to stimulate their invasion through a basement membrane .
+PMC2592359	false	s3	83	345	The antibody arrays allowed us to identify two SASP factors , IL-6 and IL-8 , which explained much of these two biological activities .
+PMC2592359	false	s3	83	346	In addition to stimulating an EMT and invasiveness , IL-6 and IL-8 promote inflammation , as do other SASP components .
+PMC2592359	false	s3	83	347	Further , senescent cells secreted or shed cytokine receptors , which could act as decoys and allow nearby premalignant or malignant cells to avoid immune surveillance .
+PMC2592359	false	s3	83	348	As they persist in tissues , senescent cells likely create a proinflammatory tissue environment , which is known to be protumorigenic       .
+PMC2592359	false	s3	83	349	Taken together , our findings support the idea that senescent cells can create a tissue microenvironment that promotes multiple stages of tumor evolution .
+PMC2592359	false	s3	84	350	Recent findings show that tumors induced to senesce in mice gradually regress        , owing perhaps to infiltration by cells of the innate immune system     .
+PMC2592359	false	s3	84	351	Inflammatory cytokines and chemokines , such as IL-6 , IL-8 , GRO-alpha , MCP-1 , or GM-CSF , which are core features of the SASP , might contribute to this infiltration and eventual clearance .
+PMC2592359	false	s3	84	352	Why , then , are senescent cells found with increasing frequency during aging and at sites of age related pathology ?
+PMC2592359	false	s3	84	353	Some SEN cells might be refractory to immune clearance either because they are intrinsically different or they produce higher levels of factors that promote immune evasion .
+PMC2592359	false	s3	84	354	Alternatively , aging or age related pathologies may dampen immune responses or increase the rate at which senescent cells are produced .
+PMC2592359	false	s3	84	355	Whatever the case , there is mounting evidence that senescent cells increase with age         and that chronic inflammation is a prominent feature of aging     .
+PMC2592359	false	s3	84	356	If the senescence response is an example of antagonistic pleiotropy , the senescent microenvironment created by SASPs might contribute to degenerative diseases of aging , such as osteoarthritis or atherosclerosis        , in which senescent cells are found , as well as fuel the development of late-life cancers .
+PMC2592359	false	s3	85	357	The senescence associated growth arrest is beneficial because it arrests the growth of cells at risk for neoplastic transformation ( cell-autonomous tumor suppressor function ) .
+PMC2592359	false	s3	85	358	It can be deleterious , however , because an accumulation of nondividing senescent cells can diminish the ability of renewable tissues to repair or regenerate .
+PMC2592359	false	s3	85	359	Although some aged tissues contain less than one or only a few percent of senescent cells           , others can accumulate as many as 15 % senescent cells        .
+PMC2592359	false	s3	85	360	Likewise , the senescence associated secretory phenotype might have both beneficial and deleterious effects .
+PMC2592359	false	s3	85	361	The SASP can be beneficial because some SASP components reinforce the senescent growth arrest by an autocrine cytokine network              , thereby contributing to maintenance of the senescence growth arrest .
+PMC2592359	false	s3	85	362	In addition , many SASP components are predicted to stimulate tissue repair and regeneration , and act as " danger signals " within the vicinity of tissues or systemically at the organism level .
+PMC2592359	false	s3	85	363	Thus , cells undergoing senescence may initially signal tissue damage , and initiate tissue repair via the SASP .
+PMC2592359	false	s3	85	364	Such effect would be the beneficial cell-nonautonomous function of cellular senescence .
+PMC2592359	false	s3	85	365	When chronically present , however , the secretory activity of senescent cells may be deleterious , disrupting normal tissue structure and function , and eventually stimulate age associated tissue degeneration or promote malignant phenotypes ( e.g. , cancer progression , as described here ) .
+PMC2592359	false	s3	86	366	Oncogenic RAS induced a SASP that was more robust than other senescence inducers , even when p53 function was intact .
+PMC2592359	false	s3	86	367	Oncogenic RAS is a cell-autonomous driver of cell proliferation in many cancer cells .
+PMC2592359	false	s3	86	368	In normal cells , however , oncogenic RAS causes genotoxic stress and senescence        , inducing a SASP and thereby conferring complex cell and nonautonomous oncogenic activities .
+PMC2592359	false	s3	86	369	Thus , oncogenes such as RAS , which are known to activate protumorigenic paracrine mechanisms during transformation        , might also exert cell-nonautonomous protumorigenic effects through nontransformed cells during the process of inducing senescence            .
+PMC2592359	false	s3	87	370	How does oncogenic RAS induce a SASP ?
+PMC2592359	false	s3	87	371	One possibility is that this activity of RAS is the result of the genotoxic stress caused by RAS stimulated hyperproliferation .
+PMC2592359	false	s3	87	372	Alternatively , oncogenic RAS might induce a SASP more directly by stimulating the MAP kinase or other signaling pathway .
+PMC2592359	false	s3	87	373	Whatever the case , many aspects of the SASP induced by RAS resembled the SASP of p53 deficient cells .
+PMC2592359	false	s3	88	374	Genotoxic stress sufficient to cause senescence both activates p53 and stimulates a SASP .
+PMC2592359	false	s3	88	375	Our data indicate a dual role for p53            .
+PMC2592359	false	s3	88	376	First , in responding to genotoxic stress , p53 imposes the senescence growth arrest , consistent with its role as a cell-autonomous tumor suppressor .
+PMC2592359	false	s3	88	377	Second , p53 restrains the SASP because loss of p53 function , in combination with senescence causing damage , greatly amplifies the SASP .
+PMC2592359	false	s3	88	378	p53 might restrain the SASP in part by rapidly arresting growth after cells experience DNA damage ( unpublished data ) , thereby preventing the accumulation of further damage that could ensue should cells attempt to replicate the damaged DNA template .
+PMC2592359	false	s3	88	379	Additionally , p53 optimizes DNA repair , so cells that lack p53 might accumulate more DNA damage than cells with wild-type p53 , which in turn might result in a more robust ( amplified ) SASP .
+PMC2592359	false	s3	88	380	Thus , the p53 tumor suppressor may act as an early sensor of oncogenic stress , and ultimately operate as a molecular catalyst preventing tissue inflammation .
+PMC2592359	false	s3	88	381	The strong correlation between DNA damage and development of a SASP suggests the SASP might be activated by the mammalian DNA damage response ( DDR ) .
+PMC2592359	false	s3	88	382	Indeed , our preliminary data suggest that some components of the DDR are important for establishing and maintaining the SASP ( F. Rodier , J-P .
+PMC2592359	false	s3	88	383	Coppe , C. K. Patil , W. A. M. Hoeijmakers , D. P. Munoz , et al. , unpublished data ) .
+PMC2592359	false	s3	88	384	However , the SASP does not develop immediately after DNA damage and therefore is not a simple or classic DDR .
+PMC2592359	false	s3	88	385	Rather , the SASP is a slow and persistent response to severe or irreparable damage of sufficient magnitude to cause senescence .
+PMC2592359	false	s3	89	386	The persistence of the SASP might have important biological consequences .
+PMC2592359	false	s3	89	387	For example , cells that express low p16INK4a levels ( e.g. , SEN ( REP ) or SEN ( XRA ) HCA2 ) senesce in response to severe damage by activating the p53 pathway ; when p53 is subsequently inactivated in these cells , they resume proliferation     , but do not lose the SASP .
+PMC2592359	false	s3	89	388	Moreover , they eventually amplify the SASP as they acquire additional damage owing to proliferation in the absence of a functional checkpoint .
+PMC2592359	false	s3	89	389	Proliferating p53 deficient cells that senesced in response to genotoxic stress also developed a highly amplified secretory phenotype .
+PMC2592359	false	s3	89	390	These cells are at greater risk for escaping senescence ( unpublished data ) and would pose a danger to the tissue , not only by virtue of their proliferation , but also by virtue of their amplified SASP .
+PMC2592359	false	s3	89	391	Moreover , human cells that bypass oncogene induced senescence     , as well as cells in some human premalignant lesions        , show signs of a persistently activated DDR .
+PMC2592359	false	s3	89	392	It is possible , if not likely , that these cells also express a SASP and therefore greatly increase the risk of cancer progression in vivo .
+PMC2592359	false	s3	89	393	By restraining the SASP , p53 acts as a cell-nonautonomous tumor suppressor , dampening the protumorigenic activities of the SASP .
+PMC2592359	false	s3	89	394	This activity might explain why a p53 deficient stroma promotes epithelial cancer progression        .
+PMC2592359	false	s3	89	395	We therefore propose that , in addition to its cell-autonomous ability to suppress cancer by inhibiting cell growth , p53 might further suppress cancer by restraining development of an inflammatory tissue milieu caused by a SASP .
+PMC2592359	false	s3	90	396	Our broad , quantitative assessment of factors secreted by senescent cells revealed a highly complex secretory phenotype .
+PMC2592359	false	s3	90	397	We show here that this phenotype can promote cellular behaviors associated with malignancy , and suggest that cells that acquire mutations such as those that inactivate p53 and and or activate RAS functions can be particularly malignant owing to the paracrine activities of the SASP .
+PMC2592359	false	s3	90	398	It is very likely , though , that additional consequences of the SASP will be uncovered as the many SASP components are tested for specific activities .
+PMC2592359	false	s4b	91	399	Cultures were washed and incubated in serum-free Dulbecco 's modified Eagle medium ( DMEM ) for 24 h to generate CM , which was collected and cells counted .
+PMC2592359	false	s4b	91	400	CM was filtered ( 0.2 mum pore ) , frozen at -80 degreesC , and analyzed using antibody arrays ( RayBiotech or Chemicon ; Human cat #AA 1001CH-8 ; Mouse cat #AA 1003M-8 ) essentially as per the manufacturer 's instructions .
+PMC2592359	false	s4b	91	401	Briefly , CM was thawed and concentrated 2- to 3-fold at 4 degreesC ( 3 kDa cutoff ) .
+PMC2592359	false	s4b	91	402	Volumes equivalent to 2 x 105 cells were diluted to 1.2 ml with DMEM and mixed with 300 mul of blocking solution .
+PMC2592359	false	s4b	91	403	Array membranes were preincubated with 1.5 ml of blocking solution , incubated with CM mixture ( overnight , 4 degreesC ) , washed 5x , then incubated with biotin conjugated antibody cocktail ( 1 h 45 min , room temperature ) .
+PMC2592359	false	s4b	91	404	After five washes , detection solution containing 0.265 muCi 35S-streptavidin ( 732 Ci and mmol ; 0.1 mCi and ml ) in blocking solution was added ( 1 h 45 min , room temperature ) , followed by five washes .
+PMC2592359	false	s4b	91	405	Radioactivity bound to the filters was detected and quantified using a phosphorimager .
+PMC2592359	false	s4b	91	406	Signals were analyzed as described in        .
+PMC2592359	true	s4d	92	407	Recombinant proteins , blocking antibodies , and vectors .
+PMC2592359	false	s4d	93	408	Recombinant proteins and blocking antibodies were obtained as described in        .
+PMC2592359	false	s4d	93	409	Vectors to express oncogenic RAS ( Ha-RASv12 ) , TIN215C , and GSE22 were described           .
+PMC2592359	true	s4e	94	410	Human study and tissues .
+PMC2592359	false	s4e	95	411	Patients with high-risk localized prostate cancer enrolled and treated on a phase I-II clinical neoadjuvant chemotherapy trial at the Oregon Health & Science University , Portland VA Medical Center , Kaiser Permanente Northwest Region , Legacy Health System , and University of Washington     .
+PMC2592359	false	s4e	95	412	Patients provided signed informed consent .
+PMC2592359	false	s4e	95	413	From each patient , prostate biopsies were obtained prior to chemotherapy .
+PMC2592359	false	s4e	95	414	At the time of radical prostatectomy following chemotherapy , cancer containing tissue samples were obtained and frozen .
+PMC2592359	false	s4e	95	415	Frozen sections were processed as described in        .
+PMC2592359	false	s4e	95	416	Cancerous epithelium from pretreated biopsy and posttreated prostatectomy specimens were captured separately and histology of acquired cells verified by review of hematoxylin and eosin ( H&E ) - stained sections from each sample and review of the laser confocal microscopy ( LCM ) images .
+PMC2592359	true	s4f	96	417	Real-time polymerase chain reaction ( RT-PCR ) .
+PMC2592359	false	s4g	97	418	Correlation coefficients were evaluated using Pearson correlation .
+PMC2592359	false	s4g	97	419	Statistical significance between distributions of protein or mRNA signals was evaluated using a Student t-test with two tails , and an assumption of equal variance .
+PMC2592359	false	s4g	97	420	For determination of the significance of overlap between epithelial and fibroblast SASPs , we used the hypergeometric distribution with the following parameters : population size = 120 ( total proteins on the array ) , sample size = 41 ( fibroblast SASP ; see         A ) , successes in population = 39 ( epithelial SASP ; see         C ) , and successes in sample = 24 ( overlap between the fibroblast and epithelial SASPs ; see         C , asterisks ) .
+PMC2592359	false	s4g	97	421	The same statistical analysis was used to compare SEN ( XRA ) normal epithelial cells ( PrECs ) versus SEN ( XRA ) normal fibroblasts ( the following parameters were used : 120 , 29 , 25 , and 12 ; see         A and Results ) .
+PMC2592359	true	supm-1	98	422	ELISA Measurements of SASP Soluble Factors
+PMC2592359	false	supm-1	99	423	( A ) Selected SASP factors ( IL-6 [ green ] , IL-8 [ blue ) , GRO-alpha and KC [ orange ] , FGF-7 / KGF [ ( pink ] , and OPG [ grey ] ) present in CM and identified by array analyses were validated and quantified by ELISAs , as described in Materials and Methods .
+PMC2592359	false	supm-1	100	424	( B ) IL-6 ( green ) , IL-8 ( blue ) , and GRO-alpha ( orange ) were measured in CM from SEN ( XRA ) and SEN ( MIT ) fibroblasts and epithelial cells by ELISA .
+PMC2592359	false	supm-1	100	425	Values were normalized to PRE levels .
+PMC2592359	false	supm-1	101	426	( 196 KB PDF )
+PMC2592359	true	supm-2	102	427	Immunostaining for SASP Factors
+PMC2592359	false	supm-2	103	428	Selected SASP factors present in CM and detected by array analyses were visualized intracellularly by immunofluorescence .
+PMC2592359	false	supm-2	103	429	The cells were also immunostained for p16 and p53 .
+PMC2592359	false	supm-2	103	430	Each panel is a different field .
+PMC2592359	false	supm-2	103	431	Cells are designated as described in the text and         .
+PMC2592359	false	supm-2	103	432	Growth status indicated by a plus sign ( + ) means proliferating , a negative sign ( - ) means cell cycle arrested .
+PMC2592359	false	supm-2	103	433	p53 status indicated by a plus sign ( + ) means wild type , a negative sign ( - ) means deficient .
+PMC2592359	false	supm-2	104	434	( 582 KB PDF )
+PMC2592359	true	supm-3	105	435	p53 Activation by Low- or High-Dose X Irradiation
+PMC2592359	false	supm-3	106	436	WI-38 cells were X irradiated with 0 , 0.5 , or 10 Gy X-rays .
+PMC2592359	false	supm-3	106	437	Cell lysates were prepared 2 h or 10 d later and analyzed for total p53 protein levels , p53 phosphorylated on serine 15 ( p-p53ser15 ) , or actin ( loading control ) by western blotting .
+PMC2592359	false	supm-3	107	438	( 117 KB PDF )
+PMC2592359	true	supm-4	108	439	Comparison between Secreted Protein Levels and mRNA levels in PRE and SEN ( XRA and REP ) Human Fibroblasts
+PMC2592359	false	supm-4	109	440	( A ) Shown are heat maps of selected SASP ( secreted protein levels significantly up regulated by SEN compared to PRE cells ) and non SASP ( secreted protein levels not significantly changed by SEN compared to PRE cells ) factors .
+PMC2592359	false	supm-4	109	441	Studied SASP factors are IL-6 and -8 , GRO-alpha , -beta , and -gamma , GM-CSF , ICAM-1 , OPG , MCP-1 , -2 , and -4 , and leptin .
+PMC2592359	false	supm-4	109	442	Studied non SASP factors are MCP-3 , RANTES , ENA-78 , PDGF-B , IGFBP-3 , eotaxin , GCP-2 , and AREG .
+PMC2592359	false	supm-4	109	443	The left column lists the factors , all of which were readily detected by the antibody arrays ( see            .
+PMC2592359	false	supm-4	109	444	The right column gives the correlation between mRNA and secreted protein levels .
+PMC2592359	false	supm-4	109	445	For each of the indicated cell strains ( WI-38 , IMR-90 , HCA-2 , and BJ ) , the colored display shows the average mRNA level ( green below baseline ; red above baseline ) or average secreted protein level ( blue below baseline ; yellow above baseline ) , all relative to the average for all samples from each strain .
+PMC2592359	false	supm-4	109	446	Some of the SASP components show a high correlation between mRNA and secreted protein level .
+PMC2592359	false	supm-4	109	447	However some of the SASP and almost all of non SASP factors show a poor or even negative correlation between the secreted protein and mRNA level .
+PMC2592359	false	supm-4	110	448	( B ) Overall comparison between secreted protein levels and mRNA levels in PRE and SEN ( XRA and REP ) .
+PMC2592359	false	supm-4	110	449	All PRE and SEN measurements were averaged to create a baseline , as described in ( A ) .
+PMC2592359	false	supm-4	110	450	All data points presented in ( A ) are plotted .
+PMC2592359	false	supm-4	111	451	( C ) PRE and SEN data points are plotted separately .
+PMC2592359	false	supm-4	111	452	Each plot shows all SASP and non SASP factors .
+PMC2592359	false	supm-4	112	453	( D ) SASP and non SASP data points are plotted separately .
+PMC2592359	false	supm-4	112	454	Each plot shows all PRE and SEN data points .
+PMC2592359	false	supm-4	113	455	( 371 KB PDF )
+PMC2592359	true	supm-5	114	456	The SASP Development Is Regulated by p53 and RAS
+PMC2592359	false	supm-5	115	457	( A ) Comparative analysis of SASPs extent using WI-38 and IMR90 as a model for senescence establishment and maintenance .
+PMC2592359	false	supm-5	115	458	The senescence inducer is given in parenthesis .
+PMC2592359	false	supm-5	115	459	The p53 and RAS status are listed below ( a plus sign [ + ] means wild type ; a negative sign [ - ] means dysfunctional for p53 and oncogenic for RAS ) .
+PMC2592359	false	supm-5	115	460	The secretory profile extent is the number of significantly oversecreted factors composing each SASP .
+PMC2592359	false	supm-5	115	461	Using the SEN ( REP ; XRA ) profile as the baseline SASP profile ( p53 and RAS wild type ) , the other SASPs can be analyzed as follow : some secreted factors are overall conserved and overlap with the SEN ( REP ; XRA ) SASP ; among these conserved factors , some are significantly further increased ; finally , some other factors are unique to these other SASPs ( see also           and   .
+PMC2592359	false	supm-5	115	462	This comparison shows that the loss of p53 tumor suppressor combined with the gain of oncogenic RAS allow the development of the most amplified SASP .
+PMC2592359	false	supm-5	116	463	( B ) WI-38 cells , wild-type ( wt ) , or p53 deficient ( expressing GSE ; noted as a minus sign [ - ] ) , were irradiated at the indicated doses or induced to senescence by RAS ( see also          D and  G ) .
+PMC2592359	false	supm-5	116	464	CM were collected 2 , 4 , 7 , or 10 d later , and soluble factors were detected and displayed .
+PMC2592359	false	supm-5	116	465	PRE and SEN ( 10 d ) signals were averaged and used as the baseline .
+PMC2592359	false	supm-5	116	466	Signals higher than baseline are shown in yellow ; signals below baseline are in blue ( see         A and  D , legend ) .
+PMC2592359	false	supm-5	117	467	( C ) Unsupervised hierarchical cluster analysis of cells presented in         G. PRE cells secretory profile was compared to the secretory profile of cells whose CM was collected at 4 d or 10 d after low-dose ( 0.5 Gy ) or high-dose ( 10 Gy ) irradiation , or induced to senescence due to oncogenic RAS overexpression , and lacking or not p53 function ( GSE ) .
+PMC2592359	false	supm-5	117	468	Note that cells that senesced while lacking p53 function or due to oncogenic RAS overexpression cluster together at each time point after senescence induction .
+PMC2592359	false	supm-5	117	469	Cells irradiated with 0.5 Gy are very similar to PRE at all time points postdamage ( correlation > 0.95 ) .
+PMC2592359	false	supm-5	117	470	At 4 d post 10 Gy irradiation , cells harboring a wild-type p53 pathway are still very similar to their PRE counterpart ( correlation > 0.95 ) , whereas at 10 d post 10 Gy irradiation , cells are very dissimilar to PRE ( correlation < 0 ; they have developed a SASP ) .
+PMC2592359	false	supm-5	117	471	The clustering analysis also shows that cells that senesced in the absence of p53 function or due to oncogenic RAS overexpression resemble more each other than cells that senesced with a wild-type p53 background , suggesting that the loss of p53 and the gain of oncogenic RAS have similar dominant effects over SASP development and establishment .
+PMC2592359	false	supm-5	118	472	( 142 KB PDF )
+PMC2592359	true	supm-6	119	473	Growth Reversion of SEN Cells after p53 Inactivation
+PMC2592359	false	supm-6	120	474	SEN ( REP ) and SEN ( XRA ) WI-38 cells were monitored for cell growth for 20 d before infection with lenti-GSE ( rectangle ) .
+PMC2592359	false	supm-6	120	475	Cell number was subsequently monitored for an additional 30 d thereafter .
+PMC2592359	false	supm-6	120	476	Because SEN WI-38 cells express p16 , p53 inactivation by GSE does not revert the SEN growth arrest .
+PMC2592359	false	supm-6	120	477	Cells that do not express p16 at SEN ( shp16 expressing WI-38 or unmodified HCA2 cells ) were similarly monitored and infected .
+PMC2592359	false	supm-6	120	478	In contrast to SEN WI-38 cells , p16 deficient cells resumed growth ( reverted ) after p53 inactivation and proliferated for at least the ensuing 30 d.
+PMC2592359	false	supm-6	121	479	( 79 KB PDF )
+PMC2592359	true	supm-7	122	480	Computational Analysis of Antibody Array Data Presented in          ( Human Fibroblasts ; SEN ( XRA ) and SEN ( REP ) ) : Part 1
+PMC2592359	false	supm-7	123	481	( 31 KB DOC )
+PMC2592359	true	supm-8	124	482	Computational Analysis of Antibody Array Data Presented in          ( Human Fibroblasts ; SEN ( XRA ) and SEN ( REP ) ) : Part 2
+PMC2592359	false	supm-8	125	483	( 28 KB XLS )
+PMC2592359	true	supm-9	126	484	Computational Analysis of Antibody Array Data Presented in          ( Human Fibroblasts ; SEN ( XRA ) and SEN ( REP ) ) : Part 3
+PMC2592359	false	supm-9	127	485	( 142 KB XLS )
+PMC2592359	true	supm-10	128	486	Computational Analysis of Antibody Array Data Presented in          ( Human Fibroblasts ; SEN ( XRA ) and SEN ( REP ) ) : Part 4
+PMC2592359	false	supm-10	129	487	( 162 KB XLS )
+PMC2592359	true	supm-11	130	488	Computational Analysis of Antibody Array Data Presented in          and          ( Human Epithelial Cells ; SEN ( XRA ) ) : Part 1
+PMC2592359	false	supm-11	131	489	( 31 KB DOC )
+PMC2592359	true	supm-12	132	490	Computational Analysis of Antibody Array Data Presented in          and          ( Human Epithelial Cells ; SEN ( XRA ) ) : Part 2
+PMC2592359	false	supm-12	133	491	( 39 KB XLS )
+PMC2592359	true	supm-13	134	492	Computational Analysis of Antibody Array Data Presented in          and          ( Human Epithelial Cells ; SEN ( XRA ) ) : Part 3
+PMC2592359	false	supm-13	135	493	( 78 KB XLS )
+PMC2592359	true	supm-14	136	494	Computational Analysis of Antibody Array Data Presented in          and          ( Human Epithelial Cells ; SEN ( XRA ) ) : Part 4
+PMC2592359	false	supm-14	137	495	( 159 KB XLS )
+PMC2592359	true	supm-15	138	496	Computational Analysis of Antibody Array Data Presented in          ( Oncogene Induced Senescence ) : Part 1
+PMC2592359	false	supm-15	139	497	( 31 KB DOC )
+PMC2592359	true	supm-16	140	498	Computational Analysis of Antibody Array Data Presented in          ( Oncogene Induced Senescence ) : Part 2
+PMC2592359	false	supm-16	141	499	( 19 KB XLS )
+PMC2592359	true	supm-17	142	500	Computational Analysis of Antibody Array Data Presented in          ( Oncogene Induced Senescence ) : Part 3
+PMC2592359	false	supm-17	143	501	( 90 KB XLS )
+PMC2592359	true	supm-18	144	502	Computational Analysis of Antibody Array Data Presented in          ( Oncogene Induced Senescence ) : Part 4
+PMC2592359	false	supm-18	145	503	( 61 KB XLS )
+PMC2592359	true	supm-19	146	504	Computational Analysis of Antibody Array Data Presented in          ( p53 Deficient Senescence ) : Part 1
+PMC2592359	false	supm-19	147	505	( 31 KB DOC )
+PMC2592359	true	supm-20	148	506	Computational Analysis of Antibody Array Data Presented in          ( p53 Deficient Senescence ) : Part 2
+PMC2592359	false	supm-20	149	507	( 25 KB XLS )
+PMC2592359	true	supm-21	150	508	Computational Analysis of Antibody Array Data Presented in          ( p53 Deficient Senescence ) : Part 3
+PMC2592359	false	supm-21	151	509	( 133 KB XLS )
+PMC2592359	true	supm-22	152	510	Computational Analysis of Antibody Array Data Presented in          ( p53 Deficient Senescence ) : Part 4
+PMC2592359	false	supm-22	153	511	( 81 KB XLS )
+PMC2592359	false	supm-23	154	512	Labeling index and senescence associated beta-galactosidase ( SA-bGal ) staining of human fibroblasts and human prostate epithelial cells in vitro .
+PMC2592359	false	supm-23	155	513	( 194 KB DOC )
+PMC2592359	true	supm-24	156	514	Complete Catalog of Entrez Gene IDs for All Proteins Corresponding to Antibodies on the Arrays
+PMC2592359	false	supm-24	157	515	( 61 KB XLS )
+PMC2592359	false	supm-25	158	516	( 42 KB DOC )
+PMC2592359	false	supm-26	159	517	( 289 KB DOC )
+PMC2592359	false	supm-25	160	518	We thank R. Driver for support with the array experiments , J. Gray and R. Neve for discussions , cells , and use of Cellomix ; A. Huang for help with the microdissection and PCR ; A. Zielinski and J. Allison for technical help ; T. Beer , M. Garzotto , C. Higano , L. True , R. Vessella , and the University of Washington Medical Center Urological staff for clinical material ; patients for their participation ; and A. R. Davalos , C. Beausejour , and M. O'Connor for valuable comments .
+PMC2592359	false	supm-22	161	519	DNA damage response
+PMC2592359	false	supm-18	162	520	interleukin
+PMC2592359	false	supm-17	163	521	mitoxantrone
+PMC2592359	false	supm-15	164	522	normal human prostate epithelial cell
+PMC2592359	false	supm-11	165	523	short hairpin RNA
+PMC2592359	false	supm-9	166	524	Author contributions .
+PMC2592359	false	supm-9	166	525	JPC and CKP carried out and analyzed array experiments .
+PMC2592359	false	supm-9	166	526	JPC and FR conceived and designed genetic experiments .
+PMC2592359	false	supm-9	166	527	JPC , JG , and PYD designed and carried out the biological activity experiments .
+PMC2592359	false	supm-9	166	528	JPC , YS , and PSN designed and carried out the clinical experiments , JPC , DPM and JG designed and carried out the immunofluorescence experiments , JPC analyzed the data , JPC , CKP , FR , PYD , and JC wrote the paper .
+PMC2592359	false	supm-8	167	529	Funding .
+PMC2592359	false	supm-8	167	530	This work was supported by grants from the National Institutes of Health ( research grants AG09909 & AG017242 to JC ; CA126540 to PSN and JC ; training grant AG000266 for JG and CKP ) ; the Pacific Northwest Prostate Cancer SPORE CA97186 ) and Larry L. Hillblom Foundation ( fellowship to CKP ) .

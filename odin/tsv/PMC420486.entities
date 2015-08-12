@@ -1,0 +1,594 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC420486	0	uniprot:P00533	ErbB1	Gene_or_gene_product
+PMC420486	0	uniprot:P29323	Erk	Gene_or_gene_product
+PMC420486	1	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	1	uniprot:Q2G0B1	rat	Species
+PMC420486	2	ncbitax:species:ncbi:9606	human	Species
+PMC420486	3	ncbitax:species:ncbi:9606	human	Species
+PMC420486	4	ncbitax:species:ncbi:9606	human	Species
+PMC420486	4	uazid:UA-ORG-116	breast	Organ
+PMC420486	5	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	5	uniprot:UNRESOLVED ID	protein kinase C-phi	Gene_or_gene_product
+PMC420486	5	uniprot:P01133	epidermal growth factor	Gene_or_gene_product
+PMC420486	5	uniprot:UNRESOLVED ID	epidermal growth factor receptors	Gene_or_gene_product
+PMC420486	5	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC420486	5	uniprot:P00533	erbB1	Gene_or_gene_product
+PMC420486	5	uniprot:P04626	HER2	Gene_or_gene_product
+PMC420486	5	uniprot:P04626	erbB2	Gene_or_gene_product
+PMC420486	5	uniprot:UNRESOLVED ID	extracellular signal-regulated kinases 1 and 2	Gene_or_gene_product
+PMC420486	5	uniprot:P27361	ERK1	Gene_or_gene_product
+PMC420486	6	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	6	uniprot:UNRESOLVED ID	serum	CellType
+PMC420486	7	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	8	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	8	uniprot:P00533	ErbB	Gene_or_gene_product
+PMC420486	8	uniprot:P29323	ERK	Gene_or_gene_product
+PMC420486	9	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	10	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	10	uniprot:Q2G0B1	rat	Species
+PMC420486	11	ncbitax:species:ncbi:9606	human	Species
+PMC420486	12	ncbitax:species:ncbi:9606	human	Species
+PMC420486	13	ncbitax:species:ncbi:9606	human	Species
+PMC420486	13	uazid:UA-ORG-116	breast	Organ
+PMC420486	14	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	14	uniprot:UNRESOLVED ID	protein kinase C-phi	Gene_or_gene_product
+PMC420486	14	uniprot:P01133	epidermal growth factor	Gene_or_gene_product
+PMC420486	14	uniprot:UNRESOLVED ID	epidermal growth factor receptors	Gene_or_gene_product
+PMC420486	14	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC420486	14	uniprot:P00533	erbB1	Gene_or_gene_product
+PMC420486	14	uniprot:P04626	HER2	Gene_or_gene_product
+PMC420486	14	uniprot:P04626	erbB2	Gene_or_gene_product
+PMC420486	14	uniprot:UNRESOLVED ID	extracellular signal-regulated kinases 1 and 2	Gene_or_gene_product
+PMC420486	14	uniprot:P27361	ERK1	Gene_or_gene_product
+PMC420486	15	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	15	uniprot:UNRESOLVED ID	serum	CellType
+PMC420486	16	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	17	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	17	uniprot:P00533	ErbB	Gene_or_gene_product
+PMC420486	17	uniprot:P29323	ERK	Gene_or_gene_product
+PMC420486	18	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	19	uniprot:P45723	PI-PLC	Gene_or_gene_product
+PMC420486	20	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC420486	20	uniprot:P13678	PKC	Gene_or_gene_product
+PMC420486	21	uniprot:P45723	PI-PLC	Gene_or_gene_product
+PMC420486	21	uniprot:P01009	PI	Gene_or_gene_product
+PMC420486	22	uniprot:P98160	PLC	Gene_or_gene_product
+PMC420486	22	ncbitax:species:ncbi:9606	human	Species
+PMC420486	23	uniprot:B1JSR0	beta	Gene_or_gene_product
+PMC420486	23	uniprot:UNRESOLVED ID	beta1, 2, 3 and 4	Gene_or_gene_product
+PMC420486	23	uniprot:P32540	gamma	Gene_or_gene_product
+PMC420486	23	uniprot:UNRESOLVED ID	gamma1 and 2	Gene_or_gene_product
+PMC420486	23	uniprot:P12551	delta	Gene_or_gene_product
+PMC420486	23	uniprot:O00548	delta1	Gene_or_gene_product
+PMC420486	24	uniprot:P98160	PLC	Gene_or_gene_product
+PMC420486	24	uniprot:B1JSR0	beta-	Gene_or_gene_product
+PMC420486	24	uniprot:UNRESOLVED ID	gamma-type isozymes	Gene_or_gene_product
+PMC420486	25	uniprot:UNRESOLVED ID	beta-type isozymes	Gene_or_gene_product
+PMC420486	25	interpro:IPR001019	Galpha	Gene_or_gene_product
+PMC420486	25	uniprot:UNRESOLVED ID	Gbetagamma	Gene_or_gene_product
+PMC420486	25	uniprot:UNRESOLVED ID	heterotrimeric Galphabetagamma proteins	Gene_or_gene_product
+PMC420486	26	uniprot:UNRESOLVED ID	gamma-type isozymes	Gene_or_gene_product
+PMC420486	27	uniprot:P98160	PLC	Gene_or_gene_product
+PMC420486	28	uniprot:UNRESOLVED ID	PLCepsilon	Gene_or_gene_product
+PMC420486	28	uniprot:UNRESOLVED ID	G protein-coupled receptors	Gene_or_gene_product
+PMC420486	28	uniprot:P01009	PI	Gene_or_gene_product
+PMC420486	28	uniprot:P12872	MAP	Gene_or_gene_product
+PMC420486	29	uniprot:UNRESOLVED ID	PLCzeta	Gene_or_gene_product
+PMC420486	29	uniprot:UNRESOLVED ID	sperm	CellType
+PMC420486	29	uniprot:P08567	pleckstrin	Gene_or_gene_product
+PMC420486	29	uniprot:P98160	PLC	Gene_or_gene_product
+PMC420486	30	uniprot:P98160	PLC	Gene_or_gene_product
+PMC420486	30	uniprot:O00548	delta1	Gene_or_gene_product
+PMC420486	30	uniprot:P03643	G-protein	Gene_or_gene_product
+PMC420486	30	uniprot:P01241	Gh	Gene_or_gene_product
+PMC420486	30	uniprot:P81453	transglutaminase	Gene_or_gene_product
+PMC420486	31	uniprot:P98160	PLC	Gene_or_gene_product
+PMC420486	31	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	31	uniprot:UNRESOLVED ID	regenerating liver	CellType
+PMC420486	31	uazid:UA-ORG-520	liver	Organ
+PMC420486	31	uniprot:UNRESOLVED ID	hepatoma	CellType
+PMC420486	31	uniprot:P12931	src	Gene_or_gene_product
+PMC420486	32	uniprot:UNRESOLVED ID	serum	CellType
+PMC420486	32	uniprot:Q9NQ66	PLCbeta1	Gene_or_gene_product
+PMC420486	32	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC420486	32	uniprot:P51178	PLCdelta1	Gene_or_gene_product
+PMC420486	33	uniprot:Q2G0B1	rat	Species
+PMC420486	33	uniprot:UNRESOLVED ID	hepatoma	CellType
+PMC420486	34	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	35	uniprot:Q2G0B1	rat	Species
+PMC420486	35	uniprot:P98160	PLC	Gene_or_gene_product
+PMC420486	35	uniprot:UNRESOLVED ID	murine PLCdelta4	Gene_or_gene_product
+PMC420486	37	uniprot:Q2G0B1	rat	Species
+PMC420486	37	ncbitax:species:ncbi:9606	human	Species
+PMC420486	38	ncbitax:species:ncbi:9606	human	Species
+PMC420486	38	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	38	uazid:UA-ORG-116	breast	Organ
+PMC420486	39	ncbitax:species:ncbi:9606	Human	Species
+PMC420486	40	uniprot:Q2G0B1	rat	Species
+PMC420486	40	ncbitax:species:ncbi:9606	human	Species
+PMC420486	41	ncbitax:species:ncbi:9606	human	Species
+PMC420486	41	uniprot:UNRESOLVED ID	GenBank# BC006355	Gene_or_gene_product
+PMC420486	42	uniprot:UNRESOLVED ID	PLCdelta4 cDNA sequence	Gene_or_gene_product
+PMC420486	42	ncbitax:species:ncbi:9606	human	Species
+PMC420486	42	uniprot:UNRESOLVED ID	PLCdelta4 gene	Gene_or_gene_product
+PMC420486	43	uniprot:UNRESOLVED ID	full length PLCdelta4 clone	Gene_or_gene_product
+PMC420486	43	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	43	uniprot:UNRESOLVED ID	PLCdelta4b	Gene_or_gene_product
+PMC420486	43	uniprot:Q96JE9	stop	Gene_or_gene_product
+PMC420486	44	ncbitax:species:ncbi:9606	human	Species
+PMC420486	44	uniprot:P08567	pleckstrin	Gene_or_gene_product
+PMC420486	44	uniprot:UNRESOLVED ID	PI-PLC-X	Gene_or_gene_product
+PMC420486	44	uniprot:UNRESOLVED ID	PI-PLC-Y	Gene_or_gene_product
+PMC420486	44	uniprot:UNRESOLVED ID	PLCdelta proteins	Gene_or_gene_product
+PMC420486	44	uniprot:UNRESOLVED ID	PLCdelta4b	Gene_or_gene_product
+PMC420486	44	uniprot:P01298	PH	Gene_or_gene_product
+PMC420486	45	uniprot:UNRESOLVED ID	PLCdelta4b	Gene_or_gene_product
+PMC420486	45	ncbitax:species:ncbi:9606	human	Species
+PMC420486	46	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	46	uniprot:UNRESOLVED ID	800 bp product	Gene_or_gene_product
+PMC420486	46	uniprot:UNRESOLVED ID	PLCdelta4b	Gene_or_gene_product
+PMC420486	46	uniprot:UNRESOLVED ID	300 bp product	Gene_or_gene_product
+PMC420486	47	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	47	uniprot:UNRESOLVED ID	PLCdelta4 using Cancer Profiling Arrays	Gene_or_gene_product
+PMC420486	47	uniprot:UNRESOLVED ID	Palo Alto	Gene_or_gene_product
+PMC420486	47	uazid:UA-ORG-116	breast	Organ
+PMC420486	47	uazid:UA-ORG-537	lung	Organ
+PMC420486	48	uniprot:UNRESOLVED ID	hPLCdelta4 isoforms	Gene_or_gene_product
+PMC420486	49	uniprot:UNRESOLVED ID	hPLCdelta4 proteins	Gene_or_gene_product
+PMC420486	50	uniprot:Q96JE9	stop	Gene_or_gene_product
+PMC420486	51	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	52	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	53	uniprot:UNRESOLVED ID	ULTRAhyb	Gene_or_gene_product
+PMC420486	53	uniprot:O42043	TM	Gene_or_gene_product
+PMC420486	53	uniprot:P41894	TX	Gene_or_gene_product
+PMC420486	54	uniprot:UNRESOLVED ID	Cancer Profiling Array II	Gene_or_gene_product
+PMC420486	55	ncbitax:species:ncbi:9606	human	Species
+PMC420486	56	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	56	uazid:UA-ORG-116	breast	Organ
+PMC420486	56	uniprot:P98160	PLC	Gene_or_gene_product
+PMC420486	56	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC420486	56	uniprot:P01009	PI	Gene_or_gene_product
+PMC420486	56	uniprot:UNRESOLVED ID	PLCdelta4a	Gene_or_gene_product
+PMC420486	56	uniprot:UNRESOLVED ID	~6 nmol/min/mg	Gene_or_gene_product
+PMC420486	57	ncbitax:species:ncbi:9606	human	Species
+PMC420486	57	uniprot:P98160	PLC	Gene_or_gene_product
+PMC420486	58	uniprot:P01009	PI	Gene_or_gene_product
+PMC420486	58	ncbitax:species:ncbi:9606	human	Species
+PMC420486	58	uniprot:P98160	PLC	Gene_or_gene_product
+PMC420486	59	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	59	uniprot:P01009	PI	Gene_or_gene_product
+PMC420486	59	uniprot:P98160	PLC	Gene_or_gene_product
+PMC420486	60	uniprot:P98160	PLC	Gene_or_gene_product
+PMC420486	60	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	61	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	61	uniprot:P01009	PI	Gene_or_gene_product
+PMC420486	62	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC420486	62	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	63	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	64	uniprot:P46060	SD	Gene_or_gene_product
+PMC420486	65	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	66	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	66	uniprot:P98160	PLC	Gene_or_gene_product
+PMC420486	67	uniprot:P98160	PLC	Gene_or_gene_product
+PMC420486	67	uniprot:UNRESOLVED ID	murine PLCdelta4	Gene_or_gene_product
+PMC420486	67	uniprot:Q2G0B1	rat	Species
+PMC420486	67	ncbitax:species:ncbi:9606	human	Species
+PMC420486	68	uniprot:P98160	PLC	Gene_or_gene_product
+PMC420486	69	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	70	uniprot:Q9NQ66	PLCbeta1	Gene_or_gene_product
+PMC420486	70	uniprot:P51178	PLCdelta1	Gene_or_gene_product
+PMC420486	70	uazid:UA-ORG-725	plasma	Organ
+PMC420486	71	uniprot:P51178	PLCdelta1	Gene_or_gene_product
+PMC420486	71	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	72	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	72	uniprot:UNRESOLVED ID	protein kinase C-phi	Gene_or_gene_product
+PMC420486	73	uniprot:P01009	PI	Gene_or_gene_product
+PMC420486	73	uniprot:P98160	PLC	Gene_or_gene_product
+PMC420486	73	uniprot:P13678	PKC	Gene_or_gene_product
+PMC420486	73	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	73	uniprot:UNRESOLVED ID	PKCs	Gene_or_gene_product
+PMC420486	74	uniprot:P13678	PKC	Gene_or_gene_product
+PMC420486	74	uniprot:UNRESOLVED ID	phospho-PKC (pan) antibody	Gene_or_gene_product
+PMC420486	74	uniprot:P17252	PKCalpha	Gene_or_gene_product
+PMC420486	74	uniprot:UNRESOLVED ID	betaI	Gene_or_gene_product
+PMC420486	74	uniprot:P25101	eta	Gene_or_gene_product
+PMC420486	74	uniprot:UNRESOLVED ID	PKC isoforms	Gene_or_gene_product
+PMC420486	74	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	75	uniprot:P13678	PKC	Gene_or_gene_product
+PMC420486	75	uniprot:P17252	PKCalpha	Gene_or_gene_product
+PMC420486	75	uniprot:UNRESOLVED ID	PKCbetaII	Gene_or_gene_product
+PMC420486	76	uniprot:UNRESOLVED ID	PKCphi	Gene_or_gene_product
+PMC420486	76	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	77	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	77	uniprot:UNRESOLVED ID	PKCzeta	Gene_or_gene_product
+PMC420486	77	uniprot:UNRESOLVED ID	PKClambda	Gene_or_gene_product
+PMC420486	78	uniprot:UNRESOLVED ID	PKCphi	Gene_or_gene_product
+PMC420486	78	uniprot:P13678	PKC	Gene_or_gene_product
+PMC420486	78	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	79	uniprot:P13678	PKC	Gene_or_gene_product
+PMC420486	79	uniprot:P42684	Arg	Gene_or_gene_product
+PMC420486	80	uniprot:UNRESOLVED ID	MCF-7	Gene_or_gene_product
+PMC420486	80	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	80	uniprot:UNRESOLVED ID	PKCs	Gene_or_gene_product
+PMC420486	81	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	81	uniprot:UNRESOLVED ID	PKC-phi	Gene_or_gene_product
+PMC420486	82	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	82	uniprot:UNRESOLVED ID	phospho-PKC	Gene_or_gene_product
+PMC420486	84	uniprot:UNRESOLVED ID	ECL Plus	Gene_or_gene_product
+PMC420486	84	uniprot:O42043	TM	Gene_or_gene_product
+PMC420486	85	uniprot:UNRESOLVED ID	extracellular signal-regulated kinase	Gene_or_gene_product
+PMC420486	85	uniprot:P29323	ERK	Gene_or_gene_product
+PMC420486	86	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	86	uniprot:UNRESOLVED ID	PKCphi	Gene_or_gene_product
+PMC420486	87	uniprot:P27361	Erk1	Gene_or_gene_product
+PMC420486	87	uniprot:Q8TCB0	p44	Gene_or_gene_product
+PMC420486	87	uniprot:P29323	Erk	Gene_or_gene_product
+PMC420486	87	uniprot:P10666	p90RSK	Gene_or_gene_product
+PMC420486	87	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	87	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC420486	88	uniprot:UNRESOLVED ID	stress activated protein kinase	Gene_or_gene_product
+PMC420486	88	uazid:UA-KB-GGP-00001	SAPK	Gene_or_gene_product
+PMC420486	88	uniprot:UNRESOLVED ID	Jun-N-terminal kinase	Gene_or_gene_product
+PMC420486	88	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC420486	88	uniprot:O75791	p38	Gene_or_gene_product
+PMC420486	88	uniprot:P54644	Akt	Gene_or_gene_product
+PMC420486	88	uniprot:P31749	protein kinase B	Gene_or_gene_product
+PMC420486	88	uniprot:UNRESOLVED ID	mitogen activated protein kinases	Gene_or_gene_product
+PMC420486	88	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC420486	88	uniprot:UNRESOLVED ID	phosphoinositide-3-phosphate kinase	Gene_or_gene_product
+PMC420486	88	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC420486	88	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	88	uniprot:Q9BY77	p46	Gene_or_gene_product
+PMC420486	89	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	89	uniprot:P29323	Erk	Gene_or_gene_product
+PMC420486	89	uniprot:Q8TCB0	p44	Gene_or_gene_product
+PMC420486	89	uazid:UA-KB-GGP-00001	SAPK	Gene_or_gene_product
+PMC420486	89	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC420486	89	uniprot:O75791	p38	Gene_or_gene_product
+PMC420486	89	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC420486	90	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	90	uniprot:P27361	Erk1	Gene_or_gene_product
+PMC420486	91	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	91	uniprot:P27361	Erk1	Gene_or_gene_product
+PMC420486	93	uniprot:UNRESOLVED ID	ECL Plus	Gene_or_gene_product
+PMC420486	93	uniprot:O42043	TM	Gene_or_gene_product
+PMC420486	94	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC420486	94	uniprot:P00533	ErbB1	Gene_or_gene_product
+PMC420486	94	uniprot:P04626	HER2	Gene_or_gene_product
+PMC420486	94	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC420486	94	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	95	uazid:UA-ORG-116	breast	Organ
+PMC420486	95	uniprot:P29323	Erk	Gene_or_gene_product
+PMC420486	95	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC420486	95	uniprot:P03372	estrogen receptor	Gene_or_gene_product
+PMC420486	95	uniprot:P03372	ERalpha	Gene_or_gene_product
+PMC420486	96	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC420486	96	uniprot:P03372	ERalpha	Gene_or_gene_product
+PMC420486	96	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	97	uniprot:P03372	ERalpha	Gene_or_gene_product
+PMC420486	98	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC420486	98	uniprot:P00533	erbB1	Gene_or_gene_product
+PMC420486	98	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	99	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC420486	99	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	100	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	100	uniprot:P00533	ErbB1	Gene_or_gene_product
+PMC420486	100	uniprot:P03372	ER-alpha	Gene_or_gene_product
+PMC420486	101	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	101	uniprot:P03372	ER-alpha	Gene_or_gene_product
+PMC420486	101	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC420486	101	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC420486	102	uniprot:UNRESOLVED ID	ECL Plus	Gene_or_gene_product
+PMC420486	102	uniprot:O42043	TM	Gene_or_gene_product
+PMC420486	103	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC420486	103	uniprot:P00533	erbB	Gene_or_gene_product
+PMC420486	103	uniprot:UNRESOLVED ID	erbB receptors	Gene_or_gene_product
+PMC420486	103	uniprot:P04626	erbB2	Gene_or_gene_product
+PMC420486	104	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC420486	104	uniprot:P04626	HER2	Gene_or_gene_product
+PMC420486	104	uazid:UA-ORG-116	breast	Organ
+PMC420486	105	uniprot:P04626	erbB2	Gene_or_gene_product
+PMC420486	105	uniprot:UNRESOLVED ID	anti-erbB2	Gene_or_gene_product
+PMC420486	105	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	105	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC420486	106	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	106	uniprot:UNRESOLVED ID	serum	CellType
+PMC420486	107	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	107	uniprot:UNRESOLVED ID	serum	CellType
+PMC420486	108	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	109	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	109	uniprot:UNRESOLVED ID	serum	CellType
+PMC420486	110	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	110	uniprot:Q9NR61	delta4	Gene_or_gene_product
+PMC420486	111	uniprot:P46060	SD	Gene_or_gene_product
+PMC420486	113	uniprot:UNRESOLVED ID	Costar	Gene_or_gene_product
+PMC420486	114	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	115	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	116	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	117	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	118	uniprot:UNRESOLVED ID	RPMI 1640	Gene_or_gene_product
+PMC420486	118	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC420486	121	uniprot:Q9P0L2	mark	Gene_or_gene_product
+PMC420486	122	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	123	uniprot:Q5NMC0	RPMI	Gene_or_gene_product
+PMC420486	123	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC420486	125	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	126	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	126	uniprot:UNRESOLVED ID	PLCdelta4-16	Gene_or_gene_product
+PMC420486	127	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	128	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	128	uniprot:P27361	Erk1	Gene_or_gene_product
+PMC420486	128	uniprot:P60709	beta-actin	Gene_or_gene_product
+PMC420486	129	uniprot:P60709	beta-actin	Gene_or_gene_product
+PMC420486	130	uniprot:P00533	ErbB1	Gene_or_gene_product
+PMC420486	130	uniprot:P27361	Erk1	Gene_or_gene_product
+PMC420486	130	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	130	uniprot:UNRESOLVED ID	PLCdelta4 siRNAs	Gene_or_gene_product
+PMC420486	131	uniprot:UNRESOLVED ID	PLCdelta4 using siRNA	Gene_or_gene_product
+PMC420486	132	uniprot:UNRESOLVED ID	PLCdelta4 siRNAs	Gene_or_gene_product
+PMC420486	132	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	132	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC420486	132	uniprot:P27361	Erk1	Gene_or_gene_product
+PMC420486	135	ncbitax:species:ncbi:9986	rabbits	Species
+PMC420486	135	ncbitax:species:ncbi:9606	human	Species
+PMC420486	136	uniprot:P27361	Erk1	Gene_or_gene_product
+PMC420486	136	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC420486	138	uniprot:UNRESOLVED ID	beta-actin antibodies	Gene_or_gene_product
+PMC420486	139	uniprot:UNRESOLVED ID	ECL Plus	Gene_or_gene_product
+PMC420486	139	uniprot:O42043	TM	Gene_or_gene_product
+PMC420486	140	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	140	uniprot:UNRESOLVED ID	serum	CellType
+PMC420486	140	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC420486	141	ncbitax:species:ncbi:9606	human	Species
+PMC420486	141	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	141	uniprot:Q96JE9	stop	Gene_or_gene_product
+PMC420486	142	uniprot:Q96JE9	stop	Gene_or_gene_product
+PMC420486	142	uniprot:Q2G0B1	rat	Species
+PMC420486	142	ncbitax:species:ncbi:9606	human	Species
+PMC420486	142	uniprot:UNRESOLVED ID	PLCdelta4b	Gene_or_gene_product
+PMC420486	142	uniprot:P98160	PLC	Gene_or_gene_product
+PMC420486	142	uazid:UA-ORG-381	hands	Organ
+PMC420486	143	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	143	uazid:UA-ORG-116	breast	Organ
+PMC420486	144	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	144	uniprot:O89094	mice	Species
+PMC420486	144	uniprot:UNRESOLVED ID	testis	CellType
+PMC420486	145	uniprot:UNRESOLVED ID	telomerase	Gene_or_gene_product
+PMC420486	145	uniprot:Q28ER3	survivin	Gene_or_gene_product
+PMC420486	145	uniprot:Q00987	mdm2	Gene_or_gene_product
+PMC420486	145	uniprot:Q16678	cytochrome P450 1B1	Gene_or_gene_product
+PMC420486	145	uniprot:Q9NYA1	sphingosine kinase 1	Gene_or_gene_product
+PMC420486	145	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	146	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	147	ncbitax:species:ncbi:9606	human	Species
+PMC420486	148	uazid:UA-ORG-116	breast	Organ
+PMC420486	148	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	148	uniprot:P13678	PKC	Gene_or_gene_product
+PMC420486	148	uniprot:UNRESOLVED ID	phospho-specific PKC isoform-specific antibodies	Gene_or_gene_product
+PMC420486	149	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	150	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	150	uniprot:UNRESOLVED ID	extracellular signal-regulated kinases 1 and 2	Gene_or_gene_product
+PMC420486	150	uniprot:P27361	ERK1	Gene_or_gene_product
+PMC420486	150	uniprot:P10666	p90RSK	Gene_or_gene_product
+PMC420486	150	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC420486	150	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC420486	150	uazid:UA-KB-GGP-00001	SAPK	Gene_or_gene_product
+PMC420486	150	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC420486	150	uniprot:O75791	p38	Gene_or_gene_product
+PMC420486	150	uniprot:P54644	Akt	Gene_or_gene_product
+PMC420486	151	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	151	uniprot:P01133	epidermal growth factor	Gene_or_gene_product
+PMC420486	151	uniprot:UNRESOLVED ID	epidermal growth factor receptors	Gene_or_gene_product
+PMC420486	151	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC420486	151	uniprot:P00533	erbB1	Gene_or_gene_product
+PMC420486	151	uniprot:P04626	HER2	Gene_or_gene_product
+PMC420486	151	uniprot:P04626	erbB2	Gene_or_gene_product
+PMC420486	151	uniprot:P03372	ERalpha	Gene_or_gene_product
+PMC420486	152	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC420486	152	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC420486	152	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	152	uniprot:UNRESOLVED ID	PKCs	Gene_or_gene_product
+PMC420486	152	uniprot:UNRESOLVED ID	PKC-phi	Gene_or_gene_product
+PMC420486	152	uniprot:P29323	Erk	Gene_or_gene_product
+PMC420486	153	uniprot:P00533	ErbB1	Gene_or_gene_product
+PMC420486	153	uniprot:P29323	Erk	Gene_or_gene_product
+PMC420486	153	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	154	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	154	uniprot:UNRESOLVED ID	serum	CellType
+PMC420486	155	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	157	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	157	uniprot:UNRESOLVED ID	PLCdelta4 sequences	Gene_or_gene_product
+PMC420486	157	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC420486	157	uniprot:UNRESOLVED ID	Iressa	Gene_or_gene_product
+PMC420486	157	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC420486	157	uniprot:P00533	ErbB	Gene_or_gene_product
+PMC420486	157	uniprot:UNRESOLVED ID	ErbB receptor	Gene_or_gene_product
+PMC420486	157	uniprot:P04049	Raf	Gene_or_gene_product
+PMC420486	157	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
+PMC420486	157	uniprot:UNRESOLVED ID	CI-1040	Gene_or_gene_product
+PMC420486	157	uniprot:P29323	ERK	Gene_or_gene_product
+PMC420486	158	uniprot:P00533	ErbB	Gene_or_gene_product
+PMC420486	158	uniprot:P98160	PLC	Gene_or_gene_product
+PMC420486	158	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC420486	158	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	159	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	160	ncbitax:species:ncbi:9606	human	Species
+PMC420486	161	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	161	uniprot:P00533	ErbB	Gene_or_gene_product
+PMC420486	161	uniprot:P29323	ERK	Gene_or_gene_product
+PMC420486	162	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	162	uazid:UA-ORG-116	breast	Organ
+PMC420486	163	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	164	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	165	ncbitax:species:ncbi:9606	human	Species
+PMC420486	166	uniprot:Q2G0B1	rat	Species
+PMC420486	166	uniprot:UNRESOLVED ID	GenBank# AI366170	Gene_or_gene_product
+PMC420486	166	uniprot:UNRESOLVED ID	pBSK-D4	Gene_or_gene_product
+PMC420486	166	ncbitax:species:ncbi:9606	human	Species
+PMC420486	166	uniprot:UNRESOLVED ID	oligodendroglioma	CellType
+PMC420486	167	ncbitax:species:ncbi:9606	human	Species
+PMC420486	169	ncbitax:species:ncbi:9606	human	Species
+PMC420486	169	uniprot:P98160	PLC	Gene_or_gene_product
+PMC420486	169	uniprot:UNRESOLVED ID	oD4-2r, 5'-CTGCTTCCTC TTCCTCATAT TC-3'	Gene_or_gene_product
+PMC420486	169	uniprot:UNRESOLVED ID	Eco RI site	Gene_or_gene_product
+PMC420486	169	uniprot:Q9Y251	Hpa	Gene_or_gene_product
+PMC420486	170	uniprot:UNRESOLVED ID	CA-HPV-10	Gene_or_gene_product
+PMC420486	170	uniprot:UNRESOLVED ID	Capan-1	Gene_or_gene_product
+PMC420486	170	uniprot:UNRESOLVED ID	MiaPaCa	Gene_or_gene_product
+PMC420486	170	uniprot:UNRESOLVED ID	MDA-MB-231	Gene_or_gene_product
+PMC420486	170	uniprot:Q0RK33	Panc-1	Gene_or_gene_product
+PMC420486	170	uniprot:UNRESOLVED ID	NCI-H460	Gene_or_gene_product
+PMC420486	170	uniprot:UNRESOLVED ID	LnCaP	Gene_or_gene_product
+PMC420486	170	uniprot:UNRESOLVED ID	MCF-7	Gene_or_gene_product
+PMC420486	171	ncbitax:species:ncbi:9606	human	Species
+PMC420486	171	uniprot:UNRESOLVED ID	HNMEC	Gene_or_gene_product
+PMC420486	171	uniprot:Q13127	rest	Gene_or_gene_product
+PMC420486	172	uniprot:UNRESOLVED ID	~800 bp PCR product	Gene_or_gene_product
+PMC420486	172	uniprot:P10775	RI	Gene_or_gene_product
+PMC420486	172	uniprot:Q9Y251	Hpa	Gene_or_gene_product
+PMC420486	173	uniprot:Q2G0B1	rat	Species
+PMC420486	173	uniprot:UNRESOLVED ID	pBSK-D4	Gene_or_gene_product
+PMC420486	174	uniprot:UNRESOLVED ID	PLCdelta4 cDNA	Gene_or_gene_product
+PMC420486	174	uniprot:UNRESOLVED ID	Ecor RI	Gene_or_gene_product
+PMC420486	174	uniprot:UNRESOLVED ID	~840 bp Eco RI fragment	Gene_or_gene_product
+PMC420486	174	uniprot:UNRESOLVED ID	Eco RI site	Gene_or_gene_product
+PMC420486	174	uniprot:UNRESOLVED ID	PLCdelta4 coding region	Gene_or_gene_product
+PMC420486	174	uniprot:UNRESOLVED ID	Eco RI	Gene_or_gene_product
+PMC420486	174	uniprot:Q9Y251	Hpa	Gene_or_gene_product
+PMC420486	175	uniprot:Q9Y251	Hpa	Gene_or_gene_product
+PMC420486	175	uniprot:UNRESOLVED ID	Bgl II	Gene_or_gene_product
+PMC420486	175	ncbitax:species:ncbi:9606	human	Species
+PMC420486	177	uniprot:UNRESOLVED ID	~700 bp PCR product	Gene_or_gene_product
+PMC420486	177	uniprot:Q9Y251	Hpa	Gene_or_gene_product
+PMC420486	177	uniprot:P50851	Bgl	Gene_or_gene_product
+PMC420486	178	uniprot:UNRESOLVED ID	pBSK-D43X	Gene_or_gene_product
+PMC420486	178	uniprot:Q2G0B1	rat	Species
+PMC420486	179	ncbitax:species:ncbi:9606	human	Species
+PMC420486	180	ncbitax:species:ncbi:9606	human	Species
+PMC420486	180	uniprot:UNRESOLVED ID	~600 bp Nhe I - Eco RI fragment	Gene_or_gene_product
+PMC420486	180	uniprot:UNRESOLVED ID	Nhe I + Eco RI of the ~2200 bp PCR product	Gene_or_gene_product
+PMC420486	180	uniprot:UNRESOLVED ID	GCTAGCTGGT GGAAC-3' and oD4-1r, 5'-ACACCAATGC ATTCCCGTGA AATGCCCACC-3'	Gene_or_gene_product
+PMC420486	180	uniprot:UNRESOLVED ID	~1700 bp Eco RI - Nsi I fragment	Gene_or_gene_product
+PMC420486	180	uniprot:UNRESOLVED ID	Eco RI + Nsi I of the ~1770 bp PCR product	Gene_or_gene_product
+PMC420486	181	uniprot:UNRESOLVED ID	pCivIrPu	Gene_or_gene_product
+PMC420486	182	uniprot:UNRESOLVED ID	980 bp Spe I - Not I fragment	Gene_or_gene_product
+PMC420486	182	uniprot:UNRESOLVED ID	pCIneo	Gene_or_gene_product
+PMC420486	182	uniprot:UNRESOLVED ID	Spe I	Gene_or_gene_product
+PMC420486	182	uniprot:UNRESOLVED ID	pSLCI	Gene_or_gene_product
+PMC420486	183	uniprot:UNRESOLVED ID	Spe I - Nsi I fragment	Gene_or_gene_product
+PMC420486	183	uniprot:UNRESOLVED ID	pSLCI	Gene_or_gene_product
+PMC420486	183	uniprot:UNRESOLVED ID	pCivIrPu	Gene_or_gene_product
+PMC420486	184	ncbitax:species:ncbi:9606	human	Species
+PMC420486	184	uniprot:Q2FWP1	phospholipase c	Gene_or_gene_product
+PMC420486	184	uniprot:P98160	PLC	Gene_or_gene_product
+PMC420486	185	uniprot:UNRESOLVED ID	pPuroD4F	Gene_or_gene_product
+PMC420486	185	uniprot:UNRESOLVED ID	BspH I	Gene_or_gene_product
+PMC420486	185	uniprot:O42043	TM	Gene_or_gene_product
+PMC420486	187	uniprot:UNRESOLVED ID	GFP-PH	Gene_or_gene_product
+PMC420486	187	uniprot:UNRESOLVED ID	PLCdelta4 fusion proteins	Gene_or_gene_product
+PMC420486	188	uniprot:UNRESOLVED ID	PLCdelta4 splice variant	Gene_or_gene_product
+PMC420486	188	uniprot:UNRESOLVED ID	TTCATGGCGT CCCTGCTGCA AGAC-3'	Gene_or_gene_product
+PMC420486	188	uniprot:UNRESOLVED ID	o oPHd4_1r, 5'-GATCTAGTGT CGACCCAAGA TCCACCAACA GCTGGAG-3'	Gene_or_gene_product
+PMC420486	189	uniprot:UNRESOLVED ID	EcoR I	Gene_or_gene_product
+PMC420486	189	uniprot:UNRESOLVED ID	Sal I sites	Gene_or_gene_product
+PMC420486	189	uniprot:UNRESOLVED ID	pEGFP-n1	Gene_or_gene_product
+PMC420486	189	uniprot:UNRESOLVED ID	pPHd4GFP	Gene_or_gene_product
+PMC420486	189	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	192	ncbitax:species:ncbi:9606	Human	Species
+PMC420486	193	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	193	uniprot:Q5NMC0	RPMI	Gene_or_gene_product
+PMC420486	193	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC420486	194	uniprot:Q5NMC0	RPMI	Gene_or_gene_product
+PMC420486	194	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC420486	196	uniprot:UNRESOLVED ID	RPMI 1640	Gene_or_gene_product
+PMC420486	196	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC420486	198	uniprot:UNRESOLVED ID	Phospho-PKC	Gene_or_gene_product
+PMC420486	198	uniprot:Q8UVK2	pan	Gene_or_gene_product
+PMC420486	198	uniprot:UNRESOLVED ID	phospho-PKCalpha	Gene_or_gene_product
+PMC420486	198	uniprot:UNRESOLVED ID	betaII	Gene_or_gene_product
+PMC420486	198	uniprot:UNRESOLVED ID	phospho-MEK1/2	Gene_or_gene_product
+PMC420486	198	uniprot:UNRESOLVED ID	phospho-Erk1/2	Gene_or_gene_product
+PMC420486	198	uniprot:P27361	Erk1	Gene_or_gene_product
+PMC420486	198	uniprot:UNRESOLVED ID	phospho-p90RSK	Gene_or_gene_product
+PMC420486	198	uniprot:P09913	p54	Gene_or_gene_product
+PMC420486	198	uniprot:Q9BY77	p46	Gene_or_gene_product
+PMC420486	198	uniprot:UNRESOLVED ID	phospho-p38 MAPK	Gene_or_gene_product
+PMC420486	198	uniprot:P03372	ER-alpha	Gene_or_gene_product
+PMC420486	198	uniprot:UNRESOLVED ID	phospho-ER-alpha	Gene_or_gene_product
+PMC420486	198	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC420486	198	uniprot:UNRESOLVED ID	phospho-EGFR	Gene_or_gene_product
+PMC420486	200	uniprot:UNRESOLVED ID	HER-2 antibodies	Gene_or_gene_product
+PMC420486	201	uniprot:UNRESOLVED ID	beta-actin antibodies	Gene_or_gene_product
+PMC420486	202	ncbitax:species:ncbi:9986	rabbits	Species
+PMC420486	202	ncbitax:species:ncbi:9606	human	Species
+PMC420486	203	uniprot:UNRESOLVED ID	ECL Plus	Gene_or_gene_product
+PMC420486	203	uniprot:O42043	TM	Gene_or_gene_product
+PMC420486	204	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	205	uniprot:P98160	PLC	Gene_or_gene_product
+PMC420486	205	uniprot:P01009	PI	Gene_or_gene_product
+PMC420486	205	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC420486	205	uniprot:P01308	Ins	Gene_or_gene_product
+PMC420486	206	uniprot:P10265	protease	Gene_or_gene_product
+PMC420486	209	uniprot:P01009	PI	Gene_or_gene_product
+PMC420486	210	uniprot:P01009	PI	Gene_or_gene_product
+PMC420486	210	uniprot:UNRESOLVED ID	mM EGTA, 4 mM CaCl2	Gene_or_gene_product
+PMC420486	210	uniprot:UNRESOLVED ID	0.1 mM DTT	Gene_or_gene_product
+PMC420486	210	uniprot:P01298	pH	Gene_or_gene_product
+PMC420486	211	uniprot:P01009	PI	Gene_or_gene_product
+PMC420486	212	uniprot:P01298	pH	Gene_or_gene_product
+PMC420486	213	uniprot:UNRESOLVED ID	mM EGTA, 12 mM CaCl2	Gene_or_gene_product
+PMC420486	213	uniprot:P01298	pH	Gene_or_gene_product
+PMC420486	215	uniprot:UNRESOLVED ID	then 0.25 ml 1 N HCL containing 5 mM EGTA	Gene_or_gene_product
+PMC420486	217	uniprot:P98160	PLC	Gene_or_gene_product
+PMC420486	217	uniprot:P01009	PI	Gene_or_gene_product
+PMC420486	217	ncbitax:species:ncbi:41568	muM	Species
+PMC420486	217	uniprot:P48147	PE	Gene_or_gene_product
+PMC420486	217	uniprot:UNRESOLVED ID	40 nmol	Gene_or_gene_product
+PMC420486	217	uniprot:UNRESOLVED ID	mM MgCl2, 100 mM NaCl, 1 mM EGTA, 1 mM CaCl2	Gene_or_gene_product
+PMC420486	217	uniprot:UNRESOLVED ID	0.1 mM DTT	Gene_or_gene_product
+PMC420486	217	uniprot:P01298	pH	Gene_or_gene_product
+PMC420486	218	uniprot:P48147	PE	Gene_or_gene_product
+PMC420486	218	uniprot:P01298	pH	Gene_or_gene_product
+PMC420486	219	uniprot:UNRESOLVED ID	MgCl2	Gene_or_gene_product
+PMC420486	219	uniprot:P01298	pH	Gene_or_gene_product
+PMC420486	220	uniprot:P01298	pH	Gene_or_gene_product
+PMC420486	222	uniprot:UNRESOLVED ID	then 0.25 ml 1 N HCL containing 5 mM EGTA	Gene_or_gene_product
+PMC420486	224	uniprot:P70059	trypsin	Gene_or_gene_product
+PMC420486	225	uniprot:Q9NQV6	Tris	Gene_or_gene_product
+PMC420486	225	uniprot:P01298	pH	Gene_or_gene_product
+PMC420486	225	uniprot:UNRESOLVED ID	mM PMSF	Gene_or_gene_product
+PMC420486	225	uniprot:P00974	aprotinin	Gene_or_gene_product
+PMC420486	225	uniprot:UNRESOLVED ID	leupeptin	Gene_or_gene_product
+PMC420486	227	uniprot:UNRESOLVED ID	needle	CellType
+PMC420486	228	uniprot:Q9NQV6	Tris	Gene_or_gene_product
+PMC420486	228	uniprot:P01298	pH	Gene_or_gene_product
+PMC420486	228	uniprot:UNRESOLVED ID	2 mM MgCl2, 0.5 mM PMSF	Gene_or_gene_product
+PMC420486	228	uniprot:P00974	aprotinin	Gene_or_gene_product
+PMC420486	228	uniprot:UNRESOLVED ID	leupeptin	Gene_or_gene_product
+PMC420486	229	uniprot:P01009	PI	Gene_or_gene_product
+PMC420486	230	uniprot:UNRESOLVED ID	PLCdelta4 mRNA	Gene_or_gene_product
+PMC420486	231	ncbitax:species:ncbi:9606	human	Species
+PMC420486	231	uniprot:UNRESOLVED ID	ULTRAhyb	Gene_or_gene_product
+PMC420486	231	uniprot:O42043	TM	Gene_or_gene_product
+PMC420486	231	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	231	uniprot:UNRESOLVED ID	2000 bp Nhe I-Bgl II fragment	Gene_or_gene_product
+PMC420486	231	uniprot:UNRESOLVED ID	pPuroD4F	Gene_or_gene_product
+PMC420486	231	uniprot:P41894	TX	Gene_or_gene_product
+PMC420486	232	uniprot:UNRESOLVED ID	PLCdelta4b	Gene_or_gene_product
+PMC420486	232	uniprot:UNRESOLVED ID	oD4_2r, 5'-CTGCTTCCTC TTCCTCATAT TC-3'	Gene_or_gene_product
+PMC420486	232	uniprot:O42043	TM	Gene_or_gene_product
+PMC420486	232	ncbitax:species:ncbi:9606	human	Species
+PMC420486	233	uniprot:Q9BRC7	PLCdelta4	Gene_or_gene_product
+PMC420486	233	uniprot:UNRESOLVED ID	splice variant PLCdelta4b	Gene_or_gene_product
+PMC420486	234	uniprot:Q9BRC7	PLC-delta4	Gene_or_gene_product
+PMC420486	237	uniprot:UNRESOLVED ID	PLC-delta4 specific siRNA #1	Gene_or_gene_product
+PMC420486	237	uniprot:UNRESOLVED ID	PLC-delta4 siRNAs #1-4	Gene_or_gene_product
+PMC420486	239	ncbitax:species:ncbi:9606	Human	Species
+PMC420486	239	uazid:UA-ORG-116	breast	Organ
+PMC420486	239	uniprot:UNRESOLVED ID	RPMI1640	Gene_or_gene_product
+PMC420486	239	uniprot:UNRESOLVED ID	serum	CellType
+PMC420486	241	uniprot:UNRESOLVED ID	seed	CellType
+PMC420486	242	uniprot:UNRESOLVED ID	serum	CellType
+PMC420486	243	uniprot:UNRESOLVED ID	serum	CellType
+PMC420486	246	uniprot:P86624	DWL	Gene_or_gene_product
+PMC420486	247	uniprot:UNRESOLVED ID	JB	Gene_or_gene_product

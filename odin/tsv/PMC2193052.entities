@@ -1,0 +1,523 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2193052	0	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	0	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	0	uniprot:UNRESOLVED ID	T Cell	CellType
+PMC2193052	0	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	0	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2193052	1	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	1	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	1	uniprot:UNRESOLVED ID	SH3-SH2-SH3	Gene_or_gene_product
+PMC2193052	2	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	3	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	3	uniprot:UNRESOLVED ID	leukocyte	CellType
+PMC2193052	3	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	3	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	4	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	4	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2193052	5	uniprot:UNRESOLVED ID	wild-type Grf40	Gene_or_gene_product
+PMC2193052	5	uniprot:UNRESOLVED ID	interleukin	Gene_or_gene_product
+PMC2193052	5	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2193052	5	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193052	5	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193052	5	uniprot:UNRESOLVED ID	SH3-deleted Grf40 mutant	Gene_or_gene_product
+PMC2193052	5	uniprot:P60568	IL-2	Gene_or_gene_product
+PMC2193052	6	uniprot:UNRESOLVED ID	SH2-deleted Grf40 mutant	Gene_or_gene_product
+PMC2193052	6	uniprot:P55241	SH2	Gene_or_gene_product
+PMC2193052	6	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	7	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	7	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193052	7	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	7	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	7	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2193052	8	uniprot:UNRESOLVED ID	Grf40 cDNA fragments	Gene_or_gene_product
+PMC2193052	8	ncbitax:species:ncbi:4932	yeast	Species
+PMC2193052	8	ncbitax:species:ncbi:9606	human	Species
+PMC2193052	9	ncbitax:species:ncbi:9606	human	Species
+PMC2193052	9	uniprot:O95630	AMSH	Gene_or_gene_product
+PMC2193052	9	uniprot:Q08215	pAS2-1	Gene_or_gene_product
+PMC2193052	10	ncbitax:species:ncbi:4932	yeast	Species
+PMC2193052	10	ncbitax:species:ncbi:9606	human	Species
+PMC2193052	11	uniprot:P17643	Trp	Gene_or_gene_product
+PMC2193052	12	uniprot:B1JI86	lacZ	Gene_or_gene_product
+PMC2193052	13	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	14	uniprot:P40126	dT	Gene_or_gene_product
+PMC2193052	14	uniprot:UNRESOLVED ID	PHA-PBL	Gene_or_gene_product
+PMC2193052	17	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	18	uniprot:UNRESOLVED ID	Grf40 cDNA	Gene_or_gene_product
+PMC2193052	18	uniprot:UNRESOLVED ID	Myc-Tag-pcDNA3.1	Gene_or_gene_product
+PMC2193052	18	uniprot:UNRESOLVED ID	EQKLISEEDL	Gene_or_gene_product
+PMC2193052	19	uniprot:UNRESOLVED ID	pMycGrf40-dSH3N	Gene_or_gene_product
+PMC2193052	19	uniprot:UNRESOLVED ID	pMycGrf40-dSH2	Gene_or_gene_product
+PMC2193052	19	uniprot:UNRESOLVED ID	pMycGrf40-dSH3C	Gene_or_gene_product
+PMC2193052	19	uniprot:UNRESOLVED ID	pMycGrf40-dSH3NC	Gene_or_gene_product
+PMC2193052	19	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2193052	19	uniprot:UNRESOLVED ID	Grf40 mutants	Gene_or_gene_product
+PMC2193052	19	uniprot:UNRESOLVED ID	Met1-Pro56	Gene_or_gene_product
+PMC2193052	19	uniprot:UNRESOLVED ID	Ala278-Arg330	Gene_or_gene_product
+PMC2193052	20	uniprot:UNRESOLVED ID	pMycGrb2	Gene_or_gene_product
+PMC2193052	20	uniprot:UNRESOLVED ID	pMycGrb2-dSH2	Gene_or_gene_product
+PMC2193052	20	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2193052	20	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	20	uniprot:UNRESOLVED ID	Trp60-Glu152	Gene_or_gene_product
+PMC2193052	21	uniprot:UNRESOLVED ID	SLP-76 cDNA	Gene_or_gene_product
+PMC2193052	21	uniprot:UNRESOLVED ID	pFLAG-CMV-2	Gene_or_gene_product
+PMC2193052	21	uniprot:UNRESOLVED ID	Eastman Kodak Co.	Gene_or_gene_product
+PMC2193052	21	uniprot:Q56704	Flag	Species
+PMC2193052	22	uniprot:UNRESOLVED ID	pFlagSLP-157-533	Gene_or_gene_product
+PMC2193052	22	uniprot:UNRESOLVED ID	pFlagSLP-217-533	Gene_or_gene_product
+PMC2193052	22	uniprot:UNRESOLVED ID	pFlagSLP-241-533	Gene_or_gene_product
+PMC2193052	22	uniprot:UNRESOLVED ID	pFlagSLP-281-533	Gene_or_gene_product
+PMC2193052	22	uniprot:Q56704	Flag	Species
+PMC2193052	22	uniprot:UNRESOLVED ID	SLP-76 mutants	Gene_or_gene_product
+PMC2193052	22	uniprot:UNRESOLVED ID	Met1-Leu156	Gene_or_gene_product
+PMC2193052	22	uniprot:UNRESOLVED ID	Met1-His216	Gene_or_gene_product
+PMC2193052	22	uniprot:UNRESOLVED ID	Met1-Lys240	Gene_or_gene_product
+PMC2193052	22	uniprot:UNRESOLVED ID	Met1-Pro280	Gene_or_gene_product
+PMC2193052	23	uniprot:UNRESOLVED ID	pCX-SLP76	Gene_or_gene_product
+PMC2193052	23	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	24	uniprot:Q26304	Luciferase	Gene_or_gene_product
+PMC2193052	24	uniprot:UNRESOLVED ID	pNFATLuc	Gene_or_gene_product
+PMC2193052	24	uniprot:UNRESOLVED ID	NF-AT binding region	Gene_or_gene_product
+PMC2193052	24	ncbitax:species:ncbi:9606	human	Species
+PMC2193052	24	uniprot:P60568	IL-2	Gene_or_gene_product
+PMC2193052	24	uniprot:UNRESOLVED ID	pIL2Luc	Gene_or_gene_product
+PMC2193052	25	uniprot:UNRESOLVED ID	pENL	Gene_or_gene_product
+PMC2193052	25	uniprot:P16278	beta-galactosidase	Gene_or_gene_product
+PMC2193052	28	ncbitax:species:ncbi:9606	human	Species
+PMC2193052	28	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2193052	28	uazid:UA-CT-100001	B cell	CellType
+PMC2193052	28	uniprot:UNRESOLVED ID	Ramos	Gene_or_gene_product
+PMC2193052	28	uniprot:P80426	TF-1	Gene_or_gene_product
+PMC2193052	28	uazid:UA-ORG-537	lung	Organ
+PMC2193052	28	uniprot:Q54CD8	HeLa	CellType
+PMC2193052	28	ncbitax:species:ncbi:10633	SV40	Species
+PMC2193052	28	uazid:UA-ORG-461	kidney	Organ
+PMC2193052	29	uniprot:P80426	TF-1	Gene_or_gene_product
+PMC2193052	29	uniprot:UNRESOLVED ID	RPMI 1640	Gene_or_gene_product
+PMC2193052	29	uniprot:P04141	GM-CSF	Gene_or_gene_product
+PMC2193052	30	uniprot:UNRESOLVED ID	WI-26	Gene_or_gene_product
+PMC2193052	30	uniprot:Q07788	COS7	Gene_or_gene_product
+PMC2193052	31	uniprot:UNRESOLVED ID	RPMI 1640	Gene_or_gene_product
+PMC2193052	32	uniprot:Q9UJV9	Abs	Gene_or_gene_product
+PMC2193052	33	uniprot:Q9UJV9	Abs	Gene_or_gene_product
+PMC2193052	33	uniprot:UNRESOLVED ID	mAb OKT3	Gene_or_gene_product
+PMC2193052	33	uniprot:UNRESOLVED ID	antiphosphotyrosine mAb 4G10	Gene_or_gene_product
+PMC2193052	33	uniprot:UNRESOLVED ID	anti-Myc polyclonal Ab	Gene_or_gene_product
+PMC2193052	33	uniprot:UNRESOLVED ID	anti-LAT Ab	Gene_or_gene_product
+PMC2193052	33	uniprot:UNRESOLVED ID	mAb PY-20	Gene_or_gene_product
+PMC2193052	33	uniprot:UNRESOLVED ID	ICN	Gene_or_gene_product
+PMC2193052	33	uniprot:UNRESOLVED ID	anti-Myc mAb	Gene_or_gene_product
+PMC2193052	33	uniprot:UNRESOLVED ID	9E10	Gene_or_gene_product
+PMC2193052	33	uniprot:UNRESOLVED ID	anti-Grb2 Ab	Gene_or_gene_product
+PMC2193052	33	uniprot:UNRESOLVED ID	sc-255	Gene_or_gene_product
+PMC2193052	33	uniprot:UNRESOLVED ID	anti-Flag mAb	Gene_or_gene_product
+PMC2193052	33	uniprot:UNRESOLVED ID	Eastman Kodak Co.	Gene_or_gene_product
+PMC2193052	34	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2193052	34	uniprot:UNRESOLVED ID	Val174-Pro194	Gene_or_gene_product
+PMC2193052	34	ncbitax:species:ncbi:9606	human	Species
+PMC2193052	35	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2193052	35	ncbitax:species:ncbi:9606	human	Species
+PMC2193052	36	ncbitax:species:ncbi:9606	human	Species
+PMC2193052	36	uniprot:P25116	Par1	Gene_or_gene_product
+PMC2193052	38	uniprot:P01298	pH	Gene_or_gene_product
+PMC2193052	38	uniprot:P00974	aprotinin	Gene_or_gene_product
+PMC2193052	38	uniprot:Q9UJV9	Abs	Gene_or_gene_product
+PMC2193052	40	uniprot:Q9UJV9	Abs	Gene_or_gene_product
+PMC2193052	42	ncbitax:species:ncbi:9606	human	Species
+PMC2193052	43	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	43	uniprot:P60709	beta-actin	Gene_or_gene_product
+PMC2193052	45	uniprot:UNRESOLVED ID	Luciferase Assay	Gene_or_gene_product
+PMC2193052	46	uniprot:UNRESOLVED ID	OPTI-MEM I	Gene_or_gene_product
+PMC2193052	46	uniprot:O95696	BRL	Gene_or_gene_product
+PMC2193052	47	uniprot:Q26304	luciferase	Gene_or_gene_product
+PMC2193052	47	uniprot:UNRESOLVED ID	pIL2Luc	Gene_or_gene_product
+PMC2193052	47	uniprot:UNRESOLVED ID	pNFATLuc	Gene_or_gene_product
+PMC2193052	47	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	47	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	47	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	47	uniprot:UNRESOLVED ID	OPTI-MEM I	Gene_or_gene_product
+PMC2193052	48	uniprot:UNRESOLVED ID	OKT3	Gene_or_gene_product
+PMC2193052	49	uniprot:UNRESOLVED ID	Ink	CellType
+PMC2193052	49	uniprot:Q26304	luciferase	Gene_or_gene_product
+PMC2193052	49	uniprot:P16278	beta-galactosidase	Gene_or_gene_product
+PMC2193052	50	uniprot:Q92783	STAM	Gene_or_gene_product
+PMC2193052	50	uniprot:UNRESOLVED ID	Jak	Gene_or_gene_product
+PMC2193052	50	uniprot:P52333	Jak3	Gene_or_gene_product
+PMC2193052	50	uniprot:P60568	IL-2	Gene_or_gene_product
+PMC2193052	50	uniprot:P04141	GM-CSF	Gene_or_gene_product
+PMC2193052	51	uniprot:O95630	AMSH	Gene_or_gene_product
+PMC2193052	52	uniprot:O95630	AMSH	Gene_or_gene_product
+PMC2193052	52	ncbitax:species:ncbi:4932	yeast	Species
+PMC2193052	53	ncbitax:species:ncbi:9606	human	Species
+PMC2193052	54	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	54	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	55	uniprot:UNRESOLVED ID	Grf40 gene	Gene_or_gene_product
+PMC2193052	57	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	58	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	58	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	58	uniprot:Q13588	Grap	Gene_or_gene_product
+PMC2193052	59	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	59	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	59	uniprot:Q13588	Grap	Gene_or_gene_product
+PMC2193052	60	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	60	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	61	ncbitax:species:ncbi:9606	human	Species
+PMC2193052	61	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	62	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2193052	62	uazid:UA-CT-100001	B cell	CellType
+PMC2193052	62	uniprot:UNRESOLVED ID	Ramos	Gene_or_gene_product
+PMC2193052	62	uniprot:O59825	THP-1	Gene_or_gene_product
+PMC2193052	62	uniprot:P80426	TF-1	Gene_or_gene_product
+PMC2193052	62	uniprot:UNRESOLVED ID	Eol-3	Gene_or_gene_product
+PMC2193052	62	uniprot:Q54CD8	HeLa	CellType
+PMC2193052	63	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	63	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	64	ncbitax:species:ncbi:9606	human	Species
+PMC2193052	64	uniprot:UNRESOLVED ID	Grf40-specific transcripts	Gene_or_gene_product
+PMC2193052	64	uniprot:UNRESOLVED ID	MOLT-4	Gene_or_gene_product
+PMC2193052	64	uniprot:UNRESOLVED ID	M-TAT	Gene_or_gene_product
+PMC2193052	64	uniprot:UNRESOLVED ID	PHA-PBL	Gene_or_gene_product
+PMC2193052	64	uazid:UA-ORG-996	thymus	Organ
+PMC2193052	64	uazid:UA-ORG-903	spleen	Organ
+PMC2193052	64	uazid:UA-ORG-886	small intestine	Organ
+PMC2193052	64	uniprot:Q46790	PBL	Gene_or_gene_product
+PMC2193052	64	uazid:UA-ORG-759	prostate	Organ
+PMC2193052	64	uniprot:UNRESOLVED ID	testis	CellType
+PMC2193052	64	uazid:UA-ORG-656	ovary	Organ
+PMC2193052	64	uazid:UA-ORG-172	colon	Organ
+PMC2193052	64	uazid:UA-ORG-385	heart	Organ
+PMC2193052	64	uazid:UA-CT-200001	brain	Organ
+PMC2193052	64	uazid:UA-ORG-721	placenta	Organ
+PMC2193052	64	uazid:UA-ORG-537	lung	Organ
+PMC2193052	64	uazid:UA-ORG-520	liver	Organ
+PMC2193052	64	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC2193052	64	uazid:UA-ORG-461	kidney	Organ
+PMC2193052	64	uazid:UA-ORG-666	pancreas	Organ
+PMC2193052	65	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	65	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	66	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	66	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	66	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2193052	66	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193052	66	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	67	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	67	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193052	67	uniprot:UNRESOLVED ID	OKT3	Gene_or_gene_product
+PMC2193052	68	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	68	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2193052	68	uniprot:UNRESOLVED ID	OKT3	Gene_or_gene_product
+PMC2193052	69	uniprot:UNRESOLVED ID	anti-Grf40 Ab	Gene_or_gene_product
+PMC2193052	70	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	70	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	70	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193052	70	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2193052	71	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	71	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	71	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2193052	72	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	72	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	73	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2193052	73	uniprot:UNRESOLVED ID	wild-type Grf40	Gene_or_gene_product
+PMC2193052	73	uniprot:UNRESOLVED ID	Grf40 mutants	Gene_or_gene_product
+PMC2193052	73	uniprot:UNRESOLVED ID	Grf40-dSH3N	Gene_or_gene_product
+PMC2193052	73	uniprot:UNRESOLVED ID	Grf40-dSH3C	Gene_or_gene_product
+PMC2193052	73	uniprot:UNRESOLVED ID	Grf40-dSH3NC	Gene_or_gene_product
+PMC2193052	73	uniprot:UNRESOLVED ID	Grf40-dSH2	Gene_or_gene_product
+PMC2193052	74	uniprot:UNRESOLVED ID	anti-SLP-76 Ab	Gene_or_gene_product
+PMC2193052	74	uniprot:UNRESOLVED ID	anti-Myc mAb	Gene_or_gene_product
+PMC2193052	75	uniprot:UNRESOLVED ID	Wild-type Grf40	Gene_or_gene_product
+PMC2193052	75	uniprot:UNRESOLVED ID	Grf40-dSH2	Gene_or_gene_product
+PMC2193052	75	uniprot:UNRESOLVED ID	Grf40-dSH3N mutants	Gene_or_gene_product
+PMC2193052	75	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	75	uniprot:UNRESOLVED ID	Grf40-dSH3C	Gene_or_gene_product
+PMC2193052	75	uniprot:UNRESOLVED ID	Grf40-dSH3NC mutants	Gene_or_gene_product
+PMC2193052	76	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	76	uniprot:UNRESOLVED ID	Grf40-dSH2	Gene_or_gene_product
+PMC2193052	76	uniprot:UNRESOLVED ID	Grf40-dSH3N	Gene_or_gene_product
+PMC2193052	76	uniprot:UNRESOLVED ID	Grf40-dSH3C	Gene_or_gene_product
+PMC2193052	76	uniprot:UNRESOLVED ID	Grf40-dSH3NC mutants	Gene_or_gene_product
+PMC2193052	77	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	77	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	78	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	78	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	78	uniprot:UNRESOLVED ID	SLP-76 mutants	Gene_or_gene_product
+PMC2193052	79	uniprot:Q56704	Flag	Species
+PMC2193052	79	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	79	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2193052	79	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	79	uniprot:Q9UJV9	Abs	Gene_or_gene_product
+PMC2193052	80	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2193052	80	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	80	uniprot:UNRESOLVED ID	SLP-76 mutants	Gene_or_gene_product
+PMC2193052	80	uniprot:UNRESOLVED ID	SLP-76 mutant	Gene_or_gene_product
+PMC2193052	80	uniprot:UNRESOLVED ID	Pro241-Pro533	Gene_or_gene_product
+PMC2193052	81	uniprot:UNRESOLVED ID	Grf40 binding site	Gene_or_gene_product
+PMC2193052	81	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	82	uniprot:UNRESOLVED ID	Grf40 binding site	Gene_or_gene_product
+PMC2193052	82	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	82	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	83	uazid:UA-ORG-381	hand	Organ
+PMC2193052	83	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	83	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2193052	84	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2193052	84	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	84	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193052	85	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	85	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	85	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	86	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2193052	86	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	86	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	86	uniprot:Q56704	Flag	Species
+PMC2193052	86	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	87	uniprot:UNRESOLVED ID	anti-Flag mAb	Gene_or_gene_product
+PMC2193052	88	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2193052	88	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	88	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	88	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	89	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2193052	89	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	89	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	90	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	90	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	90	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	91	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	91	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2193052	91	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	92	uniprot:UNRESOLVED ID	anti-Flag mAb	Gene_or_gene_product
+PMC2193052	93	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2193052	93	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	93	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	93	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	94	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2193052	94	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	94	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	94	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	95	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	95	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	95	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	96	uniprot:UNRESOLVED ID	SLP-76 mutant	Gene_or_gene_product
+PMC2193052	96	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	96	uniprot:UNRESOLVED ID	Grf40 binding site	Gene_or_gene_product
+PMC2193052	96	uniprot:P60568	IL-2	Gene_or_gene_product
+PMC2193052	96	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193052	96	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	97	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	97	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193052	97	uniprot:Q26304	luciferase	Gene_or_gene_product
+PMC2193052	97	uniprot:P60568	IL-2	Gene_or_gene_product
+PMC2193052	97	uniprot:UNRESOLVED ID	NF-AT binding domain	Gene_or_gene_product
+PMC2193052	98	uniprot:UNRESOLVED ID	wild-type Grf40	Gene_or_gene_product
+PMC2193052	98	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193052	98	uniprot:P60568	IL-2	Gene_or_gene_product
+PMC2193052	98	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193052	99	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	99	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	99	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193052	99	uniprot:P60568	IL-2	Gene_or_gene_product
+PMC2193052	99	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193052	100	uniprot:UNRESOLVED ID	wild-type Grf40	Gene_or_gene_product
+PMC2193052	100	uniprot:UNRESOLVED ID	Grf40-dSH3N mutant	Gene_or_gene_product
+PMC2193052	100	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	100	uniprot:P60568	IL-2	Gene_or_gene_product
+PMC2193052	100	uniprot:UNRESOLVED ID	OKT3	Gene_or_gene_product
+PMC2193052	100	uniprot:UNRESOLVED ID	Grf40-dSH2 mutant	Gene_or_gene_product
+PMC2193052	101	uniprot:UNRESOLVED ID	Grf40-dSH2 mutant	Gene_or_gene_product
+PMC2193052	101	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193052	101	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	101	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2193052	102	uniprot:UNRESOLVED ID	NF-AT luciferase	Gene_or_gene_product
+PMC2193052	102	uniprot:UNRESOLVED ID	OKT3	Gene_or_gene_product
+PMC2193052	103	uniprot:UNRESOLVED ID	Grf40 mutants	Gene_or_gene_product
+PMC2193052	103	uniprot:UNRESOLVED ID	Grf40-dSH3C	Gene_or_gene_product
+PMC2193052	103	uniprot:UNRESOLVED ID	Grf40-dSH3NC	Gene_or_gene_product
+PMC2193052	103	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	103	uniprot:P60568	IL-2	Gene_or_gene_product
+PMC2193052	103	uniprot:UNRESOLVED ID	Grf40-SLP-76	Gene_or_gene_product
+PMC2193052	103	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193052	104	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	104	uniprot:P60568	IL-2	Gene_or_gene_product
+PMC2193052	104	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193052	104	uniprot:UNRESOLVED ID	OKT3	Gene_or_gene_product
+PMC2193052	105	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	105	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193052	105	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	105	uniprot:P60568	IL-2	Gene_or_gene_product
+PMC2193052	106	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	106	uniprot:UNRESOLVED ID	SH2 deletion mutants	Gene_or_gene_product
+PMC2193052	106	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	106	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	106	uniprot:P60568	IL-2	Gene_or_gene_product
+PMC2193052	107	uniprot:UNRESOLVED ID	OKT3	Gene_or_gene_product
+PMC2193052	107	uniprot:Q26304	luciferase	Gene_or_gene_product
+PMC2193052	108	uniprot:P60568	IL-2	Gene_or_gene_product
+PMC2193052	108	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	108	uniprot:UNRESOLVED ID	Grf40-dSH2 mutant	Gene_or_gene_product
+PMC2193052	109	uniprot:P60568	IL-2	Gene_or_gene_product
+PMC2193052	109	uniprot:UNRESOLVED ID	Grf40-dSH2	Gene_or_gene_product
+PMC2193052	109	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	110	uniprot:Q26304	luciferase	Gene_or_gene_product
+PMC2193052	110	uniprot:UNRESOLVED ID	Grf40-dSH2 mutant	Gene_or_gene_product
+PMC2193052	110	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	111	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	111	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193052	111	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	112	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	112	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	112	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	113	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	113	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193052	114	uniprot:UNRESOLVED ID	Grf40 mutants	Gene_or_gene_product
+PMC2193052	114	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193052	114	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	115	uniprot:UNRESOLVED ID	pCX-SLP76	Gene_or_gene_product
+PMC2193052	115	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	115	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	116	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	116	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	116	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2193052	116	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193052	117	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	117	uniprot:P26675	Sos	Gene_or_gene_product
+PMC2193052	117	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193052	118	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	118	uniprot:P26675	Sos	Gene_or_gene_product
+PMC2193052	118	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	119	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	119	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193052	120	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	120	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193052	120	uniprot:P60568	IL-2	Gene_or_gene_product
+PMC2193052	120	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193052	120	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	121	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	121	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	121	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2193052	121	uniprot:P31749	Rac	Gene_or_gene_product
+PMC2193052	121	uniprot:Q8N1W1	Rho guanine nucleotide exchange factor	Gene_or_gene_product
+PMC2193052	121	uniprot:P60568	IL-2	Gene_or_gene_product
+PMC2193052	121	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193052	122	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193052	122	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2193052	122	uniprot:UNRESOLVED ID	Grf40-SLP-76	Gene_or_gene_product
+PMC2193052	122	uniprot:P43403	ZAP-70	Gene_or_gene_product
+PMC2193052	122	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	122	uniprot:P15498	Vav	Gene_or_gene_product
+PMC2193052	123	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	123	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	124	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	124	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193052	124	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	125	uniprot:Q13588	Grap	Gene_or_gene_product
+PMC2193052	126	uniprot:O75791	GRB2L	Gene_or_gene_product
+PMC2193052	127	uniprot:UNRESOLVED ID	Z82206	Gene_or_gene_product
+PMC2193052	127	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	128	uniprot:O75791	GRB2L	Gene_or_gene_product
+PMC2193052	128	ncbitax:species:ncbi:9606	human	Species
+PMC2193052	128	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	129	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	129	uniprot:O75791	Grap2	Gene_or_gene_product
+PMC2193052	129	ncbitax:species:ncbi:9606	human	Species
+PMC2193052	129	uniprot:O75791	Gads	Gene_or_gene_product
+PMC2193052	129	ncbitax:species:ncbi:10090	mouse	Species
+PMC2193052	130	ncbitax:species:ncbi:9606	human	Species
+PMC2193052	130	uniprot:O75791	Gads	Gene_or_gene_product
+PMC2193052	130	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	131	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	131	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193052	131	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	132	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	133	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	133	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	133	uniprot:Q13588	Grap	Gene_or_gene_product
+PMC2193052	134	uniprot:UNRESOLVED ID	SH3	Gene_or_gene_product
+PMC2193052	134	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	134	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	134	uniprot:Q13588	Grap	Gene_or_gene_product
+PMC2193052	135	ncbitax:species:ncbi:9606	human	Species
+PMC2193052	135	uniprot:P21912	IP	Gene_or_gene_product
+PMC2193052	135	uniprot:UNRESOLVED ID	IB	Gene_or_gene_product
+PMC2193052	135	uniprot:UNRESOLVED ID	anti-Grf40	Gene_or_gene_product
+PMC2193052	135	uniprot:UNRESOLVED ID	anti-Grb2	Gene_or_gene_product
+PMC2193052	135	uniprot:UNRESOLVED ID	serum	CellType
+PMC2193052	136	ncbitax:species:ncbi:9606	human	Species
+PMC2193052	137	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	137	uniprot:P60709	beta-actin	Gene_or_gene_product
+PMC2193052	138	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	138	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2193052	138	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	139	uniprot:UNRESOLVED ID	OKT3	Gene_or_gene_product
+PMC2193052	139	uniprot:P21912	IP	Gene_or_gene_product
+PMC2193052	139	uniprot:UNRESOLVED ID	serum	CellType
+PMC2193052	140	uniprot:UNRESOLVED ID	anti-LAT Ab	Gene_or_gene_product
+PMC2193052	141	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2193052	141	uniprot:UNRESOLVED ID	wild-type Grf40	Gene_or_gene_product
+PMC2193052	141	uniprot:UNRESOLVED ID	Grf40 mutants	Gene_or_gene_product
+PMC2193052	141	uniprot:UNRESOLVED ID	dSH3C	Gene_or_gene_product
+PMC2193052	141	uniprot:UNRESOLVED ID	dSH2	Gene_or_gene_product
+PMC2193052	141	uniprot:UNRESOLVED ID	dSH3N	Gene_or_gene_product
+PMC2193052	141	uniprot:UNRESOLVED ID	dSH3NC	Gene_or_gene_product
+PMC2193052	141	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	142	uniprot:UNRESOLVED ID	serum	CellType
+PMC2193052	142	uniprot:UNRESOLVED ID	anti-Myc mAb	Gene_or_gene_product
+PMC2193052	142	uniprot:UNRESOLVED ID	anti-SLP-76 antiserum	Gene_or_gene_product
+PMC2193052	143	uniprot:Q56704	Flag	Species
+PMC2193052	143	uniprot:UNRESOLVED ID	wild-type SLP-76	Gene_or_gene_product
+PMC2193052	143	uniprot:UNRESOLVED ID	SLP-76 mutants	Gene_or_gene_product
+PMC2193052	143	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2193052	143	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	144	uniprot:UNRESOLVED ID	anti-Flag mAb	Gene_or_gene_product
+PMC2193052	144	uniprot:UNRESOLVED ID	anti-Myc	Gene_or_gene_product
+PMC2193052	145	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	145	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	145	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	146	uniprot:UNRESOLVED ID	pFlagSLP	Gene_or_gene_product
+PMC2193052	146	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	146	uniprot:UNRESOLVED ID	pMycGrf40	Gene_or_gene_product
+PMC2193052	146	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	146	uniprot:UNRESOLVED ID	pMycGrb2	Gene_or_gene_product
+PMC2193052	146	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	147	uniprot:P21912	IP	Gene_or_gene_product
+PMC2193052	147	uniprot:UNRESOLVED ID	anti-Flag mAb	Gene_or_gene_product
+PMC2193052	147	uniprot:UNRESOLVED ID	anti-Myc polyclonal Ab	Gene_or_gene_product
+PMC2193052	148	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2193052	148	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	148	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	148	uniprot:UNRESOLVED ID	anti-Myc mAb	Gene_or_gene_product
+PMC2193052	149	uniprot:UNRESOLVED ID	Grf40 mutants	Gene_or_gene_product
+PMC2193052	149	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193052	149	uniprot:P60568	IL-2	Gene_or_gene_product
+PMC2193052	149	uniprot:UNRESOLVED ID	NF-AT	Gene_or_gene_product
+PMC2193052	150	uniprot:UNRESOLVED ID	IL-2-Luc	Gene_or_gene_product
+PMC2193052	150	uniprot:UNRESOLVED ID	NF-AT-Luc	Gene_or_gene_product
+PMC2193052	150	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	150	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2193052	150	uniprot:UNRESOLVED ID	wild-type Grf40	Gene_or_gene_product
+PMC2193052	150	uniprot:UNRESOLVED ID	Grf40 mutants	Gene_or_gene_product
+PMC2193052	150	uniprot:UNRESOLVED ID	dSH2	Gene_or_gene_product
+PMC2193052	151	uniprot:UNRESOLVED ID	OKT3	Gene_or_gene_product
+PMC2193052	151	uniprot:Q26304	luciferase	Gene_or_gene_product
+PMC2193052	152	uniprot:Q26304	luciferase	Gene_or_gene_product
+PMC2193052	154	uniprot:UNRESOLVED ID	Grf40-dSH2	Gene_or_gene_product
+PMC2193052	154	uniprot:UNRESOLVED ID	Grb2-dSH2	Gene_or_gene_product
+PMC2193052	154	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2193052	154	uniprot:P60568	IL-2	Gene_or_gene_product
+PMC2193052	155	uniprot:UNRESOLVED ID	IL-2-Luc	Gene_or_gene_product
+PMC2193052	155	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	155	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2193052	155	uniprot:O75791	Grf40	Gene_or_gene_product
+PMC2193052	155	uniprot:UNRESOLVED ID	Grf40-dSH2	Gene_or_gene_product
+PMC2193052	155	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2193052	155	uniprot:UNRESOLVED ID	Grb2-dSH2	Gene_or_gene_product
+PMC2193052	156	uniprot:UNRESOLVED ID	OKT3	Gene_or_gene_product
+PMC2193052	157	uniprot:UNRESOLVED ID	IL-2-Luc	Gene_or_gene_product
+PMC2193052	157	uniprot:Q13094	SLP-76	Gene_or_gene_product
+PMC2193052	157	uniprot:UNRESOLVED ID	Grf40-dSH2	Gene_or_gene_product
+PMC2193052	157	uniprot:UNRESOLVED ID	Grb2-dSH2	Gene_or_gene_product
+PMC2193052	158	uniprot:UNRESOLVED ID	OKT3	Gene_or_gene_product
+PMC2193052	158	uniprot:Q26304	luciferase	Gene_or_gene_product
+PMC2193052	159	uniprot:Q26304	Luciferase	Gene_or_gene_product
+PMC2193052	159	uniprot:Q10981	SE	Gene_or_gene_product
+PMC2193052	160	uniprot:UNRESOLVED ID	Myc-Tag-pcDNA3.1	Gene_or_gene_product
+PMC2193052	161	uniprot:O75177	CREST	Gene_or_gene_product
+PMC2193052	163	uniprot:UNRESOLVED ID	leukocyte	CellType

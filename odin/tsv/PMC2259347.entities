@@ -1,0 +1,375 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2259347	0	uniprot:Q12933	TRAF2	Gene_or_gene_product
+PMC2259347	0	uniprot:O15519	cellular FLICE-like inhibitory protein	Gene_or_gene_product
+PMC2259347	0	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	1	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	1	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	1	uniprot:P25445	Fas	Gene_or_gene_product
+PMC2259347	1	uniprot:Q9UER7	Daxx	Gene_or_gene_product
+PMC2259347	2	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	2	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	2	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	2	uniprot:Q12933	TRAF2	Gene_or_gene_product
+PMC2259347	3	uniprot:P78543	PC3	Gene_or_gene_product
+PMC2259347	3	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	3	uniprot:UNRESOLVED ID	SNU-719	Gene_or_gene_product
+PMC2259347	4	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	4	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	5	uniprot:UNRESOLVED ID	DU145	Gene_or_gene_product
+PMC2259347	5	uniprot:P78543	PC3	Gene_or_gene_product
+PMC2259347	5	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	5	uniprot:UNRESOLVED ID	SNU719	Gene_or_gene_product
+PMC2259347	5	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	6	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	6	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	6	uniprot:Q12933	TRAF2	Gene_or_gene_product
+PMC2259347	7	uniprot:Q12933	TRAF2	Gene_or_gene_product
+PMC2259347	7	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	7	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	8	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	8	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	9	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	9	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	10	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	10	uniprot:UNRESOLVED ID	TNF-receptor 1	Gene_or_gene_product
+PMC2259347	11	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	11	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	11	uniprot:P25445	Fas	Gene_or_gene_product
+PMC2259347	11	uniprot:Q9UER7	Daxx	Gene_or_gene_product
+PMC2259347	12	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	12	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	12	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	12	uniprot:Q12933	TRAF2	Gene_or_gene_product
+PMC2259347	13	uniprot:P78543	PC3	Gene_or_gene_product
+PMC2259347	13	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	13	uniprot:UNRESOLVED ID	SNU-719	Gene_or_gene_product
+PMC2259347	14	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	14	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	15	uniprot:UNRESOLVED ID	DU145	Gene_or_gene_product
+PMC2259347	15	uniprot:P78543	PC3	Gene_or_gene_product
+PMC2259347	15	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	15	uniprot:UNRESOLVED ID	SNU719	Gene_or_gene_product
+PMC2259347	15	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	16	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	16	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	16	uniprot:Q12933	TRAF2	Gene_or_gene_product
+PMC2259347	17	uniprot:Q12933	TRAF2	Gene_or_gene_product
+PMC2259347	17	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	17	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	18	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	18	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	19	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	19	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	20	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	20	uniprot:UNRESOLVED ID	TNF-receptor 1	Gene_or_gene_product
+PMC2259347	21	uniprot:P19438	Tumor necrosis factor receptor 1	Gene_or_gene_product
+PMC2259347	21	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	21	uniprot:UNRESOLVED ID	activating transcription factor NF-kappaB	Gene_or_gene_product
+PMC2259347	22	uniprot:UNRESOLVED ID	death receptor CD95	Gene_or_gene_product
+PMC2259347	22	uniprot:Q9XIR4	APO-1	Gene_or_gene_product
+PMC2259347	22	uniprot:P25445	Fas	Gene_or_gene_product
+PMC2259347	22	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	22	uniprot:UNRESOLVED ID	FADD adaptor	Gene_or_gene_product
+PMC2259347	22	uniprot:Q14790	caspase 8	Gene_or_gene_product
+PMC2259347	22	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	23	uniprot:Q13158	FADD	Gene_or_gene_product
+PMC2259347	23	uniprot:Q14790	caspase 8	Gene_or_gene_product
+PMC2259347	23	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	23	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	23	uniprot:UNRESOLVED ID	TNF-alpha receptor	Gene_or_gene_product
+PMC2259347	23	uniprot:Q12933	TRAF2	Gene_or_gene_product
+PMC2259347	23	uniprot:Q15628	TNFR1-associated death domain protein	Gene_or_gene_product
+PMC2259347	23	uniprot:Q15628	TRADD	Gene_or_gene_product
+PMC2259347	23	uniprot:Q13490	c-IAP1	Gene_or_gene_product
+PMC2259347	24	uniprot:P25445	FAS	Gene_or_gene_product
+PMC2259347	24	uniprot:P50591	TRAIL	Gene_or_gene_product
+PMC2259347	24	uniprot:UNRESOLVED ID	TRAIL receptors	Gene_or_gene_product
+PMC2259347	24	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	25	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	25	uniprot:Q15628	TRADD	Gene_or_gene_product
+PMC2259347	25	uniprot:Q13546	RIP1	Gene_or_gene_product
+PMC2259347	26	uniprot:Q12933	TRAF2	Gene_or_gene_product
+PMC2259347	26	uniprot:Q13490	c-IAP1	Gene_or_gene_product
+PMC2259347	26	uniprot:UNRESOLVED ID	NF-kappaB	Gene_or_gene_product
+PMC2259347	26	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	27	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	27	uniprot:Q13158	FADD	Gene_or_gene_product
+PMC2259347	27	uniprot:Q15628	TRADD	Gene_or_gene_product
+PMC2259347	27	uniprot:Q14790	caspase 8	Gene_or_gene_product
+PMC2259347	28	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	28	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	28	uniprot:Q15628	TRADD	Gene_or_gene_product
+PMC2259347	29	uniprot:Q15628	TRADD	Gene_or_gene_product
+PMC2259347	29	uniprot:Q13158	FADD	Gene_or_gene_product
+PMC2259347	29	uniprot:Q14790	caspase-8	Gene_or_gene_product
+PMC2259347	30	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	30	uniprot:Q15628	TRADD	Gene_or_gene_product
+PMC2259347	30	uniprot:Q12933	TRAF2	Gene_or_gene_product
+PMC2259347	30	uniprot:P52594	RIP	Gene_or_gene_product
+PMC2259347	30	uniprot:UNRESOLVED ID	NF-kappaB	Gene_or_gene_product
+PMC2259347	30	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	31	uniprot:UNRESOLVED ID	NF-kappaB	Gene_or_gene_product
+PMC2259347	31	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	32	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	33	uniprot:UNRESOLVED ID	NF-kappaB	Gene_or_gene_product
+PMC2259347	33	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	34	uniprot:UNRESOLVED ID	NF-kappaB	Gene_or_gene_product
+PMC2259347	34	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	35	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	36	uniprot:O15519	c-FLIP	Gene_or_gene_product
+PMC2259347	36	uniprot:O15519	FLAME-1	Gene_or_gene_product
+PMC2259347	36	uniprot:UNRESOLVED ID	I-FLICE/CASPER/CASH	Gene_or_gene_product
+PMC2259347	36	uniprot:UNRESOLVED ID	MRIT/CLARP/Usurpin	Gene_or_gene_product
+PMC2259347	37	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	37	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	38	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	38	uniprot:UNRESOLVED ID	caspase-like domains	Gene_or_gene_product
+PMC2259347	38	uniprot:A1KXE4	p20	Gene_or_gene_product
+PMC2259347	38	uniprot:P0C6Y5	p12	Gene_or_gene_product
+PMC2259347	38	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	39	uniprot:O15519	c-FLIP	Gene_or_gene_product
+PMC2259347	39	uniprot:UNRESOLVED ID	DED-DED	Gene_or_gene_product
+PMC2259347	40	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	40	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	41	uniprot:Q13158	FADD	Gene_or_gene_product
+PMC2259347	41	uniprot:O01382	caspase	Gene_or_gene_product
+PMC2259347	41	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	42	uniprot:Q14790	caspase 8	Gene_or_gene_product
+PMC2259347	42	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	43	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	43	uniprot:UNRESOLVED ID	NF-kappaB	Gene_or_gene_product
+PMC2259347	44	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	44	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	44	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	44	uniprot:Q12933	TRAF2	Gene_or_gene_product
+PMC2259347	45	uniprot:Q12933	TRAF2	Gene_or_gene_product
+PMC2259347	45	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	45	uniprot:UNRESOLVED ID	DN-TRAF2	Gene_or_gene_product
+PMC2259347	45	uniprot:UNRESOLVED ID	p-JNK	Gene_or_gene_product
+PMC2259347	45	uniprot:UNRESOLVED ID	c-FLIPS siRNA	Gene_or_gene_product
+PMC2259347	45	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	46	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	46	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	47	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	47	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	48	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	48	uniprot:O15519	c-FLIP	Gene_or_gene_product
+PMC2259347	48	ncbitax:species:ncbi:9606	human	Species
+PMC2259347	49	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	49	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	49	uniprot:P25445	Fas	Gene_or_gene_product
+PMC2259347	49	uniprot:Q9UER7	Daxx	Gene_or_gene_product
+PMC2259347	50	uniprot:P78543	PC3	Gene_or_gene_product
+PMC2259347	50	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	50	uniprot:UNRESOLVED ID	SNU-719	Gene_or_gene_product
+PMC2259347	50	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2259347	52	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	52	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2259347	54	uniprot:O15519	c-FLIP	Gene_or_gene_product
+PMC2259347	55	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	55	uniprot:P01375	TNF	Gene_or_gene_product
+PMC2259347	56	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	56	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	57	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	57	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	58	uniprot:P60709	beta-Actin	Gene_or_gene_product
+PMC2259347	59	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	60	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	60	uniprot:P04406	GAPDH	Gene_or_gene_product
+PMC2259347	64	ncbitax:species:ncbi:9606	human	Species
+PMC2259347	65	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	66	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	67	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	67	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	67	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2259347	69	uniprot:UNRESOLVED ID	DU145	Gene_or_gene_product
+PMC2259347	69	uniprot:P78543	PC3	Gene_or_gene_product
+PMC2259347	69	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	69	uniprot:UNRESOLVED ID	SNU719	Gene_or_gene_product
+PMC2259347	69	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	70	uniprot:P01375	TNF	Gene_or_gene_product
+PMC2259347	70	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	71	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	71	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	72	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	73	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	73	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	73	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	73	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2259347	75	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	75	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	75	uniprot:Q12933	TRAF2	Gene_or_gene_product
+PMC2259347	77	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	78	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	78	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	78	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	81	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	81	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	81	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	81	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	82	uniprot:Q04671	P-	Gene_or_gene_product
+PMC2259347	82	uniprot:UNRESOLVED ID	t-JNK	Gene_or_gene_product
+PMC2259347	82	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	83	uniprot:Q56704	FLAG	Species
+PMC2259347	83	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	83	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	83	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	83	uniprot:UNRESOLVED ID	anti-TRAF2 antibody	Gene_or_gene_product
+PMC2259347	84	uniprot:Q12933	TRAF2	Gene_or_gene_product
+PMC2259347	85	uniprot:Q12933	TRAF2	Gene_or_gene_product
+PMC2259347	85	uniprot:UNRESOLVED ID	DN-TRAF2	Gene_or_gene_product
+PMC2259347	87	uniprot:P42574	caspase 3	Gene_or_gene_product
+PMC2259347	88	uniprot:P60709	beta-Actin	Gene_or_gene_product
+PMC2259347	89	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	89	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	89	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	89	uniprot:P01375	TNF	Gene_or_gene_product
+PMC2259347	90	uniprot:O15519	c-FLIP	Gene_or_gene_product
+PMC2259347	90	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	91	uniprot:P01375	TNF	Gene_or_gene_product
+PMC2259347	91	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	91	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2259347	93	uniprot:O15519	c-FLIP	Gene_or_gene_product
+PMC2259347	93	uniprot:Q12933	TRAF2	Gene_or_gene_product
+PMC2259347	93	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	94	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	94	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	94	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	95	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	95	uniprot:UNRESOLVED ID	FADD-caspase 8	Gene_or_gene_product
+PMC2259347	96	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	96	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	97	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	97	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	98	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	98	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	98	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2259347	100	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	100	uniprot:P01375	TNF	Gene_or_gene_product
+PMC2259347	100	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	101	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	101	uniprot:P01375	TNF	Gene_or_gene_product
+PMC2259347	102	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	102	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	103	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	103	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	104	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	104	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	104	uniprot:UNRESOLVED ID	JNK antibodies	Gene_or_gene_product
+PMC2259347	105	uniprot:Q04671	P-	Gene_or_gene_product
+PMC2259347	105	uniprot:O15178	T-	Gene_or_gene_product
+PMC2259347	107	uniprot:UNRESOLVED ID	p-JNK	Gene_or_gene_product
+PMC2259347	107	uniprot:UNRESOLVED ID	t-JNK	Gene_or_gene_product
+PMC2259347	108	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	108	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	109	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	109	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	110	ncbitax:species:ncbi:9606	human	Species
+PMC2259347	110	uniprot:P78543	PC3	Gene_or_gene_product
+PMC2259347	110	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	111	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	112	uniprot:UNRESOLVED ID	c-FLIPS protein	Gene_or_gene_product
+PMC2259347	112	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2259347	114	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	114	uniprot:UNRESOLVED ID	c-FLIPS siRNA	Gene_or_gene_product
+PMC2259347	115	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	116	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	116	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	116	uniprot:P78543	PC3	Gene_or_gene_product
+PMC2259347	117	uniprot:UNRESOLVED ID	c-FLIPS protein	Gene_or_gene_product
+PMC2259347	119	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	119	uniprot:UNRESOLVED ID	phospho-specific antibodies	Gene_or_gene_product
+PMC2259347	119	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	120	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	122	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	123	uniprot:P60709	beta-Actin	Gene_or_gene_product
+PMC2259347	124	uniprot:O15519	c-FLIP	Gene_or_gene_product
+PMC2259347	126	uniprot:Q12933	TRAF2	Gene_or_gene_product
+PMC2259347	126	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	126	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	126	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	127	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	127	ncbitax:species:ncbi:9606	human	Species
+PMC2259347	127	uniprot:UNRESOLVED ID	CD95	Gene_or_gene_product
+PMC2259347	128	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2259347	130	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	130	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	130	uniprot:P01375	TNF	Gene_or_gene_product
+PMC2259347	130	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	131	uniprot:O15519	c-FLIP	Gene_or_gene_product
+PMC2259347	131	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	131	uniprot:P25942	CD40	Gene_or_gene_product
+PMC2259347	132	uniprot:O15519	c-FLIP	Gene_or_gene_product
+PMC2259347	132	uniprot:P25445	Fas	Gene_or_gene_product
+PMC2259347	132	uniprot:Q14790	caspase 8	Gene_or_gene_product
+PMC2259347	133	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	133	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	133	uniprot:Q14790	caspase 8	Gene_or_gene_product
+PMC2259347	134	uniprot:O15519	c-FLIP	Gene_or_gene_product
+PMC2259347	134	uniprot:UNRESOLVED ID	vascular smooth muscle	CellType
+PMC2259347	135	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	135	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	136	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	136	uniprot:Q12933	TRAF2	Gene_or_gene_product
+PMC2259347	136	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	136	uniprot:P19438	TNFR1	Gene_or_gene_product
+PMC2259347	138	uniprot:Q12933	TRAF2	Gene_or_gene_product
+PMC2259347	138	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	138	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	139	uniprot:O15519	c-FLIP	Gene_or_gene_product
+PMC2259347	140	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	140	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2259347	140	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	140	uniprot:Q12933	TRAF2	Gene_or_gene_product
+PMC2259347	141	uniprot:O15519	c-FLIP	Gene_or_gene_product
+PMC2259347	142	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	142	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	143	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	143	uniprot:UNRESOLVED ID	death receptor	Gene_or_gene_product
+PMC2259347	144	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	144	uniprot:Q13158	FADD	Gene_or_gene_product
+PMC2259347	144	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2259347	144	uniprot:Q12933	TRAF2	Gene_or_gene_product
+PMC2259347	144	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	145	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	145	uniprot:P01375	TNF	Gene_or_gene_product
+PMC2259347	146	uniprot:O15519	c-FLIP	Gene_or_gene_product
+PMC2259347	147	uniprot:O15519	c-FLIP	Gene_or_gene_product
+PMC2259347	149	ncbitax:species:ncbi:9606	Human	Species
+PMC2259347	149	uniprot:UNRESOLVED ID	serum	CellType
+PMC2259347	149	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2259347	149	uniprot:O95696	BRL	Gene_or_gene_product
+PMC2259347	151	ncbitax:species:ncbi:9606	human	Species
+PMC2259347	151	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	152	uniprot:UNRESOLVED ID	c-FLIPL	Gene_or_gene_product
+PMC2259347	152	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	152	uniprot:Q12933	TRAF2	Gene_or_gene_product
+PMC2259347	152	uniprot:UNRESOLVED ID	TRAF2266-501	Gene_or_gene_product
+PMC2259347	156	uniprot:Q7Z859	PBS	Gene_or_gene_product
+PMC2259347	157	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2259347	159	uniprot:UNRESOLVED ID	c-FLIPS	Gene_or_gene_product
+PMC2259347	159	uniprot:UNRESOLVED ID	BLOCK-iT	Gene_or_gene_product
+PMC2259347	159	uniprot:O42043	TM	Gene_or_gene_product
+PMC2259347	159	uniprot:UNRESOLVED ID	RNAi Designer	Gene_or_gene_product
+PMC2259347	160	ncbitax:species:ncbi:41568	muM	Species
+PMC2259347	164	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2259347	166	uniprot:Q9UJT0	tube	Gene_or_gene_product
+PMC2259347	166	uniprot:UNRESOLVED ID	TaqMan Universal PCR Master Mix	Gene_or_gene_product
+PMC2259347	167	uniprot:UNRESOLVED ID	tube caps	Gene_or_gene_product
+PMC2259347	170	uniprot:Q96FA3	PRISM	Gene_or_gene_product
+PMC2259347	172	uniprot:P08758	annexin V	Gene_or_gene_product
+PMC2259347	175	uniprot:UNRESOLVED ID	Softmax ELISA reader	Gene_or_gene_product
+PMC2259347	177	uniprot:P08758	Annexin V	Gene_or_gene_product
+PMC2259347	177	uniprot:UNRESOLVED ID	Sigma	Gene_or_gene_product
+PMC2259347	177	uniprot:O95810	phosphatidylserine-binding protein	Gene_or_gene_product
+PMC2259347	177	uniprot:P01009	PI	Gene_or_gene_product
+PMC2259347	178	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC2259347	178	uniprot:P01298	pH	Gene_or_gene_product
+PMC2259347	178	ncbitax:species:ncbi:41568	muM	Species
+PMC2259347	178	uniprot:UNRESOLVED ID	FITC	Gene_or_gene_product
+PMC2259347	178	uniprot:P01009	PI	Gene_or_gene_product
+PMC2259347	180	uniprot:P01009	PI	Gene_or_gene_product
+PMC2259347	181	uniprot:UNRESOLVED ID	DJK	Gene_or_gene_product
+PMC2259347	182	uniprot:P00450	CP	Gene_or_gene_product
+PMC2259347	182	uniprot:UNRESOLVED ID	BSO	Gene_or_gene_product
+PMC2259347	183	uniprot:UNRESOLVED ID	YYK	Gene_or_gene_product

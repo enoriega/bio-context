@@ -1,0 +1,376 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC113262	0	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	0	uniprot:UNRESOLVED ID	vascular endothelial growth factor	Gene_or_gene_product
+PMC113262	1	uazid:UA-ORG-92	blood	Organ
+PMC113262	2	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	2	uniprot:UNRESOLVED ID	vascular endothelial growth factor	Gene_or_gene_product
+PMC113262	2	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	2	uniprot:P04637	tumor suppressor p53	Gene_or_gene_product
+PMC113262	3	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	3	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	4	uniprot:P04637	P53	Gene_or_gene_product
+PMC113262	4	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	4	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	5	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	5	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	5	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	6	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	6	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	6	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	6	uniprot:UNRESOLVED ID	avidin-biotin-peroxidase	Gene_or_gene_product
+PMC113262	6	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	7	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	7	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	7	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	7	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	8	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	8	uazid:UA-ORG-539	lymph	Organ
+PMC113262	8	uniprot:P06231	node	Organ
+PMC113262	9	uniprot:P04637	P53	Gene_or_gene_product
+PMC113262	9	uniprot:UNRESOLVED ID	gastric carcinoma	CellType
+PMC113262	10	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	10	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	10	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	11	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	11	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	11	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	11	uniprot:P33406	CAG	Gene_or_gene_product
+PMC113262	11	uniprot:Q56X52	IM	Gene_or_gene_product
+PMC113262	11	uniprot:Q97BN6	DYS	Gene_or_gene_product
+PMC113262	12	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	12	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	12	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	12	uniprot:P33406	CAG	Gene_or_gene_product
+PMC113262	12	uniprot:Q56X52	IM	Gene_or_gene_product
+PMC113262	12	uniprot:Q97BN6	DYS	Gene_or_gene_product
+PMC113262	12	uniprot:UNRESOLVED ID	gastric cancer	CellType
+PMC113262	12	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	13	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	13	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	13	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	13	uniprot:UNRESOLVED ID	gastric cancer	CellType
+PMC113262	14	uazid:UA-ORG-92	blood	Organ
+PMC113262	15	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	15	uniprot:UNRESOLVED ID	vascular endothelial growth factor	Gene_or_gene_product
+PMC113262	15	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	15	uniprot:P04637	tumor suppressor p53	Gene_or_gene_product
+PMC113262	16	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	16	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	17	uniprot:P04637	P53	Gene_or_gene_product
+PMC113262	17	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	17	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	18	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	18	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	18	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	19	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	19	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	19	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	19	uniprot:UNRESOLVED ID	avidin-biotin-peroxidase	Gene_or_gene_product
+PMC113262	19	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	20	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	20	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	20	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	20	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	21	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	21	uazid:UA-ORG-539	lymph	Organ
+PMC113262	21	uniprot:P06231	node	Organ
+PMC113262	22	uniprot:P04637	P53	Gene_or_gene_product
+PMC113262	22	uniprot:UNRESOLVED ID	gastric carcinoma	CellType
+PMC113262	23	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	23	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	23	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	24	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	24	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	24	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	24	uniprot:P33406	CAG	Gene_or_gene_product
+PMC113262	24	uniprot:Q56X52	IM	Gene_or_gene_product
+PMC113262	24	uniprot:Q97BN6	DYS	Gene_or_gene_product
+PMC113262	25	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	25	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	25	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	25	uniprot:P33406	CAG	Gene_or_gene_product
+PMC113262	25	uniprot:Q56X52	IM	Gene_or_gene_product
+PMC113262	25	uniprot:Q97BN6	DYS	Gene_or_gene_product
+PMC113262	25	uniprot:UNRESOLVED ID	gastric cancer	CellType
+PMC113262	25	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	26	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	26	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	26	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	26	uniprot:UNRESOLVED ID	gastric cancer	CellType
+PMC113262	27	uniprot:UNRESOLVED ID	Gastric adenocarcinoma	CellType
+PMC113262	27	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	28	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	28	uniprot:O60260	Parkin	Gene_or_gene_product
+PMC113262	28	uniprot:UNRESOLVED ID	Nomura A	Gene_or_gene_product
+PMC113262	30	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	30	uniprot:P33406	CAG	Gene_or_gene_product
+PMC113262	30	uniprot:Q56X52	IM	Gene_or_gene_product
+PMC113262	32	uazid:UA-ORG-92	blood	Organ
+PMC113262	33	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	33	uniprot:UNRESOLVED ID	vascular endothelial growth factor	Gene_or_gene_product
+PMC113262	33	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	33	uniprot:P04637	tumor suppressor p53	Gene_or_gene_product
+PMC113262	34	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	35	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	36	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	36	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	37	uniprot:P04637	P53	Gene_or_gene_product
+PMC113262	37	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	37	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	38	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	38	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	39	ncbitax:species:ncbi:9606	human	Species
+PMC113262	39	uniprot:UNRESOLVED ID	fibroblast	CellType
+PMC113262	39	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	39	uniprot:A0PDV5	ras	Gene_or_gene_product
+PMC113262	39	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	40	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	40	uniprot:P63185	v-src	Gene_or_gene_product
+PMC113262	40	ncbitax:species:ncbi:9606	human	Species
+PMC113262	40	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	40	uniprot:UNRESOLVED ID	glioblastoma	CellType
+PMC113262	40	uazid:UA-ORG-461	kidney	Organ
+PMC113262	41	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	41	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	41	ncbitax:species:ncbi:9606	human	Species
+PMC113262	41	uniprot:UNRESOLVED ID	carcinoma	CellType
+PMC113262	41	uniprot:UNRESOLVED ID	hepatoblastoma	CellType
+PMC113262	41	uniprot:UNRESOLVED ID	p53-estrogen-receptor	Gene_or_gene_product
+PMC113262	42	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	42	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	42	ncbitax:species:ncbi:9606	human	Species
+PMC113262	42	uazid:UA-ORG-537	lung	Organ
+PMC113262	43	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	43	uniprot:Q00987	MDM-2	Gene_or_gene_product
+PMC113262	43	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	44	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	44	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	44	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	44	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	45	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	45	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	45	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	46	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	46	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	46	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	46	ncbitax:species:ncbi:9606	human	Species
+PMC113262	46	uniprot:P25062	CSG	Gene_or_gene_product
+PMC113262	46	uniprot:P33406	CAG	Gene_or_gene_product
+PMC113262	46	uniprot:Q97BN6	DYS	Gene_or_gene_product
+PMC113262	46	uniprot:Q56X52	IM	Gene_or_gene_product
+PMC113262	46	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	46	uazid:UA-ORG-539	lymph	Organ
+PMC113262	46	uniprot:P06231	node	Organ
+PMC113262	47	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	48	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	49	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	49	uniprot:UNRESOLVED ID	gastric cancer	CellType
+PMC113262	49	ncbitax:species:ncbi:9606	People	Species
+PMC113262	54	uazid:UA-ORG-539	lymph	Organ
+PMC113262	54	uniprot:P06231	node	Organ
+PMC113262	55	uniprot:UNRESOLVED ID	gastric cancer	CellType
+PMC113262	59	uazid:UA-ORG-917	stomach	Organ
+PMC113262	60	ncbitax:species:ncbi:41568	mum	Species
+PMC113262	62	uniprot:UNRESOLVED ID	hematoxylin	Gene_or_gene_product
+PMC113262	62	uniprot:UNRESOLVED ID	eosin	Gene_or_gene_product
+PMC113262	64	uazid:UA-CT-22	lymphocyte	CellType
+PMC113262	64	uazid:UA-CT-27	connective tissue	CellType
+PMC113262	64	uazid:UA-ORG-725	plasma	Organ
+PMC113262	64	uazid:UA-CT-22	lymphocytes	CellType
+PMC113262	64	uazid:UA-ORG-252	epithelium	Organ
+PMC113262	64	uazid:UA-ORG-351	gastric mucosa	Organ
+PMC113262	64	uniprot:Q13510	AC	Gene_or_gene_product
+PMC113262	65	uniprot:UNRESOLVED ID	Anti-p53 antibody	Gene_or_gene_product
+PMC113262	65	ncbitax:species:ncbi:10090	mouse	Species
+PMC113262	65	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	65	ncbitax:species:ncbi:9606	human	Species
+PMC113262	65	uniprot:UNRESOLVED ID	Ab-6	Gene_or_gene_product
+PMC113262	65	uniprot:UNRESOLVED ID	Oncogene	Gene_or_gene_product
+PMC113262	66	uniprot:UNRESOLVED ID	Anti-iNOS antibody	Gene_or_gene_product
+PMC113262	66	ncbitax:species:ncbi:10090	mouse	Species
+PMC113262	66	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	66	ncbitax:species:ncbi:9606	human	Species
+PMC113262	67	uniprot:UNRESOLVED ID	Anti-VEGF antibody	Gene_or_gene_product
+PMC113262	67	ncbitax:species:ncbi:9986	rabbit	Species
+PMC113262	67	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	67	ncbitax:species:ncbi:9606	human	Species
+PMC113262	67	uniprot:UNRESOLVED ID	VEGF121	Gene_or_gene_product
+PMC113262	68	uniprot:UNRESOLVED ID	avidin-biotin-peroxidase	Gene_or_gene_product
+PMC113262	68	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	68	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	68	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	69	uniprot:UNRESOLVED ID	endogenous peroxidase	Gene_or_gene_product
+PMC113262	69	uniprot:UNRESOLVED ID	serum	CellType
+PMC113262	69	uniprot:P10721	Kit	Gene_or_gene_product
+PMC113262	69	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	69	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	69	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	70	uniprot:P02701	avidin	Gene_or_gene_product
+PMC113262	70	uniprot:UNRESOLVED ID	horseradish peroxidase	Gene_or_gene_product
+PMC113262	70	uniprot:P10721	Kit	Gene_or_gene_product
+PMC113262	71	uniprot:UNRESOLVED ID	hematoxylin	Gene_or_gene_product
+PMC113262	72	ncbitax:species:ncbi:10090	mouse	Species
+PMC113262	72	ncbitax:species:ncbi:9986	rabbit	Species
+PMC113262	72	uniprot:UNRESOLVED ID	serum	CellType
+PMC113262	76	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	76	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	76	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	79	uniprot:UNRESOLVED ID	X2	Gene_or_gene_product
+PMC113262	82	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	83	uniprot:P33406	CAG	Gene_or_gene_product
+PMC113262	83	uniprot:Q56X52	IM	Gene_or_gene_product
+PMC113262	83	uniprot:Q97BN6	DYS	Gene_or_gene_product
+PMC113262	84	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	84	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	84	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	85	uniprot:P04637	P53	Gene_or_gene_product
+PMC113262	85	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	85	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	86	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	86	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	86	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	86	uniprot:P33406	CAG	Gene_or_gene_product
+PMC113262	86	uniprot:Q97BN6	DYS	Gene_or_gene_product
+PMC113262	86	uniprot:Q56X52	IM	Gene_or_gene_product
+PMC113262	86	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	87	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	87	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	87	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	88	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	88	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	88	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	88	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	89	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	89	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	89	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	90	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	90	uniprot:Q86XP6	Blot	Gene_or_gene_product
+PMC113262	91	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	91	uniprot:Q56X52	IM	Gene_or_gene_product
+PMC113262	91	uniprot:Q97BN6	DYS	Gene_or_gene_product
+PMC113262	91	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	92	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	92	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	93	uniprot:P04637	P53	Gene_or_gene_product
+PMC113262	93	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	94	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	94	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	95	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	95	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	96	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	96	uniprot:UNRESOLVED ID	gastric carcinoma	CellType
+PMC113262	99	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	99	uniprot:UNRESOLVED ID	gastric carcinoma	CellType
+PMC113262	102	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	102	uniprot:UNRESOLVED ID	gastric carcinoma	CellType
+PMC113262	105	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	105	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	105	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	105	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	106	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	106	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	106	uazid:UA-ORG-599	muscle	Organ
+PMC113262	107	uniprot:P04637	P53	Gene_or_gene_product
+PMC113262	107	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	107	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	108	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	108	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	108	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	108	uniprot:UNRESOLVED ID	gastric carcinoma	CellType
+PMC113262	109	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	109	uazid:UA-ORG-539	lymph	Organ
+PMC113262	109	uniprot:P06231	node	Organ
+PMC113262	110	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	110	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	110	uazid:UA-ORG-539	lymph	Organ
+PMC113262	110	uniprot:P06231	node	Organ
+PMC113262	111	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	111	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	111	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	111	uazid:UA-ORG-539	lymph	Organ
+PMC113262	111	uniprot:P06231	node	Organ
+PMC113262	111	uniprot:UNRESOLVED ID	gastric carcinoma	CellType
+PMC113262	112	uniprot:P04637	P53	Gene_or_gene_product
+PMC113262	112	uniprot:UNRESOLVED ID	TNM	Gene_or_gene_product
+PMC113262	113	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	114	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	115	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	115	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	115	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	116	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	116	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	116	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	116	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	117	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	117	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	117	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	119	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	119	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	119	uniprot:UNRESOLVED ID	gastric carcinoma	CellType
+PMC113262	120	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	120	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	120	uniprot:UNRESOLVED ID	gastric carcinoma	CellType
+PMC113262	121	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	121	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	121	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	123	uniprot:P33406	CAG	Gene_or_gene_product
+PMC113262	123	uniprot:Q56X52	IM	Gene_or_gene_product
+PMC113262	123	uniprot:Q97BN6	DYS	Gene_or_gene_product
+PMC113262	123	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	123	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	123	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	123	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	124	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	124	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	124	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	125	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	125	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	125	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	126	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	127	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	128	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	129	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	129	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	129	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	129	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	130	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	130	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	130	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	130	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	131	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	131	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	131	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	132	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	132	uniprot:UNRESOLVED ID	gastric cancer	CellType
+PMC113262	132	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	133	uniprot:UNRESOLVED ID	Rajnkova	Gene_or_gene_product
+PMC113262	134	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	134	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	134	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	134	uniprot:Q56X52	IM	Gene_or_gene_product
+PMC113262	135	uniprot:Q56X52	IM	Gene_or_gene_product
+PMC113262	135	uazid:UA-ORG-351	gastric mucosa	Organ
+PMC113262	135	uazid:UA-ORG-360	glands	Organ
+PMC113262	135	uazid:UA-ORG-886	small intestine	Organ
+PMC113262	135	uazid:UA-ORG-917	stomach	Organ
+PMC113262	136	uniprot:Q56X52	IM	Gene_or_gene_product
+PMC113262	136	uazid:UA-ORG-886	small intestine	Organ
+PMC113262	137	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	137	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	137	uazid:UA-ORG-539	lymph	Organ
+PMC113262	137	uniprot:P06231	node	Organ
+PMC113262	137	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	137	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	138	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	138	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	138	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	138	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	139	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	139	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	139	uniprot:P04637	p53	Gene_or_gene_product
+PMC113262	140	uniprot:P02774	GC	Gene_or_gene_product
+PMC113262	140	uniprot:UNRESOLVED ID	gastric adenocarcinoma	CellType
+PMC113262	140	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC113262	140	uniprot:Q56X52	IM	Gene_or_gene_product
+PMC113262	140	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC113262	140	uniprot:UNRESOLVED ID	vascular endothelial growth factor	Gene_or_gene_product

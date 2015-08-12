@@ -1,0 +1,301 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2172875	0	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	0	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	1	uniprot:P28482	mitogen-activated protein kinase 1	Gene_or_gene_product
+PMC2172875	1	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	2	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	3	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	4	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	4	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	5	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	5	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	13	uniprot:UNRESOLVED ID	mannosidase II	Gene_or_gene_product
+PMC2172875	13	uniprot:Q16706	ManII	Gene_or_gene_product
+PMC2172875	15	uniprot:P28482	mitogen-activated protein kinase 1	Gene_or_gene_product
+PMC2172875	15	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	15	uniprot:P53350	Polo-like kinase 1	Gene_or_gene_product
+PMC2172875	16	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	16	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	17	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	17	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	18	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	18	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	18	uniprot:Q13233	MEK kinase 1	Gene_or_gene_product
+PMC2172875	18	uniprot:Q13233	MEKK1	Gene_or_gene_product
+PMC2172875	19	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	20	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	21	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	21	uniprot:Q13153	Pak1	Gene_or_gene_product
+PMC2172875	22	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	22	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	23	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	24	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	25	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2172875	25	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	26	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	27	uniprot:UNRESOLVED ID	recombinant GST-RAF1/1-239	Gene_or_gene_product
+PMC2172875	27	uniprot:UNRESOLVED ID	Raf-239	Gene_or_gene_product
+PMC2172875	28	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	29	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	29	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	30	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	30	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	31	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	31	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	32	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	32	uniprot:UNRESOLVED ID	anti-phospho-MEK [ppMEK] antibody	Gene_or_gene_product
+PMC2172875	33	uniprot:UNRESOLVED ID	recombinant Raf-239	Gene_or_gene_product
+PMC2172875	33	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	34	uniprot:UNRESOLVED ID	Raf-239	Gene_or_gene_product
+PMC2172875	34	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	34	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	35	uniprot:UNRESOLVED ID	GST-RAF1/1-330	Gene_or_gene_product
+PMC2172875	35	uniprot:UNRESOLVED ID	Raf-330	Gene_or_gene_product
+PMC2172875	35	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	36	uniprot:UNRESOLVED ID	Raf-239	Gene_or_gene_product
+PMC2172875	37	uniprot:UNRESOLVED ID	Raf-239	Gene_or_gene_product
+PMC2172875	37	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	38	uniprot:UNRESOLVED ID	Raf-239	Gene_or_gene_product
+PMC2172875	38	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	38	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	39	uniprot:UNRESOLVED ID	Raf-239	Gene_or_gene_product
+PMC2172875	39	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	41	uniprot:UNRESOLVED ID	Full-length	Gene_or_gene_product
+PMC2172875	41	uniprot:O04064	FL	Gene_or_gene_product
+PMC2172875	41	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	42	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2172875	43	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	43	uniprot:P51525	C-12	Gene_or_gene_product
+PMC2172875	44	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	44	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	45	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	45	uniprot:UNRESOLVED ID	anti-ppMEK antibody	Gene_or_gene_product
+PMC2172875	47	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	47	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	48	uniprot:UNRESOLVED ID	Raf-239	Gene_or_gene_product
+PMC2172875	48	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	50	uniprot:UNRESOLVED ID	Raf-239	Gene_or_gene_product
+PMC2172875	51	uniprot:UNRESOLVED ID	anti-ManII antibody	Gene_or_gene_product
+PMC2172875	52	uniprot:UNRESOLVED ID	Raf-239	Gene_or_gene_product
+PMC2172875	53	uniprot:UNRESOLVED ID	Raf-239	Gene_or_gene_product
+PMC2172875	54	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	56	uniprot:UNRESOLVED ID	Raf-239	Gene_or_gene_product
+PMC2172875	57	uniprot:UNRESOLVED ID	Raf-239	Gene_or_gene_product
+PMC2172875	59	uniprot:UNRESOLVED ID	Raf-239	Gene_or_gene_product
+PMC2172875	60	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	60	uniprot:UNRESOLVED ID	Raf-239	Gene_or_gene_product
+PMC2172875	61	uniprot:UNRESOLVED ID	Raf-239	Gene_or_gene_product
+PMC2172875	61	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	61	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	62	uniprot:UNRESOLVED ID	RAF1-MEK1	Gene_or_gene_product
+PMC2172875	62	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	62	uniprot:P30086	RKIP	Gene_or_gene_product
+PMC2172875	63	uniprot:P30086	RKIP	Gene_or_gene_product
+PMC2172875	63	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	63	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	64	uniprot:P30086	RKIP	Gene_or_gene_product
+PMC2172875	64	uniprot:Q13233	MEKK1	Gene_or_gene_product
+PMC2172875	64	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	65	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	65	uniprot:Q13233	MEKK1	Gene_or_gene_product
+PMC2172875	65	uniprot:UNRESOLVED ID	anti-RAF1 and anti-MEKK1 antibodies	Gene_or_gene_product
+PMC2172875	66	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	66	uniprot:Q13233	MEKK1	Gene_or_gene_product
+PMC2172875	66	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	66	uniprot:P30086	RKIP	Gene_or_gene_product
+PMC2172875	67	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	68	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	68	uniprot:UNRESOLVED ID	anti-ppMEK antibody	Gene_or_gene_product
+PMC2172875	69	uniprot:P30086	RKIP	Gene_or_gene_product
+PMC2172875	69	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	69	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	69	uniprot:Q13233	MEKK1	Gene_or_gene_product
+PMC2172875	71	uniprot:P30086	RKIP	Gene_or_gene_product
+PMC2172875	72	uniprot:P30086	RKIP	Gene_or_gene_product
+PMC2172875	73	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	73	uniprot:P30086	RKIP	Gene_or_gene_product
+PMC2172875	74	uniprot:P30086	RKIP	Gene_or_gene_product
+PMC2172875	74	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	74	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	76	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	76	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	77	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	78	uniprot:UNRESOLVED ID	His-MEK1	Gene_or_gene_product
+PMC2172875	79	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	79	uniprot:UNRESOLVED ID	His-MEK1	Gene_or_gene_product
+PMC2172875	80	uniprot:UNRESOLVED ID	His-MEK1	Gene_or_gene_product
+PMC2172875	82	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	82	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	83	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	84	uniprot:P30086	RKIP	Gene_or_gene_product
+PMC2172875	84	uniprot:Q13233	MEKK1	Gene_or_gene_product
+PMC2172875	84	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	84	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	85	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	85	uniprot:Q13233	MEKK1	Gene_or_gene_product
+PMC2172875	85	uniprot:P51525	C-12	Gene_or_gene_product
+PMC2172875	85	uniprot:UNRESOLVED ID	43-Y antibodies	Gene_or_gene_product
+PMC2172875	86	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	86	uniprot:P30086	RKIP	Gene_or_gene_product
+PMC2172875	87	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	87	uniprot:UNRESOLVED ID	anti-ppMEK antibody	Gene_or_gene_product
+PMC2172875	89	uniprot:P30086	RKIP	Gene_or_gene_product
+PMC2172875	89	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	89	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	91	uniprot:P30086	RKIP	Gene_or_gene_product
+PMC2172875	92	uniprot:UNRESOLVED ID	anti-ManII antibody	Gene_or_gene_product
+PMC2172875	93	uniprot:P30086	RKIP	Gene_or_gene_product
+PMC2172875	94	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	94	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	95	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	97	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	98	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	99	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	101	uniprot:UNRESOLVED ID	Raf-239	Gene_or_gene_product
+PMC2172875	101	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2172875	104	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2172875	105	uniprot:UNRESOLVED ID	Raf-239	Gene_or_gene_product
+PMC2172875	106	uniprot:UNRESOLVED ID	Raf-239	Gene_or_gene_product
+PMC2172875	108	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	110	uniprot:UNRESOLVED ID	Raf-239	Gene_or_gene_product
+PMC2172875	110	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2172875	114	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2172875	116	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	117	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	117	uniprot:UNRESOLVED ID	extracellular signal-regulated kinases	Gene_or_gene_product
+PMC2172875	117	uniprot:UNRESOLVED ID	ERKs	Gene_or_gene_product
+PMC2172875	118	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	119	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	120	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	120	uniprot:UNRESOLVED ID	anti-ppMEK antibody	Gene_or_gene_product
+PMC2172875	121	uniprot:P53618	beta-COP	Gene_or_gene_product
+PMC2172875	121	uniprot:Q14789	Giantin	Gene_or_gene_product
+PMC2172875	122	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	123	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	124	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	125	uniprot:UNRESOLVED ID	ppMEK antibody	Gene_or_gene_product
+PMC2172875	125	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	126	uniprot:UNRESOLVED ID	ppMEK antibody	Gene_or_gene_product
+PMC2172875	126	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	127	uniprot:UNRESOLVED ID	ppMEK antibody	Gene_or_gene_product
+PMC2172875	127	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	128	uniprot:P53618	beta-COP	Gene_or_gene_product
+PMC2172875	128	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	129	uniprot:Q54CD8	HeLa	CellType
+PMC2172875	130	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	133	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	133	uniprot:P53618	beta-COP	Gene_or_gene_product
+PMC2172875	133	uniprot:UNRESOLVED ID	ppMEK	Gene_or_gene_product
+PMC2172875	134	uniprot:UNRESOLVED ID	activated-MEK1	Gene_or_gene_product
+PMC2172875	135	uniprot:UNRESOLVED ID	ppMEK antibody	Gene_or_gene_product
+PMC2172875	135	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
+PMC2172875	135	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	136	uniprot:UNRESOLVED ID	ppMEK antibody	Gene_or_gene_product
+PMC2172875	136	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	137	uniprot:UNRESOLVED ID	ppMEK antibody	Gene_or_gene_product
+PMC2172875	137	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	138	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	139	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	140	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	141	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	142	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	143	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	145	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	146	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	147	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	148	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	148	uniprot:P53618	beta-COP	Gene_or_gene_product
+PMC2172875	148	uniprot:UNRESOLVED ID	ppMEK	Gene_or_gene_product
+PMC2172875	149	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	150	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	151	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	152	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	152	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	153	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2172875	153	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	154	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2172875	155	uniprot:P28482	ERK2	Gene_or_gene_product
+PMC2172875	155	uniprot:Q9H8Y8	GRASP55	Gene_or_gene_product
+PMC2172875	156	uniprot:UNRESOLVED ID	RAF1-MEK1-ERK	Gene_or_gene_product
+PMC2172875	156	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2172875	156	uniprot:Q9H8Y8	GRASP55	Gene_or_gene_product
+PMC2172875	157	uniprot:P53350	Polo-like kinase 1	Gene_or_gene_product
+PMC2172875	157	uniprot:P06493	cdc2	Gene_or_gene_product
+PMC2172875	159	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	159	uniprot:UNRESOLVED ID	C-18	Gene_or_gene_product
+PMC2172875	159	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	159	uniprot:P51525	C-12	Gene_or_gene_product
+PMC2172875	159	uniprot:Q13233	MEKK-1	Gene_or_gene_product
+PMC2172875	160	uniprot:UNRESOLVED ID	ppMEK antibody	Gene_or_gene_product
+PMC2172875	161	uniprot:UNRESOLVED ID	recombinant His-MEK1	Gene_or_gene_product
+PMC2172875	161	uniprot:UNRESOLVED ID	His-G1C	Gene_or_gene_product
+PMC2172875	161	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	162	uniprot:UNRESOLVED ID	Raf-239	Gene_or_gene_product
+PMC2172875	162	uniprot:UNRESOLVED ID	Raf-330	Gene_or_gene_product
+PMC2172875	163	uniprot:P30086	RKIP	Gene_or_gene_product
+PMC2172875	163	uniprot:P10775	RI	Gene_or_gene_product
+PMC2172875	164	uniprot:UNRESOLVED ID	Raf-239	Gene_or_gene_product
+PMC2172875	164	uniprot:P30086	RKIP	Gene_or_gene_product
+PMC2172875	166	uniprot:UNRESOLVED ID	Raf-239	Gene_or_gene_product
+PMC2172875	166	uniprot:P30086	RKIP	Gene_or_gene_product
+PMC2172875	168	uniprot:P04049	RAF	Gene_or_gene_product
+PMC2172875	170	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	171	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	171	uniprot:UNRESOLVED ID	anti-RAF1 antibody	Gene_or_gene_product
+PMC2172875	172	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	172	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	173	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	173	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	174	uniprot:UNRESOLVED ID	anti-ppMEK antibody	Gene_or_gene_product
+PMC2172875	175	uniprot:UNRESOLVED ID	Kodak 1D 3.0 software	Gene_or_gene_product
+PMC2172875	176	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	177	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	177	uniprot:Q13233	MEKK1	Gene_or_gene_product
+PMC2172875	177	uniprot:UNRESOLVED ID	anti-RAF1	Gene_or_gene_product
+PMC2172875	177	uniprot:UNRESOLVED ID	anti-MEKK1 antibodies	Gene_or_gene_product
+PMC2172875	178	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2172875	178	uniprot:Q13233	MEKK1	Gene_or_gene_product
+PMC2172875	178	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	178	uniprot:P30086	RKIP	Gene_or_gene_product
+PMC2172875	179	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	180	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	180	uniprot:UNRESOLVED ID	anti-ppMEK antibody	Gene_or_gene_product
+PMC2172875	181	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2172875	181	uniprot:UNRESOLVED ID	Raf-239	Gene_or_gene_product
+PMC2172875	181	uniprot:UNRESOLVED ID	GRAPS65	Gene_or_gene_product
+PMC2172875	182	uniprot:UNRESOLVED ID	Raf-239	Gene_or_gene_product
+PMC2172875	182	uniprot:P30086	RKIP	Gene_or_gene_product
+PMC2172875	183	uniprot:UNRESOLVED ID	Raf-239	Gene_or_gene_product
+PMC2172875	183	uniprot:P30086	RKIP	Gene_or_gene_product
+PMC2172875	187	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	190	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	190	uniprot:UNRESOLVED ID	ppMEK1 antibody	Gene_or_gene_product
+PMC2172875	190	uniprot:Q96T53	goat	Species
+PMC2172875	193	uniprot:UNRESOLVED ID	Alexa546	Gene_or_gene_product
+PMC2172875	196	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	196	uniprot:P53618	beta-COP	Gene_or_gene_product
+PMC2172875	197	uniprot:UNRESOLVED ID	NIH Image software	Gene_or_gene_product
+PMC2172875	197	uniprot:P53618	beta-COP	Gene_or_gene_product
+PMC2172875	197	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	198	uniprot:UNRESOLVED ID	ppMEK antibody	Gene_or_gene_product
+PMC2172875	198	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	199	uniprot:UNRESOLVED ID	ppMEK antibody	Gene_or_gene_product
+PMC2172875	199	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	200	uniprot:Q9GZY6	Lab	Gene_or_gene_product
+PMC2172875	203	uniprot:Q9GZY6	Lab	Gene_or_gene_product
+PMC2172875	203	ncbitax:species:ncbi:9606	Human	Species
+PMC2172875	204	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2172875	204	uniprot:UNRESOLVED ID	extracellular signal-regulated kinase	Gene_or_gene_product
+PMC2172875	204	uniprot:Q16706	ManII	Gene_or_gene_product
+PMC2172875	204	uniprot:UNRESOLVED ID	mannosidase II	Gene_or_gene_product
+PMC2172875	204	uniprot:Q02750	MEK1	Gene_or_gene_product
+PMC2172875	204	uniprot:P28482	mitogen-activated protein kinase 1	Gene_or_gene_product
+PMC2172875	204	uniprot:Q13233	MEKK1	Gene_or_gene_product
+PMC2172875	204	uniprot:Q13233	MEK kinase 1	Gene_or_gene_product
+PMC2172875	204	uniprot:Q7Z2Y5	NRK	Gene_or_gene_product
+PMC2172875	204	uniprot:Q2G0B1	rat	Species
+PMC2172875	204	uazid:UA-ORG-461	kidney	Organ
+PMC2172875	204	uniprot:UNRESOLVED ID	ppMEK	Gene_or_gene_product
+PMC2172875	204	uniprot:UNRESOLVED ID	phospho-MEK	Gene_or_gene_product
+PMC2172875	204	uniprot:P30086	RKIP	Gene_or_gene_product
+PMC2172875	204	uniprot:P04049	RAF1	Gene_or_gene_product

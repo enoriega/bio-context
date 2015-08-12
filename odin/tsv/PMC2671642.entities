@@ -1,0 +1,343 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2671642	0	ncbitax:species:ncbi:9606	human	Species
+PMC2671642	0	uniprot:UNRESOLVED ID	glioblastoma	CellType
+PMC2671642	1	ncbitax:species:ncbi:9606	Human	Species
+PMC2671642	2	uniprot:Q06889	pilot	Gene_or_gene_product
+PMC2671642	2	ncbitax:species:ncbi:9606	human	Species
+PMC2671642	3	uazid:UA-CT-200001	brain	Organ
+PMC2671642	4	uniprot:P04626	ERBB2	Gene_or_gene_product
+PMC2671642	4	uniprot:P21359	NF1	Gene_or_gene_product
+PMC2671642	4	uniprot:P04637	TP53	Gene_or_gene_product
+PMC2671642	4	uniprot:P19957	PI3	Gene_or_gene_product
+PMC2671642	4	uniprot:P27986	PIK3R1	Gene_or_gene_product
+PMC2671642	5	uniprot:P16455	MGMT	Gene_or_gene_product
+PMC2671642	6	uniprot:UNRESOLVED ID	TCGA	Gene_or_gene_product
+PMC2671642	7	uniprot:P43146	DCC	Gene_or_gene_product
+PMC2671642	8	ncbitax:species:ncbi:9606	patient	Species
+PMC2671642	9	uniprot:UNRESOLVED ID	TCGA Data Primer	Gene_or_gene_product
+PMC2671642	9	uniprot:UNRESOLVED ID	http://tcga-data.nci.nih.gov/docs/TCGA_Data_Primer.pdf	Gene_or_gene_product
+PMC2671642	11	uniprot:UNRESOLVED ID	peripheral blood	CellType
+PMC2671642	12	uniprot:P11274	BCR	Gene_or_gene_product
+PMC2671642	15	uniprot:UNRESOLVED ID	peripheral blood	CellType
+PMC2671642	18	uniprot:UNRESOLVED ID	glioblastoma	CellType
+PMC2671642	18	uniprot:UNRESOLVED ID	TCGA	Gene_or_gene_product
+PMC2671642	20	uniprot:P21359	NF1	Gene_or_gene_product
+PMC2671642	20	uniprot:O60260	PARK2	Gene_or_gene_product
+PMC2671642	20	uniprot:Q9Y243	AKT3	Gene_or_gene_product
+PMC2671642	21	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2671642	21	uniprot:Q9Y4H2	IRS2	Gene_or_gene_product
+PMC2671642	21	uniprot:P23468	PTPRD	Gene_or_gene_product
+PMC2671642	24	uniprot:P04637	TP53	Gene_or_gene_product
+PMC2671642	26	uazid:UA-ORG-81	base pairs	Organ
+PMC2671642	30	uniprot:P52701	MSH6	Gene_or_gene_product
+PMC2671642	30	uniprot:P22897	MMR	Gene_or_gene_product
+PMC2671642	31	uniprot:P40692	MLH1	Gene_or_gene_product
+PMC2671642	31	uniprot:P43246	MSH2	Gene_or_gene_product
+PMC2671642	31	uniprot:P52701	MSH6	Gene_or_gene_product
+PMC2671642	31	uniprot:P54278	PMS2	Gene_or_gene_product
+PMC2671642	32	uniprot:D5IGG6	FDR	Gene_or_gene_product
+PMC2671642	33	uniprot:P04637	TP53	Gene_or_gene_product
+PMC2671642	34	uniprot:P04637	p53	Gene_or_gene_product
+PMC2671642	34	ncbitax:species:ncbi:9606	human	Species
+PMC2671642	35	uniprot:P04637	p53	Gene_or_gene_product
+PMC2671642	36	uniprot:P21359	NF1	Gene_or_gene_product
+PMC2671642	36	ncbitax:species:ncbi:9606	human	Species
+PMC2671642	36	uniprot:UNRESOLVED ID	glioblastoma	CellType
+PMC2671642	37	uniprot:P21359	NF1	Gene_or_gene_product
+PMC2671642	37	ncbitax:species:ncbi:9606	human	Species
+PMC2671642	37	ncbitax:species:ncbi:10090	mouse	Species
+PMC2671642	38	uniprot:P21359	NF1	Gene_or_gene_product
+PMC2671642	40	uniprot:P21359	NF1	Gene_or_gene_product
+PMC2671642	42	ncbitax:species:ncbi:9606	patient	Species
+PMC2671642	42	uniprot:P21359	NF1	Gene_or_gene_product
+PMC2671642	42	ncbitax:species:ncbi:9606	human	Species
+PMC2671642	43	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2671642	44	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2671642	45	uniprot:UNRESOLVED ID	"vIII mutant"	Gene_or_gene_product
+PMC2671642	47	uniprot:P03622	vIII	Gene_or_gene_product
+PMC2671642	48	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2671642	49	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2671642	50	uniprot:P04626	ERBB2	Gene_or_gene_product
+PMC2671642	51	uniprot:P04626	ERBB2	Gene_or_gene_product
+PMC2671642	51	uazid:UA-ORG-537	lung	Organ
+PMC2671642	51	uazid:UA-ORG-172	colon	Organ
+PMC2671642	52	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2671642	53	uazid:UA-ORG-116	breast	Organ
+PMC2671642	53	uniprot:P04626	ERBB2	Gene_or_gene_product
+PMC2671642	54	uniprot:UNRESOLVED ID	PI3K complex	Gene_or_gene_product
+PMC2671642	54	ncbitax:species:ncbi:9606	human	Species
+PMC2671642	54	uniprot:UNRESOLVED ID	glioblastoma	CellType
+PMC2671642	55	uniprot:P19957	PI3	Gene_or_gene_product
+PMC2671642	55	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC2671642	55	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC2671642	55	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC2671642	55	uniprot:P27986	PIK3R1	Gene_or_gene_product
+PMC2671642	56	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC2671642	58	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC2671642	59	uniprot:UNRESOLVED ID	COSMIC database	Gene_or_gene_product
+PMC2671642	59	uniprot:UNRESOLVED ID	http://www.sanger.ac.uk/genetics/CGP/cosmic/	Gene_or_gene_product
+PMC2671642	59	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC2671642	60	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC2671642	60	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC2671642	61	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC2671642	61	uniprot:P27986	PIK3R1	Gene_or_gene_product
+PMC2671642	62	uniprot:P27986	PIK3R1	Gene_or_gene_product
+PMC2671642	62	uniprot:UNRESOLVED ID	glioblastoma	CellType
+PMC2671642	63	uniprot:P27986	PIK3R1	Gene_or_gene_product
+PMC2671642	64	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC2671642	65	uniprot:P55241	SH2	Gene_or_gene_product
+PMC2671642	65	uniprot:UNRESOLVED ID	iSH2	Gene_or_gene_product
+PMC2671642	66	uniprot:P19957	PI3	Gene_or_gene_product
+PMC2671642	66	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC2671642	66	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC2671642	66	N/A	PIK3CA	Gene_or_gene_product
+PMC2671642	66	uazid:UA-ORG-172	colon	Organ
+PMC2671642	66	uazid:UA-ORG-116	breast	Organ
+PMC2671642	66	uniprot:P27986	PIK3R1	Gene_or_gene_product
+PMC2671642	67	uniprot:UNRESOLVED ID	DKRMNS	Gene_or_gene_product
+PMC2671642	67	uniprot:P27986	PIK3R1	Gene_or_gene_product
+PMC2671642	68	uniprot:UNRESOLVED ID	p85alpha nSH2	Gene_or_gene_product
+PMC2671642	68	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC2671642	68	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2671642	69	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2671642	69	uniprot:P27986	PIK3R1	Gene_or_gene_product
+PMC2671642	69	uniprot:UNRESOLVED ID	C2-iSH2	Gene_or_gene_product
+PMC2671642	69	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC2671642	69	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC2671642	70	uniprot:P16455	MGMT	Gene_or_gene_product
+PMC2671642	70	uniprot:P22897	MMR	Gene_or_gene_product
+PMC2671642	71	uazid:UA-CT-200001	brain	Organ
+PMC2671642	72	uniprot:P16455	MGMT	Gene_or_gene_product
+PMC2671642	72	uniprot:UNRESOLVED ID	DNA repair enzyme	Gene_or_gene_product
+PMC2671642	73	uniprot:P16455	MGMT	Gene_or_gene_product
+PMC2671642	74	uniprot:P16455	MGMT	Gene_or_gene_product
+PMC2671642	75	uniprot:P16455	MGMT	Gene_or_gene_product
+PMC2671642	76	uniprot:P16455	MGMT	Gene_or_gene_product
+PMC2671642	77	uniprot:P16455	MGMT	Gene_or_gene_product
+PMC2671642	79	uniprot:P16455	MGMT	Gene_or_gene_product
+PMC2671642	80	uniprot:P22897	MMR	Gene_or_gene_product
+PMC2671642	80	uniprot:P16455	MGMT	Gene_or_gene_product
+PMC2671642	81	uniprot:P22897	MMR	Gene_or_gene_product
+PMC2671642	81	uniprot:P16455	MGMT	Gene_or_gene_product
+PMC2671642	82	uniprot:P22897	MMR	Gene_or_gene_product
+PMC2671642	82	uniprot:P16455	MGMT	Gene_or_gene_product
+PMC2671642	84	uniprot:UNRESOLVED ID	RTKs	Gene_or_gene_product
+PMC2671642	84	uniprot:P04637	p53	Gene_or_gene_product
+PMC2671642	84	uniprot:P06400	RB	Gene_or_gene_product
+PMC2671642	85	uniprot:P06400	RB	Gene_or_gene_product
+PMC2671642	85	uniprot:P04637	TP53	Gene_or_gene_product
+PMC2671642	85	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2671642	87	uniprot:P04637	p53	Gene_or_gene_product
+PMC2671642	87	uniprot:P06400	RB	Gene_or_gene_product
+PMC2671642	87	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2671642	89	uniprot:UNRESOLVED ID	glioblastoma	CellType
+PMC2671642	90	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC2671642	90	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2671642	90	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2671642	91	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2671642	91	uniprot:P00533	ERBB	Gene_or_gene_product
+PMC2671642	91	uniprot:P16234	PDGFRA	Gene_or_gene_product
+PMC2671642	91	uniprot:P08581	MET	Gene_or_gene_product
+PMC2671642	92	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2671642	92	uniprot:P04626	ERBB2	Gene_or_gene_product
+PMC2671642	92	uniprot:P16234	PDGFRA	Gene_or_gene_product
+PMC2671642	92	uniprot:P08581	MET	Gene_or_gene_product
+PMC2671642	93	uniprot:P04637	p53	Gene_or_gene_product
+PMC2671642	93	uniprot:Q00987	MDM2	Gene_or_gene_product
+PMC2671642	93	uniprot:O15151	MDM4	Gene_or_gene_product
+PMC2671642	94	uniprot:P04637	TP53	Gene_or_gene_product
+PMC2671642	94	uniprot:Q00987	MDM2	Gene_or_gene_product
+PMC2671642	94	uniprot:O15151	MDM4	Gene_or_gene_product
+PMC2671642	95	uniprot:P04637	TP53	Gene_or_gene_product
+PMC2671642	95	uniprot:P42771	CDKN2A	Gene_or_gene_product
+PMC2671642	95	uniprot:P42771	p16INK4A	Gene_or_gene_product
+PMC2671642	96	uniprot:P06400	RB	Gene_or_gene_product
+PMC2671642	96	uniprot:P42771	CDKN2A	Gene_or_gene_product
+PMC2671642	96	uniprot:P42772	CDKN2B	Gene_or_gene_product
+PMC2671642	96	uniprot:P11802	CDK4	Gene_or_gene_product
+PMC2671642	97	uniprot:O05982	CDK	Gene_or_gene_product
+PMC2671642	97	uniprot:P06400	RB	Gene_or_gene_product
+PMC2671642	97	uniprot:P06400	RB1	Gene_or_gene_product
+PMC2671642	97	uniprot:P42771	CDKN2A	Gene_or_gene_product
+PMC2671642	97	uniprot:P12004	cyclin	Gene_or_gene_product
+PMC2671642	99	uniprot:Q06889	pilot	Gene_or_gene_product
+PMC2671642	99	uniprot:UNRESOLVED ID	TCGA	Gene_or_gene_product
+PMC2671642	103	uniprot:P06400	RB	Gene_or_gene_product
+PMC2671642	103	uniprot:P04637	p53	Gene_or_gene_product
+PMC2671642	103	uniprot:UNRESOLVED ID	RTK/RAS/PI3K	Gene_or_gene_product
+PMC2671642	104	uniprot:P42771	CDKN2A	Gene_or_gene_product
+PMC2671642	104	uniprot:P42773	CDKN2C	Gene_or_gene_product
+PMC2671642	104	uniprot:P11802	CDK4	Gene_or_gene_product
+PMC2671642	104	uniprot:Q00534	CDK6	Gene_or_gene_product
+PMC2671642	104	uniprot:O05982	CDK	Gene_or_gene_product
+PMC2671642	104	uniprot:P06400	RB1	Gene_or_gene_product
+PMC2671642	105	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC2671642	105	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC2671642	105	uniprot:UNRESOLVED ID	PIK3R	Gene_or_gene_product
+PMC2671642	105	uniprot:P19957	PI3	Gene_or_gene_product
+PMC2671642	105	uniprot:O15530	PDK1	Gene_or_gene_product
+PMC2671642	105	uniprot:Q9Y243	AKT3	Gene_or_gene_product
+PMC2671642	106	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2671642	107	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2671642	108	uniprot:P21359	NF1	Gene_or_gene_product
+PMC2671642	108	uniprot:P04049	RAF	Gene_or_gene_product
+PMC2671642	108	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
+PMC2671642	108	uniprot:P15056	BRAF	Gene_or_gene_product
+PMC2671642	109	uniprot:UNRESOLVED ID	GBM	Gene_or_gene_product
+PMC2671642	109	uniprot:P16455	MGMT	Gene_or_gene_product
+PMC2671642	111	uniprot:P16455	MGMT	Gene_or_gene_product
+PMC2671642	112	uniprot:P16455	MGMT	Gene_or_gene_product
+PMC2671642	114	uniprot:P16455	MGMT	Gene_or_gene_product
+PMC2671642	115	uniprot:P22897	MMR	Gene_or_gene_product
+PMC2671642	116	uniprot:P22897	MMR	Gene_or_gene_product
+PMC2671642	117	uniprot:Q9P2X3	impact	Gene_or_gene_product
+PMC2671642	119	uniprot:UNRESOLVED ID	TCGA	Gene_or_gene_product
+PMC2671642	130	uniprot:P43146	DCC	Gene_or_gene_product
+PMC2671642	131	uniprot:P43146	DCC	Gene_or_gene_product
+PMC2671642	132	uniprot:Q15025	Van	Gene_or_gene_product
+PMC2671642	132	uniprot:UNRESOLVED ID	Michael Prados	Gene_or_gene_product
+PMC2671642	133	uniprot:P00797	Ren	Gene_or_gene_product
+PMC2671642	133	uniprot:UNRESOLVED ID	Shalini Jhangiani	Gene_or_gene_product
+PMC2671642	133	uniprot:UNRESOLVED ID	Vandita Joshi	Gene_or_gene_product
+PMC2671642	133	uniprot:P60174	Tim	Gene_or_gene_product
+PMC2671642	133	uniprot:UNRESOLVED ID	Liuda Ziaugra	Gene_or_gene_product
+PMC2671642	133	uniprot:UNRESOLVED ID	Rob Nicol	Gene_or_gene_product
+PMC2671642	133	uniprot:UNRESOLVED ID	Kristin Ardlie	Gene_or_gene_product
+PMC2671642	133	uniprot:P26205	Li	Species
+PMC2671642	133	uniprot:Q99496	Ding	Gene_or_gene_product
+PMC2671642	133	uniprot:O43353	Rick	Gene_or_gene_product
+PMC2671642	133	ncbitax:species:ncbi:163112	Ling	Species
+PMC2671642	133	ncbitax:species:ncbi:8895	Swift	Species
+PMC2671642	133	uniprot:UNRESOLVED ID	Craig Pohl	Gene_or_gene_product
+PMC2671642	133	uniprot:Q9BXS0	Amy	Gene_or_gene_product
+PMC2671642	133	uazid:UA-ORG-869	Shin	Organ
+PMC2671642	133	uniprot:UNRESOLVED ID	Sacha Scott	Gene_or_gene_product
+PMC2671642	134	uniprot:Q99259	Gad	Gene_or_gene_product
+PMC2671642	134	uniprot:UNRESOLVED ID	Supriya Gupta	Gene_or_gene_product
+PMC2671642	134	uniprot:UNRESOLVED ID	Craig Mermel	Gene_or_gene_product
+PMC2671642	134	uniprot:UNRESOLVED ID	Jill Mesirov	Gene_or_gene_product
+PMC2671642	134	uniprot:UNRESOLVED ID	Stefano Monti	Gene_or_gene_product
+PMC2671642	134	uniprot:O60260	Parkin	Gene_or_gene_product
+PMC2671642	134	uniprot:UNRESOLVED ID	Alexei Protopopov	Gene_or_gene_product
+PMC2671642	134	uniprot:P00797	Ren	Gene_or_gene_product
+PMC2671642	134	uniprot:P05412	Jun	Gene_or_gene_product
+PMC2671642	134	uniprot:P54764	Sek	Gene_or_gene_product
+PMC2671642	134	uniprot:UNRESOLVED ID	Raju Kucherlapati	Gene_or_gene_product
+PMC2671642	134	uniprot:Q15025	Van	Gene_or_gene_product
+PMC2671642	134	uniprot:UNRESOLVED ID	Stephen B. Baylin	Gene_or_gene_product
+PMC2671642	134	uniprot:P26205	Li	Species
+PMC2671642	134	uniprot:UNRESOLVED ID	Gavin Sherlock	Gene_or_gene_product
+PMC2671642	134	uniprot:UNRESOLVED ID	Anna V. Lapuk	Gene_or_gene_product
+PMC2671642	134	uniprot:UNRESOLVED ID	Ju Han	Gene_or_gene_product
+PMC2671642	134	uniprot:Q15286	Ray	Species
+PMC2671642	134	uniprot:UNRESOLVED ID	Steffen Durinck	Gene_or_gene_product
+PMC2671642	134	uniprot:Q9P0L2	Mark	Gene_or_gene_product
+PMC2671642	134	uniprot:UNRESOLVED ID	John Ngai	Gene_or_gene_product
+PMC2671642	134	uniprot:Q8NI51	Boris	Gene_or_gene_product
+PMC2671642	134	uniprot:UNRESOLVED ID	Marc Ladanyi	Gene_or_gene_product
+PMC2671642	134	uniprot:UNRESOLVED ID	Sai Balu	Gene_or_gene_product
+PMC2671642	136	uniprot:Q9NS68	Troy	Gene_or_gene_product
+PMC2671642	137	uniprot:Q9Y4X5	Ari	Gene_or_gene_product
+PMC2671642	137	uniprot:UNRESOLVED ID	Erin Hickey	Gene_or_gene_product
+PMC2671642	137	uniprot:UNRESOLVED ID	Subha Madhavan	Gene_or_gene_product
+PMC2671642	138	uniprot:UNRESOLVED ID	Martin Ferguson	Gene_or_gene_product
+PMC2671642	138	ncbitax:species:ncbi:235354	Compton	Species
+PMC2671642	138	ncbitax:species:ncbi:9606	Human	Species
+PMC2671642	138	uniprot:Q9P0L2	Mark	Gene_or_gene_product
+PMC2671642	141	uniprot:UNRESOLVED ID	Fairfax	Gene_or_gene_product
+PMC2671642	141	uniprot:UNRESOLVED ID	VA 22033, USA	Gene_or_gene_product
+PMC2671642	142	ncbitax:species:ncbi:9606	Human	Species
+PMC2671642	143	uniprot:UNRESOLVED ID	Phoenix	Gene_or_gene_product
+PMC2671642	143	uniprot:UNRESOLVED ID	AZ 85004 USA	Gene_or_gene_product
+PMC2671642	147	ncbitax:species:ncbi:9606	Children	Species
+PMC2671642	148	uniprot:UNRESOLVED ID	NY 10065 USA	Gene_or_gene_product
+PMC2671642	149	uniprot:UNRESOLVED ID	NY 10065 USA	Gene_or_gene_product
+PMC2671642	150	ncbitax:species:ncbi:9606	Human	Species
+PMC2671642	151	ncbitax:species:ncbi:9606	Human	Species
+PMC2671642	152	ncbitax:species:ncbi:9606	Human	Species
+PMC2671642	153	ncbitax:species:ncbi:9606	Human	Species
+PMC2671642	154	uniprot:P15882	NC	Gene_or_gene_product
+PMC2671642	155	uniprot:P15882	NC	Gene_or_gene_product
+PMC2671642	156	uniprot:P15882	NC	Gene_or_gene_product
+PMC2671642	157	uniprot:P15882	NC	Gene_or_gene_product
+PMC2671642	173	uniprot:UNRESOLVED ID	NY 10065 USA	Gene_or_gene_product
+PMC2671642	174	uniprot:UNRESOLVED ID	NY 10065 USA	Gene_or_gene_product
+PMC2671642	175	uniprot:UNRESOLVED ID	Phoenix	Gene_or_gene_product
+PMC2671642	175	uniprot:UNRESOLVED ID	AZ 85004 USA	Gene_or_gene_product
+PMC2671642	177	uniprot:UNRESOLVED ID	TX 77030 USA	Gene_or_gene_product
+PMC2671642	178	ncbitax:species:ncbi:9606	Human	Species
+PMC2671642	179	ncbitax:species:ncbi:9606	Children	Species
+PMC2671642	181	uniprot:Q08209	CNA	Gene_or_gene_product
+PMC2671642	182	uniprot:P21359	NF1	Gene_or_gene_product
+PMC2671642	182	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2671642	183	uniprot:P21359	NF1	Gene_or_gene_product
+PMC2671642	183	uniprot:UNRESOLVED ID	glioblastoma	CellType
+PMC2671642	185	uniprot:P21359	NF1	Gene_or_gene_product
+PMC2671642	185	ncbitax:species:ncbi:9606	Human	Species
+PMC2671642	188	uniprot:P21359	NF1	Gene_or_gene_product
+PMC2671642	188	uazid:UA-ORG-75	axis	Organ
+PMC2671642	191	uniprot:P21359	NF1	Gene_or_gene_product
+PMC2671642	193	uniprot:UNRESOLVED ID	TCGA samples TCGA-08-0356	Gene_or_gene_product
+PMC2671642	193	uniprot:UNRESOLVED ID	TCGA-02-0064	Gene_or_gene_product
+PMC2671642	193	uniprot:UNRESOLVED ID	TCGA-02-0529	Gene_or_gene_product
+PMC2671642	193	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2671642	195	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2671642	196	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2671642	199	uniprot:P04626	ERBB2	Gene_or_gene_product
+PMC2671642	199	uniprot:UNRESOLVED ID	glioblastoma	CellType
+PMC2671642	202	uniprot:P27986	PIK3R1	Gene_or_gene_product
+PMC2671642	202	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC2671642	205	uniprot:UNRESOLVED ID	RDB	Gene_or_gene_product
+PMC2671642	207	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC2671642	207	uniprot:O43439	p85	Gene_or_gene_product
+PMC2671642	208	uniprot:O43439	p85	Gene_or_gene_product
+PMC2671642	209	uniprot:P16455	MGMT	Gene_or_gene_product
+PMC2671642	209	uniprot:P22897	MMR	Gene_or_gene_product
+PMC2671642	212	ncbitax:species:ncbi:9606	patient	Species
+PMC2671642	212	uniprot:P16455	MGMT	Gene_or_gene_product
+PMC2671642	212	uniprot:P22897	MMR	Gene_or_gene_product
+PMC2671642	212	uniprot:P40692	MLH1	Gene_or_gene_product
+PMC2671642	212	uniprot:P43246	MSH2	Gene_or_gene_product
+PMC2671642	212	uniprot:P52701	MSH6	Gene_or_gene_product
+PMC2671642	212	uniprot:P54278	PMS2	Gene_or_gene_product
+PMC2671642	215	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2671642	215	uniprot:P22897	MMR	Gene_or_gene_product
+PMC2671642	215	uniprot:P16455	MGMT	Gene_or_gene_product
+PMC2671642	217	uniprot:UNRESOLVED ID	RTK/RAS/PI-3K	Gene_or_gene_product
+PMC2671642	217	uniprot:P04637	p53	Gene_or_gene_product
+PMC2671642	217	uniprot:P06400	RB	Gene_or_gene_product
+PMC2671642	218	uniprot:Q13123	Red	Gene_or_gene_product
+PMC2671642	222	uniprot:UNRESOLVED ID	Glioblastoma	CellType
+PMC2671642	222	uniprot:UNRESOLVED ID	TCGA	Gene_or_gene_product
+PMC2671642	223	uniprot:UNRESOLVED ID	U54HG003079	Gene_or_gene_product
+PMC2671642	223	uniprot:UNRESOLVED ID	U54HG003273	Gene_or_gene_product
+PMC2671642	223	uniprot:UNRESOLVED ID	U24CA126543	Gene_or_gene_product
+PMC2671642	223	uniprot:UNRESOLVED ID	U24CA126544	Gene_or_gene_product
+PMC2671642	223	uniprot:UNRESOLVED ID	U24CA126546	Gene_or_gene_product
+PMC2671642	223	uniprot:UNRESOLVED ID	U24CA126551	Gene_or_gene_product
+PMC2671642	223	uniprot:UNRESOLVED ID	U24CA126554	Gene_or_gene_product
+PMC2671642	223	uniprot:UNRESOLVED ID	U24CA126561	Gene_or_gene_product
+PMC2671642	223	uniprot:UNRESOLVED ID	U24CA126563	Gene_or_gene_product
+PMC2671642	228	uniprot:UNRESOLVED ID	NCI	Gene_or_gene_product
+PMC2671642	228	uniprot:UNRESOLVED ID	NHGRI	Gene_or_gene_product
+PMC2671642	232	uniprot:Q9Y4X5	Ari	Gene_or_gene_product
+PMC2671642	233	uniprot:UNRESOLVED ID	Martin Ferguson	Gene_or_gene_product
+PMC2671642	234	uniprot:Q99259	Gad	Gene_or_gene_product
+PMC2671642	234	uniprot:UNRESOLVED ID	Marc Ladanyi	Gene_or_gene_product
+PMC2671642	237	uniprot:Q99259	Gad	Gene_or_gene_product
+PMC2671642	237	uniprot:P26205	Li	Species
+PMC2671642	237	uniprot:Q99496	Ding	Gene_or_gene_product
+PMC2671642	237	uniprot:O43353	Rick	Gene_or_gene_product
+PMC2671642	237	uniprot:P04637	TP53	Gene_or_gene_product
+PMC2671642	237	uniprot:P21359	NF1	Gene_or_gene_product
+PMC2671642	237	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2671642	237	uniprot:UNRESOLVED ID	Elizabeth Purdom	Gene_or_gene_product
+PMC2671642	237	uniprot:P04626	ERBB2	Gene_or_gene_product
+PMC2671642	237	uniprot:P27986	PIK3R1	Gene_or_gene_product
+PMC2671642	237	uniprot:UNRESOLVED ID	Stephen B. Baylin	Gene_or_gene_product
+PMC2671642	237	uniprot:P05412	Jun	Gene_or_gene_product
+PMC2671642	237	uniprot:UNRESOLVED ID	John Weinstein	Gene_or_gene_product
+PMC2671642	238	uniprot:UNRESOLVED ID	Stephen B. Baylin	Gene_or_gene_product
+PMC2671642	238	uniprot:UNRESOLVED ID	Raju Kucherlapati	Gene_or_gene_product
+PMC2671642	238	uniprot:UNRESOLVED ID	Marc Ladanyi	Gene_or_gene_product
+PMC2671642	238	uniprot:UNRESOLVED ID	John Weinstein	Gene_or_gene_product

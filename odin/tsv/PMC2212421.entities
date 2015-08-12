@@ -1,0 +1,330 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2212421	0	ncbitax:species:ncbi:9606	Human	Species
+PMC2212421	0	uazid:UA-CT-16	Macrophages	CellType
+PMC2212421	2	uazid:UA-CT-16	macrophages	CellType
+PMC2212421	2	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	3	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	4	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	5	uniprot:UNRESOLVED ID	C3bi	Gene_or_gene_product
+PMC2212421	6	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	6	uazid:UA-CT-16	macrophage	CellType
+PMC2212421	6	uniprot:UNRESOLVED ID	C3bi	Gene_or_gene_product
+PMC2212421	6	uniprot:P94854	CR3	Gene_or_gene_product
+PMC2212421	6	uniprot:P11215	CD11b	Gene_or_gene_product
+PMC2212421	6	uniprot:P05107	CD18	Gene_or_gene_product
+PMC2212421	6	uniprot:O24585	CR4	Gene_or_gene_product
+PMC2212421	6	uniprot:P20702	CD11c	Gene_or_gene_product
+PMC2212421	9	uniprot:UNRESOLVED ID	thymocyte	CellType
+PMC2212421	9	uniprot:P08758	annexin V	Gene_or_gene_product
+PMC2212421	9	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	10	ncbitax:species:ncbi:9606	human	Species
+PMC2212421	10	uazid:UA-ORG-624	neutrophils	Organ
+PMC2212421	10	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	10	uniprot:P08758	annexin V	Gene_or_gene_product
+PMC2212421	11	uazid:UA-CT-100001	B cell	CellType
+PMC2212421	11	ncbitax:species:ncbi:9606	human	Species
+PMC2212421	11	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	11	uazid:UA-ORG-624	neutrophils	Organ
+PMC2212421	12	ncbitax:species:ncbi:9606	human	Species
+PMC2212421	12	uazid:UA-CT-16	macrophages	CellType
+PMC2212421	12	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	13	ncbitax:species:ncbi:9606	Human	Species
+PMC2212421	13	uazid:UA-CT-16	macrophages	CellType
+PMC2212421	13	uniprot:UNRESOLVED ID	peripheral blood	CellType
+PMC2212421	13	uazid:UA-CT-24	monocytes	CellType
+PMC2212421	14	uazid:UA-CT-16	macrophages	CellType
+PMC2212421	15	uazid:UA-CT-16	macrophages	CellType
+PMC2212421	17	uniprot:O43557	light	Gene_or_gene_product
+PMC2212421	18	uazid:UA-CT-16	macrophages	CellType
+PMC2212421	19	uniprot:P01009	PI	Gene_or_gene_product
+PMC2212421	19	uazid:UA-CT-16	macrophages	CellType
+PMC2212421	20	uazid:UA-CT-16	Macrophages	CellType
+PMC2212421	20	uazid:UA-ORG-624	neutrophils	Organ
+PMC2212421	22	uniprot:Q03385	RGDS	Gene_or_gene_product
+PMC2212421	22	uniprot:UNRESOLVED ID	RGES	Gene_or_gene_product
+PMC2212421	23	uniprot:UNRESOLVED ID	anti-CR3	Gene_or_gene_product
+PMC2212421	23	uniprot:UNRESOLVED ID	MN-41	Gene_or_gene_product
+PMC2212421	23	uniprot:Q8NBH2	KY	Gene_or_gene_product
+PMC2212421	23	uniprot:UNRESOLVED ID	anti-CD36	Gene_or_gene_product
+PMC2212421	23	uniprot:UNRESOLVED ID	FA6	Gene_or_gene_product
+PMC2212421	23	uniprot:UNRESOLVED ID	R.L. Silverstein	Gene_or_gene_product
+PMC2212421	23	uniprot:UNRESOLVED ID	IgM	Gene_or_gene_product
+PMC2212421	23	uniprot:UNRESOLVED ID	61D3	Gene_or_gene_product
+PMC2212421	24	uniprot:UNRESOLVED ID	FITC	Gene_or_gene_product
+PMC2212421	24	uniprot:P08758	annexin V	Gene_or_gene_product
+PMC2212421	24	uniprot:UNRESOLVED ID	Nexins	Gene_or_gene_product
+PMC2212421	24	uniprot:P48147	PE	Gene_or_gene_product
+PMC2212421	24	ncbitax:species:ncbi:10090	mouse	Species
+PMC2212421	26	ncbitax:species:ncbi:10090	Mouse	Species
+PMC2212421	27	uniprot:UNRESOLVED ID	Serum	CellType
+PMC2212421	27	ncbitax:species:ncbi:9606	Human	Species
+PMC2212421	27	uazid:UA-CT-16	Macrophages	CellType
+PMC2212421	28	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	28	uniprot:P01009	PI	Gene_or_gene_product
+PMC2212421	28	uazid:UA-CT-16	macrophages	CellType
+PMC2212421	28	uniprot:Q6T4R5	NHS	Gene_or_gene_product
+PMC2212421	28	ncbitax:species:ncbi:9606	human	Species
+PMC2212421	30	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2212421	31	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	31	uniprot:P01009	PI	Gene_or_gene_product
+PMC2212421	32	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	32	uazid:UA-CT-16	macrophages	CellType
+PMC2212421	32	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2212421	33	uazid:UA-CT-16	macrophage	CellType
+PMC2212421	33	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	35	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	35	uazid:UA-CT-16	macrophages	CellType
+PMC2212421	35	uazid:UA-ORG-624	neutrophils	Organ
+PMC2212421	36	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	36	uniprot:P01009	PI	Gene_or_gene_product
+PMC2212421	36	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2212421	37	uniprot:P15370	E-G	Gene_or_gene_product
+PMC2212421	38	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	38	uazid:UA-CT-22	lymphocytes	CellType
+PMC2212421	38	uniprot:P54829	step	Gene_or_gene_product
+PMC2212421	39	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	39	uniprot:P01009	PI	Gene_or_gene_product
+PMC2212421	39	uazid:UA-CT-22	lymphocytes	CellType
+PMC2212421	40	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	41	ncbitax:species:ncbi:9606	Human	Species
+PMC2212421	41	uazid:UA-CT-16	Macrophages	CellType
+PMC2212421	42	uniprot:P01009	PI	Gene_or_gene_product
+PMC2212421	42	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	43	uniprot:P01009	PI	Gene_or_gene_product
+PMC2212421	43	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	44	uniprot:UNRESOLVED ID	purified complement components C1q	Gene_or_gene_product
+PMC2212421	45	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2212421	46	uniprot:UNRESOLVED ID	C1q-	Gene_or_gene_product
+PMC2212421	46	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	46	uniprot:P01009	PI	Gene_or_gene_product
+PMC2212421	47	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	47	uniprot:P01009	PI	Gene_or_gene_product
+PMC2212421	48	uazid:UA-CT-100002	B cells	CellType
+PMC2212421	49	uniprot:UNRESOLVED ID	C3bi	Gene_or_gene_product
+PMC2212421	49	uazid:UA-ORG-624	neutrophils	Organ
+PMC2212421	49	uazid:UA-CT-22	lymphocytes	CellType
+PMC2212421	50	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2212421	51	uazid:UA-CT-22	lymphocytes	CellType
+PMC2212421	51	uazid:UA-ORG-624	neutrophils	Organ
+PMC2212421	51	uniprot:UNRESOLVED ID	top right	Gene_or_gene_product
+PMC2212421	51	uniprot:UNRESOLVED ID	C3bi	Gene_or_gene_product
+PMC2212421	52	uazid:UA-ORG-624	neutrophils	Organ
+PMC2212421	52	uniprot:P08758	annexin V	Gene_or_gene_product
+PMC2212421	52	uniprot:P01009	PI	Gene_or_gene_product
+PMC2212421	52	uniprot:UNRESOLVED ID	C3bi	Gene_or_gene_product
+PMC2212421	54	uniprot:Q5NL15	PS	Gene_or_gene_product
+PMC2212421	55	uniprot:Q5NL15	PS	Gene_or_gene_product
+PMC2212421	55	uniprot:P08758	annexin V	Gene_or_gene_product
+PMC2212421	55	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	55	uniprot:UNRESOLVED ID	C3bi	Gene_or_gene_product
+PMC2212421	56	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2212421	57	uniprot:P08758	annexin V	Gene_or_gene_product
+PMC2212421	57	uniprot:UNRESOLVED ID	C3bi	Gene_or_gene_product
+PMC2212421	58	uniprot:Q5NL15	PS	Gene_or_gene_product
+PMC2212421	59	ncbitax:species:ncbi:9606	Human	Species
+PMC2212421	59	uazid:UA-CT-24	monocytes	CellType
+PMC2212421	59	uazid:UA-CT-16	macrophages	CellType
+PMC2212421	59	uniprot:P17927	CR1	Gene_or_gene_product
+PMC2212421	59	uniprot:P94854	CR3	Gene_or_gene_product
+PMC2212421	59	uniprot:O24585	CR4	Gene_or_gene_product
+PMC2212421	60	uniprot:P17927	CR1	Gene_or_gene_product
+PMC2212421	60	uniprot:UNRESOLVED ID	CD35	Gene_or_gene_product
+PMC2212421	60	uniprot:UNRESOLVED ID	C3b	Gene_or_gene_product
+PMC2212421	60	uniprot:P0C0L5	C4b	Gene_or_gene_product
+PMC2212421	60	uniprot:P94854	CR3	Gene_or_gene_product
+PMC2212421	60	uniprot:P11215	CD11b	Gene_or_gene_product
+PMC2212421	60	uniprot:P05107	CD18	Gene_or_gene_product
+PMC2212421	60	uniprot:O24585	CR4	Gene_or_gene_product
+PMC2212421	60	uniprot:P20702	CD11c	Gene_or_gene_product
+PMC2212421	60	uniprot:UNRESOLVED ID	C3bi	Gene_or_gene_product
+PMC2212421	61	uniprot:UNRESOLVED ID	C3bi	Gene_or_gene_product
+PMC2212421	61	uniprot:UNRESOLVED ID	complement receptors	Gene_or_gene_product
+PMC2212421	62	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2212421	63	uniprot:P94854	CR3	Gene_or_gene_product
+PMC2212421	63	uniprot:O24585	CR4	Gene_or_gene_product
+PMC2212421	63	uniprot:P17927	CR1	Gene_or_gene_product
+PMC2212421	63	uazid:UA-ORG-624	neutrophils	Organ
+PMC2212421	64	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	65	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2212421	66	ncbitax:species:ncbi:9606	human	Species
+PMC2212421	66	uazid:UA-CT-24	monocyte	CellType
+PMC2212421	66	uazid:UA-CT-16	macrophages	CellType
+PMC2212421	67	uniprot:Q03385	RGDS	Gene_or_gene_product
+PMC2212421	67	uniprot:UNRESOLVED ID	CD11	Gene_or_gene_product
+PMC2212421	67	uniprot:P05107	CD18	Gene_or_gene_product
+PMC2212421	67	uniprot:UNRESOLVED ID	RGDS-RGES	Gene_or_gene_product
+PMC2212421	68	uniprot:P94854	CR3	Gene_or_gene_product
+PMC2212421	68	ncbitax:species:ncbi:10029	Chinese hamster	Species
+PMC2212421	68	uazid:UA-ORG-656	ovary	Organ
+PMC2212421	68	uniprot:F1Q4R9	CHO	CellType
+PMC2212421	69	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2212421	70	uniprot:P01009	PI	Gene_or_gene_product
+PMC2212421	70	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	70	uniprot:P94854	CR3	Gene_or_gene_product
+PMC2212421	70	ncbitax:species:ncbi:9606	human	Species
+PMC2212421	70	uazid:UA-CT-16	macrophages	CellType
+PMC2212421	71	uniprot:UNRESOLVED ID	C3bi	Gene_or_gene_product
+PMC2212421	71	uazid:UA-CT-16	macrophage	CellType
+PMC2212421	71	uniprot:O24585	CR4	Gene_or_gene_product
+PMC2212421	71	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	72	uazid:UA-CT-16	macrophages	CellType
+PMC2212421	73	uazid:UA-CT-22	lymphocytes	CellType
+PMC2212421	73	uazid:UA-ORG-537	lung	Organ
+PMC2212421	75	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	76	uazid:UA-CT-16	macrophage	CellType
+PMC2212421	76	uniprot:O59825	THP-1	Gene_or_gene_product
+PMC2212421	78	uniprot:Q5NL15	PS	Gene_or_gene_product
+PMC2212421	80	uniprot:P08758	Annexin V	Gene_or_gene_product
+PMC2212421	81	uniprot:P08758	annexin V	Gene_or_gene_product
+PMC2212421	82	uniprot:P08758	annexin V	Gene_or_gene_product
+PMC2212421	83	uniprot:UNRESOLVED ID	C3bi	Gene_or_gene_product
+PMC2212421	83	uniprot:P08758	annexin V	Gene_or_gene_product
+PMC2212421	85	uazid:UA-ORG-520	liver	Organ
+PMC2212421	86	uazid:UA-CT-16	macrophages	CellType
+PMC2212421	87	uniprot:UNRESOLVED ID	complement regulatory molecules	Gene_or_gene_product
+PMC2212421	87	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	88	uniprot:UNRESOLVED ID	C3b	Gene_or_gene_product
+PMC2212421	89	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	89	uniprot:UNRESOLVED ID	Factor I	Gene_or_gene_product
+PMC2212421	89	uniprot:UNRESOLVED ID	C3b	Gene_or_gene_product
+PMC2212421	89	uniprot:UNRESOLVED ID	C3bi	Gene_or_gene_product
+PMC2212421	90	uniprot:UNRESOLVED ID	C3b	Gene_or_gene_product
+PMC2212421	90	uniprot:UNRESOLVED ID	C3bi	Gene_or_gene_product
+PMC2212421	91	uazid:UA-CT-16	macrophage	CellType
+PMC2212421	91	uniprot:UNRESOLVED ID	C3bi	Gene_or_gene_product
+PMC2212421	91	uniprot:P94854	CR3	Gene_or_gene_product
+PMC2212421	91	uniprot:O24585	CR4	Gene_or_gene_product
+PMC2212421	91	uazid:UA-CT-16	macrophages	CellType
+PMC2212421	91	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	92	ncbitax:species:ncbi:9606	human	Species
+PMC2212421	92	uniprot:UNRESOLVED ID	peripheral blood	CellType
+PMC2212421	92	uazid:UA-CT-16	macrophages	CellType
+PMC2212421	92	uniprot:P94854	CR3	Gene_or_gene_product
+PMC2212421	92	uniprot:O24585	CR4	Gene_or_gene_product
+PMC2212421	92	uniprot:P01009	PI	Gene_or_gene_product
+PMC2212421	93	uniprot:UNRESOLVED ID	complement receptors CR3	Gene_or_gene_product
+PMC2212421	93	uniprot:O24585	CR4	Gene_or_gene_product
+PMC2212421	93	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	94	uniprot:UNRESOLVED ID	integrins	Gene_or_gene_product
+PMC2212421	94	uniprot:UNRESOLVED ID	complement receptor	Gene_or_gene_product
+PMC2212421	95	uniprot:UNRESOLVED ID	complement receptors	Gene_or_gene_product
+PMC2212421	95	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	95	uazid:UA-ORG-624	neutrophils	Organ
+PMC2212421	96	uniprot:UNRESOLVED ID	C3bi	Gene_or_gene_product
+PMC2212421	96	uazid:UA-ORG-624	neutrophil	Organ
+PMC2212421	96	uniprot:P54829	step	Gene_or_gene_product
+PMC2212421	96	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	97	uazid:UA-CT-16	macrophages	CellType
+PMC2212421	98	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	98	uniprot:P54829	step	Gene_or_gene_product
+PMC2212421	98	uniprot:P01009	PI	Gene_or_gene_product
+PMC2212421	99	uniprot:P01009	PI	Gene_or_gene_product
+PMC2212421	99	uniprot:P54829	step	Gene_or_gene_product
+PMC2212421	99	uniprot:UNRESOLVED ID	C3bi	Gene_or_gene_product
+PMC2212421	99	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	99	uniprot:UNRESOLVED ID	Factor I	Gene_or_gene_product
+PMC2212421	100	uniprot:P94854	CR3	Gene_or_gene_product
+PMC2212421	100	uniprot:O24585	CR4	Gene_or_gene_product
+PMC2212421	101	uniprot:P08571	CD14	Gene_or_gene_product
+PMC2212421	101	ncbitax:species:ncbi:9606	human	Species
+PMC2212421	101	uazid:UA-CT-16	macrophages	CellType
+PMC2212421	102	uniprot:P94854	CR3	Gene_or_gene_product
+PMC2212421	102	uniprot:O24585	CR4	Gene_or_gene_product
+PMC2212421	102	uniprot:P08571	CD14	Gene_or_gene_product
+PMC2212421	102	uniprot:P06744	GPI	Gene_or_gene_product
+PMC2212421	102	uniprot:UNRESOLVED ID	complement receptors	Gene_or_gene_product
+PMC2212421	103	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2212421	103	uniprot:Q14185	DOCK 180	Gene_or_gene_product
+PMC2212421	104	uniprot:Q14185	DOCK 180	Gene_or_gene_product
+PMC2212421	104	uniprot:P46108	CRK	Gene_or_gene_product
+PMC2212421	104	uniprot:A0PDV5	ras	Gene_or_gene_product
+PMC2212421	107	uazid:UA-CT-16	macrophage	CellType
+PMC2212421	108	uniprot:UNRESOLVED ID	CR3 and other complement receptors	Gene_or_gene_product
+PMC2212421	108	interpro:IPR004281	IL-12	Gene_or_gene_product
+PMC2212421	108	uniprot:P01579	IFN-gamma	Gene_or_gene_product
+PMC2212421	108	ncbitax:species:ncbi:9606	human	Species
+PMC2212421	108	uazid:UA-CT-24	monocytes	CellType
+PMC2212421	109	uazid:UA-CT-16	macrophages	CellType
+PMC2212421	110	uazid:UA-CT-22	lymphocytes	CellType
+PMC2212421	112	uazid:UA-CT-16	macrophages	CellType
+PMC2212421	113	uniprot:UNRESOLVED ID	IgG	Gene_or_gene_product
+PMC2212421	113	uniprot:O89094	mice	Species
+PMC2212421	114	uniprot:O89094	mice	Species
+PMC2212421	115	ncbitax:species:ncbi:9606	humans	Species
+PMC2212421	116	uniprot:P05107	CD18	Gene_or_gene_product
+PMC2212421	116	ncbitax:species:ncbi:9606	patient	Species
+PMC2212421	116	uniprot:P11215	CD11b	Gene_or_gene_product
+PMC2212421	117	uniprot:P11215	CD11b	Gene_or_gene_product
+PMC2212421	117	uniprot:O89094	mice	Species
+PMC2212421	117	uniprot:P94854	CR3	Gene_or_gene_product
+PMC2212421	117	uniprot:O24585	CR4	Gene_or_gene_product
+PMC2212421	119	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	120	ncbitax:species:ncbi:9606	human	Species
+PMC2212421	120	uazid:UA-CT-16	macrophages	CellType
+PMC2212421	120	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	120	uniprot:Q6T4R5	NHS	Gene_or_gene_product
+PMC2212421	121	uniprot:P01009	PI	Gene_or_gene_product
+PMC2212421	121	uniprot:P46060	SD	Gene_or_gene_product
+PMC2212421	123	uniprot:P08311	C-G	Gene_or_gene_product
+PMC2212421	123	ncbitax:species:ncbi:9606	human	Species
+PMC2212421	123	uazid:UA-CT-16	macrophages	CellType
+PMC2212421	123	uazid:UA-ORG-624	neutrophils	Organ
+PMC2212421	123	uniprot:P15370	E-G	Gene_or_gene_product
+PMC2212421	123	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	126	uniprot:UNRESOLVED ID	alternative complement components	Gene_or_gene_product
+PMC2212421	127	uazid:UA-ORG-624	neutrophils	Organ
+PMC2212421	127	ncbitax:species:ncbi:9606	human	Species
+PMC2212421	127	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	130	uniprot:P46060	SD	Gene_or_gene_product
+PMC2212421	131	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	131	uniprot:UNRESOLVED ID	C3bi	Gene_or_gene_product
+PMC2212421	132	uazid:UA-CT-22	Lymphocytes	CellType
+PMC2212421	132	uazid:UA-ORG-624	neutrophils	Organ
+PMC2212421	132	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	133	uazid:UA-CT-22	Lymphocytes	CellType
+PMC2212421	133	uniprot:P48147	PE	Gene_or_gene_product
+PMC2212421	133	uniprot:UNRESOLVED ID	PE-IgG2bkappa	Gene_or_gene_product
+PMC2212421	134	uazid:UA-CT-22	lymphocytes	CellType
+PMC2212421	134	uniprot:P08758	annexin V	Gene_or_gene_product
+PMC2212421	134	uniprot:Q5NMC0	RPMI	Gene_or_gene_product
+PMC2212421	134	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	134	uniprot:UNRESOLVED ID	C3bi	Gene_or_gene_product
+PMC2212421	135	uazid:UA-ORG-624	neutrophils	Organ
+PMC2212421	135	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	138	uniprot:UNRESOLVED ID	complement receptors CR3	Gene_or_gene_product
+PMC2212421	138	uniprot:O24585	CR4	Gene_or_gene_product
+PMC2212421	138	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	139	uniprot:UNRESOLVED ID	complement receptors	Gene_or_gene_product
+PMC2212421	139	ncbitax:species:ncbi:9606	human	Species
+PMC2212421	139	uazid:UA-CT-16	macrophages	CellType
+PMC2212421	139	ncbitax:species:ncbi:10090	mouse	Species
+PMC2212421	141	uazid:UA-CT-16	Macrophages	CellType
+PMC2212421	141	ncbitax:species:ncbi:9606	human	Species
+PMC2212421	141	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	142	uniprot:P01009	PI	Gene_or_gene_product
+PMC2212421	142	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	143	uniprot:P94854	CR3	Gene_or_gene_product
+PMC2212421	143	uniprot:O24585	CR4	Gene_or_gene_product
+PMC2212421	143	uniprot:P08758	annexin V	Gene_or_gene_product
+PMC2212421	143	uniprot:Q03385	RGDS	Gene_or_gene_product
+PMC2212421	143	uniprot:UNRESOLVED ID	61D3	Gene_or_gene_product
+PMC2212421	143	uniprot:UNRESOLVED ID	63D3	Gene_or_gene_product
+PMC2212421	143	uniprot:UNRESOLVED ID	RGES	Gene_or_gene_product
+PMC2212421	143	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	144	uniprot:P94854	CR3	Gene_or_gene_product
+PMC2212421	145	ncbitax:species:ncbi:9606	human	Species
+PMC2212421	145	uniprot:UNRESOLVED ID	CHO-R3	Gene_or_gene_product
+PMC2212421	145	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	147	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	148	uniprot:Q04912	Ron	Gene_or_gene_product
+PMC2212421	148	uniprot:UNRESOLVED ID	Azzudin Gharavi	Gene_or_gene_product
+PMC2212421	148	uniprot:UNRESOLVED ID	Robin Ingalls	Gene_or_gene_product
+PMC2212421	149	uniprot:UNRESOLVED ID	AR38915	Gene_or_gene_product
+PMC2212421	149	uniprot:UNRESOLVED ID	SCOR	Gene_or_gene_product
+PMC2212421	149	uniprot:UNRESOLVED ID	P50-AR42588	Gene_or_gene_product
+PMC2212421	150	ncbitax:species:ncbi:10029	Chinese hamster	Species
+PMC2212421	150	uazid:UA-ORG-656	ovary	Organ
+PMC2212421	151	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	152	ncbitax:species:ncbi:9606	human	Species
+PMC2212421	152	uniprot:UNRESOLVED ID	serum	CellType
+PMC2212421	153	uniprot:UNRESOLVED ID	serum	CellType

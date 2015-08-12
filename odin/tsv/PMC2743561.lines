@@ -1,0 +1,132 @@
+Paper ID	Is title?	Section ID	Passage ID	Line Num	Text
+PMC2743561	true	article-title	0	0	Persistent DNA damage signaling triggers senescence associated inflammatory cytokine secretion
+PMC2743561	false	abstract	1	1	Cellular senescence suppresses cancer by stably arresting the proliferation of damaged cells .
+PMC2743561	false	abstract	1	2	Paradoxically , senescent cells also secrete factors that alter tissue microenvironments .
+PMC2743561	false	abstract	1	3	The pathways regulating this secretion are unknown .
+PMC2743561	false	abstract	1	4	We show that damaged human cells develop persistent chromatin lesions bearing hallmarks of DNA double-strand breaks ( DSBs ) , which initiate increased secretion of inflammatory cytokines such as interleukin-6 ( IL-6 ) .
+PMC2743561	false	abstract	1	5	Cytokine secretion occurred only after establishment of persistent DNA damage signaling , usually associated with senescence , not after transient DNA damage responses ( DDR ) .
+PMC2743561	false	abstract	1	6	Initiation and maintenance of this cytokine response required the DDR proteins ATM , NBS1 and CHK2 , but not the cell cycle arrest enforcers p53 and pRb .
+PMC2743561	false	abstract	1	7	ATM was also essential for IL-6 secretion during oncogene induced senescence and by damaged cells that bypass senescence .
+PMC2743561	false	abstract	1	8	Further , DDR activity and IL-6 were elevated in human cancers , and ATM-depletion suppressed the ability of senescent cells to stimulate IL-6-dependent cancer cell invasiveness .
+PMC2743561	false	abstract	1	9	Thus , in addition to orchestrating cell cycle checkpoints and DNA repair , a novel and important role of the DDR is to allow damaged cells to communicate their compromised state to the surrounding tissue .
+PMC2743561	true	S1	2	10	AUTHOR CONTRIBUTIONS
+PMC2743561	false	S1	3	11	FR designed , performed and analyzed the experiments , JPC and CP performed antibody arrays , JPC and WAMH performed ELISAs , SRR analyzed immunofluorescence , AF analyzed tissue arrays , ARD , DPM and EC generated and tested p53 and ATM RNAi constructs , JC analyzed data , FR and JC wrote the paper .
+PMC2743561	false	S3	4	12	HCA2 foreskin fibroblasts were obtained from J. Smith ( University of Texas , San Antonio ) and cultured under ambient oxygen levels in Dulbecco 's modified Eagle 's media ( DMEM ) supplemented with 10 % fetal bovine serum , 2.5 mug and ml fungizone and 100 U and ml streptomycin and penicillin .
+PMC2743561	false	S3	4	13	Early passage is defined as having completed < 35 PD and having a 24 h BrdU labeling index of > 75 % .
+PMC2743561	false	S3	4	14	Cell populations were considered replicatively senescent when they had 24 h labeling indices of < 5 % .
+PMC2743561	false	S3	4	15	Primary A-T ( AT2SF ) and Seckel syndrome ( GM09812 ) fibroblasts were obtained from the Coriell Institute and used at early passages ( 24 h BrdU labeling index > 75 % ) .
+PMC2743561	false	S3	4	16	Cumulative PDs of primary cells were determined as follows : current PD = last PD + log2 ( cell number and cells seeded ) .
+PMC2743561	false	S3	4	17	293FT packaging cells ( Invitrogen ) were used to generate lentiviruses and PT67 cells ( Clontech ) were used to generate retroviruses .
+PMC2743561	false	S4	5	18	Retroviruses or lentiviruses encoding dominant negative TIN2 ( TIN2-15C ) , GSE22 , SV40LT , p16INK4A , oncogenic RASV12 and hTERT were described ,  .
+PMC2743561	false	S4	5	19	TIN2DN-ires-eGFP , eGFP , p16INK4A and RASV12 were subcloned into a lentiviral vector with puromycin selection ( 670-1 ) .
+PMC2743561	false	S4	5	20	Custom RNAi short hairpins were subcloned into vectors 749-3 ( shp53 , zeocin selection ) and W17-1 ( shGFP2 and shATM2 , hygromycin selection ) ( Campeau et al. , submitted ; for transgene expression see                                       .
+PMC2743561	false	S4	5	21	Lentiviruses encoding shRNAs against GFP , ATM , CHK2 and NBS1 were purchased from Open Biosystems .
+PMC2743561	false	S4	5	22	shRNA target sequences are provided in                                  .
+PMC2743561	false	S4	5	23	Virus titers were adjusted to infect 95 % -99 % of cells .
+PMC2743561	false	S5	6	24	Cells were X irradiated with total doses of either 0.5 or 10 Gy at rates equal to or above 0.75 Gy and min using a Pantak X-ray generator ( 320 kV and 10 mA with 0.5 mm copper filtration ) .
+PMC2743561	false	S6	7	25	Cells were cultured in 4 well chamber-slides ( Nunc ) , fixed in Formalin for 10 min at room temperature and permeabilized in PBS-0 .2 % Triton for 10 min .
+PMC2743561	false	S6	7	26	Slides were blocked for 1 h in PBS containing 1 % BSA and 4 % normal donkey serum .
+PMC2743561	false	S6	7	27	Primary antibodies were diluted in blocking buffer and incubated with fixed cells overnight at 4degrees C .
+PMC2743561	false	S6	7	28	The cells were washed , incubated with secondary antibodies for 1 h at room temperature , washed , and mounted with slow-fade gold ( Molecular Probes ) .
+PMC2743561	false	S6	7	29	Images were acquired on an Olympus BX60 fluorescence microscope with the spotfire 3.2.4 software ( Diagnostics Instruments ) and processed with Photoshop CS2 ( Adobe ) .
+PMC2743561	false	S7	8	30	Tissue arrays were purchased from Biochain Institute Inc. ( arrays #T 6235700 and #B 112136 ) .
+PMC2743561	false	S7	8	31	Frozen slides were brought to room temperature and processed as described for immunofluorescence , except primary antibodies were diluted in blocking buffer and slides were mounted in vectashield with DAPI ( Vector laboratories ) .
+PMC2743561	false	S7	8	32	Details regarding quantification of the immunofluorescence signals are provided in                                  .
+PMC2743561	false	S8	9	33	Primary antibodies targeted 53BP1 ( Bethyl , BL182 ) , gamma-H2AX ( upstate , JBW301 ) , p53 ( Oncogene Research Products , DO-1 ) , Ras ( BD Biosciences , 610001 ) , p16 ( Neomarkers , JC8 ) , p21 ( BD Biosciences , 556430 ) , actin ( Chemicon , MAB3128 ) , tubulin ( Sigma , T5168 ) , IL-6 ( R&D Systems , MAB2061 ) , IL-8 ( R&D systems , MAB208 ) , ATM ( Abcam Y-170 ) , phospho-ATM ( Upstate , # 05-740 ) , phospho-p53 ( Cell signaling # 9284 ) or phospho-ATM and ATR STK substrates ( Cell signaling # 2851 ) .
+PMC2743561	false	S8	9	34	Donkey secondary antibodies conjugated to Alexa Fluors were purchased from Molecular Probes ( Alexa 350 , 488 and 594 ) .
+PMC2743561	false	S8	9	35	Where noted , DAPI was used to label nuclear DNA .
+PMC2743561	false	S10	10	36	Conditioned media ( CM ) were prepared by washing cells 3 times in PBS and incubating them in serum-free DMEM containing antibiotics for 24 h. CM were filtered and stored at -80 degrees C. Cell number was determined in every experiment .
+PMC2743561	false	S10	10	37	ELISAs were performed using kits and procedures from R&D ( IL-6 #D 06050 and IL-8 #D 8000C ) .
+PMC2743561	false	S10	10	38	The data were normalized to cell number and reported as 10-6 pg secreted protein per cell per day .
+PMC2743561	false	S11	11	39	Assays were performed as described  using modified Boyden chambers with 8-micron pore filter inserts for 24-well plates ( BD Bioscience ) .
+PMC2743561	false	S11	11	40	Filters were coated with 12 mul ice-cold 20 % basement membrane extract ( Matrigel , BD Bioscience ) .
+PMC2743561	false	S11	11	41	Epithelial cells ( 5 x104 ) were added to the upper chamber in 200 mul serum-free medium , while the lower chamber was filled with 300 mul CM ( collected over 24 h at 1x105 cells and ml ) .
+PMC2743561	false	S11	11	42	After 16-24 h , epithelial cells on the under side of the filter were fixed with 2.5 % glutaraldehyde in PBS and stained with 0.5 % toluidine blue in 2 % Na2CO3 .
+PMC2743561	false	S11	11	43	Cells on the underside of the filter were counted using light microscopy .
+PMC2743561	false	S12	12	44	Cultures were washed and incubated in serum-free DMEM for 24 h to generate CM , which was collected , and cells were counted .
+PMC2743561	false	S12	12	45	CM was filtered ( 0.2 mm pore ) , stored at -80 degrees C , and analyzed using antibody arrays ( Chemicon , Human Arrays VI and VII , cat #AA 1001CH-8 ) essentially as per the manufacturer 's instructions , but with modifications that yielded a numerical intensity for each protein detected by the array and allowed comparisons among arrays .
+PMC2743561	false	S13	13	46	Cells were lysed in 50 mM Tris-HCl pH 6.8 , 100 mM DTT , 2 % SDS , 10 % glycerol .
+PMC2743561	false	S13	13	47	The mixture was briefly sonicated ( 30 sec ) followed by boiling ( 10 min ) and centrifugation .
+PMC2743561	false	S13	13	48	Samples were loaded on 5 % or 4-15 % gradient tris-glycine SDS-polyacrylamide gels and separated by electrophoresis .
+PMC2743561	false	S13	13	49	Proteins were electroblotted overnight onto PVDF membranes and probed overnight at 4degrees C in PBS 5 % milk .
+PMC2743561	false	S13	13	50	Secondary antibodies conjugated to horseradish peroxidase were used at a dilution of 1:15000 ( Jackson Immunoresearch ) .
+PMC2743561	false	S13	13	51	Blots were developed using the supersignal pico reagent ( PIERCE ) .
+PMC2743561	false	S14	14	52	We thank Drs. Christian Beausejour ( grant CIHR # MPO-79317 ) for help in the design of a modified lentiviral expression system , Robert Teachenor , Victoria Chu and Genevieve Tang for valuable technical assistance , and Dr. Pierre Desprez for insightful comments on the manuscript .
+PMC2743561	false	S14	14	53	This work was supported by National Institutes of Health grants AG017242 ( JC ) and AG025708 ( Buck Institute ) , a CABCRP grant 11IB-0153 ( ARD ) , a Larry L. Hillblom Foundation fellowship ( CKP ) , the Netherlands Organization for International Cooperation in Higher Education ( Nuffic , HSP-TP 06 and 78 ) and Dutch Cancer Society ( WAMH ) , and the Department of Energy under contract DE-AC03-76SF00098 to the University of California .
+PMC2743561	true	fig-1	15	54	Persistent DNA damage signaling correlates with IL-6 secretion
+PMC2743561	false	fig-1	16	55	( a ) HCA2 fibroblasts were untreated , irradiated with 0.5 Gy , or irradiated with 10 Gy and allowed to recover .
+PMC2743561	false	fig-1	16	56	Cells were fixed and stained for 53BP1 foci ( red ) at the indicated intervals after irradiation .
+PMC2743561	false	fig-1	17	57	( b ) Whole cell lysates were prepared at the indicated intervals after irradiation and analyzed by western blotting for the indicated proteins .
+PMC2743561	false	fig-1	17	58	P-p53 , serine 15 phosphorylated p53 .
+PMC2743561	false	fig-1	18	59	( c ) HCA2 cells were irradiated with 0.5 or 10 Gy and allowed to recover for the indicated intervals before being fixed and stained for 53BP1 foci .
+PMC2743561	false	fig-1	18	60	Nuclei with 3 or more foci were quantified .
+PMC2743561	false	fig-1	19	61	( d ) HCA2 cells were irradiated with 10 Gy and analyzed 6 d later for gamma-H2AX ( red ) and the Ser and Thr phosphorylated ATM and ATR substrate motif ( p-STK Sub ; green ) ( top panels ) , or 53BP1 ( red ) and activated ( phosphorylated ) ATM ( p-ATM ; green ) ( bottom panels ) .
+PMC2743561	false	fig-1	19	62	The merged red and green channels display co-localization in yellow .
+PMC2743561	false	fig-1	20	63	( e ) HCA2 cells were irradiated with 0.5 or 10 Gy , and IL-6 secretion was assessed using ELISA over 10 d for the indicated 24 h windows .
+PMC2743561	false	fig-1	20	64	The data are reported as the fold increase in secretion relative to untreated control cells .
+PMC2743561	false	fig-1	21	65	( f ) Cells were infected with lentiviruses or treated as indicated ( expression of p16INK4A , p16 ; replicative senescence , SEN-REP ; telomere uncapping using a dominant negative TIN2 protein,TIN2-DN ; X irradiation , X-Ray ; hydrogen peroxide , H2O2 ; expression of activated RASV12 , RAS ) .
+PMC2743561	false	fig-1	21	66	Ten days later , cells were analyzed by immunofluorescence to quantify the fraction of cells with 3 or more 53BP1 foci .
+PMC2743561	false	fig-1	21	67	For representative images of 53BP1 damage foci and for other senescence markers see                                            .
+PMC2743561	false	fig-1	22	68	( g ) Conditioned media from the cell populations described in Fig. 1F were collected over a 24 h interval , and analyzed for IL-6 by ELISA .
+PMC2743561	false	fig-1	22	69	The data are reported as fold increase in secretion relative to untreated control cells , and are plotted on a log scale ( n = number of cell populations analyzed ) .
+PMC2743561	true	fig-2	23	70	Telomeric PDDF promotes increased IL-6 secretion
+PMC2743561	false	fig-2	24	71	( a ) HCA2 populations were cultured until replicative senescence ( PD > 71 ) .
+PMC2743561	false	fig-2	24	72	Top panel : Populations were sampled at the indicated PDs ( lower panel X axis ) .
+PMC2743561	false	fig-2	24	73	Single cells were analyzed for DNA synthesis ( BrdU incorporation over 24 h ) and 53BP1 foci ( cells with 3 or more foci ) .
+PMC2743561	false	fig-2	24	74	Lower panel : Conditioned media were collected over a 24 h interval from the populations analyzed in the top panel .
+PMC2743561	false	fig-2	24	75	IL-6 was measured by ELISA , and is reported as 10-6 pg/cell/day ( n = number of cell populations analyzed ) .
+PMC2743561	false	fig-2	25	76	( b ) HCA2 cells at the indicated PDs were fixed and single cells analyzed simultaneously for 53BP1 foci ( green ) and BrdU incorporation over a 24 h interval ( red ) .
+PMC2743561	false	fig-2	25	77	Arrows mark nuclei that simultaneously harbor 53BP1 foci and BrdU staining .
+PMC2743561	false	fig-2	26	78	( c ) Cells at PD35 were pulsed with BrdU for 1 h and fixed .
+PMC2743561	false	fig-2	26	79	Single cells were analyzed simultaneously for 53BP1 foci and BrdU incorporation .
+PMC2743561	false	fig-2	26	80	BrdU incorporation was scored independent of 53BP1 foci ( Total cells ) or only in cells with 53BP1 foci ( 53BP1+ ) .
+PMC2743561	false	fig-2	27	81	( d ) Cells at the indicated PD levels were pulsed with BrdU for 24 h and fixed .
+PMC2743561	false	fig-2	27	82	Single cells were analyzed by immunofluorescence for intracellular IL-6 ( green ) and BrdU incorporation ( red ) .
+PMC2743561	false	fig-2	28	83	( e ) Cells were infected with a retrovirus expressing hTERT , selected and cultured for the indicated doublings ( PD after hTERT ) .
+PMC2743561	false	fig-2	28	84	At the indicated PDs , cells were analyzed for 3 or more 53BP1 foci ( top panels ) or IL-6 secretion ( lower panels ) , as described for Fig. 2a .
+PMC2743561	false	fig-2	29	85	( f ) Early passage HCA2 or HCA2 cells expressing hTERT were irradiated with 10 Gy , allowed to recover for 8 d , and analyzed for 53BP1 foci ( top panel ) and IL-6 secretion as described for Fig. 2a .
+PMC2743561	false	fig-2	29	86	IL-6 secretion is reported as the fold increase compared to unirradiated control cells .
+PMC2743561	false	fig-2	29	87	There was a non significant reduction in 53BP1 foci and slight reduction in IL-6 levels ( p = 0.036 , two tailed student T-test for unpaired samples ) in hTERT cells .
+PMC2743561	true	fig-3	30	88	Loss of p53 accelerates PPDF formation and IL-6 secretion
+PMC2743561	false	fig-3	31	89	( a ) Replicatively senescent HCA2 cells were infected with the indicated lentiviruses and IL-6 secretion was analyzed 3-4 PDs following reversal of the senescence arrest .
+PMC2743561	false	fig-3	31	90	IL-6 secretion is reported as 10-6 pg/cell/day on a log scale ( n = number of cell populations analyzed ) .
+PMC2743561	false	fig-3	32	91	( b ) Early passage HCA2 cells were infected with a GSE22 expressing retrovirus , selected for 4 d ( ~ 3 PDs ) and IL-6 secretion was measured ~ 2 PDs later .
+PMC2743561	false	fig-3	32	92	Cells were cultured for the indicated PDs and assessed for 53BP1 foci ( top panel ) and IL-6 secretion ( lower panel ) ( 10-6 pg/cell/day on a log scale ) ( n = number of cell populations analyzed ) .
+PMC2743561	false	fig-3	32	93	Because GSE22 prevents p53 tetramerization , which is required for transactivation and rapid degradation , GSE22 expressing cells contained abundant inactive p53 protein ( see                                     .
+PMC2743561	false	fig-3	33	94	( c ) Early passage HCA2 cells ( PD35 ) were infected with lentiviruses expressing either shp53 or eGFP , selected and cultured until PD55 , and analyzed for IL-6 secretion ( 10-6 pg/cell/day on a log scale ) .
+PMC2743561	false	fig-3	34	95	( d ) Two HCA2-GSE22 populations were infected with a retrovirus expressing hTERT and analyzed for 53BP1 foci and IL-6 secretion as described above .
+PMC2743561	true	fig-4	35	96	DDR signaling is required for the cytokine response to PDDF
+PMC2743561	false	fig-4	36	97	( a ) HCA2 cells were infected with lentiviruses expressing shRNAs against GFP ( control , shGFP3 ) or ATM ( shATM-11 , -12 , or -13 ) and allowed to recover for 5 d. Whole cell lysates were analyzed by western blotting for the indicated proteins .
+PMC2743561	false	fig-4	36	98	Ponceau staining shows the total proteins .
+PMC2743561	false	fig-4	37	99	( b ) HCA2 cells were infected as above and irradiated with 10 Gy X-Ray .
+PMC2743561	false	fig-4	37	100	After 9 d , CM were collected over 24 h and assessed for IL-6 by ELISA .
+PMC2743561	false	fig-4	37	101	IL-6 secretion is reported as fold change over unirradiated shGFP control .
+PMC2743561	false	fig-4	37	102	ND = not detected .
+PMC2743561	false	fig-4	38	103	( c ) Replicatively senescent HCA2 were infected as above and allowed to recover for 6 d. Conditioned media CM were collected over 24 h and assessed for IL-6 secretion ( reported as fold change over shGFP control ) .
+PMC2743561	false	fig-4	39	104	( d ) A-T cells were irradiated with 10 Gy and allowed to recover for 2 or 10 d. CM were collected over 24 h , and analyzed for IL-6 by ELISA ( reported as fold increase compared to unirradiated A-T cells ; numerical values are given above the bars ) .
+PMC2743561	false	fig-4	40	105	( e ) Seckel syndrome cells were irradiated and analyzed for IL-6 as described above for A-T cells .
+PMC2743561	false	fig-4	40	106	( f-g ) HCA2 cells were infected with lentiviruses expressing shRNAs against GFP ( control , shGFP3 ) , NBS1 ( shNBS1-1 , -2 , -6 , or -7 ) ) or CHK2 ( shCHK2-2 , -12 , or -13 ) , selected and allowed to recover for 7 d. Whole cell lysates were analyzed by western blotting for the indicated proteins .
+PMC2743561	false	fig-4	40	107	The arrow indicates CHK2 ; NS indicates a non specific band detected by the antibody .
+PMC2743561	false	fig-4	41	108	( h ) HCA2 cells from ( Fig4f-g ) with the indicated shRNA expressing lentiviruses were irradiated with 10 Gy X-Ray .
+PMC2743561	false	fig-4	41	109	After 2 d , CM were collected over 24 h and assessed for IL-6 using ELISA ( reported as fold change over unirradiated shGFP control ; numerical values are given above the bars ) .
+PMC2743561	false	fig-4	42	110	( i ) Replicatively senescent HCA2 cells were infected with indicated shRNA expressing lentiviruses and allowed to recover for 6 d. CM were collected over 24 h and assessed for IL-6 ( reported as fold change over shGFP control ; numerical values are given above the bars ) .
+PMC2743561	true	fig-5	43	111	ATM modulates a SASP subset
+PMC2743561	false	fig-5	44	112	( a ) Factors secreted by presenescent ( PRE ) or senescent HCA2 ( 10 d following 10 Gy ) were analyzed using antibody arrays .
+PMC2743561	false	fig-5	44	113	Signals above the PRE baseline are in yellow , signals below baseline in blue .
+PMC2743561	false	fig-5	44	114	Factors that differed significantly between PRE and XRA cells are displayed ( p < 0.05 , student unpaired T-Test ) .
+PMC2743561	false	fig-5	45	115	( b ) SASP factors in ( A ) were analyzed in X irradiated ATM depleted cells ( XRA ( shATM ) ) and compared to irradiated-senescent HCA2-shGFP cells ( XRA ) .
+PMC2743561	false	fig-5	45	116	Changes are reported as XRA ( shATM ) divided by XRA levels .
+PMC2743561	false	fig-5	45	117	Signals below the XRA baseline are in blue , factors not substantially modulated by ATM-deficiency in gray .
+PMC2743561	false	fig-5	46	118	( c ) T47D invasion stimulated by presenescent ( PRE ) HCA2 CM was given a value of 1 .
+PMC2743561	false	fig-5	46	119	Compared to PRE and serum-free ( SF ) media , invasion was significantly ( p < 0.05 ) stimulated by 10 % serum ( FBS ) , and CM from irradiated HCA2 ( XRA ) , HCA2-shGFP ( XRA-shGFP ) , and HCA2-shATM plus IL-6 ( XRA-shATM+ IL-6 ) , but not by CM from HCA2-shATM ( XRA-shATM ) ( n = number of samples analyzed ) .
+PMC2743561	false	fig-5	46	120	Recombinant IL-6 was added to levels detected by ELISA in XRA-shGFP ( 3ng and ml ) .
+PMC2743561	false	fig-5	47	121	( d ) Human breast tissues were analyzed for ATM and ATR serine threonine kinase substrates ( p-STK Sub ) or IL-6 by immunofluorescence .
+PMC2743561	false	fig-5	47	122	Data are reported as arbitrary units , with the average normal signal = 1 ( Signal Intensity ) .
+PMC2743561	false	fig-5	47	123	Significance was determined by two tailed student T-test for unpaired samples using representative fields from 21 normal and 37 cancer tissues .
+PMC2743561	false	fig-5	48	124	( e ) HCA2 cells were untreated or infected with lentiviruses expressing RAS and shRNAs against GFP ( shGFP2 ) or ATM ( shATM2 ) , and pulsed with BrdU for 24 h 9-10 d after infection .
+PMC2743561	false	fig-5	49	125	( f ) HCA2 or A-T cells were untreated or infected as in ( e ) and photographed 6 d later .
+PMC2743561	false	fig-5	50	126	( g ) HCA2 cells infected as in ( e ) were fixed 10 d later and analyzed for 53BP1 ( red ) , phospho-ATM ( green ) and DNA ( DAPI , blue ) .
+PMC2743561	false	fig-5	50	127	Top panel = merge ; bottom panels = grayscale for 53BP1 or p-ATM .
+PMC2743561	false	fig-5	51	128	( h ) A-T fibroblasts were untreated or infected as in ( e ) .
+PMC2743561	false	fig-5	51	129	CM was collected for 24 h 9-10 d after infection and analyzed for IL-6 ( fold increase relative to untreated cells ; magnitude is given over the bars ) .
+PMC2743561	false	fig-5	52	130	( i ) HCA2 cells were untreated or infected as in ( e ) and IL-6 secretion analyzed as above .

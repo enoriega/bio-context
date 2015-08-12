@@ -1,0 +1,312 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2064413	0	uniprot:Q15139	protein kinase D	Gene_or_gene_product
+PMC2064413	0	uniprot:Q9Y5P4	ceramide transfer protein	Gene_or_gene_product
+PMC2064413	1	uniprot:Q15139	Protein kinase D	Gene_or_gene_product
+PMC2064413	1	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	2	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	3	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	4	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	5	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	5	N/A	CERT	Gene_or_gene_product
+PMC2064413	6	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	6	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	7	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	7	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	8	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	8	uniprot:P98161	PKD1	Gene_or_gene_product
+PMC2064413	8	uniprot:UNRESOLVED ID	PKCmu	Gene_or_gene_product
+PMC2064413	8	uniprot:Q13563	PKD2	Gene_or_gene_product
+PMC2064413	8	uniprot:UNRESOLVED ID	PKD3	Gene_or_gene_product
+PMC2064413	8	uniprot:UNRESOLVED ID	PKCnu	Gene_or_gene_product
+PMC2064413	9	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	9	uazid:UA-ORG-312	finger	Organ
+PMC2064413	9	uniprot:P08567	pleckstrin	Gene_or_gene_product
+PMC2064413	9	uniprot:P01298	PH	Gene_or_gene_product
+PMC2064413	10	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	11	uniprot:Q9ULH0	Kidins220	Gene_or_gene_product
+PMC2064413	11	uniprot:Q13671	RIN1	Gene_or_gene_product
+PMC2064413	11	uniprot:Q9UQL6	HDAC5	Gene_or_gene_product
+PMC2064413	11	uniprot:UNRESOLVED ID	PI4KIIIbeta	Gene_or_gene_product
+PMC2064413	12	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	13	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	13	uniprot:UNRESOLVED ID	PKCeta	Gene_or_gene_product
+PMC2064413	14	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	14	uniprot:UNRESOLVED ID	PI4KIIIbeta	Gene_or_gene_product
+PMC2064413	14	uniprot:P01009	PI	Gene_or_gene_product
+PMC2064413	15	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	15	uniprot:Q9Y5P4	ceramide transfer protein	Gene_or_gene_product
+PMC2064413	15	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	15	uniprot:Q9Y5P4	Goodpasture antigen-binding protein	Gene_or_gene_product
+PMC2064413	15	uniprot:P03372	ER	Gene_or_gene_product
+PMC2064413	15	uniprot:P22655	SM	Gene_or_gene_product
+PMC2064413	16	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	16	uniprot:UNRESOLVED ID	CERTL	Gene_or_gene_product
+PMC2064413	17	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	19	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	19	uniprot:Q9UKL6	Pctp	Gene_or_gene_product
+PMC2064413	19	uniprot:O00592	PC	Gene_or_gene_product
+PMC2064413	19	uniprot:Q9Y365	StarD10	Gene_or_gene_product
+PMC2064413	20	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	20	uniprot:P01009	PI	Gene_or_gene_product
+PMC2064413	20	uniprot:UNRESOLVED ID	FFAT motif	Gene_or_gene_product
+PMC2064413	20	uniprot:P03372	ER	Gene_or_gene_product
+PMC2064413	20	uniprot:Q9P0L0	VAP-A	Gene_or_gene_product
+PMC2064413	20	uniprot:O95292	VAP-B	Gene_or_gene_product
+PMC2064413	21	uniprot:P03372	ER	Gene_or_gene_product
+PMC2064413	22	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	22	uniprot:P03372	ER	Gene_or_gene_product
+PMC2064413	23	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	24	uniprot:P03372	ER	Gene_or_gene_product
+PMC2064413	24	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	25	uniprot:F1Q4R9	CHO	CellType
+PMC2064413	25	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	25	uniprot:P01009	PI	Gene_or_gene_product
+PMC2064413	26	uniprot:P01009	PI	Gene_or_gene_product
+PMC2064413	26	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	26	uniprot:UNRESOLVED ID	PI4KIIIbeta	Gene_or_gene_product
+PMC2064413	27	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	27	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	27	uniprot:P01009	PI	Gene_or_gene_product
+PMC2064413	28	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	28	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	29	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	29	uniprot:UNRESOLVED ID	PI4KIIIbeta	Gene_or_gene_product
+PMC2064413	30	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	30	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	30	uniprot:UNRESOLVED ID	pMOTIF	Gene_or_gene_product
+PMC2064413	31	uniprot:Q56704	Flag	Species
+PMC2064413	31	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	32	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	32	uniprot:UNRESOLVED ID	pMOTIF antibody	Gene_or_gene_product
+PMC2064413	33	uniprot:UNRESOLVED ID	pMOTIF	Gene_or_gene_product
+PMC2064413	33	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	33	uniprot:UNRESOLVED ID	CERTL	Gene_or_gene_product
+PMC2064413	34	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	35	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	35	uniprot:UNRESOLVED ID	pMOTIF antibody	Gene_or_gene_product
+PMC2064413	35	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	35	uniprot:UNRESOLVED ID	KD	Gene_or_gene_product
+PMC2064413	35	uniprot:P98161	PKD1	Gene_or_gene_product
+PMC2064413	35	uniprot:UNRESOLVED ID	PKD1-KD	Gene_or_gene_product
+PMC2064413	36	uniprot:P98161	PKD1	Gene_or_gene_product
+PMC2064413	36	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	36	uniprot:UNRESOLVED ID	pMOTIF antibody	Gene_or_gene_product
+PMC2064413	36	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	37	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	37	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	38	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	38	uniprot:UNRESOLVED ID	pMOTIF antibody	Gene_or_gene_product
+PMC2064413	39	uniprot:P98161	PKD1	Gene_or_gene_product
+PMC2064413	39	uniprot:Q13563	PKD2	Gene_or_gene_product
+PMC2064413	39	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	39	uniprot:UNRESOLVED ID	PKD3	Gene_or_gene_product
+PMC2064413	40	uniprot:P98161	PKD1	Gene_or_gene_product
+PMC2064413	40	uniprot:Q13563	PKD2	Gene_or_gene_product
+PMC2064413	40	uniprot:UNRESOLVED ID	PI4KIIIbeta	Gene_or_gene_product
+PMC2064413	40	uniprot:UNRESOLVED ID	PKD3	Gene_or_gene_product
+PMC2064413	41	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	42	uniprot:Q56704	Flag	Species
+PMC2064413	42	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	43	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	44	uniprot:UNRESOLVED ID	pMOTIF	Gene_or_gene_product
+PMC2064413	44	uniprot:UNRESOLVED ID	anti-Flag antibody	Gene_or_gene_product
+PMC2064413	45	uniprot:UNRESOLVED ID	Flag-CERT	Gene_or_gene_product
+PMC2064413	46	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	47	uniprot:UNRESOLVED ID	PKD1-KD	Gene_or_gene_product
+PMC2064413	47	uniprot:P98161	PKD1	Gene_or_gene_product
+PMC2064413	48	uniprot:P98161	PKD1-	Gene_or_gene_product
+PMC2064413	48	uniprot:Q13563	PKD2	Gene_or_gene_product
+PMC2064413	48	uniprot:UNRESOLVED ID	Flag-CERT	Gene_or_gene_product
+PMC2064413	49	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	50	uniprot:P98161	PKD1	Gene_or_gene_product
+PMC2064413	50	uniprot:Q13563	PKD2	Gene_or_gene_product
+PMC2064413	52	uniprot:P98161	PKD1	Gene_or_gene_product
+PMC2064413	53	uniprot:UNRESOLVED ID	Flag-CERT	Gene_or_gene_product
+PMC2064413	54	uniprot:UNRESOLVED ID	serum	CellType
+PMC2064413	54	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	54	uniprot:UNRESOLVED ID	PKD1-GFP	Gene_or_gene_product
+PMC2064413	54	uniprot:UNRESOLVED ID	GFP-CERT	Gene_or_gene_product
+PMC2064413	54	uniprot:Q56704	Flag-	Gene_or_gene_product
+PMC2064413	54	uniprot:O43493	TGN46	Gene_or_gene_product
+PMC2064413	55	ncbitax:species:ncbi:41568	mum	Species
+PMC2064413	56	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	56	uniprot:UNRESOLVED ID	serum	CellType
+PMC2064413	57	uniprot:P22059	OSBP	Gene_or_gene_product
+PMC2064413	57	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	57	uniprot:P22655	SM	Gene_or_gene_product
+PMC2064413	58	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	58	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	59	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	59	uniprot:O95249	GS28	Gene_or_gene_product
+PMC2064413	60	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	60	uniprot:O95249	GS28	Gene_or_gene_product
+PMC2064413	61	uniprot:P03372	ER	Gene_or_gene_product
+PMC2064413	61	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	62	uniprot:Q56704	Flag	Species
+PMC2064413	62	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	62	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	63	uniprot:O43493	TGN46	Gene_or_gene_product
+PMC2064413	63	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	64	uniprot:UNRESOLVED ID	pMOTIF recognition sites	Gene_or_gene_product
+PMC2064413	64	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	64	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	65	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	66	uniprot:UNRESOLVED ID	pMOTIF antibody	Gene_or_gene_product
+PMC2064413	67	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	67	uniprot:UNRESOLVED ID	pMOTIF antibody	Gene_or_gene_product
+PMC2064413	67	uniprot:UNRESOLVED ID	pMOTIF	Gene_or_gene_product
+PMC2064413	68	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	69	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	69	uniprot:P98161	PKD1	Gene_or_gene_product
+PMC2064413	69	uniprot:UNRESOLVED ID	CERT GST	Gene_or_gene_product
+PMC2064413	70	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	70	uniprot:P98161	PKD1	Gene_or_gene_product
+PMC2064413	70	uniprot:UNRESOLVED ID	CERT-S132A protein	Gene_or_gene_product
+PMC2064413	71	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	71	uniprot:UNRESOLVED ID	pMOTIF antibody	Gene_or_gene_product
+PMC2064413	72	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	72	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	72	uniprot:UNRESOLVED ID	pMOTIF antibody	Gene_or_gene_product
+PMC2064413	73	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	73	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	74	uniprot:UNRESOLVED ID	pMOTIF antibody	Gene_or_gene_product
+PMC2064413	74	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	74	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	75	uniprot:Q56704	Flag	Species
+PMC2064413	75	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	76	uniprot:UNRESOLVED ID	Recombinant GST-Flag-CERT-WT	Gene_or_gene_product
+PMC2064413	76	uniprot:UNRESOLVED ID	-S132A proteins	Gene_or_gene_product
+PMC2064413	76	uniprot:P98161	PKD1	Gene_or_gene_product
+PMC2064413	78	uniprot:Q56704	Flag	Species
+PMC2064413	78	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	79	uniprot:UNRESOLVED ID	pMOTIF antibody	Gene_or_gene_product
+PMC2064413	79	uniprot:Q56704	Flag	Species
+PMC2064413	79	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	80	uniprot:P98161	PKD1	Gene_or_gene_product
+PMC2064413	80	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	81	uniprot:UNRESOLVED ID	aa 23-117	Gene_or_gene_product
+PMC2064413	81	uniprot:P01009	PI	Gene_or_gene_product
+PMC2064413	82	uniprot:P01009	PI	Gene_or_gene_product
+PMC2064413	83	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	84	uniprot:P01009	PI	Gene_or_gene_product
+PMC2064413	85	uniprot:P01009	PI	Gene_or_gene_product
+PMC2064413	85	uniprot:UNRESOLVED ID	WT protein	Gene_or_gene_product
+PMC2064413	86	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	86	uniprot:O00592	PC	Gene_or_gene_product
+PMC2064413	86	uniprot:P01009	PI	Gene_or_gene_product
+PMC2064413	87	uniprot:P01009	PI	Gene_or_gene_product
+PMC2064413	87	uniprot:O00592	PC	Gene_or_gene_product
+PMC2064413	87	uniprot:UNRESOLVED ID	CERT-WT	Gene_or_gene_product
+PMC2064413	87	uniprot:UNRESOLVED ID	CERT-S132A	Gene_or_gene_product
+PMC2064413	87	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	89	uniprot:P03372	ER	Gene_or_gene_product
+PMC2064413	89	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	89	uniprot:P01009	PI	Gene_or_gene_product
+PMC2064413	90	uniprot:UNRESOLVED ID	WT	Gene_or_gene_product
+PMC2064413	90	uniprot:P03372	ER	Gene_or_gene_product
+PMC2064413	91	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	91	uniprot:P01009	PI	Gene_or_gene_product
+PMC2064413	92	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	92	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	93	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	93	uniprot:P01009	PI	Gene_or_gene_product
+PMC2064413	94	uniprot:P01009	PI	Gene_or_gene_product
+PMC2064413	94	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	95	uniprot:P84077	Arf1	Gene_or_gene_product
+PMC2064413	95	uniprot:P22059	OSBP	Gene_or_gene_product
+PMC2064413	95	uniprot:Q9HB20	FAPP1	Gene_or_gene_product
+PMC2064413	96	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	97	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	97	uniprot:P01009	PI	Gene_or_gene_product
+PMC2064413	98	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	100	uniprot:UNRESOLVED ID	CERT-WT	Gene_or_gene_product
+PMC2064413	100	uniprot:UNRESOLVED ID	-S132A	Gene_or_gene_product
+PMC2064413	101	uniprot:O00592	PC	Gene_or_gene_product
+PMC2064413	101	uniprot:P01009	PI	Gene_or_gene_product
+PMC2064413	102	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	105	uniprot:P02787	transferrin	Gene_or_gene_product
+PMC2064413	105	uniprot:UNRESOLVED ID	transferrin receptor	Gene_or_gene_product
+PMC2064413	107	uniprot:UNRESOLVED ID	CERT-WT	Gene_or_gene_product
+PMC2064413	107	uniprot:UNRESOLVED ID	-S132A	Gene_or_gene_product
+PMC2064413	108	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	109	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	112	uazid:UA-CT-200001	brain	Organ
+PMC2064413	112	uniprot:P01009	PI	Gene_or_gene_product
+PMC2064413	112	uniprot:UNRESOLVED ID	CERT-WT	Gene_or_gene_product
+PMC2064413	113	uniprot:UNRESOLVED ID	WT protein	Gene_or_gene_product
+PMC2064413	113	uniprot:UNRESOLVED ID	CERT-S132A	Gene_or_gene_product
+PMC2064413	114	uniprot:P01009	PI	Gene_or_gene_product
+PMC2064413	115	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	116	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	116	uniprot:P01009	PI	Gene_or_gene_product
+PMC2064413	116	uniprot:UNRESOLVED ID	PI4KIIIbeta	Gene_or_gene_product
+PMC2064413	117	uniprot:UNRESOLVED ID	PI4KIIIbeta	Gene_or_gene_product
+PMC2064413	117	uniprot:P03372	ER	Gene_or_gene_product
+PMC2064413	118	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	118	uniprot:P01009	PI	Gene_or_gene_product
+PMC2064413	118	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	119	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	119	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	120	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	121	uniprot:P98161	PKD1	Gene_or_gene_product
+PMC2064413	122	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	124	uniprot:Q08168	HRP	Gene_or_gene_product
+PMC2064413	127	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	129	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	130	uniprot:P01009	PI	Gene_or_gene_product
+PMC2064413	132	uniprot:O95249	GS28-	Gene_or_gene_product
+PMC2064413	132	uniprot:O43493	TGN46-	Gene_or_gene_product
+PMC2064413	132	uniprot:Q56704	Flag	Species
+PMC2064413	135	ncbitax:species:ncbi:41568	mum	Species
+PMC2064413	137	uniprot:Q96T53	goat	Species
+PMC2064413	137	uniprot:UNRESOLVED ID	serum	CellType
+PMC2064413	138	uniprot:P0DML2	PL	Gene_or_gene_product
+PMC2064413	138	uazid:UA-ORG-506	lens	Organ
+PMC2064413	141	uniprot:Q9NQV6	Tris	Gene_or_gene_product
+PMC2064413	141	uniprot:P01298	pH	Gene_or_gene_product
+PMC2064413	141	uniprot:P10265	protease	Gene_or_gene_product
+PMC2064413	147	uniprot:UNRESOLVED ID	HRP-coupled secondary antibody	Gene_or_gene_product
+PMC2064413	148	uniprot:Q9NQV6	Tris	Gene_or_gene_product
+PMC2064413	148	uniprot:P01298	pH	Gene_or_gene_product
+PMC2064413	148	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2064413	150	uniprot:UNRESOLVED ID	Recombinant protein	Gene_or_gene_product
+PMC2064413	153	uniprot:P10265	protease	Gene_or_gene_product
+PMC2064413	153	uniprot:UNRESOLVED ID	mM beta-glycerophosphate	Gene_or_gene_product
+PMC2064413	155	uniprot:UNRESOLVED ID	GST-CERT fusions	Gene_or_gene_product
+PMC2064413	155	uniprot:UNRESOLVED ID	resin	CellType
+PMC2064413	156	uniprot:P98161	PKD1	Gene_or_gene_product
+PMC2064413	156	uniprot:Q9NQV6	Tris	Gene_or_gene_product
+PMC2064413	156	uniprot:P01298	pH	Gene_or_gene_product
+PMC2064413	156	uniprot:UNRESOLVED ID	mM MgCl2, and 1 mM DTT	Gene_or_gene_product
+PMC2064413	156	ncbitax:species:ncbi:41568	muM	Species
+PMC2064413	158	uniprot:Q9NQV6	Tris	Gene_or_gene_product
+PMC2064413	158	uniprot:P01298	pH	Gene_or_gene_product
+PMC2064413	158	uniprot:P10265	protease	Gene_or_gene_product
+PMC2064413	158	uniprot:UNRESOLVED ID	needle	CellType
+PMC2064413	161	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	162	uniprot:Q9NQV6	Tris	Gene_or_gene_product
+PMC2064413	162	uniprot:P01298	pH	Gene_or_gene_product
+PMC2064413	162	uniprot:UNRESOLVED ID	anti-GFP antibody	Gene_or_gene_product
+PMC2064413	162	uniprot:Q08168	HRP	Gene_or_gene_product
+PMC2064413	163	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	163	uniprot:Q9NQV6	Tris	Gene_or_gene_product
+PMC2064413	163	uniprot:P01298	pH	Gene_or_gene_product
+PMC2064413	168	uazid:UA-CT-200001	brain	Organ
+PMC2064413	168	uniprot:UNRESOLVED ID	TNP-PE	Gene_or_gene_product
+PMC2064413	172	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	173	uniprot:Q08168	HRP	Gene_or_gene_product
+PMC2064413	174	uniprot:UNRESOLVED ID	Lucy2	Gene_or_gene_product
+PMC2064413	174	uniprot:UNRESOLVED ID	Anthos	Gene_or_gene_product
+PMC2064413	175	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2064413	176	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	176	uniprot:Q15139	PKD	Gene_or_gene_product
+PMC2064413	177	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2064413	178	uniprot:UNRESOLVED ID	CERT-WT	Gene_or_gene_product
+PMC2064413	178	uniprot:O95249	GS28	Gene_or_gene_product
+PMC2064413	180	uniprot:UNRESOLVED ID	http://www.jcb.org/cgi/content/full/jcb.200612017/DC1	Gene_or_gene_product
+PMC2064413	181	uniprot:Q9Y5P4	CERT	Gene_or_gene_product
+PMC2064413	181	uniprot:UNRESOLVED ID	Vivek Malhotra	Gene_or_gene_product
+PMC2064413	181	uniprot:P60174	Tim	Gene_or_gene_product
+PMC2064413	181	uniprot:P22059	OSBP	Gene_or_gene_product
+PMC2064413	181	uniprot:UNRESOLVED ID	Pentti Somerharju	Gene_or_gene_product
+PMC2064413	182	uniprot:UNRESOLVED ID	SFB 495-Junior Research Group	Gene_or_gene_product

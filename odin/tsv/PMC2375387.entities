@@ -1,0 +1,330 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2375387	0	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	0	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	0	uazid:UA-ORG-537	lung	Organ
+PMC2375387	1	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	1	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	1	uazid:UA-ORG-116	breast	Organ
+PMC2375387	1	uniprot:UNRESOLVED ID	anti-HER-2	Gene_or_gene_product
+PMC2375387	2	uazid:UA-ORG-537	lung	Organ
+PMC2375387	2	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	2	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	3	uazid:UA-ORG-537	lung	Organ
+PMC2375387	3	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	3	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	4	uniprot:UNRESOLVED ID	squamous cell	CellType
+PMC2375387	10	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	10	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	12	uazid:UA-ORG-537	lung	Organ
+PMC2375387	15	uazid:UA-ORG-537	Lung	Organ
+PMC2375387	15	ncbitax:species:ncbi:9606	men	Species
+PMC2375387	15	ncbitax:species:ncbi:9606	women	Species
+PMC2375387	17	uniprot:UNRESOLVED ID	trastuzumab	Gene_or_gene_product
+PMC2375387	17	uniprot:UNRESOLVED ID	HerceptinR	Gene_or_gene_product
+PMC2375387	17	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	17	uniprot:UNRESOLVED ID	neu protein receptor	Gene_or_gene_product
+PMC2375387	18	ncbitax:species:ncbi:9606	human	Species
+PMC2375387	18	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	18	uniprot:P01133	epidermal growth factor	Gene_or_gene_product
+PMC2375387	18	uniprot:P00533	epidermal growth factor receptor	Gene_or_gene_product
+PMC2375387	19	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	19	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	19	ncbitax:species:ncbi:9606	human	Species
+PMC2375387	19	uazid:UA-ORG-116	breast	Organ
+PMC2375387	20	uniprot:UNRESOLVED ID	Trastuzumab	Gene_or_gene_product
+PMC2375387	20	uazid:UA-ORG-116	breast	Organ
+PMC2375387	20	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	20	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	21	uniprot:UNRESOLVED ID	Trastuzumab	Gene_or_gene_product
+PMC2375387	21	uazid:UA-ORG-116	breast	Organ
+PMC2375387	22	uniprot:UNRESOLVED ID	trastuzumab	Gene_or_gene_product
+PMC2375387	22	uazid:UA-ORG-116	breast	Organ
+PMC2375387	23	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	23	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	23	uazid:UA-ORG-537	lung	Organ
+PMC2375387	23	uniprot:UNRESOLVED ID	IHC	Gene_or_gene_product
+PMC2375387	24	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	24	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	24	uazid:UA-ORG-537	lung	Organ
+PMC2375387	24	uniprot:UNRESOLVED ID	NSCLC	Gene_or_gene_product
+PMC2375387	26	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	26	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	26	uniprot:UNRESOLVED ID	NSCLC	Gene_or_gene_product
+PMC2375387	27	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	27	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	27	uniprot:UNRESOLVED ID	trastuzumab	Gene_or_gene_product
+PMC2375387	28	uniprot:UNRESOLVED ID	trastuzumab	Gene_or_gene_product
+PMC2375387	28	ncbitax:species:ncbi:9606	human	Species
+PMC2375387	28	uazid:UA-ORG-537	lung	Organ
+PMC2375387	28	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	28	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	29	uazid:UA-ORG-116	breast	Organ
+PMC2375387	29	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	30	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	30	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	30	uniprot:UNRESOLVED ID	trastuzumab monoclonal antibody	Gene_or_gene_product
+PMC2375387	30	uazid:UA-ORG-537	lung	Organ
+PMC2375387	31	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	31	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	31	uazid:UA-ORG-537	lung	Organ
+PMC2375387	31	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	32	uniprot:Q9P2X3	impact	Gene_or_gene_product
+PMC2375387	32	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	32	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	32	uazid:UA-ORG-537	lung	Organ
+PMC2375387	33	uniprot:UNRESOLVED ID	IHC	Gene_or_gene_product
+PMC2375387	33	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	34	uniprot:UNRESOLVED ID	IHC	Gene_or_gene_product
+PMC2375387	34	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	36	uniprot:UNRESOLVED ID	paraffin	Gene_or_gene_product
+PMC2375387	38	uniprot:UNRESOLVED ID	Hematoxylin	Gene_or_gene_product
+PMC2375387	38	uniprot:UNRESOLVED ID	Eosin	Gene_or_gene_product
+PMC2375387	38	uniprot:UNRESOLVED ID	H&E	Gene_or_gene_product
+PMC2375387	38	uazid:UA-ORG-537	lung	Organ
+PMC2375387	39	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	42	uniprot:UNRESOLVED ID	squamous cell	CellType
+PMC2375387	43	uazid:UA-ORG-116	breast	Organ
+PMC2375387	44	uazid:UA-ORG-537	lung	Organ
+PMC2375387	45	uniprot:UNRESOLVED ID	IHC procedure	Gene_or_gene_product
+PMC2375387	46	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2375387	47	uniprot:Q05855	peroxidase	Gene_or_gene_product
+PMC2375387	49	uniprot:P98081	DAB	Species
+PMC2375387	50	uniprot:UNRESOLVED ID	Hematoxylin	Gene_or_gene_product
+PMC2375387	56	uniprot:UNRESOLVED ID	WA Franklin	Gene_or_gene_product
+PMC2375387	56	uniprot:P30043	FR	Gene_or_gene_product
+PMC2375387	57	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	59	uniprot:P01298	pH	Gene_or_gene_product
+PMC2375387	59	uniprot:P10265	proteinase	Gene_or_gene_product
+PMC2375387	59	uniprot:Q9NTI2	ml-1	Gene_or_gene_product
+PMC2375387	60	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	60	uniprot:P04626	Her2	Gene_or_gene_product
+PMC2375387	62	uniprot:P01298	pH	Gene_or_gene_product
+PMC2375387	63	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2375387	63	uniprot:Q9NTI2	ml-1	Gene_or_gene_product
+PMC2375387	64	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	64	uazid:UA-ORG-537	lung	Organ
+PMC2375387	64	uazid:UA-ORG-116	breast	Organ
+PMC2375387	64	uniprot:P04626	HER2	Gene_or_gene_product
+PMC2375387	66	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2375387	66	uniprot:UNRESOLVED ID	FITC	Gene_or_gene_product
+PMC2375387	66	uniprot:UNRESOLVED ID	Texas red	Gene_or_gene_product
+PMC2375387	66	uniprot:UNRESOLVED ID	Texas	Gene_or_gene_product
+PMC2375387	67	uniprot:UNRESOLVED ID	CCD camera	Gene_or_gene_product
+PMC2375387	68	uniprot:UNRESOLVED ID	H&E	Gene_or_gene_product
+PMC2375387	68	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	69	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	69	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	70	uniprot:UNRESOLVED ID	L Chen and M Varella-Garcia	Gene_or_gene_product
+PMC2375387	72	uniprot:P04626	HER2	Gene_or_gene_product
+PMC2375387	73	uazid:UA-ORG-537	lung	Organ
+PMC2375387	73	uniprot:UNRESOLVED ID	JHMI	Gene_or_gene_product
+PMC2375387	75	uniprot:UNRESOLVED ID	UCCC	Gene_or_gene_product
+PMC2375387	75	uniprot:UNRESOLVED ID	JHMI	Gene_or_gene_product
+PMC2375387	79	uazid:UA-ORG-539	lymph	Organ
+PMC2375387	79	uniprot:P06231	node	Organ
+PMC2375387	87	uniprot:UNRESOLVED ID	IHC procedure	Gene_or_gene_product
+PMC2375387	88	uniprot:UNRESOLVED ID	R Veve	Gene_or_gene_product
+PMC2375387	88	uniprot:UNRESOLVED ID	WA Franklin	Gene_or_gene_product
+PMC2375387	91	uniprot:UNRESOLVED ID	needle	CellType
+PMC2375387	93	uniprot:UNRESOLVED ID	paraffin block	Gene_or_gene_product
+PMC2375387	93	uniprot:UNRESOLVED ID	needle	CellType
+PMC2375387	95	uniprot:UNRESOLVED ID	needle	CellType
+PMC2375387	97	uazid:UA-ORG-537	lung	Organ
+PMC2375387	100	uniprot:O43557	light	Gene_or_gene_product
+PMC2375387	104	uniprot:UNRESOLVED ID	IHC	Gene_or_gene_product
+PMC2375387	105	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	105	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	106	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	106	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	106	uazid:UA-ORG-537	lung	Organ
+PMC2375387	107	uazid:UA-ORG-537	lung	Organ
+PMC2375387	109	uniprot:Q12999	SAS	Gene_or_gene_product
+PMC2375387	109	uniprot:P15882	NC	Gene_or_gene_product
+PMC2375387	112	uazid:UA-ORG-537	lung	Organ
+PMC2375387	116	uazid:UA-ORG-252	epithelium	Organ
+PMC2375387	121	uazid:UA-ORG-537	lung	Organ
+PMC2375387	122	uazid:UA-ORG-252	epithelium	Organ
+PMC2375387	126	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	126	uniprot:UNRESOLVED ID	IHC	Gene_or_gene_product
+PMC2375387	127	uniprot:UNRESOLVED ID	IHC	Gene_or_gene_product
+PMC2375387	127	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	128	uniprot:UNRESOLVED ID	IHC	Gene_or_gene_product
+PMC2375387	132	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	132	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	132	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	132	uazid:UA-ORG-537	lung	Organ
+PMC2375387	133	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	133	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	134	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2375387	136	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	136	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	136	ncbitax:species:ncbi:9606	patient	Species
+PMC2375387	136	uniprot:UNRESOLVED ID	squamous cell	CellType
+PMC2375387	136	uniprot:UNRESOLVED ID	carcinoma	CellType
+PMC2375387	137	ncbitax:species:ncbi:9606	patient	Species
+PMC2375387	139	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	139	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	140	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	140	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	141	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	141	uazid:UA-ORG-537	lung	Organ
+PMC2375387	142	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	143	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	143	uazid:UA-ORG-537	lung	Organ
+PMC2375387	144	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	144	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	145	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2375387	147	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	147	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	147	ncbitax:species:ncbi:9606	patient	Species
+PMC2375387	147	uniprot:UNRESOLVED ID	squamous cell	CellType
+PMC2375387	147	uniprot:UNRESOLVED ID	carcinoma	CellType
+PMC2375387	148	ncbitax:species:ncbi:9606	patient	Species
+PMC2375387	149	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	149	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	151	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	151	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	152	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	152	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	157	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	157	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	158	uazid:UA-ORG-537	lung	Organ
+PMC2375387	158	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	158	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	159	uazid:UA-ORG-116	breast	Organ
+PMC2375387	159	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	159	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	162	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	162	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	162	uniprot:UNRESOLVED ID	NSCLC histologic	Gene_or_gene_product
+PMC2375387	162	uazid:UA-ORG-537	lung	Organ
+PMC2375387	163	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	163	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	163	uniprot:UNRESOLVED ID	SCC	Gene_or_gene_product
+PMC2375387	164	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	164	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	164	uniprot:UNRESOLVED ID	SCC	Gene_or_gene_product
+PMC2375387	165	uazid:UA-ORG-537	lung	Organ
+PMC2375387	165	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	165	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	166	uazid:UA-ORG-537	lung	Organ
+PMC2375387	166	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	166	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	167	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	167	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	168	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	168	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	169	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	169	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	171	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	171	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	172	uniprot:Q9P2X3	impact	Gene_or_gene_product
+PMC2375387	172	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	172	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	173	uniprot:UNRESOLVED ID	NSCLC	Gene_or_gene_product
+PMC2375387	173	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	173	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	175	uniprot:UNRESOLVED ID	91 SCC	Gene_or_gene_product
+PMC2375387	180	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	180	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	183	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	183	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	185	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	185	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	185	uniprot:UNRESOLVED ID	IHC	Gene_or_gene_product
+PMC2375387	186	uniprot:UNRESOLVED ID	NSCLC	Gene_or_gene_product
+PMC2375387	187	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	187	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	189	uazid:UA-ORG-537	lung	Organ
+PMC2375387	190	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	190	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	190	uazid:UA-ORG-116	breast	Organ
+PMC2375387	191	uazid:UA-ORG-537	Lung	Organ
+PMC2375387	191	uazid:UA-ORG-116	breast	Organ
+PMC2375387	191	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	191	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	192	uazid:UA-ORG-537	lung	Organ
+PMC2375387	196	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	196	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	197	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	197	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	197	uazid:UA-ORG-537	lung	Organ
+PMC2375387	198	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	198	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	198	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	199	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	201	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	201	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	201	uazid:UA-ORG-116	breast	Organ
+PMC2375387	202	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	202	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	202	uazid:UA-ORG-537	lung	Organ
+PMC2375387	203	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	204	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	204	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	204	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	205	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	205	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	205	uniprot:O42043	surface protein	Gene_or_gene_product
+PMC2375387	206	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	206	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	207	uniprot:UNRESOLVED ID	NSCLC	Gene_or_gene_product
+PMC2375387	209	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	209	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	210	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	210	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	210	uniprot:O42043	surface protein	Gene_or_gene_product
+PMC2375387	210	uazid:UA-ORG-537	lung	Organ
+PMC2375387	211	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	211	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	211	uniprot:UNRESOLVED ID	IHC	Gene_or_gene_product
+PMC2375387	211	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	211	uazid:UA-ORG-537	lung	Organ
+PMC2375387	212	uazid:UA-ORG-116	breast	Organ
+PMC2375387	212	uazid:UA-ORG-537	lung	Organ
+PMC2375387	212	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	212	uniprot:UNRESOLVED ID	IHC	Gene_or_gene_product
+PMC2375387	213	uazid:UA-ORG-116	breast	Organ
+PMC2375387	213	uazid:UA-ORG-537	lung	Organ
+PMC2375387	213	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	213	uniprot:UNRESOLVED ID	IHC	Gene_or_gene_product
+PMC2375387	214	uazid:UA-ORG-537	lung	Organ
+PMC2375387	214	uazid:UA-ORG-116	breast	Organ
+PMC2375387	215	uazid:UA-ORG-537	lung	Organ
+PMC2375387	215	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	215	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	217	uniprot:UNRESOLVED ID	IHC	Gene_or_gene_product
+PMC2375387	217	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	219	uniprot:UNRESOLVED ID	IHC	Gene_or_gene_product
+PMC2375387	219	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	219	uazid:UA-ORG-116	breast	Organ
+PMC2375387	220	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	220	uniprot:UNRESOLVED ID	IHC	Gene_or_gene_product
+PMC2375387	221	uniprot:UNRESOLVED ID	IHC	Gene_or_gene_product
+PMC2375387	221	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	223	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	223	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	223	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	223	uniprot:UNRESOLVED ID	IHC	Gene_or_gene_product
+PMC2375387	224	uazid:UA-ORG-537	lung	Organ
+PMC2375387	226	uniprot:O42043	surface protein	Gene_or_gene_product
+PMC2375387	227	uazid:UA-ORG-116	breast	Organ
+PMC2375387	227	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2375387	227	uniprot:UNRESOLVED ID	trastuzumab	Gene_or_gene_product
+PMC2375387	228	uazid:UA-ORG-537	lung	Organ
+PMC2375387	228	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	228	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	228	uniprot:UNRESOLVED ID	IHC	Gene_or_gene_product
+PMC2375387	228	uniprot:UNRESOLVED ID	trastuzumab	Gene_or_gene_product
+PMC2375387	229	uazid:UA-ORG-537	lung	Organ
+PMC2375387	229	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	229	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	231	uazid:UA-ORG-116	breast	Organ
+PMC2375387	233	uazid:UA-ORG-116	breast	Organ
+PMC2375387	233	uniprot:UNRESOLVED ID	NSCLC	Gene_or_gene_product
+PMC2375387	235	uniprot:UNRESOLVED ID	trastuzumab	Gene_or_gene_product
+PMC2375387	235	uazid:UA-ORG-537	lung	Organ
+PMC2375387	235	uniprot:P04626	HER-2	Gene_or_gene_product
+PMC2375387	235	uniprot:P04626	neu	Gene_or_gene_product
+PMC2375387	237	uniprot:Q9H307	Drs	Gene_or_gene_product
+PMC2375387	237	uazid:UA-ORG-537	lung	Organ

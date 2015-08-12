@@ -1,0 +1,3 @@
+Paper ID	Line Num	Master ID	Dependent ID	Text	Type
+PMC2139800	31	ncbitax:species:ncbi:10116	uazid:UA-ORG-114	brains from 60 mother rats	ContextDirection
+PMC2139800	271	uniprot:Q2G0B1	uniprot:UNRESOLVED ID	l-afadin, E-cadherin, and vinculin in various rat	ContextLocation

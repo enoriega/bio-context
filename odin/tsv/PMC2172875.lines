@@ -1,0 +1,206 @@
+Paper ID	Is title?	Section ID	Passage ID	Line Num	Text
+PMC2172875	true	article-title	0	0	RAF1 activated MEK1 is found on the Golgi apparatus in late prophase and is required for Golgi complex fragmentation in mitosis
+PMC2172875	false	abstract	1	1	Amitotically activated mitogen activated protein kinase 1 ( MEK1 ) fragments the pericentriolar Golgi stacks in mammalian cells .
+PMC2172875	false	abstract	1	2	We show that activated MEK1 is found on the Golgi apparatus in late prophase .
+PMC2172875	false	abstract	1	3	The fragmented and dispersed Golgi membranes in prometaphase and later stages of mitosis do not contain activated MEK1 .
+PMC2172875	false	abstract	1	4	MEK1 dependent Golgi complex fragmentation is through activation by RAF1 and not MEK1 kinase 1 .
+PMC2172875	false	abstract	1	5	We propose that a RAF1 dependent activation of MEK1 and its presence on the Golgi apparatus in late prophase is required for Golgi complex fragmentation .
+PMC2172875	false	sec-1	2	6	Mammalian cells contain ~ 100 stacks of Golgi cisternae organized in a contiguous ribbonlike structure concentrated in the pericentriolar region .
+PMC2172875	false	sec-1	2	7	In mitosis , the Golgi membranes are highly fragmented and dispersed throughout the cell .
+PMC2172875	false	sec-1	2	8	This fragmentation is thought to be necessary for partitioning Golgi membranes between daughter cells during cell division               .
+PMC2172875	false	sec-1	2	9	Evidence in support of this proposal comes from the recent findings that preventing fragmentation and dispersal of the pericentriolar Golgi apparatus prevents mammalian cells from entering mitosis                         .
+PMC2172875	false	sec-1	3	10	We have taken the following approach to identify components involved in the fragmentation of pericentriolar Golgi apparatus .
+PMC2172875	false	sec-1	3	11	Normal rat kidney ( NRK )  cells grown on coverslips are permeabilized with ice-cold digitonin and washed with a buffer containing 1 M KCl to remove cytosolic and loosely attached peripheral membrane proteins .
+PMC2172875	false	sec-1	3	12	The permeabilized and salt washed cells are incubated at 32degreesC for 60 min with cytosol prepared from mitotic NRK cells .
+PMC2172875	false	sec-1	3	13	The organization of Golgi membranes is monitored by fluorescence microscopy using antibodies to Golgi complex specific proteins such as mannosidase II ( ManII ) .
+PMC2172875	false	sec-1	3	14	As a result of this procedure , the Golgi apparatus is fragmented and dispersed in tubulo-reticular membranes throughout the cytoplasm                                             .
+PMC2172875	false	sec-1	3	15	We have previously shown that mitotically activated mitogen activated protein kinase 1 ( MEK1 ) and Polo like kinase 1 are required for Golgi complex fragmentation                                                                     .
+PMC2172875	false	sec-1	3	16	We now report that RAF1 is required to activate MEK1 for Golgi complex fragmentation during mitosis and that mitotically activated MEK1 is found on the Golgi membranes in late prophase .
+PMC2172875	true	sec-3	4	17	RAF1 dependent activation of MEK1 is necessary for Golgi complex fragmentation
+PMC2172875	false	sec-3	5	18	There are at least two different kinases known to activate MEK1 : RAF1 and MEK kinase 1 ( MEKK1 ;                              .
+PMC2172875	false	sec-3	5	19	RAF1 regulates cell proliferation in response to growth factors , cytokines , and hormones                            .
+PMC2172875	false	sec-3	5	20	It is not clear how RAF1 activity is regulated , but a Ras dependent membrane recruitment , phosphorylation on multiple sites , and binding to several proteins ( such as 14-3-3 and heat shock proteins 90 and 50 ) are some of the key factors              .
+PMC2172875	false	sec-3	5	21	The activation of RAF1 during mitosis follows a different and specific mechanism that does not require Ras or binding to membranes , but involves the protein kinase Pak1                                                                   .
+PMC2172875	false	sec-3	6	22	We tested whether RAF1 is required for MEK1 dependent mitosis specific Golgi complex fragmentation .
+PMC2172875	false	sec-3	6	23	There are no known RAF1 specific inhibitors and it is also difficult to deplete RAF1 from mitotic cytosol without using detergents .
+PMC2172875	false	sec-3	6	24	Therefore , we used the following strategy to specifically block RAF1 activation .
+PMC2172875	false	sec-3	6	25	We expressed a GST tagged deletion mutant of RAF1 ( corresponding to amino acids 1-239 ) in Escherichia coli           .
+PMC2172875	false	sec-3	6	26	This peptide corresponds to the autoinhibitory domain of RAF1 and acts as dominant negative inhibitor of RAF1 when expressed in mammalian cells                     .
+PMC2172875	false	sec-3	6	27	Purified recombinant GST-RAF1 / 1-239 ( Raf-239 ) was added to mitotic cytosol for 10 min at 32degreesC with ATP .
+PMC2172875	false	sec-3	6	28	The endogenous RAF1 was immunoprecipitated from this incubation mixture using an antibody against the COOH terminus of RAF1 .
+PMC2172875	false	sec-3	6	29	The immunoprecipitated RAF1 ( on beads ) was incubated with recombinant MEK1 and ATP at 32degreesC .
+PMC2172875	false	sec-3	6	30	The sample was centrifuged to separate MEK1 ( supernatant ) from RAF1 ( beads ) .
+PMC2172875	false	sec-3	6	31	RAF1 is known to phosphorylate MEK1 at serines 218 and 222 and the extent of this double phosphorylation is a reliable indicator of RAF1 activity                      .
+PMC2172875	false	sec-3	6	32	The supernatant containing MEK1 was analyzed by SDS-PAGE followed by Western blotting with an antibody that recognizes MEK1 phosphorylated at serines 218 and 222 ( anti-phospho-MEK [ ppMEK ] antibody ) .
+PMC2172875	false	sec-3	6	33	Incubation of mitotic cytosol with recombinant Raf-239 inhibited RAF1 activation           .
+PMC2172875	false	sec-3	6	34	Quantitation of the Western blot revealed that Raf-239 causes a 75 % inhibition of RAF1 activity toward MEK1                   .
+PMC2172875	false	sec-3	6	35	Similar results were obtained with GST-RAF1 / 1-330 ( Raf-330 ) , which corresponds to the entire regulatory domain of RAF1           .
+PMC2172875	false	sec-3	6	36	For the experiments described below , we used Raf-239 because it was easier to express and purify .
+PMC2172875	false	sec-3	6	37	Raf-239 most likely interferes with the complex network of proteins that regulates RAF1 function titrating out activating components                                          .
+PMC2172875	false	sec-3	6	38	Raf-239 does not titrate out MEK1 because the MEK1 binding sites are located in the COOH-terminal catalytic domain of RAF1                     .
+PMC2172875	false	fig-1	7	39	Raf-239 inhibits endogenous RAF1 activation and Golgi complex fragmentation .
+PMC2172875	false	fig-1	7	40	( A ) A schematic diagram of RAF1 domains .
+PMC2172875	false	fig-1	7	41	Full-length ( FL ) RAF1 is composed of a COOH-terminal catalytic domain ( CD ) and NH2-terminal regulatory domain containing a cysteine rich domain ( C1 ) and a serine and threonine rich-domain ( ST ) .
+PMC2172875	false	fig-1	7	42	( B ) Mitotic cytosol ( 350 mug ) was incubated with buffer alone , 50 mug GST , or 15 mug Raf-239 for 10 min at 32degreesC .
+PMC2172875	false	fig-1	7	43	Endogenous RAF1 was immunoprecipitated with 2 mug anti-RAF1 ( C-12 ) antibody complexed to beads .
+PMC2172875	false	fig-1	7	44	The samples containing immunoprecipitated RAF1 were incubated with 3 mug recombinant MEK1 for 10 min at 32degreesC in the presence of ATP .
+PMC2172875	false	fig-1	7	45	At the end of the incubation , MEK1 was recovered and immunoblotted with anti-ppMEK antibody .
+PMC2172875	false	fig-1	7	46	The quantitation of the results is shown in the lower panel .
+PMC2172875	false	fig-1	7	47	The extent of MEK1 phosphorylation is used as an indication of RAF1 activity .
+PMC2172875	false	fig-1	7	48	Raf-239 inhibits activation of the endogenous RAF1 by 75 % .
+PMC2172875	false	fig-1	7	49	The quantification of the experiment shown in the figure is presented ; similar results have been obtained in four different experiments .
+PMC2172875	false	fig-1	7	50	( C ) Mitotic extract treated with Raf-239 as described above was applied to permeabilized cells .
+PMC2172875	false	fig-1	7	51	The organization of the Golgi membranes was analyzed by fluorescence microscopy using the anti-ManII antibody .
+PMC2172875	false	fig-1	7	52	( D ) Quantitation of the effects of Raf-239 on Golgi complex fragmentation by mitotic cytosol .
+PMC2172875	false	fig-1	7	53	Raf-239 inhibited the mitotic- specific Golgi complex fragmentation .
+PMC2172875	false	fig-1	7	54	The addition of 3 mug of bacterially expressed constitutive active MEK1 ( G1C ) restored Golgi complex fragmentation .
+PMC2172875	false	fig-1	7	55	The data represent the average of seven different experiments .
+PMC2172875	false	sec-3	8	56	We then tested the effect of Raf-239 on the Golgi complex fragmentation induced by mitotic cytosol in permeabilized cells .
+PMC2172875	false	sec-3	8	57	Mitotic cytosol was preincubated for 10 min at 32degreesC in the presence of ATP and Raf-239 and added to permeabilized NRK cells for 60 min .
+PMC2172875	false	sec-3	8	58	Cells were then fixed and analyzed by immunofluorescence microscopy .
+PMC2172875	false	sec-3	8	59	Addition of 15 mug of Raf-239 to the assay inhibited Golgi complex fragmentation in > 70 % of the cells                  .
+PMC2172875	false	sec-3	8	60	Importantly , addition of recombinant constitutively activated MEK1 ( G1C ) alleviated the inhibition of Golgi complex fragmentation induced by Raf-239 .
+PMC2172875	false	sec-3	8	61	Thus , inhibition of Golgi complex fragmentation by Raf-239 is a consequence of specific inhibition of RAF1 dependent MEK1 activation .
+PMC2172875	false	sec-2	9	62	An additional strategy was used to interfere with the RAF1-MEK1 pathway by using RAF1 kinase inhibitory protein ( RKIP ) .
+PMC2172875	false	sec-2	9	63	In the presence of RKIP , RAF1 can not bind MEK1                     .
+PMC2172875	false	sec-2	9	64	RKIP does not inhibit MEKK1 mediated phosphorylation and activation of MEK1                     .
+PMC2172875	false	sec-2	9	65	RAF1 and MEKK1 were immunoisolated from mitotic cytosol using anti-RAF1 and anti-MEKK1 antibodies conjugated to Sepharose beads , respectively .
+PMC2172875	false	sec-2	9	66	The beads containing immunoisolated RAF1 and MEKK1 were incubated with MEK1 , RKIP , and ATP at 32degreesC for 10 min .
+PMC2172875	false	sec-2	9	67	The reaction mixture was centrifuged to separate beads from soluble MEK1 .
+PMC2172875	false	sec-2	9	68	The supernatant containing MEK1 was analyzed by SDS-PAGE and Western blotted with anti-ppMEK antibody .
+PMC2172875	false	sec-2	9	69	Our results show that RKIP inhibited RAF1 mediated phosphorylation of MEK1 , but did not affect MEKK1 mediated phosphorylation of MEK1           .
+PMC2172875	false	sec-2	9	70	This is in agreement with the work of Yeung and colleagues                     .
+PMC2172875	false	sec-2	9	71	Recombinant purified RKIP was incubated with mitotic cytosol and this sample added to the assay reconstituting Golgi complex fragmentation process .
+PMC2172875	false	sec-2	9	72	RKIP strongly inhibited mitotic cytosol dependent Golgi complex fragmentation                  .
+PMC2172875	false	sec-2	9	73	Addition of recombinant constitutively activated MEK1 ( G1C ) significantly restored Golgi complex fragmentation activity of mitotic cytosol containing RKIP .
+PMC2172875	false	sec-2	9	74	The restoration of Golgi complex fragmentation activity was partial because RKIP is required in molar excess concentration to efficiently inhibit RAF1 dependent MEK1 activation                     .
+PMC2172875	false	sec-2	9	75	The addition of higher concentration of G1C , sufficient to fully revert the inhibition , is not feasible in our assay because it dilutes the concentration of mitotic cytosol necessary for Golgi complex fragmentation .
+PMC2172875	false	sec-2	9	76	These results provide strong evidence that RAF1 mediated activation of MEK1 is required for Golgi complex fragmentation by mitotic cytosol .
+PMC2172875	false	sec-2	9	77	We have previously shown that mitotically activated MEK1 is conformationally different from its functional counterpart in interphase cells                       .
+PMC2172875	false	sec-2	9	78	Partial proteolysis of His-MEK1 incubated with mitotic cytosol reveals a 20-kD phosphopeptide , which is not observed upon proteolysis of His-MEK1 incubated with interphase cytosol .
+PMC2172875	false	sec-2	9	79	RAF1 was isolated from mitotic cytosol and incubated with His-MEK1 .
+PMC2172875	false	sec-2	9	80	This preparation of His-MEK1 was subjected to partial proteolysis .
+PMC2172875	false	sec-2	9	81	The resulting proteolytic fragments did not contain the 20-kD phosphopeptide described above ( unpublished data ) .
+PMC2172875	false	sec-2	9	82	Together , these results suggest that RAF1 is required , but is not sufficient for complete mitosis specific activation of MEK1 .
+PMC2172875	false	sec-2	9	83	The identity of additional components required for MEK1 activation in Golgi complex fragmentation is not known .
+PMC2172875	false	fig-2	10	84	RKIP does not block MEKK1 dependent MEK1 activation , but inhibits RAF1 dependent MEK1 activation and Golgi complex fragmentation .
+PMC2172875	false	fig-2	10	85	( A ) RAF1 and MEKK1 were immunoprecipitated from 250 mug mitotic cytosol using 2 mug of C-12 and 43-Y antibodies , respectively .
+PMC2172875	false	fig-2	10	86	The beads were subsequently incubated with 3 mug recombinant MEK1 for 10 min at 32degreesC in the presence of buffer alone , 50 mug BSA , or 15 mug RKIP .
+PMC2172875	false	fig-2	10	87	MEK1 was recovered by centrifugation and immunoblotted with anti-ppMEK antibody .
+PMC2172875	false	fig-2	10	88	Quantitation of the results is shown in the lower panel .
+PMC2172875	false	fig-2	10	89	RKIP inhibits RAF1 dependent MEK1 activation .
+PMC2172875	false	fig-2	10	90	The quantification of the experiment shown in the figure is presented ; similar results have been obtained in three different experiments .
+PMC2172875	false	fig-2	10	91	( B ) Mitotic extract treated with RKIP as described above was added to permeabilized cells .
+PMC2172875	false	fig-2	10	92	The organization of the Golgi membranes was analyzed by fluorescence microscopy using the anti-ManII antibody .
+PMC2172875	false	fig-2	10	93	( C ) Quantification of the effects of RKIP on Golgi complex fragmentation by mitotic cytosol .
+PMC2172875	false	fig-2	10	94	Inhibition of the RAF1 dependent MEK1 activation inhibited the mitotic- specific Golgi complex fragmentation .
+PMC2172875	false	fig-2	10	95	The addition of 3 mug of bacterially expressed constitutive active MEK1 ( G1C ) restored the Golgi complex fragmentation .
+PMC2172875	false	fig-2	10	96	The data represent the average of six different experiments .
+PMC2172875	true	sec-4	11	97	Inhibiting RAF1 activation prevents entry into mitosis
+PMC2172875	false	sec-4	12	98	It has recently been suggested that RAF1 is specifically activated during mitosis                                              .
+PMC2172875	false	sec-4	12	99	However , formal proof that RAF1 is required to enter mitosis is lacking .
+PMC2172875	false	sec-4	12	100	NRK cells were arrested in S-phase with aphidicolin .
+PMC2172875	false	sec-4	12	101	The cells were subsequently washed to remove aphidicolin , 5 h after aphidicolin removal , 400 cells were injected either with Raf-239 or GST .
+PMC2172875	false	sec-4	12	102	2 h after injection , the cells were fixed and visualized by fluorescence microscopy to monitor the organization of DNA and Golgi apparatus .
+PMC2172875	false	sec-4	12	103	The mitotic index of the injected cells was determined relative to that of the noninjected cells in the same coverslip .
+PMC2172875	false	sec-4	12	104	The mitotic index of cells injected with GST was 91 + /- 11 .
+PMC2172875	false	sec-4	12	105	The mitotic index of cells injected with Raf-239 was 41 + /- 8          .
+PMC2172875	false	sec-4	12	106	Thus , injection of Raf-239 inhibited entry into mitosis in > 50 % of cells .
+PMC2172875	false	sec-4	12	107	These results strengthen the proposal that a RAF1-MEK1-mediated process is necessary for entry into mitosis in mammalian cells .
+PMC2172875	false	fig-3	13	108	RAF1 is required for entry into mitosis .
+PMC2172875	false	fig-3	13	109	NRK cells were arrested in S-phase with aphidicolin .
+PMC2172875	false	fig-3	13	110	The cells were washed to remove aphidicolin and injected 5 h later with Raf-239 or GST .
+PMC2172875	false	fig-3	13	111	After an additional incubation for 2 h , the cells were stained with Golgi complex and DNA specific markers .
+PMC2172875	false	fig-3	13	112	400 cells were counted for each experimental condition to calculate the mitotic index .
+PMC2172875	false	fig-3	13	113	The mitotic index is the ratio of the percentage of mitotic cells in the pool of injected of cells compared with noninjected cells on the same coverslip .
+PMC2172875	false	fig-3	13	114	The mitotic index of cells injected with GST was found to be 91 + /- 11 as compared with 41 + /- 8 for the Raf-239-injected cells .
+PMC2172875	false	fig-3	13	115	The data are calculated from 16 independent experiments .
+PMC2172875	true	sec-5	14	116	Activated MEK1 is found on the Golgi membranes during late prophase
+PMC2172875	false	sec-5	15	117	Our previous findings revealed that MEK1 mediated Golgi complex fragmentation was independent of its well-known cytosolic substrates called extracellular signal regulated kinases ( ERKs ;                     ;                      .
+PMC2172875	false	sec-5	15	118	This suggested that MEK1 could directly bind to Golgi membranes and initiate fragmentation via a Golgi complex specific substrate .
+PMC2172875	false	sec-5	15	119	If this is correct , MEK1 should bind to Golgi membranes during the fragmentation process .
+PMC2172875	false	sec-5	15	120	The cellular localization of activated MEK1 during mitosis was examined by staining NRK cells with anti-ppMEK antibody                           .
+PMC2172875	false	sec-5	15	121	The cells were also stained with Hoechst , and antibodies to the Golgi protein beta-COP or Giantin to identify the mitotic stage and reveal the organization of Golgi membranes , respectively .
+PMC2172875	false	sec-5	16	122	Activated MEK1 showed nuclear localization during prophase           .
+PMC2172875	false	sec-5	16	123	This is in agreement with the fact that MEK1 translocates to the nucleus during this mitotic stage                         .
+PMC2172875	false	sec-5	16	124	Interestingly , activated MEK1 was localized to the Golgi apparatus in late prophase           .
+PMC2172875	false	sec-5	16	125	To ensure that the Golgi complex specific staining of ppMEK antibody was due to interaction with activated MEK1 , cells were stained with ppMEK antibody that had been preincubated with either mitotically activated recombinant MEK1 ( phosphorylated MEK1 ) or unphosphorylated recombinant MEK1 .
+PMC2172875	false	sec-5	16	126	Preincubation of ppMEK antibody with mitotically phosphorylated MEK1 abolished the Golgi complex and nuclear staining .
+PMC2172875	false	sec-5	16	127	ppMEK antibody staining on the Golgi apparatus in late prophase , therefore , is due to its binding to the mitotically activated MEK1           .
+PMC2172875	false	sec-5	16	128	The percentage of the beta-COP positive structures that contained mitotically activated MEK1 was 47 + /- 6 % .
+PMC2172875	false	sec-5	16	129	Similar results were obtained in HeLa , NIH , and COS-7 cells ( not depicted ) .
+PMC2172875	false	fig-4	17	130	Activated MEK1 is found on the Golgi apparatus in late prophase .
+PMC2172875	false	fig-4	17	131	NRK cells were blocked in S-phase with aphidicolin .
+PMC2172875	false	fig-4	17	132	The cells were washed to remove aphidicolin .
+PMC2172875	false	fig-4	17	133	7 h after aphidicolin removal , cells were processed for fluorescence microscopy to visualize the Golgi apparatus , activated MEK1 , and DNA with antibodies against beta-COP , ppMEK , and the DNA specific dye Hoechst , respectively .
+PMC2172875	false	fig-4	17	134	( A ) Confocal microscopy image showing that activated-MEK1 is localized to the Golgi apparatus in late prophase ( condensed DNA * ) and not in interphase ( uncondensed DNA ) .
+PMC2172875	false	fig-4	17	135	( B ) Epifluorescence microscopy image showing cells stained with ppMEK antibody that had been preincubated with either mitotically activated MEK ( phosphorylated MEK1 ) or unphosphorylated MEK1 .
+PMC2172875	false	fig-4	17	136	Preincubation of ppMEK antibody with mitotically phosphorylated MEK1 abolished the Golgi complex specific staining of cells in late prophase ( condensed DNA * ) .
+PMC2172875	false	fig-4	17	137	Therefore , ppMEK antibody staining is due to the presence of activated MEK1 on the Golgi apparatus .
+PMC2172875	false	sec-5	18	138	The number of cells with Golgi complex localized activated MEK1 was quantified and the results are shown in        .
+PMC2172875	false	sec-5	18	139	About 83 % of cells in late prophase exhibited Golgi complex specific localization of mitotically activated MEK1 .
+PMC2172875	false	sec-5	18	140	Cells at mitotic stages before or after late prophase did not contain mitotically activated MEK1 on Golgi membranes                       .
+PMC2172875	false	sec-5	18	141	Together , these finding provide strong evidence that mitotically activated MEK1 is present on the Golgi membranes in late prophase .
+PMC2172875	true	fig-3	19	142	Quantitation of cells containing activated MEK1 on Golgi membranes during mitosis
+PMC2172875	false	sec-4	20	143	NRK cells treated as described in        were labeled for activated MEK1 and DNA and imaged by fluorescence microscopy .
+PMC2172875	false	sec-4	20	144	The mitotic stages were defined based on the level of chromosome condensation .
+PMC2172875	false	sec-4	20	145	The number of cells with activated MEK1 on the Golgi complex ( numerator ) and the number of cells counted ( denominator ) are shown .
+PMC2172875	false	sec-4	20	146	83 % of cells in late prophase contain activated MEK1 on Golgi membranes .
+PMC2172875	false	fig-5	21	147	Intracellular distribution of activated MEK1 during mitosis .
+PMC2172875	false	fig-5	21	148	Cells were treated as described in        A and processed for confocal fluorescence microscopy by staining the Golgi apparatus , activated MEK1 , and DNA with antibodies against beta-COP , ppMEK , and the DNA specific dye Hoechst , respectively .
+PMC2172875	false	sec-4	22	149	Activated MEK1 is found attached to astral microtubules in metaphase , polar microtubules in anaphase , and finally in the central spindle microtubules in cells in cytokinesis         .
+PMC2172875	false	sec-4	22	150	Therefore , activated MEK1 interacts with different cellular components to ( most likely ) catalyze different reactions depending on its location .
+PMC2172875	false	sec-6	23	151	The timing of the appearance of activated MEK1 on the Golgi apparatus coincides with the initiation of Golgi complex fragmentation during mitosis .
+PMC2172875	false	sec-6	23	152	One of the components necessary for the activation of MEK1 in the Golgi complex fragmentation process is RAF1 .
+PMC2172875	false	sec-6	23	153	Circumstantial evidence indicates that an ERK like protein may be the downstream target of MEK1 .
+PMC2172875	false	sec-6	23	154	An ERK like protein or a mitotically activated ERK with novel modification has been found on the Golgi membranes                                              .
+PMC2172875	false	sec-6	23	155	It is also reported that ERK2 phosphorylates the Golgi complex associated complex protein GRASP55                     .
+PMC2172875	false	sec-6	23	156	It is conceivable that a RAF1-MEK1-ERK / ERK like pathway induces the phosphorylation of GRASP55 during mitosis and consequently destabilizes the Golgi stacks .
+PMC2172875	false	sec-6	23	157	This reaction , along with reactions catalyzed by Polo like kinase 1 and the cdc2 kinase , may well explain the mechanism of Golgi complex fragmentation during mitosis                                            .
+PMC2172875	false	sec-8	24	158	All biochemical reagents were obtained from the sources described before unless otherwise mentioned                                             .
+PMC2172875	false	sec-8	24	159	The anti-COOH-terminal MEK1 ( C-18 ) , RAF1 ( C-12 ) , and MEKK-1 ( 43-Y ) were purchased from Santa Cruz Biotechnology .
+PMC2172875	false	sec-8	24	160	The ppMEK antibody was purchased from Cell Signaling Technology .
+PMC2172875	false	sec-8	24	161	Constructs for the expression of recombinant His-MEK1 and His-G1C ( constitutively active MEK1 ) were a gift from N. Ahn ( University of Colorado at Boulder , Boulder , CO ) .
+PMC2172875	false	sec-8	24	162	Bacterial expression vectors for Raf-239 and Raf-330 were a gift from S.J. Decker ( University of Michigan , Ann Arbor , MI ) .
+PMC2172875	false	sec-8	24	163	Bacterial expression plasmid for RKIP was a gift from K. Yeung and W. Kolch ( Brown University , Providence , RI ) .
+PMC2172875	true	sec-9	25	164	Preparation of mitotic extract , Raf-239 , and RKIP
+PMC2172875	false	sec-9	26	165	Preparation of cytosol from NRK cells arrested in mitosis and the assay for Golgi complex fragmentation have been described before                       .
+PMC2172875	false	sec-9	26	166	Raf-239 and RKIP were expressed and purified by the published procedure                                            .
+PMC2172875	false	sec-9	26	167	The recombinant proteins were dialyzed against KHM buffer containing 5 % glycerol and stored at -80 degreesC .
+PMC2172875	true	sec-10	27	168	Assay of endogenous RAF activity
+PMC2172875	false	sec-10	28	169	The assay was performed as described previously                       with the following modifications .
+PMC2172875	false	sec-10	28	170	15 mug of Raf-239 RAF1 was added to 350 mug of mitotic cytosol .
+PMC2172875	false	sec-10	28	171	After a 10-min incubation at 32degreesC in the presence of ATP , the endogenous RAF1 was immunoprecipitated from the incubation mixture using 2 mug of anti-RAF1 antibody raised against the COOH terminus of the protein .
+PMC2172875	false	sec-10	28	172	The immunoprecipitated RAF1 ( still on beads ) was then incubated with 3 mug of recombinant MEK1 and ATP at 32degreesC .
+PMC2172875	false	sec-10	28	173	The sample was centrifuged to separate MEK1 ( in the supernatant ) from RAF1 ( on the beads ) .
+PMC2172875	false	sec-10	28	174	The supernatant was analyzed by SDS-PAGE followed by Western blotting with anti-ppMEK antibody .
+PMC2172875	false	sec-10	28	175	The film was scanned and the bands quantitated using the Kodak 1D 3.0 software .
+PMC2172875	true	sec-11	29	176	Assay for MEK1 activation
+PMC2172875	false	sec-11	30	177	RAF1 and MEKK1 were immunoisolated from 250 mug of mitotic cytosol using 2 mug of anti-RAF1 and anti-MEKK1 antibodies conjugated to Sepharose beads .
+PMC2172875	false	sec-11	30	178	The beads containing immunoisolated RAF1 and MEKK1 were incubated as described                       with MEK1 , RKIP , and ATP at 32degreesC for 10 min .
+PMC2172875	false	sec-11	30	179	The reaction was then centrifuged to separate beads from the soluble MEK1 .
+PMC2172875	false	sec-11	30	180	The supernatant containing MEK1 was analyzed by SDS-PAGE and Western blotted with anti-ppMEK antibody and analyzed as reported above .
+PMC2172875	false	sec-12	31	181	Purified GST and Raf-239 were injected into NRK cells by the same procedures as described previously for GRAPS65 related reagents                         .
+PMC2172875	true	sec-13	32	182	Effect of Raf-239 and RKIP on Golgi complex fragmentation
+PMC2172875	false	sec-13	33	183	350 mug of mitotic extract was pretreated with Raf-239 or RKIP ( 15 mug and sample ) and an ATP regeneration system for 10 min at 32degreesC .
+PMC2172875	false	sec-13	33	184	This mixture was added to semi-intact cells and the incubation was performed for 1 h at 32degreesC .
+PMC2172875	false	sec-13	33	185	G1C was used at a final concentration of 3 mug and sample .
+PMC2172875	false	sec-13	33	186	The mixture was incubated for 10 min at 32degreesC in the presence of an ATP regeneration system and then added to semi-intact cells for 60 min at 32degreesC .
+PMC2172875	true	sec-14	34	187	Localization of activated MEK1
+PMC2172875	false	sec-14	35	188	NRK cells were plated and treated as described before                         .
+PMC2172875	false	sec-14	35	189	Cells were fixed with 4 % formaldehyde at 37degreesC and blocked with PBS containing 0.1 % TX-100 and 5 % BSA .
+PMC2172875	false	sec-14	35	190	To reveal the localization of activated MEK1 , cells were incubated for 2 h at room temperature in blocking buffer containing 2 mug and ml of ppMEK1 antibody followed by a 1-h incubation with goat anti-rabbit Alexa-546 ( 1:3,000 dilution ) .
+PMC2172875	false	sec-14	35	191	All the other staining procedures were as described                         .
+PMC2172875	false	sec-14	35	192	Epifluorescence microscopy images were acquired with a Nikon microphot-FXA connected to an Olympus CCD camera .
+PMC2172875	false	sec-14	35	193	Confocal microscope images were captured on a Leika microscope using 488-nm laser excitation for secondary Alexa486 , 568 nm for Alexa546 , and 351 nm for Hoechst dye .
+PMC2172875	false	sec-14	35	194	Images for illustrations were captured with a 60 NA objective .
+PMC2172875	false	sec-14	35	195	Microsoft PowerPoint and Adobe Photoshop 7.0 were used to assemble the figures .
+PMC2172875	false	sec-14	35	196	To calculate the extent of active MEK1 colocalization with beta-COP , five images showing double labeling for active MEK1 and beta-COP were selected , the respective Golgi complex areas were selected and cut using Adobe Photoshop .
+PMC2172875	false	sec-14	35	197	Finally , the NIH Image software ( version 1.62 ) was used to measure the percentage of the beta-COP containing pixels and active MEK1 .
+PMC2172875	false	sec-14	35	198	To evaluate the specificity of ppMEK antibody , immunofluorescence blocking buffer containing 0.2 mug and ml of ppMEK antibody were incubated with a 50-M excess of recombinant MEK1 that had been previously phosphorylated as described above .
+PMC2172875	false	sec-14	35	199	Control sample consisted of ppMEK antibody incubated with nonphosphorylated recombinant MEK1 .
+PMC2172875	false	sec-13	36	200	Members of the Malhotra Lab are thanked for useful discussions .
+PMC2172875	false	sec-13	36	201	Dr. Fred Bard is thanked for help with the confocal microscopy .
+PMC2172875	false	sec-13	36	202	Carolan Buckmaster and Dr. James Feramisco at the University of California , San Diego ( La Jolla , CA ) microinjection facility are thanked for performing all the microinjections .
+PMC2172875	false	sec-12	37	203	Work in the Malhotra Lab is supported by grants from the National Institutes of Health and Human Frontiers Science program .
+PMC2172875	false	sec-12	38	204	Abbreviations used in this paper : ERK , extracellular signal regulated kinase ; ManII , mannosidase II ; MEK1 , mitogen activated protein kinase 1 ; MEKK1 , MEK kinase 1 ; NRK , normal rat kidney ; ppMEK , phospho-MEK ; RKIP , RAF1 kinase inhibitory protein .

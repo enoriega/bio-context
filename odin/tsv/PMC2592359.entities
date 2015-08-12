@@ -1,0 +1,804 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2592359	0	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	3	ncbitax:species:ncbi:9606	human	Species
+PMC2592359	4	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	4	uniprot:Q9HCI5	damage	Gene_or_gene_product
+PMC2592359	5	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	5	uazid:UA-ORG-759	prostate	Organ
+PMC2592359	6	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	6	uniprot:UNRESOLVED ID	interleukin	Gene_or_gene_product
+PMC2592359	6	uniprot:P10145	IL-8	Gene_or_gene_product
+PMC2592359	7	uniprot:UNRESOLVED ID	p53 tumor suppressor protein	Gene_or_gene_product
+PMC2592359	8	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	8	uniprot:UNRESOLVED ID	gain	Gene_or_gene_product
+PMC2592359	10	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	13	ncbitax:species:ncbi:9606	human	Species
+PMC2592359	15	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	16	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	17	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	17	uniprot:P04637	tumor suppressor p53	Gene_or_gene_product
+PMC2592359	18	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	19	uazid:UA-ORG-77	balance	Organ
+PMC2592359	22	ncbitax:species:ncbi:9606	human	Species
+PMC2592359	24	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	25	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	26	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	26	uniprot:P04637	tumor suppressor p53	Gene_or_gene_product
+PMC2592359	27	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	28	uazid:UA-ORG-77	balance	Organ
+PMC2592359	35	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	35	uniprot:P42771	p16INK4a	Gene_or_gene_product
+PMC2592359	35	uniprot:P06400	pRB	Gene_or_gene_product
+PMC2592359	36	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2592359	38	uniprot:Q9HCI5	damage	Gene_or_gene_product
+PMC2592359	39	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	39	uniprot:P42771	p16INK4a	Gene_or_gene_product
+PMC2592359	39	uniprot:P06400	pRB	Gene_or_gene_product
+PMC2592359	41	uniprot:O89094	mice	Species
+PMC2592359	41	ncbitax:species:ncbi:9606	humans	Species
+PMC2592359	42	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	42	uniprot:O89094	mice	Species
+PMC2592359	49	uniprot:O89094	mice	Species
+PMC2592359	49	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	53	ncbitax:species:ncbi:10090	mouse	Species
+PMC2592359	56	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	58	uniprot:UNRESOLVED ID	SASPs	Gene_or_gene_product
+PMC2592359	58	ncbitax:species:ncbi:9606	human	Species
+PMC2592359	58	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	59	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	60	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	60	uniprot:UNRESOLVED ID	interleukin	Gene_or_gene_product
+PMC2592359	60	uniprot:P10145	IL-8	Gene_or_gene_product
+PMC2592359	61	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	61	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	62	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	63	ncbitax:species:ncbi:9606	Human	Species
+PMC2592359	63	uazid:UA-CT-100023	Fibroblasts	CellType
+PMC2592359	64	ncbitax:species:ncbi:9606	human	Species
+PMC2592359	64	uniprot:UNRESOLVED ID	fibroblast	CellType
+PMC2592359	64	uazid:UA-ORG-537	lung	Organ
+PMC2592359	64	uniprot:UNRESOLVED ID	WI-38	Gene_or_gene_product
+PMC2592359	64	uniprot:UNRESOLVED ID	IMR-90	Gene_or_gene_product
+PMC2592359	64	uazid:UA-ORG-337	foreskin	Organ
+PMC2592359	64	uniprot:UNRESOLVED ID	BJ	Gene_or_gene_product
+PMC2592359	64	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2592359	64	uazid:UA-ORG-116	breast	Organ
+PMC2592359	64	uniprot:UNRESOLVED ID	hBF184	Gene_or_gene_product
+PMC2592359	66	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	70	uniprot:UNRESOLVED ID	recombinant proteins	Gene_or_gene_product
+PMC2592359	74	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	74	ncbitax:species:ncbi:9606	Human	Species
+PMC2592359	74	uazid:UA-CT-100023	Fibroblasts	CellType
+PMC2592359	77	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	81	uniprot:O93831	REP	Gene_or_gene_product
+PMC2592359	81	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	81	uniprot:UNRESOLVED ID	serum	CellType
+PMC2592359	81	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2592359	81	uniprot:P10145	IL-8	Gene_or_gene_product
+PMC2592359	81	uniprot:P42771	p16INK4a	Gene_or_gene_product
+PMC2592359	82	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	82	uniprot:O93831	REP	Gene_or_gene_product
+PMC2592359	90	uniprot:O93831	REP	Gene_or_gene_product
+PMC2592359	90	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	92	uniprot:UNRESOLVED ID	WI-38	Gene_or_gene_product
+PMC2592359	92	uniprot:UNRESOLVED ID	IMR90	Gene_or_gene_product
+PMC2592359	92	uniprot:Q8TD91	HCA-2	Gene_or_gene_product
+PMC2592359	93	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	94	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	96	uniprot:UNRESOLVED ID	scale	CellType
+PMC2592359	97	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	98	uniprot:UNRESOLVED ID	SEN CM	Gene_or_gene_product
+PMC2592359	101	uniprot:UNRESOLVED ID	SASPs	Gene_or_gene_product
+PMC2592359	102	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	102	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2592359	102	uniprot:P80075	MCP-2	Gene_or_gene_product
+PMC2592359	103	uniprot:P09341	GRO	Gene_or_gene_product
+PMC2592359	103	uniprot:P14210	HGF	Gene_or_gene_product
+PMC2592359	103	uniprot:UNRESOLVED ID	IGFBPs	Gene_or_gene_product
+PMC2592359	103	uniprot:Q03405	uPAR	Gene_or_gene_product
+PMC2592359	103	uniprot:P01375	TNF	Gene_or_gene_product
+PMC2592359	103	uniprot:UNRESOLVED ID	TNF receptors	Gene_or_gene_product
+PMC2592359	104	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	107	ncbitax:species:ncbi:9606	human	Species
+PMC2592359	108	ncbitax:species:ncbi:9606	human	Species
+PMC2592359	109	ncbitax:species:ncbi:10090	mouse	Species
+PMC2592359	110	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	111	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	112	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2592359	112	uniprot:P10145	IL-8	Gene_or_gene_product
+PMC2592359	113	uniprot:UNRESOLVED ID	serum	CellType
+PMC2592359	113	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	115	uniprot:UNRESOLVED ID	fibroblast	CellType
+PMC2592359	115	uniprot:UNRESOLVED ID	BJ	Gene_or_gene_product
+PMC2592359	115	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2592359	115	uazid:UA-ORG-337	foreskin	Organ
+PMC2592359	115	uniprot:UNRESOLVED ID	IMR90	Gene_or_gene_product
+PMC2592359	115	uniprot:UNRESOLVED ID	Wi-38	Gene_or_gene_product
+PMC2592359	115	uazid:UA-ORG-537	lung	Organ
+PMC2592359	117	ncbitax:species:ncbi:9606	Human	Species
+PMC2592359	118	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	118	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	119	ncbitax:species:ncbi:9606	human	Species
+PMC2592359	119	uazid:UA-ORG-759	prostate	Organ
+PMC2592359	120	uniprot:UNRESOLVED ID	SEN PrECs	Gene_or_gene_product
+PMC2592359	121	uniprot:UNRESOLVED ID	PrECs	Gene_or_gene_product
+PMC2592359	121	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	122	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	123	ncbitax:species:ncbi:9606	human	Species
+PMC2592359	123	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	125	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	126	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2592359	126	uniprot:P10145	IL-8	Gene_or_gene_product
+PMC2592359	126	uniprot:P0CW71	MCP-1	Gene_or_gene_product
+PMC2592359	126	uniprot:P09341	GRO	Gene_or_gene_product
+PMC2592359	126	uniprot:P18065	IGFBP-2	Gene_or_gene_product
+PMC2592359	126	uniprot:O00300	OPG	Gene_or_gene_product
+PMC2592359	126	uniprot:UNRESOLVED ID	sTNF RI	Gene_or_gene_product
+PMC2592359	126	uniprot:Q03405	uPAR	Gene_or_gene_product
+PMC2592359	126	uniprot:P05362	ICAM-1	Gene_or_gene_product
+PMC2592359	127	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	128	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	128	uniprot:Q15848	Acrp30	Gene_or_gene_product
+PMC2592359	128	uniprot:P35070	BTC	Gene_or_gene_product
+PMC2592359	128	uniprot:P24592	IGFBP-6	Gene_or_gene_product
+PMC2592359	128	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	128	uniprot:UNRESOLVED ID	PrECs	Gene_or_gene_product
+PMC2592359	129	uniprot:P01583	IL-1alpha	Gene_or_gene_product
+PMC2592359	129	uniprot:P14210	HGF	Gene_or_gene_product
+PMC2592359	129	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	129	uniprot:UNRESOLVED ID	fibroblast	CellType
+PMC2592359	130	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	131	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	131	ncbitax:species:ncbi:9606	Human	Species
+PMC2592359	133	uazid:UA-ORG-759	prostate	Organ
+PMC2592359	134	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	134	uniprot:UNRESOLVED ID	PrECs	Gene_or_gene_product
+PMC2592359	134	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	134	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	134	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	134	uniprot:UNRESOLVED ID	WI-38	Gene_or_gene_product
+PMC2592359	134	uniprot:UNRESOLVED ID	IMR-90	Gene_or_gene_product
+PMC2592359	134	uniprot:Q8TD91	HCA-2	Gene_or_gene_product
+PMC2592359	139	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	140	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	140	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	140	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	143	uazid:UA-ORG-759	prostate	Organ
+PMC2592359	145	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	145	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	146	uniprot:Q9HCI5	damage	Gene_or_gene_product
+PMC2592359	147	uazid:UA-ORG-759	prostate	Organ
+PMC2592359	147	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	148	uazid:UA-ORG-759	prostate	Organ
+PMC2592359	148	uniprot:P25356	BPH1	Gene_or_gene_product
+PMC2592359	148	uniprot:UNRESOLVED ID	RWPE1	Gene_or_gene_product
+PMC2592359	148	uniprot:P78543	PC3	Gene_or_gene_product
+PMC2592359	151	uazid:UA-ORG-759	prostate	Organ
+PMC2592359	151	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	151	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	152	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	153	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	154	ncbitax:species:ncbi:9606	human	Species
+PMC2592359	155	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	155	uniprot:UNRESOLVED ID	topoisomerase 2beta	Gene_or_gene_product
+PMC2592359	155	uazid:UA-ORG-759	prostate	Organ
+PMC2592359	156	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2592359	156	uniprot:P10145	IL-8	Gene_or_gene_product
+PMC2592359	156	uniprot:O46676	GRO-alpha	Gene_or_gene_product
+PMC2592359	156	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	157	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	158	uazid:UA-ORG-759	prostate	Organ
+PMC2592359	158	uniprot:P25356	BPH-1	Gene_or_gene_product
+PMC2592359	158	uniprot:UNRESOLVED ID	RWPE-1	Gene_or_gene_product
+PMC2592359	158	uniprot:P78543	PC-3	Gene_or_gene_product
+PMC2592359	161	uniprot:A7FNX5	B-E	Gene_or_gene_product
+PMC2592359	161	ncbitax:species:ncbi:9606	Human	Species
+PMC2592359	161	ncbitax:species:ncbi:9606	patient	Species
+PMC2592359	161	uazid:UA-ORG-759	prostate	Organ
+PMC2592359	163	uniprot:UNRESOLVED ID	scale	CellType
+PMC2592359	164	ncbitax:species:ncbi:9606	patient	Species
+PMC2592359	166	uniprot:Q77JX3	p16	Gene_or_gene_product
+PMC2592359	166	uniprot:P38936	p21	Gene_or_gene_product
+PMC2592359	166	uniprot:P12004	cyclin	Gene_or_gene_product
+PMC2592359	166	uniprot:P25205	MCM-3	Gene_or_gene_product
+PMC2592359	166	uniprot:P12004	PCNA	Gene_or_gene_product
+PMC2592359	167	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	167	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2592359	167	uniprot:P10145	IL-8	Gene_or_gene_product
+PMC2592359	167	uniprot:P04141	GM-CSF	Gene_or_gene_product
+PMC2592359	167	uniprot:O46676	GRO-alpha	Gene_or_gene_product
+PMC2592359	167	uniprot:P18065	IGFBP-2	Gene_or_gene_product
+PMC2592359	167	uniprot:P01584	IL-1beta	Gene_or_gene_product
+PMC2592359	168	uniprot:P60568	IL-2	Gene_or_gene_product
+PMC2592359	170	uniprot:UNRESOLVED ID	paired	Gene_or_gene_product
+PMC2592359	172	ncbitax:species:ncbi:9606	human	Species
+PMC2592359	172	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	173	ncbitax:species:ncbi:9606	human	Species
+PMC2592359	173	uazid:UA-ORG-759	prostate	Organ
+PMC2592359	175	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	176	uniprot:P42771	p16INK4a	Gene_or_gene_product
+PMC2592359	176	uniprot:P38936	p21	Gene_or_gene_product
+PMC2592359	177	uniprot:P12004	cyclin	Gene_or_gene_product
+PMC2592359	177	uniprot:P25205	MCM-3	Gene_or_gene_product
+PMC2592359	177	uniprot:P12004	PCNA	Gene_or_gene_product
+PMC2592359	179	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	179	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2592359	179	uniprot:P10145	IL-8	Gene_or_gene_product
+PMC2592359	179	uniprot:P04141	GM-CSF	Gene_or_gene_product
+PMC2592359	179	uniprot:O46676	GRO-alpha	Gene_or_gene_product
+PMC2592359	179	uniprot:P18065	IGFBP-2	Gene_or_gene_product
+PMC2592359	179	uniprot:P01584	IL-1beta	Gene_or_gene_product
+PMC2592359	180	uniprot:P60568	IL-2	Gene_or_gene_product
+PMC2592359	180	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	181	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	181	ncbitax:species:ncbi:9606	human	Species
+PMC2592359	182	uniprot:O75751	EMT	Gene_or_gene_product
+PMC2592359	182	uniprot:P54829	step	Gene_or_gene_product
+PMC2592359	183	uniprot:UNRESOLVED ID	fibroblast	CellType
+PMC2592359	183	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	183	uniprot:O75751	EMT	Gene_or_gene_product
+PMC2592359	183	ncbitax:species:ncbi:9606	human	Species
+PMC2592359	183	uazid:UA-ORG-116	breast	Organ
+PMC2592359	184	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	185	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC2592359	185	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2592359	185	uniprot:P08670	vimentin	Gene_or_gene_product
+PMC2592359	187	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC2592359	187	uniprot:P12830	E-cadherin	Gene_or_gene_product
+PMC2592359	188	uniprot:UNRESOLVED ID	SEN CM	Gene_or_gene_product
+PMC2592359	188	uniprot:O95832	claudin-1	Gene_or_gene_product
+PMC2592359	188	uniprot:O75751	EMT	Gene_or_gene_product
+PMC2592359	189	uniprot:UNRESOLVED ID	SEN CM	Gene_or_gene_product
+PMC2592359	189	uniprot:P08670	vimentin	Gene_or_gene_product
+PMC2592359	189	uniprot:O75751	EMT	Gene_or_gene_product
+PMC2592359	190	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	191	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	193	uniprot:UNRESOLVED ID	pixel2	Gene_or_gene_product
+PMC2592359	197	uniprot:O75751	EMT	Gene_or_gene_product
+PMC2592359	198	uniprot:P08670	vimentin	Gene_or_gene_product
+PMC2592359	198	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	199	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2592359	199	uniprot:P10145	IL-8	Gene_or_gene_product
+PMC2592359	202	uniprot:UNRESOLVED ID	recombinant protein	Gene_or_gene_product
+PMC2592359	204	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	204	uniprot:O75751	EMT	Gene_or_gene_product
+PMC2592359	204	uniprot:UNRESOLVED ID	ZR75.1	Gene_or_gene_product
+PMC2592359	204	uniprot:UNRESOLVED ID	CAMA1	Gene_or_gene_product
+PMC2592359	204	uniprot:UNRESOLVED ID	MDA-MB-231	Gene_or_gene_product
+PMC2592359	204	uniprot:UNRESOLVED ID	MDA-MB-453	Gene_or_gene_product
+PMC2592359	205	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	205	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2592359	205	uniprot:P10145	IL-8	Gene_or_gene_product
+PMC2592359	206	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2592359	206	uniprot:P10145	IL-8	Gene_or_gene_product
+PMC2592359	207	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2592359	207	uniprot:P10145	IL-8	Gene_or_gene_product
+PMC2592359	207	uniprot:UNRESOLVED ID	SEN CM	Gene_or_gene_product
+PMC2592359	208	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	208	uniprot:O75751	EMT	Gene_or_gene_product
+PMC2592359	209	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	210	uniprot:Q9HCI5	damage	Gene_or_gene_product
+PMC2592359	212	uniprot:UNRESOLVED ID	SASPs	Gene_or_gene_product
+PMC2592359	212	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	213	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	214	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	214	uniprot:UNRESOLVED ID	SASPs	Gene_or_gene_product
+PMC2592359	215	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	216	uazid:UA-ORG-537	lung	Organ
+PMC2592359	216	uniprot:Q8TD91	HCA-2	Gene_or_gene_product
+PMC2592359	216	uazid:UA-ORG-337	foreskin	Organ
+PMC2592359	216	uniprot:O93831	REP	Gene_or_gene_product
+PMC2592359	216	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	217	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	217	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	217	uniprot:O93831	REP	Gene_or_gene_product
+PMC2592359	218	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	218	uniprot:UNRESOLVED ID	WI-38	Gene_or_gene_product
+PMC2592359	218	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	218	uniprot:Q8TD91	HCA-2	Gene_or_gene_product
+PMC2592359	219	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	220	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	221	uniprot:UNRESOLVED ID	SEN CM	Gene_or_gene_product
+PMC2592359	222	uniprot:UNRESOLVED ID	WI-38	Gene_or_gene_product
+PMC2592359	222	uniprot:UNRESOLVED ID	IMR-90	Gene_or_gene_product
+PMC2592359	222	uazid:UA-ORG-537	lung	Organ
+PMC2592359	222	uniprot:Q8TD91	HCA-2	Gene_or_gene_product
+PMC2592359	222	uazid:UA-ORG-337	foreskin	Organ
+PMC2592359	227	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	227	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2592359	227	uniprot:P10145	IL-8	Gene_or_gene_product
+PMC2592359	227	uniprot:P42771	p16INK4a	Gene_or_gene_product
+PMC2592359	228	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	228	uazid:UA-ORG-537	lung	Organ
+PMC2592359	228	uniprot:UNRESOLVED ID	WI-38	Gene_or_gene_product
+PMC2592359	228	uniprot:UNRESOLVED ID	IMR-90	Gene_or_gene_product
+PMC2592359	228	uazid:UA-ORG-337	foreskin	Organ
+PMC2592359	228	uniprot:Q8TD91	HCA-2	Gene_or_gene_product
+PMC2592359	230	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	230	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	231	uniprot:Q13123	Red	Gene_or_gene_product
+PMC2592359	231	uniprot:UNRESOLVED ID	SEN WI-38	Gene_or_gene_product
+PMC2592359	231	uniprot:UNRESOLVED ID	IMR-90	Gene_or_gene_product
+PMC2592359	231	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2592359	231	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	232	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2592359	233	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	236	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	237	uazid:UA-ORG-759	prostate	Organ
+PMC2592359	238	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	238	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	239	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	239	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	239	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	240	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	241	uniprot:O93831	REP	Gene_or_gene_product
+PMC2592359	241	uniprot:UNRESOLVED ID	XRA SASPs	Gene_or_gene_product
+PMC2592359	241	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	242	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	243	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	243	uazid:UA-ORG-759	prostate	Organ
+PMC2592359	244	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	245	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	246	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	246	uniprot:Q77JX3	p16	Gene_or_gene_product
+PMC2592359	247	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	247	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	248	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	248	uniprot:UNRESOLVED ID	GSE22	Gene_or_gene_product
+PMC2592359	248	uniprot:P80057	GSE	Gene_or_gene_product
+PMC2592359	249	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	250	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	250	uniprot:O93831	REP	Gene_or_gene_product
+PMC2592359	250	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	250	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	251	uniprot:P42771	p16INK4a	Gene_or_gene_product
+PMC2592359	251	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	253	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	253	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	253	uniprot:O93831	REP	Gene_or_gene_product
+PMC2592359	253	uniprot:UNRESOLVED ID	WI-38	Gene_or_gene_product
+PMC2592359	254	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	254	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	255	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	255	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	257	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	258	uniprot:UNRESOLVED ID	WI-38	Gene_or_gene_product
+PMC2592359	258	uniprot:UNRESOLVED ID	IMR-90	Gene_or_gene_product
+PMC2592359	258	uazid:UA-ORG-537	lung	Organ
+PMC2592359	258	uniprot:Q8TD91	HCA-2	Gene_or_gene_product
+PMC2592359	258	uazid:UA-ORG-337	foreskin	Organ
+PMC2592359	258	uniprot:O93831	REP	Gene_or_gene_product
+PMC2592359	258	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	262	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	262	uniprot:UNRESOLVED ID	GSE22	Gene_or_gene_product
+PMC2592359	267	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	267	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	267	uniprot:UNRESOLVED ID	GSE22	Gene_or_gene_product
+PMC2592359	268	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	268	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	268	uniprot:UNRESOLVED ID	GSE22	Gene_or_gene_product
+PMC2592359	269	uniprot:Q77JX3	p16	Gene_or_gene_product
+PMC2592359	269	uniprot:UNRESOLVED ID	GSE22	Gene_or_gene_product
+PMC2592359	269	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	270	uniprot:P19212	Pink	Gene_or_gene_product
+PMC2592359	270	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2592359	270	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	270	uniprot:UNRESOLVED ID	GSE22 lentivirus	Gene_or_gene_product
+PMC2592359	270	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	271	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	271	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	271	uniprot:UNRESOLVED ID	GSE22	Gene_or_gene_product
+PMC2592359	271	uniprot:O93831	REP	Gene_or_gene_product
+PMC2592359	271	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	272	uniprot:Q13123	Red	Gene_or_gene_product
+PMC2592359	272	uniprot:UNRESOLVED ID	WI-38	Gene_or_gene_product
+PMC2592359	272	uniprot:UNRESOLVED ID	IMR90	Gene_or_gene_product
+PMC2592359	272	uniprot:UNRESOLVED ID	GSE22	Gene_or_gene_product
+PMC2592359	272	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	272	uniprot:O93831	REP	Gene_or_gene_product
+PMC2592359	272	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	273	uniprot:UNRESOLVED ID	WI-38	Gene_or_gene_product
+PMC2592359	273	uniprot:UNRESOLVED ID	IMR-90	Gene_or_gene_product
+PMC2592359	273	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2592359	273	uniprot:UNRESOLVED ID	GSE22	Gene_or_gene_product
+PMC2592359	274	uniprot:UNRESOLVED ID	GSE22	Gene_or_gene_product
+PMC2592359	274	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	274	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2592359	274	uniprot:P10145	IL-8	Gene_or_gene_product
+PMC2592359	274	uniprot:P42771	p16INK4a	Gene_or_gene_product
+PMC2592359	274	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	275	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	275	uniprot:O93831	REP	Gene_or_gene_product
+PMC2592359	275	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	275	uniprot:UNRESOLVED ID	GSE22	Gene_or_gene_product
+PMC2592359	277	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	278	uniprot:UNRESOLVED ID	Ha-RASv12	Gene_or_gene_product
+PMC2592359	279	uniprot:P80057	GSE	Gene_or_gene_product
+PMC2592359	279	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	283	uazid:UA-ORG-759	prostate	Organ
+PMC2592359	283	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	283	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	283	uniprot:P78543	PC3	Gene_or_gene_product
+PMC2592359	283	uniprot:P25356	BPH1	Gene_or_gene_product
+PMC2592359	283	uniprot:UNRESOLVED ID	RWPE1	Gene_or_gene_product
+PMC2592359	283	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	284	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	285	uniprot:P08670	vimentin	Gene_or_gene_product
+PMC2592359	288	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	288	uniprot:P80057	GSE	Gene_or_gene_product
+PMC2592359	290	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	293	uniprot:UNRESOLVED ID	p53 tumor suppressor protein	Gene_or_gene_product
+PMC2592359	294	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	295	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	296	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	297	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	297	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	298	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	298	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	298	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	298	uniprot:O93831	REP	Gene_or_gene_product
+PMC2592359	299	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	299	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	300	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	300	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	301	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	301	uniprot:UNRESOLVED ID	SASPs	Gene_or_gene_product
+PMC2592359	302	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	303	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	303	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	304	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	304	uniprot:UNRESOLVED ID	gain	Gene_or_gene_product
+PMC2592359	304	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	305	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	305	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	306	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	307	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	307	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	308	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	308	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	308	uniprot:P42771	p16INK4a	Gene_or_gene_product
+PMC2592359	308	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2592359	308	uniprot:UNRESOLVED ID	BJ	Gene_or_gene_product
+PMC2592359	308	uniprot:UNRESOLVED ID	WI-38	Gene_or_gene_product
+PMC2592359	308	uniprot:UNRESOLVED ID	shp16	Gene_or_gene_product
+PMC2592359	309	uniprot:O93831	REP	Gene_or_gene_product
+PMC2592359	309	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	309	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	310	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	311	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	312	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	313	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	314	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	314	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	315	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	316	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	317	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	317	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	318	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	318	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	319	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	320	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	320	uniprot:O75751	EMT	Gene_or_gene_product
+PMC2592359	320	ncbitax:species:ncbi:9606	human	Species
+PMC2592359	321	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	321	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	321	uniprot:O75751	EMT	Gene_or_gene_product
+PMC2592359	321	uniprot:P08670	vimentin	Gene_or_gene_product
+PMC2592359	323	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	325	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	326	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	326	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	327	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	327	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	328	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	330	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	331	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	332	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	332	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	332	uazid:UA-ORG-759	prostate	Organ
+PMC2592359	333	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	334	uniprot:UNRESOLVED ID	SASPs	Gene_or_gene_product
+PMC2592359	335	uniprot:UNRESOLVED ID	SASPs	Gene_or_gene_product
+PMC2592359	336	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	337	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	337	ncbitax:species:ncbi:9606	human	Species
+PMC2592359	338	ncbitax:species:ncbi:9606	human	Species
+PMC2592359	338	uniprot:O89094	mice	Species
+PMC2592359	339	ncbitax:species:ncbi:9606	human	Species
+PMC2592359	339	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	341	uniprot:UNRESOLVED ID	SASPs	Gene_or_gene_product
+PMC2592359	342	ncbitax:species:ncbi:9606	human	Species
+PMC2592359	342	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	342	ncbitax:species:ncbi:10090	mouse	Species
+PMC2592359	344	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	344	uniprot:O75751	EMT	Gene_or_gene_product
+PMC2592359	344	uniprot:UNRESOLVED ID	carcinoma	CellType
+PMC2592359	345	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	345	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2592359	345	uniprot:P10145	IL-8	Gene_or_gene_product
+PMC2592359	346	uniprot:O75751	EMT	Gene_or_gene_product
+PMC2592359	346	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2592359	346	uniprot:P10145	IL-8	Gene_or_gene_product
+PMC2592359	346	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	350	uniprot:O89094	mice	Species
+PMC2592359	350	uazid:UA-ORG-406	immune system	Organ
+PMC2592359	351	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2592359	351	uniprot:P10145	IL-8	Gene_or_gene_product
+PMC2592359	351	uniprot:O46676	GRO-alpha	Gene_or_gene_product
+PMC2592359	351	uniprot:P0CW71	MCP-1	Gene_or_gene_product
+PMC2592359	351	uniprot:P04141	GM-CSF	Gene_or_gene_product
+PMC2592359	351	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	356	uniprot:UNRESOLVED ID	SASPs	Gene_or_gene_product
+PMC2592359	361	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	362	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	362	uniprot:Q8IWB1	danger	Gene_or_gene_product
+PMC2592359	363	uniprot:Q9HCI5	damage	Gene_or_gene_product
+PMC2592359	363	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	366	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	366	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	368	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	370	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	372	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	372	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2592359	373	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	373	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	374	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	374	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	375	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	376	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	377	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	377	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	377	uniprot:Q9HCI5	damage	Gene_or_gene_product
+PMC2592359	378	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	378	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	378	uniprot:Q9HCI5	damage	Gene_or_gene_product
+PMC2592359	379	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	379	uniprot:Q9HCI5	damage	Gene_or_gene_product
+PMC2592359	379	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	380	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	381	uniprot:Q9HCI5	damage	Gene_or_gene_product
+PMC2592359	381	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	381	uniprot:UNRESOLVED ID	DDR	Gene_or_gene_product
+PMC2592359	382	uniprot:UNRESOLVED ID	DDR	Gene_or_gene_product
+PMC2592359	382	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	382	uniprot:UNRESOLVED ID	F. Rodier	Gene_or_gene_product
+PMC2592359	382	uniprot:Q6J201	J-P	Gene_or_gene_product
+PMC2592359	384	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	384	uniprot:Q9HCI5	damage	Gene_or_gene_product
+PMC2592359	385	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	385	uniprot:Q9HCI5	damage	Gene_or_gene_product
+PMC2592359	386	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	387	uniprot:P42771	p16INK4a	Gene_or_gene_product
+PMC2592359	387	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	387	uniprot:O93831	REP	Gene_or_gene_product
+PMC2592359	387	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	387	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2592359	387	uniprot:Q9HCI5	damage	Gene_or_gene_product
+PMC2592359	387	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	387	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	388	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	388	uniprot:Q9HCI5	damage	Gene_or_gene_product
+PMC2592359	389	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	390	uniprot:Q8IWB1	danger	Gene_or_gene_product
+PMC2592359	390	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	391	ncbitax:species:ncbi:9606	human	Species
+PMC2592359	391	uniprot:UNRESOLVED ID	DDR	Gene_or_gene_product
+PMC2592359	392	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	393	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	393	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	394	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	395	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	395	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	397	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	397	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	398	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	400	ncbitax:species:ncbi:41568	mum	Species
+PMC2592359	400	ncbitax:species:ncbi:9606	Human	Species
+PMC2592359	400	uniprot:P04040	cat	Species
+PMC2592359	400	ncbitax:species:ncbi:10090	Mouse	Species
+PMC2592359	404	uniprot:D6RGH6	mCi	Gene_or_gene_product
+PMC2592359	407	uniprot:UNRESOLVED ID	Recombinant proteins	Gene_or_gene_product
+PMC2592359	408	uniprot:UNRESOLVED ID	Recombinant proteins	Gene_or_gene_product
+PMC2592359	409	uniprot:UNRESOLVED ID	Ha-RASv12	Gene_or_gene_product
+PMC2592359	409	uniprot:UNRESOLVED ID	TIN215C	Gene_or_gene_product
+PMC2592359	409	uniprot:UNRESOLVED ID	GSE22	Gene_or_gene_product
+PMC2592359	410	ncbitax:species:ncbi:9606	Human	Species
+PMC2592359	411	uazid:UA-ORG-759	prostate	Organ
+PMC2592359	413	ncbitax:species:ncbi:9606	patient	Species
+PMC2592359	413	uazid:UA-ORG-759	prostate	Organ
+PMC2592359	416	uazid:UA-ORG-252	epithelium	Organ
+PMC2592359	416	uniprot:UNRESOLVED ID	hematoxylin	Gene_or_gene_product
+PMC2592359	416	uniprot:UNRESOLVED ID	eosin	Gene_or_gene_product
+PMC2592359	416	uniprot:UNRESOLVED ID	H&E	Gene_or_gene_product
+PMC2592359	417	uniprot:UNRESOLVED ID	Real-time polymerase	Gene_or_gene_product
+PMC2592359	417	uniprot:UNRESOLVED ID	RT-PCR	Gene_or_gene_product
+PMC2592359	420	uniprot:UNRESOLVED ID	fibroblast	CellType
+PMC2592359	420	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	421	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	422	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	423	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	423	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2592359	423	uniprot:P10145	IL-8	Gene_or_gene_product
+PMC2592359	423	uniprot:O46676	GRO-alpha	Gene_or_gene_product
+PMC2592359	423	uniprot:UNRESOLVED ID	KC	Gene_or_gene_product
+PMC2592359	423	uniprot:P21781	FGF-7	Gene_or_gene_product
+PMC2592359	423	uniprot:P21781	KGF	Gene_or_gene_product
+PMC2592359	423	uniprot:O00300	OPG	Gene_or_gene_product
+PMC2592359	424	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2592359	424	uniprot:P10145	IL-8	Gene_or_gene_product
+PMC2592359	424	uniprot:O46676	GRO-alpha	Gene_or_gene_product
+PMC2592359	424	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	424	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	424	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	426	uniprot:Q99988	PDF	Gene_or_gene_product
+PMC2592359	427	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	428	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	429	uniprot:Q77JX3	p16	Gene_or_gene_product
+PMC2592359	429	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	433	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	434	uniprot:Q99988	PDF	Gene_or_gene_product
+PMC2592359	435	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	437	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	437	uniprot:UNRESOLVED ID	p-p53ser15	Gene_or_gene_product
+PMC2592359	438	uniprot:Q99988	PDF	Gene_or_gene_product
+PMC2592359	439	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	439	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	439	uniprot:O93831	REP	Gene_or_gene_product
+PMC2592359	439	ncbitax:species:ncbi:9606	Human	Species
+PMC2592359	439	uazid:UA-CT-100023	Fibroblasts	CellType
+PMC2592359	440	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	440	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	441	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	441	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2592359	441	uniprot:P04141	GM-CSF	Gene_or_gene_product
+PMC2592359	441	uniprot:P05362	ICAM-1	Gene_or_gene_product
+PMC2592359	441	uniprot:O00300	OPG	Gene_or_gene_product
+PMC2592359	441	uniprot:P0CW71	MCP-1	Gene_or_gene_product
+PMC2592359	441	uniprot:P41159	leptin	Gene_or_gene_product
+PMC2592359	442	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	442	uniprot:P80098	MCP-3	Gene_or_gene_product
+PMC2592359	442	uniprot:UNRESOLVED ID	RANTES	Gene_or_gene_product
+PMC2592359	442	uniprot:P42830	ENA-78	Gene_or_gene_product
+PMC2592359	442	uniprot:P01127	PDGF-B	Gene_or_gene_product
+PMC2592359	442	uniprot:P17936	IGFBP-3	Gene_or_gene_product
+PMC2592359	442	uniprot:P51671	eotaxin	Gene_or_gene_product
+PMC2592359	442	uniprot:P80162	GCP-2	Gene_or_gene_product
+PMC2592359	442	uniprot:P15514	AREG	Gene_or_gene_product
+PMC2592359	445	uniprot:UNRESOLVED ID	WI-38	Gene_or_gene_product
+PMC2592359	445	uniprot:UNRESOLVED ID	IMR-90	Gene_or_gene_product
+PMC2592359	445	uniprot:Q8TD91	HCA-2	Gene_or_gene_product
+PMC2592359	446	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	447	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	448	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	448	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	448	uniprot:O93831	REP	Gene_or_gene_product
+PMC2592359	452	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	453	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	455	uniprot:Q99988	PDF	Gene_or_gene_product
+PMC2592359	456	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	456	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	457	uniprot:UNRESOLVED ID	WI-38	Gene_or_gene_product
+PMC2592359	457	uniprot:UNRESOLVED ID	IMR90	Gene_or_gene_product
+PMC2592359	459	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	460	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	461	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	461	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	461	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	461	uniprot:O93831	REP	Gene_or_gene_product
+PMC2592359	461	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	462	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	462	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	463	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	463	uniprot:P80057	GSE	Gene_or_gene_product
+PMC2592359	467	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	467	uniprot:P80057	GSE	Gene_or_gene_product
+PMC2592359	468	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	470	uniprot:Q2M3R5	post	Gene_or_gene_product
+PMC2592359	470	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	470	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	471	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	471	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2592359	472	uniprot:Q99988	PDF	Gene_or_gene_product
+PMC2592359	473	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	474	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	474	uniprot:O93831	REP	Gene_or_gene_product
+PMC2592359	474	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	476	uniprot:Q77JX3	p16	Gene_or_gene_product
+PMC2592359	476	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	476	uniprot:P80057	GSE	Gene_or_gene_product
+PMC2592359	477	uniprot:Q77JX3	p16	Gene_or_gene_product
+PMC2592359	477	uniprot:UNRESOLVED ID	shp16	Gene_or_gene_product
+PMC2592359	477	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2592359	478	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	478	uniprot:Q77JX3	p16	Gene_or_gene_product
+PMC2592359	478	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	479	uniprot:Q99988	PDF	Gene_or_gene_product
+PMC2592359	480	ncbitax:species:ncbi:9606	Human	Species
+PMC2592359	480	uazid:UA-CT-100023	Fibroblasts	CellType
+PMC2592359	480	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	480	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	480	uniprot:O93831	REP	Gene_or_gene_product
+PMC2592359	480	uniprot:UNRESOLVED ID	Part 1	Gene_or_gene_product
+PMC2592359	482	ncbitax:species:ncbi:9606	Human	Species
+PMC2592359	482	uazid:UA-CT-100023	Fibroblasts	CellType
+PMC2592359	482	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	482	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	482	uniprot:O93831	REP	Gene_or_gene_product
+PMC2592359	482	uniprot:UNRESOLVED ID	Part 2	Gene_or_gene_product
+PMC2592359	483	uniprot:UNRESOLVED ID	28 KB XLS	Gene_or_gene_product
+PMC2592359	484	ncbitax:species:ncbi:9606	Human	Species
+PMC2592359	484	uazid:UA-CT-100023	Fibroblasts	CellType
+PMC2592359	484	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	484	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	484	uniprot:O93831	REP	Gene_or_gene_product
+PMC2592359	484	uniprot:UNRESOLVED ID	Part 3	Gene_or_gene_product
+PMC2592359	485	uniprot:UNRESOLVED ID	142 KB XLS	Gene_or_gene_product
+PMC2592359	486	ncbitax:species:ncbi:9606	Human	Species
+PMC2592359	486	uazid:UA-CT-100023	Fibroblasts	CellType
+PMC2592359	486	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	486	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2592359	486	uniprot:O93831	REP	Gene_or_gene_product
+PMC2592359	486	uniprot:UNRESOLVED ID	Part 4	Gene_or_gene_product
+PMC2592359	487	uniprot:UNRESOLVED ID	162 KB XLS	Gene_or_gene_product
+PMC2592359	488	ncbitax:species:ncbi:9606	Human	Species
+PMC2592359	488	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	488	uniprot:UNRESOLVED ID	Part 1	Gene_or_gene_product
+PMC2592359	490	ncbitax:species:ncbi:9606	Human	Species
+PMC2592359	490	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	490	uniprot:UNRESOLVED ID	Part 2	Gene_or_gene_product
+PMC2592359	491	uniprot:UNRESOLVED ID	39 KB XLS	Gene_or_gene_product
+PMC2592359	492	ncbitax:species:ncbi:9606	Human	Species
+PMC2592359	492	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	492	uniprot:UNRESOLVED ID	Part 3	Gene_or_gene_product
+PMC2592359	493	uniprot:UNRESOLVED ID	78 KB XLS	Gene_or_gene_product
+PMC2592359	494	ncbitax:species:ncbi:9606	Human	Species
+PMC2592359	494	uniprot:UNRESOLVED ID	SEN	Gene_or_gene_product
+PMC2592359	494	uniprot:UNRESOLVED ID	Part 4	Gene_or_gene_product
+PMC2592359	495	uniprot:UNRESOLVED ID	159 KB XLS	Gene_or_gene_product
+PMC2592359	496	uniprot:UNRESOLVED ID	Part 1	Gene_or_gene_product
+PMC2592359	498	uniprot:UNRESOLVED ID	Part 2	Gene_or_gene_product
+PMC2592359	499	uniprot:UNRESOLVED ID	19 KB XLS	Gene_or_gene_product
+PMC2592359	500	uniprot:UNRESOLVED ID	Part 3	Gene_or_gene_product
+PMC2592359	501	uniprot:UNRESOLVED ID	90 KB XLS	Gene_or_gene_product
+PMC2592359	502	uniprot:UNRESOLVED ID	Part 4	Gene_or_gene_product
+PMC2592359	503	uniprot:UNRESOLVED ID	61 KB XLS	Gene_or_gene_product
+PMC2592359	504	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	504	uniprot:UNRESOLVED ID	Part 1	Gene_or_gene_product
+PMC2592359	506	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	506	uniprot:UNRESOLVED ID	Part 2	Gene_or_gene_product
+PMC2592359	507	uniprot:UNRESOLVED ID	25 KB XLS	Gene_or_gene_product
+PMC2592359	508	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	508	uniprot:UNRESOLVED ID	Part 3	Gene_or_gene_product
+PMC2592359	509	uniprot:UNRESOLVED ID	133 KB XLS	Gene_or_gene_product
+PMC2592359	510	uniprot:P04637	p53	Gene_or_gene_product
+PMC2592359	510	uniprot:UNRESOLVED ID	Part 4	Gene_or_gene_product
+PMC2592359	511	uniprot:UNRESOLVED ID	81 KB XLS	Gene_or_gene_product
+PMC2592359	512	uniprot:P16278	beta-galactosidase	Gene_or_gene_product
+PMC2592359	512	ncbitax:species:ncbi:9606	human	Species
+PMC2592359	512	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2592359	512	uazid:UA-ORG-759	prostate	Organ
+PMC2592359	514	uniprot:P22304	IDs	Gene_or_gene_product
+PMC2592359	515	uniprot:UNRESOLVED ID	61 KB XLS	Gene_or_gene_product
+PMC2592359	519	uniprot:Q9HCI5	damage	Gene_or_gene_product
+PMC2592359	520	uniprot:UNRESOLVED ID	interleukin	Gene_or_gene_product
+PMC2592359	522	ncbitax:species:ncbi:9606	human	Species
+PMC2592359	522	uazid:UA-ORG-759	prostate	Organ
+PMC2592359	523	uniprot:UNRESOLVED ID	hairpin RNA	Gene_or_gene_product
+PMC2592359	525	uniprot:UNRESOLVED ID	JPC	Gene_or_gene_product
+PMC2592359	525	uniprot:UNRESOLVED ID	CKP	Gene_or_gene_product
+PMC2592359	526	uniprot:UNRESOLVED ID	JPC	Gene_or_gene_product
+PMC2592359	526	uniprot:P30043	FR	Gene_or_gene_product
+PMC2592359	527	uniprot:UNRESOLVED ID	JPC	Gene_or_gene_product
+PMC2592359	527	uniprot:P30431	JG	Gene_or_gene_product
+PMC2592359	527	uniprot:UNRESOLVED ID	PYD	Gene_or_gene_product
+PMC2592359	528	uniprot:UNRESOLVED ID	JPC	Gene_or_gene_product
+PMC2592359	528	uniprot:P30431	JG	Gene_or_gene_product
+PMC2592359	528	uniprot:UNRESOLVED ID	CKP	Gene_or_gene_product
+PMC2592359	528	uniprot:P30043	FR	Gene_or_gene_product
+PMC2592359	528	uniprot:UNRESOLVED ID	PYD	Gene_or_gene_product
+PMC2592359	530	uniprot:UNRESOLVED ID	JC	Gene_or_gene_product
+PMC2592359	530	uniprot:UNRESOLVED ID	CA126540	Gene_or_gene_product
+PMC2592359	530	uniprot:P30431	JG	Gene_or_gene_product
+PMC2592359	530	uniprot:UNRESOLVED ID	CKP	Gene_or_gene_product
+PMC2592359	530	uazid:UA-ORG-759	Prostate	Organ
+PMC2592359	530	uniprot:UNRESOLVED ID	SPORE	CellType

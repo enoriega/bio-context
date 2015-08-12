@@ -1,0 +1,629 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC3155019	0	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	0	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	0	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	1	uniprot:UNRESOLVED ID	Phosphoinositide 3-kinase delta	Gene_or_gene_product
+PMC3155019	2	uniprot:O43439	p85	Gene_or_gene_product
+PMC3155019	2	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	3	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	3	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	4	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	4	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	4	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	4	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	5	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	5	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3155019	5	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	5	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	6	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC3155019	7	uniprot:UNRESOLVED ID	FRET	Gene_or_gene_product
+PMC3155019	9	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	9	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	9	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	9	uniprot:O43439	p85	Gene_or_gene_product
+PMC3155019	9	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3155019	9	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	10	uniprot:UNRESOLVED ID	Phosphoinositide 3-kinases	Gene_or_gene_product
+PMC3155019	10	uniprot:UNRESOLVED ID	PI3Ks	Gene_or_gene_product
+PMC3155019	11	uniprot:UNRESOLVED ID	phosphoinositide binding proteins	Gene_or_gene_product
+PMC3155019	12	uniprot:O00329	PI3Kdelta	Gene_or_gene_product
+PMC3155019	12	uniprot:UNRESOLVED ID	CAL-101	Gene_or_gene_product
+PMC3155019	12	uniprot:UNRESOLVED ID	leukemia	CellType
+PMC3155019	14	uniprot:UNRESOLVED ID	class IA PI3Ks	Gene_or_gene_product
+PMC3155019	14	uniprot:UNRESOLVED ID	p110 catalytic subunit	Gene_or_gene_product
+PMC3155019	14	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	14	uniprot:UNRESOLVED ID	p85-type regulatory subunit	Gene_or_gene_product
+PMC3155019	14	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	14	uniprot:UNRESOLVED ID	p55alpha	Gene_or_gene_product
+PMC3155019	14	uniprot:UNRESOLVED ID	p50alpha	Gene_or_gene_product
+PMC3155019	14	uniprot:UNRESOLVED ID	p85beta	Gene_or_gene_product
+PMC3155019	14	uniprot:UNRESOLVED ID	p55gamma	Gene_or_gene_product
+PMC3155019	14	uniprot:P09131	P3	Gene_or_gene_product
+PMC3155019	15	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	15	ncbitax:species:ncbi:9606	human	Species
+PMC3155019	15	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3155019	16	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	17	uniprot:UNRESOLVED ID	class IA catalytic subunits	Gene_or_gene_product
+PMC3155019	17	uniprot:UNRESOLVED ID	p110 subunits	Gene_or_gene_product
+PMC3155019	18	uniprot:UNRESOLVED ID	PI3Ks	Gene_or_gene_product
+PMC3155019	18	uniprot:O43439	p85	Gene_or_gene_product
+PMC3155019	19	uniprot:UNRESOLVED ID	p110 subunits	Gene_or_gene_product
+PMC3155019	19	uniprot:UNRESOLVED ID	ABD	Gene_or_gene_product
+PMC3155019	20	uniprot:O43439	p85	Gene_or_gene_product
+PMC3155019	20	uniprot:P11274	BCR	Gene_or_gene_product
+PMC3155019	20	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	20	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	20	uniprot:UNRESOLVED ID	inter-SH2 domain	Gene_or_gene_product
+PMC3155019	20	uniprot:UNRESOLVED ID	iSH2	Gene_or_gene_product
+PMC3155019	21	uniprot:UNRESOLVED ID	iSH2 domain	Gene_or_gene_product
+PMC3155019	22	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3155019	22	uniprot:UNRESOLVED ID	RTKs	Gene_or_gene_product
+PMC3155019	23	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	23	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	23	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	25	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	26	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	26	uniprot:O43439	p85	Gene_or_gene_product
+PMC3155019	27	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3155019	28	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	28	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	28	uniprot:UNRESOLVED ID	niSH2	Gene_or_gene_product
+PMC3155019	28	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	29	uniprot:UNRESOLVED ID	nSH2 domain	Gene_or_gene_product
+PMC3155019	30	uniprot:P14907	p110	Gene_or_gene_product
+PMC3155019	30	uniprot:UNRESOLVED ID	p85alpha subunits	Gene_or_gene_product
+PMC3155019	30	uniprot:UNRESOLVED ID	iSH2 domain	Gene_or_gene_product
+PMC3155019	30	uniprot:O43439	p85	Gene_or_gene_product
+PMC3155019	30	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	30	uniprot:UNRESOLVED ID	nSH2 domain	Gene_or_gene_product
+PMC3155019	31	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	31	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	31	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	32	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	32	uniprot:O43557	light	Gene_or_gene_product
+PMC3155019	32	uniprot:O43439	p85	Gene_or_gene_product
+PMC3155019	33	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	33	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	36	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	36	uniprot:UNRESOLVED ID	iSH2	Gene_or_gene_product
+PMC3155019	36	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	36	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	37	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	37	uniprot:O43439	p85	Gene_or_gene_product
+PMC3155019	37	uniprot:UNRESOLVED ID	nicSH2	Gene_or_gene_product
+PMC3155019	38	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	38	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	38	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	39	uniprot:O43439	p85	Gene_or_gene_product
+PMC3155019	39	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	39	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	40	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3155019	40	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	41	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	41	uniprot:O43439	p85	Gene_or_gene_product
+PMC3155019	41	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	42	uniprot:UNRESOLVED ID	FRET	Gene_or_gene_product
+PMC3155019	42	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	42	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	44	uniprot:UNRESOLVED ID	iSH2	Gene_or_gene_product
+PMC3155019	45	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	45	uniprot:UNRESOLVED ID	p85alpha Plays	Gene_or_gene_product
+PMC3155019	45	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	46	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	46	uniprot:O43439	p85	Gene_or_gene_product
+PMC3155019	46	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	47	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	47	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	48	uniprot:P48147	PE	Gene_or_gene_product
+PMC3155019	48	uniprot:O00592	PC	Gene_or_gene_product
+PMC3155019	49	uniprot:UNRESOLVED ID	p85alpha regulatory subunit	Gene_or_gene_product
+PMC3155019	49	uniprot:UNRESOLVED ID	iSH2	Gene_or_gene_product
+PMC3155019	49	uniprot:UNRESOLVED ID	iSH2 domain	Gene_or_gene_product
+PMC3155019	49	uniprot:UNRESOLVED ID	niSH2	Gene_or_gene_product
+PMC3155019	49	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	49	uniprot:UNRESOLVED ID	iSH2 domains	Gene_or_gene_product
+PMC3155019	49	uniprot:UNRESOLVED ID	nicSH2	Gene_or_gene_product
+PMC3155019	49	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	50	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	51	uniprot:UNRESOLVED ID	DeltaABD-p110delta construct	Gene_or_gene_product
+PMC3155019	51	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	52	uniprot:UNRESOLVED ID	p110delta+iSH2	Gene_or_gene_product
+PMC3155019	53	uniprot:UNRESOLVED ID	iSH2 domain	Gene_or_gene_product
+PMC3155019	53	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3155019	53	uniprot:UNRESOLVED ID	p110delta+iSH2 complex	Gene_or_gene_product
+PMC3155019	54	uniprot:UNRESOLVED ID	p110delta+niSH2 complex	Gene_or_gene_product
+PMC3155019	54	uniprot:UNRESOLVED ID	p110delta+iSH2	Gene_or_gene_product
+PMC3155019	55	uniprot:UNRESOLVED ID	p110delta+nicSH2 complex	Gene_or_gene_product
+PMC3155019	55	uniprot:UNRESOLVED ID	p110delta+iSH2	Gene_or_gene_product
+PMC3155019	55	uniprot:UNRESOLVED ID	p110delta+niSH2 complex	Gene_or_gene_product
+PMC3155019	56	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	56	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	56	uniprot:UNRESOLVED ID	nicSH2 construct	Gene_or_gene_product
+PMC3155019	56	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	56	uniprot:UNRESOLVED ID	niSH2	Gene_or_gene_product
+PMC3155019	56	uniprot:P35568	IRS-1	Gene_or_gene_product
+PMC3155019	56	uniprot:O43439	p85	Gene_or_gene_product
+PMC3155019	57	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	57	uniprot:UNRESOLVED ID	pY740	Gene_or_gene_product
+PMC3155019	57	uniprot:UNRESOLVED ID	pY751	Gene_or_gene_product
+PMC3155019	57	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	57	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	58	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	58	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	58	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	58	uniprot:UNRESOLVED ID	p110delta+iSH2	Gene_or_gene_product
+PMC3155019	59	uniprot:UNRESOLVED ID	nicSH2	Gene_or_gene_product
+PMC3155019	59	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	61	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	61	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	62	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	62	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	62	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	63	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	63	uniprot:UNRESOLVED ID	p85alpha Constructs	Gene_or_gene_product
+PMC3155019	63	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	64	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	64	uniprot:UNRESOLVED ID	p85alpha nicSH2 regulatory subunit	Gene_or_gene_product
+PMC3155019	65	uniprot:UNRESOLVED ID	p110delta+p85alpha nicSH2	Gene_or_gene_product
+PMC3155019	65	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	65	uniprot:UNRESOLVED ID	p110delta+p85alpha iSH2	Gene_or_gene_product
+PMC3155019	65	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	66	uniprot:UNRESOLVED ID	p85alpha constructs	Gene_or_gene_product
+PMC3155019	66	uniprot:O43439	p85	Gene_or_gene_product
+PMC3155019	66	uniprot:P14907	p110	Gene_or_gene_product
+PMC3155019	67	uniprot:P14907	p110	Gene_or_gene_product
+PMC3155019	67	uniprot:O43439	p85	Gene_or_gene_product
+PMC3155019	68	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	69	uniprot:UNRESOLVED ID	p85alpha nicSH2	Gene_or_gene_product
+PMC3155019	69	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	69	uniprot:UNRESOLVED ID	PDGFR-pY	Gene_or_gene_product
+PMC3155019	70	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	70	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	71	uniprot:UNRESOLVED ID	p85alpha nicSH2	Gene_or_gene_product
+PMC3155019	71	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	71	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	71	uniprot:UNRESOLVED ID	iSH2	Gene_or_gene_product
+PMC3155019	71	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	71	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	72	uniprot:UNRESOLVED ID	p85alpha constructs	Gene_or_gene_product
+PMC3155019	72	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	75	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	75	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	75	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	77	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	77	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	77	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	78	uniprot:UNRESOLVED ID	p85alpha peptides	Gene_or_gene_product
+PMC3155019	78	uniprot:UNRESOLVED ID	iSH2	Gene_or_gene_product
+PMC3155019	78	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	78	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	79	uniprot:UNRESOLVED ID	p110delta+iSH2 complex	Gene_or_gene_product
+PMC3155019	79	uniprot:UNRESOLVED ID	p110delta+nicSH2	Gene_or_gene_product
+PMC3155019	80	uniprot:UNRESOLVED ID	iSH2	Gene_or_gene_product
+PMC3155019	80	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	80	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	81	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	81	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	82	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	82	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	82	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	83	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	84	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	84	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	85	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	85	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	86	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	86	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	86	uniprot:P14907	p110	Gene_or_gene_product
+PMC3155019	86	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	87	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	87	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	87	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	88	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	88	uniprot:O43439	p85	Gene_or_gene_product
+PMC3155019	88	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	89	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	89	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	90	uniprot:UNRESOLVED ID	p110delta+iSH2	Gene_or_gene_product
+PMC3155019	90	uniprot:UNRESOLVED ID	p110delta+nicSH2 complex	Gene_or_gene_product
+PMC3155019	90	uniprot:UNRESOLVED ID	iSH2 domain	Gene_or_gene_product
+PMC3155019	90	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	90	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	91	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	91	uniprot:UNRESOLVED ID	p110delta+iSH2 complex	Gene_or_gene_product
+PMC3155019	92	uniprot:UNRESOLVED ID	ABD deletion	Gene_or_gene_product
+PMC3155019	93	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	93	uniprot:UNRESOLVED ID	iSH2 domain	Gene_or_gene_product
+PMC3155019	93	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	93	uniprot:UNRESOLVED ID	iSH2	Gene_or_gene_product
+PMC3155019	95	uniprot:UNRESOLVED ID	nicSH2	Gene_or_gene_product
+PMC3155019	95	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	96	uniprot:UNRESOLVED ID	p110delta+nicSH2 complex	Gene_or_gene_product
+PMC3155019	96	uniprot:UNRESOLVED ID	p110delta+iSH2 complex	Gene_or_gene_product
+PMC3155019	98	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	98	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	99	uniprot:UNRESOLVED ID	p110delta+nicSH2 complex	Gene_or_gene_product
+PMC3155019	99	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	100	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	100	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	100	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	101	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	101	uniprot:UNRESOLVED ID	p110delta+niSH2	Gene_or_gene_product
+PMC3155019	101	uniprot:UNRESOLVED ID	p110delta+iSH2	Gene_or_gene_product
+PMC3155019	101	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	102	uniprot:UNRESOLVED ID	nicSH2	Gene_or_gene_product
+PMC3155019	102	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	103	uniprot:UNRESOLVED ID	p110delta+nicSH2 complex	Gene_or_gene_product
+PMC3155019	103	uniprot:UNRESOLVED ID	p110delta+iSH2 complex	Gene_or_gene_product
+PMC3155019	104	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	104	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	104	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	107	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	108	uazid:UA-ORG-237	elbow	Organ
+PMC3155019	108	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3155019	108	uniprot:Q8NEB9	Vps34	Gene_or_gene_product
+PMC3155019	109	uniprot:Q8NEB9	Vps34	Gene_or_gene_product
+PMC3155019	109	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	109	uniprot:UNRESOLVED ID	p85alpha nicSH2	Gene_or_gene_product
+PMC3155019	110	uniprot:UNRESOLVED ID	p110delta lipid kinase	Gene_or_gene_product
+PMC3155019	111	uniprot:UNRESOLVED ID	nicSH2	Gene_or_gene_product
+PMC3155019	112	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	113	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	113	uniprot:UNRESOLVED ID	p110delta+nicSH2	Gene_or_gene_product
+PMC3155019	113	uniprot:UNRESOLVED ID	p110delta+iSH2 complex	Gene_or_gene_product
+PMC3155019	114	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	114	uniprot:UNRESOLVED ID	p110delta+nicSH2 complex	Gene_or_gene_product
+PMC3155019	114	uniprot:UNRESOLVED ID	p110delta+iSH2 complex	Gene_or_gene_product
+PMC3155019	115	uniprot:UNRESOLVED ID	p110delta+nicSH2	Gene_or_gene_product
+PMC3155019	116	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	117	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	117	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	117	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	118	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3155019	118	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	118	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	118	uniprot:Q8NEB9	Vps34	Gene_or_gene_product
+PMC3155019	119	uniprot:P48147	PE	Gene_or_gene_product
+PMC3155019	119	uniprot:O00592	PC	Gene_or_gene_product
+PMC3155019	120	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	120	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	120	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	121	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	121	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	121	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	122	uniprot:O43439	p85	Gene_or_gene_product
+PMC3155019	122	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	122	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	122	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	123	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	124	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	124	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	124	uniprot:UNRESOLVED ID	p85alpha construct	Gene_or_gene_product
+PMC3155019	125	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	125	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	125	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	125	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3155019	126	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3155019	127	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	127	uniprot:UNRESOLVED ID	p110delta+nicSH2	Gene_or_gene_product
+PMC3155019	129	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	129	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	131	uniprot:UNRESOLVED ID	DFG motif	Gene_or_gene_product
+PMC3155019	134	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	134	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	134	uniprot:UNRESOLVED ID	nSH2 domain	Gene_or_gene_product
+PMC3155019	135	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	135	uniprot:UNRESOLVED ID	tail	CellType
+PMC3155019	135	uniprot:UNRESOLVED ID	class III PI3Ks	Gene_or_gene_product
+PMC3155019	136	uniprot:UNRESOLVED ID	nicSH2	Gene_or_gene_product
+PMC3155019	136	uniprot:O43439	p85	Gene_or_gene_product
+PMC3155019	136	uniprot:P14907	p110	Gene_or_gene_product
+PMC3155019	138	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	138	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	139	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	140	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	140	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	140	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	143	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	143	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	144	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	144	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	145	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	145	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	145	uniprot:UNRESOLVED ID	nicSH2	Gene_or_gene_product
+PMC3155019	146	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	147	uniprot:UNRESOLVED ID	p110delta+nicSH2 Y685A mutant complex	Gene_or_gene_product
+PMC3155019	147	uniprot:UNRESOLVED ID	p110delta+niSH2 complex	Gene_or_gene_product
+PMC3155019	148	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	148	uniprot:UNRESOLVED ID	niSH2	Gene_or_gene_product
+PMC3155019	148	uniprot:UNRESOLVED ID	nicSH2	Gene_or_gene_product
+PMC3155019	149	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	149	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	149	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	149	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	150	uniprot:UNRESOLVED ID	engineered oncogenic K379E mutation	Gene_or_gene_product
+PMC3155019	150	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	150	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	151	uniprot:UNRESOLVED ID	Enzyme	Gene_or_gene_product
+PMC3155019	151	N/A	p85	Gene_or_gene_product
+PMC3155019	151	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	153	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	153	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	153	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	154	N/A	nSH2 mutation	Gene_or_gene_product
+PMC3155019	154	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	154	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	154	uazid:UA-ORG-237	elbow	Organ
+PMC3155019	155	uazid:UA-ORG-237	elbow	Organ
+PMC3155019	155	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	156	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	156	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	156	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	157	uniprot:O43439	p85	Gene_or_gene_product
+PMC3155019	157	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	157	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	158	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	158	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	159	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	159	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	159	uniprot:UNRESOLVED ID	p85alpha oncogenic mutation L449S	Gene_or_gene_product
+PMC3155019	159	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	160	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3155019	160	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3155019	160	uniprot:UNRESOLVED ID	p110delta+p85alpha Y685A	Gene_or_gene_product
+PMC3155019	160	uniprot:UNRESOLVED ID	p110delta+p85alpha	Gene_or_gene_product
+PMC3155019	161	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	161	uniprot:UNRESOLVED ID	p85alpha N564D	Gene_or_gene_product
+PMC3155019	161	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3155019	161	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3155019	162	uniprot:P14907	p110	Gene_or_gene_product
+PMC3155019	162	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	162	ncbitax:species:ncbi:9606	human	Species
+PMC3155019	162	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	162	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3155019	162	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	162	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	163	uniprot:UNRESOLVED ID	Enzyme	Gene_or_gene_product
+PMC3155019	163	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	163	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3155019	163	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	164	uniprot:UNRESOLVED ID	class IA PI3Ks	Gene_or_gene_product
+PMC3155019	164	ncbitax:species:ncbi:9606	human	Species
+PMC3155019	165	uniprot:UNRESOLVED ID	RTKs	Gene_or_gene_product
+PMC3155019	165	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	165	uniprot:O43439	p85	Gene_or_gene_product
+PMC3155019	166	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3155019	167	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	167	uniprot:UNRESOLVED ID	niSH2	Gene_or_gene_product
+PMC3155019	167	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	168	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	168	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	169	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	169	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	169	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3155019	170	uniprot:UNRESOLVED ID	iSH2	Gene_or_gene_product
+PMC3155019	170	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	171	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	172	uniprot:UNRESOLVED ID	nicSH2	Gene_or_gene_product
+PMC3155019	172	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	172	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	172	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	173	uazid:UA-ORG-237	elbow	Organ
+PMC3155019	173	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	174	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	175	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	176	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	177	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	177	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	177	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	177	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	179	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	179	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	179	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	180	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	180	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	180	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	180	uniprot:O43439	p85	Gene_or_gene_product
+PMC3155019	181	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	181	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	181	uniprot:UNRESOLVED ID	iSH2 domain	Gene_or_gene_product
+PMC3155019	182	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	183	uniprot:O75828	CBR3	Gene_or_gene_product
+PMC3155019	184	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	184	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	185	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	185	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	186	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	186	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3155019	186	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	187	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3155019	187	uniprot:UNRESOLVED ID	p85beta	Gene_or_gene_product
+PMC3155019	187	uniprot:UNRESOLVED ID	icSH2	Gene_or_gene_product
+PMC3155019	187	uniprot:P14679	Tyr	Gene_or_gene_product
+PMC3155019	188	N/A	engineered oncogenic nSH2 mutation	Gene_or_gene_product
+PMC3155019	188	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	188	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	189	uniprot:O43439	p85	Gene_or_gene_product
+PMC3155019	189	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	189	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	189	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	190	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	190	uniprot:UNRESOLVED ID	niSH2	Gene_or_gene_product
+PMC3155019	190	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	190	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3155019	190	uniprot:UNRESOLVED ID	icSH2	Gene_or_gene_product
+PMC3155019	190	uniprot:UNRESOLVED ID	p85beta	Gene_or_gene_product
+PMC3155019	190	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	190	uniprot:UNRESOLVED ID	nicSH2 domains	Gene_or_gene_product
+PMC3155019	191	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	191	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	191	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	191	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	192	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	192	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	192	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	192	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	193	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	193	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	193	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	193	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	194	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	195	uniprot:O43439	p85	Gene_or_gene_product
+PMC3155019	195	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	195	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	197	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	199	uniprot:UNRESOLVED ID	iSH2	Gene_or_gene_product
+PMC3155019	199	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	199	uniprot:P14907	p110	Gene_or_gene_product
+PMC3155019	200	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	201	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	201	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	201	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	203	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3155019	204	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	204	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	205	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3155019	205	uniprot:UNRESOLVED ID	PI3K like enzyme families	Gene_or_gene_product
+PMC3155019	206	uniprot:UNRESOLVED ID	Lipid Kinase Assays	Gene_or_gene_product
+PMC3155019	207	uniprot:Q02574	PIP3	Gene_or_gene_product
+PMC3155019	208	uazid:UA-CT-200001	brain	Organ
+PMC3155019	208	uniprot:P48147	PE	Gene_or_gene_product
+PMC3155019	208	uniprot:O00592	PC	Gene_or_gene_product
+PMC3155019	210	uniprot:Q9NQV6	Tris	Gene_or_gene_product
+PMC3155019	211	uniprot:O94972	muL	Gene_or_gene_product
+PMC3155019	216	uniprot:Q9KNM2	spot	Species
+PMC3155019	218	uniprot:Q9NQV6	Tris	Gene_or_gene_product
+PMC3155019	219	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	219	ncbitax:species:ncbi:10090	mouse	Species
+PMC3155019	219	uniprot:UNRESOLVED ID	MDMSKDESID	Gene_or_gene_product
+PMC3155019	219	uniprot:UNRESOLVED ID	VPMLDMKGDIKYADIE	Gene_or_gene_product
+PMC3155019	220	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	223	uniprot:P01298	pH	Gene_or_gene_product
+PMC3155019	226	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	226	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	226	uniprot:UNRESOLVED ID	nicSH2	Gene_or_gene_product
+PMC3155019	229	uniprot:UNRESOLVED ID	Half as much protein	Gene_or_gene_product
+PMC3155019	231	uniprot:UNRESOLVED ID	D2O	Gene_or_gene_product
+PMC3155019	232	uniprot:UNRESOLVED ID	mM Mg2+ and +/- 5 mM AMPPNP	Gene_or_gene_product
+PMC3155019	238	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	238	uniprot:UNRESOLVED ID	p85alpha Constructs	Gene_or_gene_product
+PMC3155019	238	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	239	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	239	uniprot:UNRESOLVED ID	p85alpha constructs	Gene_or_gene_product
+PMC3155019	240	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	240	uniprot:UNRESOLVED ID	iSH2 p85alpha	Gene_or_gene_product
+PMC3155019	242	ncbitax:species:ncbi:59837	spots	Species
+PMC3155019	244	uniprot:P46060	SD	Gene_or_gene_product
+PMC3155019	245	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	245	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	246	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	248	uniprot:UNRESOLVED ID	p85alpha nicSH2 Construct	Gene_or_gene_product
+PMC3155019	248	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	249	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	249	uniprot:P35318	A-M	Gene_or_gene_product
+PMC3155019	249	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	249	uniprot:UNRESOLVED ID	p110delta+nicSH2 complex	Gene_or_gene_product
+PMC3155019	249	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	249	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	251	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	251	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	251	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	253	uniprot:P46060	SD	Gene_or_gene_product
+PMC3155019	255	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	256	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	256	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	256	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	257	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	257	uniprot:P29001	A-I	Gene_or_gene_product
+PMC3155019	257	uniprot:UNRESOLVED ID	p85alpha nicSH2	Gene_or_gene_product
+PMC3155019	257	uniprot:UNRESOLVED ID	2WXH	Gene_or_gene_product
+PMC3155019	259	uniprot:P46060	SD	Gene_or_gene_product
+PMC3155019	261	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	261	uniprot:UNRESOLVED ID	p110delta+nicSH2 complex	Gene_or_gene_product
+PMC3155019	261	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	264	uniprot:UNRESOLVED ID	p110delta+nicSH2 constructs	Gene_or_gene_product
+PMC3155019	264	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	265	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	265	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	265	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	266	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	266	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	266	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	267	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	268	uniprot:P46060	SD	Gene_or_gene_product
+PMC3155019	269	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	269	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	270	uniprot:UNRESOLVED ID	iSH2 domain	Gene_or_gene_product
+PMC3155019	270	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	270	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	270	uniprot:UNRESOLVED ID	2WXH	Gene_or_gene_product
+PMC3155019	270	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	270	uniprot:UNRESOLVED ID	niSH2	Gene_or_gene_product
+PMC3155019	271	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	271	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3155019	272	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	272	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	272	uniprot:P55263	A-K	Gene_or_gene_product
+PMC3155019	275	uniprot:P46060	SD	Gene_or_gene_product
+PMC3155019	278	uniprot:UNRESOLVED ID	p85alpha K379E	Gene_or_gene_product
+PMC3155019	278	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	278	uniprot:UNRESOLVED ID	p85alpha Regulatory Interaction	Gene_or_gene_product
+PMC3155019	279	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3155019	279	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	279	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	279	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	279	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	279	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	281	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	281	ncbitax:species:ncbi:41568	muM	Species
+PMC3155019	282	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3155019	282	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	282	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	282	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	283	uniprot:P46060	SD	Gene_or_gene_product
+PMC3155019	284	uniprot:P05408	C-terminal peptide	Gene_or_gene_product
+PMC3155019	285	uniprot:P46060	SD	Gene_or_gene_product
+PMC3155019	286	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	286	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	286	uniprot:UNRESOLVED ID	iSH2	Gene_or_gene_product
+PMC3155019	286	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	286	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	286	uniprot:UNRESOLVED ID	2WXH	Gene_or_gene_product
+PMC3155019	286	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	286	uniprot:UNRESOLVED ID	p85alpha structure	Gene_or_gene_product
+PMC3155019	286	uniprot:UNRESOLVED ID	3HHM	Gene_or_gene_product
+PMC3155019	286	uniprot:UNRESOLVED ID	2VIY	Gene_or_gene_product
+PMC3155019	286	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3155019	286	uniprot:UNRESOLVED ID	p85beta structure	Gene_or_gene_product
+PMC3155019	286	uniprot:UNRESOLVED ID	2Y3A	Gene_or_gene_product
+PMC3155019	288	uniprot:UNRESOLVED ID	p85alpha Y685A Mutation	Gene_or_gene_product
+PMC3155019	288	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3155019	288	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	288	uniprot:UNRESOLVED ID	p85alpha Regulatory Interaction	Gene_or_gene_product
+PMC3155019	289	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	289	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	289	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3155019	289	uniprot:P29320	HEK	Gene_or_gene_product
+PMC3155019	289	uniprot:UNRESOLVED ID	p110delta+p85alpha	Gene_or_gene_product
+PMC3155019	290	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC3155019	290	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3155019	290	uniprot:UNRESOLVED ID	pAkt	Gene_or_gene_product
+PMC3155019	290	uniprot:UNRESOLVED ID	wild-type p110delta+p85alpha	Gene_or_gene_product
+PMC3155019	291	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3155019	291	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	291	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	291	uniprot:P42338	p110beta	Gene_or_gene_product
+PMC3155019	291	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	291	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	293	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	293	ncbitax:species:ncbi:41568	muM	Species
+PMC3155019	294	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3155019	295	uniprot:P46060	SD	Gene_or_gene_product
+PMC3155019	296	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3155019	296	uniprot:P42336	p110alpha	Gene_or_gene_product
+PMC3155019	296	uniprot:UNRESOLVED ID	nicSH2 domains	Gene_or_gene_product
+PMC3155019	296	uniprot:UNRESOLVED ID	p85alpha	Gene_or_gene_product
+PMC3155019	296	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3155019	297	uniprot:UNRESOLVED ID	nSH2	Gene_or_gene_product
+PMC3155019	297	uniprot:P0DML3	cSH2	Gene_or_gene_product
+PMC3155019	297	uniprot:P09619	PDGFR	Gene_or_gene_product

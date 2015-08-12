@@ -1,0 +1,257 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2743561	0	uniprot:Q9HCI5	damage	Gene_or_gene_product
+PMC2743561	4	ncbitax:species:ncbi:9606	human	Species
+PMC2743561	4	uniprot:P05231	interleukin-6	Gene_or_gene_product
+PMC2743561	4	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	5	uniprot:Q9HCI5	damage	Gene_or_gene_product
+PMC2743561	5	uniprot:UNRESOLVED ID	DDR	Gene_or_gene_product
+PMC2743561	6	uniprot:Q13315	ATM	Gene_or_gene_product
+PMC2743561	6	uniprot:O60934	NBS1	Gene_or_gene_product
+PMC2743561	6	uniprot:O96017	CHK2	Gene_or_gene_product
+PMC2743561	6	uniprot:P04637	p53	Gene_or_gene_product
+PMC2743561	6	uniprot:P06400	pRb	Gene_or_gene_product
+PMC2743561	7	uniprot:Q13315	ATM	Gene_or_gene_product
+PMC2743561	7	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	8	uniprot:UNRESOLVED ID	DDR	Gene_or_gene_product
+PMC2743561	8	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	8	ncbitax:species:ncbi:9606	human	Species
+PMC2743561	9	uniprot:UNRESOLVED ID	DDR	Gene_or_gene_product
+PMC2743561	10	uniprot:UNRESOLVED ID	AUTHOR CONTRIBUTIONS	Gene_or_gene_product
+PMC2743561	11	uniprot:P30043	FR	Gene_or_gene_product
+PMC2743561	11	uniprot:UNRESOLVED ID	JPC	Gene_or_gene_product
+PMC2743561	11	uniprot:P00450	CP	Gene_or_gene_product
+PMC2743561	11	uniprot:UNRESOLVED ID	WAMH	Gene_or_gene_product
+PMC2743561	11	uniprot:Q9GZT4	SRR	Gene_or_gene_product
+PMC2743561	11	uniprot:P55036	AF	Gene_or_gene_product
+PMC2743561	11	uniprot:Q9BV57	ARD	Gene_or_gene_product
+PMC2743561	11	uniprot:Q16769	EC	Gene_or_gene_product
+PMC2743561	11	uniprot:P04637	p53	Gene_or_gene_product
+PMC2743561	11	uniprot:Q13315	ATM	Gene_or_gene_product
+PMC2743561	11	uniprot:UNRESOLVED ID	JC	Gene_or_gene_product
+PMC2743561	12	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2743561	12	uazid:UA-ORG-337	foreskin	Organ
+PMC2743561	12	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2743561	12	uniprot:UNRESOLVED ID	serum	CellType
+PMC2743561	15	uniprot:UNRESOLVED ID	Primary A-T	Gene_or_gene_product
+PMC2743561	15	uniprot:UNRESOLVED ID	AT2SF	Gene_or_gene_product
+PMC2743561	15	uniprot:UNRESOLVED ID	Seckel syndrome	Gene_or_gene_product
+PMC2743561	15	uniprot:UNRESOLVED ID	GM09812	Gene_or_gene_product
+PMC2743561	15	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2743561	16	uniprot:O43511	PDs	Gene_or_gene_product
+PMC2743561	18	uniprot:Q9BSI4	TIN2	Gene_or_gene_product
+PMC2743561	18	uniprot:UNRESOLVED ID	TIN2-15C	Gene_or_gene_product
+PMC2743561	18	uniprot:UNRESOLVED ID	GSE22	Gene_or_gene_product
+PMC2743561	18	uniprot:UNRESOLVED ID	SV40LT	Gene_or_gene_product
+PMC2743561	18	uniprot:P42771	p16INK4A	Gene_or_gene_product
+PMC2743561	18	uniprot:UNRESOLVED ID	oncogenic RASV12	Gene_or_gene_product
+PMC2743561	18	uniprot:UNRESOLVED ID	hTERT	Gene_or_gene_product
+PMC2743561	19	uniprot:UNRESOLVED ID	TIN2DN-ires-eGFP	Gene_or_gene_product
+PMC2743561	19	uniprot:UNRESOLVED ID	eGFP	Gene_or_gene_product
+PMC2743561	19	uniprot:P42771	p16INK4A	Gene_or_gene_product
+PMC2743561	19	uniprot:UNRESOLVED ID	RASV12	Gene_or_gene_product
+PMC2743561	20	uniprot:UNRESOLVED ID	shp53	Gene_or_gene_product
+PMC2743561	20	uniprot:UNRESOLVED ID	zeocin	Gene_or_gene_product
+PMC2743561	20	uniprot:UNRESOLVED ID	W17-1	Gene_or_gene_product
+PMC2743561	21	uniprot:Q13315	ATM	Gene_or_gene_product
+PMC2743561	21	uniprot:O96017	CHK2	Gene_or_gene_product
+PMC2743561	21	uniprot:O60934	NBS1	Gene_or_gene_product
+PMC2743561	24	uniprot:UNRESOLVED ID	Pantak X-ray generator	Gene_or_gene_product
+PMC2743561	25	uniprot:UNRESOLVED ID	Formalin	Gene_or_gene_product
+PMC2743561	25	uniprot:UNRESOLVED ID	PBS-0	Gene_or_gene_product
+PMC2743561	26	ncbitax:species:ncbi:9793	donkey	Species
+PMC2743561	26	uniprot:UNRESOLVED ID	serum	CellType
+PMC2743561	29	uniprot:Q9H4D0	CS2	Gene_or_gene_product
+PMC2743561	30	uniprot:UNRESOLVED ID	#B112136	Gene_or_gene_product
+PMC2743561	31	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2743561	33	uniprot:Q12888	53BP1	Gene_or_gene_product
+PMC2743561	33	uniprot:UNRESOLVED ID	BL182	Gene_or_gene_product
+PMC2743561	33	uniprot:UNRESOLVED ID	gamma-H2AX	Gene_or_gene_product
+PMC2743561	33	uniprot:UNRESOLVED ID	JBW301	Gene_or_gene_product
+PMC2743561	33	uniprot:P04637	p53	Gene_or_gene_product
+PMC2743561	33	uniprot:UNRESOLVED ID	DO-1	Gene_or_gene_product
+PMC2743561	33	uniprot:Q77JX3	p16	Gene_or_gene_product
+PMC2743561	33	uniprot:UNRESOLVED ID	JC8	Gene_or_gene_product
+PMC2743561	33	uniprot:P38936	p21	Gene_or_gene_product
+PMC2743561	33	uniprot:UNRESOLVED ID	MAB3128	Gene_or_gene_product
+PMC2743561	33	uniprot:UNRESOLVED ID	Sigma	Gene_or_gene_product
+PMC2743561	33	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	33	uniprot:UNRESOLVED ID	R&D Systems	Gene_or_gene_product
+PMC2743561	33	uniprot:UNRESOLVED ID	MAB2061	Gene_or_gene_product
+PMC2743561	33	uniprot:P10145	IL-8	Gene_or_gene_product
+PMC2743561	33	uniprot:UNRESOLVED ID	R&D systems	Gene_or_gene_product
+PMC2743561	33	uniprot:UNRESOLVED ID	MAB208	Gene_or_gene_product
+PMC2743561	33	uniprot:Q13315	ATM	Gene_or_gene_product
+PMC2743561	33	uniprot:UNRESOLVED ID	Abcam Y-170	Gene_or_gene_product
+PMC2743561	33	uniprot:UNRESOLVED ID	phospho-ATM	Gene_or_gene_product
+PMC2743561	33	uniprot:UNRESOLVED ID	phospho-p53	Gene_or_gene_product
+PMC2743561	33	uniprot:P20848	ATR	Gene_or_gene_product
+PMC2743561	34	ncbitax:species:ncbi:9793	Donkey	Species
+PMC2743561	35	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2743561	37	uniprot:UNRESOLVED ID	R&D	Gene_or_gene_product
+PMC2743561	37	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	37	uniprot:P10145	IL-8	Gene_or_gene_product
+PMC2743561	41	uniprot:Q9UDY2	x104	Gene_or_gene_product
+PMC2743561	45	ncbitax:species:ncbi:9606	Human	Species
+PMC2743561	45	uniprot:P04040	cat	Species
+PMC2743561	46	uniprot:P01298	pH	Gene_or_gene_product
+PMC2743561	46	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2743561	49	uniprot:UNRESOLVED ID	PVDF	Gene_or_gene_product
+PMC2743561	49	uniprot:UNRESOLVED ID	milk	CellType
+PMC2743561	50	uniprot:UNRESOLVED ID	horseradish peroxidase	Gene_or_gene_product
+PMC2743561	52	uniprot:UNRESOLVED ID	CIHR # MPO-79317	Gene_or_gene_product
+PMC2743561	53	uniprot:UNRESOLVED ID	Health grants AG017242	Gene_or_gene_product
+PMC2743561	53	uniprot:UNRESOLVED ID	JC	Gene_or_gene_product
+PMC2743561	53	uniprot:UNRESOLVED ID	CABCRP grant 11IB-0153	Gene_or_gene_product
+PMC2743561	53	uniprot:Q9BV57	ARD	Gene_or_gene_product
+PMC2743561	53	uniprot:UNRESOLVED ID	CKP	Gene_or_gene_product
+PMC2743561	54	uniprot:Q9HCI5	damage	Gene_or_gene_product
+PMC2743561	54	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	55	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2743561	55	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2743561	56	uniprot:Q12888	53BP1	Gene_or_gene_product
+PMC2743561	58	uniprot:UNRESOLVED ID	P-p53	Gene_or_gene_product
+PMC2743561	58	uniprot:P04637	p53	Gene_or_gene_product
+PMC2743561	59	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2743561	59	uniprot:Q12888	53BP1	Gene_or_gene_product
+PMC2743561	61	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2743561	61	uniprot:UNRESOLVED ID	gamma-H2AX	Gene_or_gene_product
+PMC2743561	61	uniprot:Q13315	ATM	Gene_or_gene_product
+PMC2743561	61	uniprot:UNRESOLVED ID	p-STK Sub	Gene_or_gene_product
+PMC2743561	61	uniprot:Q12888	53BP1	Gene_or_gene_product
+PMC2743561	63	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2743561	63	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	65	uniprot:P42771	p16INK4A	Gene_or_gene_product
+PMC2743561	65	uniprot:Q77JX3	p16	Gene_or_gene_product
+PMC2743561	65	uniprot:Q9BSI4	TIN2	Gene_or_gene_product
+PMC2743561	65	uniprot:UNRESOLVED ID	RASV12	Gene_or_gene_product
+PMC2743561	66	uniprot:Q12888	53BP1	Gene_or_gene_product
+PMC2743561	67	uniprot:UNRESOLVED ID	53BP1 damage	Gene_or_gene_product
+PMC2743561	68	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	69	uniprot:UNRESOLVED ID	scale	CellType
+PMC2743561	70	uniprot:UNRESOLVED ID	PDDF	Gene_or_gene_product
+PMC2743561	70	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	71	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2743561	72	uniprot:O43511	PDs	Gene_or_gene_product
+PMC2743561	72	uazid:UA-ORG-75	axis	Organ
+PMC2743561	73	uniprot:Q12888	53BP1	Gene_or_gene_product
+PMC2743561	75	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	76	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2743561	76	uniprot:O43511	PDs	Gene_or_gene_product
+PMC2743561	76	uniprot:Q12888	53BP1	Gene_or_gene_product
+PMC2743561	77	uniprot:Q12888	53BP1	Gene_or_gene_product
+PMC2743561	78	uniprot:UNRESOLVED ID	PD35	Gene_or_gene_product
+PMC2743561	79	uniprot:Q12888	53BP1	Gene_or_gene_product
+PMC2743561	80	uniprot:Q12888	53BP1	Gene_or_gene_product
+PMC2743561	82	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	83	ncbitax:species:ncbi:31931	retrovirus	Species
+PMC2743561	83	uniprot:UNRESOLVED ID	hTERT	Gene_or_gene_product
+PMC2743561	84	uniprot:O43511	PDs	Gene_or_gene_product
+PMC2743561	84	uniprot:Q12888	53BP1	Gene_or_gene_product
+PMC2743561	84	uniprot:UNRESOLVED ID	top panels	Gene_or_gene_product
+PMC2743561	84	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	84	uniprot:UNRESOLVED ID	Fig. 2a	Gene_or_gene_product
+PMC2743561	85	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2743561	85	uniprot:UNRESOLVED ID	hTERT	Gene_or_gene_product
+PMC2743561	85	uniprot:Q12888	53BP1	Gene_or_gene_product
+PMC2743561	85	uniprot:UNRESOLVED ID	top panel	Gene_or_gene_product
+PMC2743561	85	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	85	uniprot:UNRESOLVED ID	Fig. 2a	Gene_or_gene_product
+PMC2743561	86	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	87	uniprot:Q12888	53BP1	Gene_or_gene_product
+PMC2743561	87	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	88	uniprot:P04637	p53	Gene_or_gene_product
+PMC2743561	88	uniprot:UNRESOLVED ID	PPDF	Gene_or_gene_product
+PMC2743561	88	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	89	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2743561	89	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	89	uniprot:O43511	PDs	Gene_or_gene_product
+PMC2743561	90	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	90	uniprot:UNRESOLVED ID	scale	CellType
+PMC2743561	91	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2743561	91	uniprot:UNRESOLVED ID	GSE22	Gene_or_gene_product
+PMC2743561	91	ncbitax:species:ncbi:31931	retrovirus	Species
+PMC2743561	91	uniprot:O43511	PDs	Gene_or_gene_product
+PMC2743561	91	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	92	uniprot:O43511	PDs	Gene_or_gene_product
+PMC2743561	92	uniprot:Q12888	53BP1	Gene_or_gene_product
+PMC2743561	92	uniprot:UNRESOLVED ID	top panel	Gene_or_gene_product
+PMC2743561	92	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	92	uniprot:UNRESOLVED ID	scale	CellType
+PMC2743561	93	uniprot:UNRESOLVED ID	GSE22	Gene_or_gene_product
+PMC2743561	93	uniprot:P04637	p53	Gene_or_gene_product
+PMC2743561	94	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2743561	94	uniprot:UNRESOLVED ID	PD35	Gene_or_gene_product
+PMC2743561	94	uniprot:UNRESOLVED ID	shp53	Gene_or_gene_product
+PMC2743561	94	uniprot:UNRESOLVED ID	eGFP	Gene_or_gene_product
+PMC2743561	94	uniprot:UNRESOLVED ID	PD55	Gene_or_gene_product
+PMC2743561	94	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	94	uniprot:UNRESOLVED ID	scale	CellType
+PMC2743561	95	ncbitax:species:ncbi:31931	retrovirus	Species
+PMC2743561	95	uniprot:UNRESOLVED ID	hTERT	Gene_or_gene_product
+PMC2743561	95	uniprot:Q12888	53BP1	Gene_or_gene_product
+PMC2743561	95	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	96	uniprot:UNRESOLVED ID	DDR	Gene_or_gene_product
+PMC2743561	96	uniprot:UNRESOLVED ID	PDDF	Gene_or_gene_product
+PMC2743561	97	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2743561	97	uniprot:Q13315	ATM	Gene_or_gene_product
+PMC2743561	97	uniprot:UNRESOLVED ID	shATM-11	Gene_or_gene_product
+PMC2743561	99	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2743561	100	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	101	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	103	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2743561	103	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	104	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	105	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	106	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2743561	106	uniprot:UNRESOLVED ID	shGFP3	Gene_or_gene_product
+PMC2743561	106	uniprot:O60934	NBS1	Gene_or_gene_product
+PMC2743561	106	uniprot:UNRESOLVED ID	shNBS1-1	Gene_or_gene_product
+PMC2743561	106	uniprot:O96017	CHK2	Gene_or_gene_product
+PMC2743561	106	uniprot:UNRESOLVED ID	shCHK2-2	Gene_or_gene_product
+PMC2743561	107	uniprot:O96017	CHK2	Gene_or_gene_product
+PMC2743561	107	uniprot:Q9BVP2	NS	Gene_or_gene_product
+PMC2743561	108	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2743561	109	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	110	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2743561	110	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	111	uniprot:Q13315	ATM	Gene_or_gene_product
+PMC2743561	111	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2743561	112	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2743561	115	uniprot:P10599	SASP	Gene_or_gene_product
+PMC2743561	115	uniprot:Q13315	ATM	Gene_or_gene_product
+PMC2743561	116	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2743561	116	uniprot:UNRESOLVED ID	shATM	Gene_or_gene_product
+PMC2743561	118	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2743561	119	uniprot:P14210	SF	Gene_or_gene_product
+PMC2743561	119	uniprot:UNRESOLVED ID	serum	CellType
+PMC2743561	119	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2743561	119	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2743561	119	uniprot:UNRESOLVED ID	XRA	Gene_or_gene_product
+PMC2743561	119	uniprot:UNRESOLVED ID	HCA2-shGFP	Gene_or_gene_product
+PMC2743561	119	uniprot:UNRESOLVED ID	XRA-shGFP	Gene_or_gene_product
+PMC2743561	119	uniprot:UNRESOLVED ID	HCA2-shATM	Gene_or_gene_product
+PMC2743561	119	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	119	uniprot:UNRESOLVED ID	XRA-shATM	Gene_or_gene_product
+PMC2743561	120	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	120	uniprot:UNRESOLVED ID	XRA-shGFP	Gene_or_gene_product
+PMC2743561	121	ncbitax:species:ncbi:9606	Human	Species
+PMC2743561	121	uazid:UA-ORG-116	breast	Organ
+PMC2743561	121	uniprot:Q13315	ATM	Gene_or_gene_product
+PMC2743561	121	uniprot:P20848	ATR	Gene_or_gene_product
+PMC2743561	121	uniprot:UNRESOLVED ID	p-STK Sub	Gene_or_gene_product
+PMC2743561	121	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	124	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2743561	124	uniprot:UNRESOLVED ID	shGFP2	Gene_or_gene_product
+PMC2743561	124	uniprot:Q13315	ATM	Gene_or_gene_product
+PMC2743561	124	uniprot:UNRESOLVED ID	shATM2	Gene_or_gene_product
+PMC2743561	125	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2743561	126	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2743561	126	uniprot:Q12888	53BP1	Gene_or_gene_product
+PMC2743561	126	uniprot:UNRESOLVED ID	phospho-ATM	Gene_or_gene_product
+PMC2743561	126	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2743561	127	uniprot:Q12888	53BP1	Gene_or_gene_product
+PMC2743561	127	uniprot:P52625	p-ATM	Gene_or_gene_product
+PMC2743561	128	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2743561	129	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC2743561	130	uniprot:Q8TD91	HCA2	Gene_or_gene_product
+PMC2743561	130	uniprot:P05231	IL-6	Gene_or_gene_product

@@ -1,0 +1,763 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2958468	0	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	1	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	2	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	2	uniprot:UNRESOLVED ID	GDP-GTP exchange factors	Gene_or_gene_product
+PMC2958468	2	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	2	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2958468	3	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	4	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	4	uniprot:Q88893	1B	Gene_or_gene_product
+PMC2958468	4	uniprot:UNRESOLVED ID	clathrin	Gene_or_gene_product
+PMC2958468	4	uniprot:Q15286	Rab35	Gene_or_gene_product
+PMC2958468	4	uniprot:UNRESOLVED ID	Shiga toxin	Gene_or_gene_product
+PMC2958468	5	uniprot:UNRESOLVED ID	DENND2 GEFs	Gene_or_gene_product
+PMC2958468	5	uniprot:P51151	Rab9	Gene_or_gene_product
+PMC2958468	6	uniprot:UNRESOLVED ID	DENND4 GEFs	Gene_or_gene_product
+PMC2958468	6	uniprot:P61026	Rab10	Gene_or_gene_product
+PMC2958468	6	uniprot:UNRESOLVED ID	DENN GEF Sec2	Gene_or_gene_product
+PMC2958468	6	uniprot:P61006	Rab8	Gene_or_gene_product
+PMC2958468	7	uniprot:Q8IV53	DENND1C	Gene_or_gene_product
+PMC2958468	7	uniprot:A2RUS2	DENND3	Gene_or_gene_product
+PMC2958468	7	uniprot:Q6IQ26	DENND5A	Gene_or_gene_product
+PMC2958468	7	uniprot:P06954	5B	Gene_or_gene_product
+PMC2958468	7	uniprot:O95248	MTMR5	Gene_or_gene_product
+PMC2958468	7	uniprot:Q8WXG6	MADD	Gene_or_gene_product
+PMC2958468	7	uniprot:P51153	Rab13	Gene_or_gene_product
+PMC2958468	7	uniprot:Q6IQ22	Rab12	Gene_or_gene_product
+PMC2958468	7	uniprot:Q14964	Rab39	Gene_or_gene_product
+PMC2958468	7	uniprot:P51157	Rab28	Gene_or_gene_product
+PMC2958468	7	uniprot:P51159	Rab27A	Gene_or_gene_product
+PMC2958468	7	uniprot:UNRESOLVED ID	27B	Gene_or_gene_product
+PMC2958468	8	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	9	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	10	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2958468	10	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2958468	12	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	13	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2958468	13	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	14	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2958468	14	uniprot:UNRESOLVED ID	GTPase-activating proteins	Gene_or_gene_product
+PMC2958468	14	uniprot:UNRESOLVED ID	GAPs	Gene_or_gene_product
+PMC2958468	14	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	15	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	16	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	16	uniprot:UNRESOLVED ID	GAPs	Gene_or_gene_product
+PMC2958468	17	uniprot:Q15042	Rab3GAP1	Gene_or_gene_product
+PMC2958468	17	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	18	ncbitax:species:ncbi:9606	humans	Species
+PMC2958468	18	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	19	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	19	uniprot:UNRESOLVED ID	Rab GEF	Gene_or_gene_product
+PMC2958468	20	uniprot:P62820	Rab1	Gene_or_gene_product
+PMC2958468	20	uniprot:P20339	Rab5	Gene_or_gene_product
+PMC2958468	20	uniprot:UNRESOLVED ID	Ypt51p subfamily GTPases	Gene_or_gene_product
+PMC2958468	20	uniprot:UNRESOLVED ID	Rabin proteins	Gene_or_gene_product
+PMC2958468	20	uniprot:UNRESOLVED ID	Sec4p GTPases	Gene_or_gene_product
+PMC2958468	20	uniprot:P40395	Ric1p	Gene_or_gene_product
+PMC2958468	20	uniprot:P16664	Rgp1p	Gene_or_gene_product
+PMC2958468	20	uniprot:P20340	Rab6	Gene_or_gene_product
+PMC2958468	20	uniprot:UNRESOLVED ID	Mon1p	Gene_or_gene_product
+PMC2958468	20	uniprot:UNRESOLVED ID	Ccz1p	Gene_or_gene_product
+PMC2958468	20	uniprot:UNRESOLVED ID	Ypt7p	Gene_or_gene_product
+PMC2958468	20	uniprot:P51149	Rab7	Gene_or_gene_product
+PMC2958468	20	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2958468	20	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	21	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	21	ncbitax:species:ncbi:4932	yeasts	Species
+PMC2958468	22	ncbitax:species:ncbi:4932	yeast	Species
+PMC2958468	23	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2958468	24	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	25	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	25	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2958468	25	uazid:UA-CT-200001	brain	Organ
+PMC2958468	26	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2958468	27	ncbitax:species:ncbi:6239	Caenorhabditis elegans	Species
+PMC2958468	27	uniprot:Q8WXG6	MADD	Gene_or_gene_product
+PMC2958468	27	uniprot:P25228	Rab3	Gene_or_gene_product
+PMC2958468	27	uniprot:P51159	Rab27	Gene_or_gene_product
+PMC2958468	28	uniprot:P68571	yolk	CellType
+PMC2958468	28	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2958468	28	uniprot:Q15286	Rab35	Gene_or_gene_product
+PMC2958468	29	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	29	uniprot:Q8TEH3	connecdenn	Gene_or_gene_product
+PMC2958468	29	uniprot:UNRESOLVED ID	Rab35 GEF	Gene_or_gene_product
+PMC2958468	30	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	31	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	31	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	32	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	33	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	33	uniprot:UNRESOLVED ID	GEF MADD	Gene_or_gene_product
+PMC2958468	34	uniprot:UNRESOLVED ID	u-DENN	Gene_or_gene_product
+PMC2958468	34	uniprot:Q8WXG6	DENN	Gene_or_gene_product
+PMC2958468	35	ncbitax:species:ncbi:4932	yeast	Species
+PMC2958468	36	ncbitax:species:ncbi:9606	humans	Species
+PMC2958468	37	uniprot:Q8WXG6	DENN	Gene_or_gene_product
+PMC2958468	38	uniprot:Q8NBF6	Avl9	Gene_or_gene_product
+PMC2958468	38	ncbitax:species:ncbi:4932	yeast	Species
+PMC2958468	39	uniprot:Q8NBF6	Avl9	Gene_or_gene_product
+PMC2958468	39	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2958468	39	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	40	uniprot:Q8WXG6	DENN	Gene_or_gene_product
+PMC2958468	40	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	41	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	41	uniprot:Q8WXG6	DENN	Gene_or_gene_product
+PMC2958468	42	uniprot:Q8WXG6	DENN	Gene_or_gene_product
+PMC2958468	43	uniprot:UNRESOLVED ID	ClustalX	Gene_or_gene_product
+PMC2958468	43	uazid:UA-ORG-599	MUSCLE	Organ
+PMC2958468	46	uniprot:UNRESOLVED ID	DENND1	Gene_or_gene_product
+PMC2958468	46	uniprot:Q15286	Rab35	Gene_or_gene_product
+PMC2958468	47	uniprot:P54829	step	Gene_or_gene_product
+PMC2958468	47	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	47	uniprot:UNRESOLVED ID	Rab GEF	Gene_or_gene_product
+PMC2958468	48	uniprot:UNRESOLVED ID	GEF Rabex-5	Gene_or_gene_product
+PMC2958468	49	uniprot:Q9UJ41	Rabex-5	Gene_or_gene_product
+PMC2958468	49	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2958468	49	uniprot:UNRESOLVED ID	Rab5A-C	Gene_or_gene_product
+PMC2958468	49	uniprot:P20339	Rab5	Gene_or_gene_product
+PMC2958468	49	uniprot:Q9H0T7	Rab17	Gene_or_gene_product
+PMC2958468	49	uniprot:Q9UL25	Rab21	Gene_or_gene_product
+PMC2958468	49	uniprot:Q9UL26	Rab22A	Gene_or_gene_product
+PMC2958468	50	uniprot:Q54SD0	Rabs	Gene_or_gene_product
+PMC2958468	51	uniprot:Q6P3S1	DENND1B	Gene_or_gene_product
+PMC2958468	51	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2958468	51	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2958468	52	uniprot:UNRESOLVED ID	DENND1B-S	Gene_or_gene_product
+PMC2958468	52	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2958468	52	uniprot:Q15286	Rab35	Gene_or_gene_product
+PMC2958468	52	uniprot:Q54SD0	Rabs	Gene_or_gene_product
+PMC2958468	53	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2958468	53	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2958468	53	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2958468	54	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2958468	54	uniprot:Q15286	Rab35	Gene_or_gene_product
+PMC2958468	54	uniprot:Q54SD0	Rabs	Gene_or_gene_product
+PMC2958468	55	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	55	uniprot:Q6P3S1	DENND1B	Gene_or_gene_product
+PMC2958468	56	uniprot:Q8IV53	DENND1C	Gene_or_gene_product
+PMC2958468	56	uniprot:P51153	Rab13	Gene_or_gene_product
+PMC2958468	56	uniprot:Q15286	Rab35	Gene_or_gene_product
+PMC2958468	57	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	57	uniprot:Q6P3S1	DENND1B	Gene_or_gene_product
+PMC2958468	57	uniprot:Q15286	Rab35	Gene_or_gene_product
+PMC2958468	58	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	58	uniprot:Q88893	1B	Gene_or_gene_product
+PMC2958468	58	uniprot:Q15286	Rab35	Gene_or_gene_product
+PMC2958468	59	ncbitax:species:ncbi:9606	Human	Species
+PMC2958468	59	uniprot:Q9UJ41	Rabex-5	Gene_or_gene_product
+PMC2958468	59	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	59	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	59	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2958468	60	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2958468	60	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	60	uniprot:P01298	pH	Gene_or_gene_product
+PMC2958468	60	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2958468	60	uniprot:D6RGH6	mCi	Gene_or_gene_product
+PMC2958468	61	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2958468	61	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2958468	61	uniprot:Q9UJ41	Rabex-5	Gene_or_gene_product
+PMC2958468	62	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2958468	63	uniprot:UNRESOLVED ID	Rab-GDP complexes	Gene_or_gene_product
+PMC2958468	63	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2958468	65	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2958468	66	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	66	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	66	uniprot:UNRESOLVED ID	DENND1B-S	Gene_or_gene_product
+PMC2958468	66	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2958468	66	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2958468	67	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2958468	67	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2958468	67	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2958468	67	uniprot:D6RGH6	mCi	Gene_or_gene_product
+PMC2958468	68	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2958468	69	ncbitax:species:ncbi:9606	Human	Species
+PMC2958468	69	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	69	uniprot:UNRESOLVED ID	DENND1B-L	Gene_or_gene_product
+PMC2958468	69	uniprot:Q8IV53	DENND1C	Gene_or_gene_product
+PMC2958468	69	uniprot:Q15286	Rab35	Gene_or_gene_product
+PMC2958468	69	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2958468	70	uniprot:Q56704	FLAG	Species
+PMC2958468	70	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	70	uniprot:Q8IV53	DENND1C	Gene_or_gene_product
+PMC2958468	70	uniprot:UNRESOLVED ID	DENND1B-L	Gene_or_gene_product
+PMC2958468	73	ncbitax:species:ncbi:9606	Human	Species
+PMC2958468	73	uniprot:Q15286	Rab35	Gene_or_gene_product
+PMC2958468	73	uniprot:UNRESOLVED ID	Shiga toxin	Gene_or_gene_product
+PMC2958468	74	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	74	uniprot:Q6P3S1	DENND1B	Gene_or_gene_product
+PMC2958468	74	uniprot:Q15286	Rab35	Gene_or_gene_product
+PMC2958468	75	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	75	uniprot:UNRESOLVED ID	clathrin	Gene_or_gene_product
+PMC2958468	75	uniprot:P05549	AP-2	Gene_or_gene_product
+PMC2958468	76	uniprot:P05412	AP-1	Gene_or_gene_product
+PMC2958468	76	uniprot:UNRESOLVED ID	AP-3 clathrin	Gene_or_gene_product
+PMC2958468	76	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	77	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	77	uniprot:UNRESOLVED ID	clathrin	Gene_or_gene_product
+PMC2958468	78	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	78	uniprot:UNRESOLVED ID	clathrin	Gene_or_gene_product
+PMC2958468	79	uniprot:Q6P3S1	DENND1B	Gene_or_gene_product
+PMC2958468	79	uniprot:Q8IV53	DENND1C	Gene_or_gene_product
+PMC2958468	79	uniprot:UNRESOLVED ID	clathrin	Gene_or_gene_product
+PMC2958468	80	uniprot:UNRESOLVED ID	clathrin	Gene_or_gene_product
+PMC2958468	80	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	80	uniprot:P05549	AP-2	Gene_or_gene_product
+PMC2958468	81	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	81	uniprot:UNRESOLVED ID	clathrin	Gene_or_gene_product
+PMC2958468	82	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	82	uniprot:Q6P3S1	DENND1B	Gene_or_gene_product
+PMC2958468	82	uniprot:UNRESOLVED ID	clathrin	Gene_or_gene_product
+PMC2958468	82	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2958468	82	uniprot:Q779K3	STxB	Gene_or_gene_product
+PMC2958468	83	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	83	uniprot:Q779K3	STxB	Gene_or_gene_product
+PMC2958468	84	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2958468	85	uniprot:UNRESOLVED ID	clathrin	Gene_or_gene_product
+PMC2958468	85	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2958468	85	uniprot:P02787	transferrin	Gene_or_gene_product
+PMC2958468	85	uniprot:UNRESOLVED ID	transferrin receptor	Gene_or_gene_product
+PMC2958468	86	uniprot:UNRESOLVED ID	clathrin	Gene_or_gene_product
+PMC2958468	86	uniprot:Q779K3	STxB	Gene_or_gene_product
+PMC2958468	86	uniprot:O43493	TGN46	Gene_or_gene_product
+PMC2958468	87	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	87	uniprot:UNRESOLVED ID	Rab35 GEF	Gene_or_gene_product
+PMC2958468	87	uniprot:UNRESOLVED ID	Shiga toxin	Gene_or_gene_product
+PMC2958468	87	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2958468	88	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	88	uniprot:UNRESOLVED ID	clathrin	Gene_or_gene_product
+PMC2958468	89	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2958468	89	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	89	uniprot:P25870	clathrin heavy chain	Gene_or_gene_product
+PMC2958468	89	uniprot:P05412	AP-1	Gene_or_gene_product
+PMC2958468	89	uniprot:P05549	AP-2	Gene_or_gene_product
+PMC2958468	89	uniprot:UNRESOLVED ID	AP-3 clathrin adaptor	Gene_or_gene_product
+PMC2958468	90	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2958468	91	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	91	uniprot:Q6P3S1	DENND1B	Gene_or_gene_product
+PMC2958468	93	uniprot:Q56704	FLAG	Species
+PMC2958468	93	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	93	uniprot:UNRESOLVED ID	DENND1B-L	Gene_or_gene_product
+PMC2958468	93	uniprot:UNRESOLVED ID	DENND1B-S	Gene_or_gene_product
+PMC2958468	93	uniprot:Q8IV53	DENND1C	Gene_or_gene_product
+PMC2958468	94	uniprot:P01298	pH	Gene_or_gene_product
+PMC2958468	94	uniprot:P10265	protease	Gene_or_gene_product
+PMC2958468	95	uniprot:Q56704	FLAG	Species
+PMC2958468	96	uniprot:Q56704	FLAG	Species
+PMC2958468	97	uniprot:Q56704	FLAG	Species
+PMC2958468	97	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	97	uniprot:UNRESOLVED ID	DENND1B-L	Gene_or_gene_product
+PMC2958468	97	uniprot:UNRESOLVED ID	DENND1B-S	Gene_or_gene_product
+PMC2958468	97	uniprot:Q8IV53	DENND1C	Gene_or_gene_product
+PMC2958468	97	uniprot:P25870	clathrin heavy chain	Gene_or_gene_product
+PMC2958468	97	uniprot:P29742	CHC	Gene_or_gene_product
+PMC2958468	97	uniprot:P05412	AP-1	Gene_or_gene_product
+PMC2958468	97	uniprot:P05549	AP-2	Gene_or_gene_product
+PMC2958468	98	uniprot:Q9P0L2	mark	Gene_or_gene_product
+PMC2958468	100	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2958468	100	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	100	uniprot:P25870	clathrin heavy chain	Gene_or_gene_product
+PMC2958468	100	uniprot:UNRESOLVED ID	clathrin	Gene_or_gene_product
+PMC2958468	100	uniprot:P05549	AP-2	Gene_or_gene_product
+PMC2958468	101	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2958468	102	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	102	uniprot:UNRESOLVED ID	clathrin	Gene_or_gene_product
+PMC2958468	102	uniprot:P05549	AP2	Gene_or_gene_product
+PMC2958468	102	uniprot:UNRESOLVED ID	punctate DENND1	Gene_or_gene_product
+PMC2958468	102	uniprot:P25870	clathrin heavy chain	Gene_or_gene_product
+PMC2958468	104	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	104	uniprot:Q15286	Rab35	Gene_or_gene_product
+PMC2958468	105	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2958468	105	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	105	uniprot:Q6P3S1	DENND1B	Gene_or_gene_product
+PMC2958468	105	uniprot:P25870	clathrin heavy chain	Gene_or_gene_product
+PMC2958468	105	uniprot:P29742	CHC	Gene_or_gene_product
+PMC2958468	107	uniprot:UNRESOLVED ID	clathrin heavy chain antibody	Gene_or_gene_product
+PMC2958468	108	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2958468	108	uniprot:Q779K3	STxB	Gene_or_gene_product
+PMC2958468	108	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	108	uniprot:Q08378	golgin-160	Gene_or_gene_product
+PMC2958468	110	uniprot:P02787	transferrin	Gene_or_gene_product
+PMC2958468	110	uniprot:UNRESOLVED ID	transferrin receptor	Gene_or_gene_product
+PMC2958468	110	uniprot:P02786	TfR	Gene_or_gene_product
+PMC2958468	110	uniprot:O43493	TGN46	Gene_or_gene_product
+PMC2958468	112	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2958468	112	uniprot:UNRESOLVED ID	Shiga toxin	Gene_or_gene_product
+PMC2958468	113	uniprot:UNRESOLVED ID	ImageJ	Gene_or_gene_product
+PMC2958468	115	uniprot:UNRESOLVED ID	DENND2 family	Gene_or_gene_product
+PMC2958468	115	uniprot:P51151	Rab9	Gene_or_gene_product
+PMC2958468	116	uniprot:UNRESOLVED ID	DENND1 proteins	Gene_or_gene_product
+PMC2958468	116	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	116	uniprot:Q8WXG6	DENN	Gene_or_gene_product
+PMC2958468	116	uniprot:UNRESOLVED ID	DENND2 family	Gene_or_gene_product
+PMC2958468	117	uniprot:UNRESOLVED ID	DENND2 family	Gene_or_gene_product
+PMC2958468	117	uniprot:Q9H6A0	DENND2D	Gene_or_gene_product
+PMC2958468	119	uniprot:Q9H6A0	DENND2D	Gene_or_gene_product
+PMC2958468	119	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2958468	119	uniprot:P51151	Rab9A	Gene_or_gene_product
+PMC2958468	119	uniprot:Q9NP90	Rab9B	Gene_or_gene_product
+PMC2958468	119	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	119	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2958468	120	uniprot:UNRESOLVED ID	DENND2 family members	Gene_or_gene_product
+PMC2958468	121	uniprot:UNRESOLVED ID	DENND2 family	Gene_or_gene_product
+PMC2958468	121	uniprot:Q9ULE3	DENND2A	Gene_or_gene_product
+PMC2958468	121	uniprot:P78524	DENND2B	Gene_or_gene_product
+PMC2958468	121	uniprot:Q68D51	DENND2C	Gene_or_gene_product
+PMC2958468	121	uniprot:Q9H6A0	DENND2D	Gene_or_gene_product
+PMC2958468	122	uniprot:Q9ULE3	DENND2A	Gene_or_gene_product
+PMC2958468	122	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2958468	122	uniprot:O94955	RhoBTB3	Gene_or_gene_product
+PMC2958468	122	uniprot:P51151	Rab9	Gene_or_gene_product
+PMC2958468	123	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2958468	123	uniprot:P51151	Rab9	Gene_or_gene_product
+PMC2958468	124	uniprot:P51151	Rab9	Gene_or_gene_product
+PMC2958468	124	uniprot:P11279	LAMP1	Gene_or_gene_product
+PMC2958468	125	uniprot:P51151	Rab9	Gene_or_gene_product
+PMC2958468	125	uniprot:Q9ULE3	DENND2A	Gene_or_gene_product
+PMC2958468	126	uniprot:UNRESOLVED ID	DENND2 family members	Gene_or_gene_product
+PMC2958468	127	uniprot:P51151	Rab9	Gene_or_gene_product
+PMC2958468	127	uniprot:O00264	MPR	Gene_or_gene_product
+PMC2958468	128	uniprot:P51151	Rab9	Gene_or_gene_product
+PMC2958468	128	uniprot:Q9ULE3	DENND2A	Gene_or_gene_product
+PMC2958468	128	uniprot:O00264	MPR	Gene_or_gene_product
+PMC2958468	129	uniprot:O00264	MPR	Gene_or_gene_product
+PMC2958468	129	uniprot:Q9ULE3	DENND2A-	Gene_or_gene_product
+PMC2958468	129	uniprot:P51151	Rab9	Gene_or_gene_product
+PMC2958468	130	uniprot:P51151	Rab9	Gene_or_gene_product
+PMC2958468	130	uniprot:O00264	MPR	Gene_or_gene_product
+PMC2958468	131	uniprot:P51151	Rab9	Gene_or_gene_product
+PMC2958468	131	uniprot:Q9ULE3	DENND2A	Gene_or_gene_product
+PMC2958468	131	uniprot:O43493	TGN46	Gene_or_gene_product
+PMC2958468	132	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2958468	132	uniprot:P51151	Rab9	Gene_or_gene_product
+PMC2958468	132	uniprot:Q9ULE3	DENND2A	Gene_or_gene_product
+PMC2958468	133	uniprot:UNRESOLVED ID	DENND2 family members	Gene_or_gene_product
+PMC2958468	133	uniprot:P51151	Rab9	Gene_or_gene_product
+PMC2958468	134	uniprot:P51151	Rab9	Gene_or_gene_product
+PMC2958468	135	uniprot:UNRESOLVED ID	DENND2 family members	Gene_or_gene_product
+PMC2958468	135	uniprot:P51151	Rab9	Gene_or_gene_product
+PMC2958468	136	uniprot:UNRESOLVED ID	DENND2 family	Gene_or_gene_product
+PMC2958468	136	uniprot:P51151	Rab9	Gene_or_gene_product
+PMC2958468	137	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	137	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	137	uniprot:Q9H6A0	DENND2D	Gene_or_gene_product
+PMC2958468	137	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2958468	138	ncbitax:species:ncbi:9606	Human	Species
+PMC2958468	138	uniprot:Q9ULE3	DENND2A	Gene_or_gene_product
+PMC2958468	138	uniprot:P78524	DENND2B	Gene_or_gene_product
+PMC2958468	138	uniprot:Q68D51	DENND2C	Gene_or_gene_product
+PMC2958468	138	uniprot:P51151	Rab9	Gene_or_gene_product
+PMC2958468	141	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2958468	141	uniprot:Q9ULE3	DENND2A	Gene_or_gene_product
+PMC2958468	141	uniprot:P51151	Rab9A	Gene_or_gene_product
+PMC2958468	142	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2958468	143	uniprot:P51151	Rab9	Gene_or_gene_product
+PMC2958468	143	uniprot:P11279	LAMP1	Gene_or_gene_product
+PMC2958468	144	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2958468	144	uniprot:P51151	Rab9	Gene_or_gene_product
+PMC2958468	144	uniprot:UNRESOLVED ID	DENND2 constructs	Gene_or_gene_product
+PMC2958468	144	uniprot:P51151	Rab9A	Gene_or_gene_product
+PMC2958468	144	uniprot:Q9NP90	Rab9B	Gene_or_gene_product
+PMC2958468	144	uniprot:UNRESOLVED ID	DENND2A-D siRNA	Gene_or_gene_product
+PMC2958468	144	uniprot:UNRESOLVED ID	EGFP antibodies	Gene_or_gene_product
+PMC2958468	145	uniprot:P51151	Rab9A	Gene_or_gene_product
+PMC2958468	145	uniprot:Q9NP90	Rab9B	Gene_or_gene_product
+PMC2958468	145	uniprot:UNRESOLVED ID	DENND2A-D siRNA	Gene_or_gene_product
+PMC2958468	145	uniprot:P11279	LAMP1	Gene_or_gene_product
+PMC2958468	145	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2958468	147	uniprot:P51151	Rab9A	Gene_or_gene_product
+PMC2958468	147	uniprot:Q9NP90	Rab9B	Gene_or_gene_product
+PMC2958468	147	uniprot:Q9ULE3	DENND2A	Gene_or_gene_product
+PMC2958468	147	uniprot:O00264	MPR	Gene_or_gene_product
+PMC2958468	147	uniprot:O43493	TGN46	Gene_or_gene_product
+PMC2958468	148	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2958468	150	uniprot:O00264	MPR	Gene_or_gene_product
+PMC2958468	153	uniprot:O00264	MPR	Gene_or_gene_product
+PMC2958468	154	uniprot:Q9ULE3	DENND2A	Gene_or_gene_product
+PMC2958468	154	uniprot:P51151	Rab9a-	Gene_or_gene_product
+PMC2958468	154	uniprot:Q9NP90	Rab9b	Gene_or_gene_product
+PMC2958468	155	uniprot:UNRESOLVED ID	DENND4 family proteins	Gene_or_gene_product
+PMC2958468	155	uniprot:P61026	Rab10	Gene_or_gene_product
+PMC2958468	156	uniprot:P61006	Rab8	Gene_or_gene_product
+PMC2958468	156	uniprot:P61026	Rab10	Gene_or_gene_product
+PMC2958468	157	uniprot:UNRESOLVED ID	GTPases	Gene_or_gene_product
+PMC2958468	158	uniprot:UNRESOLVED ID	Sec2 domain	Gene_or_gene_product
+PMC2958468	158	uniprot:P61006	Rab8	Gene_or_gene_product
+PMC2958468	158	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2958468	158	uniprot:P61026	Rab10	Gene_or_gene_product
+PMC2958468	159	uniprot:UNRESOLVED ID	DENND4 family proteins	Gene_or_gene_product
+PMC2958468	159	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2958468	159	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2958468	159	uniprot:P61026	Rab10	Gene_or_gene_product
+PMC2958468	159	uniprot:P61006	Rab8	Gene_or_gene_product
+PMC2958468	160	uniprot:UNRESOLVED ID	Sec2 domain proteins	Gene_or_gene_product
+PMC2958468	160	uniprot:Q96QF0	Rabin3	Gene_or_gene_product
+PMC2958468	160	uniprot:Q96QF0	Rabin8	Gene_or_gene_product
+PMC2958468	160	uniprot:UNRESOLVED ID	Rabin3-like	Gene_or_gene_product
+PMC2958468	160	uniprot:Q99NH3	GRAB	Gene_or_gene_product
+PMC2958468	160	uniprot:P61006	Rab8A	Gene_or_gene_product
+PMC2958468	160	uniprot:Q92930	Rab8B	Gene_or_gene_product
+PMC2958468	160	uniprot:P61026	Rab10	Gene_or_gene_product
+PMC2958468	161	uniprot:Q96QF0	Rabin8	Gene_or_gene_product
+PMC2958468	161	uniprot:Q99NH3	GRAB	Gene_or_gene_product
+PMC2958468	161	uniprot:UNRESOLVED ID	DENND4 family	Gene_or_gene_product
+PMC2958468	161	uniprot:P61006	Rab8	Gene_or_gene_product
+PMC2958468	161	uniprot:P61026	Rab10	Gene_or_gene_product
+PMC2958468	162	uniprot:Q7Z401	DENND4A	Gene_or_gene_product
+PMC2958468	162	uniprot:Q5VZ89	DENND4C	Gene_or_gene_product
+PMC2958468	162	uniprot:O75064	DENND4B	Gene_or_gene_product
+PMC2958468	163	uniprot:O75064	DENND4B	Gene_or_gene_product
+PMC2958468	163	uniprot:P61026	Rab10	Gene_or_gene_product
+PMC2958468	164	uniprot:Q08379	GM130	Gene_or_gene_product
+PMC2958468	165	uniprot:UNRESOLVED ID	DENND4 family proteins	Gene_or_gene_product
+PMC2958468	165	uniprot:P61026	Rab10	Gene_or_gene_product
+PMC2958468	166	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	166	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	166	uniprot:O75064	DENND4B	Gene_or_gene_product
+PMC2958468	166	uniprot:Q56704	FLAG	Species
+PMC2958468	166	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2958468	167	ncbitax:species:ncbi:9606	Human	Species
+PMC2958468	167	uniprot:Q7Z401	DENND4A	Gene_or_gene_product
+PMC2958468	167	uniprot:O75064	DENND4B	Gene_or_gene_product
+PMC2958468	167	uniprot:Q5VZ89	DENND4C	Gene_or_gene_product
+PMC2958468	167	uniprot:P61026	Rab10	Gene_or_gene_product
+PMC2958468	167	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2958468	168	uniprot:Q56704	FLAG	Species
+PMC2958468	168	uniprot:Q8WXG6	DENN	Gene_or_gene_product
+PMC2958468	171	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	171	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	171	uniprot:Q96QF0	Rabin8	Gene_or_gene_product
+PMC2958468	171	uniprot:UNRESOLVED ID	Rabin3-like	Gene_or_gene_product
+PMC2958468	171	uniprot:Q99NH3	GRAB	Gene_or_gene_product
+PMC2958468	171	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2958468	173	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2958468	173	uniprot:O75064	DENND4B	Gene_or_gene_product
+PMC2958468	173	uniprot:P61026	Rab10	Gene_or_gene_product
+PMC2958468	174	uniprot:P61026	Rab10	Gene_or_gene_product
+PMC2958468	175	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2958468	176	uniprot:Q8WXG6	DENN	Gene_or_gene_product
+PMC2958468	177	uniprot:Q8WXG6	DENN	Gene_or_gene_product
+PMC2958468	177	uniprot:A2RUS2	DENND3	Gene_or_gene_product
+PMC2958468	177	uniprot:Q6IQ26	DENND5A	Gene_or_gene_product
+PMC2958468	177	uniprot:Q6ZUT9	DENND5B	Gene_or_gene_product
+PMC2958468	177	uniprot:Q13496	myotubularin	Gene_or_gene_product
+PMC2958468	177	uniprot:O95248	MTMR5	Gene_or_gene_product
+PMC2958468	177	uniprot:Q86WG5	MTMR13	Gene_or_gene_product
+PMC2958468	177	uniprot:Q8WXG6	MADD	Gene_or_gene_product
+PMC2958468	178	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	179	uniprot:A2RUS2	DENND3	Gene_or_gene_product
+PMC2958468	179	uniprot:UNRESOLVED ID	Rab12 GEF	Gene_or_gene_product
+PMC2958468	179	uniprot:Q6IQ26	DENND5A	Gene_or_gene_product
+PMC2958468	179	uniprot:Q14964	Rab39	Gene_or_gene_product
+PMC2958468	179	uniprot:O95248	MTMR5	Gene_or_gene_product
+PMC2958468	179	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	180	uniprot:Q8WXG6	MADD	Gene_or_gene_product
+PMC2958468	180	uniprot:P51159	Rab27	Gene_or_gene_product
+PMC2958468	180	uniprot:O00194	Rab27B	Gene_or_gene_product
+PMC2958468	180	uniprot:UNRESOLVED ID	Rab3 family members	Gene_or_gene_product
+PMC2958468	181	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	181	uniprot:P25228	Rab3	Gene_or_gene_product
+PMC2958468	181	uniprot:Q8WXG6	MADD	Gene_or_gene_product
+PMC2958468	182	uniprot:Q8WXG6	DENN	Gene_or_gene_product
+PMC2958468	183	ncbitax:species:ncbi:9606	Human	Species
+PMC2958468	183	uniprot:A2RUS2	DENND3	Gene_or_gene_product
+PMC2958468	183	uniprot:Q6IQ26	DENND5A	Gene_or_gene_product
+PMC2958468	183	uniprot:Q6ZUT9	DENND5B	Gene_or_gene_product
+PMC2958468	183	uniprot:O95248	MTMR5	Gene_or_gene_product
+PMC2958468	183	uniprot:Q86WG5	MTMR13	Gene_or_gene_product
+PMC2958468	183	uniprot:Q8WXG6	MADD	Gene_or_gene_product
+PMC2958468	183	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	183	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	183	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2958468	184	uniprot:Q56704	FLAG	Species
+PMC2958468	184	uniprot:Q8WXG6	DENN	Gene_or_gene_product
+PMC2958468	187	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	188	uniprot:Q8WXG6	DENN	Gene_or_gene_product
+PMC2958468	188	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	189	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	190	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	191	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	192	ncbitax:species:ncbi:9606	Human	Species
+PMC2958468	192	ncbitax:species:ncbi:9606	Homo sapiens	Species
+PMC2958468	192	ncbitax:species:ncbi:7227	fruit fly	Species
+PMC2958468	192	ncbitax:species:ncbi:6239	nematode	Species
+PMC2958468	192	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2958468	192	ncbitax:species:ncbi:4932	yeast	Species
+PMC2958468	192	uniprot:Q96PL5	sc	Gene_or_gene_product
+PMC2958468	193	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	193	uniprot:Q10981	Sec2	Gene_or_gene_product
+PMC2958468	193	uniprot:UNRESOLVED ID	Ric1-Rgp1	Gene_or_gene_product
+PMC2958468	193	uniprot:UNRESOLVED ID	Mon1-Ccz1	Gene_or_gene_product
+PMC2958468	193	uniprot:UNRESOLVED ID	claret	Gene_or_gene_product
+PMC2958468	197	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	197	ncbitax:species:ncbi:10090	mouse	Species
+PMC2958468	197	ncbitax:species:ncbi:7955	zebrafish	Species
+PMC2958468	197	ncbitax:species:ncbi:7227	fruit fly	Species
+PMC2958468	197	ncbitax:species:ncbi:6239	nematode	Species
+PMC2958468	198	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2958468	199	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	200	uniprot:Q8WXG6	DENN	Gene_or_gene_product
+PMC2958468	200	uniprot:UNRESOLVED ID	Rab GEF	Gene_or_gene_product
+PMC2958468	201	uniprot:Q8WXG6	DENN	Gene_or_gene_product
+PMC2958468	201	ncbitax:species:ncbi:4896	fission yeast	Species
+PMC2958468	201	ncbitax:species:ncbi:4932	yeast	Species
+PMC2958468	202	uniprot:Q8WXG6	DENN	Gene_or_gene_product
+PMC2958468	202	ncbitax:species:ncbi:4932	yeast	Species
+PMC2958468	203	uniprot:Q8WXG6	MADD	Gene_or_gene_product
+PMC2958468	203	uniprot:P51159	Rab27A	Gene_or_gene_product
+PMC2958468	204	uniprot:UNRESOLVED ID	DENND1	Gene_or_gene_product
+PMC2958468	204	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2958468	204	uniprot:UNRESOLVED ID	RME-4	Gene_or_gene_product
+PMC2958468	204	uniprot:Q15286	Rab35	Gene_or_gene_product
+PMC2958468	204	ncbitax:species:ncbi:4932	yeast	Species
+PMC2958468	205	uniprot:UNRESOLVED ID	DENND1	Gene_or_gene_product
+PMC2958468	205	uniprot:Q8TEH3	connecdenn	Gene_or_gene_product
+PMC2958468	205	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	205	uniprot:Q15286	Rab35	Gene_or_gene_product
+PMC2958468	205	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	205	interpro:IPR027648	MHC class I	Gene_or_gene_product
+PMC2958468	206	uniprot:Q8TEH3	connecdenn	Gene_or_gene_product
+PMC2958468	206	uniprot:UNRESOLVED ID	clathrin	Gene_or_gene_product
+PMC2958468	206	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	207	uniprot:UNRESOLVED ID	clathrin	Gene_or_gene_product
+PMC2958468	207	uniprot:UNRESOLVED ID	Shiga toxin	Gene_or_gene_product
+PMC2958468	208	uniprot:Q779K3	STxB	Gene_or_gene_product
+PMC2958468	208	uniprot:UNRESOLVED ID	clathrin	Gene_or_gene_product
+PMC2958468	209	uniprot:A2RUS2	DENND3	Gene_or_gene_product
+PMC2958468	209	uniprot:Q8IV53	DENND1C	Gene_or_gene_product
+PMC2958468	209	uniprot:Q6IQ22	Rab12	Gene_or_gene_product
+PMC2958468	209	uniprot:P51153	Rab13	Gene_or_gene_product
+PMC2958468	210	uniprot:P51153	Rab13	Gene_or_gene_product
+PMC2958468	211	uniprot:UNRESOLVED ID	DENND1 family	Gene_or_gene_product
+PMC2958468	211	uniprot:P51153	Rab13	Gene_or_gene_product
+PMC2958468	211	uniprot:Q15286	Rab35	Gene_or_gene_product
+PMC2958468	212	uniprot:Q6IQ26	DENND5A	Gene_or_gene_product
+PMC2958468	212	uniprot:Q6IQ26	Rab6-interacting protein 1	Gene_or_gene_product
+PMC2958468	212	uniprot:Q14964	Rab39	Gene_or_gene_product
+PMC2958468	213	uniprot:Q14964	Rab39	Gene_or_gene_product
+PMC2958468	213	uniprot:Q6IQ26	DENND5A	Gene_or_gene_product
+PMC2958468	213	uniprot:Q96DA2	Rab39B	Gene_or_gene_product
+PMC2958468	214	uniprot:UNRESOLVED ID	DENND5	Gene_or_gene_product
+PMC2958468	214	uniprot:UNRESOLVED ID	fibroblast	CellType
+PMC2958468	215	uniprot:Q13496	Myotubularin	Gene_or_gene_product
+PMC2958468	215	uniprot:Q8WXG6	DENN	Gene_or_gene_product
+PMC2958468	215	uniprot:O95248	MTMR5	Gene_or_gene_product
+PMC2958468	215	uniprot:Q86WG5	MTMR13	Gene_or_gene_product
+PMC2958468	215	uniprot:P51157	Rab28	Gene_or_gene_product
+PMC2958468	216	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	216	uniprot:Q86WG5	MTMR13	Gene_or_gene_product
+PMC2958468	216	uniprot:UNRESOLVED ID	MMR13	Gene_or_gene_product
+PMC2958468	216	uniprot:O89094	mice	Species
+PMC2958468	216	uniprot:UNRESOLVED ID	nervous system	CellType
+PMC2958468	217	uniprot:UNRESOLVED ID	DENND4 family GEFs	Gene_or_gene_product
+PMC2958468	217	uniprot:P61026	Rab10	Gene_or_gene_product
+PMC2958468	218	uniprot:P61006	Rab8	Gene_or_gene_product
+PMC2958468	218	uniprot:P61026	Rab10	Gene_or_gene_product
+PMC2958468	219	ncbitax:species:ncbi:4932	yeast	Species
+PMC2958468	219	uniprot:UNRESOLVED ID	Sec4p	Gene_or_gene_product
+PMC2958468	219	uniprot:P61006	Rab8	Gene_or_gene_product
+PMC2958468	220	uniprot:P61006	Rab8	Gene_or_gene_product
+PMC2958468	221	uniprot:P61026	Rab10	Gene_or_gene_product
+PMC2958468	222	uniprot:P61006	Rab8	Gene_or_gene_product
+PMC2958468	222	uniprot:P61026	Rab10	Gene_or_gene_product
+PMC2958468	223	uniprot:UNRESOLVED ID	Sec4p	Gene_or_gene_product
+PMC2958468	223	uniprot:P61006	Rab8	Gene_or_gene_product
+PMC2958468	223	uniprot:UNRESOLVED ID	Sec2 domain GEFs	Gene_or_gene_product
+PMC2958468	223	uniprot:UNRESOLVED ID	DENND4 family GEFs	Gene_or_gene_product
+PMC2958468	223	uniprot:P61026	Rab10	Gene_or_gene_product
+PMC2958468	224	uniprot:Q96P47	CRAG	Gene_or_gene_product
+PMC2958468	224	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	224	uniprot:P98160	perlecan	Gene_or_gene_product
+PMC2958468	224	uniprot:UNRESOLVED ID	laminin	Gene_or_gene_product
+PMC2958468	225	ncbitax:species:ncbi:7227	fruit fly	Species
+PMC2958468	225	uniprot:UNRESOLVED ID	Sec2 domain protein	Gene_or_gene_product
+PMC2958468	226	uniprot:P61006	Rab8	Gene_or_gene_product
+PMC2958468	226	ncbitax:species:ncbi:7227	fruit flies	Species
+PMC2958468	226	uniprot:UNRESOLVED ID	Rab8 GEF	Gene_or_gene_product
+PMC2958468	226	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2958468	227	uniprot:UNRESOLVED ID	DENND2	Gene_or_gene_product
+PMC2958468	227	uniprot:P51151	Rab9	Gene_or_gene_product
+PMC2958468	228	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	229	uniprot:P78524	DENND2B	Gene_or_gene_product
+PMC2958468	229	uniprot:P78524	ST5	Gene_or_gene_product
+PMC2958468	229	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	229	uniprot:UNRESOLVED ID	palate	CellType
+PMC2958468	229	uazid:UA-ORG-461	kidney	Organ
+PMC2958468	230	uniprot:P51151	Rab9	Gene_or_gene_product
+PMC2958468	232	uniprot:Q8WXG6	DENN	Gene_or_gene_product
+PMC2958468	233	uniprot:Q8WXG6	DENN	Gene_or_gene_product
+PMC2958468	234	uniprot:Q8WXG6	DENN	Gene_or_gene_product
+PMC2958468	234	uniprot:Q54SD0	Rabs	Gene_or_gene_product
+PMC2958468	236	uniprot:Q8WXG6	DENN	Gene_or_gene_product
+PMC2958468	236	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2958468	236	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	237	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2958468	238	uniprot:Q8WXG6	DENN	Gene_or_gene_product
+PMC2958468	238	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	239	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	240	uniprot:Q8WXG6	DENN	Gene_or_gene_product
+PMC2958468	241	uniprot:Q8WXG6	DENN	Gene_or_gene_product
+PMC2958468	241	uniprot:UNRESOLVED ID	Rab GEF	Gene_or_gene_product
+PMC2958468	242	ncbitax:species:ncbi:4932	yeast	Species
+PMC2958468	242	uniprot:UNRESOLVED ID	Gtr2p	Gene_or_gene_product
+PMC2958468	242	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	243	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	243	uniprot:Q8NBF6	Avl9	Gene_or_gene_product
+PMC2958468	244	uniprot:Q8WXG6	DENN	Gene_or_gene_product
+PMC2958468	244	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2958468	244	uniprot:UNRESOLVED ID	GTPases	Gene_or_gene_product
+PMC2958468	244	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	246	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2958468	247	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	247	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2958468	249	uniprot:UNRESOLVED ID	Rab2/4/14	Gene_or_gene_product
+PMC2958468	250	uniprot:Q54SD0	Rabs	Gene_or_gene_product
+PMC2958468	252	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2958468	253	uniprot:Q8WXG6	DENN	Gene_or_gene_product
+PMC2958468	253	uniprot:P20073	SNX	Gene_or_gene_product
+PMC2958468	254	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	255	uniprot:UNRESOLVED ID	Rab GEF	Gene_or_gene_product
+PMC2958468	255	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2958468	255	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	256	ncbitax:species:ncbi:76720	Fisher	Species
+PMC2958468	257	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2958468	257	ncbitax:species:ncbi:9940	sheep	Species
+PMC2958468	258	ncbitax:species:ncbi:9986	Rabbit	Species
+PMC2958468	258	uniprot:Q2G0B1	rat	Species
+PMC2958468	258	uniprot:Q08378	golgin-160	Gene_or_gene_product
+PMC2958468	259	ncbitax:species:ncbi:10090	Mouse	Species
+PMC2958468	260	uniprot:Q5I2J3	alpha-tubulin	Gene_or_gene_product
+PMC2958468	260	ncbitax:species:ncbi:10090	mouse	Species
+PMC2958468	260	uniprot:Q9C0W7	alpha-adaptin	Gene_or_gene_product
+PMC2958468	260	uniprot:Q99128	gamma-adaptin	Gene_or_gene_product
+PMC2958468	260	uniprot:Q15075	EEA1	Gene_or_gene_product
+PMC2958468	260	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2958468	260	uniprot:Q56704	FLAG	Species
+PMC2958468	260	uniprot:Q08379	GM130	Gene_or_gene_product
+PMC2958468	260	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	260	uniprot:P11279	LAMP1	Gene_or_gene_product
+PMC2958468	260	uniprot:O43493	TGN46	Gene_or_gene_product
+PMC2958468	260	ncbitax:species:ncbi:9940	sheep	Species
+PMC2958468	260	uniprot:P02786	TfR	Gene_or_gene_product
+PMC2958468	260	uniprot:P11717	CI-MPR	Gene_or_gene_product
+PMC2958468	261	ncbitax:species:ncbi:9793	donkey	Species
+PMC2958468	261	ncbitax:species:ncbi:10090	mouse	Species
+PMC2958468	261	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2958468	261	ncbitax:species:ncbi:9940	sheep	Species
+PMC2958468	261	uniprot:Q96T53	goat	Species
+PMC2958468	261	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	261	uniprot:Q08168	HRP	Gene_or_gene_product
+PMC2958468	261	uniprot:UNRESOLVED ID	Alexa Fluor 488, Alexa Fluor 555, Alexa Fluor 568, and Alexa Fluor 647	Gene_or_gene_product
+PMC2958468	262	ncbitax:species:ncbi:9606	Human	Species
+PMC2958468	262	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	262	uniprot:UNRESOLVED ID	KOD polymerase	Gene_or_gene_product
+PMC2958468	262	uniprot:P50402	EMD	Gene_or_gene_product
+PMC2958468	264	ncbitax:species:ncbi:76720	Fisher	Species
+PMC2958468	265	uniprot:UNRESOLVED ID	pcDNA4	Gene_or_gene_product
+PMC2958468	266	uniprot:UNRESOLVED ID	pFAT2	Gene_or_gene_product
+PMC2958468	266	uniprot:UNRESOLVED ID	His6-glutathione S-transferase	Gene_or_gene_product
+PMC2958468	267	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	267	uniprot:UNRESOLVED ID	pFAT2	Gene_or_gene_product
+PMC2958468	267	uniprot:UNRESOLVED ID	DE3	Gene_or_gene_product
+PMC2958468	267	uniprot:Q0W2J3	pRIL	Gene_or_gene_product
+PMC2958468	267	uniprot:P07843	BL21	Gene_or_gene_product
+PMC2958468	267	uniprot:UNRESOLVED ID	pG-KGE8	Gene_or_gene_product
+PMC2958468	268	uniprot:P01298	pH	Gene_or_gene_product
+PMC2958468	268	uniprot:P10265	protease	Gene_or_gene_product
+PMC2958468	268	uniprot:Q13127	rest	Gene_or_gene_product
+PMC2958468	269	uniprot:UNRESOLVED ID	JA-17 rotor	Gene_or_gene_product
+PMC2958468	271	uniprot:UNRESOLVED ID	IMAC20	Gene_or_gene_product
+PMC2958468	271	uniprot:UNRESOLVED ID	IMAC5	Gene_or_gene_product
+PMC2958468	271	uniprot:UNRESOLVED ID	IMAC200	Gene_or_gene_product
+PMC2958468	273	uniprot:Q9UJ41	Rabex5	Gene_or_gene_product
+PMC2958468	273	uniprot:Q96QF0	Rabin3	Gene_or_gene_product
+PMC2958468	273	uniprot:Q99NH3	GRAB	Gene_or_gene_product
+PMC2958468	273	uniprot:UNRESOLVED ID	DENND1B-S	Gene_or_gene_product
+PMC2958468	273	uniprot:UNRESOLVED ID	DENND1B-L	Gene_or_gene_product
+PMC2958468	273	uniprot:UNRESOLVED ID	DENND2A-D	Gene_or_gene_product
+PMC2958468	273	uniprot:UNRESOLVED ID	pQE32	Gene_or_gene_product
+PMC2958468	273	uniprot:Q54SD0	Rabs	Gene_or_gene_product
+PMC2958468	274	uniprot:Q6IQ22	Rab12	Gene_or_gene_product
+PMC2958468	274	uniprot:Q14964	Rab39	Gene_or_gene_product
+PMC2958468	274	uniprot:UNRESOLVED ID	His6-glutathione S-transferase	Gene_or_gene_product
+PMC2958468	274	uniprot:UNRESOLVED ID	pFAT2	Gene_or_gene_product
+PMC2958468	274	ncbitax:species:ncbi:10469	baculovirus	Species
+PMC2958468	277	uniprot:UNRESOLVED ID	JA-17 rotor	Gene_or_gene_product
+PMC2958468	279	uniprot:P01298	pH	Gene_or_gene_product
+PMC2958468	281	uniprot:UNRESOLVED ID	Recombinant STxB	Gene_or_gene_product
+PMC2958468	281	uniprot:UNRESOLVED ID	pTrc99A in Escherichia coli BL21	Gene_or_gene_product
+PMC2958468	281	uniprot:UNRESOLVED ID	DE3	Gene_or_gene_product
+PMC2958468	283	uniprot:P01298	pH	Gene_or_gene_product
+PMC2958468	286	uniprot:P01298	pH	Gene_or_gene_product
+PMC2958468	287	uniprot:P01298	pH	Gene_or_gene_product
+PMC2958468	289	uniprot:Q779K3	STxB	Gene_or_gene_product
+PMC2958468	293	uniprot:UNRESOLVED ID	monoreactive N-hydroxysuccinimidyl Cy3	Gene_or_gene_product
+PMC2958468	294	uniprot:P01298	pH	Gene_or_gene_product
+PMC2958468	297	uniprot:UNRESOLVED ID	Cy3 and 170,000 M-1cm-1	Gene_or_gene_product
+PMC2958468	299	uniprot:Q54CD8	HeLa	CellType
+PMC2958468	299	ncbitax:species:ncbi:9913	calf	Species
+PMC2958468	299	uniprot:UNRESOLVED ID	serum	CellType
+PMC2958468	300	uniprot:UNRESOLVED ID	Mirus LT1	Gene_or_gene_product
+PMC2958468	301	uniprot:Q56704	FLAG	Species
+PMC2958468	301	uniprot:Q8TEH3	DENND1A	Gene_or_gene_product
+PMC2958468	301	uniprot:Q8IV53	DENND1C	Gene_or_gene_product
+PMC2958468	301	uniprot:A2RUS2	DENND3	Gene_or_gene_product
+PMC2958468	301	uniprot:Q7Z401	DENND4A	Gene_or_gene_product
+PMC2958468	301	uniprot:O75064	DENND4B	Gene_or_gene_product
+PMC2958468	301	uniprot:Q5VZ89	DENND4C	Gene_or_gene_product
+PMC2958468	301	uniprot:Q6IQ26	DENND5A	Gene_or_gene_product
+PMC2958468	301	uniprot:Q6ZUT9	DENND5B	Gene_or_gene_product
+PMC2958468	301	uniprot:O95248	MTMR5	Gene_or_gene_product
+PMC2958468	301	uniprot:Q86WG5	MTMR13	Gene_or_gene_product
+PMC2958468	301	uniprot:Q8WXG6	MADD	Gene_or_gene_product
+PMC2958468	302	uniprot:P01298	pH	Gene_or_gene_product
+PMC2958468	302	uniprot:P10265	protease	Gene_or_gene_product
+PMC2958468	303	uniprot:UNRESOLVED ID	5417R Microfuge	Gene_or_gene_product
+PMC2958468	303	uniprot:UNRESOLVED ID	Eppendorf	Gene_or_gene_product
+PMC2958468	304	uniprot:Q56704	FLAG	Species
+PMC2958468	305	uniprot:P01298	pH	Gene_or_gene_product
+PMC2958468	308	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2958468	309	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2958468	309	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2958468	309	uniprot:P01298	pH	Gene_or_gene_product
+PMC2958468	309	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2958468	309	uniprot:D6RGH6	mCi	Gene_or_gene_product
+PMC2958468	310	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2958468	310	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2958468	311	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2958468	314	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2958468	315	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2958468	315	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2958468	315	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2958468	315	uniprot:D6RGH6	mCi	Gene_or_gene_product
+PMC2958468	316	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2958468	317	uazid:UA-ORG-506	lens	Organ
+PMC2958468	317	uniprot:UNRESOLVED ID	CoolSNAP HQ2 camera	Gene_or_gene_product
+PMC2958468	317	uniprot:P43034	MDS	Gene_or_gene_product
+PMC2958468	318	uniprot:Q9BQT9	CS3	Gene_or_gene_product
+PMC2958468	318	uniprot:UNRESOLVED ID	ImageJ	Gene_or_gene_product
+PMC2958468	320	uniprot:P70059	trypsin	Gene_or_gene_product
+PMC2958468	321	uniprot:UNRESOLVED ID	Orbitrap XL ETD mass-spectrometer	Gene_or_gene_product
+PMC2958468	321	ncbitax:species:ncbi:76720	Fisher	Species
+PMC2958468	322	uniprot:P13686	trap	Gene_or_gene_product
+PMC2958468	323	uniprot:P13686	trap	Gene_or_gene_product
+PMC2958468	325	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	327	ncbitax:species:ncbi:76720	Fisher	Species
+PMC2958468	328	uniprot:UNRESOLVED ID	ClustalX	Gene_or_gene_product
+PMC2958468	328	uazid:UA-ORG-599	MUSCLE	Organ
+PMC2958468	329	uniprot:UNRESOLVED ID	ClustalX	Gene_or_gene_product
+PMC2958468	330	uniprot:UNRESOLVED ID	ANCHOR	Gene_or_gene_product
+PMC2958468	332	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2958468	333	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	333	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2958468	334	uniprot:UNRESOLVED ID	Table S1	Gene_or_gene_product
+PMC2958468	334	ncbitax:species:ncbi:9606	human	Species
+PMC2958468	334	ncbitax:species:ncbi:10090	mouse	Species
+PMC2958468	334	ncbitax:species:ncbi:7955	zebrafish	Species
+PMC2958468	334	ncbitax:species:ncbi:7227	fruit fly	Species
+PMC2958468	334	ncbitax:species:ncbi:6239	nematode	Species
+PMC2958468	335	uniprot:UNRESOLVED ID	http://www.jcb.org/cgi/content/full/jcb.201008051/DC1	Gene_or_gene_product
+PMC2958468	336	uniprot:UNRESOLVED ID	08246/Z/07	Gene_or_gene_product
+PMC2958468	337	uniprot:UNRESOLVED ID	GAP GTPase-activating protein	Gene_or_gene_product
+PMC2958468	337	uniprot:Q9NR83	GEF	Gene_or_gene_product
+PMC2958468	337	uniprot:O00264	MPR	Gene_or_gene_product
+PMC2958468	338	uniprot:P20936	GTPase-activating protein	Gene_or_gene_product

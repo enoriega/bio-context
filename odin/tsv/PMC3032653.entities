@@ -1,0 +1,192 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC3032653	0	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC3032653	0	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	1	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC3032653	2	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC3032653	4	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	4	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC3032653	5	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	5	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC3032653	5	uniprot:P08100	Rho	Gene_or_gene_product
+PMC3032653	5	uniprot:UNRESOLVED ID	myosin	Gene_or_gene_product
+PMC3032653	6	uniprot:Q92974	GEF-H1	Gene_or_gene_product
+PMC3032653	6	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC3032653	7	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	7	uniprot:Q99323	myosin II	Gene_or_gene_product
+PMC3032653	7	uniprot:O75116	Rock II	Gene_or_gene_product
+PMC3032653	7	uniprot:Q9P2M7	cingulin	Gene_or_gene_product
+PMC3032653	7	uniprot:P08100	Rho	Gene_or_gene_product
+PMC3032653	7	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC3032653	8	ncbitax:species:ncbi:9606	human	Species
+PMC3032653	8	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	9	uniprot:UNRESOLVED ID	pCDNA4	Gene_or_gene_product
+PMC3032653	11	uniprot:UNRESOLVED ID	p114RhoGEF GST	Gene_or_gene_product
+PMC3032653	11	uniprot:UNRESOLVED ID	pGEX-4T-3	Gene_or_gene_product
+PMC3032653	12	uniprot:UNRESOLVED ID	pcDNA6	Gene_or_gene_product
+PMC3032653	12	uniprot:P02786	TR	Gene_or_gene_product
+PMC3032653	13	uniprot:UNRESOLVED ID	myc-cingulin	Gene_or_gene_product
+PMC3032653	14	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	14	uniprot:Q6ZSZ5	ARHGEF18	Gene_or_gene_product
+PMC3032653	14	uniprot:Q9P2M7	Cingulin	Gene_or_gene_product
+PMC3032653	14	uniprot:Q0VF96	CGNL1	Gene_or_gene_product
+PMC3032653	14	uniprot:Q92974	GEF-H1	Gene_or_gene_product
+PMC3032653	14	uniprot:Q92974	ARHGEF2	Gene_or_gene_product
+PMC3032653	15	uniprot:Q92974	GEF-H1	Gene_or_gene_product
+PMC3032653	17	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	18	ncbitax:species:ncbi:10090	mouse	Species
+PMC3032653	19	uniprot:Q9P2M7	cingulin	Gene_or_gene_product
+PMC3032653	19	uniprot:UNRESOLVED ID	GGACCAGGGUGAAGAUUUA-3' and 5'- GGACACAGGAGGAGCUUAA-3'	Gene_or_gene_product
+PMC3032653	20	uniprot:UNRESOLVED ID	Interferin	Gene_or_gene_product
+PMC3032653	21	uniprot:O60942	HCE	Gene_or_gene_product
+PMC3032653	25	uniprot:Q96T53	goat	Species
+PMC3032653	25	uniprot:UNRESOLVED ID	anti-p114 RhoGEF	Gene_or_gene_product
+PMC3032653	25	uniprot:Q6ZSZ5	ARHGEF18	Gene_or_gene_product
+PMC3032653	25	ncbitax:species:ncbi:10090	mouse	Species
+PMC3032653	25	ncbitax:species:ncbi:9986	rabbit	Species
+PMC3032653	25	ncbitax:species:ncbi:10141	guinea pig	Species
+PMC3032653	25	uniprot:UNRESOLVED ID	anti-myosin IIA	Gene_or_gene_product
+PMC3032653	25	uniprot:UNRESOLVED ID	anti-beta-catenin	Gene_or_gene_product
+PMC3032653	25	uniprot:UNRESOLVED ID	anti-p120catenin	Gene_or_gene_product
+PMC3032653	25	uniprot:UNRESOLVED ID	anti-cofilin	Gene_or_gene_product
+PMC3032653	25	uniprot:UNRESOLVED ID	anti-Rock II	Gene_or_gene_product
+PMC3032653	25	uniprot:O14974	MYPT1	Gene_or_gene_product
+PMC3032653	26	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC3032653	26	ncbitax:species:ncbi:9986	rabbit	Species
+PMC3032653	26	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC3032653	26	ncbitax:species:ncbi:9606	human	Species
+PMC3032653	27	uniprot:Q5I2J3	alpha-tubulin	Gene_or_gene_product
+PMC3032653	27	ncbitax:species:ncbi:10090	mouse	Species
+PMC3032653	27	uniprot:Q92974	GEF-H1	Gene_or_gene_product
+PMC3032653	27	ncbitax:species:ncbi:9986	rabbit	Species
+PMC3032653	27	uniprot:P01106	myc	Gene_or_gene_product
+PMC3032653	29	ncbitax:species:ncbi:9606	Human	Species
+PMC3032653	29	uazid:UA-ORG-172	colon	Organ
+PMC3032653	29	ncbitax:species:ncbi:9606	human	Species
+PMC3032653	29	uniprot:O60942	HCE	Gene_or_gene_product
+PMC3032653	29	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC3032653	29	uazid:UA-ORG-126	Canine	Organ
+PMC3032653	29	uazid:UA-ORG-461	Kidney	Organ
+PMC3032653	29	uniprot:UNRESOLVED ID	MDCK	Gene_or_gene_product
+PMC3032653	29	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC3032653	29	uniprot:UNRESOLVED ID	Caco-2	Gene_or_gene_product
+PMC3032653	33	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC3032653	36	uniprot:Q9NZ01	TER	Gene_or_gene_product
+PMC3032653	36	uniprot:Q13510	AC	Gene_or_gene_product
+PMC3032653	36	uniprot:UNRESOLVED ID	EVOM	Gene_or_gene_product
+PMC3032653	36	uniprot:UNRESOLVED ID	Sarasota	Gene_or_gene_product
+PMC3032653	36	uniprot:O04064	FL	Gene_or_gene_product
+PMC3032653	39	uniprot:UNRESOLVED ID	FITC	Gene_or_gene_product
+PMC3032653	39	uniprot:UNRESOLVED ID	Cy3	Gene_or_gene_product
+PMC3032653	39	uniprot:UNRESOLVED ID	Cy5	Gene_or_gene_product
+PMC3032653	39	uniprot:UNRESOLVED ID	AMCA	Gene_or_gene_product
+PMC3032653	39	uniprot:UNRESOLVED ID	TRITC	Gene_or_gene_product
+PMC3032653	39	uniprot:UNRESOLVED ID	Phalloidin	Gene_or_gene_product
+PMC3032653	39	uniprot:UNRESOLVED ID	Sigma	Gene_or_gene_product
+PMC3032653	41	uniprot:P05154	PCI	Gene_or_gene_product
+PMC3032653	41	uniprot:UNRESOLVED ID	LSM510	Gene_or_gene_product
+PMC3032653	41	uniprot:Q24648	ZEN	Gene_or_gene_product
+PMC3032653	43	uniprot:UNRESOLVED ID	pRaichu-RhoA	Gene_or_gene_product
+PMC3032653	44	uniprot:Q02086	SP2	Gene_or_gene_product
+PMC3032653	44	uniprot:P21578	YFP	Gene_or_gene_product
+PMC3032653	45	uniprot:UNRESOLVED ID	FRET	Gene_or_gene_product
+PMC3032653	46	uniprot:P27918	CFP	Gene_or_gene_product
+PMC3032653	46	uniprot:UNRESOLVED ID	ImageJ	Gene_or_gene_product
+PMC3032653	49	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC3032653	49	uniprot:UNRESOLVED ID	RhoGTPase	Gene_or_gene_product
+PMC3032653	50	uniprot:UNRESOLVED ID	needle	CellType
+PMC3032653	52	ncbitax:species:ncbi:3704	horseradish	Species
+PMC3032653	53	uniprot:UNRESOLVED ID	IRDye-680-	Gene_or_gene_product
+PMC3032653	53	uniprot:UNRESOLVED ID	LI-COR	Gene_or_gene_product
+PMC3032653	54	uniprot:P01298	pH	Gene_or_gene_product
+PMC3032653	54	uniprot:P20132	SDS	Gene_or_gene_product
+PMC3032653	54	uniprot:P10265	protease	Gene_or_gene_product
+PMC3032653	55	uniprot:UNRESOLVED ID	Protein G sepharose beads	Gene_or_gene_product
+PMC3032653	57	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC3032653	57	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	59	uniprot:UNRESOLVED ID	RhoGTPase	Gene_or_gene_product
+PMC3032653	59	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC3032653	59	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC3032653	59	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC3032653	60	uniprot:Q08168	HRP	Gene_or_gene_product
+PMC3032653	61	uniprot:UNRESOLVED ID	GTPases	Gene_or_gene_product
+PMC3032653	62	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	62	uniprot:UNRESOLVED ID	RhoA GEF	Gene_or_gene_product
+PMC3032653	63	uniprot:O60942	HCE	Gene_or_gene_product
+PMC3032653	63	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	63	uniprot:UNRESOLVED ID	p114RG	Gene_or_gene_product
+PMC3032653	64	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	64	uniprot:Q5I2J3	alpha-tubulin	Gene_or_gene_product
+PMC3032653	66	uniprot:O60942	HCE	Gene_or_gene_product
+PMC3032653	67	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	68	uniprot:UNRESOLVED ID	Panels b	Gene_or_gene_product
+PMC3032653	69	uniprot:P08100	Rho	Gene_or_gene_product
+PMC3032653	69	uniprot:O60942	HCE	Gene_or_gene_product
+PMC3032653	69	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	71	uniprot:O60942	HCE	Gene_or_gene_product
+PMC3032653	71	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	71	uniprot:UNRESOLVED ID	siRNA1 and 2	Gene_or_gene_product
+PMC3032653	71	uniprot:UNRESOLVED ID	label f-actin	Gene_or_gene_product
+PMC3032653	72	uniprot:Q86YQ2	base	Gene_or_gene_product
+PMC3032653	73	uniprot:O60942	HCE	Gene_or_gene_product
+PMC3032653	75	ncbitax:species:ncbi:41568	mum	Species
+PMC3032653	76	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	77	uniprot:Q13510	a-c	Gene_or_gene_product
+PMC3032653	77	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	77	uniprot:UNRESOLVED ID	OnT	Gene_or_gene_product
+PMC3032653	78	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	82	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC3032653	82	uniprot:UNRESOLVED ID	f-actin	Gene_or_gene_product
+PMC3032653	82	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	82	uniprot:UNRESOLVED ID	myosin IIA	Gene_or_gene_product
+PMC3032653	85	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	85	uniprot:Q92974	GEF-H1	Gene_or_gene_product
+PMC3032653	86	ncbitax:species:ncbi:41568	mum	Species
+PMC3032653	87	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	88	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	92	ncbitax:species:ncbi:41568	mum	Species
+PMC3032653	93	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	94	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	94	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC3032653	95	uniprot:Q24174	a-b	Gene_or_gene_product
+PMC3032653	95	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC3032653	96	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC3032653	96	uniprot:P27918	CFP	Gene_or_gene_product
+PMC3032653	97	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	97	uniprot:Q92974	GEF-H1	Gene_or_gene_product
+PMC3032653	98	uniprot:P08100	Rho	Gene_or_gene_product
+PMC3032653	99	uniprot:UNRESOLVED ID	FRET	Gene_or_gene_product
+PMC3032653	99	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	99	uniprot:Q92974	GEF-H1	Gene_or_gene_product
+PMC3032653	99	uniprot:O60942	HCE	Gene_or_gene_product
+PMC3032653	100	uniprot:Q188R7	c-d	Gene_or_gene_product
+PMC3032653	100	uniprot:O60942	HCE	Gene_or_gene_product
+PMC3032653	101	uniprot:O60942	HCE	Gene_or_gene_product
+PMC3032653	102	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC3032653	102	uniprot:UNRESOLVED ID	p114RhoGEF-VSV	Gene_or_gene_product
+PMC3032653	102	uniprot:UNRESOLVED ID	p114RhoGEFY260A-VSV	Gene_or_gene_product
+PMC3032653	104	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	104	uniprot:Q92974	GEF-H1	Gene_or_gene_product
+PMC3032653	106	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	107	uniprot:O60942	HCE	Gene_or_gene_product
+PMC3032653	109	uniprot:O60942	HCE	Gene_or_gene_product
+PMC3032653	109	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC3032653	109	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC3032653	109	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC3032653	109	ncbitax:species:ncbi:9606	human	Species
+PMC3032653	110	uniprot:Q07157	ZO-1	Gene_or_gene_product
+PMC3032653	110	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC3032653	111	ncbitax:species:ncbi:41568	mum	Species
+PMC3032653	112	uniprot:Q99323	myosin II	Gene_or_gene_product
+PMC3032653	112	uniprot:Q9P2M7	cingulin	Gene_or_gene_product
+PMC3032653	112	uniprot:UNRESOLVED ID	Rock	Gene_or_gene_product
+PMC3032653	113	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	114	uniprot:Q96T53	goat	Species
+PMC3032653	114	uniprot:UNRESOLVED ID	IgG	Gene_or_gene_product
+PMC3032653	117	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC3032653	117	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	119	uniprot:Q9P2M7	cingulin	Gene_or_gene_product
+PMC3032653	120	uniprot:O60942	HCE	Gene_or_gene_product
+PMC3032653	120	uniprot:Q6ZSZ5	p114RhoGEF	Gene_or_gene_product
+PMC3032653	121	uniprot:Q9P2M7	cingulin	Gene_or_gene_product
+PMC3032653	122	uniprot:O60942	HCE	Gene_or_gene_product
+PMC3032653	124	ncbitax:species:ncbi:41568	mum	Species

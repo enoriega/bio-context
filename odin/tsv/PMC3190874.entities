@@ -1,0 +1,477 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC3190874	0	uazid:UA-ORG-407	Immunoglobulin	Organ
+PMC3190874	1	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC3190874	2	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC3190874	2	uniprot:UNRESOLVED ID	Fcepsilon receptor I	Gene_or_gene_product
+PMC3190874	2	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	2	uazid:UA-ORG-83	basophils	Organ
+PMC3190874	2	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC3190874	3	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	4	uniprot:UNRESOLVED ID	serum	CellType
+PMC3190874	4	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC3190874	4	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	5	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC3190874	5	uniprot:UNRESOLVED ID	IgE receptor	Gene_or_gene_product
+PMC3190874	6	uazid:UA-ORG-159	chest	Organ
+PMC3190874	7	ncbitax:species:ncbi:9606	people	Species
+PMC3190874	9	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC3190874	10	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC3190874	10	uniprot:UNRESOLVED ID	Fcepsilon receptor I	Gene_or_gene_product
+PMC3190874	10	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	10	uniprot:P06734	FcepsilonRII	Gene_or_gene_product
+PMC3190874	10	uniprot:UNRESOLVED ID	CD23	Gene_or_gene_product
+PMC3190874	11	ncbitax:species:ncbi:9606	humans	Species
+PMC3190874	11	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	11	uazid:UA-ORG-83	basophils	Organ
+PMC3190874	11	uazid:UA-CT-10	Langerhans cells	CellType
+PMC3190874	11	uazid:UA-CT-16	macrophages	CellType
+PMC3190874	11	uazid:UA-ORG-246	eosinophils	Organ
+PMC3190874	12	uniprot:UNRESOLVED ID	FcepsilonRI alpha-subunit	Gene_or_gene_product
+PMC3190874	12	uniprot:P12319	FcepsilonRIalpha	Gene_or_gene_product
+PMC3190874	12	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	12	uniprot:UNRESOLVED ID	beta- and gamma-subunits	Gene_or_gene_product
+PMC3190874	12	uniprot:UNRESOLVED ID	FcRbeta	Gene_or_gene_product
+PMC3190874	12	uniprot:P30273	FcRgamma	Gene_or_gene_product
+PMC3190874	12	uniprot:UNRESOLVED ID	Fc receptors	Gene_or_gene_product
+PMC3190874	12	uniprot:UNRESOLVED ID	T cell	CellType
+PMC3190874	13	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC3190874	13	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	14	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	14	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC3190874	15	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	15	uazid:UA-ORG-83	basophils	Organ
+PMC3190874	16	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	16	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC3190874	17	uniprot:UNRESOLVED ID	CD23	Gene_or_gene_product
+PMC3190874	17	uazid:UA-CT-100002	B cells	CellType
+PMC3190874	17	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC3190874	17	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC3190874	18	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	18	uniprot:UNRESOLVED ID	serum	CellType
+PMC3190874	18	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC3190874	19	uniprot:UNRESOLVED ID	anti-IgE antibody	Gene_or_gene_product
+PMC3190874	20	uniprot:UNRESOLVED ID	serum	CellType
+PMC3190874	20	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC3190874	20	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	20	uazid:UA-ORG-83	basophils	Organ
+PMC3190874	21	uazid:UA-CLine-100061	mast cell	CellType
+PMC3190874	21	uazid:UA-ORG-83	basophil	Organ
+PMC3190874	21	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	22	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	22	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC3190874	22	uniprot:UNRESOLVED ID	serum	CellType
+PMC3190874	23	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	24	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	24	uazid:UA-CLine-100061	mast cell	CellType
+PMC3190874	25	uniprot:UNRESOLVED ID	CD23	Gene_or_gene_product
+PMC3190874	26	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	27	uniprot:P12319	FcepsilonRIalpha	Gene_or_gene_product
+PMC3190874	27	uniprot:UNRESOLVED ID	FcRbeta	Gene_or_gene_product
+PMC3190874	27	uniprot:P30273	FcRgamma	Gene_or_gene_product
+PMC3190874	27	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	28	uniprot:P12319	FcepsilonRIalpha	Gene_or_gene_product
+PMC3190874	28	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC3190874	29	uniprot:P30273	FcRgamma	Gene_or_gene_product
+PMC3190874	29	uniprot:UNRESOLVED ID	ITAM	Gene_or_gene_product
+PMC3190874	29	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	30	uniprot:UNRESOLVED ID	FcRbeta	Gene_or_gene_product
+PMC3190874	31	ncbitax:species:ncbi:9606	human	Species
+PMC3190874	32	uniprot:P12319	FcepsilonRIalpha	Gene_or_gene_product
+PMC3190874	32	uniprot:P03372	ER	Gene_or_gene_product
+PMC3190874	32	uniprot:UNRESOLVED ID	FcepsilonRIalpha sequence	Gene_or_gene_product
+PMC3190874	33	uniprot:P12319	FcepsilonRIalpha	Gene_or_gene_product
+PMC3190874	33	uniprot:P30273	FcRgamma	Gene_or_gene_product
+PMC3190874	34	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	34	uniprot:UNRESOLVED ID	ITAM	Gene_or_gene_product
+PMC3190874	34	uniprot:UNRESOLVED ID	FcRbeta	Gene_or_gene_product
+PMC3190874	35	uniprot:P52594	Rab	Gene_or_gene_product
+PMC3190874	35	uniprot:UNRESOLVED ID	GTPases	Gene_or_gene_product
+PMC3190874	35	uniprot:P20339	Rab5	Gene_or_gene_product
+PMC3190874	35	uniprot:Q9UJ41	Rabex-5	Gene_or_gene_product
+PMC3190874	35	uniprot:Q9UJ41	RabGEF1	Gene_or_gene_product
+PMC3190874	35	uniprot:Q15276	Rabaptin-5	Gene_or_gene_product
+PMC3190874	35	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	38	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	39	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	40	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	40	uniprot:P12931	Src	Gene_or_gene_product
+PMC3190874	40	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC3190874	41	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	41	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC3190874	41	uniprot:UNRESOLVED ID	FcR beta-subunit	Gene_or_gene_product
+PMC3190874	42	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	42	uniprot:O43561	LAT	Gene_or_gene_product
+PMC3190874	43	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	44	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	44	uniprot:UNRESOLVED ID	FcepsilonRI proteins	Gene_or_gene_product
+PMC3190874	45	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	46	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	47	uniprot:UNRESOLVED ID	Src family kinases	Gene_or_gene_product
+PMC3190874	47	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	48	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC3190874	48	uniprot:P12931	Src	Gene_or_gene_product
+PMC3190874	48	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	48	uniprot:UNRESOLVED ID	FcRbeta	Gene_or_gene_product
+PMC3190874	48	uniprot:P30273	FcRgamma	Gene_or_gene_product
+PMC3190874	49	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC3190874	49	uazid:UA-CLine-100061	mast cell	CellType
+PMC3190874	49	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	50	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC3190874	50	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	50	uniprot:P43405	Syk	Gene_or_gene_product
+PMC3190874	50	uniprot:Q92793	Cbp	Gene_or_gene_product
+PMC3190874	50	uniprot:Q9NWQ8	Csk-binding protein	Gene_or_gene_product
+PMC3190874	50	uniprot:P41240	Csk	Gene_or_gene_product
+PMC3190874	50	uniprot:UNRESOLVED ID	Src family kinases	Gene_or_gene_product
+PMC3190874	51	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC3190874	51	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	52	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC3190874	52	uazid:UA-CLine-100061	mast cell	CellType
+PMC3190874	52	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC3190874	52	ncbitax:species:ncbi:10090	mouse	Species
+PMC3190874	53	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	53	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC3190874	54	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC3190874	54	uniprot:O89094	mice	Species
+PMC3190874	54	uniprot:UNRESOLVED ID	serum	CellType
+PMC3190874	54	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC3190874	54	uazid:UA-CLine-100061	mast cell	CellType
+PMC3190874	55	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC3190874	55	uniprot:O89094	mice	Species
+PMC3190874	55	uazid:UA-CLine-100061	mast cell	CellType
+PMC3190874	55	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	56	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC3190874	56	uniprot:O89094	mice	Species
+PMC3190874	56	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC3190874	56	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	56	uazid:UA-CLine-100061	mast cell	CellType
+PMC3190874	57	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	58	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	59	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	59	uniprot:UNRESOLVED ID	Src family kinases	Gene_or_gene_product
+PMC3190874	59	uniprot:P43405	Syk	Gene_or_gene_product
+PMC3190874	60	uniprot:UNRESOLVED ID	Adaptor proteins	Gene_or_gene_product
+PMC3190874	60	uniprot:O43561	LAT	Gene_or_gene_product
+PMC3190874	60	uniprot:UNRESOLVED ID	NTAL/LAB/LAT2	Gene_or_gene_product
+PMC3190874	60	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC3190874	60	uniprot:O75791	Gads	Gene_or_gene_product
+PMC3190874	60	uniprot:Q13094	SLP76	Gene_or_gene_product
+PMC3190874	60	uniprot:UNRESOLVED ID	aqua	Gene_or_gene_product
+PMC3190874	61	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3190874	61	uniprot:Q9NYA1	SphK	Gene_or_gene_product
+PMC3190874	61	uniprot:Q2TXS4	PLD	Gene_or_gene_product
+PMC3190874	61	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC3190874	62	uniprot:P03372	ER	Gene_or_gene_product
+PMC3190874	63	uniprot:Q06187	Btk	Gene_or_gene_product
+PMC3190874	63	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3190874	63	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC3190874	63	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC3190874	63	uniprot:UNRESOLVED ID	PDK1/Akt/mTOR	Gene_or_gene_product
+PMC3190874	63	uniprot:UNRESOLVED ID	PKCs	Gene_or_gene_product
+PMC3190874	63	uniprot:UNRESOLVED ID	NF-kappaB	Gene_or_gene_product
+PMC3190874	64	uniprot:P02810	PA	Gene_or_gene_product
+PMC3190874	64	uniprot:Q8WSR4	IP3R	Gene_or_gene_product
+PMC3190874	64	uniprot:Q8WSR4	inositol 1,4,5-trisphosphate receptor	Gene_or_gene_product
+PMC3190874	65	uniprot:UNRESOLVED ID	Src family kinases	Gene_or_gene_product
+PMC3190874	65	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	65	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC3190874	65	uniprot:P08631	Hck	Gene_or_gene_product
+PMC3190874	66	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC3190874	66	uniprot:P08631	Hck	Gene_or_gene_product
+PMC3190874	66	uazid:UA-CLine-100061	mast cell	CellType
+PMC3190874	66	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	67	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC3190874	67	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3190874	67	uniprot:Q9NYA1	SphK	Gene_or_gene_product
+PMC3190874	67	uniprot:Q2TXS4	PLD	Gene_or_gene_product
+PMC3190874	68	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC3190874	68	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC3190874	68	uniprot:P08631	Hck	Gene_or_gene_product
+PMC3190874	69	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC3190874	69	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC3190874	69	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	70	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC3190874	70	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC3190874	71	ncbitax:species:ncbi:9606	humans	Species
+PMC3190874	71	uniprot:UNRESOLVED ID	3beta-hydroxysterol Delta7-reductase	Gene_or_gene_product
+PMC3190874	71	uniprot:Q9UBM7	DHCR7	Gene_or_gene_product
+PMC3190874	72	uniprot:Q9UBM7	DHCR7	Gene_or_gene_product
+PMC3190874	72	uniprot:O89094	mice	Species
+PMC3190874	72	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	72	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC3190874	73	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC3190874	73	uniprot:Q9UBM7	DHCR7	Gene_or_gene_product
+PMC3190874	73	ncbitax:species:ncbi:10090	mouse	Species
+PMC3190874	73	uazid:UA-CLine-100061	mast cell	CellType
+PMC3190874	73	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	74	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	74	uniprot:P43405	Syk	Gene_or_gene_product
+PMC3190874	74	uniprot:UNRESOLVED ID	FcepsilonRI complex	Gene_or_gene_product
+PMC3190874	74	uniprot:P30273	FcRgamma	Gene_or_gene_product
+PMC3190874	75	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	75	uniprot:P43405	Syk	Gene_or_gene_product
+PMC3190874	75	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC3190874	76	uniprot:P43405	Syk	Gene_or_gene_product
+PMC3190874	76	uniprot:O43561	LAT	Gene_or_gene_product
+PMC3190874	76	uniprot:UNRESOLVED ID	NTAL/LAB/LAT2	Gene_or_gene_product
+PMC3190874	77	uazid:UA-CLine-100061	mast cell	CellType
+PMC3190874	78	uniprot:P43405	Syk	Gene_or_gene_product
+PMC3190874	78	uazid:UA-CLine-100061	mast cell	CellType
+PMC3190874	79	uniprot:UNRESOLVED ID	Adaptor Proteins	Gene_or_gene_product
+PMC3190874	79	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	80	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	80	uniprot:O43561	LAT	Gene_or_gene_product
+PMC3190874	80	uniprot:UNRESOLVED ID	NTAL/LAB/LAT2	Gene_or_gene_product
+PMC3190874	81	uniprot:O43561	LAT	Gene_or_gene_product
+PMC3190874	81	uniprot:P43405	Syk	Gene_or_gene_product
+PMC3190874	81	uniprot:UNRESOLVED ID	phospholipase Cgamma	Gene_or_gene_product
+PMC3190874	81	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC3190874	81	uniprot:P08100	Rho	Gene_or_gene_product
+PMC3190874	81	uniprot:O75791	p38	Gene_or_gene_product
+PMC3190874	81	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC3190874	81	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3190874	81	uazid:UA-CLine-100061	mast cell	CellType
+PMC3190874	82	uniprot:O43561	LAT	Gene_or_gene_product
+PMC3190874	82	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	83	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC3190874	83	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	83	ncbitax:species:ncbi:10090	mouse	Species
+PMC3190874	83	ncbitax:species:ncbi:9606	human	Species
+PMC3190874	84	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC3190874	84	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	84	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC3190874	84	uniprot:O43561	LAT	Gene_or_gene_product
+PMC3190874	85	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC3190874	85	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC3190874	86	N/A	Grb2	Gene_or_gene_product
+PMC3190874	86	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC3190874	87	uniprot:O75791	Gads-	Gene_or_gene_product
+PMC3190874	87	uniprot:Q13094	SLP76	Gene_or_gene_product
+PMC3190874	87	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC3190874	87	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	87	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC3190874	88	uniprot:O43561	LAT	Gene_or_gene_product
+PMC3190874	88	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC3190874	88	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	88	uniprot:UNRESOLVED ID	scaffolding complexes	Gene_or_gene_product
+PMC3190874	88	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC3190874	88	uniprot:O75791	Gads	Gene_or_gene_product
+PMC3190874	88	uniprot:Q13094	SLP76	Gene_or_gene_product
+PMC3190874	89	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	90	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	90	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC3190874	90	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3190874	90	uniprot:Q9NYA1	SphK	Gene_or_gene_product
+PMC3190874	90	uniprot:Q2TXS4	PLD	Gene_or_gene_product
+PMC3190874	91	uniprot:UNRESOLVED ID	PI3K enzymes	Gene_or_gene_product
+PMC3190874	91	uniprot:Q02574	PIP3	Gene_or_gene_product
+PMC3190874	92	uniprot:UNRESOLVED ID	PI3K enzyme family	Gene_or_gene_product
+PMC3190874	93	uniprot:UNRESOLVED ID	class I PI3Ks	Gene_or_gene_product
+PMC3190874	93	uniprot:UNRESOLVED ID	class IB PI3Ks	Gene_or_gene_product
+PMC3190874	94	uniprot:UNRESOLVED ID	class IA PI3Ks	Gene_or_gene_product
+PMC3190874	94	uniprot:O43439	p85	Gene_or_gene_product
+PMC3190874	94	uniprot:P14907	p110	Gene_or_gene_product
+PMC3190874	95	uniprot:UNRESOLVED ID	class IB PI3Ks	Gene_or_gene_product
+PMC3190874	95	uniprot:Q8I5D2	p101	Gene_or_gene_product
+PMC3190874	95	uniprot:Q5UE93	p87PIKAP	Gene_or_gene_product
+PMC3190874	95	uniprot:UNRESOLVED ID	p110 catalytic gamma-subunit	Gene_or_gene_product
+PMC3190874	96	uniprot:P42336	p110 alpha-	Gene_or_gene_product
+PMC3190874	96	uniprot:UNRESOLVED ID	p110 delta- and gamma-isoforms	Gene_or_gene_product
+PMC3190874	96	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3190874	96	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3190874	97	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3190874	97	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3190874	97	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	98	uniprot:O00329	p110delta	Gene_or_gene_product
+PMC3190874	98	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	98	uazid:UA-CLine-100061	mast cell	CellType
+PMC3190874	99	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3190874	99	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	99	uazid:UA-CLine-100061	mast cell	CellType
+PMC3190874	100	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3190874	100	uniprot:UNRESOLVED ID	G-protein-coupled receptors	Gene_or_gene_product
+PMC3190874	101	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	101	uazid:UA-CLine-100061	mast cell	CellType
+PMC3190874	102	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3190874	102	uniprot:O89094	mice	Species
+PMC3190874	103	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3190874	103	uniprot:O89094	mice	Species
+PMC3190874	103	uazid:UA-CLine-100061	mast cell	CellType
+PMC3190874	104	uniprot:Q02574	PIP3	Gene_or_gene_product
+PMC3190874	104	uniprot:UNRESOLVED ID	PI3K enzymes	Gene_or_gene_product
+PMC3190874	104	uniprot:P08567	pleckstrin	Gene_or_gene_product
+PMC3190874	105	uniprot:O15530	PDK1	Gene_or_gene_product
+PMC3190874	105	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3190874	105	uniprot:Q06187	Btk	Gene_or_gene_product
+PMC3190874	105	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC3190874	106	uniprot:Q02574	PIP3	Gene_or_gene_product
+PMC3190874	106	uniprot:Q2TXS4	PLD	Gene_or_gene_product
+PMC3190874	106	uniprot:Q9NYA1	SphK	Gene_or_gene_product
+PMC3190874	107	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3190874	107	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC3190874	107	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC3190874	108	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC3190874	108	uniprot:O89094	mice	Species
+PMC3190874	108	uniprot:Q02574	PIP3	Gene_or_gene_product
+PMC3190874	108	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3190874	109	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	109	uniprot:O95267	RasGRP1	Gene_or_gene_product
+PMC3190874	111	uniprot:Q9NYA1	SphK	Gene_or_gene_product
+PMC3190874	111	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	111	uazid:UA-CLine-100061	mast cell	CellType
+PMC3190874	112	uniprot:Q9NRA0	SphK2	Gene_or_gene_product
+PMC3190874	112	uazid:UA-CLine-100061	mast cell	CellType
+PMC3190874	113	uniprot:Q9NYA1	SphK1	Gene_or_gene_product
+PMC3190874	113	uniprot:P21453	S1P1	Gene_or_gene_product
+PMC3190874	113	uniprot:O95136	S1P2	Gene_or_gene_product
+PMC3190874	113	uniprot:UNRESOLVED ID	S1P2 receptors	Gene_or_gene_product
+PMC3190874	113	uazid:UA-CLine-100061	mast cell	CellType
+PMC3190874	113	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	114	uazid:UA-ORG-381	hand	Organ
+PMC3190874	114	uniprot:Q9NYA1	SphK1	Gene_or_gene_product
+PMC3190874	114	uniprot:Q9NRA0	SphK2	Gene_or_gene_product
+PMC3190874	114	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	115	uazid:UA-CLine-100061	mast cell	CellType
+PMC3190874	115	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	115	uniprot:P21453	S1P1	Gene_or_gene_product
+PMC3190874	115	uniprot:O95136	S1P2	Gene_or_gene_product
+PMC3190874	115	uniprot:UNRESOLVED ID	S1P2 receptors	Gene_or_gene_product
+PMC3190874	116	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	117	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	118	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	118	uniprot:P03372	ER	Gene_or_gene_product
+PMC3190874	119	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC3190874	120	uniprot:P03372	ER	Gene_or_gene_product
+PMC3190874	121	uniprot:P03372	ER	Gene_or_gene_product
+PMC3190874	122	uniprot:UNRESOLVED ID	PKCs	Gene_or_gene_product
+PMC3190874	122	uniprot:UNRESOLVED ID	NF-kappaB	Gene_or_gene_product
+PMC3190874	122	uazid:UA-CLine-100061	mast cell	CellType
+PMC3190874	124	uniprot:Q13586	STIM1	Gene_or_gene_product
+PMC3190874	124	uniprot:Q13586	stromal interaction molecule 1	Gene_or_gene_product
+PMC3190874	124	uniprot:P03372	ER	Gene_or_gene_product
+PMC3190874	125	uniprot:Q96D31	Orai1	Gene_or_gene_product
+PMC3190874	125	uniprot:Q96D31	CRACM1	Gene_or_gene_product
+PMC3190874	126	uniprot:Q96D31	Orai1	Gene_or_gene_product
+PMC3190874	126	ncbitax:species:ncbi:9606	humans	Species
+PMC3190874	127	uniprot:Q13586	STIM1	Gene_or_gene_product
+PMC3190874	127	uniprot:Q96D31	Orai1	Gene_or_gene_product
+PMC3190874	127	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	127	uazid:UA-CLine-100061	mast cell	CellType
+PMC3190874	128	uniprot:P43405	Syk	Gene_or_gene_product
+PMC3190874	128	uniprot:P13678	PKC	Gene_or_gene_product
+PMC3190874	129	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	130	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	131	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	131	uniprot:P34223	SHP-1	Gene_or_gene_product
+PMC3190874	131	uniprot:Q06124	SHP-2	Gene_or_gene_product
+PMC3190874	131	uniprot:P43405	Syk	Gene_or_gene_product
+PMC3190874	131	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC3190874	131	uniprot:O43561	LAT	Gene_or_gene_product
+PMC3190874	131	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC3190874	132	uniprot:P23469	Protein-tyrosine phosphatase epsilon	Gene_or_gene_product
+PMC3190874	132	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	132	uniprot:P43405	Syk	Gene_or_gene_product
+PMC3190874	133	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3190874	133	uniprot:Q92835	SHIP	Gene_or_gene_product
+PMC3190874	133	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3190874	133	uniprot:Q02574	PIP3	Gene_or_gene_product
+PMC3190874	134	uniprot:Q92835	SHIP	Gene_or_gene_product
+PMC3190874	134	uniprot:Q02574	PIP3	Gene_or_gene_product
+PMC3190874	134	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3190874	135	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3190874	135	uniprot:O14921	RGS13	Gene_or_gene_product
+PMC3190874	135	uniprot:Q8IWV1	LAX	Gene_or_gene_product
+PMC3190874	135	uniprot:O43439	p85	Gene_or_gene_product
+PMC3190874	135	uniprot:UNRESOLVED ID	Grb2-NTAL scaffolding complex	Gene_or_gene_product
+PMC3190874	136	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	137	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	137	uniprot:Q8TD43	TRPM4	Gene_or_gene_product
+PMC3190874	137	uniprot:O00206	TLR4	Gene_or_gene_product
+PMC3190874	137	uniprot:UNRESOLVED ID	ES62 product	Gene_or_gene_product
+PMC3190874	137	ncbitax:species:ncbi:6239	nematodes	Species
+PMC3190874	137	uniprot:P17252	PKCalpha	Gene_or_gene_product
+PMC3190874	137	uniprot:Q2TXS4	PLD	Gene_or_gene_product
+PMC3190874	137	uniprot:Q9NYA1	SphK	Gene_or_gene_product
+PMC3190874	138	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	139	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	139	uniprot:P41240	Csk	Gene_or_gene_product
+PMC3190874	139	uniprot:P23469	protein-tyrosine phosphatase epsilon	Gene_or_gene_product
+PMC3190874	139	uniprot:UNRESOLVED ID	PTPepsilon	Gene_or_gene_product
+PMC3190874	139	uniprot:P34223	SHP-1	Gene_or_gene_product
+PMC3190874	139	uniprot:Q06124	SHP-2	Gene_or_gene_product
+PMC3190874	140	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3190874	140	uniprot:Q92835	SHIP	Gene_or_gene_product
+PMC3190874	140	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3190874	140	uniprot:Q8IWV1	LAX	Gene_or_gene_product
+PMC3190874	140	uniprot:O14921	RGS13	Gene_or_gene_product
+PMC3190874	141	uniprot:P20936	RasGAP	Gene_or_gene_product
+PMC3190874	142	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	142	uniprot:Q8TD43	TRPM4	Gene_or_gene_product
+PMC3190874	142	uniprot:O00206	TLR4	Gene_or_gene_product
+PMC3190874	142	uniprot:UNRESOLVED ID	ES62 product	Gene_or_gene_product
+PMC3190874	142	ncbitax:species:ncbi:6239	nematodes	Species
+PMC3190874	142	uniprot:Q9NYA1	SphK	Gene_or_gene_product
+PMC3190874	142	uniprot:Q2TXS4	PLD	Gene_or_gene_product
+PMC3190874	142	uniprot:UNRESOLVED ID	SphK- and PLD-activating PKCalpha	Gene_or_gene_product
+PMC3190874	143	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	143	uniprot:Q92835	SHIP	Gene_or_gene_product
+PMC3190874	143	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3190874	143	uniprot:Q93070	DOK1	Gene_or_gene_product
+PMC3190874	144	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	144	uniprot:P34223	SHP-1	Gene_or_gene_product
+PMC3190874	144	uniprot:Q06124	SHP-2	Gene_or_gene_product
+PMC3190874	146	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	147	uniprot:UNRESOLVED ID	ITIM-containing receptors	Gene_or_gene_product
+PMC3190874	147	uniprot:P31994	FcgammaRIIb	Gene_or_gene_product
+PMC3190874	147	uniprot:P97484	PIR-B	Gene_or_gene_product
+PMC3190874	147	uniprot:UNRESOLVED ID	gp49B1	Gene_or_gene_product
+PMC3190874	147	uazid:UA-ORG-407	immunoglobulin	Organ
+PMC3190874	147	uniprot:Q96E93	mast cell function-associated antigen	Gene_or_gene_product
+PMC3190874	147	uniprot:Q7Z6M3	Allergin-1	Gene_or_gene_product
+PMC3190874	148	uniprot:P31994	FcgammaRIIb	Gene_or_gene_product
+PMC3190874	148	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	149	uniprot:P31994	FcgammaRIIb	Gene_or_gene_product
+PMC3190874	149	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	149	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC3190874	149	uniprot:UNRESOLVED ID	FcgammaRIIb ITIM motif	Gene_or_gene_product
+PMC3190874	149	uniprot:UNRESOLVED ID	protein-tyrosine phosphatase	Gene_or_gene_product
+PMC3190874	149	uniprot:Q92835	SHIP	Gene_or_gene_product
+PMC3190874	149	uniprot:Q93070	DOK1	Gene_or_gene_product
+PMC3190874	149	uniprot:UNRESOLVED ID	FcepsilonRI complex	Gene_or_gene_product
+PMC3190874	150	uniprot:Q92835	SHIP	Gene_or_gene_product
+PMC3190874	150	uniprot:Q02574	PIP3	Gene_or_gene_product
+PMC3190874	150	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3190874	151	uniprot:Q93070	DOK1	Gene_or_gene_product
+PMC3190874	151	uniprot:P20936	RasGAP	Gene_or_gene_product
+PMC3190874	151	uniprot:UNRESOLVED ID	GTPase	Gene_or_gene_product
+PMC3190874	152	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	152	uniprot:P34223	SHP-1	Gene_or_gene_product
+PMC3190874	152	uniprot:Q06124	SHP-2	Gene_or_gene_product
+PMC3190874	153	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	154	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	155	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	155	uazid:UA-CLine-100061	mast cell	CellType
+PMC3190874	156	uniprot:P43405	Syk	Gene_or_gene_product
+PMC3190874	156	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3190874	156	ncbitax:species:ncbi:9606	human	Species
+PMC3190874	157	uniprot:Q06187	Btk	Gene_or_gene_product
+PMC3190874	158	uniprot:Q13586	STIM1	Gene_or_gene_product
+PMC3190874	158	uniprot:Q96D31	Orai1	Gene_or_gene_product
+PMC3190874	159	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	160	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	161	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	161	uniprot:UNRESOLVED ID	ITIM-containing receptors	Gene_or_gene_product
+PMC3190874	161	uniprot:P31994	FcgammaRIIb	Gene_or_gene_product
+PMC3190874	162	uniprot:UNRESOLVED ID	IgE-Fc	Gene_or_gene_product
+PMC3190874	162	uniprot:UNRESOLVED ID	IgG-Fc	Gene_or_gene_product
+PMC3190874	162	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	162	uniprot:P31994	FcgammaRIIb	Gene_or_gene_product
+PMC3190874	162	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC3190874	162	uniprot:UNRESOLVED ID	ITIM-containing receptors	Gene_or_gene_product
+PMC3190874	165	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	166	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	167	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC3190874	168	uniprot:P03372	ER	Gene_or_gene_product
+PMC3190874	168	uniprot:Q9NYA1	SphK	Gene_or_gene_product
+PMC3190874	168	uniprot:P20936	RasGAP	Gene_or_gene_product
+PMC3190874	169	uniprot:UNRESOLVED ID	Fcepsilon receptor	Gene_or_gene_product

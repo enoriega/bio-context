@@ -1,0 +1,690 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2172498	0	uniprot:UNRESOLVED ID	Netrins	Gene_or_gene_product
+PMC2172498	0	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	0	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	1	uniprot:UNRESOLVED ID	NFAT proteins	Gene_or_gene_product
+PMC2172498	3	uniprot:UNRESOLVED ID	promyogenic Ig superfamily members	Gene_or_gene_product
+PMC2172498	3	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	3	uniprot:Q9BWV1	BOC	Gene_or_gene_product
+PMC2172498	4	uniprot:UNRESOLVED ID	nervous system	CellType
+PMC2172498	5	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	5	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	6	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	6	uniprot:UNRESOLVED ID	NFAT	Gene_or_gene_product
+PMC2172498	7	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	7	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	7	uniprot:UNRESOLVED ID	recombinant netrin	Gene_or_gene_product
+PMC2172498	8	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	8	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	9	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC2172498	9	uazid:UA-CT-200002	embryo	Organ
+PMC2172498	9	uazid:UA-ORG-599	muscle	Organ
+PMC2172498	10	uniprot:UNRESOLVED ID	myogenic bHLH transcription factors	Gene_or_gene_product
+PMC2172498	10	uniprot:P13349	Myf5	Gene_or_gene_product
+PMC2172498	10	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2172498	10	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2172498	10	uniprot:P23409	MRF4	Gene_or_gene_product
+PMC2172498	11	uniprot:Q02078	MEF2	Gene_or_gene_product
+PMC2172498	11	uniprot:UNRESOLVED ID	NFAT	Gene_or_gene_product
+PMC2172498	14	uniprot:UNRESOLVED ID	myoblast	CellType
+PMC2172498	14	uniprot:Q9W4S7	DM	Gene_or_gene_product
+PMC2172498	14	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2172498	14	uazid:UA-ORG-599	muscle	Organ
+PMC2172498	15	uniprot:UNRESOLVED ID	serum	CellType
+PMC2172498	16	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC2172498	17	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	17	uniprot:UNRESOLVED ID	Ig	Gene_or_gene_product
+PMC2172498	17	uniprot:UNRESOLVED ID	FNIII	Gene_or_gene_product
+PMC2172498	18	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	18	uniprot:O89094	mice	Species
+PMC2172498	18	uazid:UA-ORG-599	muscle	Organ
+PMC2172498	19	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	19	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2172498	20	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	20	uniprot:UNRESOLVED ID	Ig	Gene_or_gene_product
+PMC2172498	20	uniprot:Q9BWV1	protein BOC	Gene_or_gene_product
+PMC2172498	20	uniprot:P55291	M-cadherin	Gene_or_gene_product
+PMC2172498	22	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2172498	23	uniprot:UNRESOLVED ID	Netrins	Gene_or_gene_product
+PMC2172498	24	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	24	uniprot:UNRESOLVED ID	Ig	Gene_or_gene_product
+PMC2172498	24	uniprot:UNRESOLVED ID	FNIII repeat family	Gene_or_gene_product
+PMC2172498	24	uniprot:P43146	DCC	Gene_or_gene_product
+PMC2172498	24	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	24	uniprot:UNRESOLVED ID	thrombospondin repeats	Gene_or_gene_product
+PMC2172498	24	uniprot:UNRESOLVED ID	UNC-5H proteins	Gene_or_gene_product
+PMC2172498	25	uniprot:P43146	DCC	Gene_or_gene_product
+PMC2172498	25	uniprot:UNRESOLVED ID	DCC receptors	Gene_or_gene_product
+PMC2172498	25	uniprot:Q9PVD5	UNC-5	Gene_or_gene_product
+PMC2172498	26	uniprot:UNRESOLVED ID	netrins	Gene_or_gene_product
+PMC2172498	26	uniprot:UNRESOLVED ID	netrin receptors	Gene_or_gene_product
+PMC2172498	26	uniprot:UNRESOLVED ID	nervous system	CellType
+PMC2172498	28	uniprot:O95631	netrin-1	Gene_or_gene_product
+PMC2172498	28	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	28	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	28	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC2172498	29	uniprot:O95631	netrin-1	Gene_or_gene_product
+PMC2172498	29	uazid:UA-ORG-623	neurons	Organ
+PMC2172498	29	uniprot:O75791	p38	Gene_or_gene_product
+PMC2172498	29	uniprot:Q8NFH3	p42	Gene_or_gene_product
+PMC2172498	30	uazid:UA-ORG-182	cones	Organ
+PMC2172498	30	uniprot:P43146	DCC	Gene_or_gene_product
+PMC2172498	30	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2172498	31	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	32	uniprot:O95631	netrin-1	Gene_or_gene_product
+PMC2172498	32	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	32	uazid:UA-ORG-360	gland	Organ
+PMC2172498	33	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	33	ncbitax:species:ncbi:7955	zebrafish	Species
+PMC2172498	33	uazid:UA-ORG-599	muscle	Organ
+PMC2172498	34	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	34	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	35	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	35	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	35	uniprot:UNRESOLVED ID	NFAT	Gene_or_gene_product
+PMC2172498	36	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	36	uniprot:UNRESOLVED ID	NFAT	Gene_or_gene_product
+PMC2172498	36	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	37	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	37	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	37	uniprot:UNRESOLVED ID	netrin	Gene_or_gene_product
+PMC2172498	38	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	38	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	39	uniprot:UNRESOLVED ID	netrins	Gene_or_gene_product
+PMC2172498	39	uniprot:UNRESOLVED ID	netrin receptors	Gene_or_gene_product
+PMC2172498	40	uniprot:UNRESOLVED ID	Ig	Gene_or_gene_product
+PMC2172498	40	uniprot:UNRESOLVED ID	FNIII repeat proteins	Gene_or_gene_product
+PMC2172498	40	uniprot:UNRESOLVED ID	netrin receptors	Gene_or_gene_product
+PMC2172498	41	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	42	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	43	uniprot:P43146	DCC	Gene_or_gene_product
+PMC2172498	44	uniprot:UNRESOLVED ID	myoblast	CellType
+PMC2172498	44	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2172498	44	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	45	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2172498	45	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2172498	45	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	45	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	46	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2172498	46	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	46	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	47	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	48	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	48	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	48	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	48	uazid:UA-ORG-599	muscle	Organ
+PMC2172498	52	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2172498	52	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2172498	52	uniprot:UNRESOLVED ID	pan-cadherin antibody	Gene_or_gene_product
+PMC2172498	53	uniprot:Q9W4S7	DM	Gene_or_gene_product
+PMC2172498	55	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2172498	56	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	58	uniprot:UNRESOLVED ID	netrins	Gene_or_gene_product
+PMC2172498	59	uniprot:O00634	Netrin-3	Gene_or_gene_product
+PMC2172498	60	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	61	uniprot:O95631	netrin-1	Gene_or_gene_product
+PMC2172498	62	uniprot:O00634	Netrin-3	Gene_or_gene_product
+PMC2172498	62	uniprot:UNRESOLVED ID	netrins-1 and -2	Gene_or_gene_product
+PMC2172498	62	ncbitax:species:ncbi:9031	chick	Species
+PMC2172498	62	uniprot:O95631	netrin-1	Gene_or_gene_product
+PMC2172498	62	uniprot:Q2G0B1	rat	Species
+PMC2172498	62	uazid:UA-ORG-895	spinal cord	Organ
+PMC2172498	62	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2172498	63	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	64	uniprot:UNRESOLVED ID	myoblast	CellType
+PMC2172498	64	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	64	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	65	uniprot:Q92859	Neogenin	Gene_or_gene_product
+PMC2172498	65	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	66	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	66	ncbitax:species:ncbi:9606	human	Species
+PMC2172498	67	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	68	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	69	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2172498	69	uniprot:UNRESOLVED ID	serum	CellType
+PMC2172498	69	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2172498	71	uniprot:Q92859	Neogenin	Gene_or_gene_product
+PMC2172498	71	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	72	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	73	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2172498	73	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	74	uniprot:UNRESOLVED ID	C2C12	Gene_or_gene_product
+PMC2172498	74	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	74	uniprot:Q05000	myosin heavy chain	Gene_or_gene_product
+PMC2172498	74	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2172498	74	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	75	uazid:UA-ORG-599	muscle	Organ
+PMC2172498	75	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2172498	75	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2172498	75	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2172498	75	uniprot:P13805	TnT	Gene_or_gene_product
+PMC2172498	75	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	76	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	77	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	77	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	78	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	79	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	79	uniprot:UNRESOLVED ID	pan-cadherin antibodies	Gene_or_gene_product
+PMC2172498	80	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	81	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	81	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2172498	81	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2172498	82	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2172498	83	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	84	uniprot:P46060	SD	Gene_or_gene_product
+PMC2172498	85	uazid:UA-ORG-599	muscle	Organ
+PMC2172498	86	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	86	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	87	ncbitax:species:ncbi:10090	mouse	Species
+PMC2172498	87	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	88	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	89	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	90	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	90	uniprot:UNRESOLVED ID	nlacZ	Gene_or_gene_product
+PMC2172498	90	uniprot:P16278	beta-galactosidase	Gene_or_gene_product
+PMC2172498	90	uniprot:B1JI86	beta-gal	Gene_or_gene_product
+PMC2172498	91	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2172498	91	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2172498	91	uniprot:B1JI86	beta-gal	Gene_or_gene_product
+PMC2172498	92	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	92	uniprot:B1JI86	beta-gal	Gene_or_gene_product
+PMC2172498	94	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	95	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	96	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	96	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	97	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	98	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	99	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	99	uniprot:UNRESOLVED ID	pan-cadherin antibody	Gene_or_gene_product
+PMC2172498	100	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	100	uniprot:UNRESOLVED ID	nlacZ	Gene_or_gene_product
+PMC2172498	100	uniprot:B1JI86	beta-gal	Gene_or_gene_product
+PMC2172498	101	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2172498	101	uniprot:B1JI86	beta-gal	Gene_or_gene_product
+PMC2172498	103	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	104	uniprot:P46060	SD	Gene_or_gene_product
+PMC2172498	105	uniprot:P02775	pBP	Gene_or_gene_product
+PMC2172498	105	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	105	uniprot:UNRESOLVED ID	pBabePuro	Gene_or_gene_product
+PMC2172498	105	ncbitax:species:ncbi:9606	human	Species
+PMC2172498	105	uniprot:UNRESOLVED ID	hNeogenin	Gene_or_gene_product
+PMC2172498	105	uniprot:UNRESOLVED ID	nlacZ	Gene_or_gene_product
+PMC2172498	106	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2172498	106	uniprot:B1JI86	beta-gal	Gene_or_gene_product
+PMC2172498	107	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2172498	108	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	109	uniprot:P46060	SD	Gene_or_gene_product
+PMC2172498	110	uniprot:UNRESOLVED ID	beta-gal+	Gene_or_gene_product
+PMC2172498	111	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	111	ncbitax:species:ncbi:9606	human	Species
+PMC2172498	112	ncbitax:species:ncbi:10090	mouse	Species
+PMC2172498	112	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	112	ncbitax:species:ncbi:9606	human	Species
+PMC2172498	113	ncbitax:species:ncbi:9606	human	Species
+PMC2172498	113	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	113	uniprot:Q116L4	pSil	Gene_or_gene_product
+PMC2172498	113	uniprot:P02775	pBP	Gene_or_gene_product
+PMC2172498	113	uniprot:UNRESOLVED ID	hNeogenin	Gene_or_gene_product
+PMC2172498	114	uniprot:P02775	pBP	Gene_or_gene_product
+PMC2172498	115	uniprot:P02775	pBP	Gene_or_gene_product
+PMC2172498	115	uniprot:UNRESOLVED ID	RNAi	Gene_or_gene_product
+PMC2172498	115	uniprot:UNRESOLVED ID	hNeogenin	Gene_or_gene_product
+PMC2172498	116	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	117	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	118	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	119	uniprot:UNRESOLVED ID	Recombinant netrin	Gene_or_gene_product
+PMC2172498	119	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	120	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	120	uniprot:UNRESOLVED ID	myoblast	CellType
+PMC2172498	120	ncbitax:species:ncbi:10090	mouse	Species
+PMC2172498	121	ncbitax:species:ncbi:10090	Mouse	Species
+PMC2172498	121	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	121	ncbitax:species:ncbi:9606	human	Species
+PMC2172498	121	ncbitax:species:ncbi:9031	chicken	Species
+PMC2172498	122	ncbitax:species:ncbi:9031	chicken	Species
+PMC2172498	123	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2172498	123	ncbitax:species:ncbi:9031	chicken	Species
+PMC2172498	124	uniprot:Q90923	netrin-2	Gene_or_gene_product
+PMC2172498	125	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	126	uazid:UA-ORG-599	muscle	Organ
+PMC2172498	126	uniprot:Q90923	netrin-2	Gene_or_gene_product
+PMC2172498	126	uniprot:P13805	TnT	Gene_or_gene_product
+PMC2172498	126	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2172498	126	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2172498	126	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2172498	126	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	127	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	127	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	127	uniprot:P13805	TnT	Gene_or_gene_product
+PMC2172498	127	uazid:UA-ORG-599	muscle	Organ
+PMC2172498	128	uniprot:Q90923	Netrin-2	Gene_or_gene_product
+PMC2172498	128	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	129	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2172498	129	ncbitax:species:ncbi:9031	chicken	Species
+PMC2172498	129	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2172498	131	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	132	uniprot:P46060	SD	Gene_or_gene_product
+PMC2172498	133	uazid:UA-ORG-599	muscle	Organ
+PMC2172498	133	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2172498	133	ncbitax:species:ncbi:9031	chicken	Species
+PMC2172498	134	uniprot:Q90923	netrin-2	Gene_or_gene_product
+PMC2172498	134	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	134	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	134	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2172498	135	uniprot:Q90923	netrin-2	Gene_or_gene_product
+PMC2172498	136	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	136	uniprot:Q90923	netrin-2	Gene_or_gene_product
+PMC2172498	137	uniprot:Q90923	netrin-2	Gene_or_gene_product
+PMC2172498	137	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	137	uniprot:UNRESOLVED ID	netrin receptor	Gene_or_gene_product
+PMC2172498	137	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	138	uniprot:Q90923	Netrin-2	Gene_or_gene_product
+PMC2172498	138	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	138	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	139	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	140	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2172498	140	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2172498	141	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2172498	142	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	143	uniprot:P46060	SD	Gene_or_gene_product
+PMC2172498	144	uniprot:Q92859	Neogenin	Gene_or_gene_product
+PMC2172498	144	uniprot:UNRESOLVED ID	myogenic bHLH factor-	Gene_or_gene_product
+PMC2172498	144	uniprot:UNRESOLVED ID	NFAT	Gene_or_gene_product
+PMC2172498	145	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	145	uniprot:UNRESOLVED ID	myogenic bHLH factor	Gene_or_gene_product
+PMC2172498	145	uniprot:O95631	netrin-1	Gene_or_gene_product
+PMC2172498	145	uniprot:P43146	DCC	Gene_or_gene_product
+PMC2172498	145	uniprot:UNRESOLVED ID	NFAT	Gene_or_gene_product
+PMC2172498	146	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	146	uniprot:UNRESOLVED ID	myogenic bHLH factors	Gene_or_gene_product
+PMC2172498	146	uniprot:UNRESOLVED ID	NFAT	Gene_or_gene_product
+PMC2172498	147	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	148	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2172498	148	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2172498	148	uniprot:UNRESOLVED ID	4Rtk-luc	Gene_or_gene_product
+PMC2172498	148	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	149	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	149	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2172498	150	uniprot:Q92859	Neogenin	Gene_or_gene_product
+PMC2172498	150	uniprot:UNRESOLVED ID	myogenic bHLH factor-	Gene_or_gene_product
+PMC2172498	150	uniprot:UNRESOLVED ID	NFAT	Gene_or_gene_product
+PMC2172498	151	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	151	uniprot:UNRESOLVED ID	luciferase reporter	Gene_or_gene_product
+PMC2172498	152	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2172498	152	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	152	uniprot:UNRESOLVED ID	luciferase reporter	Gene_or_gene_product
+PMC2172498	153	uniprot:UNRESOLVED ID	NFAT-luc	Gene_or_gene_product
+PMC2172498	153	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	153	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	153	uniprot:UNRESOLVED ID	luciferase reporter	Gene_or_gene_product
+PMC2172498	154	uniprot:UNRESOLVED ID	NFAT-luc	Gene_or_gene_product
+PMC2172498	154	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	154	uniprot:UNRESOLVED ID	luciferase reporter	Gene_or_gene_product
+PMC2172498	156	uniprot:Q12968	NFATc3	Gene_or_gene_product
+PMC2172498	156	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2172498	156	ncbitax:species:ncbi:9031	chicken	Species
+PMC2172498	157	uniprot:Q12968	NFATc3	Gene_or_gene_product
+PMC2172498	158	uniprot:Q90923	Netrin-2	Gene_or_gene_product
+PMC2172498	158	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	158	uniprot:Q12968	NFATc3	Gene_or_gene_product
+PMC2172498	159	uniprot:Q12968	NFATc3	Gene_or_gene_product
+PMC2172498	159	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	159	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2172498	159	uniprot:Q90923	netrin-2	Gene_or_gene_product
+PMC2172498	160	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	161	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	161	uniprot:UNRESOLVED ID	NFAT-luciferase reporter	Gene_or_gene_product
+PMC2172498	161	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	161	uniprot:UNRESOLVED ID	NFAT	Gene_or_gene_product
+PMC2172498	162	uniprot:O95644	NFATc	Gene_or_gene_product
+PMC2172498	162	uniprot:Q12968	NFATc3	Gene_or_gene_product
+PMC2172498	163	uniprot:UNRESOLVED ID	netrin-neogenin	Gene_or_gene_product
+PMC2172498	163	uniprot:Q12968	NFATc3	Gene_or_gene_product
+PMC2172498	163	ncbitax:species:ncbi:9031	chicken	Species
+PMC2172498	163	uniprot:Q90923	netrin-2	Gene_or_gene_product
+PMC2172498	164	uniprot:Q90923	netrin-2	Gene_or_gene_product
+PMC2172498	164	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	164	uniprot:UNRESOLVED ID	NFAT-luciferase reporter	Gene_or_gene_product
+PMC2172498	165	uniprot:Q90923	netrin-2	Gene_or_gene_product
+PMC2172498	165	uniprot:Q12968	NFATc3	Gene_or_gene_product
+PMC2172498	165	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	165	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2172498	166	uniprot:Q90923	Netrin-2	Gene_or_gene_product
+PMC2172498	166	uniprot:Q12968	NFATc3	Gene_or_gene_product
+PMC2172498	166	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	166	uniprot:Q90923	netrin-2	Gene_or_gene_product
+PMC2172498	167	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	168	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	168	uniprot:Q90923	netrin-2	Gene_or_gene_product
+PMC2172498	168	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	168	uniprot:Q12968	NFATc3	Gene_or_gene_product
+PMC2172498	169	uniprot:Q92859	Neogenin	Gene_or_gene_product
+PMC2172498	169	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	170	uniprot:UNRESOLVED ID	Ig	Gene_or_gene_product
+PMC2172498	170	uniprot:UNRESOLVED ID	FNIII proteins	Gene_or_gene_product
+PMC2172498	171	uniprot:UNRESOLVED ID	Robo	Gene_or_gene_product
+PMC2172498	171	uniprot:UNRESOLVED ID	Robo receptors	Gene_or_gene_product
+PMC2172498	171	uniprot:P43146	DCC	Gene_or_gene_product
+PMC2172498	171	uniprot:Q9BWV1	BOC	Gene_or_gene_product
+PMC2172498	171	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	172	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	172	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	173	uniprot:Q92859	Neogenin	Gene_or_gene_product
+PMC2172498	173	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	173	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	174	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	174	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	175	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	175	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	176	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	176	uniprot:UNRESOLVED ID	M-cadherins	Gene_or_gene_product
+PMC2172498	176	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	177	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	177	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	178	uniprot:Q92859	Neogenin	Gene_or_gene_product
+PMC2172498	178	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	179	uniprot:P21912	IP	Gene_or_gene_product
+PMC2172498	179	uniprot:UNRESOLVED ID	WB	Gene_or_gene_product
+PMC2172498	181	uniprot:Q9W4S7	DM	Gene_or_gene_product
+PMC2172498	182	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2172498	184	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	184	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	185	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	185	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	186	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	186	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	187	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	187	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	188	uniprot:Q92859	Neogenin	Gene_or_gene_product
+PMC2172498	188	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	188	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	189	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	189	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	190	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	190	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	191	uniprot:UNRESOLVED ID	CDO-neogenin	Gene_or_gene_product
+PMC2172498	192	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	192	uniprot:UNRESOLVED ID	Ig and three FNIII repeats	Gene_or_gene_product
+PMC2172498	192	uniprot:UNRESOLVED ID	tail	CellType
+PMC2172498	193	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	193	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	193	uniprot:UNRESOLVED ID	Ig	Gene_or_gene_product
+PMC2172498	193	uniprot:UNRESOLVED ID	FNIII	Gene_or_gene_product
+PMC2172498	194	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	194	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	195	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	195	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	196	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	196	uniprot:UNRESOLVED ID	DeltaFN2	Gene_or_gene_product
+PMC2172498	196	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	197	uniprot:UNRESOLVED ID	DeltaIg2	Gene_or_gene_product
+PMC2172498	197	uniprot:UNRESOLVED ID	DeltaIg4	Gene_or_gene_product
+PMC2172498	197	uniprot:UNRESOLVED ID	DeltaIg5	Gene_or_gene_product
+PMC2172498	197	uniprot:UNRESOLVED ID	DeltaFN1	Gene_or_gene_product
+PMC2172498	198	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	198	uniprot:Q32SG3	Ig1	Gene_or_gene_product
+PMC2172498	198	uniprot:UNRESOLVED ID	FN2	Gene_or_gene_product
+PMC2172498	199	uniprot:UNRESOLVED ID	Ig repeat 3	Gene_or_gene_product
+PMC2172498	199	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	200	uniprot:UNRESOLVED ID	CDO signal sequence	Gene_or_gene_product
+PMC2172498	200	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	200	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	201	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	201	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	202	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	202	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	202	uniprot:UNRESOLVED ID	netrin receptor	Gene_or_gene_product
+PMC2172498	203	uniprot:Q9BWV1	BOC	Gene_or_gene_product
+PMC2172498	203	uniprot:UNRESOLVED ID	netrin-1-Fc	Gene_or_gene_product
+PMC2172498	203	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	203	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	204	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	204	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	204	uniprot:UNRESOLVED ID	netrin-neogenin	Gene_or_gene_product
+PMC2172498	204	uniprot:O89094	mice	Species
+PMC2172498	204	uniprot:Q16878	Cdo	Gene_or_gene_product
+PMC2172498	204	ncbitax:species:ncbi:9031	chicken	Species
+PMC2172498	205	uniprot:UNRESOLVED ID	Cdo+/+	Gene_or_gene_product
+PMC2172498	205	uniprot:Q16878	Cdo-/-	Gene_or_gene_product
+PMC2172498	205	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2172498	205	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2172498	206	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	206	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	206	uniprot:Q16878	Cdo	Gene_or_gene_product
+PMC2172498	207	uniprot:Q90923	netrin-2	Gene_or_gene_product
+PMC2172498	207	uniprot:UNRESOLVED ID	Cdo+/+	Gene_or_gene_product
+PMC2172498	207	uniprot:Q16878	Cdo-/-	Gene_or_gene_product
+PMC2172498	207	uniprot:Q12968	NFATc3	Gene_or_gene_product
+PMC2172498	208	uniprot:Q90923	netrin-2	Gene_or_gene_product
+PMC2172498	208	uniprot:UNRESOLVED ID	NFAT	Gene_or_gene_product
+PMC2172498	208	uniprot:Q16878	Cdo-/-	Gene_or_gene_product
+PMC2172498	208	uniprot:Q12968	NFATc3	Gene_or_gene_product
+PMC2172498	209	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	209	uniprot:Q90923	netrin-2	Gene_or_gene_product
+PMC2172498	209	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	210	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	210	uniprot:Q90923	netrin-2	Gene_or_gene_product
+PMC2172498	210	uniprot:Q12968	NFATc3	Gene_or_gene_product
+PMC2172498	211	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	211	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	211	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	211	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2172498	211	uniprot:UNRESOLVED ID	Cdo-/- (-/-)	Gene_or_gene_product
+PMC2172498	211	uniprot:O89094	mice	Species
+PMC2172498	212	uniprot:Q12968	NFATc3	Gene_or_gene_product
+PMC2172498	212	uniprot:Q16878	Cdo	Gene_or_gene_product
+PMC2172498	212	uniprot:Q90923	netrin-2	Gene_or_gene_product
+PMC2172498	213	uniprot:Q12968	NFATc3	Gene_or_gene_product
+PMC2172498	215	uniprot:UNRESOLVED ID	myoblast	CellType
+PMC2172498	215	uniprot:UNRESOLVED ID	serum	CellType
+PMC2172498	216	uniprot:UNRESOLVED ID	serum	CellType
+PMC2172498	217	uniprot:UNRESOLVED ID	myoblast	CellType
+PMC2172498	218	uniprot:P05019	IGF1	Gene_or_gene_product
+PMC2172498	218	uniprot:UNRESOLVED ID	prostaglandin F2alpha	Gene_or_gene_product
+PMC2172498	218	uniprot:P05112	interleukin-4	Gene_or_gene_product
+PMC2172498	219	uniprot:UNRESOLVED ID	netrin receptor	Gene_or_gene_product
+PMC2172498	219	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	219	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	220	uniprot:UNRESOLVED ID	netrins	Gene_or_gene_product
+PMC2172498	220	uniprot:UNRESOLVED ID	nervous system	CellType
+PMC2172498	221	uniprot:UNRESOLVED ID	Netrins	Gene_or_gene_product
+PMC2172498	221	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	221	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	222	uniprot:UNRESOLVED ID	netrin-neogenin	Gene_or_gene_product
+PMC2172498	222	uniprot:UNRESOLVED ID	myoblast	CellType
+PMC2172498	222	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	222	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	222	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	222	ncbitax:species:ncbi:9031	chicken	Species
+PMC2172498	222	uniprot:Q90923	netrin-2	Gene_or_gene_product
+PMC2172498	222	uniprot:UNRESOLVED ID	myogenic bHLH factor-	Gene_or_gene_product
+PMC2172498	222	uniprot:UNRESOLVED ID	NFAT	Gene_or_gene_product
+PMC2172498	222	uniprot:Q12968	NFATc3	Gene_or_gene_product
+PMC2172498	223	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	223	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	223	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	224	ncbitax:species:ncbi:9031	chicken	Species
+PMC2172498	224	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	224	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	225	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	225	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	225	uniprot:Q9W4S7	DM	Gene_or_gene_product
+PMC2172498	227	uniprot:UNRESOLVED ID	netrins	Gene_or_gene_product
+PMC2172498	227	uniprot:Q13201	ECM	Gene_or_gene_product
+PMC2172498	227	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	227	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	228	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	229	uniprot:UNRESOLVED ID	netrin-neogenin	Gene_or_gene_product
+PMC2172498	230	uniprot:UNRESOLVED ID	netrin	Gene_or_gene_product
+PMC2172498	230	ncbitax:species:ncbi:9031	chicken	Species
+PMC2172498	230	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	231	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	232	uniprot:Q90923	netrin-2	Gene_or_gene_product
+PMC2172498	232	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	232	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	233	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	233	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	233	uniprot:O95631	netrin-1	Gene_or_gene_product
+PMC2172498	234	uniprot:Q90923	netrin-2	Gene_or_gene_product
+PMC2172498	234	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	234	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	234	uazid:UA-ORG-599	muscle	Organ
+PMC2172498	234	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2172498	234	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2172498	234	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2172498	235	uazid:UA-ORG-599	muscle	Organ
+PMC2172498	235	uniprot:P13805	TnT	Gene_or_gene_product
+PMC2172498	235	uniprot:Q90923	netrin-2	Gene_or_gene_product
+PMC2172498	235	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	236	uniprot:P13805	TnT	Gene_or_gene_product
+PMC2172498	236	uniprot:UNRESOLVED ID	netrin	Gene_or_gene_product
+PMC2172498	236	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	237	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	237	uniprot:UNRESOLVED ID	myogenic bHLH factor-	Gene_or_gene_product
+PMC2172498	237	uniprot:UNRESOLVED ID	NFAT	Gene_or_gene_product
+PMC2172498	237	uniprot:Q90923	netrin-2	Gene_or_gene_product
+PMC2172498	237	uniprot:Q12968	NFATc3	Gene_or_gene_product
+PMC2172498	238	uniprot:P13805	TnT	Gene_or_gene_product
+PMC2172498	238	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	239	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	239	uazid:UA-ORG-182	cones	Organ
+PMC2172498	240	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	240	uazid:UA-ORG-599	muscle	Organ
+PMC2172498	241	uazid:UA-ORG-182	cones	Organ
+PMC2172498	244	uazid:UA-ORG-599	muscle	Organ
+PMC2172498	245	uniprot:UNRESOLVED ID	Ig	Gene_or_gene_product
+PMC2172498	245	uniprot:UNRESOLVED ID	FNIII proteins	Gene_or_gene_product
+PMC2172498	245	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	245	uniprot:Q9BWV1	BOC	Gene_or_gene_product
+PMC2172498	245	uniprot:P55291	M-cadherin	Gene_or_gene_product
+PMC2172498	247	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	247	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2172498	248	uniprot:UNRESOLVED ID	promyogenic small GTPase	Gene_or_gene_product
+PMC2172498	248	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2172498	249	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	249	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	250	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	250	uniprot:UNRESOLVED ID	cadherins	Gene_or_gene_product
+PMC2172498	250	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	251	uniprot:O95631	netrin-1	Gene_or_gene_product
+PMC2172498	251	uniprot:P43146	DCC	Gene_or_gene_product
+PMC2172498	251	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	251	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	251	uniprot:UNRESOLVED ID	neogenin-cadherin	Gene_or_gene_product
+PMC2172498	251	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	251	uniprot:Q9BWV1	BOC	Gene_or_gene_product
+PMC2172498	252	uazid:UA-ORG-182	cones	Organ
+PMC2172498	253	uniprot:P43146	DCC	Gene_or_gene_product
+PMC2172498	253	uniprot:UNRESOLVED ID	UNC-40 family proteins	Gene_or_gene_product
+PMC2172498	253	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	253	uniprot:UNRESOLVED ID	netrin receptors	Gene_or_gene_product
+PMC2172498	253	uniprot:UNRESOLVED ID	UNC5 family	Gene_or_gene_product
+PMC2172498	253	uniprot:UNRESOLVED ID	Robo	Gene_or_gene_product
+PMC2172498	253	uniprot:UNRESOLVED ID	Ig	Gene_or_gene_product
+PMC2172498	253	uniprot:UNRESOLVED ID	Slit	Gene_or_gene_product
+PMC2172498	254	uniprot:UNRESOLVED ID	Robo	Gene_or_gene_product
+PMC2172498	254	uniprot:UNRESOLVED ID	Robo receptors	Gene_or_gene_product
+PMC2172498	254	uniprot:P19022	N-cadherin	Gene_or_gene_product
+PMC2172498	256	uniprot:UNRESOLVED ID	myoblast	CellType
+PMC2172498	256	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	256	uniprot:Q9BWV1	BOC	Gene_or_gene_product
+PMC2172498	257	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	257	uniprot:Q9BWV1	BOC	Gene_or_gene_product
+PMC2172498	257	uniprot:UNRESOLVED ID	M-cadherins	Gene_or_gene_product
+PMC2172498	257	uniprot:B1JSR0	beta-	Gene_or_gene_product
+PMC2172498	258	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	258	uniprot:Q9BWV1	BOC	Gene_or_gene_product
+PMC2172498	258	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	258	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	259	uniprot:UNRESOLVED ID	NFAT	Gene_or_gene_product
+PMC2172498	260	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	260	uniprot:Q9BWV1	BOC	Gene_or_gene_product
+PMC2172498	260	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	265	uniprot:UNRESOLVED ID	myoblast	CellType
+PMC2172498	266	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	266	uniprot:Q9BWV1	BOC	Gene_or_gene_product
+PMC2172498	266	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	266	uniprot:Q90923	netrin-2	Gene_or_gene_product
+PMC2172498	266	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	266	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	271	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2172498	271	ncbitax:species:ncbi:9796	horse	Species
+PMC2172498	271	uniprot:UNRESOLVED ID	serum	CellType
+PMC2172498	271	uniprot:Q9W4S7	DM	Gene_or_gene_product
+PMC2172498	272	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	273	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2172498	274	uniprot:O89094	mice	Species
+PMC2172498	275	uazid:UA-ORG-599	muscle	Organ
+PMC2172498	275	uazid:UA-CT-27	connective tissue	CellType
+PMC2172498	275	uazid:UA-ORG-599	muscles	Organ
+PMC2172498	276	uniprot:Q6VMQ6	Ham	Gene_or_gene_product
+PMC2172498	276	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2172498	276	uniprot:P14210	hepatocyte growth factor	Gene_or_gene_product
+PMC2172498	276	uniprot:P09038	bFGF	Gene_or_gene_product
+PMC2172498	277	uniprot:UNRESOLVED ID	collagen	Gene_or_gene_product
+PMC2172498	277	uniprot:P14210	hepatocyte growth factor	Gene_or_gene_product
+PMC2172498	278	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2172498	279	ncbitax:species:ncbi:9031	chicken	Species
+PMC2172498	279	uniprot:UNRESOLVED ID	R & D Systems	Gene_or_gene_product
+PMC2172498	279	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2172498	280	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	281	ncbitax:species:ncbi:9606	human	Species
+PMC2172498	281	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	282	uniprot:UNRESOLVED ID	FuGene6 reagent	Gene_or_gene_product
+PMC2172498	283	ncbitax:species:ncbi:10090	mouse	Species
+PMC2172498	283	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	284	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	284	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2172498	284	uniprot:UNRESOLVED ID	FuGene6	Gene_or_gene_product
+PMC2172498	285	uniprot:UNRESOLVED ID	FACDiVa flow cytometer	Gene_or_gene_product
+PMC2172498	286	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	287	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	288	uniprot:UNRESOLVED ID	NM_008684	Gene_or_gene_product
+PMC2172498	288	uniprot:UNRESOLVED ID	ACCTAGAACCATCATAGTG	Gene_or_gene_product
+PMC2172498	289	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	289	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	289	uniprot:UNRESOLVED ID	pQ-lacZ	Gene_or_gene_product
+PMC2172498	289	uniprot:B1JI86	beta-gal	Gene_or_gene_product
+PMC2172498	290	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2172498	290	uniprot:B1JI86	beta-gal	Gene_or_gene_product
+PMC2172498	291	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2172498	292	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	292	uniprot:UNRESOLVED ID	pQ-lacZ	Gene_or_gene_product
+PMC2172498	294	uniprot:UNRESOLVED ID	anti-MHC	Gene_or_gene_product
+PMC2172498	294	uniprot:UNRESOLVED ID	MF20	Gene_or_gene_product
+PMC2172498	294	uniprot:UNRESOLVED ID	Hybridoma	CellType
+PMC2172498	294	uniprot:UNRESOLVED ID	antimyogenin	Gene_or_gene_product
+PMC2172498	294	uniprot:F1REV3	Santa	Gene_or_gene_product
+PMC2172498	295	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	295	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	296	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	297	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2172498	301	ncbitax:species:ncbi:10090	Mouse	Species
+PMC2172498	301	uniprot:O95631	netrin-1	Gene_or_gene_product
+PMC2172498	301	uniprot:O00634	netrin-3	Gene_or_gene_product
+PMC2172498	301	ncbitax:species:ncbi:10090	mouse	Species
+PMC2172498	302	uniprot:Q26304	Luciferase	Gene_or_gene_product
+PMC2172498	303	uniprot:UNRESOLVED ID	4Rtk-luc	Gene_or_gene_product
+PMC2172498	303	uniprot:UNRESOLVED ID	NFAT-luc reporters	Gene_or_gene_product
+PMC2172498	303	uniprot:UNRESOLVED ID	Stanford	Gene_or_gene_product
+PMC2172498	303	uniprot:UNRESOLVED ID	pBabePuro	Gene_or_gene_product
+PMC2172498	303	uniprot:UNRESOLVED ID	pBabePuro-neogenin	Gene_or_gene_product
+PMC2172498	303	uniprot:UNRESOLVED ID	pCMV-lacZ	Gene_or_gene_product
+PMC2172498	303	uniprot:UNRESOLVED ID	FuGene6	Gene_or_gene_product
+PMC2172498	304	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2172498	305	uniprot:Q26304	luciferase	Gene_or_gene_product
+PMC2172498	305	uniprot:UNRESOLVED ID	Promega luciferase	Gene_or_gene_product
+PMC2172498	306	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2172498	306	uniprot:B1JI86	beta-gal	Gene_or_gene_product
+PMC2172498	307	uniprot:Q9KNM2	Spot	Species
+PMC2172498	307	uniprot:P10266	RT	Gene_or_gene_product
+PMC2172498	308	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2172498	309	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	310	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2172498	311	uniprot:Q92859	neogenin	Gene_or_gene_product
+PMC2172498	311	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2172498	312	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2172498	313	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2172498	313	uniprot:Q90923	netrin-2	Gene_or_gene_product
+PMC2172498	314	uniprot:UNRESOLVED ID	http://www.jcb.org/cgi/content/full/jcb.200405039/DC1	Gene_or_gene_product
+PMC2172498	316	uniprot:UNRESOLVED ID	CA78207	Gene_or_gene_product

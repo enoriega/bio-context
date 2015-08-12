@@ -1,0 +1,664 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC3461631	0	uniprot:UNRESOLVED ID	Semaphorins	Gene_or_gene_product
+PMC3461631	1	uazid:UA-ORG-147	central nervous system	Organ
+PMC3461631	3	uniprot:UNRESOLVED ID	various growth factor receptors	Gene_or_gene_product
+PMC3461631	4	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	8	uazid:UA-ORG-147	central nervous system	Organ
+PMC3461631	9	uniprot:UNRESOLVED ID	astrocytoma	CellType
+PMC3461631	9	uniprot:UNRESOLVED ID	oligodendroglioma	CellType
+PMC3461631	10	uazid:UA-CT-200001	brain	Organ
+PMC3461631	10	uniprot:UNRESOLVED ID	scale	CellType
+PMC3461631	11	uniprot:UNRESOLVED ID	Grade IV	Gene_or_gene_product
+PMC3461631	13	uniprot:UNRESOLVED ID	protein O6-methylguanine-methyltransferase	Gene_or_gene_product
+PMC3461631	13	uniprot:P16455	MGMT	Gene_or_gene_product
+PMC3461631	16	ncbitax:species:ncbi:9606	human	Species
+PMC3461631	19	ncbitax:species:ncbi:9606	children	Species
+PMC3461631	24	uniprot:UNRESOLVED ID	astrocytoma	CellType
+PMC3461631	24	uniprot:UNRESOLVED ID	glioblastoma	CellType
+PMC3461631	25	uniprot:UNRESOLVED ID	astrocytoma	CellType
+PMC3461631	25	uazid:UA-CT-200001	brain	Organ
+PMC3461631	32	uniprot:UNRESOLVED ID	astrocytoma	CellType
+PMC3461631	33	uazid:UA-ORG-195	corpus callosum	Organ
+PMC3461631	36	uniprot:UNRESOLVED ID	astrocytoma	CellType
+PMC3461631	39	uniprot:UNRESOLVED ID	glioblastoma	CellType
+PMC3461631	40	ncbitax:species:ncbi:9606	human	Species
+PMC3461631	48	uniprot:UNRESOLVED ID	astrocytoma	CellType
+PMC3461631	50	uniprot:UNRESOLVED ID	Glioblastoma	CellType
+PMC3461631	50	uazid:UA-ORG-151	cerebral hemisphere	Organ
+PMC3461631	51	uniprot:UNRESOLVED ID	glioblastoma	CellType
+PMC3461631	54	uniprot:UNRESOLVED ID	glioblastoma	CellType
+PMC3461631	55	uniprot:P01133	epidermal growth factor	Gene_or_gene_product
+PMC3461631	55	uniprot:P00533	epidermal growth factor receptor	Gene_or_gene_product
+PMC3461631	55	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC3461631	55	uniprot:P60484	phosphatase and tensin homolog	Gene_or_gene_product
+PMC3461631	55	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3461631	55	uniprot:P04637	p53	Gene_or_gene_product
+PMC3461631	55	ncbitax:species:ncbi:9606	human	Species
+PMC3461631	55	uniprot:Q00987	HDM2	Gene_or_gene_product
+PMC3461631	56	uniprot:UNRESOLVED ID	glioblastoma	CellType
+PMC3461631	58	uniprot:UNRESOLVED ID	EGFR-PI3K-AKT Pathway	Gene_or_gene_product
+PMC3461631	59	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC3461631	59	uniprot:P00533	ErbB	Gene_or_gene_product
+PMC3461631	60	uniprot:P01133	EGF	Gene_or_gene_product
+PMC3461631	60	uniprot:P01135	TGFalpha	Gene_or_gene_product
+PMC3461631	60	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC3461631	60	uniprot:UNRESOLVED ID	protein-tyrosine kinase	Gene_or_gene_product
+PMC3461631	61	uniprot:UNRESOLVED ID	PI3K-AKT-GSK3beta-Rac1	Gene_or_gene_product
+PMC3461631	61	uniprot:UNRESOLVED ID	Ras-Raf-MEK-ERK	Gene_or_gene_product
+PMC3461631	62	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC3461631	63	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC3461631	63	uniprot:UNRESOLVED ID	EGFRvIII	Gene_or_gene_product
+PMC3461631	64	uniprot:UNRESOLVED ID	EGFRvIII	Gene_or_gene_product
+PMC3461631	64	uniprot:P01133	EGF	Gene_or_gene_product
+PMC3461631	65	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC3461631	65	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3461631	65	uniprot:P54644	AKT	Gene_or_gene_product
+PMC3461631	65	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	65	uniprot:P40305	p27	Gene_or_gene_product
+PMC3461631	66	uniprot:P54644	AKT	Gene_or_gene_product
+PMC3461631	66	uniprot:P49841	GSK3beta	Gene_or_gene_product
+PMC3461631	66	uniprot:P12004	cyclin	Gene_or_gene_product
+PMC3461631	67	uniprot:UNRESOLVED ID	phospho-PI3K	Gene_or_gene_product
+PMC3461631	67	uniprot:UNRESOLVED ID	phospho-AKT	Gene_or_gene_product
+PMC3461631	67	uniprot:P42574	caspase 3	Gene_or_gene_product
+PMC3461631	67	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3461631	69	uniprot:UNRESOLVED ID	EGFRvIII	Gene_or_gene_product
+PMC3461631	70	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3461631	70	uniprot:P54644	AKT	Gene_or_gene_product
+PMC3461631	70	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3461631	70	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC3461631	70	uniprot:P16035	TIMP2	Gene_or_gene_product
+PMC3461631	70	uniprot:P08253	MMP2	Gene_or_gene_product
+PMC3461631	70	uniprot:P14780	MMP9	Gene_or_gene_product
+PMC3461631	72	uniprot:UNRESOLVED ID	Ras-Raf-MEK-ERK Pathway	Gene_or_gene_product
+PMC3461631	73	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3461631	73	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC3461631	73	uniprot:UNRESOLVED ID	Ras-Raf-MEK-ERK	Gene_or_gene_product
+PMC3461631	74	uazid:UA-CT-100033	platelet	Organ
+PMC3461631	74	uniprot:UNRESOLVED ID	PDGF	Gene_or_gene_product
+PMC3461631	74	uniprot:P05019	IGF-1	Gene_or_gene_product
+PMC3461631	74	uniprot:P14210	hepatocyte growth factor	Gene_or_gene_product
+PMC3461631	74	uniprot:P14210	scatter factor	Gene_or_gene_product
+PMC3461631	74	uniprot:P14210	HGF	Gene_or_gene_product
+PMC3461631	74	uniprot:P14210	SF	Gene_or_gene_product
+PMC3461631	74	uniprot:UNRESOLVED ID	vascular endothelial growth factor	Gene_or_gene_product
+PMC3461631	74	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC3461631	75	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	75	uniprot:UNRESOLVED ID	glioblastoma	CellType
+PMC3461631	77	uniprot:P04049	Raf	Gene_or_gene_product
+PMC3461631	78	uniprot:P04049	Raf	Gene_or_gene_product
+PMC3461631	78	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
+PMC3461631	78	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3461631	79	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3461631	82	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3461631	83	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3461631	84	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3461631	84	uniprot:P27361	ERK1	Gene_or_gene_product
+PMC3461631	85	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3461631	87	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3461631	88	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3461631	88	uniprot:UNRESOLVED ID	tensin like domain	Gene_or_gene_product
+PMC3461631	89	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3461631	89	uniprot:Q02574	PIP3	Gene_or_gene_product
+PMC3461631	90	uniprot:Q02574	PIP3	Gene_or_gene_product
+PMC3461631	90	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3461631	90	uniprot:P54644	AKT	Gene_or_gene_product
+PMC3461631	90	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3461631	91	uniprot:UNRESOLVED ID	lipid phosphatase	Gene_or_gene_product
+PMC3461631	91	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3461631	91	uniprot:Q02574	PIP3	Gene_or_gene_product
+PMC3461631	91	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3461631	92	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3461631	92	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	93	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3461631	93	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC3461631	94	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3461631	94	uniprot:UNRESOLVED ID	SH2-containing adaptor protein	Gene_or_gene_product
+PMC3461631	94	uniprot:P29353	Shc	Gene_or_gene_product
+PMC3461631	94	uniprot:UNRESOLVED ID	Ras/Raf/MEK	Gene_or_gene_product
+PMC3461631	94	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3461631	95	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3461631	95	uniprot:UNRESOLVED ID	integrin-FAK	Gene_or_gene_product
+PMC3461631	95	uniprot:UNRESOLVED ID	Shc-Ras-MAPK	Gene_or_gene_product
+PMC3461631	95	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	96	uniprot:UNRESOLVED ID	glioblastoma	CellType
+PMC3461631	96	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	96	uniprot:UNRESOLVED ID	U87-MG	Gene_or_gene_product
+PMC3461631	96	uniprot:UNRESOLVED ID	U373-MG	Gene_or_gene_product
+PMC3461631	96	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3461631	96	uniprot:P54644	AKT	Gene_or_gene_product
+PMC3461631	96	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC3461631	98	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3461631	99	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3461631	99	uniprot:Q02574	PIP3	Gene_or_gene_product
+PMC3461631	99	uniprot:P54644	AKT	Gene_or_gene_product
+PMC3461631	99	uniprot:P31749	PKB	Gene_or_gene_product
+PMC3461631	99	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	100	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3461631	100	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC3461631	100	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3461631	101	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3461631	101	uniprot:Q05397	FAK	Gene_or_gene_product
+PMC3461631	101	uniprot:UNRESOLVED ID	glioblastoma	CellType
+PMC3461631	103	uniprot:P06400	pRB	Gene_or_gene_product
+PMC3461631	104	uniprot:P06400	pRB	Gene_or_gene_product
+PMC3461631	104	uniprot:P06400	RB1	Gene_or_gene_product
+PMC3461631	105	uniprot:P06400	pRB	Gene_or_gene_product
+PMC3461631	105	uniprot:Q9BT92	tumor suppressor protein	Gene_or_gene_product
+PMC3461631	106	uniprot:P06400	pRb	Gene_or_gene_product
+PMC3461631	107	uniprot:P06400	pRb	Gene_or_gene_product
+PMC3461631	107	uniprot:Q54VQ7	HDAC	Gene_or_gene_product
+PMC3461631	108	uniprot:P06400	pRB	Gene_or_gene_product
+PMC3461631	108	uniprot:P12004	cyclin	Gene_or_gene_product
+PMC3461631	108	uniprot:P11802	Cdk4	Gene_or_gene_product
+PMC3461631	108	uniprot:Q00534	Cdk6	Gene_or_gene_product
+PMC3461631	109	uniprot:P11802	Cdk4	Gene_or_gene_product
+PMC3461631	109	uniprot:P42751	cyclin-D1	Gene_or_gene_product
+PMC3461631	109	uniprot:P42771	CDKN2A	Gene_or_gene_product
+PMC3461631	109	uniprot:P42771	p16INK4a	Gene_or_gene_product
+PMC3461631	110	uniprot:P12004	cyclin	Gene_or_gene_product
+PMC3461631	110	uniprot:P11802	Cdk4	Gene_or_gene_product
+PMC3461631	110	uniprot:P42771	CDKN2A	Gene_or_gene_product
+PMC3461631	111	uniprot:P06400	pRB	Gene_or_gene_product
+PMC3461631	112	uniprot:P06400	RB1	Gene_or_gene_product
+PMC3461631	112	uniprot:P42771	CDKN2A	Gene_or_gene_product
+PMC3461631	112	uniprot:P11802	CDK4	Gene_or_gene_product
+PMC3461631	115	uniprot:UNRESOLVED ID	Glioma	CellType
+PMC3461631	116	uniprot:UNRESOLVED ID	classical growth factor receptors	Gene_or_gene_product
+PMC3461631	119	uazid:UA-ORG-195	corpus callosum	Organ
+PMC3461631	120	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	121	uniprot:UNRESOLVED ID	CNS	CellType
+PMC3461631	122	uniprot:UNRESOLVED ID	netrin	Gene_or_gene_product
+PMC3461631	122	uniprot:UNRESOLVED ID	Slit	Gene_or_gene_product
+PMC3461631	122	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	123	uniprot:UNRESOLVED ID	netrin	Gene_or_gene_product
+PMC3461631	123	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	124	uniprot:P43146	DCC	Gene_or_gene_product
+PMC3461631	124	uniprot:UNRESOLVED ID	Carcinoma	CellType
+PMC3461631	124	uniprot:UNRESOLVED ID	netrin	Gene_or_gene_product
+PMC3461631	124	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	125	uniprot:UNRESOLVED ID	Slit	Gene_or_gene_product
+PMC3461631	125	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	125	uniprot:UNRESOLVED ID	Robo	Gene_or_gene_product
+PMC3461631	129	uniprot:UNRESOLVED ID	Semaphorins and Their Receptors Neuropilins and Plexins	Gene_or_gene_product
+PMC3461631	130	uniprot:UNRESOLVED ID	nervous system	CellType
+PMC3461631	130	uniprot:P06744	GPI	Gene_or_gene_product
+PMC3461631	131	uniprot:UNRESOLVED ID	plexins	Gene_or_gene_product
+PMC3461631	131	uniprot:UNRESOLVED ID	semaphorins and integrins	Gene_or_gene_product
+PMC3461631	132	uazid:UA-ORG-407	immunoglobulin	Organ
+PMC3461631	132	uniprot:UNRESOLVED ID	Ig	Gene_or_gene_product
+PMC3461631	132	uniprot:UNRESOLVED ID	Ig superfamily	Gene_or_gene_product
+PMC3461631	132	uniprot:UNRESOLVED ID	IgSF	Gene_or_gene_product
+PMC3461631	133	uniprot:UNRESOLVED ID	Class 5 semaphorins	Gene_or_gene_product
+PMC3461631	133	uniprot:P07996	thrombospondin 1	Gene_or_gene_product
+PMC3461631	133	uazid:UA-CT-100033	platelet	Organ
+PMC3461631	135	uniprot:O14786	Nrp	Gene_or_gene_product
+PMC3461631	135	uniprot:UNRESOLVED ID	tail	CellType
+PMC3461631	136	uniprot:UNRESOLVED ID	Mammalian plexins	Gene_or_gene_product
+PMC3461631	136	uniprot:UNRESOLVED ID	c-Met proto-oncogene	Gene_or_gene_product
+PMC3461631	138	uniprot:UNRESOLVED ID	plexins	Gene_or_gene_product
+PMC3461631	138	uniprot:UNRESOLVED ID	neuropilins	Gene_or_gene_product
+PMC3461631	138	uniprot:Q6AWJ9	Otk	Gene_or_gene_product
+PMC3461631	138	uniprot:UNRESOLVED ID	c-Met proto-oncogene	Gene_or_gene_product
+PMC3461631	138	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC3461631	138	uniprot:P21854	CD72	Gene_or_gene_product
+PMC3461631	138	uniprot:Q92NH8	Tim-2	Gene_or_gene_product
+PMC3461631	140	uniprot:Q13214	Sema3B	Gene_or_gene_product
+PMC3461631	140	uniprot:Q13275	Sema3F	Gene_or_gene_product
+PMC3461631	140	uazid:UA-ORG-537	lung	Organ
+PMC3461631	142	uniprot:Q13214	Sema3B	Gene_or_gene_product
+PMC3461631	142	uazid:UA-ORG-537	lung	Organ
+PMC3461631	142	uazid:UA-ORG-116	breast	Organ
+PMC3461631	142	uniprot:Q13275	Sema3F	Gene_or_gene_product
+PMC3461631	142	uniprot:UNRESOLVED ID	melanoma	CellType
+PMC3461631	143	uniprot:Q14563	Sema3A	Gene_or_gene_product
+PMC3461631	143	uniprot:P13475	3F	Gene_or_gene_product
+PMC3461631	143	uazid:UA-ORG-116	breast	Organ
+PMC3461631	143	uniprot:UNRESOLVED ID	carcinoma	CellType
+PMC3461631	143	uniprot:UNRESOLVED ID	melanoma	CellType
+PMC3461631	144	uniprot:Q14563	Sema3A	Gene_or_gene_product
+PMC3461631	144	uniprot:O14786	Nrp	Gene_or_gene_product
+PMC3461631	144	uniprot:Q13275	Sema3F	Gene_or_gene_product
+PMC3461631	145	uniprot:Q14563	Sema3A	Gene_or_gene_product
+PMC3461631	145	uniprot:UNRESOLVED ID	3B	Gene_or_gene_product
+PMC3461631	145	uniprot:P13475	3F	Gene_or_gene_product
+PMC3461631	146	uniprot:Q99985	Sema3C	Gene_or_gene_product
+PMC3461631	146	uazid:UA-ORG-759	prostate	Organ
+PMC3461631	147	uniprot:O15041	Sema3E	Gene_or_gene_product
+PMC3461631	147	ncbitax:species:ncbi:9606	human	Species
+PMC3461631	147	uazid:UA-ORG-537	lung	Organ
+PMC3461631	148	uniprot:O15041	Sema3E	Gene_or_gene_product
+PMC3461631	148	uazid:UA-ORG-537	lung	Organ
+PMC3461631	150	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC3461631	150	uazid:UA-ORG-382	head	Organ
+PMC3461631	150	uazid:UA-ORG-618	neck	Organ
+PMC3461631	150	uniprot:UNRESOLVED ID	squamous cell	CellType
+PMC3461631	151	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC3461631	152	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC3461631	153	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC3461631	154	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC3461631	154	uazid:UA-ORG-539	lymph	Organ
+PMC3461631	154	uniprot:P06231	node	Organ
+PMC3461631	155	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC3461631	155	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	155	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC3461631	155	uniprot:P54644	AKT	Gene_or_gene_product
+PMC3461631	156	uazid:UA-ORG-759	prostate	Organ
+PMC3461631	156	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC3461631	156	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	157	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	157	uniprot:Q9QYJ2	R-RasGAP	Gene_or_gene_product
+PMC3461631	158	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC3461631	158	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	159	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	159	uazid:UA-ORG-116	breast	Organ
+PMC3461631	160	uniprot:O43157	Plexin-B1	Gene_or_gene_product
+PMC3461631	160	uniprot:UNRESOLVED ID	renal cell carcinoma	CellType
+PMC3461631	161	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	161	uniprot:UNRESOLVED ID	melanoma	CellType
+PMC3461631	161	uniprot:P15056	B-Raf	Gene_or_gene_product
+PMC3461631	161	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
+PMC3461631	161	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3461631	163	uniprot:Q9H2E6	Sema6A	Gene_or_gene_product
+PMC3461631	163	uniprot:P09038	bFGF	Gene_or_gene_product
+PMC3461631	163	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC3461631	163	uniprot:Q8NFY4	Sema6D	Gene_or_gene_product
+PMC3461631	163	uniprot:UNRESOLVED ID	gastric carcinoma	CellType
+PMC3461631	164	uniprot:O75326	Sema7A	Gene_or_gene_product
+PMC3461631	164	uniprot:O60486	plexin-C1	Gene_or_gene_product
+PMC3461631	164	uniprot:UNRESOLVED ID	melanoma	CellType
+PMC3461631	165	uniprot:UNRESOLVED ID	class 5 semaphorins	Gene_or_gene_product
+PMC3461631	165	uniprot:UNRESOLVED ID	thrombospondin repeats	Gene_or_gene_product
+PMC3461631	166	uniprot:Q13591	Sema5A	Gene_or_gene_product
+PMC3461631	166	uniprot:Q9ULL4	plexin-B3	Gene_or_gene_product
+PMC3461631	166	uazid:UA-ORG-759	prostate	Organ
+PMC3461631	167	uniprot:Q13591	Sema5A	Gene_or_gene_product
+PMC3461631	167	uazid:UA-ORG-537	lung	Organ
+PMC3461631	167	uniprot:UNRESOLVED ID	carcinoma	CellType
+PMC3461631	168	uniprot:Q9ULL4	plexin-B3	Gene_or_gene_product
+PMC3461631	168	ncbitax:species:ncbi:9606	human	Species
+PMC3461631	168	uniprot:Q13591	Sema5A	Gene_or_gene_product
+PMC3461631	169	uniprot:UNRESOLVED ID	semaphorins	Gene_or_gene_product
+PMC3461631	169	uniprot:UNRESOLVED ID	neuropilins	Gene_or_gene_product
+PMC3461631	169	ncbitax:species:ncbi:9606	human	Species
+PMC3461631	169	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	170	uniprot:Q9H3T3	Sema6B	Gene_or_gene_product
+PMC3461631	170	ncbitax:species:ncbi:9606	human	Species
+PMC3461631	170	uniprot:UNRESOLVED ID	glioblastoma	CellType
+PMC3461631	172	uniprot:Q13214	Sema3B	Gene_or_gene_product
+PMC3461631	172	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	173	uniprot:Q13214	Sema3B	Gene_or_gene_product
+PMC3461631	173	uniprot:Q9NS98	Sema3G	Gene_or_gene_product
+PMC3461631	173	uniprot:O60462	neuropilin-2	Gene_or_gene_product
+PMC3461631	173	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	174	uniprot:Q14563	Sema3A	Gene_or_gene_product
+PMC3461631	174	ncbitax:species:ncbi:9606	human	Species
+PMC3461631	174	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	174	uniprot:O14786	neuropilin-1	Gene_or_gene_product
+PMC3461631	175	uniprot:Q14563	Sema3A	Gene_or_gene_product
+PMC3461631	175	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	175	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC3461631	176	uniprot:Q14563	Sema3A	Gene_or_gene_product
+PMC3461631	177	uniprot:Q14563	Sema3A	Gene_or_gene_product
+PMC3461631	178	uniprot:Q14563	Sema3A	Gene_or_gene_product
+PMC3461631	178	uniprot:Q13275	Sema3F	Gene_or_gene_product
+PMC3461631	178	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	178	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC3461631	178	uniprot:P78357	p190	Gene_or_gene_product
+PMC3461631	179	uniprot:UNRESOLVED ID	3p21	Gene_or_gene_product
+PMC3461631	179	uniprot:Q13275	Sema3F	Gene_or_gene_product
+PMC3461631	180	uniprot:Q13275	Sema3F	Gene_or_gene_product
+PMC3461631	180	ncbitax:species:ncbi:9606	human	Species
+PMC3461631	180	uniprot:Q02363	Id2	Gene_or_gene_product
+PMC3461631	181	uniprot:Q9NS98	Sema3G	Gene_or_gene_product
+PMC3461631	181	ncbitax:species:ncbi:9606	human	Species
+PMC3461631	181	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	182	uniprot:Q13591	Sema5A	Gene_or_gene_product
+PMC3461631	182	ncbitax:species:ncbi:9606	human	Species
+PMC3461631	182	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	182	uniprot:Q9ULL4	plexin-B3-	Gene_or_gene_product
+PMC3461631	182	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC3461631	183	uniprot:Q13591	Sema5A	Gene_or_gene_product
+PMC3461631	184	ncbitax:species:ncbi:9606	human	Species
+PMC3461631	184	uniprot:UNRESOLVED ID	glioblastoma	CellType
+PMC3461631	184	uniprot:Q13591	Sema5A	Gene_or_gene_product
+PMC3461631	185	uniprot:Q13591	Sema5A	Gene_or_gene_product
+PMC3461631	186	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	187	ncbitax:species:ncbi:9606	human	Species
+PMC3461631	187	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	187	uniprot:O14786	Nrp-1	Gene_or_gene_product
+PMC3461631	188	uniprot:O14786	Nrp-1	Gene_or_gene_product
+PMC3461631	188	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	189	uniprot:UNRESOLVED ID	c-Met	Gene_or_gene_product
+PMC3461631	189	uniprot:P14210	HGF	Gene_or_gene_product
+PMC3461631	191	uniprot:UNRESOLVED ID	Plexin Signalings	Gene_or_gene_product
+PMC3461631	193	uniprot:O14649	task	Gene_or_gene_product
+PMC3461631	194	uniprot:Q13214	Sema3B	Gene_or_gene_product
+PMC3461631	194	uazid:UA-ORG-537	lung	Organ
+PMC3461631	194	uazid:UA-ORG-116	breast	Organ
+PMC3461631	194	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	195	uniprot:Q14563	Sema3A	Gene_or_gene_product
+PMC3461631	195	uniprot:UNRESOLVED ID	glioblastoma	CellType
+PMC3461631	196	uniprot:UNRESOLVED ID	semaphorins	Gene_or_gene_product
+PMC3461631	196	uniprot:UNRESOLVED ID	plexins	Gene_or_gene_product
+PMC3461631	197	uniprot:UNRESOLVED ID	neuropilins	Gene_or_gene_product
+PMC3461631	197	uniprot:UNRESOLVED ID	L1-cell adhesion molecule	Gene_or_gene_product
+PMC3461631	197	uniprot:UNRESOLVED ID	c-Met proto-oncogene	Gene_or_gene_product
+PMC3461631	197	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC3461631	197	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3461631	200	uniprot:UNRESOLVED ID	Plexin-A	Gene_or_gene_product
+PMC3461631	200	uniprot:UNRESOLVED ID	PI3K Pathway	Gene_or_gene_product
+PMC3461631	201	uniprot:Q14563	Sema3A	Gene_or_gene_product
+PMC3461631	201	uniprot:UNRESOLVED ID	plexin-As	Gene_or_gene_product
+PMC3461631	201	uniprot:P07332	Fes	Gene_or_gene_product
+PMC3461631	201	uniprot:P07332	Fps	Gene_or_gene_product
+PMC3461631	201	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC3461631	202	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC3461631	202	uniprot:P12931	Src	Gene_or_gene_product
+PMC3461631	202	uniprot:O75051	plexin-A2	Gene_or_gene_product
+PMC3461631	202	uniprot:Q14563	Sema3A	Gene_or_gene_product
+PMC3461631	203	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC3461631	203	uniprot:P12004	cyclin	Gene_or_gene_product
+PMC3461631	203	uniprot:Q00535	Cdk5	Gene_or_gene_product
+PMC3461631	204	uniprot:Q00535	Cdk5	Gene_or_gene_product
+PMC3461631	204	uniprot:Q16555	CRMP-2	Gene_or_gene_product
+PMC3461631	204	uniprot:UNRESOLVED ID	collapse response mediator protein	Gene_or_gene_product
+PMC3461631	204	uazid:UA-ORG-623	neurons	Organ
+PMC3461631	204	uniprot:UNRESOLVED ID	PIKE-A	Gene_or_gene_product
+PMC3461631	204	uniprot:UNRESOLVED ID	Isoform A	Gene_or_gene_product
+PMC3461631	204	uniprot:Q99490	phosphatidylinositol 3-kinase enhancer	Gene_or_gene_product
+PMC3461631	204	uniprot:P54644	AKT	Gene_or_gene_product
+PMC3461631	204	uniprot:UNRESOLVED ID	glioblastoma	CellType
+PMC3461631	205	uniprot:Q14563	Sema3A	Gene_or_gene_product
+PMC3461631	205	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	206	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC3461631	206	uniprot:UNRESOLVED ID	glioblastoma	CellType
+PMC3461631	206	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC3461631	208	uniprot:Q9V4A7	Plexin-B	Gene_or_gene_product
+PMC3461631	209	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	209	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC3461631	209	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC3461631	209	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC3461631	209	uniprot:P31749	Rac	Gene_or_gene_product
+PMC3461631	209	uniprot:UNRESOLVED ID	tail	CellType
+PMC3461631	210	uniprot:UNRESOLVED ID	Rac1-GTP	Gene_or_gene_product
+PMC3461631	210	uniprot:P38936	p21	Gene_or_gene_product
+PMC3461631	210	uniprot:Q9FZ06	PAK	Gene_or_gene_product
+PMC3461631	210	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC3461631	211	uniprot:Q13591	Sema5A	Gene_or_gene_product
+PMC3461631	211	uniprot:Q9ULL4	plexin-B3	Gene_or_gene_product
+PMC3461631	211	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	211	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC3461631	212	uniprot:Q13591	Sema5A	Gene_or_gene_product
+PMC3461631	212	uniprot:Q9ULL4	plexin-B3	Gene_or_gene_product
+PMC3461631	212	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC3461631	212	uniprot:P08100	Rho	Gene_or_gene_product
+PMC3461631	212	uniprot:UNRESOLVED ID	small GTPases	Gene_or_gene_product
+PMC3461631	213	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC3461631	213	uniprot:Q13591	Sema5A	Gene_or_gene_product
+PMC3461631	213	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	214	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC3461631	214	uniprot:UNRESOLVED ID	plexin-Bs	Gene_or_gene_product
+PMC3461631	214	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC3461631	215	uniprot:UNRESOLVED ID	Plexin-B members	Gene_or_gene_product
+PMC3461631	216	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	216	uniprot:P08100	Rho	Gene_or_gene_product
+PMC3461631	216	uniprot:UNRESOLVED ID	RhoGEF	Gene_or_gene_product
+PMC3461631	216	uniprot:O15085	PDZ-RhoGEF	Gene_or_gene_product
+PMC3461631	216	uniprot:Q9NZN5	leukemia-associated RhoGEF	Gene_or_gene_product
+PMC3461631	216	uniprot:Q9NZN5	LARG	Gene_or_gene_product
+PMC3461631	217	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	217	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC3461631	217	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC3461631	217	uniprot:O15085	PDZ-RhoGEF	Gene_or_gene_product
+PMC3461631	217	uniprot:Q9NZN5	LARG	Gene_or_gene_product
+PMC3461631	218	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC3461631	218	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC3461631	218	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	218	uniprot:Q9NZN5	LARG	Gene_or_gene_product
+PMC3461631	218	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC3461631	219	uniprot:UNRESOLVED ID	RhoA-GTP	Gene_or_gene_product
+PMC3461631	219	uniprot:P04049	Raf	Gene_or_gene_product
+PMC3461631	219	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC3461631	220	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC3461631	220	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC3461631	221	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC3461631	221	uniprot:O15085	PDZ-RhoGEF	Gene_or_gene_product
+PMC3461631	221	uniprot:UNRESOLVED ID	plexin-B subfamily	Gene_or_gene_product
+PMC3461631	222	uazid:UA-ORG-381	hand	Organ
+PMC3461631	222	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC3461631	222	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC3461631	223	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	223	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC3461631	223	uniprot:UNRESOLVED ID	p190-RhoGAP	Gene_or_gene_product
+PMC3461631	223	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC3461631	224	uniprot:P20936	GAP	Gene_or_gene_product
+PMC3461631	224	uniprot:UNRESOLVED ID	p190-RhoGAP	Gene_or_gene_product
+PMC3461631	224	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC3461631	224	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	225	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	225	uniprot:UNRESOLVED ID	p190-RhoGAP	Gene_or_gene_product
+PMC3461631	225	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC3461631	225	uniprot:UNRESOLVED ID	p190RhoGAP	Gene_or_gene_product
+PMC3461631	227	uniprot:UNRESOLVED ID	Plexin Singaling	Gene_or_gene_product
+PMC3461631	228	uniprot:UNRESOLVED ID	plexins	Gene_or_gene_product
+PMC3461631	228	uniprot:P20936	RasGAP	Gene_or_gene_product
+PMC3461631	229	uniprot:P42684	Arg	Gene_or_gene_product
+PMC3461631	229	uazid:UA-ORG-312	finger	Organ
+PMC3461631	229	uniprot:UNRESOLVED ID	GAPs	Gene_or_gene_product
+PMC3461631	229	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC3461631	229	uniprot:UNRESOLVED ID	GTPases	Gene_or_gene_product
+PMC3461631	230	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC3461631	230	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC3461631	231	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	232	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC3461631	232	uniprot:UNRESOLVED ID	plexin-B1-Rnd1 complex	Gene_or_gene_product
+PMC3461631	232	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC3461631	233	uniprot:P20936	RasGAP	Gene_or_gene_product
+PMC3461631	233	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC3461631	233	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	234	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC3461631	234	uniprot:P20936	GAP	Gene_or_gene_product
+PMC3461631	234	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	234	uazid:UA-ORG-623	neurons	Organ
+PMC3461631	234	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC3461631	235	uniprot:UNRESOLVED ID	plexin families	Gene_or_gene_product
+PMC3461631	235	uniprot:Q14563	Sema3A	Gene_or_gene_product
+PMC3461631	235	uniprot:Q9UIW2	plexin-A1	Gene_or_gene_product
+PMC3461631	236	uniprot:P04049	Raf	Gene_or_gene_product
+PMC3461631	236	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
+PMC3461631	236	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3461631	237	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC3461631	237	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3461631	237	uniprot:P54644	AKT	Gene_or_gene_product
+PMC3461631	238	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC3461631	238	uazid:UA-ORG-116	breast	Organ
+PMC3461631	238	uniprot:UNRESOLVED ID	carcinoma	CellType
+PMC3461631	238	uniprot:P42348	PI3K-	Gene_or_gene_product
+PMC3461631	239	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC3461631	239	uniprot:P20936	RasGAP	Gene_or_gene_product
+PMC3461631	239	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	239	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC3461631	239	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3461631	239	uniprot:UNRESOLVED ID	beta1 integrin	Gene_or_gene_product
+PMC3461631	240	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC3461631	240	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC3461631	240	uniprot:P20936	RasGAP	Gene_or_gene_product
+PMC3461631	240	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	240	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC3461631	240	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3461631	241	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3461631	241	uniprot:P54644	AKT	Gene_or_gene_product
+PMC3461631	242	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC3461631	242	uniprot:UNRESOLVED ID	plexin	Gene_or_gene_product
+PMC3461631	242	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	242	uniprot:UNRESOLVED ID	glioblastoma	CellType
+PMC3461631	243	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC3461631	243	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC3461631	243	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	243	uniprot:O14807	M-Ras	Gene_or_gene_product
+PMC3461631	243	uazid:UA-ORG-623	neurons	Organ
+PMC3461631	244	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3461631	245	uniprot:Q9NYB0	Rap1	Gene_or_gene_product
+PMC3461631	245	uniprot:P20936	GAP	Gene_or_gene_product
+PMC3461631	245	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	246	uniprot:Q9NYB0	Rap1	Gene_or_gene_product
+PMC3461631	246	uazid:UA-CT-200001	brain	Organ
+PMC3461631	247	uniprot:P20936	GAP	Gene_or_gene_product
+PMC3461631	247	uniprot:Q9V4A7	plexin-B	Gene_or_gene_product
+PMC3461631	247	uniprot:Q9NYB0	Rap1	Gene_or_gene_product
+PMC3461631	247	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	249	uniprot:Q9V4A7	Plexin-B	Gene_or_gene_product
+PMC3461631	249	uniprot:UNRESOLVED ID	c-Met	Gene_or_gene_product
+PMC3461631	249	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC3461631	250	uniprot:UNRESOLVED ID	c-Met	Gene_or_gene_product
+PMC3461631	250	uniprot:P14210	hepatocyte growth factor	Gene_or_gene_product
+PMC3461631	250	uniprot:P14210	scatter factor	Gene_or_gene_product
+PMC3461631	250	uniprot:P14210	HGF	Gene_or_gene_product
+PMC3461631	250	uniprot:P14210	SF	Gene_or_gene_product
+PMC3461631	250	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3461631	250	uniprot:P54644	AKT	Gene_or_gene_product
+PMC3461631	252	uniprot:P14210	HGF	Gene_or_gene_product
+PMC3461631	252	uniprot:P14210	SF	Gene_or_gene_product
+PMC3461631	252	uniprot:UNRESOLVED ID	c-Met	Gene_or_gene_product
+PMC3461631	253	uniprot:UNRESOLVED ID	plexin-B subfamily	Gene_or_gene_product
+PMC3461631	253	uniprot:UNRESOLVED ID	c-Met	Gene_or_gene_product
+PMC3461631	253	uniprot:Q04912	Ron	Gene_or_gene_product
+PMC3461631	254	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC3461631	254	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	254	uniprot:UNRESOLVED ID	c-Met	Gene_or_gene_product
+PMC3461631	254	uniprot:Q04912	Ron	Gene_or_gene_product
+PMC3461631	254	uazid:UA-ORG-520	liver	Organ
+PMC3461631	254	uazid:UA-ORG-172	colon	Organ
+PMC3461631	254	uniprot:UNRESOLVED ID	carcinoma	CellType
+PMC3461631	255	uniprot:UNRESOLVED ID	melanoma	CellType
+PMC3461631	256	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC3461631	256	uniprot:UNRESOLVED ID	c-Met	Gene_or_gene_product
+PMC3461631	256	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	257	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	257	uniprot:P14210	HGF	Gene_or_gene_product
+PMC3461631	257	uniprot:UNRESOLVED ID	c-Met	Gene_or_gene_product
+PMC3461631	258	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	258	uniprot:P14210	HGF	Gene_or_gene_product
+PMC3461631	258	uniprot:UNRESOLVED ID	c-Met	Gene_or_gene_product
+PMC3461631	259	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	259	uniprot:UNRESOLVED ID	melanoma	CellType
+PMC3461631	260	uniprot:P14210	HGF	Gene_or_gene_product
+PMC3461631	260	uniprot:UNRESOLVED ID	c-Met	Gene_or_gene_product
+PMC3461631	260	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3461631	261	uniprot:UNRESOLVED ID	c-Met	Gene_or_gene_product
+PMC3461631	261	uniprot:UNRESOLVED ID	plexin-B family	Gene_or_gene_product
+PMC3461631	261	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC3461631	262	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC3461631	262	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	262	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC3461631	263	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC3461631	263	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	263	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC3461631	263	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC3461631	263	uniprot:O15085	PDZ-RhoGEF	Gene_or_gene_product
+PMC3461631	264	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC3461631	264	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC3461631	264	uniprot:UNRESOLVED ID	c-Met	Gene_or_gene_product
+PMC3461631	265	uniprot:UNRESOLVED ID	c-Met	Gene_or_gene_product
+PMC3461631	265	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC3461631	265	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC3461631	265	uniprot:Q92854	Sema4D	Gene_or_gene_product
+PMC3461631	265	uazid:UA-ORG-116	breast	Organ
+PMC3461631	265	uniprot:UNRESOLVED ID	carcinoma	CellType
+PMC3461631	266	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC3461631	267	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC3461631	267	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC3461631	268	uniprot:UNRESOLVED ID	c-Met	Gene_or_gene_product
+PMC3461631	268	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC3461631	268	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	268	uniprot:UNRESOLVED ID	plexin	Gene_or_gene_product
+PMC3461631	270	uniprot:UNRESOLVED ID	Semaphorins	Gene_or_gene_product
+PMC3461631	270	uniprot:UNRESOLVED ID	Plexins	Gene_or_gene_product
+PMC3461631	271	uniprot:UNRESOLVED ID	semaphorins	Gene_or_gene_product
+PMC3461631	271	uniprot:UNRESOLVED ID	plexins	Gene_or_gene_product
+PMC3461631	272	uniprot:Q13214	Sema3B	Gene_or_gene_product
+PMC3461631	272	uniprot:P04637	p53	Gene_or_gene_product
+PMC3461631	273	uniprot:P04637	p53	Gene_or_gene_product
+PMC3461631	273	uniprot:UNRESOLVED ID	glioblastoma	CellType
+PMC3461631	273	uniprot:Q13214	Sema3B	Gene_or_gene_product
+PMC3461631	274	uniprot:Q13214	Sema3B	Gene_or_gene_product
+PMC3461631	274	uniprot:P04637	p53	Gene_or_gene_product
+PMC3461631	276	uniprot:P15056	B-Raf	Gene_or_gene_product
+PMC3461631	277	uniprot:P04049	Raf	Gene_or_gene_product
+PMC3461631	277	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
+PMC3461631	277	uniprot:P29323	ERK	Gene_or_gene_product
+PMC3461631	278	uniprot:UNRESOLVED ID	B-Raf/MEK/ERK	Gene_or_gene_product
+PMC3461631	278	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	278	uniprot:UNRESOLVED ID	melanoma	CellType
+PMC3461631	279	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	279	uniprot:UNRESOLVED ID	melanoma	CellType
+PMC3461631	279	ncbitax:species:ncbi:10090	nude mice	Species
+PMC3461631	280	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	280	uniprot:Q9QYJ2	R-RasGAP	Gene_or_gene_product
+PMC3461631	280	uniprot:P54644	AKT	Gene_or_gene_product
+PMC3461631	281	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC3461631	282	uniprot:O43157	plexin-B1	Gene_or_gene_product
+PMC3461631	282	uniprot:UNRESOLVED ID	melanoma	CellType
+PMC3461631	284	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	286	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	287	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC3461631	287	uniprot:UNRESOLVED ID	c-MET	Gene_or_gene_product
+PMC3461631	287	uniprot:P09619	PDGFR	Gene_or_gene_product
+PMC3461631	287	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3461631	289	uniprot:UNRESOLVED ID	c-Met	Gene_or_gene_product
+PMC3461631	289	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC3461631	290	uniprot:P16455	MGMT	Gene_or_gene_product
+PMC3461631	290	uniprot:UNRESOLVED ID	glioblastoma	CellType
+PMC3461631	290	ncbitax:species:ncbi:9606	patient	Species
+PMC3461631	292	uniprot:UNRESOLVED ID	semaphorins	Gene_or_gene_product
+PMC3461631	292	uniprot:UNRESOLVED ID	plexins	Gene_or_gene_product
+PMC3461631	292	uniprot:UNRESOLVED ID	neuropilins	Gene_or_gene_product
+PMC3461631	293	uniprot:UNRESOLVED ID	semaphorins 1	Gene_or_gene_product
+PMC3461631	296	uniprot:UNRESOLVED ID	plexin members	Gene_or_gene_product
+PMC3461631	296	uniprot:P20936	GTPase activating protein	Gene_or_gene_product
+PMC3461631	297	uniprot:UNRESOLVED ID	Plexin-Bs	Gene_or_gene_product
+PMC3461631	298	uniprot:UNRESOLVED ID	Neuropilins are transmembrane receptors	Gene_or_gene_product
+PMC3461631	298	uniprot:UNRESOLVED ID	FV	Gene_or_gene_product
+PMC3461631	298	uniprot:UNRESOLVED ID	FVIII coagulating factor-like domain	Gene_or_gene_product
+PMC3461631	299	uniprot:UNRESOLVED ID	Ig	Gene_or_gene_product
+PMC3461631	299	uazid:UA-ORG-407	immunoglobulin	Organ
+PMC3461631	299	uniprot:O42043	TM	Gene_or_gene_product
+PMC3461631	300	uniprot:UNRESOLVED ID	plexin-A	Gene_or_gene_product
+PMC3461631	300	uniprot:Q9V4A7	plexin-B	Gene_or_gene_product
+PMC3461631	302	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC3461631	302	uniprot:P12004	cyclin	Gene_or_gene_product
+PMC3461631	302	uniprot:Q00535	Cdk5	Gene_or_gene_product
+PMC3461631	302	uniprot:UNRESOLVED ID	CRMP	Gene_or_gene_product
+PMC3461631	303	uniprot:Q00535	Cdk5	Gene_or_gene_product
+PMC3461631	303	uniprot:Q99490	phosphatidylinositol 3-kinase enhancer	Gene_or_gene_product
+PMC3461631	303	uniprot:UNRESOLVED ID	PIKE-A	Gene_or_gene_product
+PMC3461631	303	uniprot:P54644	AKT	Gene_or_gene_product
+PMC3461631	303	uniprot:UNRESOLVED ID	glioma	CellType
+PMC3461631	304	uniprot:Q9V4A7	plexin-B	Gene_or_gene_product
+PMC3461631	304	uniprot:UNRESOLVED ID	semaphorins	Gene_or_gene_product
+PMC3461631	304	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC3461631	304	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC3461631	304	uniprot:P31749	Rac	Gene_or_gene_product
+PMC3461631	304	uniprot:UNRESOLVED ID	tail	CellType
+PMC3461631	304	uniprot:UNRESOLVED ID	Rac1-GTP	Gene_or_gene_product
+PMC3461631	304	uniprot:P38936	p21	Gene_or_gene_product
+PMC3461631	304	uniprot:Q9FZ06	PAK	Gene_or_gene_product
+PMC3461631	305	uniprot:Q9V4A7	plexin-B	Gene_or_gene_product
+PMC3461631	305	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC3461631	305	uniprot:P08100	Rho	Gene_or_gene_product
+PMC3461631	306	uniprot:Q9V4A7	plexin-B	Gene_or_gene_product
+PMC3461631	306	uniprot:P08100	Rho	Gene_or_gene_product
+PMC3461631	306	uniprot:O15085	PDZ-RhoGEF	Gene_or_gene_product
+PMC3461631	306	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC3461631	307	uniprot:UNRESOLVED ID	RhoA-GTP	Gene_or_gene_product
+PMC3461631	307	uniprot:P04049	Raf	Gene_or_gene_product
+PMC3461631	307	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC3461631	308	uniprot:P20936	GTPase activating protein	Gene_or_gene_product
+PMC3461631	308	uniprot:UNRESOLVED ID	tail	CellType
+PMC3461631	308	uniprot:UNRESOLVED ID	plexin-A	Gene_or_gene_product
+PMC3461631	308	uniprot:P13741	-B	Gene_or_gene_product
+PMC3461631	308	uniprot:Q92730	Rnd1	Gene_or_gene_product
+PMC3461631	308	uniprot:P10301	R-Ras	Gene_or_gene_product
+PMC3461631	308	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3461631	308	uniprot:P60484	PTEN	Gene_or_gene_product

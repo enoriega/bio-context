@@ -1,0 +1,4 @@
+Paper ID	Line Num	Master ID	Dependent ID	Text	Type
+PMC2193067	35	uniprot:O89094	uazid:UA-CT-200004	spleens of the mice	ContextPossesive
+PMC2193067	84	uazid:UA-ORG-878	uazid:UA-CT-16	macrophages of lymph node sinuses	ContextPossesive
+PMC2193067	154	uazid:UA-CT-16	uniprot:UNRESOLVED ID	SRs on macrophages	ContextLocation

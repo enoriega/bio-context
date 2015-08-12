@@ -1,0 +1,598 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2773002	0	ncbitax:species:ncbi:9606	Human	Species
+PMC2773002	0	uniprot:P35790	Choline Kinase alpha	Gene_or_gene_product
+PMC2773002	2	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	3	uniprot:UNRESOLVED ID	ChoK family	Gene_or_gene_product
+PMC2773002	3	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	3	uniprot:UNRESOLVED ID	ChoKbeta isoforms	Gene_or_gene_product
+PMC2773002	4	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	4	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	5	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	6	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	6	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	7	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	7	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	7	uniprot:UNRESOLVED ID	choline and ethanolamine kinase	Gene_or_gene_product
+PMC2773002	9	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	9	uniprot:P35790	ethanolamine kinase	Gene_or_gene_product
+PMC2773002	9	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	9	uniprot:Q9Y259	choline/ethanolamine kinase	Gene_or_gene_product
+PMC2773002	9	uniprot:UNRESOLVED ID	ChoK isoform	Gene_or_gene_product
+PMC2773002	10	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	10	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	11	uniprot:UNRESOLVED ID	ChoKalpha1 mRNA	Gene_or_gene_product
+PMC2773002	11	uazid:UA-ORG-116	breast	Organ
+PMC2773002	11	uazid:UA-ORG-537	lung	Organ
+PMC2773002	11	uniprot:UNRESOLVED ID	ChoKbeta mRNA	Gene_or_gene_product
+PMC2773002	12	uniprot:UNRESOLVED ID	MN58b	Gene_or_gene_product
+PMC2773002	12	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	12	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	12	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	13	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	13	uniprot:UNRESOLVED ID	ChoKbeta isoforms	Gene_or_gene_product
+PMC2773002	13	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	14	uniprot:P54829	step	Gene_or_gene_product
+PMC2773002	14	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	16	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	17	uniprot:UNRESOLVED ID	ChoK family	Gene_or_gene_product
+PMC2773002	17	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	17	uniprot:UNRESOLVED ID	ChoKbeta isoforms	Gene_or_gene_product
+PMC2773002	18	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	18	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	19	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	20	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	20	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	21	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	21	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	21	uniprot:UNRESOLVED ID	choline and ethanolamine kinase	Gene_or_gene_product
+PMC2773002	23	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	23	uniprot:P35790	ethanolamine kinase	Gene_or_gene_product
+PMC2773002	23	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	23	uniprot:Q9Y259	choline/ethanolamine kinase	Gene_or_gene_product
+PMC2773002	23	uniprot:UNRESOLVED ID	ChoK isoform	Gene_or_gene_product
+PMC2773002	24	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	24	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	25	uniprot:UNRESOLVED ID	ChoKalpha1 mRNA	Gene_or_gene_product
+PMC2773002	25	uazid:UA-ORG-116	breast	Organ
+PMC2773002	25	uazid:UA-ORG-537	lung	Organ
+PMC2773002	25	uniprot:UNRESOLVED ID	ChoKbeta mRNA	Gene_or_gene_product
+PMC2773002	26	uniprot:UNRESOLVED ID	MN58b	Gene_or_gene_product
+PMC2773002	26	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	26	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	26	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	27	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	27	uniprot:UNRESOLVED ID	ChoKbeta isoforms	Gene_or_gene_product
+PMC2773002	27	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	28	uniprot:P54829	step	Gene_or_gene_product
+PMC2773002	28	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	29	ncbitax:species:ncbi:9606	Human	Species
+PMC2773002	29	uniprot:P35790	choline kinase alpha	Gene_or_gene_product
+PMC2773002	29	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	29	uniprot:B1JSR0	beta	Gene_or_gene_product
+PMC2773002	29	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	30	uniprot:P35790	CHKA	Gene_or_gene_product
+PMC2773002	30	uniprot:Q9Y259	CHKB	Gene_or_gene_product
+PMC2773002	30	uniprot:Q9Y259	choline/ethanolamine kinase	Gene_or_gene_product
+PMC2773002	30	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	30	uniprot:A7SK27	EtnK	Gene_or_gene_product
+PMC2773002	30	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	30	uniprot:UNRESOLVED ID	NP_001268	Gene_or_gene_product
+PMC2773002	30	uniprot:UNRESOLVED ID	ChoKalpha2	Gene_or_gene_product
+PMC2773002	30	uniprot:UNRESOLVED ID	NP_997634	Gene_or_gene_product
+PMC2773002	30	uniprot:UNRESOLVED ID	ChoKbeta1	Gene_or_gene_product
+PMC2773002	30	uniprot:UNRESOLVED ID	NP_005189	Gene_or_gene_product
+PMC2773002	31	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	31	uniprot:UNRESOLVED ID	ChoKalpha2	Gene_or_gene_product
+PMC2773002	31	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	32	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	32	uniprot:UNRESOLVED ID	EtnK domain	Gene_or_gene_product
+PMC2773002	32	uniprot:F1Q4R9	Cho	CellType
+PMC2773002	33	uniprot:P54829	step	Gene_or_gene_product
+PMC2773002	33	uniprot:O00592	PC	Gene_or_gene_product
+PMC2773002	34	uniprot:O00592	PC	Gene_or_gene_product
+PMC2773002	35	uniprot:UNRESOLVED ID	ChoK enzymes	Gene_or_gene_product
+PMC2773002	35	uniprot:P48147	PE	Gene_or_gene_product
+PMC2773002	36	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	37	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	39	uniprot:O00592	PC	Gene_or_gene_product
+PMC2773002	39	uniprot:P02810	PA	Gene_or_gene_product
+PMC2773002	39	uniprot:P08519	LPA	Gene_or_gene_product
+PMC2773002	40	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	40	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2773002	41	uniprot:P61586	RHOA	Gene_or_gene_product
+PMC2773002	41	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	42	uniprot:P59665	MRS	Gene_or_gene_product
+PMC2773002	43	uazid:UA-ORG-116	breast	Organ
+PMC2773002	43	uazid:UA-ORG-759	prostate	Organ
+PMC2773002	43	uazid:UA-CT-200001	brain	Organ
+PMC2773002	44	uniprot:P59665	MRS	Gene_or_gene_product
+PMC2773002	45	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	46	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	46	uazid:UA-ORG-116	breast	Organ
+PMC2773002	46	uazid:UA-ORG-537	lung	Organ
+PMC2773002	46	uazid:UA-ORG-759	prostate	Organ
+PMC2773002	46	uazid:UA-ORG-91	bladder	Organ
+PMC2773002	47	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	48	uniprot:UNRESOLVED ID	ChoKalpha mRNA	Gene_or_gene_product
+PMC2773002	48	uazid:UA-ORG-537	lung	Organ
+PMC2773002	49	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	49	uazid:UA-ORG-116	breast	Organ
+PMC2773002	49	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	49	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	50	uazid:UA-ORG-759	prostate	Organ
+PMC2773002	50	ncbitax:species:ncbi:10090	mouse	Species
+PMC2773002	50	uniprot:O96006	TRAMP	Gene_or_gene_product
+PMC2773002	50	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	51	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2773002	52	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	52	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2773002	53	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	53	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2773002	54	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	55	uniprot:UNRESOLVED ID	MN58b	Gene_or_gene_product
+PMC2773002	55	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	55	ncbitax:species:ncbi:10090	nude mice	Species
+PMC2773002	56	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	56	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	58	uniprot:UNRESOLVED ID	MN58b	Gene_or_gene_product
+PMC2773002	58	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	60	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	60	uniprot:UNRESOLVED ID	ChoKbeta isoforms	Gene_or_gene_product
+PMC2773002	61	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	61	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	61	uniprot:P35790	ethanolamine kinase	Gene_or_gene_product
+PMC2773002	62	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	62	uniprot:UNRESOLVED ID	ChoKbeta isoforms	Gene_or_gene_product
+PMC2773002	63	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	63	uniprot:P35790	CHKA	Gene_or_gene_product
+PMC2773002	63	uniprot:Q9Y259	CHKB	Gene_or_gene_product
+PMC2773002	63	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	63	uniprot:A7SK27	EtnK	Gene_or_gene_product
+PMC2773002	64	uniprot:Q86XP6	Blot	Gene_or_gene_product
+PMC2773002	65	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	65	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	65	uniprot:UNRESOLVED ID	choline and ethanolamine kinase	Gene_or_gene_product
+PMC2773002	66	uniprot:UNRESOLVED ID	choline and ethanolamine kinase	Gene_or_gene_product
+PMC2773002	66	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	66	uniprot:UNRESOLVED ID	Chokbeta1	Gene_or_gene_product
+PMC2773002	67	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	67	uniprot:UNRESOLVED ID	ChoKbeta1 gene	Gene_or_gene_product
+PMC2773002	68	uniprot:UNRESOLVED ID	pCDNA3b	Gene_or_gene_product
+PMC2773002	69	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	69	uniprot:UNRESOLVED ID	ChoKbeta1	Gene_or_gene_product
+PMC2773002	69	uniprot:Q86XP6	Blot	Gene_or_gene_product
+PMC2773002	70	uniprot:P04406	GAPDH	Gene_or_gene_product
+PMC2773002	71	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	71	uniprot:A7SK27	EtnK	Gene_or_gene_product
+PMC2773002	71	uniprot:UNRESOLVED ID	beta1 isoforms	Gene_or_gene_product
+PMC2773002	71	uniprot:UNRESOLVED ID	HEK293T	Gene_or_gene_product
+PMC2773002	74	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	74	uniprot:A7SK27	EtnK	Gene_or_gene_product
+PMC2773002	74	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	74	uniprot:UNRESOLVED ID	ChoKbeta isoforms	Gene_or_gene_product
+PMC2773002	75	uniprot:UNRESOLVED ID	DH5alpha Escherichia coli	Gene_or_gene_product
+PMC2773002	75	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	75	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	75	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	75	uniprot:A7SK27	EtnK	Gene_or_gene_product
+PMC2773002	77	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	77	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	78	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	78	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	79	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	79	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	80	uniprot:UNRESOLVED ID	ChoKalpha and beta isoforms	Gene_or_gene_product
+PMC2773002	81	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	83	uniprot:UNRESOLVED ID	ChoK isoforms	Gene_or_gene_product
+PMC2773002	83	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2773002	84	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2773002	84	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	84	uniprot:UNRESOLVED ID	small GTPase family	Gene_or_gene_product
+PMC2773002	84	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2773002	84	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2773002	84	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	85	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	85	uniprot:A7SK27	EtnK	Gene_or_gene_product
+PMC2773002	85	uniprot:UNRESOLVED ID	GTPase	Gene_or_gene_product
+PMC2773002	85	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	85	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	86	uniprot:UNRESOLVED ID	GTPases	Gene_or_gene_product
+PMC2773002	86	uniprot:P35790	ethanolamine kinase	Gene_or_gene_product
+PMC2773002	86	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	87	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2773002	87	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	87	uniprot:A7SK27	EtnK	Gene_or_gene_product
+PMC2773002	87	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	88	uniprot:UNRESOLVED ID	beta1 isoforms	Gene_or_gene_product
+PMC2773002	88	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2773002	89	uniprot:P08100	Rho	Gene_or_gene_product
+PMC2773002	89	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	90	uniprot:Q86XP6	Blot	Gene_or_gene_product
+PMC2773002	90	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	90	uniprot:UNRESOLVED ID	ChoKbeta1	Gene_or_gene_product
+PMC2773002	90	uniprot:UNRESOLVED ID	45 KDa	Gene_or_gene_product
+PMC2773002	90	uniprot:UNRESOLVED ID	RhoA-QL	Gene_or_gene_product
+PMC2773002	90	uniprot:UNRESOLVED ID	22 KDa	Gene_or_gene_product
+PMC2773002	90	uniprot:UNRESOLVED ID	Cdc42-QL	Gene_or_gene_product
+PMC2773002	90	uniprot:UNRESOLVED ID	25 KDa	Gene_or_gene_product
+PMC2773002	90	uniprot:UNRESOLVED ID	H-rasV12	Gene_or_gene_product
+PMC2773002	91	uniprot:P04406	GAPDH	Gene_or_gene_product
+PMC2773002	92	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	92	uniprot:UNRESOLVED ID	ChoKbeta1	Gene_or_gene_product
+PMC2773002	92	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2773002	92	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2773002	93	uniprot:P35790	ethanolamine kinase	Gene_or_gene_product
+PMC2773002	93	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	93	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	93	uniprot:UNRESOLVED ID	GTPase	Gene_or_gene_product
+PMC2773002	96	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	96	uniprot:UNRESOLVED ID	ChoKbeta1	Gene_or_gene_product
+PMC2773002	97	uniprot:UNRESOLVED ID	ChoK isoforms	Gene_or_gene_product
+PMC2773002	98	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	98	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	99	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	100	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	101	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	102	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	103	uniprot:UNRESOLVED ID	MDCK	Gene_or_gene_product
+PMC2773002	103	uniprot:UNRESOLVED ID	ChoK isoforms	Gene_or_gene_product
+PMC2773002	105	uniprot:UNRESOLVED ID	ChoKalpha1-	Gene_or_gene_product
+PMC2773002	105	uniprot:Q60420	beta1	Gene_or_gene_product
+PMC2773002	106	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	112	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	113	uniprot:UNRESOLVED ID	ChoKalpha1-	Gene_or_gene_product
+PMC2773002	113	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	113	uniprot:O89094	mice	Species
+PMC2773002	114	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	114	uniprot:O89094	mice	Species
+PMC2773002	115	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	117	uniprot:UNRESOLVED ID	MDCK	Gene_or_gene_product
+PMC2773002	119	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	119	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	120	uniprot:UNRESOLVED ID	ChoKbeta1	Gene_or_gene_product
+PMC2773002	120	ncbitax:species:ncbi:10090	nude mice	Species
+PMC2773002	121	ncbitax:species:ncbi:10090	nude mice	Species
+PMC2773002	122	uniprot:Q86XP6	Blot	Gene_or_gene_product
+PMC2773002	122	uniprot:O89094	mice	Species
+PMC2773002	123	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	123	uniprot:Q60420	beta1	Gene_or_gene_product
+PMC2773002	123	uniprot:UNRESOLVED ID	HEK293T	Gene_or_gene_product
+PMC2773002	123	uniprot:UNRESOLVED ID	MDCK	Gene_or_gene_product
+PMC2773002	123	uniprot:O89094	mice	Species
+PMC2773002	126	uniprot:UNRESOLVED ID	HEK293T	Gene_or_gene_product
+PMC2773002	126	uniprot:UNRESOLVED ID	MDCK	Gene_or_gene_product
+PMC2773002	127	uniprot:UNRESOLVED ID	ChoKbeta isoform	Gene_or_gene_product
+PMC2773002	127	uniprot:A7SK27	EtnK	Gene_or_gene_product
+PMC2773002	128	uniprot:UNRESOLVED ID	ChoK isoforms	Gene_or_gene_product
+PMC2773002	129	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	129	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	129	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	129	uniprot:A7SK27	EtnK	Gene_or_gene_product
+PMC2773002	130	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	130	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	130	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	132	uniprot:UNRESOLVED ID	ChoKalpha1-	Gene_or_gene_product
+PMC2773002	132	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	133	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	133	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	134	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	134	uazid:UA-ORG-116	breast	Organ
+PMC2773002	134	uazid:UA-ORG-537	Lung	Organ
+PMC2773002	134	uniprot:UNRESOLVED ID	NSCLC	Gene_or_gene_product
+PMC2773002	135	uniprot:Q86XP6	Blot	Gene_or_gene_product
+PMC2773002	136	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	136	uniprot:UNRESOLVED ID	ChoKbeta1	Gene_or_gene_product
+PMC2773002	136	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	137	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	137	uniprot:UNRESOLVED ID	ChoKbeta1 gene	Gene_or_gene_product
+PMC2773002	137	uniprot:UNRESOLVED ID	pCDNA3b	Gene_or_gene_product
+PMC2773002	138	uniprot:A7SK27	EtnK	Gene_or_gene_product
+PMC2773002	138	uniprot:UNRESOLVED ID	beta1 isoforms	Gene_or_gene_product
+PMC2773002	139	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	139	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	139	uniprot:UNRESOLVED ID	ChoKbeta isoforms	Gene_or_gene_product
+PMC2773002	144	uniprot:Q86XP6	Blot	Gene_or_gene_product
+PMC2773002	144	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	144	uniprot:UNRESOLVED ID	ChoKbeta1	Gene_or_gene_product
+PMC2773002	146	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	146	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	146	uniprot:UNRESOLVED ID	HEK293T	Gene_or_gene_product
+PMC2773002	147	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	147	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	149	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	149	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	149	uniprot:A7SK27	EtnK	Gene_or_gene_product
+PMC2773002	150	uniprot:UNRESOLVED ID	ChoKalpha mRNA	Gene_or_gene_product
+PMC2773002	150	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	151	uniprot:UNRESOLVED ID	ChoK isoenzyme	Gene_or_gene_product
+PMC2773002	151	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	151	uniprot:UNRESOLVED ID	ChoKbeta mRNA	Gene_or_gene_product
+PMC2773002	151	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	152	uazid:UA-ORG-116	breast	Organ
+PMC2773002	152	uazid:UA-ORG-537	lung	Organ
+PMC2773002	152	ncbitax:species:ncbi:9606	Human	Species
+PMC2773002	153	uniprot:UNRESOLVED ID	ChoKalpha mRNA	Gene_or_gene_product
+PMC2773002	153	uniprot:UNRESOLVED ID	ChoKbeta mRNA	Gene_or_gene_product
+PMC2773002	154	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	154	uazid:UA-ORG-116	breast	Organ
+PMC2773002	154	uazid:UA-ORG-537	lung	Organ
+PMC2773002	155	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	155	uniprot:UNRESOLVED ID	ChoKbeta1 mRNA	Gene_or_gene_product
+PMC2773002	156	uniprot:UNRESOLVED ID	MCF10A	Gene_or_gene_product
+PMC2773002	156	uazid:UA-ORG-116	breast	Organ
+PMC2773002	156	uniprot:UNRESOLVED ID	MDA-MB435	Gene_or_gene_product
+PMC2773002	156	uniprot:UNRESOLVED ID	MDA-MB468	Gene_or_gene_product
+PMC2773002	156	uniprot:UNRESOLVED ID	MCF7	Gene_or_gene_product
+PMC2773002	156	uazid:UA-ORG-537	lung	Organ
+PMC2773002	157	uniprot:UNRESOLVED ID	endogenous 18S ribosomal RNA	Gene_or_gene_product
+PMC2773002	158	uniprot:UNRESOLVED ID	log10 RQ	Gene_or_gene_product
+PMC2773002	159	ncbitax:species:ncbi:9606	Human	Species
+PMC2773002	159	uniprot:P84628	HMEC	Gene_or_gene_product
+PMC2773002	159	uazid:UA-ORG-116	breast	Organ
+PMC2773002	159	uniprot:UNRESOLVED ID	ChoK isoforms mRNA	Gene_or_gene_product
+PMC2773002	160	uazid:UA-ORG-537	lung	Organ
+PMC2773002	161	uniprot:UNRESOLVED ID	MN58b	Gene_or_gene_product
+PMC2773002	161	uniprot:UNRESOLVED ID	ChoKalpha isoform	Gene_or_gene_product
+PMC2773002	162	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	162	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	163	uniprot:UNRESOLVED ID	MN58b	Gene_or_gene_product
+PMC2773002	163	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	163	uazid:UA-ORG-172	colon	Organ
+PMC2773002	163	uazid:UA-ORG-537	lung	Organ
+PMC2773002	163	uazid:UA-ORG-116	breast	Organ
+PMC2773002	163	uazid:UA-ORG-91	bladder	Organ
+PMC2773002	164	uniprot:UNRESOLVED ID	mammalian ChoKbeta	Gene_or_gene_product
+PMC2773002	164	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	165	uniprot:Q9Y259	choline/ethanolamine kinase	Gene_or_gene_product
+PMC2773002	166	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	166	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	167	uniprot:UNRESOLVED ID	MN58b	Gene_or_gene_product
+PMC2773002	167	uniprot:UNRESOLVED ID	ChoK isoenzymes	Gene_or_gene_product
+PMC2773002	168	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	168	uniprot:UNRESOLVED ID	ChoKbeta recombinant proteins	Gene_or_gene_product
+PMC2773002	168	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	169	uniprot:UNRESOLVED ID	ChoK isoforms	Gene_or_gene_product
+PMC2773002	169	uniprot:UNRESOLVED ID	MN58b	Gene_or_gene_product
+PMC2773002	169	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	169	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	170	uniprot:UNRESOLVED ID	MN58b	Gene_or_gene_product
+PMC2773002	170	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	170	uniprot:UNRESOLVED ID	ChoKbeta isoform	Gene_or_gene_product
+PMC2773002	171	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	171	uniprot:P35790	CHKA	Gene_or_gene_product
+PMC2773002	171	uniprot:Q9Y259	CHKB	Gene_or_gene_product
+PMC2773002	171	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	171	uniprot:UNRESOLVED ID	ChoKalpha2	Gene_or_gene_product
+PMC2773002	171	uniprot:UNRESOLVED ID	ChoKbeta1	Gene_or_gene_product
+PMC2773002	172	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	172	uniprot:UNRESOLVED ID	ChoKalpha2	Gene_or_gene_product
+PMC2773002	172	uniprot:P35790	CHKA	Gene_or_gene_product
+PMC2773002	173	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	173	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	173	uazid:UA-ORG-116	breast	Organ
+PMC2773002	173	uniprot:O96006	TRAMP	Gene_or_gene_product
+PMC2773002	173	ncbitax:species:ncbi:10090	mouse	Species
+PMC2773002	173	uazid:UA-ORG-759	prostate	Organ
+PMC2773002	174	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	174	uniprot:A7SK27	EtnK	Gene_or_gene_product
+PMC2773002	174	uniprot:Q9HBU6	EtnK1	Gene_or_gene_product
+PMC2773002	174	uniprot:P48147	PE	Gene_or_gene_product
+PMC2773002	175	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	175	uniprot:UNRESOLVED ID	EtnK domain	Gene_or_gene_product
+PMC2773002	175	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	175	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	175	uniprot:A7SK27	EtnK	Gene_or_gene_product
+PMC2773002	175	uniprot:O00592	PC	Gene_or_gene_product
+PMC2773002	175	uniprot:P48147	PE	Gene_or_gene_product
+PMC2773002	176	uniprot:F1Q4R9	Cho	CellType
+PMC2773002	176	uniprot:A7SK27	EtnK	Gene_or_gene_product
+PMC2773002	177	uniprot:UNRESOLVED ID	TbCho	Gene_or_gene_product
+PMC2773002	177	uniprot:UNRESOLVED ID	Etn1 displays	Gene_or_gene_product
+PMC2773002	177	uniprot:A7SK27	EtnK	Gene_or_gene_product
+PMC2773002	177	uniprot:UNRESOLVED ID	Etn2 displays	Gene_or_gene_product
+PMC2773002	177	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	178	uniprot:Q9HBU6	EtnK1	Gene_or_gene_product
+PMC2773002	178	uniprot:Q9NVF9	EtnK2	Gene_or_gene_product
+PMC2773002	178	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	178	uniprot:A7SK27	EtnK	Gene_or_gene_product
+PMC2773002	179	uazid:UA-ORG-381	hand	Organ
+PMC2773002	179	uniprot:UNRESOLVED ID	murine Pcyt1alpha	Gene_or_gene_product
+PMC2773002	179	uniprot:UNRESOLVED ID	Pcyt1beta	Gene_or_gene_product
+PMC2773002	179	uniprot:O00592	PC	Gene_or_gene_product
+PMC2773002	179	uniprot:Q99447	Pcyt2	Gene_or_gene_product
+PMC2773002	180	uniprot:UNRESOLVED ID	ChoK isoform	Gene_or_gene_product
+PMC2773002	180	uniprot:O00592	PC	Gene_or_gene_product
+PMC2773002	180	uniprot:P48147	PE	Gene_or_gene_product
+PMC2773002	182	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	182	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	182	uniprot:A7SK27	EtnK	Gene_or_gene_product
+PMC2773002	182	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	183	uniprot:O89094	mice	Species
+PMC2773002	183	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	183	uniprot:UNRESOLVED ID	ChoKbeta genes	Gene_or_gene_product
+PMC2773002	184	uniprot:UNRESOLVED ID	ChoKbeta KO	Gene_or_gene_product
+PMC2773002	184	uniprot:O89094	mice	Species
+PMC2773002	184	uniprot:O00592	PC	Gene_or_gene_product
+PMC2773002	184	uazid:UA-ORG-879	skeletal muscle	Organ
+PMC2773002	185	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	185	uniprot:O00592	PC	Gene_or_gene_product
+PMC2773002	186	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	186	uniprot:O89094	mice	Species
+PMC2773002	186	uniprot:F1Q4R9	Cho	CellType
+PMC2773002	186	uazid:UA-ORG-520	liver	Organ
+PMC2773002	186	uniprot:UNRESOLVED ID	testis	CellType
+PMC2773002	186	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	186	uniprot:O00592	PC	Gene_or_gene_product
+PMC2773002	187	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	187	uniprot:UNRESOLVED ID	ChoKbeta isoforms	Gene_or_gene_product
+PMC2773002	188	uniprot:P48147	PE	Gene_or_gene_product
+PMC2773002	188	uniprot:O89094	mice	Species
+PMC2773002	188	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	188	uniprot:O00592	PC	Gene_or_gene_product
+PMC2773002	189	uniprot:UNRESOLVED ID	ChoKbeta KO	Gene_or_gene_product
+PMC2773002	189	uniprot:O89094	mice	Species
+PMC2773002	189	uniprot:P48147	PE	Gene_or_gene_product
+PMC2773002	189	uniprot:Q9HBU6	EtnK1	Gene_or_gene_product
+PMC2773002	189	uniprot:UNRESOLVED ID	ChoKalpha proteins	Gene_or_gene_product
+PMC2773002	190	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	190	ncbitax:species:ncbi:10090	mouse	Species
+PMC2773002	192	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	192	uniprot:P48147	PE	Gene_or_gene_product
+PMC2773002	192	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	192	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	193	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	194	uniprot:A7SK27	EtnK	Gene_or_gene_product
+PMC2773002	197	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	197	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	198	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	199	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	199	uniprot:A7SK27	EtnK	Gene_or_gene_product
+PMC2773002	200	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	200	ncbitax:species:ncbi:10090	nude mice	Species
+PMC2773002	201	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	202	uniprot:UNRESOLVED ID	ChoK isoforms	Gene_or_gene_product
+PMC2773002	203	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	203	uniprot:O00592	PC	Gene_or_gene_product
+PMC2773002	203	uniprot:P48147	PE	Gene_or_gene_product
+PMC2773002	203	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	204	uniprot:UNRESOLVED ID	ChoKalpha isoform	Gene_or_gene_product
+PMC2773002	205	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	205	uniprot:UNRESOLVED ID	Sk-Br-3	Gene_or_gene_product
+PMC2773002	205	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	205	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	205	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	205	uniprot:A7SK27	EtnK	Gene_or_gene_product
+PMC2773002	206	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	206	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	206	uniprot:UNRESOLVED ID	MN58b	Gene_or_gene_product
+PMC2773002	207	uniprot:UNRESOLVED ID	MN58b	Gene_or_gene_product
+PMC2773002	208	uniprot:UNRESOLVED ID	MN58b	Gene_or_gene_product
+PMC2773002	209	uniprot:P25787	HC-3	Gene_or_gene_product
+PMC2773002	209	uniprot:UNRESOLVED ID	MN58b	Gene_or_gene_product
+PMC2773002	210	uniprot:UNRESOLVED ID	MN58b	Gene_or_gene_product
+PMC2773002	210	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	211	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	211	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	211	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2773002	212	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	212	uniprot:Q12967	Ral-GDS	Gene_or_gene_product
+PMC2773002	212	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2773002	212	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2773002	212	uniprot:UNRESOLVED ID	ROCK	Gene_or_gene_product
+PMC2773002	212	uniprot:UNRESOLVED ID	oncogenic GTPases	Gene_or_gene_product
+PMC2773002	212	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	213	uniprot:UNRESOLVED ID	ChoK enzymes	Gene_or_gene_product
+PMC2773002	214	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	214	uazid:UA-ORG-116	breast	Organ
+PMC2773002	214	uazid:UA-ORG-537	lung	Organ
+PMC2773002	214	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	214	uniprot:UNRESOLVED ID	beta mRNA	Gene_or_gene_product
+PMC2773002	215	uniprot:UNRESOLVED ID	ChoKalpha mRNA	Gene_or_gene_product
+PMC2773002	215	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	216	uazid:UA-ORG-116	breast	Organ
+PMC2773002	217	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	217	uazid:UA-ORG-537	lung	Organ
+PMC2773002	218	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	218	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	218	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	219	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	219	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	220	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	220	uniprot:UNRESOLVED ID	ChoKalpha isoform	Gene_or_gene_product
+PMC2773002	221	uniprot:UNRESOLVED ID	anti-ChoKalpha antibodies	Gene_or_gene_product
+PMC2773002	221	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	223	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	223	uniprot:UNRESOLVED ID	ChoKalpha isoform	Gene_or_gene_product
+PMC2773002	224	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	224	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	225	uazid:UA-ORG-599	muscle	Organ
+PMC2773002	226	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	228	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	228	uniprot:UNRESOLVED ID	ChoKbeta isoforms	Gene_or_gene_product
+PMC2773002	228	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	228	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	228	uniprot:A7SK27	EtnK	Gene_or_gene_product
+PMC2773002	229	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	230	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	230	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	231	uniprot:UNRESOLVED ID	Spanish Government	Gene_or_gene_product
+PMC2773002	231	uniprot:P18615	RD	Gene_or_gene_product
+PMC2773002	235	ncbitax:species:ncbi:9606	Human	Species
+PMC2773002	235	uazid:UA-ORG-461	Kidney	Organ
+PMC2773002	235	uniprot:UNRESOLVED ID	HEK293T	Gene_or_gene_product
+PMC2773002	235	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	235	uazid:UA-ORG-116	breast	Organ
+PMC2773002	235	uniprot:UNRESOLVED ID	SK-Br-3	Gene_or_gene_product
+PMC2773002	235	uazid:UA-ORG-126	Canine	Organ
+PMC2773002	235	uniprot:UNRESOLVED ID	MDCK	Gene_or_gene_product
+PMC2773002	235	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2773002	235	uazid:UA-ORG-537	lung	Organ
+PMC2773002	237	uniprot:UNRESOLVED ID	MDCK	Gene_or_gene_product
+PMC2773002	237	uniprot:UNRESOLVED ID	SK-Br-3	Gene_or_gene_product
+PMC2773002	238	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	238	uniprot:UNRESOLVED ID	beta1 isoforms	Gene_or_gene_product
+PMC2773002	238	uniprot:UNRESOLVED ID	pCDNA3b	Gene_or_gene_product
+PMC2773002	239	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2773002	239	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2773002	239	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2773002	243	uniprot:UNRESOLVED ID	Tris pH	Gene_or_gene_product
+PMC2773002	243	uniprot:D6RGH6	mCi	Gene_or_gene_product
+PMC2773002	243	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	243	uniprot:A7SK27	EtnK	Gene_or_gene_product
+PMC2773002	244	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	244	uniprot:UNRESOLVED ID	ChoKbeta1	Gene_or_gene_product
+PMC2773002	245	uniprot:UNRESOLVED ID	scale	CellType
+PMC2773002	246	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	246	uniprot:UNRESOLVED ID	MN58b	Gene_or_gene_product
+PMC2773002	246	uniprot:P24386	TCD	Gene_or_gene_product
+PMC2773002	248	uniprot:UNRESOLVED ID	HEK293T	Gene_or_gene_product
+PMC2773002	248	uniprot:UNRESOLVED ID	SK-Br-3	Gene_or_gene_product
+PMC2773002	252	uniprot:P31025	TLC	Gene_or_gene_product
+PMC2773002	256	uniprot:UNRESOLVED ID	Anti-choline kinase beta1	Gene_or_gene_product
+PMC2773002	256	uniprot:UNRESOLVED ID	serum	CellType
+PMC2773002	257	ncbitax:species:ncbi:9606	Human	Species
+PMC2773002	257	uniprot:Q9X5E9	UK	Gene_or_gene_product
+PMC2773002	257	uniprot:UNRESOLVED ID	DH5alpha Escherichia coli	Gene_or_gene_product
+PMC2773002	258	uniprot:UNRESOLVED ID	Recombinant ChoKbeta1	Gene_or_gene_product
+PMC2773002	258	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2773002	259	uniprot:UNRESOLVED ID	ChoKbeta1	Gene_or_gene_product
+PMC2773002	259	ncbitax:species:ncbi:9986	rabbits	Species
+PMC2773002	259	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2773002	260	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2773002	262	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	262	uniprot:O95759	AD3	Gene_or_gene_product
+PMC2773002	263	uniprot:UNRESOLVED ID	ChoKbeta1	Gene_or_gene_product
+PMC2773002	264	uniprot:UNRESOLVED ID	GTPases antibodies	Gene_or_gene_product
+PMC2773002	264	uniprot:P61586	RhoA	Gene_or_gene_product
+PMC2773002	264	uniprot:P63000	Rac1	Gene_or_gene_product
+PMC2773002	264	uniprot:P60953	Cdc42	Gene_or_gene_product
+PMC2773002	264	uniprot:P04406	GAPDH	Gene_or_gene_product
+PMC2773002	265	uniprot:Q08168	HRP	Gene_or_gene_product
+PMC2773002	267	uniprot:UNRESOLVED ID	MDCK	Gene_or_gene_product
+PMC2773002	270	ncbitax:species:ncbi:10090	mouse	Species
+PMC2773002	270	uniprot:O89094	mice	Species
+PMC2773002	271	uniprot:O89094	Mice	Species
+PMC2773002	272	uniprot:UNRESOLVED ID	ChoKalpha1	Gene_or_gene_product
+PMC2773002	272	uniprot:UNRESOLVED ID	beta1 mRNA	Gene_or_gene_product
+PMC2773002	272	uniprot:O00370	reverse transcriptase	Gene_or_gene_product
+PMC2773002	274	uniprot:P10721	Kit	Gene_or_gene_product
+PMC2773002	275	uniprot:Q96FA3	PRISM	Gene_or_gene_product
+PMC2773002	275	uniprot:P48147	PE	Gene_or_gene_product
+PMC2773002	276	uniprot:Q8IUF8	ROX	Gene_or_gene_product
+PMC2773002	277	uniprot:UNRESOLVED ID	ChoKalpha	Gene_or_gene_product
+PMC2773002	277	uniprot:UNRESOLVED ID	ChoKbeta	Gene_or_gene_product
+PMC2773002	277	uniprot:UNRESOLVED ID	18S ribosomal RNA	Gene_or_gene_product
+PMC2773002	277	uniprot:P41134	ID	Gene_or_gene_product
+PMC2773002	277	uniprot:UNRESOLVED ID	Hs00608045_m1	Gene_or_gene_product
+PMC2773002	277	uniprot:UNRESOLVED ID	Hs01925200_s1	Gene_or_gene_product
+PMC2773002	277	uniprot:UNRESOLVED ID	Hs99999901_s1	Gene_or_gene_product
+PMC2773002	279	uniprot:UNRESOLVED ID	Log10 RQ	Gene_or_gene_product
+PMC2773002	280	uniprot:UNRESOLVED ID	ChoK	Gene_or_gene_product
+PMC2773002	284	uniprot:UNRESOLVED ID	18S ribosomal RNA	Gene_or_gene_product
+PMC2773002	285	ncbitax:species:ncbi:9606	human	Species
+PMC2773002	285	uniprot:UNRESOLVED ID	Elena Bogonez	Gene_or_gene_product
+PMC2773002	286	uniprot:UNRESOLVED ID	DGO	Gene_or_gene_product
+PMC2773002	287	uniprot:UNRESOLVED ID	GR-SAL-0821-2004	Gene_or_gene_product
+PMC2773002	287	uniprot:UNRESOLVED ID	SAF2008-03750	Gene_or_gene_product
+PMC2773002	287	uniprot:UNRESOLVED ID	RD06/0020/0016	Gene_or_gene_product
+PMC2773002	287	uniprot:Q17GS9	ARM	Organ

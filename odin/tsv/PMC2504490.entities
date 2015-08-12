@@ -1,0 +1,1155 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2504490	0	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	0	ncbitax:species:ncbi:6239	Caenorhabditis elegans	Species
+PMC2504490	1	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	2	ncbitax:species:ncbi:6239	Caenorhabditis elegans	Species
+PMC2504490	3	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	3	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	4	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	4	uniprot:UNRESOLVED ID	VPC	Gene_or_gene_product
+PMC2504490	4	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	5	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	5	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	5	uniprot:P22749	LAG-2	Gene_or_gene_product
+PMC2504490	5	uniprot:B3EWJ2	DSL	Gene_or_gene_product
+PMC2504490	5	uniprot:P14585	LIN-12	Gene_or_gene_product
+PMC2504490	5	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2504490	6	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	6	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	6	uniprot:P12551	Delta	Gene_or_gene_product
+PMC2504490	6	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	7	uniprot:UNRESOLVED ID	DOS-motif	Gene_or_gene_product
+PMC2504490	7	uniprot:UNRESOLVED ID	DSL proteins	Gene_or_gene_product
+PMC2504490	8	uniprot:UNRESOLVED ID	mammalian DOS-motif protein Deltalike1	Gene_or_gene_product
+PMC2504490	8	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	8	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	8	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	9	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	9	uniprot:UNRESOLVED ID	Notch receptors	Gene_or_gene_product
+PMC2504490	9	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2504490	10	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2504490	11	ncbitax:species:ncbi:6239	Caenorhabditis elegans	Species
+PMC2504490	11	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	12	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	13	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	13	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	13	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	14	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	14	uniprot:UNRESOLVED ID	secreted protein Deltalike1	Gene_or_gene_product
+PMC2504490	14	uniprot:P80370	Dlk1	Gene_or_gene_product
+PMC2504490	14	uniprot:Q09163	Preadipocyte Factor 1	Gene_or_gene_product
+PMC2504490	14	uniprot:Q09163	PREF1	Gene_or_gene_product
+PMC2504490	16	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	16	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	17	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2504490	18	ncbitax:species:ncbi:6239	Caenorhabditis elegans	Species
+PMC2504490	18	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	19	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	20	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	20	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	20	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	21	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	21	uniprot:UNRESOLVED ID	secreted protein Deltalike1	Gene_or_gene_product
+PMC2504490	21	uniprot:P80370	Dlk1	Gene_or_gene_product
+PMC2504490	21	uniprot:Q09163	Preadipocyte Factor 1	Gene_or_gene_product
+PMC2504490	21	uniprot:Q09163	PREF1	Gene_or_gene_product
+PMC2504490	23	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	23	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	24	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	24	uniprot:B3EWJ2	DSL	Gene_or_gene_product
+PMC2504490	24	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	25	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	26	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2504490	26	uniprot:P22749	LAG-2	Gene_or_gene_product
+PMC2504490	26	uniprot:D1FP53	Lin	Gene_or_gene_product
+PMC2504490	26	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	27	uniprot:O42043	Su	Gene_or_gene_product
+PMC2504490	27	uniprot:P13236	LAG-1	Gene_or_gene_product
+PMC2504490	27	uniprot:D1FP53	Lin	Gene_or_gene_product
+PMC2504490	27	uniprot:P01275	Glp-1	Gene_or_gene_product
+PMC2504490	27	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	29	uniprot:UNRESOLVED ID	Vertebrate homologs	Gene_or_gene_product
+PMC2504490	30	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	30	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2504490	30	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	31	uniprot:P14585	LIN-12	Gene_or_gene_product
+PMC2504490	32	uniprot:P14585	LIN-12	Gene_or_gene_product
+PMC2504490	32	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	32	uniprot:Q13510	AC	Gene_or_gene_product
+PMC2504490	32	uniprot:P09089	Z1	Gene_or_gene_product
+PMC2504490	32	uniprot:UNRESOLVED ID	Z4	Gene_or_gene_product
+PMC2504490	33	uniprot:P14585	lin-12	Gene_or_gene_product
+PMC2504490	33	uniprot:Q8NCC3	ACs	Gene_or_gene_product
+PMC2504490	34	uniprot:Q13510	AC	Gene_or_gene_product
+PMC2504490	34	uniprot:P01133	epidermal growth factor	Gene_or_gene_product
+PMC2504490	34	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	34	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	34	uniprot:UNRESOLVED ID	P6.p	Gene_or_gene_product
+PMC2504490	35	uniprot:P14585	LIN-12	Gene_or_gene_product
+PMC2504490	35	uniprot:UNRESOLVED ID	P5.p	Gene_or_gene_product
+PMC2504490	35	uniprot:UNRESOLVED ID	P7.p	Gene_or_gene_product
+PMC2504490	35	uniprot:UNRESOLVED ID	P6.p	Gene_or_gene_product
+PMC2504490	35	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	36	uniprot:P14585	lin-12	Gene_or_gene_product
+PMC2504490	36	uazid:UA-ORG-1083	vulva	Organ
+PMC2504490	37	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2504490	37	uniprot:UNRESOLVED ID	LAG-2 proteins	Gene_or_gene_product
+PMC2504490	38	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	39	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2504490	39	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	41	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	41	uniprot:P22749	LAG-2	Gene_or_gene_product
+PMC2504490	41	uniprot:P14585	LIN-12	Gene_or_gene_product
+PMC2504490	42	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	43	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	43	uniprot:UNRESOLVED ID	pharynx	CellType
+PMC2504490	43	uniprot:Q10N21	APX-1	Gene_or_gene_product
+PMC2504490	43	uniprot:P53847	DSL-1	Gene_or_gene_product
+PMC2504490	43	uniprot:P22749	LAG-2	Gene_or_gene_product
+PMC2504490	44	uniprot:UNRESOLVED ID	Notch receptors	Gene_or_gene_product
+PMC2504490	44	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	44	uniprot:Q8NFT8	DNER	Gene_or_gene_product
+PMC2504490	44	uniprot:Q9VN14	contactin	Gene_or_gene_product
+PMC2504490	44	uniprot:P55001	MAGP	Gene_or_gene_product
+PMC2504490	44	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	45	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	45	uniprot:P80370	fetal antigen 1	Gene_or_gene_product
+PMC2504490	45	uniprot:P80370	FA1	Gene_or_gene_product
+PMC2504490	45	uniprot:UNRESOLVED ID	ZOG	Gene_or_gene_product
+PMC2504490	45	uniprot:P80370	pG2	Gene_or_gene_product
+PMC2504490	45	uniprot:UNRESOLVED ID	Preadipocyte Factor 1 [PREF1]	Gene_or_gene_product
+PMC2504490	46	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	47	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	47	uniprot:O89094	mice	Species
+PMC2504490	48	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	48	ncbitax:species:ncbi:9940	sheep	Species
+PMC2504490	48	uazid:UA-ORG-599	muscle	Organ
+PMC2504490	49	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	50	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	51	uniprot:UNRESOLVED ID	DLK1 EGF	Gene_or_gene_product
+PMC2504490	51	uniprot:UNRESOLVED ID	Notch1 EGF	Gene_or_gene_product
+PMC2504490	52	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	53	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	53	uniprot:UNRESOLVED ID	Notch receptors	Gene_or_gene_product
+PMC2504490	54	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	54	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	55	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	55	ncbitax:species:ncbi:6239	nematodes	Species
+PMC2504490	56	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	56	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	56	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	57	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	58	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	58	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2504490	58	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	59	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	59	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	59	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2504490	60	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	60	uniprot:Q969F0	Fate	Gene_or_gene_product
+PMC2504490	61	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	61	uniprot:UNRESOLVED ID	rt142	Gene_or_gene_product
+PMC2504490	62	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	62	uazid:UA-ORG-1083	vulva	Organ
+PMC2504490	63	uazid:UA-ORG-1083	vulva	Organ
+PMC2504490	64	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	65	uniprot:UNRESOLVED ID	osm-11 gene	Gene_or_gene_product
+PMC2504490	65	uniprot:UNRESOLVED ID	unc-54 3' UTR	Gene_or_gene_product
+PMC2504490	66	uazid:UA-ORG-382	heads	Organ
+PMC2504490	66	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	67	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	68	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	69	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	69	uazid:UA-ORG-1083	vulva	Organ
+PMC2504490	70	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	70	uazid:UA-ORG-1083	vulva	Organ
+PMC2504490	71	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	71	uazid:UA-ORG-1083	vulva	Organ
+PMC2504490	72	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	72	uazid:UA-ORG-382	head	Organ
+PMC2504490	73	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	73	uazid:UA-ORG-48	anus	Organ
+PMC2504490	76	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	76	uniprot:UNRESOLVED ID	F11C7.5	Gene_or_gene_product
+PMC2504490	77	uniprot:UNRESOLVED ID	F11C7.5	Gene_or_gene_product
+PMC2504490	78	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	78	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	78	uniprot:UNRESOLVED ID	OSM-7	Gene_or_gene_product
+PMC2504490	78	uniprot:UNRESOLVED ID	T05D4.4	Gene_or_gene_product
+PMC2504490	78	uniprot:UNRESOLVED ID	ZK507.4	Gene_or_gene_product
+PMC2504490	78	uniprot:UNRESOLVED ID	K10G6.2	Gene_or_gene_product
+PMC2504490	78	uniprot:UNRESOLVED ID	K02F3.7	Gene_or_gene_product
+PMC2504490	78	uniprot:UNRESOLVED ID	cEGF-1	Gene_or_gene_product
+PMC2504490	79	uniprot:UNRESOLVED ID	cEGF-1	Gene_or_gene_product
+PMC2504490	79	uniprot:UNRESOLVED ID	extracellular proteins	Gene_or_gene_product
+PMC2504490	79	uniprot:UNRESOLVED ID	Notch receptors	Gene_or_gene_product
+PMC2504490	80	uniprot:UNRESOLVED ID	Conserved Motif Found	Gene_or_gene_product
+PMC2504490	81	uniprot:P04412	Top	Gene_or_gene_product
+PMC2504490	81	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	83	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	83	uniprot:UNRESOLVED ID	OSR	Gene_or_gene_product
+PMC2504490	84	uniprot:UNRESOLVED ID	rt142	Gene_or_gene_product
+PMC2504490	84	uniprot:UNRESOLVED ID	rt68	Gene_or_gene_product
+PMC2504490	84	uniprot:Q96JE9	stop	Gene_or_gene_product
+PMC2504490	85	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	85	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	85	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	85	uniprot:UNRESOLVED ID	OSM-7	Gene_or_gene_product
+PMC2504490	85	uniprot:O74910	DOS-1	Gene_or_gene_product
+PMC2504490	85	uniprot:O74560	DOS-2	Gene_or_gene_product
+PMC2504490	85	uniprot:UNRESOLVED ID	DOS-3	Gene_or_gene_product
+PMC2504490	85	uniprot:UNRESOLVED ID	cEGF-1	Gene_or_gene_product
+PMC2504490	86	ncbitax:species:ncbi:10090	mouse	Species
+PMC2504490	86	uniprot:UNRESOLVED ID	cEGF-1	Gene_or_gene_product
+PMC2504490	87	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	88	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	88	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	89	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	90	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	91	uniprot:UNRESOLVED ID	cEGF-1	Gene_or_gene_product
+PMC2504490	92	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	92	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	93	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	93	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	94	uniprot:Q8NFT8	DNER	Gene_or_gene_product
+PMC2504490	94	uniprot:Q9VN14	contactin	Gene_or_gene_product
+PMC2504490	94	uniprot:P55001	MAGP	Gene_or_gene_product
+PMC2504490	94	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	95	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	95	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	96	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	97	uniprot:UNRESOLVED ID	DOS-3	Gene_or_gene_product
+PMC2504490	98	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	98	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	98	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	100	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	101	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	101	uniprot:UNRESOLVED ID	OSM-7	Gene_or_gene_product
+PMC2504490	101	uniprot:UNRESOLVED ID	K10G6.2	Gene_or_gene_product
+PMC2504490	101	uniprot:UNRESOLVED ID	ZK507.4	Gene_or_gene_product
+PMC2504490	101	uniprot:UNRESOLVED ID	K02F3.7 proteins	Gene_or_gene_product
+PMC2504490	101	uniprot:UNRESOLVED ID	cEGF-1 domain	Gene_or_gene_product
+PMC2504490	101	ncbitax:species:ncbi:7955	zebrafish	Species
+PMC2504490	101	ncbitax:species:ncbi:10090	mouse	Species
+PMC2504490	101	ncbitax:species:ncbi:9606	humans	Species
+PMC2504490	101	uniprot:B3EWJ2	DSL	Gene_or_gene_product
+PMC2504490	102	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	102	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	102	uniprot:UNRESOLVED ID	ZK507.4	Gene_or_gene_product
+PMC2504490	102	uniprot:UNRESOLVED ID	K10G6.2	Gene_or_gene_product
+PMC2504490	102	uniprot:UNRESOLVED ID	K02F3.7	Gene_or_gene_product
+PMC2504490	102	uniprot:O74910	dos-1	Gene_or_gene_product
+PMC2504490	102	uniprot:O74560	dos-2	Gene_or_gene_product
+PMC2504490	102	uniprot:UNRESOLVED ID	dos-3	Gene_or_gene_product
+PMC2504490	103	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	104	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	104	uniprot:UNRESOLVED ID	DOS-3	Gene_or_gene_product
+PMC2504490	104	uniprot:P10265	protease	Gene_or_gene_product
+PMC2504490	104	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	105	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	105	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	106	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	107	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	107	uniprot:P78504	Jagged1	Gene_or_gene_product
+PMC2504490	107	uniprot:Q04721	Notch2	Gene_or_gene_product
+PMC2504490	107	uniprot:UNRESOLVED ID	Notch2 receptor	Gene_or_gene_product
+PMC2504490	107	ncbitax:species:ncbi:9606	human	Species
+PMC2504490	108	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	108	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	109	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	109	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	109	uniprot:Q6UY11	EGFL9	Gene_or_gene_product
+PMC2504490	109	uniprot:Q6UY11	DLK2	Gene_or_gene_product
+PMC2504490	110	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	110	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	111	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	112	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	112	uniprot:UNRESOLVED ID	EGFlike 9	Gene_or_gene_product
+PMC2504490	112	uniprot:Q6UY11	EGFL9	Gene_or_gene_product
+PMC2504490	113	uniprot:Q6UY11	EGFL9	Gene_or_gene_product
+PMC2504490	114	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	115	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	116	uniprot:UNRESOLVED ID	DLK1 EGF	Gene_or_gene_product
+PMC2504490	116	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	116	uniprot:P46531	Notch1	Gene_or_gene_product
+PMC2504490	116	uniprot:UNRESOLVED ID	Notch1 receptor	Gene_or_gene_product
+PMC2504490	116	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	116	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	116	uniprot:UNRESOLVED ID	Notch receptors	Gene_or_gene_product
+PMC2504490	117	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	117	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	118	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	118	uniprot:Q969F0	Fate	Gene_or_gene_product
+PMC2504490	119	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	119	uniprot:Q13510	AC	Gene_or_gene_product
+PMC2504490	120	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	120	uniprot:Q13510	AC	Gene_or_gene_product
+PMC2504490	120	uniprot:P09089	Z1	Gene_or_gene_product
+PMC2504490	120	uniprot:UNRESOLVED ID	Z4	Gene_or_gene_product
+PMC2504490	121	uniprot:P14585	lin-12	Gene_or_gene_product
+PMC2504490	121	uniprot:Q8NCC3	ACs	Gene_or_gene_product
+PMC2504490	122	uniprot:Q13510	AC	Gene_or_gene_product
+PMC2504490	122	uniprot:UNRESOLVED ID	lin-3p	Gene_or_gene_product
+PMC2504490	122	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	123	uniprot:UNRESOLVED ID	lin-3p	Gene_or_gene_product
+PMC2504490	123	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	123	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	123	uniprot:Q13510	AC	Gene_or_gene_product
+PMC2504490	123	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	124	uniprot:UNRESOLVED ID	VPC	Gene_or_gene_product
+PMC2504490	125	uniprot:Q13510	AC	Gene_or_gene_product
+PMC2504490	125	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	125	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	125	uniprot:UNRESOLVED ID	P6.p	Gene_or_gene_product
+PMC2504490	126	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	126	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC2504490	126	uniprot:Q00859	mitogen activated protein kinase	Gene_or_gene_product
+PMC2504490	127	uniprot:UNRESOLVED ID	P5.p	Gene_or_gene_product
+PMC2504490	127	uniprot:UNRESOLVED ID	P7.p	Gene_or_gene_product
+PMC2504490	127	uniprot:UNRESOLVED ID	P6.p	Gene_or_gene_product
+PMC2504490	127	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	128	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	128	uniprot:UNRESOLVED ID	EGF/Ras/MAP kinase	Gene_or_gene_product
+PMC2504490	128	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	130	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	130	uniprot:UNRESOLVED ID	egl-17p	Gene_or_gene_product
+PMC2504490	130	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	130	uniprot:UNRESOLVED ID	lin-11p	Gene_or_gene_product
+PMC2504490	130	uniprot:C5XKZ1	lip-1p	Gene_or_gene_product
+PMC2504490	131	uniprot:UNRESOLVED ID	OSM-11 Loss Results	Gene_or_gene_product
+PMC2504490	131	uniprot:Q969F0	Fate	Gene_or_gene_product
+PMC2504490	132	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	132	uniprot:UNRESOLVED ID	P5.p	Gene_or_gene_product
+PMC2504490	132	uniprot:UNRESOLVED ID	P6.p	Gene_or_gene_product
+PMC2504490	132	uniprot:UNRESOLVED ID	P7.p	Gene_or_gene_product
+PMC2504490	134	uniprot:UNRESOLVED ID	P3.p	Gene_or_gene_product
+PMC2504490	134	uniprot:UNRESOLVED ID	P4.p	Gene_or_gene_product
+PMC2504490	134	uniprot:UNRESOLVED ID	P8.p	Gene_or_gene_product
+PMC2504490	135	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	135	uniprot:UNRESOLVED ID	P6.p	Gene_or_gene_product
+PMC2504490	135	uniprot:UNRESOLVED ID	P5.p	Gene_or_gene_product
+PMC2504490	135	uniprot:UNRESOLVED ID	P7.p	Gene_or_gene_product
+PMC2504490	135	uniprot:UNRESOLVED ID	top right	Gene_or_gene_product
+PMC2504490	136	uniprot:UNRESOLVED ID	Pn.p	Gene_or_gene_product
+PMC2504490	136	uniprot:UNRESOLVED ID	P5.p	Gene_or_gene_product
+PMC2504490	136	uniprot:UNRESOLVED ID	P6.p	Gene_or_gene_product
+PMC2504490	136	uniprot:UNRESOLVED ID	P7.p	Gene_or_gene_product
+PMC2504490	136	uniprot:UNRESOLVED ID	larvae	CellType
+PMC2504490	137	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	137	uniprot:UNRESOLVED ID	P6.p	Gene_or_gene_product
+PMC2504490	137	uniprot:UNRESOLVED ID	P5.p	Gene_or_gene_product
+PMC2504490	137	uniprot:UNRESOLVED ID	P7.p	Gene_or_gene_product
+PMC2504490	138	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	138	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	138	uniprot:UNRESOLVED ID	P5.p	Gene_or_gene_product
+PMC2504490	138	uniprot:UNRESOLVED ID	P7.p	Gene_or_gene_product
+PMC2504490	138	uniprot:UNRESOLVED ID	P6.p	Gene_or_gene_product
+PMC2504490	139	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	139	uniprot:UNRESOLVED ID	egl-17p	Gene_or_gene_product
+PMC2504490	139	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	139	uniprot:UNRESOLVED ID	P5.p	Gene_or_gene_product
+PMC2504490	139	uniprot:UNRESOLVED ID	P7.p	Gene_or_gene_product
+PMC2504490	140	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	140	uniprot:UNRESOLVED ID	lin-11p	Gene_or_gene_product
+PMC2504490	140	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	140	uniprot:UNRESOLVED ID	P5.p	Gene_or_gene_product
+PMC2504490	140	uniprot:UNRESOLVED ID	P7.p	Gene_or_gene_product
+PMC2504490	141	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	141	uniprot:C5XKZ1	lip-1p	Gene_or_gene_product
+PMC2504490	141	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	141	uniprot:UNRESOLVED ID	P5.p	Gene_or_gene_product
+PMC2504490	141	uniprot:UNRESOLVED ID	P7.p	Gene_or_gene_product
+PMC2504490	143	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	144	uniprot:E6UB41	C-E	Gene_or_gene_product
+PMC2504490	144	uniprot:UNRESOLVED ID	P5.p	Gene_or_gene_product
+PMC2504490	144	uniprot:UNRESOLVED ID	P6.p	Gene_or_gene_product
+PMC2504490	144	uniprot:UNRESOLVED ID	P7.p	Gene_or_gene_product
+PMC2504490	145	uniprot:UNRESOLVED ID	egl-17p	Gene_or_gene_product
+PMC2504490	145	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	145	uniprot:UNRESOLVED ID	P6.p	Gene_or_gene_product
+PMC2504490	145	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	145	uniprot:UNRESOLVED ID	egl-17	Gene_or_gene_product
+PMC2504490	145	uniprot:UNRESOLVED ID	P5.p	Gene_or_gene_product
+PMC2504490	145	uniprot:UNRESOLVED ID	P7.p	Gene_or_gene_product
+PMC2504490	146	uniprot:UNRESOLVED ID	Pn.p stage	Gene_or_gene_product
+PMC2504490	146	uniprot:UNRESOLVED ID	egl-17p	Gene_or_gene_product
+PMC2504490	146	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	146	uniprot:UNRESOLVED ID	P6.p	Gene_or_gene_product
+PMC2504490	147	uniprot:UNRESOLVED ID	egl-17p	Gene_or_gene_product
+PMC2504490	147	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	147	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	147	uniprot:UNRESOLVED ID	P5.p	Gene_or_gene_product
+PMC2504490	147	uniprot:UNRESOLVED ID	P7.p	Gene_or_gene_product
+PMC2504490	147	uniprot:P02788	lf	Gene_or_gene_product
+PMC2504490	148	uniprot:UNRESOLVED ID	egl-17p	Gene_or_gene_product
+PMC2504490	148	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	148	uniprot:UNRESOLVED ID	P5.p	Gene_or_gene_product
+PMC2504490	148	uniprot:UNRESOLVED ID	P7.p	Gene_or_gene_product
+PMC2504490	148	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	148	uniprot:UNRESOLVED ID	P6.p	Gene_or_gene_product
+PMC2504490	149	uniprot:UNRESOLVED ID	egl-17	Gene_or_gene_product
+PMC2504490	149	uniprot:UNRESOLVED ID	P6.p descendents	Gene_or_gene_product
+PMC2504490	149	uniprot:UNRESOLVED ID	P5.p	Gene_or_gene_product
+PMC2504490	149	uniprot:UNRESOLVED ID	P7.p descendants	Gene_or_gene_product
+PMC2504490	150	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	150	uniprot:UNRESOLVED ID	egl-17p	Gene_or_gene_product
+PMC2504490	150	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	150	uniprot:UNRESOLVED ID	P5.p	Gene_or_gene_product
+PMC2504490	150	uniprot:UNRESOLVED ID	P7.p descendants	Gene_or_gene_product
+PMC2504490	151	uniprot:UNRESOLVED ID	egl-17p	Gene_or_gene_product
+PMC2504490	151	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	151	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	152	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	152	uniprot:UNRESOLVED ID	lin-11p	Gene_or_gene_product
+PMC2504490	152	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	152	uniprot:C5XKZ1	lip-1p	Gene_or_gene_product
+PMC2504490	153	uniprot:UNRESOLVED ID	lin-11p	Gene_or_gene_product
+PMC2504490	153	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	153	uniprot:UNRESOLVED ID	P5.p	Gene_or_gene_product
+PMC2504490	153	uniprot:UNRESOLVED ID	P7.p	Gene_or_gene_product
+PMC2504490	153	uniprot:UNRESOLVED ID	larvae	CellType
+PMC2504490	153	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	154	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	154	uazid:UA-ORG-1083	vulva	Organ
+PMC2504490	154	uniprot:UNRESOLVED ID	lin-11p	Gene_or_gene_product
+PMC2504490	154	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	155	uniprot:P20154	lin-11	Gene_or_gene_product
+PMC2504490	156	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	156	uniprot:C5XKZ1	lip-1p	Gene_or_gene_product
+PMC2504490	156	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	157	uniprot:C5XKZ1	lip-1p	Gene_or_gene_product
+PMC2504490	157	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	157	uniprot:UNRESOLVED ID	P5.p	Gene_or_gene_product
+PMC2504490	157	uniprot:UNRESOLVED ID	P7.p	Gene_or_gene_product
+PMC2504490	157	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	158	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2504490	159	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	159	uniprot:C5XKZ1	lip-1p	Gene_or_gene_product
+PMC2504490	159	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	159	uniprot:UNRESOLVED ID	P5.p	Gene_or_gene_product
+PMC2504490	159	uniprot:UNRESOLVED ID	P7.p	Gene_or_gene_product
+PMC2504490	160	uniprot:C5XKZ1	lip-1p	Gene_or_gene_product
+PMC2504490	160	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	160	uniprot:UNRESOLVED ID	lin-11p	Gene_or_gene_product
+PMC2504490	160	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	161	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	162	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	162	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	163	uniprot:UNRESOLVED ID	osm-11p	Gene_or_gene_product
+PMC2504490	163	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	163	uniprot:UNRESOLVED ID	osm-11 cDNA	Gene_or_gene_product
+PMC2504490	166	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	166	uniprot:UNRESOLVED ID	larvae	CellType
+PMC2504490	166	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	167	uniprot:UNRESOLVED ID	larvae	CellType
+PMC2504490	168	uniprot:UNRESOLVED ID	osm-11p	Gene_or_gene_product
+PMC2504490	168	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	168	uniprot:UNRESOLVED ID	OSM-11 antisera	Gene_or_gene_product
+PMC2504490	169	uniprot:UNRESOLVED ID	osm-11p	Gene_or_gene_product
+PMC2504490	169	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	169	uniprot:UNRESOLVED ID	osm-7p	Gene_or_gene_product
+PMC2504490	170	uniprot:UNRESOLVED ID	OSM-11 protein	Gene_or_gene_product
+PMC2504490	170	uazid:UA-ORG-1054	uterus	Organ
+PMC2504490	170	uniprot:UNRESOLVED ID	larvae	CellType
+PMC2504490	170	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2504490	170	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	171	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	171	uniprot:UNRESOLVED ID	larvae	CellType
+PMC2504490	173	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	174	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	174	uazid:UA-ORG-1054	uterus	Organ
+PMC2504490	174	uniprot:UNRESOLVED ID	larvae	CellType
+PMC2504490	175	uniprot:UNRESOLVED ID	alpha-OSM-11 antisera	Gene_or_gene_product
+PMC2504490	176	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	176	uniprot:UNRESOLVED ID	larvae	CellType
+PMC2504490	177	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	177	uniprot:C5XKZ1	lip-1p	Gene_or_gene_product
+PMC2504490	177	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	178	uniprot:UNRESOLVED ID	alpha-OSM-11	Gene_or_gene_product
+PMC2504490	178	uniprot:C5XKZ1	lip-1p	Gene_or_gene_product
+PMC2504490	178	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	178	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	178	uniprot:UNRESOLVED ID	ajm-1	Gene_or_gene_product
+PMC2504490	179	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	180	uniprot:UNRESOLVED ID	osm-11p	Gene_or_gene_product
+PMC2504490	180	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	180	uniprot:UNRESOLVED ID	unc-54 3' UTR sequences	Gene_or_gene_product
+PMC2504490	180	uniprot:UNRESOLVED ID	alpha-OSM-11	Gene_or_gene_product
+PMC2504490	181	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	181	uazid:UA-ORG-623	neurons	Organ
+PMC2504490	181	uniprot:UNRESOLVED ID	larvae	CellType
+PMC2504490	182	uniprot:UNRESOLVED ID	scale	CellType
+PMC2504490	182	ncbitax:species:ncbi:41568	mum	Species
+PMC2504490	183	uniprot:UNRESOLVED ID	OSM-11 protein	Gene_or_gene_product
+PMC2504490	184	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	184	uniprot:UNRESOLVED ID	P5.p	Gene_or_gene_product
+PMC2504490	184	uniprot:UNRESOLVED ID	P6.p	Gene_or_gene_product
+PMC2504490	184	uniprot:UNRESOLVED ID	P7.p	Gene_or_gene_product
+PMC2504490	184	uniprot:C5XKZ1	lip-1p	Gene_or_gene_product
+PMC2504490	185	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	186	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	187	uniprot:P53847	DSL-1	Gene_or_gene_product
+PMC2504490	187	uniprot:UNRESOLVED ID	P6.p	Gene_or_gene_product
+PMC2504490	188	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	188	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	189	uniprot:UNRESOLVED ID	Notch receptors	Gene_or_gene_product
+PMC2504490	189	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	190	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	191	uniprot:UNRESOLVED ID	Lethal-23	Gene_or_gene_product
+PMC2504490	191	uniprot:P24348	LET-23	Gene_or_gene_product
+PMC2504490	191	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	191	uniprot:UNRESOLVED ID	EGF receptors	Gene_or_gene_product
+PMC2504490	191	uniprot:Q13510	AC	Gene_or_gene_product
+PMC2504490	192	uniprot:UNRESOLVED ID	LIN-12 receptors	Gene_or_gene_product
+PMC2504490	193	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	193	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	193	uniprot:UNRESOLVED ID	LIN-12 receptors	Gene_or_gene_product
+PMC2504490	194	uniprot:UNRESOLVED ID	Stress Response	Gene_or_gene_product
+PMC2504490	194	uniprot:Q969F0	Fate	Gene_or_gene_product
+PMC2504490	196	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	198	uniprot:Q27567	gpdh-1	Gene_or_gene_product
+PMC2504490	199	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	199	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2504490	199	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	200	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	200	uniprot:UNRESOLVED ID	Notch receptors	Gene_or_gene_product
+PMC2504490	200	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	201	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	201	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	202	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2504490	204	uniprot:C5XKZ1	lip-1p	Gene_or_gene_product
+PMC2504490	204	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	204	uniprot:UNRESOLVED ID	egl-17p	Gene_or_gene_product
+PMC2504490	204	uniprot:UNRESOLVED ID	lin-11p	Gene_or_gene_product
+PMC2504490	206	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	207	uniprot:UNRESOLVED ID	OSM-11 protein	Gene_or_gene_product
+PMC2504490	209	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	210	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	211	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	212	uniprot:UNRESOLVED ID	OSM-11 protein	Gene_or_gene_product
+PMC2504490	212	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	213	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	214	uniprot:UNRESOLVED ID	osm-11 cDNA	Gene_or_gene_product
+PMC2504490	214	uniprot:UNRESOLVED ID	osm-10	Gene_or_gene_product
+PMC2504490	214	uniprot:UNRESOLVED ID	glr-1 promoter fragments	Gene_or_gene_product
+PMC2504490	214	uazid:UA-ORG-623	neurons	Organ
+PMC2504490	215	uniprot:UNRESOLVED ID	osm-10 promoter	Gene_or_gene_product
+PMC2504490	215	uazid:UA-ORG-861	sensory neurons	Organ
+PMC2504490	215	uazid:UA-ORG-382	head	Organ
+PMC2504490	215	uniprot:UNRESOLVED ID	tail	CellType
+PMC2504490	216	uniprot:UNRESOLVED ID	glr-1 promoter	Gene_or_gene_product
+PMC2504490	216	uazid:UA-ORG-623	neurons	Organ
+PMC2504490	216	uazid:UA-ORG-382	head	Organ
+PMC2504490	216	uniprot:UNRESOLVED ID	tail	CellType
+PMC2504490	217	uazid:UA-ORG-623	neurons	Organ
+PMC2504490	217	uniprot:UNRESOLVED ID	ventral nerve cord	CellType
+PMC2504490	218	uniprot:UNRESOLVED ID	osm-11 cDNA	Gene_or_gene_product
+PMC2504490	219	uniprot:UNRESOLVED ID	osm-11 cDNA	Gene_or_gene_product
+PMC2504490	219	uniprot:UNRESOLVED ID	wrt-6 promoter	Gene_or_gene_product
+PMC2504490	220	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	220	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	221	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	221	uniprot:B3EWJ2	DSL	Gene_or_gene_product
+PMC2504490	221	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	222	uniprot:UNRESOLVED ID	OSM-11 cDNA	Gene_or_gene_product
+PMC2504490	223	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	225	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	226	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	228	uniprot:UNRESOLVED ID	osm-11 cDNA	Gene_or_gene_product
+PMC2504490	228	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	228	uniprot:UNRESOLVED ID	osm-11p	Gene_or_gene_product
+PMC2504490	228	uniprot:UNRESOLVED ID	hsp-16p	Gene_or_gene_product
+PMC2504490	228	uazid:UA-ORG-861	sensory neurons	Organ
+PMC2504490	228	uniprot:UNRESOLVED ID	glr-1p	Gene_or_gene_product
+PMC2504490	228	uazid:UA-ORG-623	neurons	Organ
+PMC2504490	229	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	229	uniprot:UNRESOLVED ID	hsp-16 promoter	Gene_or_gene_product
+PMC2504490	229	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	230	uniprot:A5ANT9	chi2	Gene_or_gene_product
+PMC2504490	231	uniprot:UNRESOLVED ID	Notch Receptor	Gene_or_gene_product
+PMC2504490	232	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	232	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	232	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	233	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	233	uniprot:UNRESOLVED ID	SynMuv	Gene_or_gene_product
+PMC2504490	233	uniprot:UNRESOLVED ID	VPC fate	Gene_or_gene_product
+PMC2504490	233	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	233	uniprot:UNRESOLVED ID	n137n460csgf	Gene_or_gene_product
+PMC2504490	233	uniprot:P24348	let-23	Gene_or_gene_product
+PMC2504490	233	uniprot:UNRESOLVED ID	sa62gf	Gene_or_gene_product
+PMC2504490	233	uniprot:P22981	let-60	Gene_or_gene_product
+PMC2504490	233	uniprot:UNRESOLVED ID	n1046gf	Gene_or_gene_product
+PMC2504490	234	uniprot:UNRESOLVED ID	Muv	Gene_or_gene_product
+PMC2504490	234	uniprot:P14585	lin-12	Gene_or_gene_product
+PMC2504490	234	uniprot:UNRESOLVED ID	n137n460	Gene_or_gene_product
+PMC2504490	234	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	234	uniprot:UNRESOLVED ID	RNAi	Gene_or_gene_product
+PMC2504490	235	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	235	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	236	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	237	uniprot:P22330	gf	Gene_or_gene_product
+PMC2504490	237	uniprot:P14585	lin-12	Gene_or_gene_product
+PMC2504490	237	uniprot:UNRESOLVED ID	n137n460	Gene_or_gene_product
+PMC2504490	239	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	240	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	240	uniprot:UNRESOLVED ID	Muv	Gene_or_gene_product
+PMC2504490	240	uniprot:P14585	lin-12	Gene_or_gene_product
+PMC2504490	240	uniprot:P0AEA1	csgf	Gene_or_gene_product
+PMC2504490	240	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	241	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	241	uniprot:P22330	gf	Gene_or_gene_product
+PMC2504490	242	uniprot:P14585	lin-12	Gene_or_gene_product
+PMC2504490	242	uniprot:UNRESOLVED ID	n137gf	Gene_or_gene_product
+PMC2504490	242	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	242	uniprot:P02788	lf	Gene_or_gene_product
+PMC2504490	242	uniprot:P22330	gf	Gene_or_gene_product
+PMC2504490	242	uniprot:P14585	LIN-12	Gene_or_gene_product
+PMC2504490	244	uniprot:P14585	lin-12	Gene_or_gene_product
+PMC2504490	244	uniprot:P02788	lf	Gene_or_gene_product
+PMC2504490	244	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	245	uazid:UA-ORG-1083	vulva	Organ
+PMC2504490	246	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	248	uniprot:P0AEA1	csgf	Gene_or_gene_product
+PMC2504490	248	uniprot:UNRESOLVED ID	n137n460	Gene_or_gene_product
+PMC2504490	249	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	249	uniprot:P0AEA1	csgf	Gene_or_gene_product
+PMC2504490	251	uniprot:P22330	gf	Gene_or_gene_product
+PMC2504490	252	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	252	uniprot:P22330	gf	Gene_or_gene_product
+PMC2504490	254	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	254	uniprot:P14585	LIN-12	Gene_or_gene_product
+PMC2504490	255	uazid:UA-ORG-1083	vulva	Organ
+PMC2504490	255	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	256	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	257	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	258	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	259	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	259	uniprot:UNRESOLVED ID	secreted DOS-motif proteins	Gene_or_gene_product
+PMC2504490	259	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	259	uniprot:UNRESOLVED ID	osm-7	Gene_or_gene_product
+PMC2504490	259	uniprot:O74910	dos-1	Gene_or_gene_product
+PMC2504490	259	uniprot:O74560	dos-2	Gene_or_gene_product
+PMC2504490	260	uniprot:O74560	dos-2	Gene_or_gene_product
+PMC2504490	260	uniprot:UNRESOLVED ID	dos-3	Gene_or_gene_product
+PMC2504490	260	uniprot:UNRESOLVED ID	osm-7	Gene_or_gene_product
+PMC2504490	260	uniprot:UNRESOLVED ID	tm2256	Gene_or_gene_product
+PMC2504490	260	uniprot:O74910	dos-1	Gene_or_gene_product
+PMC2504490	260	uniprot:UNRESOLVED ID	ok2398	Gene_or_gene_product
+PMC2504490	260	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	261	uniprot:UNRESOLVED ID	osm-7 alleles	Gene_or_gene_product
+PMC2504490	262	uniprot:UNRESOLVED ID	DOS-motif proteins	Gene_or_gene_product
+PMC2504490	264	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	266	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	266	uniprot:UNRESOLVED ID	DSL Ligands	Gene_or_gene_product
+PMC2504490	266	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	268	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	268	uniprot:UNRESOLVED ID	DOS-motif genes osm-7	Gene_or_gene_product
+PMC2504490	268	uniprot:O74910	dos-1	Gene_or_gene_product
+PMC2504490	268	uniprot:UNRESOLVED ID	ZK507.4	Gene_or_gene_product
+PMC2504490	269	uniprot:UNRESOLVED ID	osm-7	Gene_or_gene_product
+PMC2504490	269	uniprot:P02788	lf	Gene_or_gene_product
+PMC2504490	269	uazid:UA-ORG-1083	vulvas	Organ
+PMC2504490	270	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	270	uniprot:P02788	lf	Gene_or_gene_product
+PMC2504490	270	uniprot:UNRESOLVED ID	osm-7	Gene_or_gene_product
+PMC2504490	271	uniprot:O74560	dos-2	Gene_or_gene_product
+PMC2504490	271	uniprot:UNRESOLVED ID	K10G6.2	Gene_or_gene_product
+PMC2504490	271	uniprot:UNRESOLVED ID	dos-3	Gene_or_gene_product
+PMC2504490	271	uniprot:UNRESOLVED ID	K02F3.7	Gene_or_gene_product
+PMC2504490	272	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	272	uniprot:UNRESOLVED ID	DSL-domain genes lag-2	Gene_or_gene_product
+PMC2504490	272	uniprot:P53847	dsl-1	Gene_or_gene_product
+PMC2504490	273	uniprot:P22749	lag-2	Gene_or_gene_product
+PMC2504490	273	uniprot:Q8R4P5	dn	Gene_or_gene_product
+PMC2504490	273	uniprot:UNRESOLVED ID	dominant negative allele sa37	Gene_or_gene_product
+PMC2504490	273	uniprot:P53847	dsl-1	Gene_or_gene_product
+PMC2504490	273	uniprot:P02788	lf	Gene_or_gene_product
+PMC2504490	274	uniprot:P53847	dsl-1	Gene_or_gene_product
+PMC2504490	275	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	275	uniprot:P02788	lf	Gene_or_gene_product
+PMC2504490	275	uniprot:P53847	dsl-1	Gene_or_gene_product
+PMC2504490	276	uniprot:UNRESOLVED ID	VPC	Gene_or_gene_product
+PMC2504490	276	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	276	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	276	uniprot:P53847	dsl-1	Gene_or_gene_product
+PMC2504490	277	uniprot:UNRESOLVED ID	P5.p	Gene_or_gene_product
+PMC2504490	277	uniprot:UNRESOLVED ID	P6.p	Gene_or_gene_product
+PMC2504490	277	uniprot:UNRESOLVED ID	P7.p	Gene_or_gene_product
+PMC2504490	278	uniprot:C5XKZ1	lip-1p	Gene_or_gene_product
+PMC2504490	279	uniprot:P53847	dsl-1	Gene_or_gene_product
+PMC2504490	279	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	279	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	279	uniprot:A5ANT9	chi2	Gene_or_gene_product
+PMC2504490	281	uniprot:UNRESOLVED ID	DSL Ligands	Gene_or_gene_product
+PMC2504490	282	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	283	uniprot:UNRESOLVED ID	DOS-motif proteins	Gene_or_gene_product
+PMC2504490	284	uniprot:UNRESOLVED ID	DSL-domain proteins	Gene_or_gene_product
+PMC2504490	284	uniprot:UNRESOLVED ID	DOS-motif proteins	Gene_or_gene_product
+PMC2504490	285	uniprot:UNRESOLVED ID	DSL protein	Gene_or_gene_product
+PMC2504490	286	uniprot:P53847	dsl-1	Gene_or_gene_product
+PMC2504490	286	uniprot:UNRESOLVED ID	DSL proteins	Gene_or_gene_product
+PMC2504490	287	uniprot:P53847	dsl-1	Gene_or_gene_product
+PMC2504490	288	uniprot:P53847	dsl-1	Gene_or_gene_product
+PMC2504490	288	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	288	uniprot:UNRESOLVED ID	osm-11 single mutants	Gene_or_gene_product
+PMC2504490	289	uniprot:P22749	lag-2	Gene_or_gene_product
+PMC2504490	289	uniprot:P02788	lf	Gene_or_gene_product
+PMC2504490	289	uniprot:UNRESOLVED ID	DSL ligand	Gene_or_gene_product
+PMC2504490	290	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	290	uniprot:P53847	dsl-1	Gene_or_gene_product
+PMC2504490	290	uniprot:C5XKZ1	lip-1p	Gene_or_gene_product
+PMC2504490	290	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	290	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	291	uniprot:C5XKZ1	lip-1p	Gene_or_gene_product
+PMC2504490	291	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	292	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	292	uniprot:UNRESOLVED ID	DSL-domain proteins	Gene_or_gene_product
+PMC2504490	293	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	293	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	293	ncbitax:species:ncbi:4932	Yeast	Species
+PMC2504490	294	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	294	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	294	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	295	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	295	uniprot:UNRESOLVED ID	LIN-12 extracellular domain	Gene_or_gene_product
+PMC2504490	296	uniprot:UNRESOLVED ID	Drosophila and vertebrate DSL ligands	Gene_or_gene_product
+PMC2504490	296	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	296	uniprot:UNRESOLVED ID	Notch receptors	Gene_or_gene_product
+PMC2504490	297	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	297	uniprot:P14585	LIN-12	Gene_or_gene_product
+PMC2504490	298	ncbitax:species:ncbi:4932	yeast	Species
+PMC2504490	298	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	298	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	299	ncbitax:species:ncbi:4932	yeast	Species
+PMC2504490	299	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	300	uniprot:UNRESOLVED ID	Notch receptors	Gene_or_gene_product
+PMC2504490	301	ncbitax:species:ncbi:4932	yeast	Species
+PMC2504490	301	uniprot:P22749	LAG-2	Gene_or_gene_product
+PMC2504490	301	uniprot:UNRESOLVED ID	DSL-domain LIN-12 ligand DSL-1	Gene_or_gene_product
+PMC2504490	301	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	302	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	303	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	303	uniprot:Q03345	LIN-3	Gene_or_gene_product
+PMC2504490	303	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	303	uniprot:UNRESOLVED ID	EGL-17	Gene_or_gene_product
+PMC2504490	304	uniprot:P22749	LAG-2	Gene_or_gene_product
+PMC2504490	304	uniprot:P53847	DSL-1	Gene_or_gene_product
+PMC2504490	304	uniprot:P14585	LIN-12	Gene_or_gene_product
+PMC2504490	304	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	305	uniprot:P14585	LIN-12	Gene_or_gene_product
+PMC2504490	305	uniprot:UNRESOLVED ID	GAL4 activation domain	Gene_or_gene_product
+PMC2504490	305	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	306	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	306	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	307	uniprot:P53847	DSL-1	Gene_or_gene_product
+PMC2504490	307	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	307	uniprot:UNRESOLVED ID	LAG-2 extracellular domain	Gene_or_gene_product
+PMC2504490	307	uniprot:UNRESOLVED ID	LAG-2Ex	Gene_or_gene_product
+PMC2504490	307	uniprot:UNRESOLVED ID	EGL-17	Gene_or_gene_product
+PMC2504490	307	uniprot:Q03345	LIN-3	Gene_or_gene_product
+PMC2504490	307	uniprot:P48357	DB	Gene_or_gene_product
+PMC2504490	307	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	307	uniprot:UNRESOLVED ID	GAL4 activation domain	Gene_or_gene_product
+PMC2504490	308	ncbitax:species:ncbi:4932	yeast	Species
+PMC2504490	309	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	309	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	309	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2504490	310	uniprot:P14585	LIN-12	Gene_or_gene_product
+PMC2504490	310	uniprot:P48357	DB	Gene_or_gene_product
+PMC2504490	311	uniprot:Q92499	DB-pRb	Gene_or_gene_product
+PMC2504490	311	uniprot:UNRESOLVED ID	AD-E2F	Gene_or_gene_product
+PMC2504490	311	uniprot:UNRESOLVED ID	Gal4p	Gene_or_gene_product
+PMC2504490	311	uniprot:UNRESOLVED ID	pPC86	Gene_or_gene_product
+PMC2504490	311	uniprot:UNRESOLVED ID	DB-DP1	Gene_or_gene_product
+PMC2504490	311	uniprot:UNRESOLVED ID	AD-E2F1	Gene_or_gene_product
+PMC2504490	312	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	312	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	312	uniprot:P53847	DSL-1	Gene_or_gene_product
+PMC2504490	312	uniprot:P22749	LAG-2	Gene_or_gene_product
+PMC2504490	313	uniprot:UNRESOLVED ID	DLK1 EGF	Gene_or_gene_product
+PMC2504490	313	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	313	uniprot:UNRESOLVED ID	Notch1 EGF	Gene_or_gene_product
+PMC2504490	314	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	314	uniprot:P14585	LIN-12	Gene_or_gene_product
+PMC2504490	314	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	314	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	315	uniprot:UNRESOLVED ID	Notch receptors	Gene_or_gene_product
+PMC2504490	316	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	316	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	317	uniprot:UNRESOLVED ID	DOS-motif protein OSM-11	Gene_or_gene_product
+PMC2504490	317	uniprot:P14585	LIN-12	Gene_or_gene_product
+PMC2504490	317	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	318	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	319	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	320	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	320	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	320	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	321	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	321	uniprot:P80370	FA1	Gene_or_gene_product
+PMC2504490	321	uniprot:P14585	LIN-12	Gene_or_gene_product
+PMC2504490	322	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	322	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2504490	323	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	323	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	324	uniprot:UNRESOLVED ID	cEGF-1 protein	Gene_or_gene_product
+PMC2504490	325	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	325	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	325	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	326	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	327	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	327	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	328	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	328	uniprot:P14585	LIN-12	Gene_or_gene_product
+PMC2504490	329	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	329	uniprot:UNRESOLVED ID	LIN-12 extracellular domain	Gene_or_gene_product
+PMC2504490	330	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	330	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	330	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	330	uniprot:UNRESOLVED ID	DOS-motif protein	Gene_or_gene_product
+PMC2504490	331	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	331	uniprot:B3EWJ2	DSL	Gene_or_gene_product
+PMC2504490	331	uniprot:UNRESOLVED ID	Notch receptors	Gene_or_gene_product
+PMC2504490	331	uniprot:UNRESOLVED ID	Drosophila Delta	Gene_or_gene_product
+PMC2504490	331	uniprot:P78504	Jagged1	Gene_or_gene_product
+PMC2504490	332	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	332	uniprot:P22749	LAG-2	Gene_or_gene_product
+PMC2504490	332	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	332	uniprot:UNRESOLVED ID	DOS-motif proteins	Gene_or_gene_product
+PMC2504490	332	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	332	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2504490	333	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	333	uniprot:UNRESOLVED ID	APX-1 N-terminus	Gene_or_gene_product
+PMC2504490	334	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	334	uniprot:P78504	Jagged1	Gene_or_gene_product
+PMC2504490	334	uniprot:P12551	Delta	Gene_or_gene_product
+PMC2504490	334	uniprot:UNRESOLVED ID	Notch receptors	Gene_or_gene_product
+PMC2504490	334	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2504490	335	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	335	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	335	uniprot:P01011	Act	Gene_or_gene_product
+PMC2504490	335	uniprot:UNRESOLVED ID	Notch Receptors	Gene_or_gene_product
+PMC2504490	336	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	337	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	337	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	337	uniprot:P22749	LAG-2	Gene_or_gene_product
+PMC2504490	337	uniprot:Q9NYJ7	DLL3	Gene_or_gene_product
+PMC2504490	338	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	338	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	338	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	338	uniprot:Q6UY11	EGFL9	Gene_or_gene_product
+PMC2504490	338	uniprot:Q6UY11	DLK2	Gene_or_gene_product
+PMC2504490	338	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	339	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	339	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2504490	340	uniprot:UNRESOLVED ID	Notch receptors	Gene_or_gene_product
+PMC2504490	340	uniprot:P22749	LAG-2	Gene_or_gene_product
+PMC2504490	340	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	341	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2504490	341	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	341	uniprot:P78504	Jagged1	Gene_or_gene_product
+PMC2504490	342	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	345	uazid:UA-ORG-406	immune system	Organ
+PMC2504490	346	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2504490	346	uniprot:UNRESOLVED ID	antigen receptor	Gene_or_gene_product
+PMC2504490	346	uniprot:UNRESOLVED ID	major histocompatibility complex	Gene_or_gene_product
+PMC2504490	346	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2504490	347	uazid:UA-ORG-406	immune system	Organ
+PMC2504490	347	uniprot:UNRESOLVED ID	interleukin-12	Gene_or_gene_product
+PMC2504490	347	interpro:IPR004281	IL-12	Gene_or_gene_product
+PMC2504490	347	uniprot:O43813	p40	Gene_or_gene_product
+PMC2504490	347	uniprot:P04083	p35	Gene_or_gene_product
+PMC2504490	347	uniprot:UNRESOLVED ID	IL-23	Gene_or_gene_product
+PMC2504490	347	uniprot:Q06392	p19	Gene_or_gene_product
+PMC2504490	349	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	349	uniprot:P78504	Jagged1	Gene_or_gene_product
+PMC2504490	349	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	350	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	350	uniprot:P78504	Jagged1	Gene_or_gene_product
+PMC2504490	350	uniprot:UNRESOLVED ID	DOS-motif proteins	Gene_or_gene_product
+PMC2504490	350	uniprot:UNRESOLVED ID	Notch receptors	Gene_or_gene_product
+PMC2504490	351	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	351	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	351	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	351	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2504490	351	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	352	uniprot:UNRESOLVED ID	Notch receptors	Gene_or_gene_product
+PMC2504490	352	uniprot:UNRESOLVED ID	DSL proteins	Gene_or_gene_product
+PMC2504490	353	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	353	uniprot:P14585	LIN-12	Gene_or_gene_product
+PMC2504490	353	uniprot:UNRESOLVED ID	germline proliferation defective-1	Gene_or_gene_product
+PMC2504490	353	uniprot:P01275	GLP-1	Gene_or_gene_product
+PMC2504490	353	uniprot:UNRESOLVED ID	nervous system	CellType
+PMC2504490	354	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	354	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	355	uniprot:UNRESOLVED ID	Mammalian Delta like 3	Gene_or_gene_product
+PMC2504490	355	uniprot:Q9NYJ7	DLL3	Gene_or_gene_product
+PMC2504490	355	uniprot:Q9NR61	DLL4	Gene_or_gene_product
+PMC2504490	355	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	356	uniprot:Q9NYJ7	DLL3	Gene_or_gene_product
+PMC2504490	356	uniprot:Q9NR61	DLL4	Gene_or_gene_product
+PMC2504490	357	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	357	uniprot:Q9NYJ7	DLL3	Gene_or_gene_product
+PMC2504490	358	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	358	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2504490	358	uniprot:B3EWJ2	DSL	Gene_or_gene_product
+PMC2504490	358	uniprot:UNRESOLVED ID	DOS-motif proteins	Gene_or_gene_product
+PMC2504490	359	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	359	uniprot:UNRESOLVED ID	DSL ligand gene	Gene_or_gene_product
+PMC2504490	360	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	361	uniprot:B3EWJ2	DSL	Gene_or_gene_product
+PMC2504490	361	uniprot:UNRESOLVED ID	DOS-motif proteins	Gene_or_gene_product
+PMC2504490	362	uniprot:UNRESOLVED ID	DOS-motif proteins	Gene_or_gene_product
+PMC2504490	362	uniprot:UNRESOLVED ID	DSL proteins	Gene_or_gene_product
+PMC2504490	362	uniprot:UNRESOLVED ID	Notch receptors	Gene_or_gene_product
+PMC2504490	363	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2504490	364	uniprot:UNRESOLVED ID	Notch receptors	Gene_or_gene_product
+PMC2504490	364	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	364	uniprot:UNRESOLVED ID	DSL proteins	Gene_or_gene_product
+PMC2504490	366	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	366	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	366	uniprot:UNRESOLVED ID	osm-7	Gene_or_gene_product
+PMC2504490	368	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2504490	369	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	370	uniprot:UNRESOLVED ID	Notch receptors	Gene_or_gene_product
+PMC2504490	371	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	371	uniprot:UNRESOLVED ID	Notch receptors	Gene_or_gene_product
+PMC2504490	371	uniprot:P14585	lin-12	Gene_or_gene_product
+PMC2504490	371	uniprot:P01275	glp-1	Gene_or_gene_product
+PMC2504490	371	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	372	uniprot:UNRESOLVED ID	Notch receptors	Gene_or_gene_product
+PMC2504490	372	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	372	uniprot:Q6UY11	EGFL9	Gene_or_gene_product
+PMC2504490	372	uniprot:Q6UY11	DLK2	Gene_or_gene_product
+PMC2504490	374	ncbitax:species:ncbi:7955	zebrafish	Species
+PMC2504490	374	ncbitax:species:ncbi:9606	humans	Species
+PMC2504490	374	uniprot:O89094	mice	Species
+PMC2504490	374	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	374	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	374	uniprot:P22749	LAG-2	Gene_or_gene_product
+PMC2504490	376	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2504490	376	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	377	uniprot:UNRESOLVED ID	Notch receptors	Gene_or_gene_product
+PMC2504490	378	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	379	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	379	uniprot:UNRESOLVED ID	rt68	Gene_or_gene_product
+PMC2504490	379	uniprot:UNRESOLVED ID	sel-14	Gene_or_gene_product
+PMC2504490	379	uniprot:UNRESOLVED ID	lin-12-14	Gene_or_gene_product
+PMC2504490	380	uniprot:UNRESOLVED ID	rt68 mutation	Gene_or_gene_product
+PMC2504490	380	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	380	uniprot:Q96JE9	stop	Gene_or_gene_product
+PMC2504490	380	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	381	uniprot:UNRESOLVED ID	sel-14	Gene_or_gene_product
+PMC2504490	381	uniprot:UNRESOLVED ID	rt68	Gene_or_gene_product
+PMC2504490	381	uniprot:UNRESOLVED ID	allele osm-11	Gene_or_gene_product
+PMC2504490	381	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	382	uniprot:UNRESOLVED ID	deletion allele osm-11	Gene_or_gene_product
+PMC2504490	382	uniprot:UNRESOLVED ID	rt142	Gene_or_gene_product
+PMC2504490	382	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	383	uniprot:UNRESOLVED ID	rt68	Gene_or_gene_product
+PMC2504490	383	uniprot:UNRESOLVED ID	rt142 alleles	Gene_or_gene_product
+PMC2504490	383	uniprot:UNRESOLVED ID	rt142 deletion allele	Gene_or_gene_product
+PMC2504490	384	uniprot:UNRESOLVED ID	osm-11 alleles	Gene_or_gene_product
+PMC2504490	385	uniprot:UNRESOLVED ID	rt142	Gene_or_gene_product
+PMC2504490	386	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	387	uazid:UA-ORG-1083	vulva	Organ
+PMC2504490	387	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	387	uniprot:UNRESOLVED ID	rt142lf	Gene_or_gene_product
+PMC2504490	388	uazid:UA-ORG-48	anus	Organ
+PMC2504490	390	uniprot:UNRESOLVED ID	Gonad	CellType
+PMC2504490	391	uniprot:P01275	glp-1	Gene_or_gene_product
+PMC2504490	392	uniprot:UNRESOLVED ID	rt142	Gene_or_gene_product
+PMC2504490	392	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	393	uniprot:UNRESOLVED ID	lin-12 alleles	Gene_or_gene_product
+PMC2504490	393	uniprot:UNRESOLVED ID	dominant allele lin-12	Gene_or_gene_product
+PMC2504490	393	uniprot:UNRESOLVED ID	n137gf	Gene_or_gene_product
+PMC2504490	395	uniprot:UNRESOLVED ID	qC1 containing qIs26 [rol-6	Gene_or_gene_product
+PMC2504490	395	uniprot:P22749	lag-2	Gene_or_gene_product
+PMC2504490	396	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	396	uniprot:P14585	lin-12	Gene_or_gene_product
+PMC2504490	396	uniprot:P30628	unc-32	Gene_or_gene_product
+PMC2504490	397	uniprot:UNRESOLVED ID	larvae	CellType
+PMC2504490	398	uazid:UA-ORG-1083	vulva	Organ
+PMC2504490	398	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	399	uniprot:UNRESOLVED ID	tm2256	Gene_or_gene_product
+PMC2504490	399	uniprot:O74910	dos-1	Gene_or_gene_product
+PMC2504490	399	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	400	uniprot:UNRESOLVED ID	tm2256	Gene_or_gene_product
+PMC2504490	400	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	401	uniprot:O74910	dos-1	Gene_or_gene_product
+PMC2504490	401	uniprot:UNRESOLVED ID	ok2398	Gene_or_gene_product
+PMC2504490	401	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	404	uniprot:P22749	lag-2	Gene_or_gene_product
+PMC2504490	404	uniprot:P53847	dsl-1	Gene_or_gene_product
+PMC2504490	404	uniprot:UNRESOLVED ID	ok810	Gene_or_gene_product
+PMC2504490	405	uniprot:UNRESOLVED ID	VPC fate	Gene_or_gene_product
+PMC2504490	406	uniprot:Q9UBX3	DIC	Gene_or_gene_product
+PMC2504490	406	uniprot:UNRESOLVED ID	Zeiss Axioskop2	Gene_or_gene_product
+PMC2504490	407	uniprot:UNRESOLVED ID	VPC fate	Gene_or_gene_product
+PMC2504490	407	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	407	uniprot:UNRESOLVED ID	zhIs4	Gene_or_gene_product
+PMC2504490	407	uniprot:C5XKZ1	lip-1p	Gene_or_gene_product
+PMC2504490	408	uniprot:UNRESOLVED ID	Pn.p	Gene_or_gene_product
+PMC2504490	408	uniprot:UNRESOLVED ID	Pn.px	Gene_or_gene_product
+PMC2504490	408	uniprot:UNRESOLVED ID	egl-17p	Gene_or_gene_product
+PMC2504490	408	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	408	uniprot:C5XKZ1	lip-1p	Gene_or_gene_product
+PMC2504490	408	uniprot:UNRESOLVED ID	lin-11p	Gene_or_gene_product
+PMC2504490	410	uniprot:Q9UBX3	DIC	Gene_or_gene_product
+PMC2504490	412	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	412	ncbitax:species:ncbi:9986	rabbits	Species
+PMC2504490	412	uniprot:P05408	C-terminal peptide	Gene_or_gene_product
+PMC2504490	413	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	413	uniprot:UNRESOLVED ID	rt142lf	Gene_or_gene_product
+PMC2504490	414	uniprot:P39072	germ	CellType
+PMC2504490	415	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	415	uazid:UA-ORG-1083	vulva	Organ
+PMC2504490	415	uazid:UA-ORG-1054	uterus	Organ
+PMC2504490	415	uniprot:UNRESOLVED ID	larvae	CellType
+PMC2504490	416	uniprot:UNRESOLVED ID	OSM-11 mRNA	Gene_or_gene_product
+PMC2504490	416	uniprot:UNRESOLVED ID	larvae	CellType
+PMC2504490	416	uniprot:UNRESOLVED ID	NEXTDB	Gene_or_gene_product
+PMC2504490	416	uniprot:UNRESOLVED ID	http://nematode.lab.nig.ac.jp/db2/ShowCloneInfo.php?clone=59g10; Y. Kohara	Gene_or_gene_product
+PMC2504490	419	uniprot:UNRESOLVED ID	pJM#67 elt-2	Gene_or_gene_product
+PMC2504490	419	uniprot:P42212	gfp	Gene_or_gene_product
+PMC2504490	419	uniprot:UNRESOLVED ID	pPD48.33 myo-2	Gene_or_gene_product
+PMC2504490	419	interpro:IPR009497	pha-1	Gene_or_gene_product
+PMC2504490	420	uniprot:UNRESOLVED ID	osm-11 cDNA clone	Gene_or_gene_product
+PMC2504490	421	uniprot:UNRESOLVED ID	unc-54 3' UTR	Gene_or_gene_product
+PMC2504490	421	uniprot:UNRESOLVED ID	osm-11 3' UTR	Gene_or_gene_product
+PMC2504490	422	uniprot:UNRESOLVED ID	osm-11	Gene_or_gene_product
+PMC2504490	422	uniprot:UNRESOLVED ID	osm-11 3' UTR	Gene_or_gene_product
+PMC2504490	424	uniprot:P22749	lag-2	Gene_or_gene_product
+PMC2504490	424	uniprot:UNRESOLVED ID	lag-2 mutant	Gene_or_gene_product
+PMC2504490	425	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	426	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	426	uniprot:P80370	fetal antigen 1	Gene_or_gene_product
+PMC2504490	426	uniprot:P80370	FA1	Gene_or_gene_product
+PMC2504490	427	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	427	uniprot:UNRESOLVED ID	DLK1 FA1	Gene_or_gene_product
+PMC2504490	427	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	427	uniprot:UNRESOLVED ID	hsp-16 promoter	Gene_or_gene_product
+PMC2504490	428	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	428	ncbitax:species:ncbi:6238	C. briggsae	Species
+PMC2504490	428	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	431	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	431	uniprot:UNRESOLVED ID	Drosophila Delta proteins	Gene_or_gene_product
+PMC2504490	431	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	431	ncbitax:species:ncbi:6238	C. briggsae	Species
+PMC2504490	431	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	433	ncbitax:species:ncbi:10090	mouse	Species
+PMC2504490	433	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	433	ncbitax:species:ncbi:9606	human	Species
+PMC2504490	433	uniprot:Q6UY11	EGFL9	Gene_or_gene_product
+PMC2504490	434	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	435	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	435	uniprot:Q6UY11	EGFL9	Gene_or_gene_product
+PMC2504490	435	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	436	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	436	uniprot:P80370	DLK1	Gene_or_gene_product
+PMC2504490	436	uniprot:Q6UY11	EGFL9	Gene_or_gene_product
+PMC2504490	438	uniprot:UNRESOLVED ID	T05D4.4	Gene_or_gene_product
+PMC2504490	438	uniprot:UNRESOLVED ID	ZK507.4	Gene_or_gene_product
+PMC2504490	438	uniprot:UNRESOLVED ID	OSM-7	Gene_or_gene_product
+PMC2504490	438	uniprot:O74910	DOS-1	Gene_or_gene_product
+PMC2504490	438	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	439	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	439	uniprot:UNRESOLVED ID	K10G6.2	Gene_or_gene_product
+PMC2504490	439	uniprot:O74560	dos-2	Gene_or_gene_product
+PMC2504490	440	ncbitax:species:ncbi:6238	C. briggsae	Species
+PMC2504490	440	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	440	uniprot:UNRESOLVED ID	CBG18238	Gene_or_gene_product
+PMC2504490	440	uniprot:UNRESOLVED ID	T05D4.4	Gene_or_gene_product
+PMC2504490	440	uniprot:UNRESOLVED ID	CBG18440	Gene_or_gene_product
+PMC2504490	440	uniprot:UNRESOLVED ID	K10G6.2	Gene_or_gene_product
+PMC2504490	440	uniprot:UNRESOLVED ID	CBG06935	Gene_or_gene_product
+PMC2504490	440	uniprot:UNRESOLVED ID	ZK507.4	Gene_or_gene_product
+PMC2504490	441	uniprot:UNRESOLVED ID	K02F3.7	Gene_or_gene_product
+PMC2504490	441	uniprot:UNRESOLVED ID	DOS-3	Gene_or_gene_product
+PMC2504490	441	ncbitax:species:ncbi:6238	C. briggsae	Species
+PMC2504490	441	uniprot:UNRESOLVED ID	CBP19746	Gene_or_gene_product
+PMC2504490	443	ncbitax:species:ncbi:7227	D. melanogaster	Species
+PMC2504490	443	ncbitax:species:ncbi:9606	Homo sapiens	Species
+PMC2504490	443	ncbitax:species:ncbi:7955	Danio rerio	Species
+PMC2504490	443	ncbitax:species:ncbi:10090	Mus musculus	Species
+PMC2504490	443	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	443	uniprot:Q6UY11	EGFL9	Gene_or_gene_product
+PMC2504490	443	uniprot:UNRESOLVED ID	SERR_DROME/284-335	Gene_or_gene_product
+PMC2504490	443	uniprot:P02786	tr	Gene_or_gene_product
+PMC2504490	443	uniprot:UNRESOLVED ID	O45750_CAEEL/205-253	Gene_or_gene_product
+PMC2504490	443	uniprot:UNRESOLVED ID	Q60YH7_CAEBR/205-253	Gene_or_gene_product
+PMC2504490	443	uniprot:UNRESOLVED ID	tr:Q21149_CAEEL/127-175	Gene_or_gene_product
+PMC2504490	443	uniprot:UNRESOLVED ID	Q60JE9_CAEBR/385-433	Gene_or_gene_product
+PMC2504490	445	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	446	uniprot:UNRESOLVED ID	MmJagged1	Gene_or_gene_product
+PMC2504490	446	uniprot:UNRESOLVED ID	HsJagged1	Gene_or_gene_product
+PMC2504490	446	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	446	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	447	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	448	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	448	uniprot:UNRESOLVED ID	CeAPX-1	Gene_or_gene_product
+PMC2504490	448	uniprot:UNRESOLVED ID	CeLAG-2	Gene_or_gene_product
+PMC2504490	448	uniprot:UNRESOLVED ID	SELCT motif	Gene_or_gene_product
+PMC2504490	448	uniprot:B3EWJ2	DSL	Gene_or_gene_product
+PMC2504490	448	uniprot:UNRESOLVED ID	EGF3-4	Gene_or_gene_product
+PMC2504490	448	uniprot:Q8N350	DOS	Gene_or_gene_product
+PMC2504490	449	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	CeT05D4.4	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	O45750	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	Cezk507.4	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	P34636	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	CeSEL-14	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	O45346	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	CeK10G6	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	O16627	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	CeAPX-1	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	P41990	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	CeLAG-2	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	P45442	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	DrDeltaA	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	AAC41249	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	DrDeltaB	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	AAH76414	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	DrDeltaD	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	Q8UWJ4	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	DrJagged1	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	Q90Y57	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	DrJagged2	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	CAH69088	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	DrSerrateB	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	AAC98354	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	DmDelta	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	P10041	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	DmSerrate	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	P18168	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	DmC901	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	CAA72010	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	HsDll1	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	O00548	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	HsEgfl9	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	Q6UY11	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	HsJagged1	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	P78504	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	HsJagged2	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	Q9Y219	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	MmDlk1	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	NP_034182	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	MmDll1	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	MmJagged1	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	Q9QXX0	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	MmJagged2	Gene_or_gene_product
+PMC2504490	450	uniprot:UNRESOLVED ID	Q9QYE5	Gene_or_gene_product
+PMC2504490	451	ncbitax:species:ncbi:6239	Caenorhabditis elegans	Species
+PMC2504490	451	ncbitax:species:ncbi:7955	Danio rerio	Species
+PMC2504490	451	ncbitax:species:ncbi:9606	Homo sapiens	Species
+PMC2504490	451	ncbitax:species:ncbi:10090	Mus musculus	Species
+PMC2504490	452	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2504490	453	uniprot:UNRESOLVED ID	NEXTDB	Gene_or_gene_product
+PMC2504490	453	uniprot:UNRESOLVED ID	Spyros Artavanis-Tsakonas	Gene_or_gene_product
+PMC2504490	454	uniprot:P26205	Li	Species
+PMC2504490	456	uniprot:UNRESOLVED ID	pharynx	CellType
+PMC2504490	457	uniprot:UNRESOLVED ID	OSM-11	Gene_or_gene_product
+PMC2504490	458	uniprot:P22749	LAG-2	Gene_or_gene_product
+PMC2504490	459	uniprot:P01133	epidermal growth factor	Gene_or_gene_product
+PMC2504490	460	uniprot:P80370	fetal antigen 1	Gene_or_gene_product
+PMC2504490	462	uniprot:D1FP53	Lin	Gene_or_gene_product
+PMC2504490	462	uniprot:Q9H9B1	Glp	Gene_or_gene_product

@@ -1,0 +1,380 @@
+Paper ID	Is title?	Section ID	Passage ID	Line Num	Text
+PMC2195994	true	article-title	0	0	Cdc42hs Facilitates Cytoskeletal Reorganization and Neurite Outgrowth by Localizing the 58-Kd Insulin Receptor Substrate to Filamentous Actin
+PMC2195994	false	abstract	1	1	Cdc42Hs is involved in cytoskeletal reorganization and is required for neurite outgrowth in N1E-115 cells .
+PMC2195994	false	abstract	1	2	To investigate the molecular mechanism by which Cdc42Hs regulates these processes , a search for novel Cdc42Hs protein partners was undertaken by yeast two-hybrid assay .
+PMC2195994	false	abstract	1	3	Here , we identify the 58-kD substrate of the insulin receptor tyrosine kinase ( IRS-58 ) as a Cdc42Hs target .
+PMC2195994	false	abstract	1	4	IRS-58 is a brain enriched protein comprising at least four protein protein interaction sites : a Cdc42Hs binding site , an Src homology ( SH ) 3 binding site , an SH3 domain , and a tryptophan , tyrptophan ( WW ) - binding domain .
+PMC2195994	false	abstract	1	5	Expression of IRS-58 in Swiss 3T3 cells leads to reorganization of the filamentous ( F ) - actin cytoskeleton , involving loss of stress fibers and formation of filopodia and clusters .
+PMC2195994	false	abstract	1	6	In N1E-115 cells IRS-58 induces neurite outgrowth with high complexity .
+PMC2195994	false	abstract	1	7	Expression of a deletion mutant of IRS-58 , which lacks the SH3- and WW binding domains , induced neurite extension without complexity in N1E-115 cells .
+PMC2195994	false	abstract	1	8	In Swiss 3T3 cells and N1E-115 cells , IRS-58 colocalizes with F-actin in clusters and filopodia .
+PMC2195994	false	abstract	1	9	An IRS 581267N mutant unable to bind Cdc42Hs failed to localize with F-actin to induce neurite outgrowth or significant cytoskeletal reorganization .
+PMC2195994	false	abstract	1	10	These results suggest that Cdc42Hs facilitates cytoskeletal reorganization and neurite outgrowth by localizing protein complexes via adaptor proteins such as IRS-58 to F-actin .
+PMC2195994	false	sec-1	2	11	Rho family GTPase 's ( e.g. , Rac1 , RhoA , and Cdc42Hs ) are molecular switches that cycle between " on " ( GTP bound ) and " off " ( GDP bound ) states .
+PMC2195994	false	sec-1	2	12	Extracellular factors , such as PDGF , bradykinin , and lysophosphatidic acid , regulate the activity of GDP and GTP-exchange factors and GTPase activating proteins ( GAPs ) and thereby control the cycling of Rho family GTPases                                                 .
+PMC2195994	false	sec-1	2	13	Rho family GTPases coordinate signals from membrane receptors to pathways that control actin based cell morphology and cell growth ( for review see                                    .
+PMC2195994	false	sec-1	3	14	Cdc42Hs plays a role in cytokinesis                                             , cell transformation                  , cell polarization                      , cell-cell adhesion                     , HIV viral replication                 , and can stimulate c-Jun NH2-terminal kinase activity                                                                                                  .
+PMC2195994	false	sec-1	3	15	Cdc42Hs induces the formation of filopodia and retraction fibers with associated " focal complexes " ( FCs ) in response to growth factors such as bradykinin                                         .
+PMC2195994	false	sec-1	3	16	Cdc42Hs can also induce the loss of stress fibers                     and , as a secondary event , the formation of membrane ruffles and lamellipodia via activation of Rac1 .
+PMC2195994	false	sec-1	3	17	Cdc42Hs is essential and sufficient to drive neurite outgrowth in neuroblastoma N1E-115 cells                                        .
+PMC2195994	false	sec-1	4	18	One approach to understanding the mechanism by which Cdc42Hs regulates cellular processes is to isolate and characterize proteins that interact with it .
+PMC2195994	false	sec-1	4	19	Cdc42Hs targets have been isolated by protein purification ( e.g. , activated Cdc42 associated kinase [ ACK ] , p21 activated kinase [ PAK ] , myotonic dystrophy kinase related Cdc42 binding kinase [ MRCK ] , and Wiskott-Aldrich syndrome protein [ WASP ] ;                   ,                   ;                   ;                    and by yeast two-hybrid screening                                          .
+PMC2195994	false	sec-1	4	20	Overexpression of PAK in Swiss 3T3 cells can induce membrane ruffling and filopodia formation                    , and loss of focal adhesions                     .
+PMC2195994	false	sec-1	4	21	WASP and neural WASP ( N-WASP ) regulate actin polymerization through coupling with proteins such as WIP                      and the Arp2 and 3 complex                           .
+PMC2195994	false	sec-1	4	22	Interestingly , N-WASP , unlike WASP , has been reported to induce filopodia formation                   .
+PMC2195994	false	sec-1	5	23	In this study we have used a yeast two-hybrid screen of a human brain library to identify novel Cdc42Hs targets .
+PMC2195994	false	sec-1	5	24	We describe in detail one of these clones , a 58-kD substrate of the insulin receptor tyrosine kinase ( IRS58 ) , initially identified by                .
+PMC2195994	false	sec-1	5	25	IRS-58 is an adaptor protein with at least four protein protein interaction sites .
+PMC2195994	false	sec-1	5	26	Expression of IRS-58 in Swiss 3T3 cells leads to formation of peripheral actin microspikes and loss of stress fibers with an associated redistribution of FCs .
+PMC2195994	false	sec-1	5	27	In N1E-115 neuroblastoma cells , IRS-58 induced neurite outgrowth where the neurites were complex with multiple branching points and elaborate growth cones .
+PMC2195994	false	sec-1	5	28	An IRS 58 mutant deleted for the Src homology ( SH ) 3- and tryptophan , tryptophan ( WW ) - binding domains induced neurite extension , but not complexity .
+PMC2195994	false	sec-1	5	29	In both Swiss 3T3 cells and N1E-115 cells , IRS-58 colocalized with F-actin .
+PMC2195994	false	sec-1	5	30	In contrast , an IRS 58I267N mutant unable to bind Cdc42Hs no longer colocalized with F-actin and failed to induce neurite outgrowth or significant cytoskeletal reorganization .
+PMC2195994	false	sec-1	5	31	These results suggest that Cdc42Hs facilitates cytoskeletal changes and neurite outgrowth by localizing the adaptor protein IRS-58 to F-actin .
+PMC2195994	true	sec-3	6	32	Yeast Two-Hybrid Screen
+PMC2195994	false	sec-3	7	33	The Matchmaker GAL4 system ( CLONTECH Laboratories , Inc. ) was used in two-hybrid screening .
+PMC2195994	false	sec-3	7	34	The Cdc42Hs double mutant ( L61S189 ; see below ) was subcloned from a pGEX vector into pAS2-1 ( GAL4 binding domain [ BD ] vector ) .
+PMC2195994	false	sec-3	7	35	To establish the expression of the Gal4BD-Cdc42Hs fusion protein , whole yeast lysates from Y190 yeast were probed with anti-Gal4BD antibody on Western blots as described by CLONTECH Laboratories , Inc. .
+PMC2195994	false	sec-3	7	36	The expected 40-kD Cdc42Hs-GAL4 fusion protein was detected .
+PMC2195994	false	sec-3	7	37	Library screens were carried out by transforming Y190 ( pAS2-1-Cdc42HsL61S189 ) cells with 100 mug of cDNA human adult brain library in the pACT-2 vector ( activation domain vector ) .
+PMC2195994	false	sec-3	7	38	Clones that grew in the absence of histidine and in the presence of 25 mM 3-AT were streaked out and assayed for LacZ ( beta-galactoside ) activity using X-Gal ( Life Technologies ) .
+PMC2195994	false	sec-3	7	39	Of 358 clones isolated , 7 were analyzed further .
+PMC2195994	false	sec-3	7	40	pACT-2 clone DNA was isolated using electroporation of miniprep yeast DNA into Escherichia coli HB101 cells and selecting for growth to leucine prototrophy .
+PMC2195994	false	sec-3	7	41	The seven clones tested positive ( His+ LacZ+ ) when retransformed into Y190 ( pAS2-1-Cdc42HsL61S189 ) , but not into Y190 ( pAS2-1 ) .
+PMC2195994	false	sec-3	7	42	5 ' and 3 ' ends of clones were sequenced using ABI automated sequencing to establish their identity with either universal primers or primers upstream from the multiple cloning site of pACT-2 .
+PMC2195994	false	sec-4	8	43	Standard DNA manipulation techniques were used                       .
+PMC2195994	false	sec-4	8	44	For sequencing , a 2.1-kb Bgl2 fragment of IRS-58 was subcloned into the Bgl2 site of a bluescript ( pBS.SK+ ) vector .
+PMC2195994	false	sec-4	8	45	ABI automated sequencing was carried out using commercial primers , as well as IRS-58-based primers .
+PMC2195994	false	sec-4	8	46	For protein expression , the 2.1-kb Bgl2 fragment of IRS-58 was subcloned into the BamH1 site of a pGEX-2T derivative p265                                       .
+PMC2195994	false	sec-4	8	47	Deletions of IRS-58 were made using the restriction enzymes Sma1 , Xho1 , and Hind3 in IRS-58- and PCR based methods .
+PMC2195994	false	sec-4	8	48	For PCR amplification of cDNA , forward primers were synthesized with a clamp and BamH1 site ( GACGTCGGATCC ) and all reverse primers were synthesized with a clamp and EcoR1 ( GACGTCGAATTC ) site for cloning into BamH1-EcoR1 sites of p265 .
+PMC2195994	false	sec-4	8	49	PCR was carried out with Taq ( long plus ) polymerase and 25 cycles .
+PMC2195994	false	sec-4	8	50	Mutations were introduced into IRS-58 ( between nucleotides 798-915 ) by using the following mutated primers for amplification of the fragment : mutant 1 , 5 ' - GTCAATTCCGACCCCATTCCG-3 ' ; mutant 2 , 5 ' - GTCATTCCCGACCCCATTCCG-3 ' ; mutant 3 , 5 ' - GTCAATTCCGACGCCATTCCG-3 ' .
+PMC2195994	false	sec-4	9	51	For expression in eukaryotic cells , the pXJ40 vector was used                     .
+PMC2195994	false	sec-4	9	52	The 2.1-kb Bgl2 fragment of IRS-58 was subcloned into the BamH1 site of pXJ40 to generate a cDNA encoding hemagglutinin ( HA ) - tagged protein .
+PMC2195994	false	sec-4	9	53	PCR amplified inserts were generated and cloned as BamH1 blunt end fragments .
+PMC2195994	false	sec-4	9	54	Cdc42Hs and IRS-58 point mutants were made using the Transformer Site Directed Mutagenesis kit ( CLONTECH Laboratories , Inc. ) as described previously                   , or the Quick-Change mutagenesis kit ( Stratagene ) .
+PMC2195994	false	sec-4	9	55	IRS-58 and mutant cDNAs were expressed in vitro or detected by HA antibody staining of cell extracts obtained from transfected cells .
+PMC2195994	false	sec-4	9	56	The molecular weight of proteins produced both in vitro and in cell extracts was as predicted from the cDNAs .
+PMC2195994	false	sec-5	10	57	IRS-58 , betaPAK fragment ( 300 bp , Nco1 fragment ) , and p190 GAP domain were expressed in E. coli using pGEX vectors as described previously                                      .
+PMC2195994	false	sec-5	10	58	Bacterial cultures were grown in L-broth ( 50 mug and ml ampicillin ) from freshly transformed cells to an OD595 of 0.5 .
+PMC2195994	false	sec-5	10	59	At this point 0.5-1 mM isopropylthiogalactoside ( Sigma-Aldrich ) was added and cells were grown for a further 1-2 h and then harvested .
+PMC2195994	false	sec-5	10	60	Cells were pelleted ( 10-15 min , 3,000 rpm ) , washed in PBS , and then pelleted and left overnight at -20 degreesC .
+PMC2195994	false	sec-5	10	61	Pellets were thawed on ice in PBS and 1 % Triton X-100 / 1 mM PMSF and inhibitor cocktail and then sonicated five times for 20 s .
+PMC2195994	false	sec-5	10	62	The cell suspension was pelleted ( 15 min , 20,000 rpm ) and the supernatant was incubated with glutathione-Sepharose beads for 1 h. Beads were pelleted and washed three times for 10 min each in 10 column volumes of PBS and 1 % Triton X-100 .
+PMC2195994	false	sec-5	10	63	Glutathione S-transferase ( GST ) fusion protein was eluted from the beads by incubating with 10 ml of 5 mM glutathione in 50 mM Tris-HCl , pH 8.0 , for 10 min at 4degreesC .
+PMC2195994	false	sec-5	10	64	Protein was dialyzed against 2 liters of 50 mM Tris-HCl , 150 mM NaCl , 2.5 mM CaCl2 , pH 7.5 , for 1 h , followed by overnight and finally once more for 1 h.
+PMC2195994	false	sec-5	11	65	Cdc42Hs , Rac1 , and RhoA proteins were made essentially as described above , except that Tris based buffers were used rather than PBS , and thrombin ( 5 U and liter culture ; Sigma-Aldrich ) was used to cleave GST from the p21 proteins .
+PMC2195994	true	sec-6	12	66	Cdc42Hs , Rac1 , and RhoA Binding Assay
+PMC2195994	false	sec-6	13	67	p21 ( Cdc42Hs , Rac1 , and RhoA ) probes were prepared by incubating proteins ( ~ 5 mug ) with 1 mul ( 10 muCi ) of [ gamma-32P ] GTP ( 6,000 Ci and mmol , 10 mCi and ml , 1.6 M ; DuPont ) in 50 mul of exchange buffer ( 50 mM NaCl , 25 mM MES , pH 6.5 , 25 mM Tris-HCl , pH 7.5 , 1.25 mM EDTA , 1.25 mg and ml BSA , 1.25 mM DTT ) for 10 min at room temperature .
+PMC2195994	false	sec-6	13	68	Probes were then diluted into 4 ml of binding buffer ( 50 mM NaCl , 25 mM MES , pH 6.5 , 25 mM Tris-HCl , pH 7.5 , 1.25 mM MgCl2 , 1.25 mg and ml BSA , 1.25 mM DTT , 0.5 mM GTP ) .
+PMC2195994	false	sec-6	13	69	To determine the nucleotide dependence of Cdc42Hs binding to IRS-58 , wild-type Cdc42Hs was incubated with [ alpha-32P ] GTP and was either used immediately ( GTP form ) , or after incubation at room temperature for 60 min ( GDP form ) .
+PMC2195994	false	sec-6	13	70	The high intrinsic Cdc42Hs GTPase activity was used to generate [ alpha32P-GDP ] Cdc42H5 .
+PMC2195994	false	sec-6	14	71	IRS-58 ( and PAK ) GST fusion proteins were either dot blotted onto 1 cm2 nitrocellulose and left to air-dry or separated on SDS-PAGE and transferred to nitrocellulose .
+PMC2195994	false	sec-6	14	72	Filters were then incubated in renaturation buffer ( 3 % BSA , 0.1 % Triton X-100 , 0.5 mM MgCl2 , 5 mM DTT ) for 1 h or overnight , respectively , with shaking at 4degreesC .
+PMC2195994	false	sec-6	15	73	Filters were incubated with probes for 5 min at room temperature before being washed six times for 5 min in wash buffer ( 50 mM NaCl , 25 mM Mes , pH 6.0 , 5 mM MgCl2 , 0.25 % Triton X-100 ) on ice .
+PMC2195994	false	sec-6	15	74	Filters were dried by placing on Whatman 3MM paper and then exposed to X-Omat film ( Eastman Kodak Co. ) for 5-25 h. Quantification of binding was carried out by determining the amount of radioactivity by scintillation counting of each 1 cm2 of nitrocellulose .
+PMC2195994	false	sec-7	16	75	A multiple tissue Northern ( MTN ) blot was probed with IRS-58 DNA according to the manufacturer 's protocol ( CLONTECH Laboratories , Inc. ) .
+PMC2195994	false	sec-7	16	76	The MTN membrane was prehybridized with 5 ml of ExpressHyb solution at 68degreesC for 30 min .
+PMC2195994	false	sec-7	16	77	A radioactive probe ( encoding amino acid residues 1-414 of IRS-58 ) was prepared using a random primed DNA labeling kit ( Boehringer ) and purified on a G-50 Sephadex column .
+PMC2195994	false	sec-7	16	78	The probe was then diluted into 5 ml of ExpressHyb solution .
+PMC2195994	false	sec-7	16	79	The MTN blot was then incubated with the probe solution for 1 h at 68degreesC .
+PMC2195994	false	sec-7	16	80	After incubation the blot was washed several times in wash solution 1 ( 2x SSC and 0 .05 % SDS ) for 40 min at room temperature and then at a higher stringency with wash solution 2 ( 0.1 x SSC and 0 .1 % SDS ) at 50degreesC for 40 min .
+PMC2195994	false	sec-7	16	81	The blot was then exposed to X-Omat film ( Eastman Kodak Co. ) at -70 degreesC for 48 h.
+PMC2195994	true	sec-8	17	82	Cell Culture and Microinjection
+PMC2195994	false	sec-8	18	83	Swiss 3T3 and N1E-115 cells were grown and maintained as described previously                                       .
+PMC2195994	false	sec-8	18	84	Swiss 3T3 cells were grown on acid washed glass coverslips .
+PMC2195994	false	sec-8	18	85	DNA was injected at 0.5 mug and ml into the nucleus using an Eppendorf microinjector and Axiovert microscope ( ZEISS ) and cells were left to express protein for between 30 min and 3 h. For phase-contrast time-lapse analysis , cells were incubated on a heated stage at 37degreesC with CO2 .
+PMC2195994	false	sec-8	19	86	For transient transfection , N1E-115 cells were plated out at ~ 105 cells per laminin ( 100 mug and ml ) coated slide ( 6 x 2 cm ) and grown overnight at 37degreesC in DME and 5 % FCS and 1 % antibiotic .
+PMC2195994	false	sec-8	19	87	Before transfection , cells were starved for 1 h in 1 ml of DME .
+PMC2195994	false	sec-8	19	88	Transfection mixes were made with 200 mul DME , 1-1 .5 mug DNA , and 6 mul lipofectamine and left at room temperature for 45 min for the formation of DNA liposomes .
+PMC2195994	false	sec-8	19	89	For cotransfections the amount of lipofectamine was doubled .
+PMC2195994	false	sec-8	19	90	The transfection mixes were added to the cells and incubated at 37degreesC .
+PMC2195994	false	sec-8	19	91	After 4-5 h medium was removed and replaced with 1 ml of DME and 5 % FCS and 1 % antibiotic .
+PMC2195994	false	sec-8	19	92	Cells were then left overnight at 37degreesC .
+PMC2195994	false	sec-9	20	93	Before fixing , N1E-115 cells were washed briefly with PBS to remove residual medium .
+PMC2195994	false	sec-9	20	94	Cells were then incubated with 3 % paraformaldehyde and PBS for 20 min at room temperature followed by washing in PBS for 10 min .
+PMC2195994	false	sec-9	20	95	Residual paraformaldehyde was quenched in 100 mM glycine and PBS for 10 min .
+PMC2195994	false	sec-9	20	96	Cells were then permeabilized in PBS and 0 .2 % Triton X-100 for 10 min and then washed again in PBS before incubating for a further 10 min in PBS and 3 % BSA .
+PMC2195994	false	sec-9	20	97	Cells were then incubated for 1 h with the primary antibody ( anti-HA , 1:100 dilution in PBS and 1 % BSA ) .
+PMC2195994	false	sec-9	20	98	Cells were then washed in PBS ( three times for 15 min ) before incubation with secondary antibody ( FITC , 1:50 in PBS and 1 % BSA ) and TRITC labeled phalloidin at 1:100 .
+PMC2195994	false	sec-9	20	99	Finally , slides were washed in PBS ( three times for 15 min ) .
+PMC2195994	false	sec-9	20	100	Coverslips were then mounted with Mowiol .
+PMC2195994	false	sec-9	20	101	Monoclonal antibodies were raised to cleaved GST IRS-58 ( 1-364 amino acid ) fusion protein and clones were selected using a maltose binding IRS-58 ( 1-391 ) fusion protein .
+PMC2195994	false	sec-10	21	102	Time-lapse microscopy was carried out on a heated stage ( 37degreesC ) in an atmosphere of humidified air and 5 % CO2 .
+PMC2195994	false	sec-10	21	103	Cells were video recorded using an Axiovert 135 microscope , Palmix TM-6CN video camera , and Sony-u-matic V0-5800 PS video recorder .
+PMC2195994	false	sec-10	21	104	Individual images were captured using Bio-Rad Laboratories COMOS software and manipulated with Adobe Photoshop ( R ) .
+PMC2195994	false	sec-10	21	105	Confocal microscopy was carried out using an LSM ZEISS microscope .
+PMC2195994	true	sec-12	22	106	Two-Hybrid Screen with Cdc42Hs
+PMC2195994	false	sec-12	23	107	Using Cdc42HsL61S189 as bait , we isolated 358 His+ LacZ+ positives from a library screen of 107 clones .
+PMC2195994	false	sec-12	23	108	Seven clones were randomly picked , named CBP1-7 for Cdc42Hs binding proteins , and analyzed further .
+PMC2195994	false	sec-12	23	109	Purified DNA from each of the seven clones complemented the bait Cdc42HsL61S189 vector , but not the empty vector to give His+ LacZ+ .
+PMC2195994	false	sec-12	23	110	DNA sequencing revealed the identity of five of the clones .
+PMC2195994	false	sec-12	23	111	CBP2 was betaPAK , CBP6 was alphaPAK , CBP3 was a variant isoform of ACK , and CBP1 and 5 were human isoforms of the already identified hamster 58-kD substrate of the insulin receptor ( IRSp53 and 58 )                  .
+PMC2195994	false	sec-12	23	112	Recent work suggests that IRS-58 is a major component of central nervous system synapses                     and , most interestingly , a binding partner for the dentatorubral-pallidolusian atrophy ( DRPLA ) protein , atrophin-1                          .
+PMC2195994	false	sec-12	23	113	CBP4 and 7 were novel sequences .
+PMC2195994	false	sec-12	23	114	Here we have analyzed IRS-58 further .
+PMC2195994	true	sec-13	24	115	DNA and Protein Sequence of IRS-58
+PMC2195994	false	sec-13	25	116	The IRS-58 clone was isolated as a 2.1-kb Bgl2 fragment from the pACT-GAL4AD plasmid .
+PMC2195994	false	sec-13	25	117	Sequence analysis showed that the IRS-58 cDNA was full length .
+PMC2195994	false	sec-13	25	118	IRS-58 possessed a 3 ' noncoding region of 0.4 kb and a polyA tail ( data not shown ) .
+PMC2195994	false	sec-13	25	119	Database comparison of the DNA sequence of IRS-58 with IRSp53 and 58 revealed that the former sequence has an additional exon of 78 bp that alters the amino acid sequence of the COOH-terminal end of the protein .
+PMC2195994	false	sec-13	25	120	The hamster IRS-53 sequence has two main areas of divergence with the human sequence .
+PMC2195994	false	sec-13	25	121	These are located at amino acid residues 220-320 and at the extreme COOH-terminal end 460-534 .
+PMC2195994	false	sec-13	25	122	The sequence divergence between amino acid residues 510 and 534 is probably due to alternate splicing of the messages .
+PMC2195994	false	sec-13	25	123	Outside these areas of divergence the human and hamster are > 99 % similar .
+PMC2195994	false	sec-13	25	124	Human IRS-58 appears to be the hamster 58-kD substrate of the insulin receptor .
+PMC2195994	false	sec-13	25	125	In addition , another three full-length human isoforms have been identified from independent yeast two-hybrid screens using the cytoplasmic domain of the brain specific angiogenesis inhibitor 1 ( BAI1 ;                  and atrophin-1 .
+PMC2195994	false	sec-13	25	126	All of these clones appear to be products of alternate splicing as they exhibit sequence heterogeneity at the same COOH-terminal position , but otherwise exhibit 100 % sequence identity .
+PMC2195994	false	sec-13	25	127	A partial human clone of p58 has been isolated in another two-hybrid screen using the cytoplasmic domain of the Fas ligand as bait ( GenBank/EMBL/DDBJ accession number U70669 ) .
+PMC2195994	false	sec-13	25	128	The significance of these protein protein interactions is unclear .
+PMC2195994	false	sec-13	26	129	BLAST searches with IRS-58 show the presence of three putative domains , a polyproline rich sequence ( a potential SH3 binding site ) , a PPXY motif ( a WW domain binding site ) , and an SH3 domain ( amino acid residues 400-460 ;         and        .
+PMC2195994	false	sec-13	26	130	The polyproline stretch ( amino acid residues 267-285 ) also aligned with channel proteins ( data not shown ) .
+PMC2195994	false	sec-13	26	131	IRS-58 did not have clear homology with Cdc42Hs binding sites of ACK , PAK , WASP , myotonic dystrophy kinase related Cdc42 binding kinase ( MRCK ) , IQGAP , or CIP4 , suggesting the presence of a novel binding site .
+PMC2195994	false	sec-13	26	132	Northern analysis , using a cDNA probe of IRS-58 encoding amino acid residues 1-137 of IRS-58 , was used to examine its expression pattern in human tissues .
+PMC2195994	false	sec-13	26	133	Two signals were detected at 2.4 and 3.5 kb           .
+PMC2195994	false	sec-13	26	134	The smaller message was ubiquitously expressed , but present at higher levels in placenta , liver , and kidney .
+PMC2195994	false	sec-13	26	135	The 3.5-kb message was brain enriched and possibly brain specific           .
+PMC2195994	true	sec-14	27	136	Characteristics of Cdc42Hs Interaction with IRS-58
+PMC2195994	false	sec-14	28	137	To determine the Rho family ( Cdc42Hs , Rac1 , and RhoA ) binding specificity of IRS-58 , purified GST fusion protein was dot blotted onto nitrocellulose and probed with Cdc42HsQ61L , Rac1Q61L , and RhoAG14V labeled with [ gamma-32P ] GTP .
+PMC2195994	false	sec-14	28	138	PAK and p190 GAP domain were used as positive controls .
+PMC2195994	false	sec-14	28	139	This analysis showed that IRS-58 is a Cdc42Hs specific binding protein , as it did not bind Rac1 or RhoA           .
+PMC2195994	false	sec-14	28	140	Cdc42Hs needs to be in a GTP bound form to interact with IRS-58 , as we could not detect binding to Cdc42Hs-GDP           .
+PMC2195994	false	sec-14	28	141	The binding strength ( cpm and mug protein ) of Cdc42Hs to IRS-58 and PAK is similar ( data not shown ) .
+PMC2195994	false	sec-14	28	142	Unlike PAK and WASP , IRS-58 binds the Cdc42Hs C40 mutation , but does not bind A37           .
+PMC2195994	false	sec-14	28	143	However , the C40 mutation did reduce the strength of interaction between Cdc42Hs and IRS-58 .
+PMC2195994	true	sec-15	29	144	Localization of the Cdc42Hs binding Site of IRS-58
+PMC2195994	false	sec-15	30	145	To localize the Cdc42Hs binding site , COOH-terminal deletions were made using unique restriction sites present in the full-length pGEX-IRS-58 construct .
+PMC2195994	false	sec-15	30	146	The proteins encoded by these constructs were used in binding experiments with Cdc42HsQ61L [ gamma-32P ] GTP as probe .
+PMC2195994	false	sec-15	30	147	Cdc42Hs binding was lost between deletions three and four , suggesting that amino acid residues 142-358 were essential for this activity                     .
+PMC2195994	false	sec-15	30	148	Using PCR cloning a 40-amino acid residue fragment was generated that could bind Cdc42Hs ( amino acid residues 266-305 ;         and        .
+PMC2195994	false	sec-15	30	149	However , Cdc42Hs binding to this fragment was significantly weaker than to amino acid residues 202-305 ( ~ 10-20-fold ) .
+PMC2195994	false	sec-15	30	150	Cdc42Hs did not bind to amino acid residues 304-534 showing that there were no COOH-terminal Cdc42Hs binding sites .
+PMC2195994	false	sec-15	30	151	The sequence isoleucine , serine , andy amino acid residue , proline at the beginning of this 40-amino acid residue fragment has similarity to the Cdc42 and Rac interactive binding ( CRIB ) motif .
+PMC2195994	false	sec-15	30	152	( The CRIB motif                      , a sequence of 16 amino acid residues , a smaller version of a G protein binding domain first identified in the proteins PAK and ACK , has been suggested as a consensus for Cdc42Hs and Rac1 binding . )
+PMC2195994	false	sec-15	30	153	To determine whether the conserved I , P , and and or S were required for binding , mutations were made in these residues ( N267 , P268 , and N267 and A270 ) .
+PMC2195994	false	sec-15	30	154	Binding assays showed that these amino acid residues were required , as Cdc42Hs binding was lost in these mutant proteins           .
+PMC2195994	false	sec-15	30	155	Introduction of the N267 mutation into a full-length IRS-58 construct also resulted in a loss of Cdc42 binding           .
+PMC2195994	false	sec-15	30	156	These experiments localize the Cdc42Hs binding site to a position overlapping with the polyproline rich sequence , which may be an SH3 domain binding site         .
+PMC2195994	false	sec-15	30	157	A summary of these binding experiments is presented in        E.
+PMC2195994	true	sec-16	31	158	Overexpression of IRS-58 in Swiss 3T3 Cells
+PMC2195994	false	sec-16	32	159	Swiss 3T3 cells represent a model mammalian cell type which have been used to investigate the reorganization of both F-actin structures and the associated FCs .
+PMC2195994	false	sec-16	32	160	In Swiss 3T3 cells , factors such as bradykinin , lysophosphatidic acid , and PMA have been shown to induce the formation of peripheral actin microspikes , stress fibers , and membrane ruffles via Cdc42Hs                    , RhoA                       , and Rac1                     , respectively .
+PMC2195994	false	sec-16	32	161	Each of these F-actin structures is associated with a morphologically unique FC                      .
+PMC2195994	false	sec-16	32	162	To investigate whether IRS-58 affected F-actin , it was overexpressed as an HA tagged protein by DNA microinjection of Swiss 3T3 cells .
+PMC2195994	false	sec-16	32	163	HA staining of microinjected cells was punctate and revealed that IRS-58 localized to peripheral extensions where process formation ( membrane extension and retraction ) was induced                     .
+PMC2195994	false	sec-16	32	164	The punctate HA staining of IRS-58 may suggest its localization to an organelle or a large protein aggregate           .
+PMC2195994	false	sec-16	32	165	Similar observations of IRS-58 localization to protein aggregates were made by                 and                        .
+PMC2195994	false	sec-16	32	166	Overexpression of IRS-58 caused a reorganization of the F-actin cytoskeleton .
+PMC2195994	false	sec-16	32	167	Stress fibers were completely disassembled under these conditions and the F-actin took on a punctate appearance                     .
+PMC2195994	false	sec-16	32	168	In some cells F-actin cluster formation could be seen                     .
+PMC2195994	false	sec-16	32	169	shows the heterogeneity in morphology seen in expression of different levels of IRS-58 from low ( A and B ) to high ( E and F ) .
+PMC2195994	false	sec-16	33	170	To determine whether IRS-58 colocalized with F-actin , we used colocalization software ( LSM v4 ; ZEISS ) with images obtained through a confocal microscope         .
+PMC2195994	false	sec-16	33	171	Swiss 3T3 cells with low levels of IRS-58 expression possessed filopodia , small F-actin clusters , and thin stress fibers           .
+PMC2195994	false	sec-16	33	172	In these types of cells IRS-58 expression was polarized within the cytoplasm and thin stress fibers were seen only where expression of IRS-58 was very low           .
+PMC2195994	false	sec-16	33	173	IRS-58 colocalizes with the filopodia ( see insert ,        A ) , punctate F-actin , and F-actin clusters           .
+PMC2195994	false	sec-16	33	174	IRS-58 was also localized in the cytoplasm as protein aggregates and complexes where there was no phalloidin staining                                        .
+PMC2195994	false	sec-16	33	175	The organization of the F-actin clusters was examined further by obtaining a Z-series using a confocal microscope                                      .
+PMC2195994	false	sec-16	33	176	Colocalization of IRS-58 with F-actin occurred in microvilli like structures that formed a ring around the nucleus .
+PMC2195994	false	sec-16	33	177	F-actin was found over the nucleus , whereas IRS-58 was excluded from this region of the cell                           .
+PMC2195994	false	sec-16	33	178	The colocalization of IRS-58 with F-actin is seen most clearly on the roof of the ring                           , a point in the Z-series where the intense F-actin ring is absent .
+PMC2195994	false	sec-16	33	179	This confocal analysis suggests that IRS-58 may be involved in microvilli formation .
+PMC2195994	false	sec-16	34	180	Next we investigated the effects of deletion of COOH-terminal regions of IRS-58 ( IRS-58Delta510-534 and IRS-58Delta143-534 ) and a Cdc42Hs binding defective IRS-58I267N .
+PMC2195994	false	sec-16	34	181	Overexpression of the IRS-58Delta510-534 protein that lacks the area of heterogeneity between the human isoforms gave a more pronounced reorganization of the F-actin cytoskeleton , with most cells possessing numerous well defined F-actin clusters                     .
+PMC2195994	false	sec-16	34	182	Stress fibers were present in some cells transfected with this mutant ( IRS-58Delta510-534 ) .
+PMC2195994	false	sec-16	34	183	The reorganization of the F-actin cytoskeleton caused by IRS-58 required amino acid residues 143-534                      since expression of IRS-58Delta143-534 did not cause loss of stress fibers or formation of actin clusters .
+PMC2195994	false	sec-16	34	184	Also , IRS-58Delta143-534 mutant did not induce the formation of peripheral plasma membrane structures ; however , cells appeared to be more contracted .
+PMC2195994	false	sec-16	34	185	It is possible that the contracted morphology seen in cells overexpressing IRS-58Delta143-534 is caused by a thickening of stress fibers .
+PMC2195994	false	sec-16	34	186	Similar morphologies are seen when RhoA protein is microinjected into cells                       .
+PMC2195994	false	sec-16	34	187	Overexpression of the mutant IRS 58I267N , which is unable to bind Cdc42Hs , failed to induce filopodia formation or F-actin clusters in most Swiss 3T3 cells ( data not shown ) .
+PMC2195994	false	sec-16	34	188	However , in some cells expressing higher levels of IRS-58I267N F-actin became disorganized and small F-actin clusters were seen         .
+PMC2195994	false	sec-16	34	189	Strikingly , IRS-58 I267N did not colocalize with these F-actin clusters or other F-actin structures present within the cell                            .
+PMC2195994	false	sec-16	35	190	To examine whether the cell processes formed in IRS-58-expressing cells were retraction fibers or filopodia , we carried out a phase-contrast time-lapse analysis of microinjected cells .
+PMC2195994	false	sec-16	35	191	IRS-58 induces dramatic changes in cell morphology that include both filopodia formation and areas of retraction ( data not shown ) .
+PMC2195994	false	sec-16	35	192	Unlike Cdc42Hs overexpression , which leads to Rac1 activation , we did not observe any membrane ruffling after the changes in F-actin structure described above .
+PMC2195994	true	sec-17	36	193	Overexpression of IRS-58 in NIE-115 Cells
+PMC2195994	false	sec-17	37	194	Since IRS-58 mRNAs are enriched in brain we next determined whether IRS-58 overexpression had morphological effects on N1E-115 neuroblastomas , a model for neuronal cells .
+PMC2195994	false	sec-17	37	195	Our previous work has established roles of Rho family GTPases in these neuroblastoma cells : Cdc42Hs and Rac1 are required for neurite outgrowth , whereas RhoA causes neurite collapse                                                           .
+PMC2195994	false	sec-17	37	196	N1E-115 cells were transfected with cDNA encoding IRS-58 , left for 18-24 h in the presence of serum , and then monitored by phase-contrast time-lapse microscopy .
+PMC2195994	false	sec-17	37	197	IRS-58 induced neurite outgrowth in these cells .
+PMC2195994	false	sec-17	37	198	A shows an example of a cell forming a neurite where the length of the neurite approximately doubles over the time course of the experiment .
+PMC2195994	false	sec-17	37	199	In the last panel of the time-lapse sequence three new neurites can be seen to be forming           .
+PMC2195994	false	sec-17	37	200	IRS-58-induced neurites were morphologically hyperactive , as neurites induced by serum starvation showed little morphological change over a 5-10-min time course ( data not shown ) .
+PMC2195994	false	sec-17	37	201	IRS-58 induced filopodia formation in growth cones and along neurites .
+PMC2195994	false	sec-17	37	202	B shows an example of a neurite with many filopodia along its length .
+PMC2195994	false	sec-17	38	203	The neurites formed by IRS-58 were thick and highly branched with robust filopodia evident around growth cones and along the neurites                    .
+PMC2195994	false	sec-17	38	204	In some cells , F-actin clusters were also evident in the cell body ( data not shown ) .
+PMC2195994	false	sec-17	38	205	There was a loss of polarity in the neurites induced by IRS-58                           .
+PMC2195994	false	sec-17	38	206	( Serum starvation of N1E-115 cells leads to neurite outgrowth where cells have an average of two neurites per cell and branched neurites are rarely present .
+PMC2195994	false	sec-17	38	207	Overexpression of either Cdc42Hs or IRS-58 in N1E-115 cells leads to an average of four neurites per cell and branched neurites are common .
+PMC2195994	false	sec-17	38	208	We define loss and lack of polarity as an increase in the number of neurites per cell from two to four coupled with the presence of branched neurites . )
+PMC2195994	false	sec-17	39	209	Cdc42Hs and Rac1 activity was required for IRS-58-driven neurite outgrowth , as dominant negative versions of these GTPases were inhibitory .
+PMC2195994	false	sec-17	39	210	IRS-58 cotransfection with Rac1T17N resulted in smaller cells with large spikes and filopodia                    .
+PMC2195994	false	sec-17	39	211	Cells that were transfected with IRS-58 and Cdc42HsT17N were flattened and had large fan shaped lamellae                    .
+PMC2195994	false	sec-17	39	212	Similar phenotypes were observed when Rac1T17N and Cdc42HsT17N were transfected in the absence of IRS-58 ( data not shown ) .
+PMC2195994	false	sec-17	40	213	We also examined the effect of overexpression of three IRS-58 COOH-terminal deletions ( IRS-58Delta510-534 , IRS-58Delta390-534 , and IRS-58Delta143-534 ) on neurite outgrowth .
+PMC2195994	false	sec-17	40	214	As in Swiss 3T3 cells , IRS-58Delta510-534 had a more dramatic effect on cell morphology than wild-type in N1E-115 cells                    .
+PMC2195994	false	sec-17	40	215	Interestingly , IRS-58Delta390-534 , which lacks the SH3 domain and the WW binding domain , induced neurite extension ; however , neurite and growth cone complexity were lost                    .
+PMC2195994	false	sec-17	40	216	IRS-58Delta143-534 failed to induce morphological change , suggesting that the amino acids 143-390 are essential for neurite extension ( data not shown ) .
+PMC2195994	false	sec-17	40	217	A quantification of the effects of IRS-58 transfection on neuroblastoma cells is shown in        .
+PMC2195994	false	sec-17	41	218	Finally , the effect of overexpression of the Cdc42Hs binding defective mutation , IRS-58I267N , on N1E-115 cells was compared with wild-type IRS-58           .
+PMC2195994	false	sec-17	41	219	IRS-58 induced neurite outgrowth , as described above , and localized throughout the neurite and with F-actin in filopodia .
+PMC2195994	false	sec-17	41	220	In contrast , IRS-58I267N did not induce neurite outgrowth , although in some cases cells were seen to elongate                                   .
+PMC2195994	false	sec-17	41	221	IRS-58I267N was distributed throughout the cytoplasm in small aggregates , but was never found at the cell periphery and did not colocalize with F-actin structures           .
+PMC2195994	false	sec-17	41	222	Using monoclonal antibodies specific to IRS-58 , we have found endogenous protein to colocalize with F-actin in filopodia in neuroblastoma cells          .
+PMC2195994	false	sec-17	42	223	A summary of the IRS-58 and mutant phenotypes obtained by cell transfection in N1E-115 cells is presented in        .
+PMC2195994	true	sec-19	43	224	Cdc42Hs Interaction with IRS-58
+PMC2195994	false	sec-19	44	225	The Cdc42Hs binding region of IRS-58 is related to the CRIB motif but also distinct from it .
+PMC2195994	false	sec-19	44	226	Close to the isoleucine , serine , any amino acid residue , and proline portion of the Cdc42Hs interacting site of IRS-58 is a polyproline rich sequence that may represent a protein protein interaction site .
+PMC2195994	false	sec-19	44	227	Interestingly , similar polyproline sequences are found adjacent to the Cdc42Hs binding sites of ACK , PAK , and WASP .
+PMC2195994	false	sec-19	44	228	Point mutations of Cdc42Hs in the " effector site , " C40 and A37 , have been reported to exclude a role for CRIB motif proteins , such as PAK , in morphology pathways                       .
+PMC2195994	false	sec-19	44	229	However , several studies have shown that PAK can induce morphological change in mammalian cells                                                               , as do both WASP and N-WASP .
+PMC2195994	false	sec-19	44	230	In addition , N-WASP can induce filopodia formation in Swiss 3T3 cells .
+PMC2195994	false	sec-19	44	231	How can these data be reconciled ?
+PMC2195994	false	sec-19	44	232	One possibility is that the reduction in protein protein interaction caused by the C40 mutation of Cdc42Hs in vitro is not sufficient to destroy interaction in vivo .
+PMC2195994	false	sec-19	44	233	Another possibility is that PAK ( or N-WASP ) does not need to interact directly with Cdc42Hs in morphological pathways but does so via a bridging protein and second messenger                    .
+PMC2195994	false	sec-19	44	234	Further , if protein complexes need to be formed to drive morphological change it is difficult to predict how the reduction in interaction between two components of the complex will affect the cellular process                   .
+PMC2195994	false	sec-19	44	235	The effect of Cdc42HsC40 and A37 mutations on Cdc42Hs interaction with IRS-58 was different from that of CRIB motif proteins .
+PMC2195994	false	sec-19	44	236	Cdc42HsC40 still interacted with IRS-58 whereas Cdc42HsA37 did not .
+PMC2195994	false	sec-19	44	237	These data support the idea that point mutations in amino acid positions 40 and 37 allow Cdc42Hs interactions with partners to be distinguished .
+PMC2195994	true	sec-20	45	238	IRS-58 and Cytoskeletal Reorganization
+PMC2195994	false	sec-20	46	239	To investigate whether IRS-58 was involved in the Cdc42Hs morphological pathways , it was overexpressed in Swiss 3T3 cells as an HA tagged protein .
+PMC2195994	false	sec-20	46	240	Serum starved Swiss 3T3 cells possess F-actin stress fibers and associated cytoplasmic FCs .
+PMC2195994	false	sec-20	46	241	IRS-58 overexpression caused a reorganization of the cytoskeleton with loss of stress fibers and formation of F-actin clusters .
+PMC2195994	false	sec-20	46	242	IRS-58-induced filopodia formation was seen most clearly at low levels of expression where clusters were usually small , and thin stress fibers were sometimes present .
+PMC2195994	false	sec-20	46	243	These changes are reminiscent of the effects of Cdc42Hs overexpression                                          or bradykinin stimulation                    .
+PMC2195994	false	sec-20	46	244	However , IRS-58 did not induce the formation of membrane ruffles , which is seen with Cdc42Hs overexpression in a variety of cell types .
+PMC2195994	false	sec-20	46	245	It is possible that IRS-58-induced reorganization may obscure Rac1 mediated changes .
+PMC2195994	false	sec-20	46	246	Cdc42Hs , WASP , and n-chimaerin , but not Rac1 or RhoA , can induce these F-actin clusters in mammalian cells                                                        .
+PMC2195994	false	sec-20	46	247	The physiological function of F-actin clusters is unclear , but they may represent an intermediate stage for reorganization of F-actin microfilaments .
+PMC2195994	false	sec-20	46	248	Confocal imaging of F-actin clusters revealed that they colocalized with IRS-58 in structures that were protruding from the surface of the cells , suggesting a role for IRS-58 in microvilli formation .
+PMC2195994	false	sec-20	46	249	The fact that bradykinin induces peripheral actin microspikes as well as F-actin cluster formation                     supports the idea that these latter structures have a physiological role .
+PMC2195994	true	sec-21	47	250	IRS-58 and Neurite Outgrowth in N1E-115 Cells
+PMC2195994	false	sec-21	48	251	Since IRS-58 mRNAs are highly expressed in brain , we also investigated the effects of its overexpression in N1E-115 neuroblastoma cells .
+PMC2195994	false	sec-21	48	252	Endogenous IRS-58 protein colocalized with F-actin in filopodia in neuroblastoma cells .
+PMC2195994	false	sec-21	48	253	Serum withdrawal or transient transfection of Cdc42Hs in these cells leads to maximal neurite outgrowth after 18-24 h                                              .
+PMC2195994	false	sec-21	48	254	IRS-58 was also able to induce neurite outgrowth in similar experiments .
+PMC2195994	false	sec-21	48	255	Phase-contrast analysis of IRS-58-overexpressing N1E-115 cells clearly shows that it induces the formation of robust filopodia .
+PMC2195994	false	sec-21	48	256	The morphology of N1E-115 cells overexpressing IRS-58 was different from that seen on serum withdrawal or Cdc42Hs overexpression .
+PMC2195994	false	sec-21	48	257	IRS-58 neurites were much thicker and highly branched , and filopodia were evident all along the neurite surface .
+PMC2195994	false	sec-21	48	258	Some cells had neurites with multiple branches , each associated with large and spiky growth cones .
+PMC2195994	false	sec-21	48	259	Thus , IRS-58-induced neurites are complex and lack polarity ( see above ) .
+PMC2195994	false	sec-21	48	260	The Cdc42Hs binding defective IRS-58I267N failed to induce neurite outgrowth , and this finding parallels studies in yeast cells where a Cdc42p binding defective Ste20 was unable to induce pseudohyphal growth                    .
+PMC2195994	false	sec-21	49	261	IRS-58-induced neurite outgrowth was inhibited by transfection of dominant negative T17N cDNAs , suggesting that Cdc42Hs and Rac1 activity are required for this phenotype .
+PMC2195994	false	sec-21	49	262	Interestingly , deletion of the SH3 domain and WW binding domain of IRS-58 eliminated the neurite and growth cone complexity , but neurite extension in N1E-115 cells was still seen .
+PMC2195994	false	sec-21	49	263	Therefore , it is possible that proteins that bind either to the SH3 domain , such as atrophin-1 or BA1 , and and or the WW binding domain may be responsible for the morphological complexity observed .
+PMC2195994	true	sec-22	50	264	Function of the Cdc42Hs-IRS-58 Interaction
+PMC2195994	false	sec-22	51	265	In both Swiss 3T3 cells and N1E-115 cells IRS-58I267N , the Cdc42Hs binding defective mutant , did not induce significant cytoskeletal reorganization or neurite outgrowth , or colocalize with F-actin .
+PMC2195994	false	sec-22	51	266	These results suggest that the function of the Cdc4Hs-IRS-58 interaction is to localize an IRS-58 protein complex to F-actin and thereby facilitate morphological change and neurite outgrowth .
+PMC2195994	false	sec-22	51	267	Atrophin-1 and BAI1 bind to the SH3 domain of IRS-58 and may represent two of the proteins present in the complex .
+PMC2195994	false	sec-22	51	268	The insulin related growth factors , IGF1 and IGF2 , play important roles in neuronal development and survival .
+PMC2195994	false	sec-22	51	269	Ongoing studies with IRS-58 , atrophin-1 , BAI1 , and other IRS-58 protein partners may help us to understand the mechanism by which Cdc42Hs facilitates cytoskeletal reorganization and neuritogenesis downstream of the insulin receptor .
+PMC2195994	false	sec-21	52	270	We thank Tom Leung for Cdc42Hs point mutants and Kate Marler for help with confocal microscopy .
+PMC2195994	false	sec-20	53	271	Abbreviations used in this paper : ACK , activated Cdc42 associated kinase ; BAI1 , brain specific angiogenesis inhibitor 1 ; BD , binding domain ; CRIB , Cdc42 and Rac interactive binding ; FC , focal complex ; GAP , GTPase activating protein ; GST , glutathione S-transferase ; HA , hemagglutinin ; IRS , insulin receptor tyrosine kinase ; MTN , multiple tissue Northern ; N-WASP , neural WASP ; PAK , p21 activated kinase ; SH , Src homology ; WASP , Wiskott-Aldrich syndrome protein ; WW , tryptophan , tryptophan .
+PMC2195994	false	fig-1	54	272	Primary structure and expression of IRS-58 .
+PMC2195994	false	fig-1	54	273	( A ) The Bgl2 fragment of IRS-58 isolated from the two-hybrid screen was cloned into the Bluescript vector and sequenced on both strands with an automated ABI sequencer .
+PMC2195994	false	fig-1	54	274	The derived protein sequence is shown with three putative protein protein interaction domains as reported previously                                   .
+PMC2195994	false	fig-1	54	275	SH3 binding domain is in bold type and underlined ; SH3 domain is underlined ; and the WW binding domain is in bold .
+PMC2195994	false	fig-1	54	276	( B ) BLAST searches of three protein domains : an SH3 binding site , an SH3 binding domain , and a WW domain binding site .
+PMC2195994	false	fig-1	54	277	( C ) A multiple tissue mRNA blot was probed with IRS-58 cDNA and processed , as described in Materials and Methods , and exposed to film for 48 h.
+PMC2195994	false	fig-2	55	278	Cdc42Hs , Rac1 , and RhoA interaction with IRS-58 .
+PMC2195994	false	fig-2	55	279	Cdc42HsL61 , Rac1L61 , and RhoAL63 were labeled with [ gamma-32P ] GTP by exchange in the presence of EDTA and used to probe IRS-58-GST fusion protein ( 142-363 amino acid residues ) immobilized on nitrocellulose filter .
+PMC2195994	false	fig-2	55	280	( A ) Lanes 1-3 , IRS-58 , 30 , 10 , and 1 mug total protein ; lane 4 , GST 25 mug ; lane 5 , betaPAK ( 37-137 amino acid residues ) 27.5 mug ( for Cdc42Hs and Rac1 ) and p190 GAP domain 20 mug ( for RhoA ) .
+PMC2195994	false	fig-2	55	281	( B ) Cdc42Hs wild-type was labeled as described above and either used immediately or incubated for 60 min before use .
+PMC2195994	false	fig-2	55	282	Due to the high intrinsic GTPase activity of Cdc42Hs the alpha labeled GTP probe becomes GDP .
+PMC2195994	false	fig-2	55	283	LANES 1 and 2 , IRS-58-GST fusion protein ( 202-305 amino acid residues ) 1 mug and 0.1 mug .
+PMC2195994	false	fig-2	55	284	( C ) Lanes 1-3 , IRS-58 fusion protein ( 202-305 ) 10 , 1 , and 0.1 mug , was probed with L61 , L61C40 , and L61A37 ; lane 4 , GST 10 mug ; lanes 5 and 6 , purified PAK fraction from neutrophil cytosol extract 50 mug and 10 mug total protein .
+PMC2195994	false	fig-3	56	285	Localization of the Cdc42Hs binding site of IRS-58 .
+PMC2195994	false	fig-3	56	286	Different portions of IRS-58 were expressed as GST fusion proteins and either dot blotted or Western transferred after SDS-PAGE onto nitrocellulose and then probed with Cdc42HsL61 as described in the legend to       .
+PMC2195994	false	fig-3	56	287	( A ) Deletion mutants coming in from the 3 ' end using restriction sites .
+PMC2195994	false	fig-3	56	288	Lane 1 , amino acid residues 1-534 ; lane 2 , 1-432 ; lane 3 , 1-358 ; lane 4 , 1-142 ; lane 5 , 142-358 ; lane 6 , GST .
+PMC2195994	false	fig-3	56	289	Rows a-c , ~ 30 , 15 , and 1 mug protein , respectively .
+PMC2195994	false	fig-3	56	290	( B-D ) Shown in parallel with the overlay blot and corresponding Coomassie stained protein gel .
+PMC2195994	false	fig-3	56	291	( B ) PCR was used to generate minimal binding fragments ( amino acid residues 202-305 and 266-305 ) .
+PMC2195994	false	fig-3	56	292	Lanes 1 and 1 ' , GST 25 mug ; lanes 2 and 2 ' , IRS-58 ( 202-305 ) 45 mug ; lanes 3 and 3 ' , IRS-58 ( 266-305 ) 35 mug .
+PMC2195994	false	fig-3	56	293	( C ) Point mutations were made into the minimal IRS-58 ( 267-305 ) Cdc42Hs binding fragment : NSDA , NSDP , and IPDP .
+PMC2195994	false	fig-3	56	294	Lanes 1 and 1 ' , IRS-58 ( 267-305 ) 60 mug ; lanes 2 and 2 ' , GST 2 mug ; lanes 3 and 3 ' , IRS-58I267N / P270A 55 mug ; lanes 4 and 4 ' , IRS-58I267N 45 mug ; lanes 5 and 5 ' , IRS-58 S268P 45 mug .
+PMC2195994	false	fig-3	56	295	( D ) Lanes 1 and 1 ' , GST 30 mug ; lanes 2 and 2 ' , IRS-58 ( 1-534 ) 60 mug ; lanes 3 and 3 ' , IRS-58I267N ( 1-534 ) 45 mug ; lanes 4 and 4 ' , IRS-58 ( 1-266 ) 40 mug ; lanes 5 and 5 ' , IRS-58 ( 306-534 ) 20 mug .
+PMC2195994	false	fig-3	56	296	( E ) A summary of binding analysis , showing the fragments of IRS-58 examined and the domain positions .
+PMC2195994	false	fig-3	56	297	Point mutations are shown on a expanded scale of 40-amino acid residues .
+PMC2195994	false	fig-3	56	298	The polyproline sequence is underlined .
+PMC2195994	false	fig-3	56	299	1 indicates that Cdc42H5 binds much more weakly to the 40-amino acid residue fragment than to the larger polypeptides .
+PMC2195994	false	fig-4	57	300	Overexpression of IRS-58 in Swiss 3T3 cells .
+PMC2195994	false	fig-4	57	301	Serum starved Swiss 3T3 cells were microinjected with cDNA encoding HA tagged IRS-58 in a pXJ40 vector and left for 3 h before fixing and staining of cells .
+PMC2195994	false	fig-4	57	302	Anti-HA antibody was used to detect IRS-58-expressing cells and cells were also stained for F-actin with rhodamine conjugated phalloidin as described in Materials and Methods .
+PMC2195994	false	fig-4	57	303	( A , C , and E ) IRS-58 ; ( B , D , and F ) F-actin .
+PMC2195994	false	fig-4	57	304	Arrows mark injected cells in A , C , and E and the corresponding F-actin staining in B , D , and F .
+PMC2195994	false	fig-4	57	305	The insert in A shows a magnified version of part of the image .
+PMC2195994	false	fig-4	57	306	Arrowheads in the insert highlight particulate structures and protein aggregates .
+PMC2195994	false	fig-4	57	307	Arrows in panels indicate transfected cells .
+PMC2195994	false	fig-4	57	308	Some transfected cells are not marked .
+PMC2195994	false	fig-4	57	309	Bar , 10 muM .
+PMC2195994	false	fig-5	58	310	Analysis of IRS-58 F-actin cluster formation .
+PMC2195994	false	fig-5	58	311	Serum starved Swiss 3T3 cells were microinjected with IRS-58 cDNA in pXJ40 as described in the legend to       .
+PMC2195994	false	fig-5	58	312	A single cell with low levels of IRS-58 expression is examined in more detail by confocal analysis .
+PMC2195994	false	fig-5	58	313	( A ) F-actin ( panel A ) ; HA stain ( panel B ) ; and HA stain and IRS-58 ( green ) , with F-actin ( red ) staining with colocalization shown in blue ( panel C ) ; colocalization signal only ( panel D ) .
+PMC2195994	false	fig-5	58	314	Inserts in A-D show a magnified region of the cell ( position of magnification shown by dashed line box in panel C ) .
+PMC2195994	false	fig-5	58	315	Arrow in inserts show filopodia .
+PMC2195994	false	fig-5	58	316	Arrows in main figure show F-actin clusters .
+PMC2195994	false	fig-5	58	317	( B ) Z-series with panel A bottom to panel H top .
+PMC2195994	false	fig-5	58	318	Green stain visualizing IRS-58 ; red stain , F-actin ; and blue and purple stain , colocalization .
+PMC2195994	false	fig-5	58	319	Bars : ( A ) 10 muM ; ( B ) 20 muM .
+PMC2195994	false	fig-6	59	320	Effect of COOH-terminal deletions of IRS-58 on F-actin reorganization .
+PMC2195994	false	fig-6	59	321	Serum starved Swiss 3T3 cells were microinjected with IRS-58 cDNA constructs encoding amino acid residues 1-510 ( A and B ) or 1-142 ( C and D ) .
+PMC2195994	false	fig-6	59	322	HA stain and IRS-58 ( A and C , respectively ) ; F-actin stain ( panels B and D ) .
+PMC2195994	false	fig-6	59	323	Arrows in panels indicate transfected cells .
+PMC2195994	false	fig-6	59	324	Some transfected cells are not marked .
+PMC2195994	false	fig-6	59	325	Bar , 15 muM .
+PMC2195994	false	fig-7	60	326	Overexpression of IRS-58I267N ( 1-534 ) Cdc42Hs binding defective mutant in Swiss 3T3 cells .
+PMC2195994	false	fig-7	60	327	Serum starved Swiss 3T3 cells were microinjected with IRS-58 I267N cDNA as described in the legend to       .
+PMC2195994	false	fig-7	60	328	Cells were double stained for IRS-58 and F-actin .
+PMC2195994	false	fig-7	60	329	Compare with        A for IRS-58 effects on Swiss 3T3 cells .
+PMC2195994	false	fig-7	60	330	F-actin ( A ) , IRS-58 ( B ) , and IRS-58 ( green ) with F-actin ( red ) staining with colocalization in blue ( C ) .
+PMC2195994	false	fig-7	60	331	Colocalization signal of IRS-58 with F-actin alone ( D ) .
+PMC2195994	false	fig-7	60	332	Bar , 10 muM .
+PMC2195994	false	fig-8	61	333	Phase-contrast time-lapse analysis of IRS-58-expressing N1E-115 cells .
+PMC2195994	false	fig-8	61	334	IRS-58 cDNA in pXJ40 was used to transiently transfect N1E-115 neuroblastoma cells as described in Materials and Methods , and cells were then left for 18-24 h in growth media .
+PMC2195994	false	fig-8	61	335	( A ) Seven time points are shown at 1-min intervals .
+PMC2195994	false	fig-8	61	336	In panel 7 arrows show the formation of three new neurites .
+PMC2195994	false	fig-8	61	337	( B ) Morphological activity along a neurite is shown .
+PMC2195994	false	fig-8	61	338	Arrows show the rapid appearance and disappearance of filopodia over a 7-min time course .
+PMC2195994	false	fig-8	61	339	Bars : ( A ) 10 muM ; ( B ) 5 muM .
+PMC2195994	false	fig-9	62	340	Overexpression of IRS-58 in N1E-115 cells .
+PMC2195994	false	fig-9	62	341	IRS-58 cDNA in pXJ40 was used to transiently transfect N1E-115 neuroblastoma cells , as described in Materials and Methods , and cells were the left for 18-24 h in growth media .
+PMC2195994	false	fig-9	62	342	( A ) Cells shown in panels A and B are controls .
+PMC2195994	false	fig-9	62	343	Panel A , serum starved cell ; panel B , growing cell transfected with pXJ40 empty vector ; panel C , IRS-58-transfected cell .
+PMC2195994	false	fig-9	62	344	Cells shown in panels D and E are transfections of COOH-terminal deletions of IRS-58 : IRS-58 ( 1-510 ) and IRS-58 ( 1-390 ) .
+PMC2195994	false	fig-9	62	345	Cells shown in panels F and G are coexpressions of IRS-58 with dominant negative Rac1 ( T17N ) and dominant negative Cdc42Hs ( T17N ) , respectively .
+PMC2195994	false	fig-9	62	346	Panel A , F-actin stain .
+PMC2195994	false	fig-9	62	347	Panels B-G , HA-stain .
+PMC2195994	false	fig-9	62	348	( B ) IRS-58I267N in N1E-115 cells ( panels A , C , E , and G ) and IRS-58 ( panels , B , D , F , and H ) .
+PMC2195994	false	fig-9	62	349	Panels A and B are double stained for HA ( green ) and F-actin ( red ) .
+PMC2195994	false	fig-9	62	350	Panels C and D are stained for F-actin ; panels E and F are HA stained .
+PMC2195994	false	fig-9	62	351	Panels G and H show colocalization of F-actin and IRS -58 without individual signals .
+PMC2195994	false	fig-9	62	352	Bars , 10 muM .
+PMC2195994	false	fig-10	63	353	Quantification of the effects of IRS-58 on N1E-115 neuroblastoma cells .
+PMC2195994	false	fig-10	63	354	Cells transfected with cDNAs were left for 18-24 h and then scored for ( A ) neurite outgrowth or ( B ) neurite complexity .
+PMC2195994	false	fig-10	63	355	( A ) Lane 1 , pXJ40 ; lane 2 , no cDNA with 5 % serum ; lane 3 , no cDNA serum starved ; lane 4 , IRS-58 ; lane 5 , IRS-58 ( amino acids 1-390 ) ; and lane 6 , IRS-58I269N .
+PMC2195994	false	fig-10	63	356	Neurite outgrowth was scored by evaluating the percentage of cells with neurites longer than one cell body length .
+PMC2195994	false	fig-10	63	357	( B ) Lane 1 , serum starvation ; lane 2 , IRS-58 ; and lane 3 , IRS-58 ( amino acids 1-390 ) .
+PMC2195994	false	fig-10	63	358	In determining percentage complexity , neurites were examined for both filopodial number and lamellipodial area as follows : ( a ) 50 filopodia and neurite was arbitrarily set at a score of 100 % ; ( b ) the proportion of neurite length covered by lamellipodia was scored using 100 % to represent coverage of the whole neurite length .
+PMC2195994	false	fig-10	63	359	Percentage complexity was then determined by adding values obtained from ( a ) and ( b ) and dividing by 2 .
+PMC2195994	false	fig-10	63	360	In some instances ( e.g. ,        A , panel C ) , where lamellipodia were absent , percentage complexity was based solely on ( a ) values .
+PMC2195994	false	fig-10	63	361	Numbers are averages + /- SD ; n = 21 .
+PMC2195994	false	fig-11	64	362	Endogenous IRS-58 colocalizes with F-actin in filopodia .
+PMC2195994	false	fig-11	64	363	( A ) N1E-115 cells were transfected with IRS-58 cDNA or empty vector control , left for 18-24 h , and then stained with anti-IRS-58-specific monoclonal antibodies and phalloidin .
+PMC2195994	false	fig-11	64	364	( B ) Serum starved cells were double stained with anti-IRS-58-specific monoclonal and phalloidin .
+PMC2195994	false	fig-11	64	365	Staining procedures were as described in Materials and Methods .
+PMC2195994	false	fig-11	64	366	Inserts in B shows a magnified region of the cell ( position of magnification shown by dashed line box ) .
+PMC2195994	false	fig-11	64	367	Bars , 20 muM .
+PMC2195994	false	fig-12	65	368	IRS-58 phenotypes in N1E-115 cells produced by deletion and mutation .
+PMC2195994	false	fig-12	65	369	A schematic of IRS-58 is shown in which protein protein interactions are summarized .
+PMC2195994	false	fig-12	65	370	The insulin receptor ( IR ) phosphorylates the NH2 terminus at three potential sites                          .
+PMC2195994	false	fig-12	65	371	A polyproline sequence lies within the Cdc42Hs binding site .
+PMC2195994	false	fig-12	65	372	IRS-58 possesses at least two other protein protein interaction sites , an SH3 domain , and a WW binding domain .
+PMC2195994	false	fig-12	65	373	Atrophin-1 and BA1I have been shown to bind to the SH3 domain .
+PMC2195994	false	fig-12	65	374	IRS-58 induces neurite outgrowth with high complexity and hyperactivity which is increased in * IRS-58 ( 1-510 ) mutant .
+PMC2195994	false	fig-12	65	375	IRS-58 ( 1-390 ) induces neurite extension with little complexity , suggesting that the region between amino acid residues 391-526 is responsible for the complexity .
+PMC2195994	false	fig-12	65	376	1IRS-58I267N and 2IRS-58 ( 1-142 ) do not induce neurite outgrowth .
+PMC2195994	false	fig-12	65	377	The 1IRS 58I267N mutant induces cell elongation in some cells but no longer colocalizes with F-actin , suggesting that interaction with Cdc42Hs is required for F-actin association .
+PMC2195994	false	fig-12	65	378	Similar results were observed in Swiss 3T3 cells in       .

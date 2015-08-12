@@ -1,0 +1,39 @@
+Paper ID	Is title?	Section ID	Passage ID	Line Num	Text
+PMC3392545	true	article-title	0	0	Structure of STING bound to c-di-GMP Reveals the Mechanism of Cyclic Dinucleotide Recognition by the Immune System
+PMC3392545	false	abstract	1	1	STING , stimulator of interferon genes , is an innate immune sensor of cyclic dinucleotides that regulates the induction of type I interferons .
+PMC3392545	false	abstract	1	2	STING C-terminal domain forms a V shaped dimer and binds a c-di-GMP molecule at the dimer interface through direct and solvent mediated hydrogen bonds .
+PMC3392545	false	abstract	1	3	The guanine bases of c-di-GMP stack against the phenolic rings of a conserved tyrosine residue .
+PMC3392545	false	abstract	1	4	Mutations at the c-di-GMP binding surface reduce nucleotide binding and affect signaling .
+PMC3392545	false	SM	2	5	The diffraction data of the Se-Met crystals were collected at beamline 11.1 at the Stanford Synchrotron Radiation Lightsource ( SSRL ) .
+PMC3392545	false	SM	2	6	The ITC binding studies were conducted in Dr. Tadhg Begley 's lab .
+PMC3392545	false	SM	2	7	This research is supported by the National Institute of Health ( Grants AI087741 to P.L. and AI073335 to C. K. ) .
+PMC3392545	false	fig-1	3	8	STING forms a dimer and binds c-di-GMP at the dimer interface .
+PMC3392545	false	fig-1	3	9	( a ) C-di-GMP binding studies of human STING CTD ( residues 149-341 ) by gel filtration chromatography .
+PMC3392545	false	fig-1	3	10	( b ) C-di-GMP binding studies of STING CTD ( residues 149 to 341 ) by ITC .
+PMC3392545	false	fig-1	3	11	( c ) C-di-GMP binding studies of STING ( residues 155 to 379 ) by ITC .
+PMC3392545	false	fig-1	3	12	( d ) Structure of human STING CTD bound to c-di-GMP .
+PMC3392545	false	fig-1	3	13	STING is shown by the red and cyan ribbon representation .
+PMC3392545	false	fig-1	3	14	C-di-GMP is shown by the yellow ball and stick model .
+PMC3392545	false	fig-2	4	15	Structural basis of c-di-GMP recognition and the dimer interface of STING .
+PMC3392545	false	fig-2	4	16	( a ) Stereo close up of the c-di-GMP binding site of STING .
+PMC3392545	false	fig-2	4	17	Residues of STING are shown by the gray ball and stick models .
+PMC3392545	false	fig-2	4	18	C-di-GMP is shown by the cyan ball and stick model .
+PMC3392545	false	fig-2	4	19	Solvent molecules mediating hydrogen bonds between STING and c-di-GMP are shown by the red spheres .
+PMC3392545	false	fig-2	4	20	( b ) .
+PMC3392545	false	fig-2	4	21	Stereo close up view of the STING dimer interface .
+PMC3392545	false	fig-2	4	22	Residues at the dimer interface are shown by the gray and green stick models .
+PMC3392545	false	fig-2	4	23	( c ) The Ca2+ binding sites between two STING dimers .
+PMC3392545	false	fig-2	4	24	Ca2+ ions are shown by the gray spheres and Ca2+ ligands are shown as gray sticks .
+PMC3392545	false	fig-2	4	25	Solvent molecules are shown by the red spheres .
+PMC3392545	false	fig-2	4	26	( d ) Close up of the Ca2+ binding sites .
+PMC3392545	false	fig-2	4	27	Residues from one STING are shown by the gray ball and stick models .
+PMC3392545	false	fig-2	4	28	Residues from a symmetry related STING are shown by the purple ball and stick models .
+PMC3392545	false	fig-2	4	29	Ca2+ are shown by the yellow spheres .
+PMC3392545	false	fig-2	4	30	Solvent molecules coordinating with the Ca2+ are shown by the blue spheres .
+PMC3392545	false	fig-3	5	31	Mutations at the nucleotide binding surface reduce c-di-GMP binding and affect STING signaling .
+PMC3392545	false	fig-3	5	32	( a ) C-di-GMP binding studies of wild-type and mutants of STING CTD by gel filtration chromatography .
+PMC3392545	false	fig-3	5	33	The inset shows a close up of the unbound c-di-GMP peaks .
+PMC3392545	false	fig-3	5	34	( b ) C-di-GMP binding studies of STING mutants by ITC .
+PMC3392545	false	fig-3	5	35	( c ) IFN-beta luciferase assays show that mutations at the c-di-GMP binding surface affect signaling of mouse STING expressed in HEK293T cells .
+PMC3392545	false	fig-3	5	36	Residues Ile199 , Tyr239 , Asn241 , Glu259 , Thr262 , Pro263 , and Thr266 of mouse STING correspond to residues Ile200 , Tyr240 , Asn242 , Glu260 , Thr263 , Pro264 , and Thr267 of human STING .
+PMC3392545	false	fig-3	5	37	The error bars show standard deviations of signals from three independent transfections .

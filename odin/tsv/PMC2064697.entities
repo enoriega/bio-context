@@ -1,0 +1,437 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2064697	3	uniprot:UNRESOLVED ID	core histones	Gene_or_gene_product
+PMC2064697	4	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	4	uniprot:P52926	HMGA2	Gene_or_gene_product
+PMC2064697	5	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2064697	5	uniprot:P04637	p53	Gene_or_gene_product
+PMC2064697	5	uniprot:P38936	p21	Gene_or_gene_product
+PMC2064697	5	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2064697	5	uniprot:Q77JX3	p16	Gene_or_gene_product
+PMC2064697	6	uniprot:P33807	hemagglutinin	Gene_or_gene_product
+PMC2064697	6	uniprot:P52926	HMGA2	Gene_or_gene_product
+PMC2064697	6	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2064697	6	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	7	uniprot:UNRESOLVED ID	HMG proteins	Gene_or_gene_product
+PMC2064697	9	ncbitax:species:ncbi:9606	human	Species
+PMC2064697	10	uniprot:P16278	beta-galactosidase	Gene_or_gene_product
+PMC2064697	15	uniprot:O75791	p38	Gene_or_gene_product
+PMC2064697	18	uniprot:UNRESOLVED ID	histone octamers	Gene_or_gene_product
+PMC2064697	20	uniprot:P29227	heterochromatin protein 1	Gene_or_gene_product
+PMC2064697	22	uniprot:O43463	Suv39h1	Gene_or_gene_product
+PMC2064697	22	uniprot:UNRESOLVED ID	histone methyltransferase	Gene_or_gene_product
+PMC2064697	22	uniprot:UNRESOLVED ID	H3K9	Gene_or_gene_product
+PMC2064697	22	ncbitax:species:ncbi:10090	mouse	Species
+PMC2064697	22	uazid:UA-CT-22	lymphocytes	CellType
+PMC2064697	22	uniprot:UNRESOLVED ID	lymphoma	CellType
+PMC2064697	24	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	25	uniprot:Q9Y294	Asf1a	Gene_or_gene_product
+PMC2064697	25	uniprot:UNRESOLVED ID	histone regulation A	Gene_or_gene_product
+PMC2064697	25	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	27	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	28	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	30	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	32	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2064697	32	uniprot:UNRESOLVED ID	anti-macroH2A antibody	Gene_or_gene_product
+PMC2064697	34	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	34	uniprot:UNRESOLVED ID	WI-38 SAHF	Gene_or_gene_product
+PMC2064697	34	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2064697	35	uniprot:UNRESOLVED ID	Mock-	Gene_or_gene_product
+PMC2064697	35	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	35	uniprot:UNRESOLVED ID	anti-CENP-B antibody	Gene_or_gene_product
+PMC2064697	35	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2064697	36	uniprot:UNRESOLVED ID	SAHFs	Gene_or_gene_product
+PMC2064697	36	uniprot:P07199	CENP-B	Gene_or_gene_product
+PMC2064697	37	uniprot:P07199	CENP-B	Gene_or_gene_product
+PMC2064697	38	uniprot:P46060	SD	Gene_or_gene_product
+PMC2064697	39	uniprot:P07199	CENP-B	Gene_or_gene_product
+PMC2064697	40	uniprot:P46060	SD	Gene_or_gene_product
+PMC2064697	41	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	41	uniprot:F4J9M5	Chr12	Gene_or_gene_product
+PMC2064697	41	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2064697	46	ncbitax:species:ncbi:41568	mum	Species
+PMC2064697	47	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2064697	49	ncbitax:species:ncbi:9606	human	Species
+PMC2064697	49	uazid:UA-CT-22	lymphocytes	CellType
+PMC2064697	49	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2064697	50	uniprot:P07199	centromere protein B	Gene_or_gene_product
+PMC2064697	50	uniprot:P07199	CENP-B	Gene_or_gene_product
+PMC2064697	51	uniprot:P07199	CENP-B	Gene_or_gene_product
+PMC2064697	52	uniprot:P07199	CENP-B	Gene_or_gene_product
+PMC2064697	54	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2064697	56	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	57	uniprot:P33197	ICD	Gene_or_gene_product
+PMC2064697	58	uniprot:UNRESOLVED ID	RNA polymerase II	Gene_or_gene_product
+PMC2064697	59	uniprot:UNRESOLVED ID	anti-RNA polymerase II	Gene_or_gene_product
+PMC2064697	60	uniprot:UNRESOLVED ID	RNA polymerase II	Gene_or_gene_product
+PMC2064697	60	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2064697	61	uniprot:UNRESOLVED ID	SAHFs excluded anti-RNA polymerase II	Gene_or_gene_product
+PMC2064697	64	uniprot:UNRESOLVED ID	Mock-	Gene_or_gene_product
+PMC2064697	64	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	64	uniprot:UNRESOLVED ID	anti-RNA polymerase II antibody	Gene_or_gene_product
+PMC2064697	64	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2064697	65	uniprot:UNRESOLVED ID	anti-RNA polymerase II	Gene_or_gene_product
+PMC2064697	66	uniprot:P46060	SD	Gene_or_gene_product
+PMC2064697	67	uniprot:Q9VIL0	BrU	Gene_or_gene_product
+PMC2064697	69	uniprot:A8W7M4	alpha-amanitin	Gene_or_gene_product
+PMC2064697	69	uniprot:UNRESOLVED ID	RNA polymerase II	Gene_or_gene_product
+PMC2064697	69	uniprot:P07998	RNase A	Gene_or_gene_product
+PMC2064697	70	ncbitax:species:ncbi:41568	mum	Species
+PMC2064697	72	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	72	uniprot:Q9VIL0	BrU	Gene_or_gene_product
+PMC2064697	74	uniprot:UNRESOLVED ID	SAHFs	Gene_or_gene_product
+PMC2064697	74	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2064697	76	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	76	uniprot:UNRESOLVED ID	DAPI-negative inter-SAHF regions	Gene_or_gene_product
+PMC2064697	77	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2064697	78	uniprot:UNRESOLVED ID	histone	Gene_or_gene_product
+PMC2064697	79	uniprot:UNRESOLVED ID	core histones	Gene_or_gene_product
+PMC2064697	79	uniprot:P01298	ph	Gene_or_gene_product
+PMC2064697	82	uniprot:P01298	ph	Gene_or_gene_product
+PMC2064697	82	uniprot:UNRESOLVED ID	anti-H3	Gene_or_gene_product
+PMC2064697	82	uniprot:UNRESOLVED ID	ph antibodies	Gene_or_gene_product
+PMC2064697	82	uniprot:Q54CD8	HeLa	CellType
+PMC2064697	83	uniprot:P01298	ph	Gene_or_gene_product
+PMC2064697	83	uniprot:UNRESOLVED ID	anti-H3	Gene_or_gene_product
+PMC2064697	83	uniprot:UNRESOLVED ID	ph antibodies	Gene_or_gene_product
+PMC2064697	83	uniprot:UNRESOLVED ID	histone	Gene_or_gene_product
+PMC2064697	84	uniprot:UNRESOLVED ID	anti-H2B	Gene_or_gene_product
+PMC2064697	84	uniprot:UNRESOLVED ID	histone	Gene_or_gene_product
+PMC2064697	84	uniprot:UNRESOLVED ID	mock-	Gene_or_gene_product
+PMC2064697	84	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	84	uniprot:Q54CD8	HeLa	CellType
+PMC2064697	86	uniprot:UNRESOLVED ID	Anti-H3	Gene_or_gene_product
+PMC2064697	88	uniprot:UNRESOLVED ID	histone	Gene_or_gene_product
+PMC2064697	89	uniprot:UNRESOLVED ID	Mock-	Gene_or_gene_product
+PMC2064697	89	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	89	ncbitax:species:ncbi:255564	rays	Species
+PMC2064697	89	uniprot:UNRESOLVED ID	antihistone antibodies	Gene_or_gene_product
+PMC2064697	89	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2064697	90	uniprot:Q54CD8	HeLa	CellType
+PMC2064697	92	ncbitax:species:ncbi:255564	rays	Species
+PMC2064697	94	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	95	ncbitax:species:ncbi:41568	mum	Species
+PMC2064697	105	uniprot:UNRESOLVED ID	mock-	Gene_or_gene_product
+PMC2064697	105	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	106	ncbitax:species:ncbi:9606	human	Species
+PMC2064697	109	uniprot:UNRESOLVED ID	core histones	Gene_or_gene_product
+PMC2064697	111	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	114	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2064697	115	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	115	uniprot:UNRESOLVED ID	serum	CellType
+PMC2064697	119	uniprot:UNRESOLVED ID	mock-	Gene_or_gene_product
+PMC2064697	119	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	121	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2064697	121	ncbitax:species:ncbi:9940	sheep	Species
+PMC2064697	122	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2064697	122	ncbitax:species:ncbi:9940	sheep	Species
+PMC2064697	125	uniprot:UNRESOLVED ID	histones	Gene_or_gene_product
+PMC2064697	127	ncbitax:species:ncbi:9940	sheep	Species
+PMC2064697	128	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	129	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	129	ncbitax:species:ncbi:9940	sheep	Species
+PMC2064697	130	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	130	uniprot:UNRESOLVED ID	serum	CellType
+PMC2064697	130	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2064697	130	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2064697	132	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	135	ncbitax:species:ncbi:9606	human	Species
+PMC2064697	135	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2064697	135	uniprot:UNRESOLVED ID	MRC-5	Gene_or_gene_product
+PMC2064697	135	uniprot:UNRESOLVED ID	IMR-90	Gene_or_gene_product
+PMC2064697	137	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	137	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	139	uniprot:P52564	MKK6	Gene_or_gene_product
+PMC2064697	139	uniprot:UNRESOLVED ID	MKK6EE	Gene_or_gene_product
+PMC2064697	139	uniprot:O75791	p38	Gene_or_gene_product
+PMC2064697	140	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	141	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	141	ncbitax:species:ncbi:9606	human	Species
+PMC2064697	141	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2064697	141	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	143	uniprot:UNRESOLVED ID	Mock-	Gene_or_gene_product
+PMC2064697	143	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	143	uniprot:UNRESOLVED ID	WI-38	Gene_or_gene_product
+PMC2064697	143	uniprot:UNRESOLVED ID	MRC-5	Gene_or_gene_product
+PMC2064697	143	uniprot:UNRESOLVED ID	IMR-90	Gene_or_gene_product
+PMC2064697	145	uniprot:UNRESOLVED ID	anti-H2B	Gene_or_gene_product
+PMC2064697	145	uniprot:UNRESOLVED ID	antiactin	Gene_or_gene_product
+PMC2064697	146	uniprot:UNRESOLVED ID	BrdU-	Gene_or_gene_product
+PMC2064697	146	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	147	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	147	uniprot:P52564	MKK6	Gene_or_gene_product
+PMC2064697	147	uniprot:UNRESOLVED ID	MKK6EE	Gene_or_gene_product
+PMC2064697	149	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2064697	151	uniprot:UNRESOLVED ID	BrdU-	Gene_or_gene_product
+PMC2064697	151	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	153	uniprot:UNRESOLVED ID	histone genes	Gene_or_gene_product
+PMC2064697	155	uniprot:P16402	HIST1H1D	Gene_or_gene_product
+PMC2064697	155	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2064697	157	uniprot:P16402	HIST1H1D	Gene_or_gene_product
+PMC2064697	157	uniprot:UNRESOLVED ID	serum	CellType
+PMC2064697	157	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	158	uniprot:UNRESOLVED ID	serum	CellType
+PMC2064697	158	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2064697	161	uniprot:UNRESOLVED ID	Mock-	Gene_or_gene_product
+PMC2064697	161	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	161	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2064697	161	uniprot:P16402	HIST1H1D	Gene_or_gene_product
+PMC2064697	161	uniprot:P04406	GAPDH	Gene_or_gene_product
+PMC2064697	161	uniprot:O00370	reverse transcriptase	Gene_or_gene_product
+PMC2064697	161	uniprot:P10266	RT	Gene_or_gene_product
+PMC2064697	162	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2064697	163	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	166	ncbitax:species:ncbi:41568	mum	Species
+PMC2064697	170	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	171	ncbitax:species:ncbi:31931	retrovirus	Species
+PMC2064697	171	uniprot:UNRESOLVED ID	weak long terminal repeat promoter	Gene_or_gene_product
+PMC2064697	171	uniprot:UNRESOLVED ID	EF1alpha promoter	Gene_or_gene_product
+PMC2064697	171	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	172	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	173	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	173	uniprot:UNRESOLVED ID	EF1alpha promoters	Gene_or_gene_product
+PMC2064697	176	ncbitax:species:ncbi:31931	retrovirus	Species
+PMC2064697	176	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	178	uniprot:UNRESOLVED ID	BrdU-	Gene_or_gene_product
+PMC2064697	178	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	179	ncbitax:species:ncbi:12305	CMV	Species
+PMC2064697	180	uniprot:UNRESOLVED ID	N-terminally EGFP	Gene_or_gene_product
+PMC2064697	182	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2064697	182	uniprot:P69208	HA	Gene_or_gene_product
+PMC2064697	184	uniprot:UNRESOLVED ID	EGFP-H1 fusion proteins	Gene_or_gene_product
+PMC2064697	184	uniprot:UNRESOLVED ID	N fusions 1 and 2	Gene_or_gene_product
+PMC2064697	184	uniprot:O00244	HA-H1	Gene_or_gene_product
+PMC2064697	185	uniprot:UNRESOLVED ID	N fusions 1 and 2	Gene_or_gene_product
+PMC2064697	185	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2064697	186	uniprot:UNRESOLVED ID	N-terminally EGFP	Gene_or_gene_product
+PMC2064697	189	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2064697	189	uniprot:UNRESOLVED ID	anti-HA antibody	Gene_or_gene_product
+PMC2064697	189	uniprot:P69208	HA	Gene_or_gene_product
+PMC2064697	189	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2064697	193	ncbitax:species:ncbi:9940	sheep	Species
+PMC2064697	195	uniprot:P46060	SD	Gene_or_gene_product
+PMC2064697	198	uniprot:UNRESOLVED ID	antiactin	Gene_or_gene_product
+PMC2064697	200	uniprot:UNRESOLVED ID	BrdU-	Gene_or_gene_product
+PMC2064697	200	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	201	ncbitax:species:ncbi:41568	mum	Species
+PMC2064697	204	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2064697	204	uniprot:P12004	cyclin	Gene_or_gene_product
+PMC2064697	204	uniprot:P38936	p21	Gene_or_gene_product
+PMC2064697	204	uniprot:P04637	p53	Gene_or_gene_product
+PMC2064697	205	uniprot:O00244	HA-H1	Gene_or_gene_product
+PMC2064697	208	uniprot:Q77JX3	p16	Gene_or_gene_product
+PMC2064697	208	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	209	uniprot:P69208	HA	Gene_or_gene_product
+PMC2064697	209	uniprot:P52926	HMGA2	Gene_or_gene_product
+PMC2064697	209	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	211	uniprot:P52926	HMGA2	Gene_or_gene_product
+PMC2064697	213	uniprot:P52926	HMGA2	Gene_or_gene_product
+PMC2064697	214	uniprot:P52926	HMGA2	Gene_or_gene_product
+PMC2064697	214	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	215	uniprot:UNRESOLVED ID	macroH2A	Gene_or_gene_product
+PMC2064697	215	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	216	uniprot:P69208	HA	Gene_or_gene_product
+PMC2064697	216	uniprot:P52926	HMGA2	Gene_or_gene_product
+PMC2064697	216	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	217	uniprot:UNRESOLVED ID	mock-	Gene_or_gene_product
+PMC2064697	217	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	218	ncbitax:species:ncbi:9606	human	Species
+PMC2064697	218	uniprot:P52926	HMGA2	Gene_or_gene_product
+PMC2064697	219	uniprot:UNRESOLVED ID	mock-	Gene_or_gene_product
+PMC2064697	219	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	220	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2064697	222	ncbitax:species:ncbi:12305	CMV	Species
+PMC2064697	223	ncbitax:species:ncbi:9940	sheep	Species
+PMC2064697	224	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	225	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	227	uniprot:P46060	SD	Gene_or_gene_product
+PMC2064697	229	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	230	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2064697	232	uniprot:P52926	HMGA2	Gene_or_gene_product
+PMC2064697	232	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	233	uniprot:UNRESOLVED ID	histone H1-free chromatin	Gene_or_gene_product
+PMC2064697	234	uniprot:P52926	HMGA2	Gene_or_gene_product
+PMC2064697	234	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	235	ncbitax:species:ncbi:41568	mum	Species
+PMC2064697	236	uniprot:UNRESOLVED ID	macroH2A	Gene_or_gene_product
+PMC2064697	236	uniprot:P52926	HMGA2	Gene_or_gene_product
+PMC2064697	236	uniprot:P69208	HA	Gene_or_gene_product
+PMC2064697	236	uniprot:UNRESOLVED ID	HA-HMGA2	Gene_or_gene_product
+PMC2064697	236	uniprot:Q56704	FLAG	Species
+PMC2064697	237	uniprot:UNRESOLVED ID	HA-HMGA2	Gene_or_gene_product
+PMC2064697	237	uniprot:UNRESOLVED ID	macroH2A-FLAG	Gene_or_gene_product
+PMC2064697	237	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	238	uniprot:UNRESOLVED ID	HA-HMGA2	Gene_or_gene_product
+PMC2064697	238	uniprot:UNRESOLVED ID	macroH2A-FLAG	Gene_or_gene_product
+PMC2064697	239	uniprot:UNRESOLVED ID	HA-HMGA2	Gene_or_gene_product
+PMC2064697	239	uniprot:UNRESOLVED ID	macroH2A-FLAG	Gene_or_gene_product
+PMC2064697	239	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	240	uniprot:P52926	HMGA2	Gene_or_gene_product
+PMC2064697	240	uniprot:UNRESOLVED ID	macroH2A	Gene_or_gene_product
+PMC2064697	240	uniprot:UNRESOLVED ID	HA-HMGA2	Gene_or_gene_product
+PMC2064697	240	uniprot:UNRESOLVED ID	macroH2A-FLAG	Gene_or_gene_product
+PMC2064697	240	ncbitax:species:ncbi:31931	retrovirus	Species
+PMC2064697	240	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	241	uniprot:UNRESOLVED ID	HA-HMGA2	Gene_or_gene_product
+PMC2064697	241	uniprot:UNRESOLVED ID	N fusion 2	Gene_or_gene_product
+PMC2064697	241	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	242	uniprot:UNRESOLVED ID	HA-HMGA2	Gene_or_gene_product
+PMC2064697	242	uniprot:UNRESOLVED ID	N fusion 1	Gene_or_gene_product
+PMC2064697	242	uniprot:O00244	HA-H1	Gene_or_gene_product
+PMC2064697	242	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	243	uniprot:UNRESOLVED ID	HA-HMGA2	Gene_or_gene_product
+PMC2064697	243	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	244	uniprot:UNRESOLVED ID	HA-HMGA2	Gene_or_gene_product
+PMC2064697	244	uniprot:UNRESOLVED ID	N fusion 2	Gene_or_gene_product
+PMC2064697	244	uniprot:Q77JX3	p16	Gene_or_gene_product
+PMC2064697	245	uniprot:P52926	HMGA2	Gene_or_gene_product
+PMC2064697	247	uniprot:UNRESOLVED ID	N-terminally EGFP	Gene_or_gene_product
+PMC2064697	247	uniprot:Q77JX3	p16	Gene_or_gene_product
+PMC2064697	248	uniprot:Q77JX3	p16	Gene_or_gene_product
+PMC2064697	249	uniprot:P52926	HMGA2	Gene_or_gene_product
+PMC2064697	249	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	255	uniprot:UNRESOLVED ID	DAPI	Gene_or_gene_product
+PMC2064697	255	uniprot:UNRESOLVED ID	RNA polymerase II	Gene_or_gene_product
+PMC2064697	256	uniprot:UNRESOLVED ID	DAPI-negative regions	Gene_or_gene_product
+PMC2064697	256	uniprot:P33197	ICD	Gene_or_gene_product
+PMC2064697	261	uniprot:UNRESOLVED ID	RNA polymerase II	Gene_or_gene_product
+PMC2064697	262	uniprot:UNRESOLVED ID	RNA polymerase II	Gene_or_gene_product
+PMC2064697	262	uniprot:UNRESOLVED ID	RNA transcripts	Gene_or_gene_product
+PMC2064697	263	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	267	uniprot:UNRESOLVED ID	SAHFs	Gene_or_gene_product
+PMC2064697	268	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	269	uniprot:UNRESOLVED ID	histone	Gene_or_gene_product
+PMC2064697	274	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	276	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	277	uniprot:Q77JX3	p16	Gene_or_gene_product
+PMC2064697	277	uniprot:O00244	HA-H1	Gene_or_gene_product
+PMC2064697	280	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	281	uniprot:UNRESOLVED ID	neuroblastoma	CellType
+PMC2064697	284	uniprot:UNRESOLVED ID	stem	CellType
+PMC2064697	287	uniprot:UNRESOLVED ID	histone proteins	Gene_or_gene_product
+PMC2064697	288	uniprot:UNRESOLVED ID	core histones	Gene_or_gene_product
+PMC2064697	288	uniprot:O96017	Rad53	Gene_or_gene_product
+PMC2064697	288	ncbitax:species:ncbi:4932	yeast	Species
+PMC2064697	289	uniprot:O96017	rad53	Gene_or_gene_product
+PMC2064697	291	ncbitax:species:ncbi:255564	rays	Species
+PMC2064697	291	uniprot:P99999	cytochrome c	Gene_or_gene_product
+PMC2064697	291	uniprot:O01382	caspase	Gene_or_gene_product
+PMC2064697	292	uazid:UA-ORG-77	balance	Organ
+PMC2064697	292	uniprot:P52926	HMGA2	Gene_or_gene_product
+PMC2064697	292	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	295	uniprot:UNRESOLVED ID	histone H1-chromatin	Gene_or_gene_product
+PMC2064697	296	uniprot:UNRESOLVED ID	HMG proteins	Gene_or_gene_product
+PMC2064697	296	uniprot:P34136	HMGB	Gene_or_gene_product
+PMC2064697	296	uniprot:UNRESOLVED ID	HMGN	Gene_or_gene_product
+PMC2064697	297	uniprot:UNRESOLVED ID	HMG proteins	Gene_or_gene_product
+PMC2064697	298	uniprot:UNRESOLVED ID	HMG proteins	Gene_or_gene_product
+PMC2064697	300	uniprot:P52926	HMGA2	Gene_or_gene_product
+PMC2064697	300	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	300	uazid:UA-ORG-77	balance	Organ
+PMC2064697	301	uazid:UA-ORG-77	balance	Organ
+PMC2064697	302	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	307	uniprot:P52926	HMGA2	Gene_or_gene_product
+PMC2064697	307	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	309	uniprot:P52926	HMGA2	Gene_or_gene_product
+PMC2064697	310	uniprot:P52926	HMGA2	Gene_or_gene_product
+PMC2064697	310	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	311	uazid:UA-ORG-77	balance	Organ
+PMC2064697	311	uniprot:P52926	HMGA2	Gene_or_gene_product
+PMC2064697	312	uniprot:UNRESOLVED ID	N fusion 2	Gene_or_gene_product
+PMC2064697	312	uniprot:UNRESOLVED ID	HA-HMGA2	Gene_or_gene_product
+PMC2064697	312	uniprot:Q77JX3	p16	Gene_or_gene_product
+PMC2064697	313	uniprot:Q77JX3	p16	Gene_or_gene_product
+PMC2064697	315	ncbitax:species:ncbi:9606	human	Species
+PMC2064697	315	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2064697	315	uniprot:UNRESOLVED ID	MRC-5	Gene_or_gene_product
+PMC2064697	315	uniprot:UNRESOLVED ID	IMR-90	Gene_or_gene_product
+PMC2064697	317	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2064697	322	uniprot:UNRESOLVED ID	MKK6EE cDNA	Gene_or_gene_product
+PMC2064697	323	uniprot:UNRESOLVED ID	MacroH2A cDNA	Gene_or_gene_product
+PMC2064697	324	uniprot:UNRESOLVED ID	EGFP	Gene_or_gene_product
+PMC2064697	324	uniprot:UNRESOLVED ID	EGFP-Leu-Glu-Ala-Ala-Ala-Ile-Gly-Ser-H1	Gene_or_gene_product
+PMC2064697	324	uniprot:UNRESOLVED ID	N fusion 1	Gene_or_gene_product
+PMC2064697	324	uniprot:UNRESOLVED ID	EGFP-Pro-Glu-Phe-Thr-H1	Gene_or_gene_product
+PMC2064697	324	uniprot:UNRESOLVED ID	N fusion 2	Gene_or_gene_product
+PMC2064697	324	uniprot:UNRESOLVED ID	H1-Pro-Glu-Phe-Thr-EGFP	Gene_or_gene_product
+PMC2064697	325	uniprot:UNRESOLVED ID	anti-RNA polymerase II	Gene_or_gene_product
+PMC2064697	325	uniprot:UNRESOLVED ID	8WG16	Gene_or_gene_product
+PMC2064697	325	uniprot:UNRESOLVED ID	anticyclin A	Gene_or_gene_product
+PMC2064697	325	uniprot:UNRESOLVED ID	anti-p16	Gene_or_gene_product
+PMC2064697	325	uniprot:UNRESOLVED ID	anti-p21	Gene_or_gene_product
+PMC2064697	325	uniprot:UNRESOLVED ID	anti-p53	Gene_or_gene_product
+PMC2064697	325	uniprot:UNRESOLVED ID	Bp53-12	Gene_or_gene_product
+PMC2064697	325	uniprot:O75367	macroH2A1	Gene_or_gene_product
+PMC2064697	325	uniprot:UNRESOLVED ID	antiactin	Gene_or_gene_product
+PMC2064697	325	ncbitax:species:ncbi:9940	sheep	Species
+PMC2064697	325	uniprot:P04637	p53	Gene_or_gene_product
+PMC2064697	325	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2064697	327	uniprot:UNRESOLVED ID	milk	CellType
+PMC2064697	329	uazid:UA-ORG-506	lens	Organ
+PMC2064697	329	uniprot:UNRESOLVED ID	charge-coupled device camera	Gene_or_gene_product
+PMC2064697	329	uniprot:UNRESOLVED ID	CH350	Gene_or_gene_product
+PMC2064697	329	uniprot:UNRESOLVED ID	Photometrics	Gene_or_gene_product
+PMC2064697	330	uniprot:UNRESOLVED ID	SoftWoRx	Gene_or_gene_product
+PMC2064697	330	uniprot:UNRESOLVED ID	Photoshop	Gene_or_gene_product
+PMC2064697	332	uniprot:UNRESOLVED ID	TB	Gene_or_gene_product
+PMC2064697	333	uniprot:P07998	RNase A	Gene_or_gene_product
+PMC2064697	334	uniprot:P53312	LSC2	Gene_or_gene_product
+PMC2064697	336	uniprot:P01298	pH	Gene_or_gene_product
+PMC2064697	336	uniprot:P10265	protease	Gene_or_gene_product
+PMC2064697	337	uniprot:P01298	pH	Gene_or_gene_product
+PMC2064697	337	uniprot:UNRESOLVED ID	mM MgCl2, 0.5 mM EGTA	Gene_or_gene_product
+PMC2064697	337	ncbitax:species:ncbi:41568	muM	Species
+PMC2064697	337	uniprot:P53007	CTP	Gene_or_gene_product
+PMC2064697	337	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2064697	337	uniprot:O64392	RNase	Gene_or_gene_product
+PMC2064697	337	uniprot:P10265	protease	Gene_or_gene_product
+PMC2064697	338	uniprot:Q9VIL0	BrU	Gene_or_gene_product
+PMC2064697	339	uniprot:UNRESOLVED ID	TB	Gene_or_gene_product
+PMC2064697	341	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2064697	342	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2064697	342	uniprot:UNRESOLVED ID	Cy-3	Gene_or_gene_product
+PMC2064697	342	uniprot:UNRESOLVED ID	StarFISH	Gene_or_gene_product
+PMC2064697	342	uniprot:UNRESOLVED ID	Cambio	Gene_or_gene_product
+PMC2064697	343	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2064697	344	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2064697	345	uniprot:UNRESOLVED ID	40 mM Tris-HCl	Gene_or_gene_product
+PMC2064697	345	uniprot:P01298	pH	Gene_or_gene_product
+PMC2064697	345	uniprot:P10265	protease	Gene_or_gene_product
+PMC2064697	346	uniprot:UNRESOLVED ID	RasG12V	Gene_or_gene_product
+PMC2064697	346	uniprot:UNRESOLVED ID	needle	CellType
+PMC2064697	349	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2064697	349	uniprot:P01298	pH	Gene_or_gene_product
+PMC2064697	350	uniprot:UNRESOLVED ID	histones	Gene_or_gene_product
+PMC2064697	352	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2064697	353	uniprot:P01298	pH	Gene_or_gene_product
+PMC2064697	353	uniprot:P10265	protease	Gene_or_gene_product
+PMC2064697	354	uniprot:P12004	cyclin	Gene_or_gene_product
+PMC2064697	354	uniprot:Q77JX3	p16	Gene_or_gene_product
+PMC2064697	354	uniprot:P38936	p21	Gene_or_gene_product
+PMC2064697	354	uniprot:P04637	p53	Gene_or_gene_product
+PMC2064697	354	uniprot:UNRESOLVED ID	P-p53	Gene_or_gene_product
+PMC2064697	355	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2064697	355	uniprot:UNRESOLVED ID	anti-H1	Gene_or_gene_product
+PMC2064697	355	uniprot:P52926	HMGA2	Gene_or_gene_product
+PMC2064697	356	uniprot:P70059	trypsin	Gene_or_gene_product
+PMC2064697	357	uniprot:P43034	MDS	Gene_or_gene_product
+PMC2064697	360	uniprot:P16402	HIST1H1D	Gene_or_gene_product
+PMC2064697	360	uniprot:UNRESOLVED ID	5'-CAAGCCTAGGAAGCCTGCTG-3' and 5'-AAAGGGGAACGTCCCGCCAG-3'	Gene_or_gene_product
+PMC2064697	360	uniprot:P04406	GAPDH	Gene_or_gene_product
+PMC2064697	360	uniprot:UNRESOLVED ID	5'-ATTTGGTCGTATTGGGCGCCTGGTC-3' and 5'-TTGTCATACTTCTCATGGTTCACAC-3'	Gene_or_gene_product
+PMC2064697	361	uniprot:P01298	pH	Gene_or_gene_product
+PMC2064697	362	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2064697	363	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2064697	364	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2064697	365	ncbitax:species:ncbi:9940	sheep	Species
+PMC2064697	366	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2064697	368	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2064697	369	uniprot:UNRESOLVED ID	HA-HMGA2	Gene_or_gene_product
+PMC2064697	370	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2064697	371	uniprot:UNRESOLVED ID	SAHF	Gene_or_gene_product
+PMC2064697	372	uniprot:UNRESOLVED ID	http://www.jcb.org/cgi/content/full/jcb.200604005/DC1	Gene_or_gene_product
+PMC2064697	373	ncbitax:species:ncbi:9606	human	Species
+PMC2064697	373	uniprot:UNRESOLVED ID	macroH2A cDNA	Gene_or_gene_product
+PMC2064697	373	uniprot:UNRESOLVED ID	H. Masumoto	Gene_or_gene_product
+PMC2064697	373	uniprot:UNRESOLVED ID	anti-CENP-B antibody	Gene_or_gene_product
+PMC2064697	373	uniprot:UNRESOLVED ID	K. Ohsumi	Gene_or_gene_product
+PMC2064697	373	ncbitax:species:ncbi:9986	rabbit	Species

@@ -1,0 +1,524 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2978746	0	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	1	uniprot:UNRESOLVED ID	mammary epithelial cell	CellType
+PMC2978746	4	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	4	uniprot:UNRESOLVED ID	MCF10A-Ras	Gene_or_gene_product
+PMC2978746	5	uniprot:UNRESOLVED ID	MCF10A-Ras	Gene_or_gene_product
+PMC2978746	5	uniprot:O05982	cdk	Gene_or_gene_product
+PMC2978746	6	uniprot:P24941	cdk2	Gene_or_gene_product
+PMC2978746	7	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	7	uniprot:UNRESOLVED ID	MCF10A-Ras	Gene_or_gene_product
+PMC2978746	9	uazid:UA-CT-100028	mouse embryonic fibroblasts	CellType
+PMC2978746	10	uniprot:P05231	IL6	Gene_or_gene_product
+PMC2978746	11	uniprot:P05231	IL6	Gene_or_gene_product
+PMC2978746	11	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2978746	12	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	15	uazid:UA-ORG-116	breast	Organ
+PMC2978746	16	ncbitax:species:ncbi:9606	human	Species
+PMC2978746	16	uniprot:UNRESOLVED ID	mammary epithelial cell	CellType
+PMC2978746	16	uniprot:P84628	HMEC	Gene_or_gene_product
+PMC2978746	21	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2978746	21	uniprot:Q15125	EBP	Gene_or_gene_product
+PMC2978746	21	uniprot:UNRESOLVED ID	basic leucine-zipper transcription factors	Gene_or_gene_product
+PMC2978746	23	ncbitax:species:ncbi:9606	humans	Species
+PMC2978746	24	uniprot:UNRESOLVED ID	EBPbeta2	Gene_or_gene_product
+PMC2978746	25	uniprot:UNRESOLVED ID	EBPbeta3	Gene_or_gene_product
+PMC2978746	26	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	26	uniprot:UNRESOLVED ID	EBPbeta2	Gene_or_gene_product
+PMC2978746	27	uniprot:UNRESOLVED ID	EBPbeta3	Gene_or_gene_product
+PMC2978746	28	ncbitax:species:ncbi:10090	mouse	Species
+PMC2978746	28	uazid:UA-ORG-360	gland	Organ
+PMC2978746	29	uniprot:O89094	mice	Species
+PMC2978746	29	uniprot:Q9NRJ3	MEC	Gene_or_gene_product
+PMC2978746	32	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	33	uniprot:UNRESOLVED ID	EBPbeta1 and -2	Gene_or_gene_product
+PMC2978746	34	uniprot:UNRESOLVED ID	EBPbeta1 and -2	Gene_or_gene_product
+PMC2978746	35	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	35	uniprot:UNRESOLVED ID	EBPbeta2	Gene_or_gene_product
+PMC2978746	35	uniprot:UNRESOLVED ID	c-Myb	Gene_or_gene_product
+PMC2978746	35	uniprot:Q9W568	SWI	Gene_or_gene_product
+PMC2978746	36	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	36	uniprot:P55854	SUMO-2	Gene_or_gene_product
+PMC2978746	38	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	38	uniprot:UNRESOLVED ID	EBPbeta2	Gene_or_gene_product
+PMC2978746	39	ncbitax:species:ncbi:9606	human	Species
+PMC2978746	39	uazid:UA-ORG-116	breast	Organ
+PMC2978746	41	uniprot:UNRESOLVED ID	EBPbeta2	Gene_or_gene_product
+PMC2978746	41	uazid:UA-ORG-116	breast	Organ
+PMC2978746	41	uniprot:UNRESOLVED ID	p52-C	Gene_or_gene_product
+PMC2978746	41	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	43	uniprot:UNRESOLVED ID	EBPbeta2	Gene_or_gene_product
+PMC2978746	43	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	43	uniprot:P12004	cyclin	Gene_or_gene_product
+PMC2978746	43	uniprot:Q9HBJ0	PLAC1	Gene_or_gene_product
+PMC2978746	43	uazid:UA-ORG-116	breast	Organ
+PMC2978746	48	uniprot:UNRESOLVED ID	v-Ha-ras	Gene_or_gene_product
+PMC2978746	48	ncbitax:species:ncbi:10090	transgenic mice	Species
+PMC2978746	48	uazid:UA-ORG-882	skin	Organ
+PMC2978746	48	uniprot:O89094	mice	Species
+PMC2978746	51	uniprot:P05231	interleukin-6	Gene_or_gene_product
+PMC2978746	51	uniprot:P05231	IL6	Gene_or_gene_product
+PMC2978746	51	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2978746	53	ncbitax:species:ncbi:9606	humans	Species
+PMC2978746	53	uniprot:Q2G0B1	rat	Species
+PMC2978746	53	ncbitax:species:ncbi:10090	mouse	Species
+PMC2978746	54	uniprot:P12004	cyclin	Gene_or_gene_product
+PMC2978746	54	uniprot:P24941	cdk2	Gene_or_gene_product
+PMC2978746	55	uniprot:UNRESOLVED ID	EBPbeta2	Gene_or_gene_product
+PMC2978746	55	uniprot:P11831	serum response factor	Gene_or_gene_product
+PMC2978746	55	uniprot:UNRESOLVED ID	serum	CellType
+PMC2978746	55	uniprot:P28482	Erk-2	Gene_or_gene_product
+PMC2978746	56	uniprot:UNRESOLVED ID	p52-C	Gene_or_gene_product
+PMC2978746	56	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	58	uniprot:UNRESOLVED ID	p52-C	Gene_or_gene_product
+PMC2978746	58	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	59	uniprot:O05982	cdk	Gene_or_gene_product
+PMC2978746	59	uniprot:UNRESOLVED ID	p52-C	Gene_or_gene_product
+PMC2978746	59	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	60	uniprot:P24941	cdk2	Gene_or_gene_product
+PMC2978746	61	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	61	uniprot:UNRESOLVED ID	p52-C	Gene_or_gene_product
+PMC2978746	62	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	63	uniprot:P05231	IL6	Gene_or_gene_product
+PMC2978746	63	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2978746	64	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	64	uniprot:P05231	IL6	Gene_or_gene_product
+PMC2978746	64	ncbitax:species:ncbi:9606	human	Species
+PMC2978746	64	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2978746	64	uniprot:UNRESOLVED ID	WI-38	Gene_or_gene_product
+PMC2978746	65	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	66	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	66	uniprot:P05231	IL6	Gene_or_gene_product
+PMC2978746	69	uniprot:Q9NRJ3	MEC	Gene_or_gene_product
+PMC2978746	71	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	72	uniprot:UNRESOLVED ID	T7-tagged-C	Gene_or_gene_product
+PMC2978746	72	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	72	uniprot:UNRESOLVED ID	LZRS-T7-C	Gene_or_gene_product
+PMC2978746	72	uniprot:UNRESOLVED ID	EBPbeta1-IRES-eGFP	Gene_or_gene_product
+PMC2978746	73	uniprot:P9WQ36	FACS	Gene_or_gene_product
+PMC2978746	74	uniprot:UNRESOLVED ID	p52-T7-C	Gene_or_gene_product
+PMC2978746	74	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	75	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	75	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	76	uniprot:UNRESOLVED ID	p52-T7-C	Gene_or_gene_product
+PMC2978746	76	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	80	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	80	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	80	uniprot:UNRESOLVED ID	MG132	Gene_or_gene_product
+PMC2978746	81	uniprot:UNRESOLVED ID	MG132	Gene_or_gene_product
+PMC2978746	81	uniprot:UNRESOLVED ID	p52-T7-CEBPbeta1	Gene_or_gene_product
+PMC2978746	82	uniprot:UNRESOLVED ID	lactacystin	Gene_or_gene_product
+PMC2978746	83	uniprot:UNRESOLVED ID	MG132	Gene_or_gene_product
+PMC2978746	83	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	84	uniprot:P0CG47	ubiquitin	Gene_or_gene_product
+PMC2978746	85	uniprot:UNRESOLVED ID	MG132	Gene_or_gene_product
+PMC2978746	86	uniprot:P0CG47	Ubiquitin	Gene_or_gene_product
+PMC2978746	86	uniprot:UNRESOLVED ID	MCF10A-Ras-C	Gene_or_gene_product
+PMC2978746	86	uniprot:UNRESOLVED ID	MG132	Gene_or_gene_product
+PMC2978746	87	uniprot:P0CG47	ubiquitin	Gene_or_gene_product
+PMC2978746	88	uazid:UA-ORG-116	breast	Organ
+PMC2978746	89	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	89	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	89	uazid:UA-ORG-116	breast	Organ
+PMC2978746	90	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	90	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	90	uniprot:UNRESOLVED ID	p52-T7-C	Gene_or_gene_product
+PMC2978746	90	uniprot:UNRESOLVED ID	MDA231-C	Gene_or_gene_product
+PMC2978746	90	uniprot:UNRESOLVED ID	MDA435-C	Gene_or_gene_product
+PMC2978746	90	uniprot:UNRESOLVED ID	MG132	Gene_or_gene_product
+PMC2978746	91	uniprot:O05982	cdk	Gene_or_gene_product
+PMC2978746	91	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	91	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	94	uniprot:O05982	cdk	Gene_or_gene_product
+PMC2978746	94	uniprot:UNRESOLVED ID	p52-T7-C	Gene_or_gene_product
+PMC2978746	94	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	95	uniprot:P24941	cdk2	Gene_or_gene_product
+PMC2978746	96	uniprot:P24941	cdk2	Gene_or_gene_product
+PMC2978746	98	uniprot:UNRESOLVED ID	p52-T7-C	Gene_or_gene_product
+PMC2978746	98	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	99	uniprot:UNRESOLVED ID	p52-T7-C/EBPbeta1	Gene_or_gene_product
+PMC2978746	100	uniprot:P24941	cdk2	Gene_or_gene_product
+PMC2978746	101	uniprot:P24941	cdk2	Gene_or_gene_product
+PMC2978746	102	uniprot:UNRESOLVED ID	LZRS-T7-C	Gene_or_gene_product
+PMC2978746	102	uniprot:UNRESOLVED ID	EBPbeta1T235A-IRES-eGFP	Gene_or_gene_product
+PMC2978746	102	ncbitax:species:ncbi:31931	retrovirus	Species
+PMC2978746	103	uniprot:P9WQ36	FACS	Gene_or_gene_product
+PMC2978746	104	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	104	uniprot:P24941	cdk2	Gene_or_gene_product
+PMC2978746	104	uniprot:UNRESOLVED ID	p52-T7-C	Gene_or_gene_product
+PMC2978746	104	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	105	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	105	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	105	uniprot:UNRESOLVED ID	EBPbeta1T235A	Gene_or_gene_product
+PMC2978746	106	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	106	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	106	uniprot:UNRESOLVED ID	EBPbeta1T235A	Gene_or_gene_product
+PMC2978746	106	uniprot:UNRESOLVED ID	p14ARF/p15INK4B/p16INK4A locus	Gene_or_gene_product
+PMC2978746	107	uniprot:P42771	p16INK4A	Gene_or_gene_product
+PMC2978746	108	uniprot:P42772	p15INK4B	Gene_or_gene_product
+PMC2978746	109	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	109	uniprot:UNRESOLVED ID	WI-38 normal HDFs	Gene_or_gene_product
+PMC2978746	110	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2978746	113	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	115	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	116	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	117	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2978746	118	uniprot:UNRESOLVED ID	LZRS-T7-C	Gene_or_gene_product
+PMC2978746	118	uniprot:UNRESOLVED ID	EBPbeta1-IRES-eGFP	Gene_or_gene_product
+PMC2978746	118	uniprot:UNRESOLVED ID	LZRS-eGFP	Gene_or_gene_product
+PMC2978746	119	uniprot:UNRESOLVED ID	WI-38-T7-C	Gene_or_gene_product
+PMC2978746	119	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	119	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	120	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	120	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	121	uniprot:UNRESOLVED ID	WI-38-T7-C	Gene_or_gene_product
+PMC2978746	121	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	122	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	122	uniprot:P05231	IL6	Gene_or_gene_product
+PMC2978746	122	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2978746	123	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2978746	123	uniprot:UNRESOLVED ID	HDFs	Gene_or_gene_product
+PMC2978746	124	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2978746	124	uniprot:P05231	IL6	Gene_or_gene_product
+PMC2978746	125	uniprot:P05231	IL6	Gene_or_gene_product
+PMC2978746	126	uniprot:UNRESOLVED ID	LZRS-T7-C	Gene_or_gene_product
+PMC2978746	126	uniprot:UNRESOLVED ID	EBPbeta1-IRES-eGFP	Gene_or_gene_product
+PMC2978746	126	uniprot:UNRESOLVED ID	EBPbeta2-IRES-eGFP	Gene_or_gene_product
+PMC2978746	126	uniprot:UNRESOLVED ID	LZRS-GFP	Gene_or_gene_product
+PMC2978746	126	uniprot:UNRESOLVED ID	pBABE-Ras	Gene_or_gene_product
+PMC2978746	127	uniprot:P05231	IL6	Gene_or_gene_product
+PMC2978746	128	uniprot:P05231	IL6	Gene_or_gene_product
+PMC2978746	129	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	129	uniprot:UNRESOLVED ID	EBPbeta2	Gene_or_gene_product
+PMC2978746	129	uniprot:P05231	IL6	Gene_or_gene_product
+PMC2978746	129	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	129	uniprot:UNRESOLVED ID	EBPbeta2 protein	Gene_or_gene_product
+PMC2978746	130	uniprot:UNRESOLVED ID	EBPbeta2	Gene_or_gene_product
+PMC2978746	130	uniprot:UNRESOLVED ID	WI-38 HDFs	Gene_or_gene_product
+PMC2978746	131	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	131	uniprot:P05231	IL6	Gene_or_gene_product
+PMC2978746	131	uniprot:UNRESOLVED ID	EBPbeta2	Gene_or_gene_product
+PMC2978746	132	uniprot:UNRESOLVED ID	LZRS-T7-C	Gene_or_gene_product
+PMC2978746	132	uniprot:UNRESOLVED ID	EBPbeta1-IRES-eGFP	Gene_or_gene_product
+PMC2978746	132	uniprot:UNRESOLVED ID	EBPbeta2-IRES-eGFP	Gene_or_gene_product
+PMC2978746	132	uniprot:UNRESOLVED ID	LZRS-GFP	Gene_or_gene_product
+PMC2978746	132	uniprot:UNRESOLVED ID	pBABE-Ras	Gene_or_gene_product
+PMC2978746	132	uniprot:P16278	beta-galactosidase	Gene_or_gene_product
+PMC2978746	135	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	135	uniprot:UNRESOLVED ID	EBPbeta1-	Gene_or_gene_product
+PMC2978746	137	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	137	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	138	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	138	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	138	uniprot:UNRESOLVED ID	EBPbeta2	Gene_or_gene_product
+PMC2978746	139	uniprot:P42771	p16INK4A	Gene_or_gene_product
+PMC2978746	140	uniprot:UNRESOLVED ID	LZRS-T7-C	Gene_or_gene_product
+PMC2978746	140	uniprot:UNRESOLVED ID	EBPbeta1-IRES-eGFP	Gene_or_gene_product
+PMC2978746	140	uniprot:UNRESOLVED ID	EBPbeta2-IRES-eGFP	Gene_or_gene_product
+PMC2978746	140	uniprot:UNRESOLVED ID	LZRS-GFP	Gene_or_gene_product
+PMC2978746	140	uniprot:P42771	p16INK4A	Gene_or_gene_product
+PMC2978746	141	uniprot:UNRESOLVED ID	p16INK2A	Gene_or_gene_product
+PMC2978746	144	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	144	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	144	uniprot:UNRESOLVED ID	p52-T7-C	Gene_or_gene_product
+PMC2978746	145	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	145	uniprot:P0CG47	ubiquitin	Gene_or_gene_product
+PMC2978746	146	uniprot:UNRESOLVED ID	p52-C	Gene_or_gene_product
+PMC2978746	146	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	146	uazid:UA-ORG-116	breast	Organ
+PMC2978746	147	uazid:UA-ORG-116	breast	Organ
+PMC2978746	148	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	148	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	148	uazid:UA-ORG-116	breast	Organ
+PMC2978746	149	uniprot:UNRESOLVED ID	p52-T7-C	Gene_or_gene_product
+PMC2978746	149	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	150	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	150	uazid:UA-ORG-116	breast	Organ
+PMC2978746	152	uniprot:UNRESOLVED ID	p52-C	Gene_or_gene_product
+PMC2978746	152	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	153	uniprot:O05982	cdk	Gene_or_gene_product
+PMC2978746	153	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	154	uniprot:P24941	cdk2	Gene_or_gene_product
+PMC2978746	155	uniprot:P24941	cdk2	Gene_or_gene_product
+PMC2978746	156	uniprot:UNRESOLVED ID	cdk family	Gene_or_gene_product
+PMC2978746	156	uniprot:P24941	cdk2	Gene_or_gene_product
+PMC2978746	157	uniprot:P24941	cdk2	Gene_or_gene_product
+PMC2978746	159	uniprot:P24941	cdk2	Gene_or_gene_product
+PMC2978746	160	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	160	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	161	uniprot:P0CG47	ubiquitin	Gene_or_gene_product
+PMC2978746	163	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2978746	163	uniprot:UNRESOLVED ID	WI-38 HDFs	Gene_or_gene_product
+PMC2978746	163	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2978746	164	uniprot:P06400	pRB	Gene_or_gene_product
+PMC2978746	165	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2978746	167	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	168	uniprot:P24941	cdk2	Gene_or_gene_product
+PMC2978746	168	uniprot:O05982	cdk	Gene_or_gene_product
+PMC2978746	169	uniprot:P05231	IL6	Gene_or_gene_product
+PMC2978746	170	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	170	uniprot:P05231	IL6	Gene_or_gene_product
+PMC2978746	171	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	171	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2978746	173	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2978746	174	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	174	uniprot:P05231	IL6	Gene_or_gene_product
+PMC2978746	176	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2978746	176	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	176	uniprot:P05231	IL6	Gene_or_gene_product
+PMC2978746	178	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	178	uniprot:P54829	step	Gene_or_gene_product
+PMC2978746	180	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	182	uniprot:UNRESOLVED ID	p52-C	Gene_or_gene_product
+PMC2978746	182	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	182	uazid:UA-ORG-116	breast	Organ
+PMC2978746	183	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	185	uniprot:P24941	cdk2	Gene_or_gene_product
+PMC2978746	185	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	187	uniprot:UNRESOLVED ID	HDFs	Gene_or_gene_product
+PMC2978746	187	uniprot:P05231	IL6	Gene_or_gene_product
+PMC2978746	189	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	194	uazid:UA-CT-16	macrophages	CellType
+PMC2978746	194	ncbitax:species:ncbi:10090	mouse	Species
+PMC2978746	194	uniprot:UNRESOLVED ID	EBPbeta2	Gene_or_gene_product
+PMC2978746	195	uniprot:O89094	mice	Species
+PMC2978746	196	uniprot:P05231	IL6	Gene_or_gene_product
+PMC2978746	197	uazid:UA-CT-16	macrophages	CellType
+PMC2978746	197	uniprot:O89094	mice	Species
+PMC2978746	197	uniprot:UNRESOLVED ID	EBPbeta2	Gene_or_gene_product
+PMC2978746	197	uniprot:P05231	IL6	Gene_or_gene_product
+PMC2978746	202	uniprot:O43557	light	Gene_or_gene_product
+PMC2978746	205	uniprot:UNRESOLVED ID	MCF10A	Gene_or_gene_product
+PMC2978746	205	uniprot:UNRESOLVED ID	MDA231	Gene_or_gene_product
+PMC2978746	205	uniprot:UNRESOLVED ID	MDA435	Gene_or_gene_product
+PMC2978746	206	uniprot:P42357	Hal	Gene_or_gene_product
+PMC2978746	206	uniprot:UNRESOLVED ID	serum	CellType
+PMC2978746	206	uniprot:P40225	mL	Gene_or_gene_product
+PMC2978746	207	uniprot:UNRESOLVED ID	GP Nolan	Gene_or_gene_product
+PMC2978746	208	uniprot:UNRESOLVED ID	LZRS-T7-C	Gene_or_gene_product
+PMC2978746	208	uniprot:UNRESOLVED ID	EBPbeta1-IRES-eGFP	Gene_or_gene_product
+PMC2978746	208	uniprot:UNRESOLVED ID	IRES-eGFP-LZRS	Gene_or_gene_product
+PMC2978746	208	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	208	uniprot:UNRESOLVED ID	EBPbeta1-pcDNA3.1-His A	Gene_or_gene_product
+PMC2978746	209	uniprot:UNRESOLVED ID	T7-C/EBPbeta1-pcDNA3.1	Gene_or_gene_product
+PMC2978746	209	uniprot:UNRESOLVED ID	EcoRI	Gene_or_gene_product
+PMC2978746	209	uniprot:UNRESOLVED ID	NotI	Gene_or_gene_product
+PMC2978746	209	uniprot:P74933	DNA Polymerase I	Gene_or_gene_product
+PMC2978746	210	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	210	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	210	uniprot:UNRESOLVED ID	LZRS-IRES-eGFP	Gene_or_gene_product
+PMC2978746	210	uniprot:UNRESOLVED ID	EcoRI	Gene_or_gene_product
+PMC2978746	210	uniprot:UNRESOLVED ID	BamHI	Gene_or_gene_product
+PMC2978746	210	uniprot:P74933	DNA Polymerase I	Gene_or_gene_product
+PMC2978746	211	uniprot:UNRESOLVED ID	LZRS-T7-C	Gene_or_gene_product
+PMC2978746	211	uniprot:UNRESOLVED ID	EBPbeta1-IRES-eGFP	Gene_or_gene_product
+PMC2978746	212	uniprot:UNRESOLVED ID	LZRS-T7-C	Gene_or_gene_product
+PMC2978746	212	uniprot:UNRESOLVED ID	EBPbeta1T235A-IRES-eGFP	Gene_or_gene_product
+PMC2978746	212	uniprot:UNRESOLVED ID	MscI	Gene_or_gene_product
+PMC2978746	212	uniprot:UNRESOLVED ID	BbsI	Gene_or_gene_product
+PMC2978746	213	uniprot:UNRESOLVED ID	EBPbeta1-pRSET-A	Gene_or_gene_product
+PMC2978746	214	uniprot:UNRESOLVED ID	HindIII	Gene_or_gene_product
+PMC2978746	214	uniprot:P10582	DNA Polymerase	Gene_or_gene_product
+PMC2978746	214	uniprot:UNRESOLVED ID	BamHI	Gene_or_gene_product
+PMC2978746	215	uniprot:UNRESOLVED ID	pcDNA3.1-His-A	Gene_or_gene_product
+PMC2978746	216	uniprot:UNRESOLVED ID	HindIII	Gene_or_gene_product
+PMC2978746	216	uniprot:UNRESOLVED ID	XbaI	Gene_or_gene_product
+PMC2978746	216	uniprot:P10582	DNA Polymerase	Gene_or_gene_product
+PMC2978746	216	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	216	uniprot:UNRESOLVED ID	EBPbeta1T235A	Gene_or_gene_product
+PMC2978746	217	uniprot:UNRESOLVED ID	LZRS-IRES-eGFP	Gene_or_gene_product
+PMC2978746	217	uniprot:UNRESOLVED ID	EcoRI	Gene_or_gene_product
+PMC2978746	217	uniprot:P10582	DNA Polymerase	Gene_or_gene_product
+PMC2978746	218	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	218	uniprot:UNRESOLVED ID	EBPbeta1T235A	Gene_or_gene_product
+PMC2978746	218	uniprot:UNRESOLVED ID	LZRS-IRES-eGFP	Gene_or_gene_product
+PMC2978746	218	uniprot:UNRESOLVED ID	LZRS-T7-C	Gene_or_gene_product
+PMC2978746	218	uniprot:UNRESOLVED ID	EBPbeta1-IRES-eGFP	Gene_or_gene_product
+PMC2978746	219	uniprot:UNRESOLVED ID	LZRS-T7-C	Gene_or_gene_product
+PMC2978746	219	uniprot:UNRESOLVED ID	EBPbeta2-IRES-eGFP	Gene_or_gene_product
+PMC2978746	220	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	220	uniprot:UNRESOLVED ID	EBPbeta2-IRES-eGFP	Gene_or_gene_product
+PMC2978746	220	uniprot:UNRESOLVED ID	LZRS	Gene_or_gene_product
+PMC2978746	220	uniprot:UNRESOLVED ID	EcoRI	Gene_or_gene_product
+PMC2978746	220	uniprot:P10582	DNA Polymerase	Gene_or_gene_product
+PMC2978746	222	uniprot:UNRESOLVED ID	pBABE-Ras	Gene_or_gene_product
+PMC2978746	223	uniprot:P40225	mL	Gene_or_gene_product
+PMC2978746	226	uniprot:UNRESOLVED ID	Protein Assay Reagent	Gene_or_gene_product
+PMC2978746	232	uniprot:P40225	mL	Gene_or_gene_product
+PMC2978746	235	uniprot:UNRESOLVED ID	LZRS-BMN-lacZ	Gene_or_gene_product
+PMC2978746	235	uniprot:UNRESOLVED ID	pBABE-Ras	Gene_or_gene_product
+PMC2978746	235	uniprot:P42357	Hal	Gene_or_gene_product
+PMC2978746	235	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2978746	236	uniprot:P05452	TN	Gene_or_gene_product
+PMC2978746	238	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	238	uniprot:UNRESOLVED ID	mammary epithelial cell	CellType
+PMC2978746	238	uniprot:UNRESOLVED ID	MCF10A	Gene_or_gene_product
+PMC2978746	238	uniprot:UNRESOLVED ID	MCF10A-Ras	Gene_or_gene_product
+PMC2978746	243	uniprot:UNRESOLVED ID	Santa Cruz C-19	Gene_or_gene_product
+PMC2978746	246	uniprot:UNRESOLVED ID	LZRS-T7-C	Gene_or_gene_product
+PMC2978746	246	uniprot:UNRESOLVED ID	EBPbeta1-IRES-eGFP	Gene_or_gene_product
+PMC2978746	246	uniprot:P9WQ36	FACS	Gene_or_gene_product
+PMC2978746	247	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	247	ncbitax:species:ncbi:31931	retrovirus	Species
+PMC2978746	247	uniprot:UNRESOLVED ID	EBPbeta2	Gene_or_gene_product
+PMC2978746	247	uniprot:UNRESOLVED ID	EBPbeta3	Gene_or_gene_product
+PMC2978746	250	ncbitax:species:ncbi:10090	mouse	Species
+PMC2978746	250	uniprot:UNRESOLVED ID	Novagen	Gene_or_gene_product
+PMC2978746	250	uniprot:UNRESOLVED ID	anti-C/EBPbeta C-terminal antibody	Gene_or_gene_product
+PMC2978746	250	uniprot:UNRESOLVED ID	Santa Cruz C-19	Gene_or_gene_product
+PMC2978746	251	uniprot:UNRESOLVED ID	p52-T7-C	Gene_or_gene_product
+PMC2978746	251	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	251	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	252	uniprot:UNRESOLVED ID	c. MCF10A	Gene_or_gene_product
+PMC2978746	252	uniprot:UNRESOLVED ID	LZRS-T7-C	Gene_or_gene_product
+PMC2978746	252	uniprot:UNRESOLVED ID	EBPbeta1-IRES-eGFP	Gene_or_gene_product
+PMC2978746	252	uniprot:P9WQ36	FACS	Gene_or_gene_product
+PMC2978746	255	uniprot:UNRESOLVED ID	T7-tag antibody	Gene_or_gene_product
+PMC2978746	256	uniprot:UNRESOLVED ID	p52-T7-C/EBPbeta	Gene_or_gene_product
+PMC2978746	257	uniprot:UNRESOLVED ID	beta-tubulin antibody	Gene_or_gene_product
+PMC2978746	257	uniprot:UNRESOLVED ID	10A = MCF10A	Gene_or_gene_product
+PMC2978746	258	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	258	uniprot:UNRESOLVED ID	LZRS-T7-C	Gene_or_gene_product
+PMC2978746	258	uniprot:UNRESOLVED ID	EBPbeta1-IRES-eGFP	Gene_or_gene_product
+PMC2978746	258	uniprot:P9WQ36	FACS	Gene_or_gene_product
+PMC2978746	260	uniprot:UNRESOLVED ID	MCF10A-Ras-C	Gene_or_gene_product
+PMC2978746	260	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	260	uniprot:UNRESOLVED ID	50uM MG132	Gene_or_gene_product
+PMC2978746	264	uniprot:UNRESOLVED ID	50uM MG132	Gene_or_gene_product
+PMC2978746	266	uniprot:UNRESOLVED ID	Abcam 18F8	Gene_or_gene_product
+PMC2978746	267	uazid:UA-ORG-116	breast	Organ
+PMC2978746	267	uniprot:UNRESOLVED ID	LZRS-T7-C	Gene_or_gene_product
+PMC2978746	267	uniprot:UNRESOLVED ID	EBPbeta1-IRES-eGFP	Gene_or_gene_product
+PMC2978746	268	uniprot:UNRESOLVED ID	50uM MG132	Gene_or_gene_product
+PMC2978746	268	uniprot:UNRESOLVED ID	lane 3	Gene_or_gene_product
+PMC2978746	268	uniprot:UNRESOLVED ID	MDA231-C	Gene_or_gene_product
+PMC2978746	268	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	270	ncbitax:species:ncbi:10090	mouse	Species
+PMC2978746	270	uniprot:UNRESOLVED ID	Novagen	Gene_or_gene_product
+PMC2978746	271	uniprot:UNRESOLVED ID	p52-T7-C	Gene_or_gene_product
+PMC2978746	271	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	272	uniprot:Q6QDC9	Beta-tubulin	Gene_or_gene_product
+PMC2978746	273	uniprot:UNRESOLVED ID	LZRS-T7-C	Gene_or_gene_product
+PMC2978746	273	uniprot:UNRESOLVED ID	EBPbeta1-IRES-eGFP	Gene_or_gene_product
+PMC2978746	273	uniprot:P9WQ36	FACS	Gene_or_gene_product
+PMC2978746	274	uniprot:UNRESOLVED ID	Lane 3	Gene_or_gene_product
+PMC2978746	275	uniprot:UNRESOLVED ID	50uM MG132	Gene_or_gene_product
+PMC2978746	278	uniprot:UNRESOLVED ID	anti-Ubiquitin antibody	Gene_or_gene_product
+PMC2978746	278	uniprot:UNRESOLVED ID	Enzo Life Sciences FK2	Gene_or_gene_product
+PMC2978746	279	uniprot:UNRESOLVED ID	MG = MG132	Gene_or_gene_product
+PMC2978746	280	uniprot:O05982	cdk	Gene_or_gene_product
+PMC2978746	280	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	280	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	280	uniprot:UNRESOLVED ID	LZRS-T7-C	Gene_or_gene_product
+PMC2978746	280	uniprot:UNRESOLVED ID	EBPbeta1-IRES-eGFP	Gene_or_gene_product
+PMC2978746	282	uniprot:UNRESOLVED ID	UO126	Gene_or_gene_product
+PMC2978746	282	uniprot:Q00859	mitogen activated protein kinase	Gene_or_gene_product
+PMC2978746	282	uniprot:P29323	Erk	Gene_or_gene_product
+PMC2978746	282	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
+PMC2978746	282	uniprot:UNRESOLVED ID	cdk inhibitor	Gene_or_gene_product
+PMC2978746	282	uniprot:UNRESOLVED ID	LC Laboratories	Gene_or_gene_product
+PMC2978746	282	uniprot:UNRESOLVED ID	SP600125	Gene_or_gene_product
+PMC2978746	282	uniprot:UNRESOLVED ID	jun N-terminal kinase	Gene_or_gene_product
+PMC2978746	282	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC2978746	282	uniprot:UNRESOLVED ID	SB202190	Gene_or_gene_product
+PMC2978746	282	uniprot:O75791	p38	Gene_or_gene_product
+PMC2978746	282	uniprot:UNRESOLVED ID	TDZD-8	Gene_or_gene_product
+PMC2978746	282	uniprot:P49841	GSK3beta	Gene_or_gene_product
+PMC2978746	283	uniprot:UNRESOLVED ID	Lane 2	Gene_or_gene_product
+PMC2978746	283	uniprot:UNRESOLVED ID	UO126	Gene_or_gene_product
+PMC2978746	283	uniprot:UNRESOLVED ID	lane 4	Gene_or_gene_product
+PMC2978746	283	uniprot:UNRESOLVED ID	SP600125	Gene_or_gene_product
+PMC2978746	283	uniprot:UNRESOLVED ID	20uM SB202190	Gene_or_gene_product
+PMC2978746	283	uniprot:UNRESOLVED ID	25uM TZDZ-8	Gene_or_gene_product
+PMC2978746	285	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2978746	286	uniprot:UNRESOLVED ID	anti-C/EBPbeta C-terminal antibody	Gene_or_gene_product
+PMC2978746	286	uniprot:UNRESOLVED ID	Santa Cruz C-19	Gene_or_gene_product
+PMC2978746	288	uniprot:Q6QDC9	beta-tubulin	Gene_or_gene_product
+PMC2978746	288	uniprot:UNRESOLVED ID	LZRS-T7-C	Gene_or_gene_product
+PMC2978746	288	uniprot:UNRESOLVED ID	EBPbeta1-IRES-eGFP	Gene_or_gene_product
+PMC2978746	288	uniprot:UNRESOLVED ID	EBPbeta1T235A-IRES-eGFP	Gene_or_gene_product
+PMC2978746	291	ncbitax:species:ncbi:10090	mouse	Species
+PMC2978746	291	uniprot:UNRESOLVED ID	Novagen	Gene_or_gene_product
+PMC2978746	292	uniprot:UNRESOLVED ID	p52-T7-C	Gene_or_gene_product
+PMC2978746	292	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	293	uniprot:P04406	GAPDH	Gene_or_gene_product
+PMC2978746	293	uniprot:UNRESOLVED ID	Santa Cruz	Gene_or_gene_product
+PMC2978746	294	uniprot:Q2G0B1	rat	Species
+PMC2978746	294	uniprot:P11142	Lap1	Gene_or_gene_product
+PMC2978746	294	ncbitax:species:ncbi:9606	human	Species
+PMC2978746	294	uniprot:P24941	cdk2	Gene_or_gene_product
+PMC2978746	294	uniprot:P12004	cyclin	Gene_or_gene_product
+PMC2978746	295	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	296	uniprot:UNRESOLVED ID	anti-T7 antibody	Gene_or_gene_product
+PMC2978746	296	uniprot:UNRESOLVED ID	Novagen	Gene_or_gene_product
+PMC2978746	298	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	298	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2978746	298	uniprot:UNRESOLVED ID	pBABE-Ras	Gene_or_gene_product
+PMC2978746	299	uniprot:P05231	IL6	Gene_or_gene_product
+PMC2978746	303	uniprot:UNRESOLVED ID	p52-C	Gene_or_gene_product
+PMC2978746	303	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	304	uniprot:Q6QDC9	beta-tubulin	Gene_or_gene_product
+PMC2978746	305	ncbitax:species:ncbi:9606	human	Species
+PMC2978746	305	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2978746	305	uniprot:UNRESOLVED ID	LZRS-GFP	Gene_or_gene_product
+PMC2978746	305	uniprot:UNRESOLVED ID	LZRS-T7-C	Gene_or_gene_product
+PMC2978746	305	uniprot:UNRESOLVED ID	EBPbeta1-IRES-eGFP	Gene_or_gene_product
+PMC2978746	305	uniprot:P9WQ36	FACS	Gene_or_gene_product
+PMC2978746	306	uniprot:UNRESOLVED ID	Gills hematoxylin	Gene_or_gene_product
+PMC2978746	308	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	308	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	313	ncbitax:species:ncbi:9606	human	Species
+PMC2978746	313	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2978746	313	uniprot:UNRESOLVED ID	LZRS-GFP	Gene_or_gene_product
+PMC2978746	313	uniprot:UNRESOLVED ID	LZRS-T7-C	Gene_or_gene_product
+PMC2978746	313	uniprot:UNRESOLVED ID	EBPbeta1-IRES-eGFP	Gene_or_gene_product
+PMC2978746	313	uniprot:P9WQ36	FACS	Gene_or_gene_product
+PMC2978746	315	uniprot:P40225	mL	Gene_or_gene_product
+PMC2978746	319	uniprot:UNRESOLVED ID	Hematoxylin	Gene_or_gene_product
+PMC2978746	320	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	320	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	325	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	325	uniprot:P05231	IL6	Gene_or_gene_product
+PMC2978746	325	ncbitax:species:ncbi:9606	human	Species
+PMC2978746	325	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2978746	325	uniprot:UNRESOLVED ID	LZRS-GFP	Gene_or_gene_product
+PMC2978746	325	uniprot:UNRESOLVED ID	LZRS-T7-C	Gene_or_gene_product
+PMC2978746	325	uniprot:UNRESOLVED ID	EBPbeta1-IRES-eGFP	Gene_or_gene_product
+PMC2978746	325	uniprot:UNRESOLVED ID	EBPbeta2-IRES-eGFP	Gene_or_gene_product
+PMC2978746	327	uniprot:UNRESOLVED ID	RNase-Free DNase kit	Gene_or_gene_product
+PMC2978746	329	uniprot:P04406	GAPDH	Gene_or_gene_product
+PMC2978746	329	uniprot:P05231	IL6	Gene_or_gene_product
+PMC2978746	329	uniprot:UNRESOLVED ID	Hs00985639_m1	Gene_or_gene_product
+PMC2978746	330	uniprot:P05231	IL6	Gene_or_gene_product
+PMC2978746	334	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	334	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	334	uniprot:UNRESOLVED ID	EBPbeta2 protein	Gene_or_gene_product
+PMC2978746	335	uniprot:UNRESOLVED ID	LZRS-T7-C	Gene_or_gene_product
+PMC2978746	335	uniprot:UNRESOLVED ID	EBPbeta1-IRES-eGFP	Gene_or_gene_product
+PMC2978746	335	uniprot:UNRESOLVED ID	EBPbeta2-IRES-eGFP	Gene_or_gene_product
+PMC2978746	338	uniprot:UNRESOLVED ID	anti-C/EBPbeta C-terminal antibody	Gene_or_gene_product
+PMC2978746	338	uniprot:UNRESOLVED ID	Santa Cruz C-19	Gene_or_gene_product
+PMC2978746	340	uniprot:UNRESOLVED ID	T7-beta	Gene_or_gene_product
+PMC2978746	341	uniprot:UNRESOLVED ID	EBPbeta2	Gene_or_gene_product
+PMC2978746	341	uniprot:Q2G0B1	rat	Species
+PMC2978746	341	ncbitax:species:ncbi:9606	human	Species
+PMC2978746	342	uniprot:Q6QDC9	beta-tubulin	Gene_or_gene_product
+PMC2978746	344	uniprot:UNRESOLVED ID	EBPbeta2	Gene_or_gene_product
+PMC2978746	344	ncbitax:species:ncbi:9606	human	Species
+PMC2978746	344	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2978746	344	uniprot:UNRESOLVED ID	LZRS-GFP	Gene_or_gene_product
+PMC2978746	344	uniprot:UNRESOLVED ID	LZRS-T7-C	Gene_or_gene_product
+PMC2978746	344	uniprot:UNRESOLVED ID	EBPbeta1-IRES-eGFP	Gene_or_gene_product
+PMC2978746	344	uniprot:UNRESOLVED ID	EBPbeta2-IRES-eGFP	Gene_or_gene_product
+PMC2978746	345	uniprot:P16278	beta-galactosidase	Gene_or_gene_product
+PMC2978746	347	uniprot:P16278	beta-galactosidase	Gene_or_gene_product
+PMC2978746	349	uniprot:UNRESOLVED ID	T7-C	Gene_or_gene_product
+PMC2978746	349	uniprot:UNRESOLVED ID	EBPbeta1	Gene_or_gene_product
+PMC2978746	349	uniprot:UNRESOLVED ID	EBPbeta2	Gene_or_gene_product
+PMC2978746	351	uniprot:UNRESOLVED ID	LZRS-GFP	Gene_or_gene_product
+PMC2978746	351	uniprot:UNRESOLVED ID	LZRS-T7-C	Gene_or_gene_product
+PMC2978746	351	uniprot:UNRESOLVED ID	EBPbeta1-IRES-eGFP	Gene_or_gene_product
+PMC2978746	351	uniprot:UNRESOLVED ID	EBPbeta2-IRES-eGFP	Gene_or_gene_product
+PMC2978746	354	uniprot:UNRESOLVED ID	anti-p16INK4A antibody	Gene_or_gene_product
+PMC2978746	354	uniprot:UNRESOLVED ID	Santa Cruz	Gene_or_gene_product
+PMC2978746	355	uniprot:Q6QDC9	beta-tubulin	Gene_or_gene_product

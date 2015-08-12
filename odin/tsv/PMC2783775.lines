@@ -1,0 +1,150 @@
+Paper ID	Is title?	Section ID	Passage ID	Line Num	Text
+PMC2783775	true	article-title	0	0	SOX2 Is an Amplified Lineage Survival Oncogene in Lung and Esophageal Squamous Cell Carcinomas
+PMC2783775	false	abstract	1	1	Lineage survival oncogenes are activated by somatic DNA alterations in cancers arising from the cell lineages in which these genes play a role in normal development .
+PMC2783775	false	abstract	1	2	,  Here we show that a peak of genomic amplification on chromosome 3q26 .33 , found in squamous cell carcinomas ( SCCs ) of the lung and esophagus , contains the transcription factor gene SOX2 -- which is mutated in hereditary human esophageal malformations  and necessary for normal esophageal squamous development , promotes differentiation and proliferation of basal tracheal cells  and co-operates in induction of pluripotent stem cells .
+PMC2783775	false	abstract	1	3	, ,  SOX2 expression is required for proliferation and anchorage independent growth of lung and esophageal cell lines , as shown by RNA interference experiments .
+PMC2783775	false	abstract	1	4	Furthermore , ectopic expression of SOX2 cooperated with FOXE1 or FGFR2 to transform immortalized tracheobronchial epithelial cells .
+PMC2783775	false	abstract	1	5	SOX2 driven tumors show expression of markers of both squamous differentiation and pluripotency .
+PMC2783775	false	abstract	1	6	These observations identify SOX2 as a novel lineage survival oncogene in lung and esophageal SCC .
+PMC2783775	false	S2	2	7	DNA was provided for 47 lung SCC tumors with 17 matched normal samples ( M.S.T , L.R.C. , M.S.B and K.K.W ) , 29 esophageal SCCs and 11 matched normal samples ( H.N. , D.B.S , I.C. , U.R.Jr. , S.K.M. and A.K.R ) , and 11 esophageal SCC cell lines ( A.K.R ) .
+PMC2783775	false	S2	2	8	Clinical information is listed in                     .
+PMC2783775	false	S2	2	9	Primary tumors were all fresh-frozen with efforts to use samples with tumor content > 70 % .
+PMC2783775	false	S2	2	10	Tissue microarrays ( TMAs ) of esophageal SCC were provided by H.N. , D.B.S and A.K.R. .
+PMC2783775	false	S3	3	11	DNA was genotyped using the Sty I chip of the 500K Human Mapping Arrays ( Affymetrix Inc ) .
+PMC2783775	false	S3	3	12	Data were analyzed using GISTIC .
+PMC2783775	false	S3	3	13	,  Copy number estimates were obtained using a tangent normalization , in which tumor signal intensities are divided by signal intensities from the linear combination of normal samples that are most similar to the tumor ( manuscript describing methodology in preparation ) .
+PMC2783775	false	S3	3	14	After data normalization and segmentation and smoothing , GISTIC scores each SNP locus ( G-score ) as the product of frequency and mean amplitude of amplifications .
+PMC2783775	false	S3	3	15	Only amplifications exceeding log2 copy number ratio of 0.848 above diploid for amplifications or of 0.737 below diploid for deletions were included as has been standard in copy-number analyses with SNP arrays .
+PMC2783775	false	S3	3	16	This copy-number threshold for amplifications is lower than what is conventionally used to score FISH as done below .
+PMC2783775	false	S3	3	17	SNP array copy-numbers are diminished due to admixture of DNA from normal tissue and from microarray probe saturation effects leading to attenuation of inferred copy-number .
+PMC2783775	false	S3	3	18	G-scores were compared against a null model to determine a false discovery rate ( q-value ) .
+PMC2783775	false	S3	3	19	Peaks with q-values below 0.005 were considered .
+PMC2783775	false	S3	3	20	Genomic coordinates of peaks of amplification were identified after capping copy number estimates at a log2 value of 1.0 to minimize peak calling due to hyper-segmentation ; peak finding also employed a peel-off step to remove the peak borders defined by the single sample ( s ) responsible for the minimal common regions .
+PMC2783775	false	S3	3	21	Genomic positions are mapped the hg18 genome build .
+PMC2783775	true	S4	4	22	Two-Color Interphase FISH Assay
+PMC2783775	false	S4	5	23	Probes for SOX2 ( clone CTD-2348H10 ) and reference ( clone RP11-286G5 ) were obtained from the BACPAC Resource Center ( Oakland , CA ) and also from Invitrogen ( Carlsbad , CA ) .
+PMC2783775	false	S4	5	24	Tissue hybridization , washing , and color detection were performed as described previously .
+PMC2783775	false	S4	5	25	The samples were analyzed under a 60x oil immersion objective using an Olympus BX-51 fluorescence microscope , and the CytoVision FISH imaging and capturing software ( Applied Imaging , San Jose , CA ) .
+PMC2783775	false	S4	5	26	Semi-quantitative evaluation of the assays was independently performed by three evaluators ( S.P. , C.J.L. and P.W. ) .
+PMC2783775	false	S4	5	27	Samples were called as high-level amplification if ten or more inferred copies of SOX2 were detected .
+PMC2783775	true	S5	6	28	Cell Lines and Culture Conditions
+PMC2783775	false	S5	7	29	AALE cells were generated as previously described .
+PMC2783775	false	S5	7	30	HCC95 , NCI-H1355 , NCI-H2009 and NCI-H1437 were provided by J.D.M. NCI-H520 cells were purchased from ATCC .
+PMC2783775	false	S5	7	31	TT , TE10 and TE11 cell lines were provided by A.K.R. .
+PMC2783775	false	S5	7	32	Lung cancer cell lines were maintained in RPMI with 10 % fetal bovine serum .
+PMC2783775	false	S5	7	33	Esophageal SCC lines were maintained in DMEM with 10 % fetal bovine serum .
+PMC2783775	false	S5	7	34	AALE cells were grown in SAGM media ( Lonza ) .
+PMC2783775	false	S5	7	35	NIH-3T3 cells ( ATCC ) were grown in DMEM with 10 % calf serum .
+PMC2783775	false	S5	7	36	All cells were grown in 1mM penicillin and streptomycin cells other than AALE 's also were grown with 2mM L-Glutamine .
+PMC2783775	false	S6	8	37	Lentiviral vectors containing shRNA sequences were obtained from the RNAi Consortium ( TRC ) ( http://www.broadinstitute.org/rnai/trc;                      .
+PMC2783775	false	S6	8	38	For three genes , FXR1 , MCCC1 and PIK3CA , the TRC had performed knockdown validation ; for these genes the three top scoring constructs were used .
+PMC2783775	false	S6	8	39	For the remaining 10 genes ( SOX2 , MCF2L2 , DNAJC19 , TTC14 , KLHL6 , DCUN1D1 , B3GNT5 , TP63 , ATP11B , LAMP3 ) , all shRNAs in the TRC collection ( five to ten per gene ) were used and analyzed including six shRNAs targeting SOX2 .
+PMC2783775	false	S6	8	40	For the controls , two shRNAs against GFP and two against LacZ were included .
+PMC2783775	false	S6	8	41	Cells were plated in 384-well plates and on the following day infected with 1-3 ul of lentivirus with 8 ug and ml polybrene .
+PMC2783775	false	S6	8	42	Screens were performed with two replicates with and two replicates without puromycin , added 24 hours post-infection .
+PMC2783775	false	S6	8	43	Six days post-infection , wells were assayed using Cell-Titre Glo ( Promega ) .
+PMC2783775	false	S6	8	44	Raw luminescence scores against the replicate wells with puromycin for a given shRNA construct in each cell line were normalized against readings for shGFP and shLacZ in that line .
+PMC2783775	false	S6	8	45	Analysis was performed with RIGER ( RNAi Gene Enrichment Ranking )  ,   to compare the effects of each construct on the four 3q26.33-amplified lines to the construct 's effects in control cell lines to determine an enrichment score for each construct .
+PMC2783775	false	S6	8	46	Lower enrichment scores signify a greater decrease in proliferation in the 3q26.33-amplified cell lines .
+PMC2783775	false	S6	8	47	The enrichment scores were normalized against an enrichment score that would be generated by random permutation of an shRNA set of the same size to generate a normalized enrichment score for each gene .
+PMC2783775	false	S6	8	48	Comparison of the actual data to this permutation allows calculation of nominal P values and false discovery rate ( FDR ) .
+PMC2783775	false	S7	9	49	Vectors with shRNA targeting SOX2 and GFP                        were produced using TRC protocols ( http://www.broadinstitute.org/rnai/trc ) .
+PMC2783775	false	S7	9	50	Cells were plated the day prior to infection and subsequently incubated with diluted virus in 8ug and mL polybrene for six hours .
+PMC2783775	false	S7	9	51	Puromycin was added the following day .
+PMC2783775	false	S7	9	52	After selection , cells were plated for proliferation or soft-agar assays .
+PMC2783775	false	S7	9	53	Protein was prepared for immunoblotting with anti-Sox2 polyclonal antibody ( Abcam ) , anti-DCUN1D1 monoclonal antibody ( Abcam ) and anti-vinculin monoclonal antibody ( Sigma ) using standard techniques .
+PMC2783775	false	S8	10	54	SOX2 , and GFP were cloned into the pWZL vector with blasticidin resistance or the pBABE vector with puromycin resistance .
+PMC2783775	false	S8	10	55	FOXE1 and FGFR2 were cloned into the pBABE puro vector .
+PMC2783775	false	S8	10	56	Infections were performed with standard methods .
+PMC2783775	false	S8	10	57	Protein expression was confirmed via immunoblotting with antibodies to Sox2 ( Abcam ) , vinculin ( Sigma ) , FGFR2 ( Santa Cruz ) or FoxE1 ( antibody kindly provided by Robert Di Lauro ) .
+PMC2783775	false	S9	11	58	Cells were plated in triplicate in a top layer of growth media with 0.33 % Noble Agar and plated onto a bottom layer of media with 0.5 % Agar in a 6-well plate .
+PMC2783775	false	S9	11	59	Soft-agar colonies were counted at two to five weeks based upon growth rate .
+PMC2783775	false	S9	11	60	Images were acquired using Magnifire software by inverted microscopy ( Olympus SZX9 ) .
+PMC2783775	false	S9	11	61	ImageJ software ( http://rsb.info.nih.gov/ij/ ) was used to quantify colony number .
+PMC2783775	false	S9	12	62	Comparison of anchorage independent growth vs. non-anchorage-independent growth was performed in NCI-H520 cells .
+PMC2783775	false	S9	12	63	Equal numbers of cells ( in triplicate ) were plated with either Noble Agar as above or regular growth media .
+PMC2783775	false	S9	12	64	Colony numbers in soft-agar were quantified as above .
+PMC2783775	false	S9	12	65	Foci formed in cells in regular media were identified with crystal violet staining using standard methods with foci quantified as for soft-agar .
+PMC2783775	true	S10	13	66	Cell Proliferation Assays
+PMC2783775	false	S10	14	67	Cells with stable expression of each shRNA construct were plated onto four replicate wells of a 96-well plate ; and three identical plates were prepared .
+PMC2783775	false	S10	14	68	Cell proliferation was assayed at 24 , 72 and 96 hours after plating with Cell-Titre Glo ( Promega ) on a Spectra Max5 plate reader .
+PMC2783775	false	S10	14	69	Cell numbers at 72 and 96 hours were corrected for the ratio of shSOX2 to shGFP cells from the 24-hour reading to correct for plating unevenness .
+PMC2783775	false	S10	14	70	A representative experiment is shown with viability + /- a standard deviation of the reading from the four wells shown .
+PMC2783775	false	S11	15	71	From existing raw expression files expression data were generated using a gene-centric CDF file .
+PMC2783775	false	S11	15	72	We applied RMA and quantile normalization   and the matchprobes package in the Bioconductor framework   to create one single data set .
+PMC2783775	false	S11	15	73	Only patients with pathologic stage I and II disease and less than 80 years old at diagnosis had their tumor 's expression profile included in the analysis .
+PMC2783775	false	S11	15	74	To identify genes linked to SOX2 , we identified the 10 lung SCCs with the highest and 10 lowest SOX2 expressions .
+PMC2783775	false	S11	15	75	To identify correlated genes , differential expression was calculated using the same package in Bioconductor .
+PMC2783775	false	S11	15	76	We used gene-set expression analysis   to assess whether the signatures that define ES cell identity are active and related to SOX2 expression level in lung SCC tumors .
+PMC2783775	false	S11	15	77	SOX2 mRNA expression was characterized as high and low in cases with expression 0.5 standard deviations above or below the mean , respectively .
+PMC2783775	false	S11	15	78	The analysis utilized nine gene sets that were previously defined to be over-expressed in ES cells and performed as previously described .
+PMC2783775	false	S12	16	79	For expression analysis , RNA was extracted from cells using the Qiagen RNeasy kit and cDNA prepared with the Qiagen QuanTiTECT cDNA synthesis kit .
+PMC2783775	false	S12	16	80	All real-time PCRs were performed in triplicate with Power PCR SYBR Green Master Mix ( Applied Biosystems ) on a 7300 Real-Time PCR System ( Applied Biosystems ) with results normalized to GAPDH expression .
+PMC2783775	false	S12	16	81	Primers are listed in                     .
+PMC2783775	false	S13	17	82	TMAs were stained with a polyclonal Sox2 antibody ( Chemicon ) at 1:5000 dilution following Dako antigen retrieval  .
+PMC2783775	false	S13	17	83	After staining , we scanned the TMAs with the ZEISS MIRAX Scanner ( Zeiss , Oberkochen , Germany ) and then used the AxioVision Software to measure the grey scale value .
+PMC2783775	false	S13	17	84	Protein expression was quantified by the grey scale values of the epithelial cells and defined as a value from 0 ( black ) to 255 ( white ) .
+PMC2783775	false	S13	17	85	For statistical analysis , values were inverted so that higher expression ( black ) corresponded to higher numerical values .
+PMC2783775	false	S14	18	86	For comparisons of all continuous variables between experimental groups , Student 's T-tests were used .
+PMC2783775	false	S14	18	87	Effects of SOX2 RNAi on cellular proliferation was modeled by fitting the growth curve of each cell line to an exponential growth model using GraphPad Prism software .
+PMC2783775	false	S14	18	88	Modeled growth curves for each shSOX2 expressing cell line were compared to that for the appropriate shGFP expressing cell line curve ; F-tests were used to determine p-value .
+PMC2783775	false	S14	18	89	P-values < 0.05 were considered significant ; Bonferroni correction was performed for all experimental results in cell lines .
+PMC2783775	true	fig-1	19	90	Recurrent genomic amplifications of 3q target SOX2 in lung and esophageal squamous cell carcinomas
+PMC2783775	false	fig-1	20	91	A ) Plots of recurrent high-level amplifications in 47 SCCs of the lung from GISTIC analysis of SNP array data .
+PMC2783775	false	fig-1	20	92	X-axis shows the G-score ( top ) and false discovery rate ( q-value ; bottom ) for recurrent amplification across the genome with a green line demarcating an arbitrary FDR cut-off of 0.005 .
+PMC2783775	false	fig-1	20	93	Labels on right denote the position of peaks of the most significantly altered regions .
+PMC2783775	false	fig-1	20	94	B ) Depiction of GISTIC amplification peaks for 40 esophageal squamous cell carcinomas ( 29 primary tumors and 11 cell lines ) C ) Plot of copy-number data from chromosome 3q from lung SCC .
+PMC2783775	false	fig-1	20	95	Each sample is represented with a vertical line from centromere ( top ) to telomere ( bottom ) .
+PMC2783775	false	fig-1	20	96	Areas of red indicate gain ; blue indicates loss .
+PMC2783775	false	fig-1	20	97	The positions of SOX2 and TP63 are noted with horizontal lines .
+PMC2783775	false	fig-1	20	98	An inset box shows the 10-Mb region centered on SOX2 in greater detail in the 15 samples with highest SOX2 copy number .
+PMC2783775	false	fig-1	20	99	The grey lines depict the positions of the two nearest RefSeq genes to SOX2 -- ATP11B and DNAJC19 -- as well as PIK3CA .
+PMC2783775	false	fig-1	20	100	D ) Plot of copy-number on chromosome 3q in esophageal SCC as described for panel C.
+PMC2783775	true	fig-2	21	101	SOX2 knockdown via RNAi reduces anchorage independent growth and proliferation of SOX2 overexpressing cell lines
+PMC2783775	false	fig-2	22	102	A ) RIGER analysis of shRNA against SOX2 and genes neighboring SOX2 .
+PMC2783775	false	fig-2	22	103	Differential effects of each shRNA construct on proliferation of the four 3q26.33-amplified SCC cell lines was calculated by comparison of the effect of each shRNA construct in the SCC cell lines compared to the construct 's effect in two control lung adenocarcinoma cell lines .
+PMC2783775	false	fig-2	22	104	Blue lines represent differential proliferation scores for each shRNA construct .
+PMC2783775	false	fig-2	22	105	Negative enrichment scores represent reduced proliferation in the four SCC cell lines .
+PMC2783775	false	fig-2	22	106	Red lines represent the normalized enrichment score calculated for each gene based upon the proliferative effect of all shRNAs to that gene compared to effects of other shRNAs in this screen .
+PMC2783775	false	fig-2	22	107	False discovery rates ( FDRs ) for significant enrichment are listed below the graph ; FDRs for SCC cell specific reduced proliferation are shown in plain text and for control cell specific reduced proliferation in italics .
+PMC2783775	false	fig-2	22	108	All results were normalized against the effects of control shRNAs ( shGFP , shLacZ ) in each cell line .
+PMC2783775	false	fig-2	22	109	B ) Anti-Sox2 and control anti-vinculin immunoblots of lysates from established tumor cell lines stably expressing shRNA targeting SOX2 ( shSOX2a or shSOX2b ) or shRNA specific for green fluorescent protein ( shGFP ) .
+PMC2783775	false	fig-2	22	110	HCC95 and NCI-H520 are lung SCC lines ; TT and TE10 are esophageal SCC cell lines ; and NCI-H1437 and NCI-H1355 are lung adenocarcinoma cell lines used as controls .
+PMC2783775	false	fig-2	22	111	C ) Effect of SOX2 specific shRNA on viable cell numbers over time .
+PMC2783775	false	fig-2	22	112	Cells were measured at 24 , 72 and 96 hours after plating and corrected to equalize 24-hr values .
+PMC2783775	false	fig-2	22	113	Mean cell viabilities ( + /- standard deviations of cell plated in quadruplicate ) are plotted as percentage of 24-hour measurement at 24 , 72 and 96 hours after plating .
+PMC2783775	false	fig-2	22	114	( Note , due to low standard deviations of some measurements , error bars are not visible for all data points . )
+PMC2783775	false	fig-2	22	115	Significance levels are indicated with * marking p < 0.05 , ** for p < 0.01 and *** for p < 0.001 .
+PMC2783775	false	fig-2	22	116	D ) Soft agar colony formation for HCC95 and NCI-H520 and control NCI-H1437 cells expressing SOX2 shRNA is shown relative to shGFP ( + /- standard deviation ) with p-values marked as above .
+PMC2783775	false	fig-2	22	117	E ) Soft agar colony formation for HCC95 cells engineered with ectopic expression of GFP , SOX2 or SOX2 R74P followed by infection with shSOX2b or shGFP .
+PMC2783775	false	fig-2	22	118	Data are shown relative to shGFP in HCC95-GFP cells ( + /- standard deviation ) with p-values marked as above .
+PMC2783775	false	fig-2	22	119	Immunoblots for Sox2 and vinculin are shown .
+PMC2783775	true	fig-3	23	120	SOX2 can transform FOXE1- or FGFR2IIIb expressing immortalized tracheobronchial epithelial cells
+PMC2783775	false	fig-3	24	121	A ) Soft agar colony formation for AALE tracheobronchial epithelial cells expressing either SOX2 , FOXE1 or the combination of factors .
+PMC2783775	false	fig-3	24	122	Graph shows number of colonies ( + /- standard deviation of experiment ) with p-values labeled with asterisks as in         .
+PMC2783775	false	fig-3	24	123	Also pictured are representative soft-agar images and immunoblots showing expression of Sox2 and FoxE1 .
+PMC2783775	false	fig-3	24	124	B ) Soft agar colony formation data ( + /- standard deviations ) , immunoblots and representative soft-agar images from co-transformation assays in AALE cells with SOX2 and FGFR2 IIIb and FGFR2 IIIc ectopic expression .
+PMC2783775	true	fig-4	25	125	SOX2 induces expression of markers of both pluripotency and squamous differentiation
+PMC2783775	false	fig-4	26	126	A ) The percentages of lung SCC tumors showing over-expression of each of nine gene sets that are characteristically induced in ES cells are shown for samples with and without elevated SOX2 expression .
+PMC2783775	false	fig-4	26	127	Gene sets for which the FDR corrected hypergeometric enrichment P-value for the differences in over-expression in cases with and without SOX2 over-expression are marked as in         .
+PMC2783775	false	fig-4	26	128	B ) Quantitative RT-PCR for mRNA expression of squamous markers TP63 and KRT6A in NCI-H2009 cells with ectopic SOX2 compared to ectopic GFP with asterisks indicating p-values .
+PMC2783775	false	fig-3	27	129	High-level amplifications in lung and esophageal squamous cell carcinomas
+PMC2783775	false	fig-2	28	130	GISTIC defined peaks of high-level ( inferred copy-number > 3.6 ) recurrent genomic amplification in lung squamous cell carcinoma and esophageal squamous cell carcinoma .
+PMC2783775	false	fig-1	29	131	We thank J. Francis , J. Cho , A. Schinzel , R. Firestein , I. Guney , and J. Boehm for technical advice and discussions .
+PMC2783775	false	fig-1	29	132	A.J.B. is supported by the Harvard Clinical Investigator Training Program and American Society of Clinical Oncology .
+PMC2783775	false	fig-1	29	133	H.W. is supported by a Ruth L Kirschstein NRSA T32 institutional training grant .
+PMC2783775	false	fig-1	29	134	R.G.V. is supported by the KWF Kankerbestrijding .
+PMC2783775	false	fig-1	29	135	The Morphology , Molecular Biology and Cell Culture Core of 5P01CA098101-05 ( A.K.R. ) provided tissue processing for this project .
+PMC2783775	false	fig-1	29	136	This work was supported by Department of Defense VITAL grant ( J.D.M. / A.F.G. ) , National Cancer Institute grants K08CA134931 ( A.J.B. ) , P50CA70907 ( J.D.M / A.F.G. ) , R33CA128625 ( W.C.H. ) , R01CA071606-12 ( D.G.B ) , P01CA098101-05 ( A.K.R. ) , and R01CA109038 and P20CA90578 ( M.M. ) .
+PMC2783775	false	fig-1	29	137	Funding for lung SCC SNP arrays was provided by Genentech , Inc. .
+PMC2783775	false	S15	30	138	L.R.C. , H.N. , D.B.S. , L.L. , T.J.G. , J.D.M. , A.F.G. , M.S.B. , I.C. , U.R. Jr. , S.K.M. , O.D. , M.S.T. , K.K.W. , and D.G.B. , provided samples for analysis .
+PMC2783775	false	S15	30	139	S.P. , P.W. , C.J.L. , V. S. , T. W. and M.A.R. performed and analyzed FISH assays and immunohistochemistry analysis .
+PMC2783775	false	S15	30	140	C.H.M. , R.G.V. , P. T. , I.G. , A.H.R. , B.A.W. , G.G. , R.B. , M.O. , J.K , C.M. , S.R. and A.R. performed bioinformatic analysis .
+PMC2783775	false	S15	30	141	A.J.B , H.W. , S.Y. , S.K. , L.W. , P.D and C.Z. performed laboratory experiments .
+PMC2783775	false	S15	30	142	O.R. , A.D. and M.S.W provided expression constructs and extensive technical expertise .
+PMC2783775	false	S15	30	143	R.A.S. and W.C.H. provided guidance regarding experimental design and data interpretation .
+PMC2783775	false	S15	30	144	A.J.B. , H.W. , A.K.R. and M.M. designed the study , analyzed data and prepared the manuscript .
+PMC2783775	false	S15	30	145	All authors discussed results and edited the manuscript .
+PMC2783775	false	S14	31	146	Competing Interest Statement
+PMC2783775	false	S13	32	147	Authors MM , WCH and RAS serve as consultants to Novartis .
+PMC2783775	false	S13	32	148	The authors know of no potential influence of this service upon the research presented in this manuscript .

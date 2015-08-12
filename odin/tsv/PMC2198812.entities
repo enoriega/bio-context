@@ -1,0 +1,549 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2198812	1	uniprot:UNRESOLVED ID	RTKs	Gene_or_gene_product
+PMC2198812	2	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2198812	3	uniprot:UNRESOLVED ID	Spry-1-4	Gene_or_gene_product
+PMC2198812	4	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	5	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	5	uniprot:UNRESOLVED ID	fibroblast	CellType
+PMC2198812	5	uniprot:UNRESOLVED ID	vascular endothelial growth factor	Gene_or_gene_product
+PMC2198812	5	uniprot:Q8NFH3	p42	Gene_or_gene_product
+PMC2198812	5	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2198812	6	uniprot:P01133	epidermal growth factor	Gene_or_gene_product
+PMC2198812	6	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	6	uniprot:Q8NFH3	p42	Gene_or_gene_product
+PMC2198812	6	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2198812	7	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	7	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	9	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	9	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2198812	10	uazid:UA-ORG-537	lung	Organ
+PMC2198812	10	uazid:UA-ORG-461	kidney	Organ
+PMC2198812	10	uazid:UA-ORG-360	glands	Organ
+PMC2198812	11	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2198812	13	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2198812	14	uniprot:UNRESOLVED ID	tracheal	CellType
+PMC2198812	17	uniprot:UNRESOLVED ID	FGF receptor-	Gene_or_gene_product
+PMC2198812	17	uniprot:P01133	epidermal growth factor	Gene_or_gene_product
+PMC2198812	17	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2198812	17	uniprot:UNRESOLVED ID	wing	CellType
+PMC2198812	18	uniprot:UNRESOLVED ID	Drosophila RTK signal transduction components	Gene_or_gene_product
+PMC2198812	18	uniprot:P84998	Gap1	Gene_or_gene_product
+PMC2198812	18	uniprot:Q6YKA8	Drk	Gene_or_gene_product
+PMC2198812	18	uniprot:UNRESOLVED ID	SH2-SH3 adaptor protein	Gene_or_gene_product
+PMC2198812	18	uniprot:UNRESOLVED ID	mammalian Grb-2	Gene_or_gene_product
+PMC2198812	18	uniprot:P26675	Sos	Gene_or_gene_product
+PMC2198812	18	uniprot:Q8N350	Dos	Gene_or_gene_product
+PMC2198812	18	uniprot:Q8ISC9	Csw	Gene_or_gene_product
+PMC2198812	18	uniprot:Q59XU5	Ras1	Gene_or_gene_product
+PMC2198812	18	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2198812	19	uniprot:UNRESOLVED ID	DSpry	Gene_or_gene_product
+PMC2198812	19	uniprot:UNRESOLVED ID	FGF receptor-	Gene_or_gene_product
+PMC2198812	20	uniprot:UNRESOLVED ID	eye imaginal disc	CellType
+PMC2198812	20	uniprot:UNRESOLVED ID	glia	CellType
+PMC2198812	20	uazid:UA-ORG-623	neurons	Organ
+PMC2198812	21	uniprot:UNRESOLVED ID	DSpry	Gene_or_gene_product
+PMC2198812	21	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2198812	23	uniprot:Q8NFH3	p42	Gene_or_gene_product
+PMC2198812	23	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2198812	23	uniprot:UNRESOLVED ID	wing	CellType
+PMC2198812	23	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2198812	24	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2198812	25	ncbitax:species:ncbi:9606	human	Species
+PMC2198812	26	ncbitax:species:ncbi:10090	mouse	Species
+PMC2198812	26	uniprot:Q54NW4	limb	CellType
+PMC2198812	26	ncbitax:species:ncbi:9031	chicken	Species
+PMC2198812	26	uniprot:O43597	Spry-2	Gene_or_gene_product
+PMC2198812	26	uazid:UA-ORG-537	lungs	Organ
+PMC2198812	26	uazid:UA-ORG-537	lung	Organ
+PMC2198812	27	ncbitax:species:ncbi:9031	chicken	Species
+PMC2198812	28	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2198812	29	uniprot:UNRESOLVED ID	tracheal	CellType
+PMC2198812	29	uniprot:UNRESOLVED ID	cardiovascular system	CellType
+PMC2198812	29	uazid:UA-ORG-92	blood	Organ
+PMC2198812	31	uazid:UA-ORG-77	balance	Organ
+PMC2198812	32	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2198812	32	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC2198812	32	uniprot:UNRESOLVED ID	angiopoietins	Gene_or_gene_product
+PMC2198812	33	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2198812	35	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	35	uniprot:O10284	FGF-	Gene_or_gene_product
+PMC2198812	35	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC2198812	35	uniprot:Q8NFH3	p42	Gene_or_gene_product
+PMC2198812	35	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2198812	36	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	36	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	38	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2198812	39	uniprot:UNRESOLVED ID	mSpry-1-4	Gene_or_gene_product
+PMC2198812	39	ncbitax:species:ncbi:9606	human	Species
+PMC2198812	40	ncbitax:species:ncbi:10090	mouse	Species
+PMC2198812	40	uazid:UA-CT-200002	embryo	Organ
+PMC2198812	42	ncbitax:species:ncbi:10535	Adenovirus	Species
+PMC2198812	43	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	44	uniprot:UNRESOLVED ID	immediate early promoter	Gene_or_gene_product
+PMC2198812	44	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2198812	44	uniprot:P68871	beta-globin	Gene_or_gene_product
+PMC2198812	49	ncbitax:species:ncbi:9606	Human	Species
+PMC2198812	49	uniprot:UNRESOLVED ID	umbilical vein	CellType
+PMC2198812	49	ncbitax:species:ncbi:10090	mouse	Species
+PMC2198812	49	uniprot:O95696	BRL	Gene_or_gene_product
+PMC2198812	49	uazid:UA-CT-200001	brain	Organ
+PMC2198812	50	uniprot:P09038	FGF2	Gene_or_gene_product
+PMC2198812	51	uniprot:UNRESOLVED ID	1G11	Gene_or_gene_product
+PMC2198812	51	uniprot:P04711	PPC	Gene_or_gene_product
+PMC2198812	53	uniprot:UNRESOLVED ID	serum	CellType
+PMC2198812	53	uniprot:UNRESOLVED ID	HUVEC	Gene_or_gene_product
+PMC2198812	53	uniprot:P09038	FGF2	Gene_or_gene_product
+PMC2198812	53	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC2198812	53	uniprot:UNRESOLVED ID	R&D Systems	Gene_or_gene_product
+PMC2198812	55	uniprot:UNRESOLVED ID	AdmSpry-1	Gene_or_gene_product
+PMC2198812	55	uniprot:UNRESOLVED ID	AdeGFP	Gene_or_gene_product
+PMC2198812	55	uniprot:P10145	NaF	Gene_or_gene_product
+PMC2198812	55	uniprot:UNRESOLVED ID	10 mM Pefabloc, 1 mM aprotinin, 1 mM leupeptin	Gene_or_gene_product
+PMC2198812	56	uniprot:UNRESOLVED ID	Na2CO3	Gene_or_gene_product
+PMC2198812	56	uniprot:P01298	pH	Gene_or_gene_product
+PMC2198812	60	uniprot:UNRESOLVED ID	Na2CO3	Gene_or_gene_product
+PMC2198812	62	uniprot:UNRESOLVED ID	AdmSpry-1	Gene_or_gene_product
+PMC2198812	62	uniprot:UNRESOLVED ID	AdeGFP	Gene_or_gene_product
+PMC2198812	63	uniprot:P05452	TN	Gene_or_gene_product
+PMC2198812	63	uniprot:P01298	pH	Gene_or_gene_product
+PMC2198812	63	uniprot:P10265	protease	Gene_or_gene_product
+PMC2198812	64	uniprot:UNRESOLVED ID	Optiprep	Gene_or_gene_product
+PMC2198812	64	uniprot:O42043	TM	Gene_or_gene_product
+PMC2198812	64	uniprot:P05452	TN	Gene_or_gene_product
+PMC2198812	65	uniprot:UNRESOLVED ID	SW60 rotor	Gene_or_gene_product
+PMC2198812	68	ncbitax:species:ncbi:9986	Rabbit	Species
+PMC2198812	68	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	68	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	68	uniprot:UNRESOLVED ID	HERLHGLPEHRQPPRLQPSQVHSSRAP	Gene_or_gene_product
+PMC2198812	68	uniprot:UNRESOLVED ID	mSpry-2	Gene_or_gene_product
+PMC2198812	68	uniprot:UNRESOLVED ID	limpet hemocyanin	Gene_or_gene_product
+PMC2198812	69	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2198812	70	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	70	uniprot:UNRESOLVED ID	mSpry-4	Gene_or_gene_product
+PMC2198812	71	uniprot:Q8NFH3	p42	Gene_or_gene_product
+PMC2198812	71	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2198812	71	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
+PMC2198812	71	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC2198812	71	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	71	uniprot:P29038	LDH	Gene_or_gene_product
+PMC2198812	71	uniprot:P07355	annexin II	Gene_or_gene_product
+PMC2198812	71	uniprot:P02787	transferrin	Gene_or_gene_product
+PMC2198812	71	uniprot:UNRESOLVED ID	transferrin receptor	Gene_or_gene_product
+PMC2198812	73	uniprot:P09038	FGF2	Gene_or_gene_product
+PMC2198812	74	uniprot:Q7Z859	PBS	Gene_or_gene_product
+PMC2198812	75	uniprot:Q7Z859	PBS	Gene_or_gene_product
+PMC2198812	75	uniprot:Q96T53	goat	Species
+PMC2198812	75	uniprot:UNRESOLVED ID	serum	CellType
+PMC2198812	76	uniprot:Q7Z859	PBS	Gene_or_gene_product
+PMC2198812	77	ncbitax:species:ncbi:10090	Mouse	Species
+PMC2198812	77	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	77	uniprot:Q12846	syntaxin-4	Gene_or_gene_product
+PMC2198812	77	uniprot:P49257	ergic-53	Gene_or_gene_product
+PMC2198812	77	uniprot:Q14789	giantin	Gene_or_gene_product
+PMC2198812	77	uniprot:P07237	protein disulfide isomerase	Gene_or_gene_product
+PMC2198812	77	uniprot:P02787	transferrin	Gene_or_gene_product
+PMC2198812	77	uniprot:UNRESOLVED ID	transferrin receptor	Gene_or_gene_product
+PMC2198812	77	uniprot:P33151	VE-cadherin	Gene_or_gene_product
+PMC2198812	77	uniprot:UNRESOLVED ID	IgG	Gene_or_gene_product
+PMC2198812	77	uniprot:UNRESOLVED ID	Cy2	Gene_or_gene_product
+PMC2198812	77	uniprot:UNRESOLVED ID	Cy3	Gene_or_gene_product
+PMC2198812	78	uniprot:UNRESOLVED ID	AdmSpry-1	Gene_or_gene_product
+PMC2198812	78	uniprot:UNRESOLVED ID	AdmSpry-2	Gene_or_gene_product
+PMC2198812	78	uniprot:UNRESOLVED ID	AdeGFP	Gene_or_gene_product
+PMC2198812	78	uniprot:Q9NQV6	Tris	Gene_or_gene_product
+PMC2198812	78	uniprot:P10145	NaF	Gene_or_gene_product
+PMC2198812	78	uniprot:UNRESOLVED ID	10 mM Pefabloc, 1 mM aprotinin, 1 mM leupeptin, 1 mM DTT	Gene_or_gene_product
+PMC2198812	81	uniprot:UNRESOLVED ID	AdmSpry-1 or -2	Gene_or_gene_product
+PMC2198812	81	uniprot:UNRESOLVED ID	serum	CellType
+PMC2198812	81	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	81	uniprot:UNRESOLVED ID	mSpry-2	Gene_or_gene_product
+PMC2198812	81	uniprot:D6RGH6	mCi	Gene_or_gene_product
+PMC2198812	81	uniprot:P09038	FGF2	Gene_or_gene_product
+PMC2198812	82	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	84	uniprot:P31025	TLC	Gene_or_gene_product
+PMC2198812	84	uniprot:P01298	pH	Gene_or_gene_product
+PMC2198812	85	ncbitax:species:ncbi:10090	mouse	Species
+PMC2198812	86	ncbitax:species:ncbi:10090	mouse	Species
+PMC2198812	86	uazid:UA-CT-200003	embryos	Organ
+PMC2198812	87	uniprot:UNRESOLVED ID	mSpry-1-4	Gene_or_gene_product
+PMC2198812	93	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	94	uniprot:UNRESOLVED ID	Sprys	Gene_or_gene_product
+PMC2198812	95	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	95	ncbitax:species:ncbi:10090	mouse	Species
+PMC2198812	98	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	98	uniprot:UNRESOLVED ID	AdmSpry-1 and -2	Gene_or_gene_product
+PMC2198812	99	ncbitax:species:ncbi:10535	adenovirus	Species
+PMC2198812	99	uniprot:P09038	FGF2	Gene_or_gene_product
+PMC2198812	99	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC2198812	99	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2198812	101	uniprot:P09038	FGF2	Gene_or_gene_product
+PMC2198812	101	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC2198812	101	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2198812	101	uniprot:UNRESOLVED ID	mSpry-1 or -2	Gene_or_gene_product
+PMC2198812	101	uniprot:UNRESOLVED ID	AdeGFP	Gene_or_gene_product
+PMC2198812	103	uniprot:P05230	FGF1	Gene_or_gene_product
+PMC2198812	103	uniprot:P09038	FGF2	Gene_or_gene_product
+PMC2198812	103	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC2198812	105	uniprot:UNRESOLVED ID	AdmSpry-1	Gene_or_gene_product
+PMC2198812	105	uniprot:UNRESOLVED ID	AdmSpry-2	Gene_or_gene_product
+PMC2198812	105	uniprot:UNRESOLVED ID	AdeGFP	Gene_or_gene_product
+PMC2198812	105	uniprot:P09038	FGF2	Gene_or_gene_product
+PMC2198812	106	uniprot:UNRESOLVED ID	AdeGFP	Gene_or_gene_product
+PMC2198812	107	uniprot:UNRESOLVED ID	AdmSpry-1 and -2	Gene_or_gene_product
+PMC2198812	108	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC2198812	109	uniprot:UNRESOLVED ID	mSpry-1 or -2	Gene_or_gene_product
+PMC2198812	110	uniprot:UNRESOLVED ID	mSpry-2	Gene_or_gene_product
+PMC2198812	110	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	111	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	111	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2198812	112	uniprot:Q8NFH3	p42	Gene_or_gene_product
+PMC2198812	112	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2198812	113	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC2198812	113	uniprot:Q8NFH3	p42	Gene_or_gene_product
+PMC2198812	113	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2198812	114	uniprot:Q8NFH3	p42	Gene_or_gene_product
+PMC2198812	114	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2198812	115	uniprot:UNRESOLVED ID	AdmSpry-1	Gene_or_gene_product
+PMC2198812	115	uniprot:UNRESOLVED ID	AdmSpry-2	Gene_or_gene_product
+PMC2198812	115	uniprot:UNRESOLVED ID	AdeGFP	Gene_or_gene_product
+PMC2198812	115	uniprot:UNRESOLVED ID	serum	CellType
+PMC2198812	115	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC2198812	116	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2198812	116	uniprot:Q8NFH3	p42	Gene_or_gene_product
+PMC2198812	117	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	117	uniprot:UNRESOLVED ID	eGFP	Gene_or_gene_product
+PMC2198812	117	uniprot:Q8NFH3	p42	Gene_or_gene_product
+PMC2198812	117	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2198812	118	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	118	uniprot:UNRESOLVED ID	mSpry-1 and -2 peptides	Gene_or_gene_product
+PMC2198812	119	uniprot:Q8NFH3	p42	Gene_or_gene_product
+PMC2198812	119	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2198812	119	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	119	uniprot:P09038	FGF2	Gene_or_gene_product
+PMC2198812	120	uniprot:Q8NFH3	p42	Gene_or_gene_product
+PMC2198812	120	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2198812	120	uniprot:P09038	FGF2	Gene_or_gene_product
+PMC2198812	120	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC2198812	121	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2198812	121	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	121	uniprot:Q8NFH3	p42	Gene_or_gene_product
+PMC2198812	121	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2198812	122	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
+PMC2198812	122	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	122	uniprot:P09038	FGF2-	Gene_or_gene_product
+PMC2198812	122	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC2198812	122	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2198812	123	uniprot:UNRESOLVED ID	mSpry-4	Gene_or_gene_product
+PMC2198812	123	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
+PMC2198812	123	uniprot:Q8NFH3	p42	Gene_or_gene_product
+PMC2198812	123	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2198812	125	uazid:UA-ORG-1021	trachea	Organ
+PMC2198812	125	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2198812	126	ncbitax:species:ncbi:9031	chicken	Species
+PMC2198812	126	ncbitax:species:ncbi:10090	mouse	Species
+PMC2198812	126	uazid:UA-CT-200003	embryos	Organ
+PMC2198812	127	uniprot:UNRESOLVED ID	Sprys	Gene_or_gene_product
+PMC2198812	127	uniprot:UNRESOLVED ID	serum	CellType
+PMC2198812	127	uniprot:P09038	FGF2	Gene_or_gene_product
+PMC2198812	128	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	129	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	129	uniprot:P09038	FGF2	Gene_or_gene_product
+PMC2198812	130	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	131	uniprot:O43597	Spry-2	Gene_or_gene_product
+PMC2198812	131	uniprot:P09038	FGF2	Gene_or_gene_product
+PMC2198812	132	uniprot:UNRESOLVED ID	Sprys	Gene_or_gene_product
+PMC2198812	132	uniprot:UNRESOLVED ID	Spry family	Gene_or_gene_product
+PMC2198812	133	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	133	uniprot:UNRESOLVED ID	mSpry-1 and -2 hSpry-1 and -2	Gene_or_gene_product
+PMC2198812	134	ncbitax:species:ncbi:9606	human	Species
+PMC2198812	134	uniprot:UNRESOLVED ID	hSpry-1	Gene_or_gene_product
+PMC2198812	135	uniprot:UNRESOLVED ID	hSpry-1	Gene_or_gene_product
+PMC2198812	136	uniprot:UNRESOLVED ID	serum	CellType
+PMC2198812	136	uniprot:UNRESOLVED ID	HUVECs	Gene_or_gene_product
+PMC2198812	136	uniprot:UNRESOLVED ID	hSpry-1	Gene_or_gene_product
+PMC2198812	137	uniprot:P09038	FGF2	Gene_or_gene_product
+PMC2198812	137	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC2198812	137	uniprot:UNRESOLVED ID	hSpry-1	Gene_or_gene_product
+PMC2198812	138	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	139	uniprot:O43597	Spry-2	Gene_or_gene_product
+PMC2198812	139	uniprot:UNRESOLVED ID	hSpry-1	Gene_or_gene_product
+PMC2198812	139	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	139	uniprot:UNRESOLVED ID	mSpry-2	Gene_or_gene_product
+PMC2198812	140	uniprot:UNRESOLVED ID	Spry gene	Gene_or_gene_product
+PMC2198812	140	uniprot:UNRESOLVED ID	Spry proteins	Gene_or_gene_product
+PMC2198812	142	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	142	uniprot:P07237	protein disulfide isomerase	Gene_or_gene_product
+PMC2198812	142	uniprot:P07237	PDI	Gene_or_gene_product
+PMC2198812	142	uniprot:P03372	ER	Gene_or_gene_product
+PMC2198812	142	uniprot:P49257	ergic-53	Gene_or_gene_product
+PMC2198812	142	uniprot:UNRESOLVED ID	Golgi region	Gene_or_gene_product
+PMC2198812	142	uniprot:Q14789	giantin	Gene_or_gene_product
+PMC2198812	142	uniprot:P02787	transferrin	Gene_or_gene_product
+PMC2198812	142	uniprot:UNRESOLVED ID	transferrin receptor	Gene_or_gene_product
+PMC2198812	142	uniprot:Q16932	syntaxin	Gene_or_gene_product
+PMC2198812	143	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	143	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	144	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	144	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	145	uniprot:P33151	VE-cadherin	Gene_or_gene_product
+PMC2198812	145	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	146	uniprot:UNRESOLVED ID	caveolins	Gene_or_gene_product
+PMC2198812	147	uniprot:Q03135	Caveolin-1	Gene_or_gene_product
+PMC2198812	148	uniprot:UNRESOLVED ID	Sprys	Gene_or_gene_product
+PMC2198812	148	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	149	uniprot:UNRESOLVED ID	AdmSpry-1	Gene_or_gene_product
+PMC2198812	149	uniprot:UNRESOLVED ID	AdeGFP	Gene_or_gene_product
+PMC2198812	150	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	150	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	150	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	151	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	151	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	152	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	152	uniprot:UNRESOLVED ID	mSpry-2	Gene_or_gene_product
+PMC2198812	153	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2198812	153	uazid:UA-ORG-407	immunoglobulins	Organ
+PMC2198812	153	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	154	uniprot:P07355	annexin II	Gene_or_gene_product
+PMC2198812	154	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	154	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	155	uniprot:UNRESOLVED ID	hSpry-1	Gene_or_gene_product
+PMC2198812	155	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	156	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	156	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	158	uniprot:UNRESOLVED ID	AdmSpry-1	Gene_or_gene_product
+PMC2198812	158	uniprot:UNRESOLVED ID	AdeGFP	Gene_or_gene_product
+PMC2198812	160	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	160	uniprot:P02787	transferrin	Gene_or_gene_product
+PMC2198812	160	uniprot:UNRESOLVED ID	transferrin receptor	Gene_or_gene_product
+PMC2198812	160	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	161	uniprot:P35222	beta-catenin	Gene_or_gene_product
+PMC2198812	162	uniprot:P29038	LDH	Gene_or_gene_product
+PMC2198812	163	uniprot:P07355	annexin II	Gene_or_gene_product
+PMC2198812	165	uniprot:Q03135	Caveolin-1	Gene_or_gene_product
+PMC2198812	167	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	167	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	168	uniprot:UNRESOLVED ID	AdmSpry-1	Gene_or_gene_product
+PMC2198812	168	uniprot:UNRESOLVED ID	AdeGFP	Gene_or_gene_product
+PMC2198812	169	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	170	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	170	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	171	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	171	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	172	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	173	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	173	uniprot:UNRESOLVED ID	Sprys	Gene_or_gene_product
+PMC2198812	174	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	175	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	176	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	177	uniprot:UNRESOLVED ID	AdmSpry-1	Gene_or_gene_product
+PMC2198812	177	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	178	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	181	uniprot:UNRESOLVED ID	mSpry-2	Gene_or_gene_product
+PMC2198812	182	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	183	uniprot:UNRESOLVED ID	endoglycosidase	Gene_or_gene_product
+PMC2198812	183	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	184	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	185	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	186	uniprot:P09038	FGF2	Gene_or_gene_product
+PMC2198812	186	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	188	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	191	uniprot:UNRESOLVED ID	Sprys	Gene_or_gene_product
+PMC2198812	192	uniprot:UNRESOLVED ID	AdmSpry-1 and -2	Gene_or_gene_product
+PMC2198812	193	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	194	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	196	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	197	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	198	ncbitax:species:ncbi:9031	chicken	Species
+PMC2198812	198	uniprot:Q8NFH3	p42	Gene_or_gene_product
+PMC2198812	198	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2198812	200	ncbitax:species:ncbi:10090	mouse	Species
+PMC2198812	200	uniprot:UNRESOLVED ID	hSpry-1 and -2	Gene_or_gene_product
+PMC2198812	200	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	201	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	201	uniprot:P09038	FGF2	Gene_or_gene_product
+PMC2198812	201	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC2198812	202	uniprot:Q8NFH3	p42	Gene_or_gene_product
+PMC2198812	202	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2198812	202	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
+PMC2198812	202	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	203	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2198812	203	uniprot:Q8NFH3	p42	Gene_or_gene_product
+PMC2198812	203	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2198812	203	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	204	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC2198812	204	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2198812	204	uniprot:UNRESOLVED ID	EGF receptors	Gene_or_gene_product
+PMC2198812	207	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	207	uniprot:UNRESOLVED ID	hSpry-1 and -2	Gene_or_gene_product
+PMC2198812	207	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	207	uazid:UA-ORG-725	plasma	Organ
+PMC2198812	208	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	209	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	209	uniprot:O43597	Spry-2	Gene_or_gene_product
+PMC2198812	209	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	210	uniprot:UNRESOLVED ID	growth factor receptors	Gene_or_gene_product
+PMC2198812	211	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	212	uniprot:UNRESOLVED ID	Sprys	Gene_or_gene_product
+PMC2198812	212	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2198812	213	uazid:UA-CT-100033	platelet	Organ
+PMC2198812	213	uniprot:UNRESOLVED ID	growth factor receptor	Gene_or_gene_product
+PMC2198812	213	uniprot:P12931	Src	Gene_or_gene_product
+PMC2198812	213	uniprot:UNRESOLVED ID	Galpha subunits	Gene_or_gene_product
+PMC2198812	213	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2198812	213	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2198812	213	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	216	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	216	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	217	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	217	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC2198812	217	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
+PMC2198812	218	uazid:UA-ORG-381	hand	Organ
+PMC2198812	218	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	218	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	219	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	219	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2198812	220	uniprot:P84998	Gap-1	Gene_or_gene_product
+PMC2198812	220	uniprot:UNRESOLVED ID	Grb-2 homologue Drk	Gene_or_gene_product
+PMC2198812	220	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2198812	221	uniprot:Q03135	caveo-lin-1	Gene_or_gene_product
+PMC2198812	221	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	222	uniprot:UNRESOLVED ID	Sprys	Gene_or_gene_product
+PMC2198812	222	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2198812	223	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	223	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2198812	223	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2198812	223	uniprot:UNRESOLVED ID	Sprys	Gene_or_gene_product
+PMC2198812	224	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2198812	227	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	227	uniprot:UNRESOLVED ID	scaffolding proteins	Gene_or_gene_product
+PMC2198812	228	ncbitax:species:ncbi:9031	chicken	Species
+PMC2198812	228	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	229	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	229	uniprot:O43597	Spry-2	Gene_or_gene_product
+PMC2198812	230	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	230	uniprot:O43597	Spry-2	Gene_or_gene_product
+PMC2198812	232	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	233	uniprot:O43557	light	Gene_or_gene_product
+PMC2198812	234	uniprot:UNRESOLVED ID	Sprys	Gene_or_gene_product
+PMC2198812	234	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	235	uniprot:UNRESOLVED ID	K. Paiha and P. Steinlein	Gene_or_gene_product
+PMC2198812	235	uniprot:P39900	ME	Gene_or_gene_product
+PMC2198812	238	uniprot:UNRESOLVED ID	M.-A	Gene_or_gene_product
+PMC2198812	239	uniprot:UNRESOLVED ID	Marie-Curie Training Mobility Research fellowship	Gene_or_gene_product
+PMC2198812	239	uniprot:UNRESOLVED ID	FMBICT983206	Gene_or_gene_product
+PMC2198812	241	uniprot:UNRESOLVED ID	murine Sprouty-4	Gene_or_gene_product
+PMC2198812	246	uniprot:UNRESOLVED ID	capillary endothelial cell	CellType
+PMC2198812	246	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2198812	246	uniprot:P01133	epidermal growth factor	Gene_or_gene_product
+PMC2198812	246	ncbitax:species:ncbi:9606	human	Species
+PMC2198812	246	uniprot:UNRESOLVED ID	umbilical vein endothelial cell	CellType
+PMC2198812	246	uniprot:P29038	LDH	Gene_or_gene_product
+PMC2198812	246	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2198812	246	uniprot:UNRESOLVED ID	mitogen-activating protein	Gene_or_gene_product
+PMC2198812	246	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
+PMC2198812	246	ncbitax:species:ncbi:10090	mouse	Species
+PMC2198812	246	uniprot:P04711	PPC	Gene_or_gene_product
+PMC2198812	246	uniprot:UNRESOLVED ID	RTK	Gene_or_gene_product
+PMC2198812	246	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC2198812	247	uniprot:UNRESOLVED ID	mSpry-1-4	Gene_or_gene_product
+PMC2198812	247	uniprot:UNRESOLVED ID	hSpry-2	Gene_or_gene_product
+PMC2198812	251	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	253	uniprot:UNRESOLVED ID	AdmSpry-1	Gene_or_gene_product
+PMC2198812	253	uniprot:UNRESOLVED ID	AdmSpry-2	Gene_or_gene_product
+PMC2198812	253	uniprot:UNRESOLVED ID	AdeGFP	Gene_or_gene_product
+PMC2198812	254	uniprot:P09038	FGF2	Gene_or_gene_product
+PMC2198812	254	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC2198812	254	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2198812	258	ncbitax:species:ncbi:10535	adenovirus	Species
+PMC2198812	260	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	260	uniprot:P09038	FGF2	Gene_or_gene_product
+PMC2198812	261	uniprot:UNRESOLVED ID	serum	CellType
+PMC2198812	261	uniprot:P09038	FGF2	Gene_or_gene_product
+PMC2198812	262	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	262	uniprot:UNRESOLVED ID	mSpry-2	Gene_or_gene_product
+PMC2198812	264	uniprot:UNRESOLVED ID	Spry mRNAs	Gene_or_gene_product
+PMC2198812	264	uniprot:UNRESOLVED ID	Kb	Gene_or_gene_product
+PMC2198812	264	uniprot:UNRESOLVED ID	18S ribosomal RNA	Gene_or_gene_product
+PMC2198812	265	uniprot:Q8NFH3	p42	Gene_or_gene_product
+PMC2198812	265	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2198812	266	uniprot:UNRESOLVED ID	AdmSpry-1	Gene_or_gene_product
+PMC2198812	266	uniprot:UNRESOLVED ID	AdmSpry-2	Gene_or_gene_product
+PMC2198812	266	uniprot:UNRESOLVED ID	AdeGFP	Gene_or_gene_product
+PMC2198812	266	uniprot:UNRESOLVED ID	serum	CellType
+PMC2198812	266	uniprot:P15692	VEGF	Gene_or_gene_product
+PMC2198812	266	uniprot:P09038	FGF2	Gene_or_gene_product
+PMC2198812	266	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2198812	267	uniprot:Q8NFH3	p42	Gene_or_gene_product
+PMC2198812	267	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2198812	267	uazid:UA-KB-FAM-00001	MEK	Gene_or_gene_product
+PMC2198812	268	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	268	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	269	uniprot:P33151	VE-cadherin	Gene_or_gene_product
+PMC2198812	270	uniprot:UNRESOLVED ID	hSpry-1	Gene_or_gene_product
+PMC2198812	270	uniprot:P33151	VE-cadherin	Gene_or_gene_product
+PMC2198812	272	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	272	uniprot:P33151	VE-cadherin	Gene_or_gene_product
+PMC2198812	273	ncbitax:species:ncbi:41568	mum	Species
+PMC2198812	275	uniprot:UNRESOLVED ID	hSpry-1	Gene_or_gene_product
+PMC2198812	275	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	276	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	277	uniprot:UNRESOLVED ID	serum	CellType
+PMC2198812	277	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	277	uniprot:P09038	FGF2	Gene_or_gene_product
+PMC2198812	279	ncbitax:species:ncbi:41568	mum	Species
+PMC2198812	280	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	281	uniprot:UNRESOLVED ID	hSpry-1	Gene_or_gene_product
+PMC2198812	281	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	283	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	283	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	285	ncbitax:species:ncbi:41568	mum	Species
+PMC2198812	286	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	287	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	287	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	288	uniprot:UNRESOLVED ID	AdmSpry-1	Gene_or_gene_product
+PMC2198812	288	uniprot:UNRESOLVED ID	AdeGFP	Gene_or_gene_product
+PMC2198812	288	uniprot:UNRESOLVED ID	digitonin	Gene_or_gene_product
+PMC2198812	289	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	289	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2198812	289	uazid:UA-ORG-407	immunoglobulins	Organ
+PMC2198812	290	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	290	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	290	uniprot:P07355	annexin II	Gene_or_gene_product
+PMC2198812	291	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	292	uniprot:UNRESOLVED ID	AdmSpry-1	Gene_or_gene_product
+PMC2198812	292	uniprot:UNRESOLVED ID	AdeGFP	Gene_or_gene_product
+PMC2198812	293	uniprot:UNRESOLVED ID	digitonin	Gene_or_gene_product
+PMC2198812	294	uniprot:O60240	Peri	Gene_or_gene_product
+PMC2198812	294	uniprot:UNRESOLVED ID	Na2HCO3	Gene_or_gene_product
+PMC2198812	296	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	296	uniprot:P29038	LDH	Gene_or_gene_product
+PMC2198812	296	uniprot:P02787	transferrin	Gene_or_gene_product
+PMC2198812	296	uniprot:UNRESOLVED ID	transferrin receptor	Gene_or_gene_product
+PMC2198812	296	uniprot:P02786	Tf-R	Gene_or_gene_product
+PMC2198812	296	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	296	uniprot:P07355	annexin II	Gene_or_gene_product
+PMC2198812	297	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	297	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	298	uniprot:UNRESOLVED ID	AdmSpry-1	Gene_or_gene_product
+PMC2198812	298	uniprot:UNRESOLVED ID	AdeGFP	Gene_or_gene_product
+PMC2198812	299	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	299	uniprot:Q03135	caveolin-1	Gene_or_gene_product
+PMC2198812	299	uniprot:P07355	annexin II	Gene_or_gene_product
+PMC2198812	300	uniprot:UNRESOLVED ID	Optiprep	Gene_or_gene_product
+PMC2198812	302	uniprot:O43609	Spry-1	Gene_or_gene_product
+PMC2198812	304	uniprot:UNRESOLVED ID	AdmSpry-1	Gene_or_gene_product
+PMC2198812	306	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	307	uniprot:B1JM22	Phosphatase	Gene_or_gene_product
+PMC2198812	308	ncbitax:species:ncbi:9913	calf	Species
+PMC2198812	308	uazid:UA-ORG-451	intestine	Organ
+PMC2198812	308	uniprot:UNRESOLVED ID	mSpry-1	Gene_or_gene_product
+PMC2198812	310	uniprot:UNRESOLVED ID	AdmSpry-1 or -2	Gene_or_gene_product
+PMC2198812	310	uniprot:UNRESOLVED ID	serum	CellType
+PMC2198812	310	uniprot:P09038	FGF2	Gene_or_gene_product
+PMC2198812	311	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	313	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	314	uniprot:UNRESOLVED ID	mSpry-1 and -2 proteins	Gene_or_gene_product
+PMC2198812	316	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	317	uniprot:UNRESOLVED ID	AdmSpry-1	Gene_or_gene_product
+PMC2198812	317	uniprot:UNRESOLVED ID	2 h. mSpry-1 and -2	Gene_or_gene_product
+PMC2198812	317	uniprot:UNRESOLVED ID	mSpry-1 and -2	Gene_or_gene_product

@@ -1,0 +1,185 @@
+Paper ID	Is title?	Section ID	Passage ID	Line Num	Text
+PMC2259347	true	article-title	0	0	Association of TRAF2 with the short form of cellular FLICE like inhibitory protein prevents TNFR1 mediated apoptosis
+PMC2259347	false	abstract	1	1	Background We have previously shown that c-FLIPL is a more potent inhibitor than c-FLIPS of Fas ligand induced apoptosis and that c-FLIPL physically binds to Daxx , an alternative Fas signaling adaptor .
+PMC2259347	false	abstract	1	2	Here we examined whether c-FLIPS effectively inhibits TNFR1 mediated apoptosis and triggers JNK activation through its interaction with TRAF2 .
+PMC2259347	false	abstract	1	3	Results Some cancer cell lines , such as DU145 , AGS , and PC3 , have higher levels of c-FLIPS than other cell lines , such as SNU-719 and T24 .
+PMC2259347	false	abstract	1	4	The expression of c-FLIPS correlated with the susceptibility to TNFR1 mediated apoptosis .
+PMC2259347	false	abstract	1	5	In contrast to DU145 and PC3 , which are resistant to TNFR1 mediated apoptosis , T24 and SNU719 were sensitive to TNF-alpha treatment .
+PMC2259347	false	abstract	1	6	To address the role of c-FLIPS in TNFR1 mediated apoptosis , we examined the molecular interaction between c-FLIPS and TRAF2 .
+PMC2259347	false	abstract	1	7	As expected , western blot analysis revealed that TRAF2 antibody immunoprecipitated a greater amount of c-FLIPS than c-FLIPL .
+PMC2259347	false	abstract	1	8	Also , we measured the involvement of c-FLIPS in TNF-alpha-induced JNK activation and apoptosis by comparing these in TNF-alpha-resistant and TNF-alpha-sensitive cell lines .
+PMC2259347	false	abstract	1	9	Treatment with TNF-alpha increased the phosphorylated JNK level in SNU719 and T24 cells , whereas DU145 and AGS cells were resistant to TNF-alpha-mediated apoptosis .
+PMC2259347	false	abstract	1	10	Conclusion We now report that the short form of c-FLIPS is a more efficient inhibitor of TNF-receptor 1 mediated apoptosis signaling than the long form of the protein .
+PMC2259347	false	sec-1	2	11	We have previously shown that c-FLIPL is a more potent inhibitor than c-FLIPS of Fas ligand induced apoptosis and that c-FLIPL physically binds to Daxx , an alternative Fas signaling adaptor .
+PMC2259347	false	sec-1	2	12	Here we examined whether c-FLIPS effectively inhibits TNFR1 mediated apoptosis and triggers JNK activation through its interaction with TRAF2 .
+PMC2259347	false	sec-2	3	13	Some cancer cell lines , such as DU145 , AGS , and PC3 , have higher levels of c-FLIPS than other cell lines , such as SNU-719 and T24 .
+PMC2259347	false	sec-2	3	14	The expression of c-FLIPS correlated with the susceptibility to TNFR1 mediated apoptosis .
+PMC2259347	false	sec-2	3	15	In contrast to DU145 and PC3 , which are resistant to TNFR1 mediated apoptosis , T24 and SNU719 were sensitive to TNF-alpha treatment .
+PMC2259347	false	sec-2	3	16	To address the role of c-FLIPS in TNFR1 mediated apoptosis , we examined the molecular interaction between c-FLIPS and TRAF2 .
+PMC2259347	false	sec-2	3	17	As expected , western blot analysis revealed that TRAF2 antibody immunoprecipitated a greater amount of c-FLIPS than c-FLIPL .
+PMC2259347	false	sec-2	3	18	Also , we measured the involvement of c-FLIPS in TNF-alpha-induced JNK activation and apoptosis by comparing these in TNF-alpha-resistant and TNF-alpha-sensitive cell lines .
+PMC2259347	false	sec-2	3	19	Treatment with TNF-alpha increased the phosphorylated JNK level in SNU719 and T24 cells , whereas DU145 and AGS cells were resistant to TNF-alpha-mediated apoptosis .
+PMC2259347	false	sec-3	4	20	We now report that the short form of c-FLIPS is a more efficient inhibitor of TNF-receptor 1 mediated apoptosis signaling than the long form of the protein .
+PMC2259347	false	sec-4	5	21	Tumor necrosis factor receptor 1 ( TNFR1 ) exhibits diverse activities inducing apoptosis and activating transcription factor NF-kappaB , which lead to the induction of a number of anti-apoptotic factors .
+PMC2259347	false	sec-4	5	22	After the components of the death inducing signaling complex of the related death receptor CD95 ( APO-1 / Fas )     were identified , it was widely assumed that TNFR1 also recruits both the FADD adaptor and caspase 8 upon binding of its ligand , TNF-alpha , resulting in the subsequent initiation of apoptosis .
+PMC2259347	false	sec-4	5	23	However , all attempts to demonstrate a direct physical association of FADD and caspase 8 with TNFR1 have so far been unsuccessful    , whereas the anti-apoptotic components of the signaling complex containing TNF-alpha receptor associated factor 2 ( TRAF2 ) , TNFR1 associated death domain protein ( TRADD ) and c-IAP1 are readily detectable    .
+PMC2259347	false	sec-4	6	24	In contrast to our understanding of the FAS and TRAIL receptors , the molecular mechanisms underlying TNFR1 induced cell death remain poorly defined , despite extensive study of the signaling pathways that operate through this receptor      .
+PMC2259347	false	sec-4	6	25	It is currently believed that the engagement of TNFR1 triggers the recruitment of the DD containing adaptor molecule , TRADD , followed by the DD containing Ser and Thr kinase RIP1    .
+PMC2259347	false	sec-4	6	26	This signaling complex is required for TRAF2 and 5 and c-IAP1 binding , which leads to triggering of the NF-kappaB and JNK signaling pathways    .
+PMC2259347	false	sec-4	6	27	TNFR1 binding by its ligand triggers these pathways , and can induce apoptosis by alternately binding the DD containing adaptor FADD ( through TRADD ) , which facilitates caspase 8 recruitment and activation    .
+PMC2259347	false	sec-4	7	28	The activation of the TNFR1 death receptor by TNF-alpha leads to the recruitment of TRADD , which serves as a platform for the formation of various signaling complexes involved in different biological processes    .
+PMC2259347	false	sec-4	7	29	For instance , TRADD can recruit FADD and promote caspase-8 activation and apoptosis through the extrinsic pathway    .
+PMC2259347	false	sec-4	7	30	However , TNF-alpha is not cytotoxic to most cells because TRADD can also recruit TRAF2 and RIP to form distinct complexes leading to the activation of NF-kappaB and JNK       .
+PMC2259347	false	sec-4	7	31	Because activation of NF-kappaB serves as a primary mechanism to protect cells against apoptotic stimuli such as TNF-alpha        , TNF-alpha-induced apoptosis requires NF-kappaB inhibition .
+PMC2259347	false	sec-4	8	32	The involvement of JNK in TNF-alpha-mediated apoptosis is highly controversial        .
+PMC2259347	false	sec-4	8	33	Induction of NF-kappaB has been shown recently to inhibit TNF-alpha-mediated JNK activation .
+PMC2259347	false	sec-4	8	34	Moreover , blocking NF-kappaB results in the sustained activation of JNK , which may directly promote TNF-alpha-mediated apoptosis        .
+PMC2259347	false	sec-4	8	35	However , although sustained activation of JNK promotes cell death , the molecular basis of how this contributes to TNF-alpha-mediated apoptosis remains to be addressed .
+PMC2259347	false	sec-4	9	36	One of the well described apoptosis inhibitors is c-FLIP , which is also known as FLAME-1 / I-FLICE/CASPER/CASH / MRIT/CLARP/Usurpin     .
+PMC2259347	false	sec-4	9	37	c-FLIPL and c-FLIPS contain two DED domains that are structurally similar to the N-terminal part of procaspase-8 .
+PMC2259347	false	sec-4	9	38	The C terminus of c-FLIPL consists of two catalytically inactive caspase like domains ( p20 and p12 ) , whereas the short C terminus of c-FLIPS shows no homology to procaspases-8 or -10 .
+PMC2259347	false	sec-4	9	39	Both isoforms of c-FLIP are recruited to the DISC by DED DED interactions        .
+PMC2259347	false	sec-4	9	40	However , it remains to be clarified in detail whether the differences in the mechanism of apoptosis inhibition also reflect different functional roles of c-FLIPS and c-FLIPL and by which downstream mechanisms they are mediated .
+PMC2259347	false	sec-4	10	41	Genetic evidence suggests that FADD and caspase 8 are important for TNFR1 mediated apoptosis        .
+PMC2259347	false	sec-4	10	42	In addition , expression of the inhibitor of caspase 8 , c-FLIPL , inhibits the TNF-alpha-induced apoptotic pathway     , which provides further evidence for the important role of caspase 8 in this cascade .
+PMC2259347	false	sec-4	10	43	Expression of c-FLIPL is induced by NF-kappaB     , which may explain why death receptor induced apoptosis is generally blocked in cells with active NF-kappaB .
+PMC2259347	false	sec-4	11	44	Here we examined whether c-FLIPS effectively inhibits TNFR1 mediated apoptosis and triggers JNK activation through its interaction with TRAF2 .
+PMC2259347	false	sec-4	11	45	The effects of TRAF2 in TNFR1 mediated apoptosis was attenuated by DN-TRAF2 , and the level of p-JNK in c-FLIPS siRNA increased more in TNF-alpha sensitive cell line than in a TNF-alpha resistant cell line .
+PMC2259347	false	sec-4	11	46	In this paper , we demonstrate that the regulation of c-FLIPS is related to the TNFR1 signaling pathway .
+PMC2259347	true	sec-6	12	47	Inhibition of TNFR1 mediated apoptosis is dependent on the expression levels of c-FLIPS
+PMC2259347	false	sec-6	13	48	To examine the relationship between the expression level of c-FLIPS and the apoptotic response , we used real-time PCR to examine the expression of c-FLIP in human cancer cell lines .
+PMC2259347	false	sec-6	13	49	We have shown previously that c-FLIPL is a more potent inhibitor than c-FLIPS of Fas ligand induced apoptosis and that c-FLIPL physically binds to Daxx through an interaction between its C-terminal domain and the Fas binding domain of Daxx , an alternative Fas signaling adaptor     .
+PMC2259347	false	sec-6	13	50	Interestingly , some cancer cell lines , such as DU145 , AGS , and PC3 , have higher levels of c-FLIPS than other cell lines , such as SNU-719 and T24 ( Fig .
+PMC2259347	false	sec-6	13	51	.
+PMC2259347	false	sec-6	13	52	However , the expression of c-FLIPS at the transcriptional level does not exactly reflect the protein levels ( Fig .
+PMC2259347	false	sec-6	13	53	.
+PMC2259347	false	sec-6	13	54	This discrepancy may result from the low mRNA stability of c-FLIP , which has been described recently        .
+PMC2259347	false	fig-1	14	55	The expression levels of c-FLIPS indicate a relationship to resistance to TNF induced apoptosis .
+PMC2259347	false	fig-1	14	56	( A ) Immunoblotting analysis of c-FLIPL and c-FLIPS in TNF-alpha-resistant and TNF-alpha-sensitive cell lines with anti-FLIPL and anti-FLIPS antibodies .
+PMC2259347	false	fig-1	14	57	The molecular weights of c-FLIPL and c-FLIPS were about 55 kDa and 28 kDa , respectively .
+PMC2259347	false	fig-1	14	58	beta-Actin was used as a loading control .
+PMC2259347	false	fig-1	14	59	( B ) Differences in the expression levels of c-FLIPS between various cancer cell lines shown by quantitative real-time PCR and SYBR Green detection .
+PMC2259347	false	fig-1	14	60	Levels of c-FLIPS were normalized to GAPDH and the fold changes in c-FLIPS levels are shown for each cell line .
+PMC2259347	false	fig-1	14	61	Data shown are the average of two assays .
+PMC2259347	false	fig-1	14	62	PCR products were analyzed using Sequence Detection software .
+PMC2259347	false	fig-1	14	63	Error bars equal the SEM .
+PMC2259347	false	fig-1	14	64	( C ) Measurement of TNF-alpha-induced apoptosis using the TUNEL assay ( M , TUNEL positive ) in different human cancer cell lines .
+PMC2259347	false	fig-1	14	65	Different patterns are shown following treatment with TNF-alpha ( 10 ng and ml ) at 0 , 12 , and 24 h.
+PMC2259347	false	sec-6	15	66	To elucidate the biological significance of these phenomena , we examined the susceptibility of these cell lines to TNF-alpha .
+PMC2259347	false	sec-6	15	67	Interestingly , the expression of c-FLIPS correlated with the susceptibility to TNFR1 mediated apoptosis ( Fig .
+PMC2259347	false	sec-6	15	68	.
+PMC2259347	false	sec-6	15	69	In contrast to DU145 and PC3 , which are resistant to TNFR1 mediated apoptosis , T24 and SNU719 were sensitive to TNF-alpha treatment .
+PMC2259347	true	sec-7	16	70	The sensitivity of cells to TNF is associated with the expression levels of c-FLIPS
+PMC2259347	false	sec-7	17	71	Based on our previous findings , we speculated that the overexpression of c-FLIPS would confer resistance to TNF-alpha-induced apoptosis more effectively than overexpression of c-FLIPL .
+PMC2259347	false	sec-7	17	72	We investigated the role of c-FLIPS in this pathway by transfecting into SNU-719 cells , which express a lower level of c-FLIPS than other cell lines , because we did not have a knockout cell line of c-FLIPS .
+PMC2259347	false	sec-7	17	73	Although the ectopic expression of c-FLIPS and c-FLIPL did not significantly inhibit TNF-alpha-induced apoptosis , the inhibition of TNFR1 induced apoptosis by c-FLIPS was more potent than that of c-FLIPL ( Fig .
+PMC2259347	false	sec-7	17	74	.
+PMC2259347	false	fig-2	18	75	Expression of c-FLIPS confers stronger resistance to TNF-alpha-induced apoptosis than c-FLIPL , through a TRAF2 dependent mechanism .
+PMC2259347	false	fig-2	18	76	( A ) Analysis of TNF-alpha-induced apoptosis .
+PMC2259347	false	fig-2	18	77	SNU-719 cells were transfected with the indicated constructs and treated with 10 ng and ml TNF-alpha for 24 h. Apoptotic cells were evaluated 48 h after transfection for each construct using the DNA fragmentation assay as described in Materials and methods .
+PMC2259347	false	fig-2	18	78	After treatment with TNF-alpha , the percentage of apoptotic cells transfected with pcDNA and c-FLIPL increased , but the percentage of apoptotic cells did not change in cells transfected with c-FLIPS .
+PMC2259347	false	fig-2	18	79	This experiment was performed three times independently .
+PMC2259347	false	fig-2	18	80	* P < 0.01 compared with FLIPL and FLIPS .
+PMC2259347	false	fig-2	18	81	( B ) Ectopic expression of c-FLIPL by itself induced the activation of JNK in response to TNF-alpha , whereas c-FLIPS did not change this effect .
+PMC2259347	false	fig-2	18	82	P- and t-JNK indicate the phosphorylated JNK and total JNK levels , respectively .
+PMC2259347	false	fig-2	18	83	( C ) SNU-719 cells were transfected with FLAG tagged c-FLIPL and c-FLIPS expression vectors , incubated with TNF-alpha ( 10 ng and ml ) for 12 h , and subjected to immunoprecipitation with anti-TRAF2 antibody followed by immunoblotting with anti-FLAG antibody .
+PMC2259347	false	fig-2	18	84	Immunoblotting of TRAF2 was used as a loading control .
+PMC2259347	false	fig-2	18	85	( D ) To verify the role of TRAF2 in TNF-alpha-induced apoptosis , SNU-719 cells were cotransfected with the indicated constructs with DN-TRAF2 .
+PMC2259347	false	fig-2	18	86	Apoptotic cells were evaluated 24 h after transfection for each construct using flow cytometric analysis as described in Materials and methods .
+PMC2259347	false	fig-2	18	87	( E ) To confirm the results , we examined caspase 3 activity in the same conditions as described in Fig. 2 .
+PMC2259347	false	fig-2	18	88	D. beta-Actin was used as a loading control .
+PMC2259347	false	sec-7	19	89	To further examine the role of c-FLIPS in JNK activation , we transfected c-FLIPL and c-FLIPS expression vectors into SNU-719 cells , which constitutively express TNF .
+PMC2259347	false	sec-7	19	90	We found other significant differences in the effects of these c-FLIP variants on the TNF-alpha-induced activation of JNK .
+PMC2259347	false	sec-7	19	91	In c-FLIPL-transfected cells , TNF induced the phosphorylation of JNK , whereas in c-FLIPS-expressing cells , the phosphorylation of JNK was not changed                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ( Fig .
+PMC2259347	false	sec-7	19	92	.
+PMC2259347	false	sec-7	19	93	These results suggest that each c-FLIP variant is capable of binding to TRAF2 , where it may inhibit TNFR1 mediated apoptosis .
+PMC2259347	true	sec-8	20	94	The function of c-FLIPS is exerted through TNFR1 mediated JNK activation
+PMC2259347	false	sec-8	21	95	The TNFR1 mediated apoptotic response has two pathways : type 1 apoptosis achieved through FADD-caspase 8 activation , and type 2 mitochondrial dependent apoptosis , which is less dependent on the FADD-caspase 8 pathway     .
+PMC2259347	false	sec-8	21	96	TNF-alpha enhances the activity of JNK , which leads to dysfunctional mitochondria and contributes to TNF-alpha-induced apoptosis     .
+PMC2259347	false	sec-8	21	97	We examined the involvement of c-FLIPS in TNF-alpha-induced JNK activation and apoptosis by comparing these in TNF-alpha-resistant and TNF-alpha-sensitive cell lines .
+PMC2259347	false	sec-8	21	98	Treatment with TNF-alpha increased the phosphorylated JNK level in SNU719 and T24 cells , whereas DU145 and AGS cells were resistant to TNF-alpha-mediated apoptosis ( Fig .
+PMC2259347	false	sec-8	21	99	and    .
+PMC2259347	false	sec-8	21	100	These results indicate that the sensitivity to TNF-alpha is associated with the TNF induced activation of JNK .
+PMC2259347	false	fig-3	22	101	JNK activation in TNF resistant cell lines .
+PMC2259347	false	fig-3	22	102	TNF-alpha-sensitive cell lines can activate JNK in response to TNF-alpha .
+PMC2259347	false	fig-3	22	103	In T24 and SNU719 cells , JNK is activated in response to TNF-alpha , whereas DU145 and AGS cells do not show this induction .
+PMC2259347	false	fig-3	22	104	( A ) To examine the activation of JNK , protein extracts from the indicated cell lines were incubated for 6 h with TNF-alpha ( 10 ng and ml ) and subjected to immunoblotting with phospho specific and total JNK antibodies .
+PMC2259347	false	fig-3	22	105	P- and T- indicate phosphorylated proteins and total proteins , respectively .
+PMC2259347	false	fig-3	22	106	( B ) Expression was quantified by densitometric scan of the blots ( A ) .
+PMC2259347	false	fig-3	22	107	Values are the ratio of p-JNK and t-JNK and are presented relative to each control .
+PMC2259347	true	sec-9	23	108	Knockdown of endogenous c-FLIPS augments TNFR1 mediated apoptosis
+PMC2259347	false	sec-9	24	109	To confirm the involvement of endogenous c-FLIPS in TNFR1 mediated apoptosis , we developed siRNA oligonucleotides that selectively knock down the expression of c-FLIPS in several cancer cell lines .
+PMC2259347	false	sec-9	24	110	To select a potent candidate siRNA oligonucleotide , we transfected human PC3 cells , which express a higher level of c-FLIPS than other cell lines                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             and AGS cells ( 6 fold ) than in T24 cells ( 2.5 fold ) , although these differences were not considerable .
+PMC2259347	false	sec-9	24	111	Apoptosis analysis indicated that knockdown of c-FLIPS in SNU719 and T24 cells increased the level of spontaneous cell death by about 40 % compared with control , whereas knockdown of DU145 and AGS had minimal effects .
+PMC2259347	false	sec-9	24	112	To confirm this result , we used immunoblot analysis to examine the level of c-FLIPS protein in these cell lines after treatment with siRNA ( Fig .
+PMC2259347	false	sec-9	24	113	.
+PMC2259347	false	sec-9	24	114	As expected , the expression of c-FLIPS decreased in these cell lines with c-FLIPS siRNA .
+PMC2259347	false	fig-4	25	115	Knockdown of endogenous c-FLIPS in several cell lines enhances apoptosis induction by TNF-alpha .
+PMC2259347	false	fig-4	25	116	( A ) To examine the role of c-FLIPS in TNFR1 mediated apoptosis , PC3 cells were transfected with three different siRNA oligonucleotides designed to knock down c-FLIPS .
+PMC2259347	false	fig-4	25	117	The level of c-FLIPS protein was inhibited completely by C2 and C3 .
+PMC2259347	false	fig-4	25	118	In further studies , we used C3 oligonucleotide as an siRNA .
+PMC2259347	false	fig-4	25	119	( B ) The indicated siRNA transfected cells were treated with TNF-alpha ( 5 ng and ml ) for 24 h and extracted for immunoblotting with phospho specific antibodies to JNK and actin .
+PMC2259347	false	fig-4	25	120	( C ) The indicated siRNA transfected cell lines were treated with TNF-alpha ( 5 ng and ml ) for 24 h before harvesting for flow cytometric analysis .
+PMC2259347	false	fig-4	25	121	This experiment was performed independently three times .
+PMC2259347	false	fig-4	25	122	( D ) The indicated siRNA transfected cell lines were treated with TNF-alpha ( 5 ng and ml ) for 24 h and extracted for immunoblotting with anti-FLIPS antibody .
+PMC2259347	false	fig-4	25	123	beta-Actin was used as a loading control .
+PMC2259347	false	sec-10	26	124	Although a specific role for each c-FLIP and a distinct mechanism by which each inhibits apoptosis have been proposed        , the functions of the c-FLIP splice variants remain largely unknown .
+PMC2259347	false	sec-10	26	125	Our current data provide insight into the mechanism underlying the TNF-alpha-induced apoptotic pathway .
+PMC2259347	false	sec-10	26	126	This pathway is characterized by a higher affinity of TRAF2 for c-FLIPS over c-FLIPL and involves suppression of JNK activation and resistance to TNF-alpha-induced cell death .
+PMC2259347	false	sec-10	26	127	c-FLIPS is also readily detectable in various types of human cancer and confers resistance to CD95 mediated apoptosis in T cells during the immune response     .
+PMC2259347	false	sec-10	27	128	Our results are summarized in the model shown in Fig .
+PMC2259347	false	sec-10	27	129	.
+PMC2259347	false	sec-10	27	130	It appears that c-FLIPS and c-FLIPL have distinct roles , and we speculate that c-FLIPS acts primarily to support TNF induced JNK activation .
+PMC2259347	false	sec-10	27	131	Our results are consistent with previous data showing different functions of each type of c-FLIP , including a specific role for c-FLIPS in CD40 signaling     .
+PMC2259347	false	sec-10	27	132	A distinct action of each c-FLIP variant in Fas induced cleavage of caspase 8 has also been proposed     .
+PMC2259347	false	sec-10	27	133	According to these earlier studies , c-FLIPL and c-FLIPS produce different end products in the caspase 8 pathway .
+PMC2259347	false	sec-10	27	134	Our data also show that apoptosis sensitivity correlates with c-FLIP expression in several cell types , including dendritic cells , keratinocytes , and vascular smooth muscle cells ( data not shown ) .
+PMC2259347	false	fig-5	28	135	A working model of the role of c-FLIPS in TNFR1 mediated apoptosis .
+PMC2259347	false	fig-5	28	136	The binding of c-FLIPS to TRAF2 delays the recruitment of c-FLIPL , and c-FLIPS and c-FLIPL block TNFR1 mediated apoptosis .
+PMC2259347	false	fig-5	28	137	However , the cellular c-FLIPS level is elevated sufficiently to block apoptosis and promote cell survival .
+PMC2259347	false	sec-10	29	138	Although TRAF2 bound both c-FLIPS and c-FLIPL in our experiments , other reports have shown that c-FLIPL interacts exclusively with TRAF2     .
+PMC2259347	false	sec-10	29	139	This discrepancy may be reconciled by recent studies showing that alternative variants of c-FLIP promote different TNF-alpha-induced signaling pathways .
+PMC2259347	false	sec-10	29	140	c-FLIPL has a strong affinity for Raf , whereas c-FLIPS is tightly associated with TRAF2     .
+PMC2259347	false	fig-4	30	141	The gene knockout and siRNA knockdown studies of c-FLIP reported to date show that reduction of both c-FLIP variants sensitizes cells to death receptor induced apoptosis     .
+PMC2259347	false	fig-4	30	142	We used a selective siRNA knockdown approach to assess the specific function of endogenous c-FLIPS and compare this with the function of c-FLIPL .
+PMC2259347	false	fig-4	30	143	Our results reinforce the conclusion that endogenous c-FLIPS inhibits death receptor mediated apoptosis .
+PMC2259347	false	sec-9	31	144	Our data showing that c-FLIPS interacts rapidly with FADD and enhances the activation of JNK through TRAF2 may explain why c-FLIPS shows high expression levels , despite its overlapping role with c-FLIPL .
+PMC2259347	false	sec-9	31	145	In addition , the expression pattern of c-FLIPS is coupled to the expression of TNF .
+PMC2259347	false	sec-9	31	146	Our current experiments have confirmed our previous data showing that each type of c-FLIP has a distinct target in the inhibition of apoptosis .
+PMC2259347	false	sec-9	31	147	We postulate that the different expression patterns of the c-FLIP variants are specific to cancer cell type .
+PMC2259347	true	sec-12	32	148	Cell culture and reagents
+PMC2259347	false	sec-12	33	149	Human cancer cell lines were obtained from ATCC and maintained in RPMI 1640 containing 10 % fetal bovine serum ( FBS ) ( Gibco BRL ) heat inactivated at 37degreesC ; cells were grown in a humidified chamber containing 5 % CO2 .
+PMC2259347	false	sec-12	33	150	Except as indicated , all other chemicals used in this experiment were purchased from Sigma-Aldrich .
+PMC2259347	false	sec-12	33	151	Recombinant human TNF-alpha and antibodies were obtained from Santa Cruz Biotech .
+PMC2259347	false	sec-13	34	152	Expression constructs for c-FLIPL , c-FLIPS , and a dominant negative version of TRAF2 ( TRAF2266-501 ) were generated by RT-PCR-based cloning into the pcDNA 3.1 topo His and V5 vector ( Invitrogen . )
+PMC2259347	false	sec-13	34	153	Geneporter transfection reagent was purchased from Gene Therapy Systems .
+PMC2259347	false	sec-13	34	154	The transfection procedure was performed according to the manufacturer 's instructions .
+PMC2259347	false	sec-13	34	155	Briefly , cells were seeded in six-well plates at a concentration of 1 x 105 cells and well .
+PMC2259347	false	sec-13	34	156	Four micrograms of DNA per well was mixed with serum-free media containing Geneporter ( 10 mul and well ) , incubated for 30 min at room temperature , and added to cells that had previously been washed twice with PBS .
+PMC2259347	false	sec-13	34	157	After 3-5 h , media ( 1 ml and well ) containing 20 % FBS was added to each well .
+PMC2259347	false	sec-13	34	158	All experiments , including thymidine incorporation assays , western blotting , immunoprecipitation , and cell death assays , were performed after incubation for 24 h. To monitor transfection efficiency , cells were cotransfected with GFP-pcDNA .
+PMC2259347	false	sec-14	35	159	Small interfering RNA ( siRNA ) oligonucleotides against c-FLIPS were synthesized by BLOCK-iT ( TM ) RNAi Designer      ( C1 : 5 ' GCCATTTGACCTGCTCAAA3 ' C2 : 5 ' GCAGAGATTGGTGAGGATT3 ' C3 : 5 ' GGAGAAACTAAATCTGGTT3 ' ) .
+PMC2259347	false	sec-14	35	160	All siRNA oligonucleotides were resuspended to a concentration of 20 muM .
+PMC2259347	false	sec-14	35	161	The cells were seeded for transfection in medium without antibiotics one day before transfection to ensure they were 85 % -95 % confluent on the day of transfection .
+PMC2259347	false	sec-14	35	162	For transfection , regular medium was replaced with serum-free medium without antibiotics .
+PMC2259347	false	sec-14	35	163	The cells were transfected with siRNA using Lipofectamine 2000 ( Invitrogen ) at a ratio of 1:3 siRNA : Lipofectamine ( mug : mul ) , giving a final concentration of 100-150 nM siRNA .
+PMC2259347	false	sec-14	35	164	The cells were incubated with the siRNA-Lipofectamine 2000 complex for 4 h , the serum-free medium was replaced with normal medium ( containing 10 % FBS ) without antibiotics , and the cells incubated for a total of 48 h before further analysis .
+PMC2259347	false	sec-15	36	165	Reactions for real-time PCR were performed in a final volume of 25 mul using TaqMan detection .
+PMC2259347	false	sec-15	36	166	Each tube contained 12.5 mul of TaqMan Universal PCR Master Mix , 1.25 mul of Assays-on-Demand Gene Expression probes ( Applied Biosystems ) TaqMan probe and 100 ng of each cDNA template .
+PMC2259347	false	sec-15	36	167	All PCR samples and controls were prepared in triplicate using 0.2 ml Micro-Amp Optical reaction tubes and MicroAmp Optical tube caps ( Applied Biosystems ) .
+PMC2259347	false	sec-15	36	168	The PCR mixture was held at 50degreesC for 5 min and denatured at 95degreesC for 10 min .
+PMC2259347	false	sec-15	36	169	Forty amplification cycles were carried out at 95degreesC for 20 s , followed by 60degreesC for 1 min .
+PMC2259347	false	sec-15	36	170	All amplifications were performed using an ABI PRISM ( R ) 7900 HT ( Applied Biosystems ) .
+PMC2259347	false	sec-15	36	171	PCR products were analyzed using Sequence Detection software ( Applied Biosystems ) .
+PMC2259347	true	sec-16	37	172	Cell death assay and flow cytometric detection of apoptosis by annexin V labeling
+PMC2259347	false	sec-16	38	173	A DNA fragmentation assay ( BMS ; Manheim , Germany ) was used .
+PMC2259347	false	sec-16	38	174	All procedures were performed using the manufacturer 's protocol .
+PMC2259347	false	sec-16	38	175	Analysis of ELISA was carried by a Softmax ELISA reader at an absorbance of 460 nm .
+PMC2259347	false	sec-16	38	176	Each experiment was performed independently three times by external observers .
+PMC2259347	false	sec-16	39	177	Annexin V ( Sigma ) , a phosphatidylserine binding protein , was used to detect apoptotic cells , and the nuclear stain , propidium iodide ( PI ) ( Sigma ) was used to identify late-apoptotic cells or necrotic cells .
+PMC2259347	false	sec-16	39	178	Cells seeded at a concentration of 1 x 105 cells and well in six-well plates were incubated at 37degreesC with or without 10 ng and ml TNF-alpha for 24 h. Cells were washed twice with cold PBS and resuspended in 500 mul of binding buffer ( 100 muM HEPES , pH 7.4 , 14 mM NaCl , and 25 muM CaCl2 ) containing 5 mul of annexin V-fluorescein isothiocyanate ( FITC ) ( Sigma ) and 10 mug and ml PI for 15 min at 4degreesC in the dark .
+PMC2259347	false	sec-16	39	179	For each sample , about 105 cells were analyzed by flow cytometry .
+PMC2259347	false	sec-16	39	180	FITC and PI emissions were collected through 520 and 630 nm bandpass filters , respectively .
+PMC2259347	false	sec-17	40	181	DJK did all of the experiments and writing of the manuscript ,
+PMC2259347	false	sec-17	41	182	CP and BSO contributed experiment design and discussion of results .
+PMC2259347	false	sec-17	42	183	YYK contributed the project leader and designer of this study and writing of the manuscript .

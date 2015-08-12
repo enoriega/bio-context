@@ -51,8 +51,34 @@ def feature_overlap_grid(dicts):
 
     return pd.DataFrame(rows, index=keys)
 
+def jaccard_overlap_grid(dicts):
+    ''' Creates a pandas data frame with the feature overlap for all the papers
+        using the jaccard index. Takes set of feature dictionaries as input '''
 
-    return
+    keys = sorted(dicts.keys())
+    rows = []
+
+    for k1 in keys:
+        row = {}
+        for k2 in keys:
+            f1, f2 = set(dicts[k1].keys()), set(dicts[k2].keys())
+            row[k2] = len(f1 & f2)  / float(len(f1 | f2))
+        rows.append(row)
+
+    return pd.DataFrame(rows, index=keys)
+
+def feature_document_frequency(design_matrix, vocabulary):
+
+    counts = design_matrix.sum(axis=0)
+    frame = pd.DataFrame(zip(counts, vocabulary), columns=['count', 'id'])
+
+    frame = frame[frame.id.str.startswith('uniprot') == False]
+    frame = frame[frame.id.str.startswith('Context') == False]
+    frame = frame[frame.id.str.startswith('interpro') == False]
+    frame.set_index('id', inplace=True)
+    frame.sort('count', ascending=False, inplace=True)
+
+    return frame
 
 if __name__ == '__main__':
 
@@ -149,7 +175,7 @@ if __name__ == '__main__':
 
     plt.ion()
     fig, ax = plt.subplots()
-    ax.set_yticks(np.arange(0,14)+0.5)
+    ax.set_yticks(np.arange(0,len(sorted_rows))+0.5)
     ax.set_yticklabels([docs[i] for i in sorted_rows])
     ax.set_ylabel("Document")
     ax.set_xlabel("Feature number")

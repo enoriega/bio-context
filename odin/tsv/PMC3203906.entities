@@ -1,0 +1,336 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC3203906	0	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	0	uazid:UA-CT-16	Macrophages	CellType
+PMC3203906	2	uniprot:UNRESOLVED ID	Phosphoinositide 3-kinase	Gene_or_gene_product
+PMC3203906	2	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3203906	3	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	3	uazid:UA-CT-16	macrophages	CellType
+PMC3203906	3	uniprot:P48736	PI3Kgamma	Gene_or_gene_product
+PMC3203906	3	uniprot:P48736	p110gamma-/-	Gene_or_gene_product
+PMC3203906	4	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	5	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	5	uniprot:O89094	mice	Species
+PMC3203906	5	uniprot:P78527	DNA-dependent protein kinase catalytic subunit	Gene_or_gene_product
+PMC3203906	5	uniprot:P78527	DNA-PKcs	Gene_or_gene_product
+PMC3203906	6	uniprot:P78527	DNA-PKcs	Gene_or_gene_product
+PMC3203906	6	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	7	uniprot:P78527	DNA-PKcs	Gene_or_gene_product
+PMC3203906	8	uniprot:Q15075	EEA1	Gene_or_gene_product
+PMC3203906	9	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	10	uniprot:UNRESOLVED ID	ras-binding site mutant	Gene_or_gene_product
+PMC3203906	10	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	11	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	12	uniprot:P78527	DNA-PKcs	Gene_or_gene_product
+PMC3203906	12	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	12	uazid:UA-CT-16	macrophages	CellType
+PMC3203906	13	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC3203906	13	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	13	interpro:IPR004281	IL-12	Gene_or_gene_product
+PMC3203906	13	uniprot:UNRESOLVED ID	IFN-alpha/beta	Gene_or_gene_product
+PMC3203906	13	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC3203906	14	uniprot:Q9NR96	TLR9	Gene_or_gene_product
+PMC3203906	14	uniprot:P78527	DNA-PKcs	Gene_or_gene_product
+PMC3203906	15	uazid:UA-CT-16	macrophages	CellType
+PMC3203906	16	uniprot:UNRESOLVED ID	Phosphoinositide 3-kinase	Gene_or_gene_product
+PMC3203906	16	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3203906	17	interpro:IPR004281	IL-12	Gene_or_gene_product
+PMC3203906	17	uniprot:P20941	pDC	CellType
+PMC3203906	17	uniprot:O89094	mice	Species
+PMC3203906	18	uniprot:P35228	iNOS	Gene_or_gene_product
+PMC3203906	19	interpro:IPR004281	IL-12	Gene_or_gene_product
+PMC3203906	19	uniprot:P05231	IL-6	Gene_or_gene_product
+PMC3203906	19	uniprot:P01375	TNF-alpha	Gene_or_gene_product
+PMC3203906	20	uniprot:UNRESOLVED ID	class III PI3K	Gene_or_gene_product
+PMC3203906	21	interpro:IPR004281	IL-12	Gene_or_gene_product
+PMC3203906	21	ncbitax:species:ncbi:10090	mouse	Species
+PMC3203906	21	uazid:UA-ORG-100	bone	Organ
+PMC3203906	21	uniprot:UNRESOLVED ID	marrow	CellType
+PMC3203906	22	ncbitax:species:ncbi:9606	human	Species
+PMC3203906	22	uniprot:P20941	pDC	CellType
+PMC3203906	22	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3203906	22	uniprot:P28172	IFN	Gene_or_gene_product
+PMC3203906	23	uniprot:Q92985	IRF-7	Gene_or_gene_product
+PMC3203906	23	uniprot:O00329	PI3Kdelta	Gene_or_gene_product
+PMC3203906	23	uniprot:UNRESOLVED ID	IC87114	Gene_or_gene_product
+PMC3203906	24	uniprot:UNRESOLVED ID	PI3K/mTOR/p70S6K	Gene_or_gene_product
+PMC3203906	24	uniprot:UNRESOLVED ID	TLR9/MyD88/IRF7	Gene_or_gene_product
+PMC3203906	24	uniprot:UNRESOLVED ID	type I IFN	Gene_or_gene_product
+PMC3203906	24	uniprot:P20941	pDC	CellType
+PMC3203906	26	uniprot:Q8UVK2	Pan-	Gene_or_gene_product
+PMC3203906	26	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3203906	27	uniprot:UNRESOLVED ID	PI3Ks	Gene_or_gene_product
+PMC3203906	27	uniprot:UNRESOLVED ID	block kinase	Gene_or_gene_product
+PMC3203906	28	uniprot:P78527	DNA-dependent protein kinase catalytic subunit	Gene_or_gene_product
+PMC3203906	28	uniprot:P78527	DNA-PKcs	Gene_or_gene_product
+PMC3203906	28	uniprot:UNRESOLVED ID	PI3K-like kinase family	Gene_or_gene_product
+PMC3203906	29	uniprot:P78527	DNA-PKcs	Gene_or_gene_product
+PMC3203906	29	uniprot:UNRESOLVED ID	PI3Ks	Gene_or_gene_product
+PMC3203906	30	uniprot:UNRESOLVED ID	class IB PI3K	Gene_or_gene_product
+PMC3203906	30	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	30	uniprot:O89094	mice	Species
+PMC3203906	30	uniprot:P78527	DNA-PKcs	Gene_or_gene_product
+PMC3203906	31	uniprot:P78527	DNA-PKcs	Gene_or_gene_product
+PMC3203906	31	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	31	uazid:UA-CT-16	macrophages	CellType
+PMC3203906	32	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	32	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	33	uniprot:P78527	DNA-PKcs	Gene_or_gene_product
+PMC3203906	34	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	34	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	35	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	35	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	35	uazid:UA-CT-16	macrophages	CellType
+PMC3203906	36	ncbitax:species:ncbi:10090	Mouse	Species
+PMC3203906	36	uazid:UA-CT-16	macrophages	CellType
+PMC3203906	36	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	37	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3203906	37	uniprot:P23799	TLR	Gene_or_gene_product
+PMC3203906	37	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	37	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	38	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	38	uazid:UA-CT-16	macrophages	CellType
+PMC3203906	38	ncbitax:species:ncbi:10090	mouse	Species
+PMC3203906	39	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	39	uniprot:O89094	mice	Species
+PMC3203906	40	uazid:UA-CT-16	macrophages	CellType
+PMC3203906	40	uniprot:O89094	mice	Species
+PMC3203906	40	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	41	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	42	uazid:UA-CT-16	Macrophages	CellType
+PMC3203906	42	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	42	uniprot:O89094	mice	Species
+PMC3203906	42	uniprot:P40225	mL	Gene_or_gene_product
+PMC3203906	43	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	44	uniprot:P46060	SD	Gene_or_gene_product
+PMC3203906	45	uniprot:UNRESOLVED ID	Wortmannin	Gene_or_gene_product
+PMC3203906	45	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	46	uazid:UA-CT-16	Macrophages	CellType
+PMC3203906	46	uniprot:UNRESOLVED ID	pan-PI3K	Gene_or_gene_product
+PMC3203906	47	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	48	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	48	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	49	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	50	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	50	interpro:IPR004281	IL-12	Gene_or_gene_product
+PMC3203906	51	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	51	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	52	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	53	uazid:UA-CT-16	Macrophages	CellType
+PMC3203906	53	uniprot:P48736	p110gamma-/-	Gene_or_gene_product
+PMC3203906	53	uniprot:O89094	mice	Species
+PMC3203906	53	uniprot:P40225	mL	Gene_or_gene_product
+PMC3203906	54	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	55	uniprot:P46060	SD	Gene_or_gene_product
+PMC3203906	56	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	56	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	57	uniprot:UNRESOLVED ID	pan-PI3K	Gene_or_gene_product
+PMC3203906	57	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	57	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	57	uniprot:UNRESOLVED ID	AS252424	Gene_or_gene_product
+PMC3203906	58	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3203906	59	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	60	uniprot:UNRESOLVED ID	AS252424	Gene_or_gene_product
+PMC3203906	60	uniprot:P54644	Akt	Gene_or_gene_product
+PMC3203906	60	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	61	uniprot:UNRESOLVED ID	AS252424	Gene_or_gene_product
+PMC3203906	61	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	62	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	62	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	63	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	63	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	64	uazid:UA-CT-16	Macrophages	CellType
+PMC3203906	64	uniprot:O89094	mice	Species
+PMC3203906	64	uniprot:P40225	mL	Gene_or_gene_product
+PMC3203906	66	uazid:UA-CT-16	Macrophages	CellType
+PMC3203906	66	uniprot:P48736	p110gamma-/-	Gene_or_gene_product
+PMC3203906	66	uniprot:O89094	mice	Species
+PMC3203906	66	uniprot:UNRESOLVED ID	AS252424	Gene_or_gene_product
+PMC3203906	66	uniprot:P40225	mL	Gene_or_gene_product
+PMC3203906	67	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	68	uniprot:P46060	SD	Gene_or_gene_product
+PMC3203906	69	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	69	uniprot:O89094	mice	Species
+PMC3203906	70	uniprot:P78527	DNA-PKcs	Gene_or_gene_product
+PMC3203906	70	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	71	uniprot:P78527	DNA-PKcs	Gene_or_gene_product
+PMC3203906	71	uniprot:UNRESOLVED ID	PI3K-like catalytic domain	Gene_or_gene_product
+PMC3203906	72	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	72	uniprot:O89094	mice	Species
+PMC3203906	73	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	73	uniprot:O89094	mice	Species
+PMC3203906	74	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	74	uniprot:P78527	DNA-PKcs	Gene_or_gene_product
+PMC3203906	75	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	75	uniprot:O89094	mice	Species
+PMC3203906	76	uniprot:UNRESOLVED ID	CpG	Gene_or_gene_product
+PMC3203906	76	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	76	uniprot:O89094	mice	Species
+PMC3203906	77	uazid:UA-CT-16	Macrophages	CellType
+PMC3203906	77	uniprot:O89094	mice	Species
+PMC3203906	77	uniprot:P40225	mL	Gene_or_gene_product
+PMC3203906	78	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	79	uniprot:P46060	SD	Gene_or_gene_product
+PMC3203906	80	uniprot:P78527	DNA-PKcs	Gene_or_gene_product
+PMC3203906	80	uniprot:UNRESOLVED ID	CpG	Gene_or_gene_product
+PMC3203906	82	interpro:IPR004281	IL-12	Gene_or_gene_product
+PMC3203906	82	uniprot:P78527	DNA-PKcs	Gene_or_gene_product
+PMC3203906	82	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	84	uniprot:UNRESOLVED ID	CpG	Gene_or_gene_product
+PMC3203906	84	uniprot:P78527	DNA-PKcs	Gene_or_gene_product
+PMC3203906	84	uazid:UA-CT-16	macrophages	CellType
+PMC3203906	84	uniprot:UNRESOLVED ID	anti-DNA-PKcs antibody	Gene_or_gene_product
+PMC3203906	86	uniprot:UNRESOLVED ID	CpG	Gene_or_gene_product
+PMC3203906	86	uniprot:P78527	DNA-PKcs	Gene_or_gene_product
+PMC3203906	87	uniprot:UNRESOLVED ID	Lipofectamine	Gene_or_gene_product
+PMC3203906	87	uniprot:UNRESOLVED ID	LTX	Gene_or_gene_product
+PMC3203906	87	uniprot:P78527	DNA-PKcs	Gene_or_gene_product
+PMC3203906	88	uniprot:UNRESOLVED ID	CpG	Gene_or_gene_product
+PMC3203906	88	uniprot:P78527	DNA-PKcs	Gene_or_gene_product
+PMC3203906	88	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC3203906	89	uniprot:UNRESOLVED ID	CpG	Gene_or_gene_product
+PMC3203906	89	uniprot:P78527	DNA-PKcs	Gene_or_gene_product
+PMC3203906	90	uazid:UA-CT-16	Macrophages	CellType
+PMC3203906	90	uniprot:O89094	mice	Species
+PMC3203906	91	uniprot:UNRESOLVED ID	anti-DNA-PKcs antibody	Gene_or_gene_product
+PMC3203906	92	uniprot:P46060	SD	Gene_or_gene_product
+PMC3203906	93	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	94	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	94	uniprot:P78527	DNA-PKcs	Gene_or_gene_product
+PMC3203906	95	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	96	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	97	uazid:UA-CT-16	Macrophages	CellType
+PMC3203906	97	uniprot:P48736	p110gamma-/-	Gene_or_gene_product
+PMC3203906	97	uniprot:O89094	mice	Species
+PMC3203906	97	uniprot:P40225	mL	Gene_or_gene_product
+PMC3203906	98	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	98	interpro:IPR004281	IL-12	Gene_or_gene_product
+PMC3203906	99	uniprot:P46060	SD	Gene_or_gene_product
+PMC3203906	101	uniprot:Q15075	EEA1	Gene_or_gene_product
+PMC3203906	102	uniprot:Q15075	EEA1	Gene_or_gene_product
+PMC3203906	104	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	104	uazid:UA-CT-16	macrophages	CellType
+PMC3203906	105	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	106	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	108	uniprot:UNRESOLVED ID	PI3K p110gamma	Gene_or_gene_product
+PMC3203906	109	uniprot:P78527	DNA-PKcs	Gene_or_gene_product
+PMC3203906	109	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	109	uazid:UA-CT-16	macrophages	CellType
+PMC3203906	110	uazid:UA-CT-16	macrophages	CellType
+PMC3203906	110	uniprot:O89094	mice	Species
+PMC3203906	111	uazid:UA-CT-16	Macrophages	CellType
+PMC3203906	111	uniprot:O89094	mice	Species
+PMC3203906	114	uniprot:UNRESOLVED ID	anti-EEA1 antibody	Gene_or_gene_product
+PMC3203906	115	uniprot:P46060	SD	Gene_or_gene_product
+PMC3203906	117	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	118	uniprot:UNRESOLVED ID	PI3K p110gammaor	Gene_or_gene_product
+PMC3203906	121	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	122	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	123	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	124	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	125	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	126	uazid:UA-CT-16	Macrophages	CellType
+PMC3203906	126	uniprot:O89094	mice	Species
+PMC3203906	126	uniprot:P40225	mL	Gene_or_gene_product
+PMC3203906	127	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	128	uniprot:P46060	SD	Gene_or_gene_product
+PMC3203906	130	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	131	uazid:UA-CT-16	macrophages	CellType
+PMC3203906	131	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	132	uazid:UA-CT-16	macrophages	CellType
+PMC3203906	132	uniprot:Q15075	EEA1	Gene_or_gene_product
+PMC3203906	133	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	134	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	135	uniprot:P78527	DNA-PKcs	Gene_or_gene_product
+PMC3203906	136	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	136	uniprot:O89094	mice	Species
+PMC3203906	136	uniprot:P78527	DNA-PKcs	Gene_or_gene_product
+PMC3203906	137	uniprot:P78527	DNA-PKcs	Gene_or_gene_product
+PMC3203906	137	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	138	uniprot:P48736	p110gamma-/-	Gene_or_gene_product
+PMC3203906	138	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	139	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	140	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	141	uniprot:UNRESOLVED ID	Protein complexes	Gene_or_gene_product
+PMC3203906	141	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	141	uniprot:UNRESOLVED ID	phosphodiesterase	Gene_or_gene_product
+PMC3203906	141	uniprot:Q13370	PDE3B	Gene_or_gene_product
+PMC3203906	141	uniprot:P49913	cAMP	Gene_or_gene_product
+PMC3203906	142	uniprot:P49913	cAMP	Gene_or_gene_product
+PMC3203906	142	uniprot:P23799	TLR	Gene_or_gene_product
+PMC3203906	142	interpro:IPR004281	IL-12	Gene_or_gene_product
+PMC3203906	142	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	142	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	143	uniprot:P49913	cAMP	Gene_or_gene_product
+PMC3203906	143	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	144	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	144	uniprot:P23799	TLR	Gene_or_gene_product
+PMC3203906	145	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	145	uazid:UA-CT-100033	platelet	Organ
+PMC3203906	146	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	146	ncbitax:species:ncbi:9606	human	Species
+PMC3203906	146	uazid:UA-ORG-172	colon	Organ
+PMC3203906	147	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	148	uniprot:O89094	mice	Species
+PMC3203906	149	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	150	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	150	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	151	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	151	interpro:IPR004281	IL-12	Gene_or_gene_product
+PMC3203906	151	uazid:UA-CT-16	macrophage	CellType
+PMC3203906	151	uniprot:O89094	mice	Species
+PMC3203906	151	uniprot:Q8IXH7	Th1	Gene_or_gene_product
+PMC3203906	152	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	153	uniprot:UNRESOLVED ID	average MW 40 kD	Gene_or_gene_product
+PMC3203906	154	uniprot:UNRESOLVED ID	Wortmannin	Gene_or_gene_product
+PMC3203906	155	uniprot:Q9H9B4	TCC	Gene_or_gene_product
+PMC3203906	155	uniprot:Q5JSL3	ACG	Gene_or_gene_product
+PMC3203906	156	uniprot:Q13123	Red	Gene_or_gene_product
+PMC3203906	157	uniprot:UNRESOLVED ID	RPMI 1640	Gene_or_gene_product
+PMC3203906	158	uniprot:P10721	Kit	Gene_or_gene_product
+PMC3203906	159	uniprot:UNRESOLVED ID	AS-252424	Gene_or_gene_product
+PMC3203906	160	uniprot:UNRESOLVED ID	anti-Akt1/2	Gene_or_gene_product
+PMC3203906	160	uniprot:UNRESOLVED ID	anti-DNA-PKcs antibodies	Gene_or_gene_product
+PMC3203906	160	uniprot:UNRESOLVED ID	anti-EEA1	Gene_or_gene_product
+PMC3203906	161	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	163	ncbitax:species:ncbi:173331	Permit	Species
+PMC3203906	163	uniprot:UNRESOLVED ID	A08-23	Gene_or_gene_product
+PMC3203906	163	uniprot:UNRESOLVED ID	A08-46	Gene_or_gene_product
+PMC3203906	164	uniprot:O89094	mice	Species
+PMC3203906	164	uniprot:O00585	SLC	Gene_or_gene_product
+PMC3203906	165	uniprot:UNRESOLVED ID	C.B-17	Gene_or_gene_product
+PMC3203906	165	uniprot:UNRESOLVED ID	lcr+/+	Gene_or_gene_product
+PMC3203906	165	uniprot:O89094	mice	Species
+PMC3203906	166	uniprot:O89094	mice	Species
+PMC3203906	167	uazid:UA-CT-16	macrophages	CellType
+PMC3203906	167	uniprot:O89094	mice	Species
+PMC3203906	168	uniprot:O89094	mice	Species
+PMC3203906	168	uniprot:P40225	mL	Gene_or_gene_product
+PMC3203906	169	uniprot:UNRESOLVED ID	peritoneal exudate	CellType
+PMC3203906	169	uniprot:UNRESOLVED ID	peritoneal cavity	CellType
+PMC3203906	170	uniprot:UNRESOLVED ID	RPMI 1640	Gene_or_gene_product
+PMC3203906	170	uniprot:UNRESOLVED ID	serum	CellType
+PMC3203906	170	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC3203906	170	uniprot:P11226	MBL	Gene_or_gene_product
+PMC3203906	172	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC3203906	173	uniprot:UNRESOLVED ID	pcDNA3	Gene_or_gene_product
+PMC3203906	173	uniprot:P48736	p110gamma	Gene_or_gene_product
+PMC3203906	173	uniprot:UNRESOLVED ID	DASAA	Gene_or_gene_product
+PMC3203906	174	uniprot:P01298	pH	Gene_or_gene_product
+PMC3203906	174	uniprot:UNRESOLVED ID	Na3VO4	Gene_or_gene_product
+PMC3203906	177	uniprot:Q9NQV6	Tris	Gene_or_gene_product
+PMC3203906	177	uniprot:P01298	pH	Gene_or_gene_product
+PMC3203906	177	uniprot:P20132	SDS	Gene_or_gene_product
+PMC3203906	178	uniprot:UNRESOLVED ID	PVDF	Gene_or_gene_product
+PMC3203906	179	uniprot:UNRESOLVED ID	milk	CellType
+PMC3203906	181	uazid:UA-CT-16	Macrophage	CellType
+PMC3203906	181	uniprot:O43813	p40	Gene_or_gene_product
+PMC3203906	181	uniprot:P22301	IL-10	Gene_or_gene_product
+PMC3203906	182	uazid:UA-CT-16	Macrophages	CellType
+PMC3203906	182	uniprot:UNRESOLVED ID	rhodamine-	Gene_or_gene_product
+PMC3203906	182	uniprot:UNRESOLVED ID	FITC-CpG	Gene_or_gene_product
+PMC3203906	183	uniprot:Q13123	Red	Gene_or_gene_product
+PMC3203906	186	uniprot:Q96T53	goat	Species
+PMC3203906	186	uniprot:UNRESOLVED ID	Fab'	Gene_or_gene_product
+PMC3203906	192	uniprot:P46060	SD	Gene_or_gene_product
+PMC3203906	194	uniprot:UNRESOLVED ID	KAKENHI20590060	Gene_or_gene_product
+PMC3203906	194	uniprot:UNRESOLVED ID	KAKENHI22114008	Gene_or_gene_product

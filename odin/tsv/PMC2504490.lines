@@ -1,0 +1,464 @@
+Paper ID	Is title?	Section ID	Passage ID	Line Num	Text
+PMC2504490	true	article-title	0	0	OSM-11 Facilitates LIN-12 Notch Signaling during Caenorhabditis elegans Vulval Development
+PMC2504490	false	abstract	1	1	Notch signaling is critical for cell fate decisions during development .
+PMC2504490	false	abstract	1	2	Caenorhabditis elegans and vertebrate Notch ligands are more diverse than classical Drosophila Notch ligands , suggesting possible functional complexities .
+PMC2504490	false	abstract	1	3	Here , we describe a developmental role in Notch signaling for OSM-11 , which has been previously implicated in defecation and osmotic resistance in C. elegans .
+PMC2504490	false	abstract	1	4	We find that complete loss of OSM-11 causes defects in vulval precursor cell ( VPC ) fate specification during vulval development consistent with decreased Notch signaling .
+PMC2504490	false	abstract	1	5	OSM-11 is a secreted , diffusible protein that , like previously described C. elegans Delta , Serrate , and LAG-2 ( DSL ) ligands , can interact with the lineage defective-12 ( LIN-12 ) Notch receptor extracellular domain .
+PMC2504490	false	abstract	1	6	Additionally , OSM-11 and similar C. elegans proteins share a common motif with Notch ligands from other species in a sequence defined here as the Delta and OSM-11 ( DOS ) motif .
+PMC2504490	false	abstract	1	7	osm-11 loss-of-function defects in vulval development are exacerbated by loss of other DOS-motif genes or by loss of the Notch ligand DSL-1 , suggesting that DOS-motif and DSL proteins act together to activate Notch signaling in vivo .
+PMC2504490	false	abstract	1	8	The mammalian DOS-motif protein Deltalike1 ( DLK1 ) can substitute for OSM-11 in C. elegans development , suggesting that DOS-motif function is conserved across species .
+PMC2504490	false	abstract	1	9	We hypothesize that C. elegans OSM-11 and homologous proteins act as coactivators for Notch receptors , allowing precise regulation of Notch receptor signaling in developmental programs in both vertebrates and invertebrates .
+PMC2504490	false	abstract	2	10	Author Summary The classic view of Notch receptor activation involves receptor binding to transmembrane Notch ligands that contain a conserved DSL ( Delta , Serrate , and LAG-2 ) domain .
+PMC2504490	false	abstract	2	11	Here , we find that the Caenorhabditis elegans OSM-11 protein is a novel ligand of the well characterized Notch signal transduction pathway and plays a role in cell fate specification during development .
+PMC2504490	false	abstract	2	12	OSM-11 is a secreted , diffusible protein whose loss decreases Notch signaling in vivo .
+PMC2504490	false	abstract	2	13	OSM-11 and related C. elegans proteins do not contain a DSL domain , but contain a conserved motif we have named DOS ( Delta and OSM-11 ) that is also found in the extracellular domain of known Notch ligands in organisms other than C. elegans .
+PMC2504490	false	abstract	2	14	The functional mammalian homolog of OSM-11 is the secreted protein Deltalike1 ( Dlk1 ) , also known as Preadipocyte Factor 1 ( PREF1 ) , which plays a poorly defined role in Notch signaling regulating obesity and other developmental decisions .
+PMC2504490	false	abstract	2	15	This suggests that Notch ligands are split into two complementary coligand families that act together to regulate Notch signaling in developmental contexts .
+PMC2504490	false	abstract	2	16	In addition to regulating development , DOS ligands play roles in osmotic stress and C. elegans behavior , suggesting previously unsuspected roles for Notch signaling across species .
+PMC2504490	false	st1	3	17	The classic view of Notch receptor activation involves receptor binding to transmembrane Notch ligands that contain a conserved DSL ( Delta , Serrate , and LAG-2 ) domain .
+PMC2504490	false	st1	3	18	Here , we find that the Caenorhabditis elegans OSM-11 protein is a novel ligand of the well characterized Notch signal transduction pathway and plays a role in cell fate specification during development .
+PMC2504490	false	st1	3	19	OSM-11 is a secreted , diffusible protein whose loss decreases Notch signaling in vivo .
+PMC2504490	false	st1	3	20	OSM-11 and related C. elegans proteins do not contain a DSL domain , but contain a conserved motif we have named DOS ( Delta and OSM-11 ) that is also found in the extracellular domain of known Notch ligands in organisms other than C. elegans .
+PMC2504490	false	st1	3	21	The functional mammalian homolog of OSM-11 is the secreted protein Deltalike1 ( Dlk1 ) , also known as Preadipocyte Factor 1 ( PREF1 ) , which plays a poorly defined role in Notch signaling regulating obesity and other developmental decisions .
+PMC2504490	false	st1	3	22	This suggests that Notch ligands are split into two complementary coligand families that act together to regulate Notch signaling in developmental contexts .
+PMC2504490	false	st1	3	23	In addition to regulating development , DOS ligands play roles in osmotic stress and C. elegans behavior , suggesting previously unsuspected roles for Notch signaling across species .
+PMC2504490	false	abstract	4	24	The C. elegans OSM-11 protein acts with DSL ligands to activate Notch signaling in cell fate specification and defines a conserved family of potential Notch co-ligands .
+PMC2504490	false	s1	5	25	The Notch signaling pathway is essential for cell fate determination during embryogenesis and postembryonic development in multicellular organisms .
+PMC2504490	false	s1	5	26	Classical Notch signaling begins with activation of the Notch receptor by transmembrane DSL ligands ( Delta and Serrate in Drosophila or LAG-2 [ Lin and Glp-2 ] in C. elegans      ) expressed on adjacent cells , resulting in proteolytic cleavage of the Notch receptor , internalization of the ligand and receptor complex , and nuclear translocation of the Notch IC ( intracellular ) domain      .
+PMC2504490	false	s1	5	27	In the nucleus , the Notch IC domain acts as a transcriptional regulator together with a conserved transcription factor called Su ( H ) ( Suppressor of Hairless ) in Drosophila and LAG-1 [ Lin and Glp-1 ] in C. elegans       .
+PMC2504490	false	s1	5	28	The molecular mechanisms of Notch signaling are highly conserved .
+PMC2504490	false	s1	5	29	Vertebrate homologs exist for each of these components in the Notch signaling pathway , and mutations in Notch signaling have been implicated in various developmental disorders , including Alagille and CADASIL
+PMC2504490	false	s1	6	30	In C. elegans , the Notch receptor LIN-12 ( Lineage defective-12 ) plays critical roles in cell fate specification in multiple tissues .
+PMC2504490	false	s1	6	31	The roles of LIN-12 in two steps of vulval development have been particularly well studied .
+PMC2504490	false	s1	6	32	First , LIN-12 is required for cell fate specification of an anchor cell ( AC ) and a vulval uterine ( VU ) cell from the descendents of equipotent precursor cells Z1 and Z4 during the L1 larval stage        .
+PMC2504490	false	s1	6	33	Loss of lin-12 signaling generally results in the specification of two ACs , whereas increased lin-12 signaling results in two VU cells .
+PMC2504490	false	s1	6	34	The AC produces a diffusible epidermal growth factor ( EGF ) signal that induces the primary ( 1degrees ) cell fate in P6.p , one of six equipotent vulval precursor cells ( VPCs ) ( reviewed in     ) .
+PMC2504490	false	s1	6	35	Additionally , LIN-12 specifies secondary ( 2degrees ) cell fates of P5.p and P7.p , two VPCs adjacent to P6.p , by antagonizing EGF signaling via lateral inhibition        .
+PMC2504490	false	s1	6	36	Loss of lin-12 signaling generally causes VPCs to take on 1degrees and tertiary ( 3degrees ) fates , whereas strong lin-12 gain-of-function alleles cause VPCs to take on 2degrees fates with consequent changes in the fates of descendent cells that contribute to the adult vulva .
+PMC2504490	false	s1	7	37	Canonical Notch receptor ligands are exemplified by Drosophila Delta , which contains a conserved N-terminal DSL domain originally found in Delta , Serrate , and LAG-2 proteins              .
+PMC2504490	false	s1	7	38	The DSL domain is followed by a series of EGF repeats and a transmembrane domain .
+PMC2504490	false	s1	7	39	The DSL domain is critical for Notch receptor activation based on tissue culture studies and genetic analysis        , but Notch ligand EGF repeats are also required for Notch receptor activation        .
+PMC2504490	false	s1	7	40	Numerous Notch ligands containing DSL domains have been identified in various organisms           .
+PMC2504490	false	s1	7	41	C. elegans LAG-2 is a classical Notch ligand containing a canonical DSL domain and transmembrane domain and is essential for LIN-12 activation in vivo in many contexts        .
+PMC2504490	false	s1	8	42	Although key components in the Notch pathway were identified decades ago in classical genetic studies in Drosophila and C. elegans        , additional proteins that play important or redundant roles in Notch signaling have been identified more recently .
+PMC2504490	false	s1	8	43	C. elegans anterior pharynx defective-1 ( APX-1 ) and DSL-1 are DSL domain containing soluble proteins that function redundantly with LAG-2 during vulval development     .
+PMC2504490	false	s1	8	44	Noncanonical ligands for vertebrate Notch receptors have been identified , including Delta and notch-like EGF repeat containing protein ( DNER ) , F3 and contactin , and MAGP proteins        , but functional C. elegans homologs of these noncanonical ligands have not been identified .
+PMC2504490	false	s1	8	45	Deltalike 1 ( a.k.a. , DLK1 , fetal antigen 1 [ FA1 ] , ZOG , pG2 , Preadipocyte Factor 1 [ PREF1 ] ) also encodes a putative soluble Notch ligand that lacks a DSL domain           .
+PMC2504490	false	s1	8	46	DLK1 is a paternally imprinted gene with diverse developmental roles .
+PMC2504490	false	s1	8	47	DLK1 knockout mice are growth retarded and obese with eye and skeletal defects     .
+PMC2504490	false	s1	8	48	Overexpression of DLK1 due to polar overdominance results in callipyge sheep with muscle overproliferation and decreased adipogenesis        .
+PMC2504490	false	s1	8	49	Although Drosophila lacks a DLK1 homolog , ectopic expression of mammalian DLK1 in Drosophila inhibits Notch signaling     .
+PMC2504490	false	s1	8	50	DLK1 has multiple mRNA isoforms ; some transcripts are translated as membrane bound proteins with subsequent proteolytic release of the EGF-repeat-containing extracellular domain , while others encode soluble secreted proteins           .
+PMC2504490	false	s1	8	51	DLK1 EGF repeats bind Notch1 EGF repeats in bacterial two-hybrid assays and inhibit activity of a Notch dependent reporter gene .
+PMC2504490	false	s1	8	52	However , DLK1 inhibits Notch activation by previously described DSL Notch ligands in these same studies     .
+PMC2504490	false	s1	8	53	Therefore , a role for DLK1 as a Notch ligand is controversial , given the lack of a canonical DSL domain and the inability of DLK1 to activate vertebrate Notch receptors .
+PMC2504490	false	s1	9	54	Here , we examine the secreted C. elegans protein , OSM-11 .
+PMC2504490	false	s1	9	55	A role for OSM-11 in osmotic sensitivity and defecation was recently described , but the molecular function of these genes was not elucidated in previous studies , and no homologous proteins outside of nematodes were identified        .
+PMC2504490	false	s1	9	56	We found that OSM-11 and related C. elegans proteins contain a motif found only in known and putative Notch ligands , including Serrate and DLK1 .
+PMC2504490	false	s1	9	57	We examined the functional role of osm-11 in development .
+PMC2504490	false	s1	9	58	We find that osm-11 increases lin-12 Notch receptor signaling during vulval cell fate specification .
+PMC2504490	false	s1	9	59	Our results suggest a model in which OSM-11 normally acts with C. elegans DSL ligands to activate Notch receptor signaling in vivo .
+PMC2504490	true	s2a	10	60	OSM-11 Is Required for Cell Fate Specification during Vulval Development
+PMC2504490	false	s2a	11	61	We identified a deletion allele of osm-11 that removes all of the predicted mature protein , osm-11 ( rt142 ) .
+PMC2504490	false	s2a	11	62	The majority of animals lacking osm-11 had visibly misshapen vulva or defective vulva based on retention of eggs               .
+PMC2504490	false	s2a	11	63	A smaller fraction had an additional protrusion near the normal position of the vulva .
+PMC2504490	false	s2a	11	64	Vulval development was also modestly perturbed by RNA interference ( RNAi ) knockdown of osm-11 ( 16 % defective , n = 82 ) , suggesting that osm-11 defects in vulval developmental were caused by loss of osm-11 function .
+PMC2504490	false	s2a	11	65	Consistent with this hypothesis , osm-11 defects were rescued by reintroduction of either genomic DNA containing the entire osm-11 gene or the osm-11 cDNA expressed under the control of 3.4 kb of upstream genomic DNA sequences 5 ' to the predicted osm-11 initiator methionine ( described below ) and the unc-54 3 ' UTR .
+PMC2504490	false	s2a	11	66	osm-11 loss of function also caused non vulval developmental defects , including misshapen heads and anal protrusions                    reminiscent of animals with decreased Notch signaling or increased EGF signaling    .
+PMC2504490	false	s2a	11	67	To determine the biochemical role of OSM-11 , a molecular and cellular analysis was first undertaken .
+PMC2504490	true	fig-1	12	68	OSM-11 Is Required for Normal Development
+PMC2504490	false	fig-1	13	69	( A ) Thirty-one percent of osm-11 ( lf ) adult animals had overtly normal vulva and did not retain eggs resembling control animals .
+PMC2504490	false	fig-1	13	70	( B ) Fifty-seven percent of osm-11 ( lf ) animals inappropriately retained eggs and and or had a single misshapen or protruding vulva ( 15 % and 42 % , respectively ) .
+PMC2504490	false	fig-1	13	71	( C ) Twelve percent of osm-11 ( lf ) animals had an extra protrusion near the normally positioned vulva .
+PMC2504490	false	fig-1	13	72	( D ) osm-11 ( lf ) animals had defects in head morphology at low frequency ( arrowhead ) .
+PMC2504490	false	fig-1	13	73	( E ) Two thirds of osm-11 ( lf ) animals had a ventral protrusion behind the anus ( arrowhead ) .
+PMC2504490	false	fig-1	13	74	n > 100 animals were scored .
+PMC2504490	true	s2b	14	75	osm-11 Encodes a Novel Protein with Similarity to Notch Ligands
+PMC2504490	false	s2b	15	76	osm-11 corresponds to the C. elegans gene designated as F11C7 .5 at the National Center for Biotechnology ( NCBI ) .
+PMC2504490	false	s2b	15	77	F11C7 .5 is predicted to have two exons and one splice form , which was confirmed by cDNA sequencing ( unpublished data ) .
+PMC2504490	false	s2b	15	78	OSM-11 and four similar predicted C. elegans proteins , OSM-7 ( T05D4 .4 ) , ZK507 .4 , K10G6 .2 , and K02F3 .7 , contain a signal peptide for secretion and a potential cEGF-1 domain      that is part of a conserved motif described below            .
+PMC2504490	false	s2b	15	79	cEGF-1 domains contain a small amino acid and six cysteine residues with characteristic spacing that forms three disulfide bonds , and are found in extracellular proteins including Notch receptors and ligands .
+PMC2504490	true	fig-2	16	80	osm-11 Encodes a Protein with a Conserved Motif Found in Notch Ligands
+PMC2504490	false	fig-2	17	81	( A ) Top : OSM-11 genomic structure .
+PMC2504490	false	fig-2	17	82	The signal peptide is shaded black , and putative O linked glycosylation sites are indicated by vertical lines .
+PMC2504490	false	fig-2	17	83	The DOS motif is shaded blue ; it overlaps the previously defined osmotic stress resistant ( OSR ) motif     .
+PMC2504490	false	fig-2	17	84	osm-11 ( rt142 ) removes all coding sequence after the signal peptide ; osm-11 ( rt68 ) converts W177 to a premature stop codon .
+PMC2504490	false	fig-2	17	85	Bottom : the DOS motif containing sequences from C. elegans OSM-11 , OSM-7 , DOS-1 , DOS-2 , and DOS-3 are aligned above the DOS motif consensus and the cEGF-1 consensus     .
+PMC2504490	false	fig-2	17	86	DOS-motif regions from mouse proteins and known Drosophila Notch ligands are aligned under the cEGF-1 consensus .
+PMC2504490	false	fig-2	17	87	DOS-motif amino acids are shaded blue and previously described EGF repeats are boxed .
+PMC2504490	false	fig-2	17	88	Asterisks ( * ) indicate cysteines in the conserved EGF-motif that are not found in the C. elegans DOS proteins .
+PMC2504490	false	fig-2	17	89	The DOS motif consensus is : C-X ( 3 ) - C-X ( 3,8 ) - C-X ( 2,5 ) - C - [ KVER ] - C-X ( 10,12 ) - C-X ( 1,3 ) - P-X ( 6,9 ) - C-X ( 1,4 ) - W-X ( 1,4 ) - C .
+PMC2504490	false	fig-2	17	90	In the DOS motif consensus , b represents K , V , E , or R , and the dash ( - ) indicates possible positions for proline in the DOS motif .
+PMC2504490	false	fig-2	17	91	In the cEGF-1 consensus , s represents a small amino acid     .
+PMC2504490	false	fig-2	18	92	( B ) The position of the DOS motif in known or predicted C. elegans , Drosophila , and vertebrate Notch ligands .
+PMC2504490	false	fig-2	18	93	The DOS motif overlaps with the first two EGF repeats of canonical Notch ligands and may define a unique subset of EGF repeats .
+PMC2504490	false	fig-2	18	94	The noncanonical Notch ligands DNER     , F3 and contactin     , and MAGP         do not contain a DOS motif ( unpublished data ) .
+PMC2504490	false	fig-2	19	95	( C ) Similarity between DOS motifs , the first and second EGF repeats , and the third and fourth EGF repeats of Notch ligands .
+PMC2504490	false	fig-2	19	96	As noted by Lissemore and Starmer     , the first and second EGF repeats differ from the third and fourth EGF repeats .
+PMC2504490	false	fig-2	19	97	DOS-3 was not included in this alignment .
+PMC2504490	false	fig-2	19	98	Green indicates the DOS motif of proteins that lack canonical EGF repeats ; blue indicates the first and second EGF repeats of Notch ligands ; red indicates the third and fourth EGF repeats of Notch ligands ; and magenta represents the C. elegans Notch ligands that lack DSL domains .
+PMC2504490	false	fig-2	19	99	See                       for accession numbers and other details .
+PMC2504490	false	s2b	20	100	As standard similarity searching programs ( i.e. , BLAST ) failed to identify additional proteins similar to OSM-11 outside of helminthes , we undertook further bioinformatic analysis , which revealed similarity between OSM-11 and previously described Notch ligands .
+PMC2504490	false	s2b	20	101	First , the predicted sequences of C. elegans OSM-11 , OSM-7 , K10G6 .2 , ZK507 .4 , and K02F3 .7 proteins were aligned , which revealed conserved amino acids in a common motif containing the putative cEGF-1 domain and additional amino acids : C-X ( 3 ) - C-X ( 3,8 ) - C-X ( 2,5 ) - C - [ KVER ] - C-X ( 10,12 ) - C-X ( 1,3 ) - P-X ( 6,9 ) - C-X ( 1,4 ) - W-X ( 1,4 ) - C. Motif based database searches revealed that all proteins containing the new motif in Drosophila , zebrafish , mouse , and humans are either DSL containing Notch ligands or suspected Notch ligands .
+PMC2504490	false	s2b	20	102	We named the motif DOS because it is found in Delta and OSM-11-like proteins ( shaded in           and designated the C. elegans genes ZK507 .4 , K10G6 .2 , and K02F3 .7 as dos-1 , dos-2 , and dos-3 , respectively .
+PMC2504490	false	s2b	20	103	All five C. elegans DOS-motif proteins are likely secreted based on the presence of a predicted N-terminal signal peptide .
+PMC2504490	false	s2b	20	104	However , OSM-11 and DOS-3 also have a consensus proprotein convertase protease cleavage site and a C-terminal transmembrane domain , suggesting that they may be translated as transmembrane preproproteins prior to proteolytic processing and release of a soluble DOS protein .
+PMC2504490	false	fig-1	21	105	In known Notch ligands from Drosophila and vertebrates , the DOS motif is always located immediately following the DSL domain and overlapping the first two EGF repeats .
+PMC2504490	false	fig-1	21	106	The first two EGF repeats of most Notch ligands differ from the remaining EGF repeats      ( this study ,         C ) .
+PMC2504490	false	fig-1	21	107	The role of these EGF repeats remains unclear , but several previous studies suggest that these EGF repeats play roles in Notch activation : they are required for the DSL domain of Jagged1 to bind to the mammalian Notch2 receptor in biochemical studies     ; perturbation of the second EGF repeat interferes with Notch signaling in Drosophila     ; and mutations in these EGF repeats of human Jagged1 are associated with Alagille syndrome     .
+PMC2504490	false	fig-1	21	108	The DOS motif may define a unique group of EGF repeats and EGF like repeats that have a distinct functional role in Notch signaling .
+PMC2504490	false	s2a	22	109	Outside of helminthes , only three proteins were identified with DOS motifs that are not canonical Notch ligands : C901 , DLK1 , and EGFL9 ( DLK2 ) .
+PMC2504490	false	s2a	22	110	These proteins have a signal peptide sequence , and the DOS motif is located in the first two EGF repeats            .
+PMC2504490	false	s2a	22	111	C901 is a predicted Drosophila protein of unknown function containing a DSL domain and multiple EGF repeats     ; it is unclear whether C901 is a transmembrane DSL domain protein .
+PMC2504490	false	s2a	22	112	DLK1 and EGFlike 9 ( EGFL9 ) are vertebrate proteins that contain EGF domains , but lack DSL domains .
+PMC2504490	false	s2a	22	113	EGFL9 is poorly characterized     .
+PMC2504490	false	s2a	22	114	DLK1 has membrane bound and secreted isoforms , and plays diverse roles in normal development .
+PMC2504490	false	s2a	22	115	Altered DLK1 expression causes developmental defects in mammals           .
+PMC2504490	false	s2a	22	116	DLK1 EGF repeats containing the DOS motif bind to specific Notch1 receptor EGF repeats in two-hybrid studies and in tissue culture     , but the role of DLK1 in Notch signaling remains controversial because DLK1 lacks a DSL domain and does not activate mammalian Notch receptors           .
+PMC2504490	false	s2a	22	117	Given this controversy and given the limited homology observed between OSM-11 and previously described canonical Notch ligands , we turned to cellular , genetic , and molecular tools in C. elegans to elucidate the role of OSM-11 in developmental signaling pathways .
+PMC2504490	true	s2c	23	118	Loss of osm-11 Perturbs Cell Fate Specification during Vulval Development
+PMC2504490	false	s2c	24	119	We first examined the role of osm-11 in specification of the AC .
+PMC2504490	false	s2c	24	120	LIN-12 Notch function is required for cell fate specification of an AC and a VU cell from the equipotent precursor cells Z1 and Z4 during the L1 larval stage        .
+PMC2504490	false	s2c	24	121	Loss of lin-12 signaling results in the specification of two ACs , whereas increased lin-12 signaling results in two VU cells .
+PMC2504490	false	s2c	24	122	AC cells are readily quantified by examining expression of a lin-3p : : gfp reporter construct     .
+PMC2504490	false	s2c	24	123	No alterations in lin-3p : : gfp were observed in osm-11 ( lf ) animals compared to osm-11 ( + ) animals ( unpublished data ; n = 92 ) , suggesting that loss of osm-11 does not alter AC cell fate specification in otherwise normal animals .
+PMC2504490	false	s2c	25	124	We next examined VPC specification .
+PMC2504490	false	s2c	25	125	After AC specification , the AC produces the diffusible EGF protein LIN-3 that is required for induction of the 1degrees cell fate in P6.p , one of six equipotent VPCs ( reviewed in     ) .
+PMC2504490	false	s2c	25	126	LIN-3 EGF acts via the well characterized Ras and MAPK ( mitogen activated protein kinase ) pathway in VPCs .
+PMC2504490	false	s2c	25	127	LIN-12 Notch function is required to specify 2degrees cell fates of P5.p and P7.p , two VPCs adjacent to P6.p , by antagonizing EGF signaling via lateral inhibition        .
+PMC2504490	false	s2c	25	128	Loss of EGF signaling eliminates 1degrees and 2degrees cell fates , whereas aberrantly increased EGF/Ras/MAP kinase signaling can cause all VPCs to adopt the 1degrees cell fate .
+PMC2504490	false	s2c	25	129	By contrast , loss of lin-12 Notch signaling causes all VPCs to take on 1degrees or 3degrees fates , whereas strong Notch gain-of-function alleles cause all six VPCs to take on 2degrees fates            .
+PMC2504490	false	s2c	25	130	These VPC fate decisions were assessed in osm-11 ( lf ) animals and control animals at specific larval stages using the previously described green fluorescent protein ( GFP ) reporter constructs egl-17p : : gfp , lin-11p : : gfp , and lip-1p : : gfp     .
+PMC2504490	true	fig-3	26	131	OSM-11 Loss Results in Cell Fate Specification Defects
+PMC2504490	false	fig-3	27	132	( A ) A simplified diagram of cell fate GFP marker expression in P5.p , P6.p , and P7.p .
+PMC2504490	false	fig-3	27	133	GFP expression is schematically shown in green .
+PMC2504490	false	fig-3	27	134	Note that equivalence group members P3.p , P4.p , and P8.p are not shown .
+PMC2504490	false	fig-3	27	135	In wild-type animals , primary ( 1degrees ) cell fate markers are expressed in P6.p ( top left ) , whereas secondary ( 2degrees ) cell fate markers are normally expressed in P5.p and P7.p ( top right ) .
+PMC2504490	false	fig-3	27	136	The first Pn.p division ( by P5.p , P6.p , and P7.p ) in mid-L3 larvae gives rise to Pn.px cells ; the next divisions give rise to Pn.pxx cells in late-L3 larvae .
+PMC2504490	false	fig-3	27	137	Loss of Notch signaling does not stop 1degrees cell fate assumption by P6.p , but results in inappropriate adoption of 1degrees cell fates by P5.p , P7.p , and their descendents .
+PMC2504490	false	fig-3	27	138	Loss of EGF and Ras signaling results in adoption of the tertiary fate by P5.p and P7.p , and in some cases , P6.p , depending on the severity of the defect     .
+PMC2504490	false	fig-3	28	139	( C ) Ten percent of L3 osm-11 ( lf ) animals ( right ) ectopically express the 1degrees cell fate marker egl-17p : : gfp in P5.p or P7.p , which normally adapt the 2degrees fate ( left ) .
+PMC2504490	false	fig-3	29	140	( D ) Sixty-seven percent of L3 osm-11 ( lf ) animals lack expression of the 2degrees cell fate marker lin-11p : : gfp in descendants of P5.p and and or P7.p .
+PMC2504490	false	fig-3	30	141	( E ) Thirty-five percent of L3 osm-11 ( lf ) animals do not up-regulate expression of the 2degrees fate marker lip-1p : : gfp in P5.p and and or P7.p .
+PMC2504490	false	fig-3	30	142	p < 0.05 based on chi2 for each marker .
+PMC2504490	false	fig-3	30	143	These data suggest osm-11 ( lf ) animals have a loss of 2degrees cell fate specification consistent with loss of LIN-12 Notch signaling .
+PMC2504490	false	fig-3	31	144	In ( C-E ) , arrowheads indicate the positions of P5.p , P6.p , and P7.p .
+PMC2504490	false	s2c	32	145	In L3 animals , egl-17p : : gfp expression in P6.p is directly dependent on EGF and Ras signaling , and egl-17 expression is repressed in P5.p or P7.p by lateral inhibition via LIN-12 Notch signaling     .
+PMC2504490	false	s2c	32	146	At the Pn.p stage , when cell fates are first established , egl-17p : : gfp is only expressed in P6.p in wild-type animals .
+PMC2504490	false	s2c	32	147	We found appropriate egl-17p : : gfp expression in the P6.p cell                    of animals lacking osm-11 , but ectopic egl-17p : : gfp expression in P5.p or P7.p in approximately 10 % of osm-11 ( lf ) L3 animals .
+PMC2504490	false	s2c	32	148	This ectopic egl-17p : : gfp expression suggests that in osm-11 ( lf ) animals , P5.p and P7.p secondary cell fates are not correctly established whereas the 1degrees cell fate choice of P6.p is unaffected .
+PMC2504490	false	s2c	32	149	Later , at the L4 larval stage , egl-17 expression normally is lost in wild-type animals from P6.p descendents and observed only in 2degrees cell lineages , i.e. , in P5.p and P7.p descendants .
+PMC2504490	false	s2c	32	150	In 71 % of osm-11 ( lf ) L4 animals , egl-17p : : gfp expression in P5.p and and or P7.p descendants was lost , consistent with loss of 2degrees cell fates ( unpublished data ; n = 63 ) .
+PMC2504490	false	s2c	32	151	The aberrant egl-17p : : gfp expression observed in osm-11 ( lf ) animals suggests that 1degrees and 2degrees cell fates are not correctly specified in a fraction of osm-11 ( lf ) animals , consistent with decreased Notch signaling .
+PMC2504490	false	s2a	33	152	To determine whether secondary cell fates are lost in osm-11 ( lf ) animals , cell fate specification was examined using lin-11p : : gfp and lip-1p : : gfp reporter genes .
+PMC2504490	false	s2a	33	153	lin-11p : : gfp is expressed exclusively in P5.p and P7.p vulval secondary lineages during development         ( 98 % of control wild-type late-L3 larvae ) , but lin-11p : : gfp expression is lost in P5.p and and or P7.p descendents in 67 % of osm-11 ( lf ) animals                   .
+PMC2504490	false	s2a	33	154	Strikingly , 69 % of osm-11 ( lf ) adult animals had an overtly defective vulva or retained eggs           , which correlates quantitatively with the loss of secondary cell fates observed with altered lin-11p : : gfp expression .
+PMC2504490	false	s2a	33	155	Loss of lin-11 expression at this stage suggests that secondary cell fates are either not properly specified or not maintained in osm-11 ( lf ) animals .
+PMC2504490	false	s2	34	156	Secondary cell fate specification can be more directly assessed using lip-1p : : gfp .
+PMC2504490	false	s2	34	157	In normal L3 animals , lip-1p : : gfp expression is up regulated in P5.p and P7.p upon assumption of secondary cell fate     .
+PMC2504490	false	s2	34	158	This up regulation is directly dependent on lin-12 Notch receptor signaling .
+PMC2504490	false	s2	34	159	However , in 35 % of osm-11 ( lf ) L3 animals , lip-1p : : gfp was not up regulated in P5.p and and or P7.p                                                                .
+PMC2504490	false	s2	34	160	The loss of lip-1p : : gfp and lin-11p : : gfp expression observed in osm-11 ( lf ) animals is reminiscent of changes observed when LIN-12 Notch signaling is decreased and is not consistent with decreased EGF and Ras signaling .
+PMC2504490	false	s2d	35	161	The functional significance of the similarity of OSM-11 to classic Notch ligands was unclear , particularly as OSM-11 lacks a DSL domain .
+PMC2504490	false	s2d	35	162	To address the role of osm-11 in development , the cellular and temporal pattern of osm-11 expression was examined to delineate its potential roles in VPC fate specification .
+PMC2504490	false	s2d	35	163	A transcriptional GFP reporter ( osm-11p : : gfp ) was generated using the same upstream sequences used for osm-11 cDNA rescue .
+PMC2504490	false	s2d	35	164	In animals harboring this transgene , GFP expression was observed in numerous unidentified cells during embryonic development from the comma stage onward ( unpublished data ) .
+PMC2504490	false	s2d	35	165	GFP expression was observed in the VPCs during larval development , as well as various hypodermal cells during larval stages           .
+PMC2504490	false	s2d	35	166	Using polyclonal antisera raised against OSM-11 to stain wild-type animals , we found that OSM-11 was expressed in the VPCs of L3 larvae prior to and during cell fate specification            .
+PMC2504490	false	s2d	35	167	OSM-11 immunoreactivity was also observed in the seam cells of L1 larvae and adult animals                   .
+PMC2504490	false	s2d	35	168	In adult animals , osm-11p : : gfp was expressed only in hypodermal seam cells in adult animals ; hypodermal seam cell expression in adult animals was also confirmed with staining with OSM-11 antisera            .
+PMC2504490	false	s2d	35	169	The larval hypodermal expression pattern of osm-11p : : gfp is reminiscent of the osm-7p : : gfp expression pattern described previously , but osm-7p : : gfp expression in seam cells was not reported     .
+PMC2504490	false	s2d	35	170	OSM-11 protein was also expressed in the developing uterus of L4 larvae             and in the spermatheca            ; the LIN-12 Notch receptor plays a developmental role in these tissues as well     , but only OSM-11 expression in VPCs was characterized further .
+PMC2504490	false	fig-4	36	171	( A ) OSM-11 expression in seam cells of L1 larvae detected using alpha-OSM-11 antisera .
+PMC2504490	false	fig-4	36	172	The seam cells on the right side of an L1 animal are in focus ; the seam cells on the left side are visible and slightly out of focus .
+PMC2504490	false	fig-4	36	173	OSM-11 was not expressed in seam cells or hypoderm at other larval stages .
+PMC2504490	false	fig-4	37	174	( B ) OSM-11 expression in the developing uterus of L4 larvae .
+PMC2504490	false	fig-4	37	175	Left , alpha-OSM-11 antisera staining ; right , visible light image .
+PMC2504490	false	fig-4	38	176	( C ) OSM-11 expression in vulval precursor cells ( VPCs ; arrowheads ) in L3 larvae .
+PMC2504490	false	fig-4	38	177	The top panels show alpha-OSM-11 antisera staining of VPCs prior ( top left ) and immediately after ( top right ) cell fate specification as assessed by lip-1p : : gfp expression .
+PMC2504490	false	fig-4	38	178	An overlay of alpha-OSM-11 staining and lip-1p : : gfp expression shows that OSM-11 is concentrated on the apical surface of the VPCs ( bottom right ) ; this was confirmed using an ajm-1 : : gfp fusion ( unpublished data ) .
+PMC2504490	false	fig-4	39	179	( D ) OSM-11 expression in seam cells and spermatheca in adult animals .
+PMC2504490	false	fig-4	39	180	An osm-11p : : gfp reporter gene containing unc-54 3 ' UTR sequences is expressed in adult seam cells ( left ) ; alpha-OSM-11 antisera was used to confirm seam cell and spermatheca expression ( right ) .
+PMC2504490	false	fig-4	39	181	No OSM-11 was detected in neurons of larvae or adult animals ( unpublished data ) ; embryonic expression was not characterized .
+PMC2504490	false	fig-4	40	182	In ( A-D ) , the scale bar represents 10 mum .
+PMC2504490	false	s2d	41	183	Initially , OSM-11 protein is detected at uniform levels in all six equivalent VPCs .
+PMC2504490	false	s2d	41	184	OSM-11 disappears from P5.p , P6.p , and P7.p after 1degrees and 2degrees vulval cell fates are specified ( based on up regulation of lip-1p : : gfp ;         B ) .
+PMC2504490	false	s2d	41	185	OSM-11 was not detected in VPC descendents .
+PMC2504490	false	s2d	41	186	Previously described C. elegans DSL containing Notch ligands also have temporally regulated expression patterns in the VPCs     .
+PMC2504490	false	s2d	41	187	For example , based on reporter construct analysis , soluble DSL-1 is only expressed in P6.p and its descendents .
+PMC2504490	false	s2d	41	188	OSM-11 expression in Pn.p cells is consistent with a role for OSM-11 in initial cell fate specification .
+PMC2504490	false	s2	42	189	Like LIN-12 Notch receptors , OSM-11 is primarily localized to the apical side of VPCs                   .
+PMC2504490	false	s2	42	190	VPCs are polarized epithelial cells ; EGF and Notch signaling normally occurs in separate cellular compartments .
+PMC2504490	false	s2	42	191	Lethal-23 ( LET-23 ) EGF receptors are localized to the basolateral surface of the VPCs in close proximity to the AC     , which is the source of LIN-3 EGF .
+PMC2504490	false	s2	42	192	In contrast , LIN-12 receptors are primarily localized to the apical surface of the VPCs .
+PMC2504490	false	s2	42	193	The apical localization of OSM-11 in VPCs during cell fate specification suggests that OSM-11 is available to bind to LIN-12 receptors in VPCs at the time of cell fate specification .
+PMC2504490	true	s2e	43	194	Osmotic Stress Response Does Not Alter Vulval Cell Fate Specification
+PMC2504490	false	s2e	44	195	osm-11 and osm-7 were previously implicated in osmotic stress resistance        .
+PMC2504490	false	s2e	44	196	Pre-exposure of wild-type C. elegans to high external osmolarity is sufficient to induce osmotic resistance .
+PMC2504490	false	s2e	44	197	Loss of either osm-7 or osm-11 allows animals to survive high external osmolarity without pre-exposure .
+PMC2504490	false	s2e	44	198	The cellular and molecular mechanisms underlying osmotic stress resistance in either scenario are poorly understood , but up regulation of gpdh-1 and increased levels of the osmolyte glycerol have been implicated        .
+PMC2504490	false	s2e	44	199	As loss of osm-11 increases glycerol levels and increased osmolyte levels can alter protein folding , osm-11 could act indirectly to decrease Notch receptor signaling in VPC fate specification .
+PMC2504490	false	s2e	44	200	Alternatively , OSM-11 might act directly upon Notch receptors involved in VPC fate specification .
+PMC2504490	false	s2e	44	201	Our experimental results below favor the latter model ; the role of OSM-11 in vulval cell fate specification is distinct from the role of OSM-11 in osmotic stress .
+PMC2504490	false	s2e	45	202	If osmotic stress indirectly decreases Notch receptor signaling , then vulval development should be altered by osmotic stress and altered by genetic backgrounds with increased osmotic stress resistance .
+PMC2504490	false	s2e	45	203	We first tested this hypothesis by raising wild-type animals under previously defined osmotic stress conditions : 200 and 400 mM NaCl .
+PMC2504490	false	s2e	45	204	Rearing under osmotic stress conditions did not alter vulval morphology , and the cellular expression patterns of vulval cell lineage markers ( lip-1p : : gfp , egl-17p : : gfp , or lin-11p : : gfp ) in VPCs were unchanged ( unpublished data ) .
+PMC2504490	false	s2e	45	205	We also examined genetic backgrounds previously implicated in osmotic stress resistance ; neither osr-1 nor daf-2 animals have altered vulval morphology        .
+PMC2504490	false	s2e	45	206	In addition , we considered the possibility that OSM-11 expression in the vulval cell precursors might be altered by osmotic stress .
+PMC2504490	false	s2e	45	207	We found that rearing under osmotic stress conditions ( 400 mM NaCl ) did not alter OSM-11 protein levels in VPCs ( unpublished data ) .
+PMC2504490	false	s2e	45	208	Combined , all of these data suggest that osmotic stress does not itself regulate vulval development .
+PMC2504490	false	s2e	45	209	Instead , these data suggest that the roles of osm-11 in vulval development and osmotic stress resistance are independent .
+PMC2504490	true	s2f	46	210	OSM-11 Is a Secreted Protein
+PMC2504490	false	s2f	47	211	Because the predicted peptide sequence of OSM-11 contains a signal peptide , we tested whether OSM-11 is a secreted protein .
+PMC2504490	false	s2f	47	212	When an osm-11 cDNA was expressed in Drosophila S2 tissue culture cells , OSM-11 protein accumulates in the media and not in cells            , consistent with OSM-11 acting in vivo as a soluble protein in the extracellular milieu .
+PMC2504490	false	s2f	47	213	The ability of OSM-11 to diffuse and act as a soluble factor in vivo was tested by ectopically expressing OSM-11 in non VPC cells in osm-11 ( lf ) animals .
+PMC2504490	false	s2f	47	214	osm-11 cDNA was fused to osm-10 or glr-1 promoter fragments that drive expression in nonoverlapping subsets of neurons throughout larval development .
+PMC2504490	false	s2f	47	215	The osm-10 promoter drives expression in four classes of sensory neurons located exclusively in the head and tail     .
+PMC2504490	false	s2f	47	216	The glr-1 promoter drives expression in 17 other classes of neurons ( distinct from osm-10-expressing neurons ) located in the head and tail        .
+PMC2504490	false	s2f	47	217	Some of the glr-1-expressing neurons have processes in the ventral nerve cord near the VPCs .
+PMC2504490	false	s2f	47	218	We found that neuronal expression of the osm-11 cDNA significantly rescued osm-11 vulval defects to levels comparable with osm-11 promoter driven cDNA rescue            .
+PMC2504490	false	s2f	47	219	Consistent with these results , hypodermal expression of osm-11 cDNA using the wrt-6 promoter      also rescued osm-11 defects , albeit at a lower level .
+PMC2504490	false	s2f	47	220	We conclude that osm-11 can act nonautonomously and that soluble OSM-11 can diffuse in vivo .
+PMC2504490	false	s2f	47	221	Although OSM-11 expressed in VPCs may be sufficient for normal vulval development , OSM-11 can probably function at a distance in some contexts like soluble DSL ligands in C. elegans     .
+PMC2504490	false	fig-5	48	222	( A ) Western blot of conditioned media from Drosophila S2 cells containing an OSM-11 cDNA expression construct or empty vector .
+PMC2504490	false	fig-5	48	223	OSM-11 was not detected in cell lysates ( unpublished data ) .
+PMC2504490	false	fig-5	48	224	The molecular weight of mature OSM-11 was predicted at 18.9 kDa ; the detected protein migrated at 20.7 kDa ( arrowhead ) .
+PMC2504490	false	fig-5	48	225	OSM-11 may be O linked glycosylated ( see          .
+PMC2504490	false	fig-5	49	226	( B ) Transgenic rescue of osm-11 ( lf ) vulval defects .
+PMC2504490	false	fig-5	49	227	osm-11 ( lf ) animals harboring transgenes with empty expression vectors were indistinguishable from nontransgenic osm-11 ( lf ) animals ( n = 129 animals , 5 transgenic lines ) and were used as controls .
+PMC2504490	false	fig-5	49	228	Multiple transgenic lines were scored for all rescue experiments ; data are reported as mean + /- standard error of the mean ( S.E.M. ) In addition to a genomic osm-11 construct , expression of the osm-11 cDNA using the following promoters also significantly rescued osm-11 ( lf ) vulval defects : osm-11p , hsp-16p ( ubiquitous expression ; 79 % normal vulval ; unpublished data ) , wrt-6p ( hypodermal ) , osm-10p ( sensory neurons ) , and glr-1p ( nonoverlapping set of neurons vs. osm-10p ) .
+PMC2504490	false	fig-5	49	229	In addition , heterologous expression of mammalian DLK1 driven by the hsp-16 promoter also significantly rescued osm-11 ( lf ) vulval phenotypes .
+PMC2504490	false	fig-5	49	230	n > 52 animals for each transgene , p < 0.05 by chi2 .
+PMC2504490	true	s2g	50	231	osm-11 Acts Upstream of lin-12 Notch Receptor Activation to Increase Signaling
+PMC2504490	false	s2g	51	232	The phenotypic defects caused by loss of osm-11 might be due to OSM-11 action upon previously identified molecular pathways that regulate cell fate specification in vulval development .
+PMC2504490	false	s2g	51	233	We tested the sensitivity of the EGF , Notch , and synthetic multivulva ( SynMuv ) VPC fate specification pathways to osm-11 levels by RNAi knockdown of osm-11 in mutants that have been previously used as sensitized backgrounds for each pathway : lin-12 ( n137n460csgf ) Notch ( see below ) , let-23 ( sa62gf ) EGF receptor , let-60 ( n1046gf ) Ras , or lin-15 ( n765tslf ) SynMuv        .
+PMC2504490	false	s2g	51	234	osm-11 ( RNAi ) had the most effect in animals with compromised lin-12 Notch signaling ( 27 % change in multivulva ( Muv ) of lin-12 ( n137n460 ) ; osm-11 ( RNAi ) at 20 degreesC versus less than 9 % change in other backgrounds , p < 0.05 , n > 50 each ) .
+PMC2504490	false	s2g	51	235	Although it is difficult to assess the relative sensitivity of these various genetic backgrounds , these results suggested that Notch signaling might be particularly sensitive to OSM-11 levels and that osm-11 might modulate lin-12 signaling during vulval development .
+PMC2504490	false	s2g	52	236	To more accurately assess the possible role of osm-11 in lin-12 Notch signaling in vivo , we undertook genetic studies using the osm-11 ( lf ) null allele and previously described lin-12 alleles .
+PMC2504490	false	s2g	52	237	lin-12 ( n137 ) is a ligand independent dominant gain of function ( gf ) allele , whereas lin-12 ( n137n460 ) is a recessive , cold sensitive gain-of-function allele ( csgf ) .
+PMC2504490	false	s2g	52	238	Both cause multiple ectopic vulvae ( Muv ) due to secondary cell specification defects        .
+PMC2504490	false	s2g	52	239	If OSM-11 normally functions to increase Notch signaling , then loss of OSM-11 should decrease LIN-12 Notch signaling .
+PMC2504490	false	s2g	52	240	We found that osm-11 ( lf ) partially suppressed the Muv defect of lin-12 ( csgf ) at the restrictive temperature , consistent with OSM-11 normally increasing lin-12 signaling                   .
+PMC2504490	false	s2g	52	241	However , osm-11 ( lf ) did not suppress the stronger lin-12 ( gf ) allele                   .
+PMC2504490	false	s2g	52	242	Since lin-12 ( n137gf ) is thought to activate lin-12 signaling in a ligand independent manner , the inability of osm-11 ( lf ) to suppress lin-12 ( gf ) is consistent with osm-11 acting before or during ligand activation of LIN-12 .
+PMC2504490	true	fig-6	53	243	osm-11 Normally Increases Notch Signaling during Vulval Development
+PMC2504490	false	fig-6	54	244	( A and B ) lin-12 ( lf ) is epistatic to osm-11 ( lf ) .
+PMC2504490	false	fig-6	54	245	lin-12 ( lf ) is the null allele n941 ; animals carrying this allele have a protruding vulva ( pVul ; [ A ] ) that is distinct from the defective vulva seen in osm-11 ( lf ) animals ( see          .
+PMC2504490	false	fig-6	54	246	lin-12 ( lf ) ; osm-11 ( lf ) animals were indistinguishable from lin-12 ( lf ) animals ( B ) .
+PMC2504490	false	fig-6	55	247	( C and D ) osm-11 ( lf ) suppresses lin-12 ( csgf ) at 15 degreesC .
+PMC2504490	false	fig-6	55	248	lin-12 ( csgf ) is n137n460 , a recessive cold sensitive gain-of-function allele ; animals carrying this mutation have multiple pseudovulvae ( Muv ; [ C ] ) .
+PMC2504490	false	fig-6	55	249	lin-12 ( csgf ) ; osm-11 ( lf ) animals were significantly less Muv ( nonMuv ) than lin-12 ( csgf ) animals ( [ D ] ; p < 0.05 ) .
+PMC2504490	false	fig-6	56	250	( E and F ) osm-11 ( lf ) does not suppress lin-12 ( gf ) .
+PMC2504490	false	fig-6	56	251	lin-12 ( gf ) is n137 , a dominant gain-of-function allele that is ligand independent ; animals carrying this mutation are Muv ( E ) .
+PMC2504490	false	fig-6	56	252	lin-12 ( gf ) ; osm-11 ( lf ) animals were indistinguishable from lin-12 ( gf ) animals ( F ) .
+PMC2504490	false	fig-6	56	253	n > 50 animals were scored for each genotype .
+PMC2504490	false	s2g	57	254	If osm-11 normally acts before or during ligand activation of LIN-12 , then lin-12 ( lf ) should be epistatic to osm-11 ( lf ) .
+PMC2504490	false	s2g	57	255	lin-12 ( lf ) animals are sterile and have a single large protruding vulva     , a phenotype that is easily distinguishable from the misshapen vulva of osm-11 ( lf ) animals ( compare         B and  C with         B ) .
+PMC2504490	false	s2g	57	256	lin-12 ( lf ) ; osm-11 ( lf ) double-mutant animals were indistinguishable from lin-12 ( lf ) animals , suggesting that osm-11 acts upstream of lin-12 Notch                   .
+PMC2504490	false	s2g	57	257	Combined , these results suggest that OSM-11 normally increases LIN-12 Notch signaling in vivo and acts before or during receptor activation .
+PMC2504490	true	s2h	58	258	OSM-11 Functions with Other DOS Proteins in Development
+PMC2504490	false	s2h	59	259	Five C. elegans genes encode putative secreted DOS-motif proteins : osm-11 , osm-7 , dos-1 , dos-2        , and dos-3 .
+PMC2504490	false	s2h	59	260	Loss-of-function alleles are not currently available for dos-2 and dos-3 , but osm-7 ( tm2256 ) and dos-1 ( ok2398 ) are deletion alleles generated by the C. elegans gene knockout consortia and are likely strong loss-of-function ( lf ) or null alleles .
+PMC2504490	false	s2h	59	261	osm-7 ( tm2256lf ) animals are resistant to osmotic stress and fail to avoid high osmolarity , similar to previously published osm-7 alleles        .
+PMC2504490	false	s2h	60	262	To determine whether DOS-motif proteins have overlapping functions , we tested whether mutants defective in more than one DOS-motif protein had stronger vulval defects .
+PMC2504490	false	s2h	60	263	Loss of either osm-7 or dos-1 alone had little or no overt effect on vulval morphology .
+PMC2504490	false	s2h	60	264	However , loss of dos-1 or osm-7 increased the percentage of osm-11 ( lf ) animals with multiple vulval protrusions            .
+PMC2504490	false	s2h	60	265	This result is consistent with multiple DOS-motif proteins acting in vulval development .
+PMC2504490	true	fig-7	61	266	OSM-11 Acts Synergistically with DSL Ligands and Other DOS Proteins
+PMC2504490	false	fig-7	62	267	In ( A and B ) , phenotypes were scored as in         .
+PMC2504490	false	fig-7	62	268	( A ) Genetic interactions between osm-11 and DOS-motif genes osm-7 and dos-1 ( ZK507 .4 ) .
+PMC2504490	false	fig-7	62	269	dos-1 ( lf ) and osm-7 ( lf ) are both presumptive null alleles , and animals harboring these alleles had normal vulvas .
+PMC2504490	false	fig-7	62	270	dos-1 ( lf ) ; osm-11 ( lf ) and osm-7 ( lf ) ; osm-11 ( lf ) animals had significantly more severe defects than osm-11 ( lf ) animals ( p < 0.005 , chi2 test ) .
+PMC2504490	false	fig-7	62	271	Mutant alleles of dos-2 ( K10G6 .2 ) and dos-3 ( K02F3 .7 ) are not currently available .
+PMC2504490	false	fig-7	63	272	( B ) Genetic interactions between osm-11 and DSL-domain genes lag-2 and dsl-1 .
+PMC2504490	false	fig-7	63	273	lag-2 ( dn ) is the dominant negative allele sa37 ; dsl-1 ( lf ) is ok810 and is a presumptive null allele .
+PMC2504490	false	fig-7	63	274	lag-2 ( dn ) and dsl-1 ( lf ) animals had few or no vulval defects .
+PMC2504490	false	fig-7	63	275	lag-2 ( dn ) ; osm-11 ( lf ) and dsl-1 ( lf ) ; osm-11 ( lf ) animals had significantly more-severe defects that osm-11 ( lf ) animals ( p < 0.005 , chi2 test ) .
+PMC2504490	false	fig-7	64	276	( C ) Vulval precursor cell ( VPC ) fate analysis for osm-11 and dsl-1 .
+PMC2504490	false	fig-7	64	277	Arrowheads indicate the positions of P5.p , P6.p , and P7.p .
+PMC2504490	false	fig-7	64	278	Secondary ( 2degrees ) cell fates were scored as in          using lip-1p : : GFP as illustrated ( right ) .
+PMC2504490	false	fig-7	64	279	dsl-1 ; osm-11 double-mutant animals had significantly more severe 2degrees fate specification defects compared to either single mutant alone ( p < 0.005 by chi2 ) .
+PMC2504490	false	fig-7	64	280	n > = 48 for each genotype in all panels .
+PMC2504490	true	s2i	65	281	OSM-11 Functions with DSL Ligands to Increase Notch Signaling
+PMC2504490	false	s2i	66	282	Classical C. elegans Notch DSL ligands are expressed in VPCs and function redundantly during cell specification     .
+PMC2504490	false	s2i	66	283	Accordingly , DOS-motif proteins may also function redundantly in VPC specification .
+PMC2504490	false	s2i	66	284	One might expect that DSL-domain proteins and DOS-motif proteins would act together to activate Notch signaling .
+PMC2504490	false	s2i	66	285	Therefore , loss of a DSL protein should exacerbate osm-11 developmental defects .
+PMC2504490	false	s2i	66	286	dsl-1 encodes a DSL domain containing ligand which acts redundantly with two other DSL proteins to activate LIN-12 Notch signaling during vulval development     .
+PMC2504490	false	s2i	66	287	Because of this redundancy , the dsl-1 ( ok810lf ) null allele does not itself cause vulval defects     .
+PMC2504490	false	s2i	66	288	However , dsl-1 ( lf ) ; osm-11 ( lf ) double mutants had modestly increased phenotypic defects in vulval morphology compared to osm-11 single mutants .
+PMC2504490	false	s2i	66	289	osm-11 ( lf ) vulval defects were similarly enhanced by lag-2 ( lf ) , which encodes a DSL ligand            .
+PMC2504490	false	s2i	66	290	To more precisely assess interactions between osm-11 and dsl-1 , the expression of lip-1p : : gfp in dsl-1 ( lf ) ; osm-11 ( lf ) animals was assessed during VPC fate specification .
+PMC2504490	false	s2i	66	291	Eighty-six percent of the double-mutant animals lacked lip-1p : : gfp up regulation in either one or both presumptive secondary VPCs , indicating a substantial synergistic loss of secondary fate specification            .
+PMC2504490	false	s2i	66	292	This result is consistent with DOS-motif ( i.e. , OSM-11 ) and DSL-domain proteins working together to increase LIN-12 Notch signaling .
+PMC2504490	true	s2j	67	293	OSM-11 Interacts with LIN-12 Extracellular EGF Repeats in a Yeast Two-Hybrid Assay
+PMC2504490	false	s2j	68	294	The cellular nonautonomy of osm-11 , the similarity of OSM-11 to Notch ligands , the expression pattern of OSM-11 , and the genetic implication that osm-11 functions before or during LIN-12 Notch activation in VPC fate specification collectively suggest that OSM-11 may function as a LIN-12 Notch ligand .
+PMC2504490	false	s2j	68	295	We tested the hypothesis that OSM-11 directly interacts with the LIN-12 extracellular domain .
+PMC2504490	false	s2j	68	296	Previous studies demonstrated that Drosophila and vertebrate DSL ligands bind to the extracellular EGF repeats of Notch receptors .
+PMC2504490	false	s2j	68	297	In preliminary studies , we were unable to demonstrate direct binding between OSM-11 and LIN-12 biochemically using a heterologous expression system ( unpublished data ) .
+PMC2504490	false	s2j	68	298	Therefore , we turned to the yeast two-hybrid assay to test whether OSM-11 can interact with LIN-12 extracellular EGF repeats .
+PMC2504490	false	s2j	68	299	Conventional wisdom suggests that the yeast two-hybrid system is not suitable for testing extracellular protein protein interactions , especially for domains rich in disulfide bridges ( e.g. , EGF repeats ) .
+PMC2504490	false	s2j	68	300	However , two-hybrid interactions have been demonstrated between Notch receptors and ligand pairs in other species for which biochemical interactions have been previously validated           , as well as for numerous other extracellular proteins        .
+PMC2504490	false	s2j	69	301	To validate our yeast two-hybrid approach , we first confirmed that the extracellular domain of LAG-2      and the soluble DSL-domain LIN-12 ligand DSL-1      interact with LIN-12 extracellular EGF repeats 1 through 6 in the two-hybrid assay           .
+PMC2504490	false	s2j	69	302	To the best of our knowledge , this is the first in vitro evidence that C. elegans DSL ligands may bind directly to LIN-12 Notch .
+PMC2504490	false	s2j	69	303	As a negative control and to confirm specificity of the two-hybrid assay , we showed that the unrelated C. elegans ligands LIN-3 ( an EGF homolog ) and egg laying defective-17 ( EGL-17 ) ( an FGF homolog ) do not interact with LIN-12 extracellular EGF repeats           .
+PMC2504490	false	s2j	69	304	The LAG-2 and DSL-1 interactions with LIN-12 in the two-hybrid assay are consistent with previous genetic studies in C. elegans and with biochemical analyses of Notch ligand and receptor interactions in other systems .
+PMC2504490	false	s2j	69	305	Ligand-receptor interactions were only assayed using LIN-12 fused to the GAL4 activation domain ( AD ) as LIN-12 EGF fusion to the DNA binding domain resulted in strong self activation in the presence of AD empty vector ( unpublished data ) .
+PMC2504490	true	fig-8	70	306	OSM-11 and C. elegans DSL Ligands Interact with LIN-12 Notch Extracellular Domain EGF Repeats in the Two-Hybrid System
+PMC2504490	false	fig-8	71	307	DSL-1 , OSM-11 , LAG-2 extracellular domain ( LAG-2Ex ) , EGL-17 , or LIN-3 was fused to the GAL4 DNA binding domain ( DB ) ; the first six LIN-12 EGF repeats were fused to the GAL4 activation domain ( AD ) .
+PMC2504490	false	fig-8	71	308	Pairwise interactions were tested with the yeast two-hybrid assay ; positive interactions are indicated by blue staining .
+PMC2504490	false	fig-8	71	309	Both Notch DSL ligands and OSM-11 interacted with LIN-12 EGF repeats , whereas no interaction of LIN-3 EGF or EGL-17 FGF with LIN-12 Notch receptor EGF repeats was detected .
+PMC2504490	false	fig-8	71	310	LIN-12 : : DB fusion proteins exhibited strong self activation ( unpublished data ) ; therefore , reciprocal fusions were not tested .
+PMC2504490	false	fig-8	71	311	Interaction controls are : ( 1 ) empty vectors ; ( 2 ) DB-pRb and AD-E2F ; ( 3 ) DB-Fos and AD-Jun ; ( 4 ) Gal4p and pPC86 ; and ( 5 ) DB-DP1 and AD-E2F1 .
+PMC2504490	false	s2j	72	312	We found that OSM-11 also interacted with LIN-12 extracellular EGF repeats 1 through 6           ; OSM-11 did not interact with DSL-1 or LAG-2 ligands .
+PMC2504490	false	s2j	72	313	We also confirmed previous studies      in which murine DLK1 EGF repeats 1 and 2 containing the DOS motif interacted specifically with murine Notch1 EGF repeats 12 and 13 in the same two-hybrid assay format ( unpublished data ) .
+PMC2504490	false	s2j	72	314	The two-hybrid interaction does not necessarily demonstrate that OSM-11 and LIN-12 interact in vivo ; however , combined with the genetic interactions , the apical expression pattern of OSM-11 in VPCs , and previous studies of DLK1 and Notch interactions , we favor a simple model in which OSM-11 binds directly to LIN-12 Notch EGF repeats .
+PMC2504490	false	s2j	72	315	Further biochemical studies will be required to demonstrate DOS-motif protein direct interactions with Notch receptors .
+PMC2504490	true	s2k	73	316	The Mammalian DOS-Motif Protein DLK1 Can Substitute for OSM-11
+PMC2504490	false	s2k	74	317	Our results suggest that the DOS-motif protein OSM-11 may act as a soluble LIN-12 ligand in C. elegans .
+PMC2504490	false	s2k	74	318	This raises the issue of whether other DOS-motif proteins such as DLK1 , which has been implicated in Notch signaling in mammalian cells , also acts as soluble Notch ligands .
+PMC2504490	false	s2k	74	319	The precise role of DLK1 in mammalian Notch signaling is controversial .
+PMC2504490	false	s2k	74	320	To address the function of mammalian DLK1 in Notch signaling , we tested the ability of DLK1 to functionally substitute for OSM-11 in vivo in C. elegans .
+PMC2504490	false	s2k	74	321	We found that expression of a soluble , mature DLK1 protein isoform named FA1      in osm-11 ( lf ) animals significantly rescued vulval development , consistent with DLK1 protein increasing LIN-12 signaling            .
+PMC2504490	false	s2k	74	322	This result suggests that the function of C. elegans DOS-motif proteins is to increase Notch receptor signaling and that the molecular mechanism may be conserved across species .
+PMC2504490	false	s3	75	323	The data presented herein demonstrate that osm-11 is required for normal vulval development in C. elegans .
+PMC2504490	false	s3	75	324	osm-11 encodes a novel cEGF-1 protein that is similar to , but distinct from , previously characterized Notch ligands in vertebrates     .
+PMC2504490	false	s3	75	325	OSM-11 contains a previously unidentified protein motif that we have named DOS ( Delta and OSM-11 ) overlapping the EGF motifs .
+PMC2504490	false	s3	75	326	The DOS motif is conserved across species and found in canonical Notch ligands .
+PMC2504490	false	s3	75	327	OSM-11 is a secreted protein that is expressed in VPCs during cell fate specification .
+PMC2504490	false	s3	75	328	Genetic analysis suggests that OSM-11 acts upstream of LIN-12 and that OSM-11 normally increases LIN-12 Notch signaling in vivo .
+PMC2504490	false	s3	75	329	Two-hybrid data and expression on the VPC apical surfaces suggest that OSM-11 may directly bind to the LIN-12 extracellular domain , although additional biochemical studies will be required to further confirm this .
+PMC2504490	false	s3	75	330	Finally , we demonstrated that the mammalian DOS-motif protein DLK1 can partially substitute for OSM-11 in C. elegans vulval development , suggesting that DOS-motif protein function is conserved across species .
+PMC2504490	false	s3	76	331	Our data suggest a model wherein OSM-11 and C. elegans DSL ligands act together to activate Notch receptors , potentially as a C. elegans bipartite ligand that is functionally equivalent to Drosophila Delta or mammalian Jagged1           .
+PMC2504490	false	s3	76	332	Previously described C. elegans DSL ligands such as LAG-2 lack a DOS motif ; C. elegans DSL ligands , such as LAG-2 , and DOS-motif proteins , such as OSM-11 , may both be required to activate LIN-12 Notch receptor signaling in vivo .
+PMC2504490	false	s3	76	333	Classical studies in C. elegans have shown that expression of the APX-1 N-terminus ( which contains the DSL domain ) is sufficient to activate Notch signaling ; however , this is not inconsistent with our model because endogenous DOS-motif proteins were present     .
+PMC2504490	false	s3	76	334	Our model is also consistent with previous biochemical and genetic studies that showed the first two EGF repeats of Jagged1 and Delta are critical for high-affinity DSL-domain binding to mammalian Notch receptors and Notch receptor activation        .
+PMC2504490	true	fig-9	77	335	Model : C. elegans DSL and DOS Proteins May Act as Ligands for Notch Receptors
+PMC2504490	false	fig-9	78	336	Canonical Notch ligands in Drosophila contain both DSL domains and DOS motifs as do some vertebrate Notch ligands ( e.g. , Delta ) .
+PMC2504490	false	fig-9	78	337	However , classical Notch ligands from C. elegans and several vertebrate Notch ligands contain a DSL domain , but lack DOS-motif EGF repeats ( e.g. , LAG-2 or DLL3 ) .
+PMC2504490	false	fig-9	78	338	The C. elegans proteins characterized in this study ( e.g. , OSM-11 ) and the two presumptive vertebrate ligands DLK1 and EGFL9 and DLK2 lack DSL domains , but contain DOS motifs .
+PMC2504490	false	fig-9	78	339	In the simplest model , both a DOS motif and DSL domain are required for coordinated Notch receptor activation .
+PMC2504490	false	fig-9	78	340	These could act in cis in canonical Notch receptors like Drosophila Delta or in trans in the case of LAG-2 and OSM-11 .
+PMC2504490	false	fig-9	78	341	Overexpression of a " DOS-only " or a " DSL-only " ligand may inhibit Notch receptor activation by competition with canonical ligands containing both a DSL domain and a DOS motif , such as Jagged1 or Delta .
+PMC2504490	false	fig-9	78	342	This model is consistent with osm-11 ( lf ) animals having phenotypic defects usually associated with Notch loss of function .
+PMC2504490	false	fig-9	78	343	We do not exclude other possible scenarios ; see            for details .
+PMC2504490	false	s3	79	344	Bipartite or heteromeric ligands are relatively rare compared to heteromeric receptors .
+PMC2504490	false	s3	79	345	To our knowledge , bipartite ligands have only been described previously in the immune system .
+PMC2504490	false	s3	79	346	The binding of antigen to complement fragment creates , in effect , a bipartite ligand for antigen receptor as does the binding of an antigenic peptide to a compatible major histocompatibility complex ( MHC ) subunit .
+PMC2504490	false	s3	79	347	Additionally , and perhaps more pertinently , heterodimeric cytokines have been described in the immune system that bind to cytokine receptors     ; for example , the interleukin-12 ( IL-12 ) cytokine is composed of p40 and p35 , whereas the IL-23 is composed of p40 and p19 .
+PMC2504490	false	s3	79	348	Although bipartite ligands are unusual , they are not unprecedented .
+PMC2504490	false	s2k	80	349	Previous studies have shown that the mammalian DOS-motif protein DLK1 acts as a competitive antagonist of ligand Jagged1 , a canonical ligand that contains both a DSL domain and DOS motif     .
+PMC2504490	false	s2k	80	350	Therefore , a plausible alternative model ( which takes into account DLK1 antagonism of Jagged1 ) is that DOS-motif proteins bind to Notch receptors , but function as antagonists of DSL-domain Notch ligands in all species .
+PMC2504490	false	s2k	80	351	DOS proteins such as OSM-11 might play a role in maintaining C. elegans Notch receptor levels or localization , although LIN-12 Notch expression is unaltered in animals lacking osm-11 .
+PMC2504490	false	s2k	80	352	Based on our data , we instead favor the simpler model of DOS-motif proteins as activators of Notch receptors acting with DSL proteins .
+PMC2504490	false	s2k	80	353	In an independent behavioral analysis ( M. Chao , J. Larkins-Ford , T. Tucey , H. Komatsu , and H. Dionne , et al. , unpublished data ) , we also found that OSM-11 activates both LIN-12 and germline proliferation defective-1 ( GLP-1 ) in the adult nervous system to regulate behavior .
+PMC2504490	false	s2k	80	354	We speculate that if DLK1 was coexpressed in mammalian systems with a C. elegans DSL-only ligand , then Notch signaling might be increased .
+PMC2504490	false	s2k	80	355	Mammalian Delta like 3 ( DLL3 ) and DLL4 ligands contain DSL domains , but not DOS motifs .
+PMC2504490	false	s2k	80	356	Biochemical studies have shown that DLL3 inhibits Notch signaling and DLL4 increases Notch signaling in various contexts .
+PMC2504490	false	s2k	80	357	It would be useful to examine Notch activation when DLK1 and DLL3 are coexpressed .
+PMC2504490	false	s2k	80	358	Clearly , biochemical analyses addressing the role of DOS motifs and DSL domains in Notch receptor activation will be required to discriminate between these two models and to determine the relative contributions of DSL and DOS-motif proteins to Notch signaling .
+PMC2504490	false	s2j	81	359	C. elegans DSL ligands function redundantly , activating LIN-12 Notch during vulval development ; loss of any one DSL ligand gene causes mild or no overt defects     .
+PMC2504490	false	s2j	81	360	Similarly , loss of osm-11 alone caused only mild defects in vulval morphogenesis , whereas loss of more than one DOS-motif gene resulted in more-severe vulval defects .
+PMC2504490	false	s2j	81	361	Like DSL ligands , DOS-motif proteins function semiredundantly to increase Notch signaling in vivo .
+PMC2504490	false	s2j	81	362	In addition , genetic analysis suggests that DOS-motif proteins and DSL proteins may act together to regulate Notch receptors .
+PMC2504490	false	s2j	81	363	It is possible that Notch receptor activation by ligands during VPC development is robust due to this redundancy .
+PMC2504490	false	s2j	81	364	This multifactorial system for regulation of Notch receptors might allow use of individual soluble DOS or DSL proteins in other cell-cell signaling events in other tissues simultaneously .
+PMC2504490	false	s2i	82	365	Defining a role herein for osm-7 and osm-11 in Notch signaling suggests that this pathway also plays a previously unsuspected role in osmotic stress response .
+PMC2504490	false	s2i	82	366	C. elegans can adapt to increased environmental osmolarity ; animals exposed to moderate osmotic stress increase internal osmolyte levels and have altered behavior reminiscent of animals lacking osm-11 or osm-7        .
+PMC2504490	false	s2i	82	367	A role for Notch signaling in osmotic stress has not been reported in any species .
+PMC2504490	false	s2i	82	368	The developmental role of Notch signaling in vulval cell fate specification is distinct from the role in osmotic stress response based on data presented here .
+PMC2504490	false	s2i	82	369	Further studies will be required to determine whether diffusible DOS proteins act as humoral factors to regulate Notch signaling in multiple tissues to coordinate physiological and behavioral adaptation to osmotic stress .
+PMC2504490	false	fig-7	83	370	The diversity of Notch receptors and ligands is remarkable .
+PMC2504490	false	fig-7	83	371	C. elegans has two Notch receptors ( lin-12 and glp-1 ) , ten DSL domain proteins that lack DOS motifs      and five DOS-motif proteins without DSL domains ( this study ) .
+PMC2504490	false	fig-7	83	372	Mammals have four Notch receptors , multiple DSL ligands , and two presumptive DOS-motif-only ligands : DLK1 and EGFL9 and DLK2 .
+PMC2504490	false	fig-7	83	373	Additional proteins have been suggested to act as Notch ligands in vertebrates        , but invertebrate homologs have not been identified .
+PMC2504490	false	fig-7	83	374	At least one DSL domain Notch ligand in each vertebrate species we examined ( zebrafish , humans , and mice ) lacks the conserved DOS motif ; these proteins are potentially analogous to C. elegans DSL domain ligands ( e.g. , LAG-2 ) that also lack DOS motifs .
+PMC2504490	false	fig-7	83	375	Soluble Notch ligands are now predicted in all of these species based on this and previous studies .
+PMC2504490	false	fig-7	83	376	In contrast , Drosophila has only one Notch receptor , and the two previously characterized transmembrane Drosophila Notch ligands contain both DSL domains and DOS motifs .
+PMC2504490	false	fig-7	83	377	This heterogeneity of Notch ligands and receptors indicates that the functional relationship between Notch receptors and ligands is highly complex , allowing precise regulation of signaling .
+PMC2504490	true	s4a	84	378	Characterization of osm-11 .
+PMC2504490	false	s4a	85	379	The osm-11 ( rt68 ) mutant allele was identified in a classical genetic screen based on defective chemosensory response and temporarily designated sel-14 ( suppressor and enhancer of lin-12-14 ) .
+PMC2504490	false	s4a	85	380	The rt68 mutation was mapped to the predicted C. elegans gene F11C7 .5 and mutates W177 to a premature stop codon , resulting in premature truncation of translation near the end of the DOS motif .
+PMC2504490	false	s4a	85	381	Recent published studies and our analysis herein confirmed that sel-14 ( rt68 ) is an allele of osm-11 and has the same amino acid change as the previously identified allele osm-11 ( n1604 )        ; therefore , we refer to this gene as osm-11 .
+PMC2504490	false	s4a	85	382	The deletion allele osm-11 ( rt142 ) was identified by PCR based screening of a frozen ethylmethane sulfonate ( EMS ) - mutagenized library of C. elegans strains     .
+PMC2504490	false	s4a	85	383	The rt68 and rt142 alleles had similar phenotypic defects , but the rt142 deletion allele was more severe .
+PMC2504490	false	s4a	85	384	Both osm-11 alleles are recessive .
+PMC2504490	false	s4a	85	385	osm-11 ( rt142 ) is likely a complete loss-of-function ( lf ) allele and was used exclusively herein .
+PMC2504490	false	s4a	85	386	RNAi of osm-11 was performed by raising N2 animals on a lawn of bacteria expressing osm-11 double stranded ( dsRNA ) .
+PMC2504490	false	s4a	85	387	Other than morphological defects , vulva perturbations , and consequent egg laying defects , osm-11 ( rt142lf ) animals are overtly normal in locomotion , male mating , and reproduction , although their growth rate is slightly slower and they are slightly smaller than wild-type animals .
+PMC2504490	false	s4a	85	388	osm-11 animals frequently had ventral protrusions posterior to the anus .
+PMC2504490	false	s4a	85	389	Postanal swelling is frequently associated with bacterial infections , but swelling occurs in uncontaminated osm-11 animals raised on standard OP50 bacteria .
+PMC2504490	false	s4a	85	390	Gonad morphology was subtly altered in osm-11 animals but was not further characterized here .
+PMC2504490	false	s4a	85	391	osm-11 loss of function alters glp-1 germline proliferation defects ( M. Chao , J. Larkins-Ford , T. Tucey , H. Komatsu , and H. Dionne , et al , unpublished data ) .
+PMC2504490	false	s4a	85	392	osm-11 ( rt142 ) animals are osmotic stress resistant and are motile on 500 mM NaCl NGM plates , consistent with previously published phenotypes of osm-11 ( n1604 )     .
+PMC2504490	false	s4b	86	393	Gain-of-function lin-12 alleles used herein included the constitutive dominant allele lin-12 ( n137gf ) and the cold sensitive recessive gain-of-function allele lin-12 ( n137n460gfcs ) .
+PMC2504490	false	s4b	86	394	Results from homozygous lin-12 ( n137 ) and heterozygote lin-12 ( n137 ) /+ animals were pooled in         .
+PMC2504490	false	s4b	86	395	The lin-12 ( n941 ) null allele was maintained by balancing over either qC1 containing qIs26 [ rol-6 ( d ) , lag-2 : : gfp ] or over unc-32 ( e189 ) .
+PMC2504490	false	s4b	86	396	Genetic epistasis of osm-11 with lin-12 ( n941 ) was assessed using homozygous lin-12 ( lf ) progeny of lin-12 ( lf ) / unc-32 ( e189 ) animals .
+PMC2504490	false	s4b	86	397	A fraction of animals were singled as larvae and subsequently scored for vulval morphology and genotype .
+PMC2504490	false	s4b	86	398	lin-12 ( n941 ) animals were always sterile regardless of osm-11 status ; lin-12 ( n941 ) / unc-32 animals lacked protruding vulva and yielded unc-32 progeny regardless of osm-11 status .
+PMC2504490	false	s4b	87	399	The deletion alleles osm-7 ( tm2256 ) and dos-1 ( ok2398 ) were generated by the C. elegans gene knockout consortia .
+PMC2504490	false	s4b	87	400	The osm-7 ( tm2256 ) deletion removes the first part of the DOS motif and eliminates an exon splice site , resulting in a predicted frame shift after amino acid 200 with premature truncation after translation of 21 amino acids .
+PMC2504490	false	s4b	87	401	The dos-1 ( ok2398 ) allele is a 1.7-kb deletion that removes the initiator methionine and the first five exons , including the DOS motif .
+PMC2504490	false	s4b	87	402	All deletion alleles were backcrossed at least four times prior to analysis .
+PMC2504490	false	s4b	87	403	Double-mutant analysis in          was performed in an ayIs4 genetic background .
+PMC2504490	false	s4b	87	404	Other alleles used in this study include lag-2 ( sa37 ) and dsl-1 ( ok810 ) .
+PMC2504490	true	s4c	88	405	Analysis of VPC fate specification .
+PMC2504490	false	s4c	89	406	Pn.p cells and descendents were identified by differential interference contrast ( DIC ) imaging on a Zeiss Axioskop2 .
+PMC2504490	false	s4c	89	407	The transgenic arrays used for VPC fate analysis were : ayIs4 [ egl-17p : : gfp ] , syIs107 [ lin-3p : : gfp ] , oyIs31 [ lin-11p : : gfp ] , and zhIs4 [ lip-1p : : gfp ]              .
+PMC2504490	false	s4c	89	408	Animals were scored at the Pn.p and Pn.px stages for egl-17p : : gfp and lip-1p : : gfp , but only at the Pn.pxx stage for lin-11p : : gfp .
+PMC2504490	false	s4c	89	409	Rearing on 400 mM NaCl NGM plates dramatically slows growth and results in partially penetrant embryonic and larval lethality .
+PMC2504490	false	s4c	89	410	In less than 10 % of all animals raised under these conditions , Pn.p cells and descendents could not be identified by DIC ; these animals were excluded from the analysis .
+PMC2504490	false	s4c	89	411	oyIs31 animals were nonviable on 400 mM NaCl NGM plates
+PMC2504490	false	s4d	90	412	Polyclonal antisera specific to OSM-11 were raised in rabbits using the C-terminal peptide YSKCTMFTPVQY ( Sigma-Genosys ) and was used as a 1:200 dilution of unpurified sera .
+PMC2504490	false	s4d	90	413	OSM-11 immunoreactivity was detected in larval and adult animals in paraformaldehyde fixed wild-type animals , but not in osm-11 ( rt142lf ) animals ( unpublished data ) .
+PMC2504490	false	s4d	90	414	Eggs were not examined , and no immunoreactivity in germ cells was observed .
+PMC2504490	false	s4d	90	415	OSM-11 was detected at the junction of the presumptive vulva and uterus of L4 larvae and in the spermatheca of late-larval and adult animals .
+PMC2504490	false	s4d	90	416	OSM-11 mRNA localization by in situ hybridization is consistent with expression in VPCs and hypoderm in young larvae and in seam cells in adult animals ( see NEXTDB , http://nematode.lab.nig.ac.jp/db2/ShowCloneInfo.php?clone=59g10; Y. Kohara , personal correspondence ) .
+PMC2504490	false	s4e	91	417	Plasmids and cloning details are available upon request .
+PMC2504490	false	s4e	91	418	Transgenic strains were generated by microinjection with plasmids of interest at 20 to 50 ng and mul .
+PMC2504490	false	s4e	91	419	Transgenesis coinjection markers were pJM # 67 elt-2 : : gfp     , pPD48 .33 myo-2 : : gfp     , or phenotypic rescue of pha-1 ( e2123 ) using pBX # 1     .
+PMC2504490	false	s4e	91	420	The osm-11 cDNA clone was obtained by PCR from the Vidal laboratory ORFeome cDNA library      and agrees exactly with the predicted sequence in WormBase and at NCBI .
+PMC2504490	false	s4e	91	421	osm-11 cDNA constructs used herein for rescue contained the unc-54 3 ' UTR , whereas genomic rescue clones contained the osm-11 3 ' UTR .
+PMC2504490	false	s4e	91	422	Although osm-11 vulval defects are substantially rescued by both types of constructs , we can not rule out transcriptional regulation by the osm-11 3 ' UTR .
+PMC2504490	false	s4e	91	423	Multiple transgenic lines were scored for each transgenic experiment ; results were substantially equal for each transgenic line and were pooled by construct .
+PMC2504490	false	s4e	91	424	The soluble lag-2 construct was previously described and fully rescues a lag 2 mutant     .
+PMC2504490	false	s4e	91	425	Mammalian DLK1 has multiple splice forms yielding soluble and membrane bound isoforms .
+PMC2504490	false	s4e	91	426	Proteolysis of membrane bound DLK1 yields the soluble protein originally known as fetal antigen 1 ( FA1 ) .
+PMC2504490	false	s4e	91	427	A murine DLK1 cDNA fragment that encodes the DLK1 FA1 protein isoform was used in C. elegans rescue experiments and was expressed ubiquitously using the hsp-16 promoter .
+PMC2504490	false	s4f	92	428	C. elegans and C. briggsae homologs of OSM-11 were identified by BLAST analysis against genomic sequences and predicted genes at NCBI and WormBase .
+PMC2504490	false	s4f	92	429	A short , common motif was identified manually and used to search for similar proteins using Pattern Search at the Swiss Institute for Experimental Cancer Research ( ISREC ) ( http://myhits.isb-sib.ch/cgi-bin/pattern_search ) .
+PMC2504490	false	s4f	92	430	A subset of Notch ligands was identified .
+PMC2504490	false	s4f	92	431	DLK1 and Drosophila Delta proteins were manually compared to C. elegans and C. briggsae homologs of OSM-11 and used to generate the final DOS-motif consensus           .
+PMC2504490	false	s4f	92	432	Proteins were aligned using ClustalW at ISREC ( http://myhits.isb-sib.ch/cgi-bin/clustalw ) .
+PMC2504490	false	s4f	92	433	The proteins identified are known Notch ligands except for mouse DLK1 , Drosophila C901 , and human EGFL9 .
+PMC2504490	false	s4f	92	434	Drosophila C901 contains a signal peptide , a DSL domain , and EGF repeats , but has not been well characterized     .
+PMC2504490	false	s4f	92	435	DLK1 and EGFL9 do not contain DSL domains , but do contain signal peptides and EGF repeats .
+PMC2504490	false	s4f	92	436	Given that all previously identified DSL domains are located between the signal peptide sequence and the EGF repeats , we conclude that DLK1 and EGFL9 do not contain DSL domains .
+PMC2504490	false	s4f	92	437	It is interesting to note that many classical Notch ligand genes contain an intron immediately after the DSL domain .
+PMC2504490	false	s4f	93	438	T05D4 .4 and ZK507 .4 ( OSM-7 and DOS-1 , respectively ) predicted C. elegans proteins are partially confirmed by existing cDNAs and are conserved in C. briggsae .
+PMC2504490	false	s4f	93	439	A cDNA fragment containing predicted C. elegans K10G6 .2 ( dos-2 ) exons was successfully amplified from a cDNA library by the Vidal ORFeome project ; the K10G6 .2 predicted protein is also conserved in C. briggsae .
+PMC2504490	false	s4f	93	440	The C. briggsae homologs of C. elegans proteins are CBG18238 for T05D4 .4 , CBG18440 for K10G6 .2 , CBG06935 for ZK507 .4 , and CBG15929 for F11C7 .5 .
+PMC2504490	false	s4f	93	441	The new prediction for K02F3 .7 / DOS-3 has been submitted to WormBase ; the C. briggsae homolog is CBP19746 .
+PMC2504490	false	s4f	93	442	All of these C. briggsae proteins are predicted to have signal peptide sequences .
+PMC2504490	false	s4f	93	443	Proteins in D. melanogaster , C. elegans , C. briggsae , Homo sapiens , Danio rerio , and Mus musculus that contain the DOS motif are ( amino acids ) : tr : A1L1P2_DANRE / 224-274 , tr : A1C3M9_DANRE / 228-278 , sw : DLL1_HUMAN / 226-276 , sw : DLL1_MOUSE / 225-275 , tr : A4V346_DROME / 231-279 , sw : DLLB_DANRE / 208-258 , tr : Q9VZ44_DROME / 212-262 , tr : Q925U3_MOUSE / 26-76 , NP_003827 / 26-76 , sw : EGFL9_HUMAN / 29-79 , sw : Q8K1E3 EGFL9 and 29 -79 , tr : A1A3Y8_DANRE / 235-285 , tr : A1A3Y7_DANRE / 231-281 , sw : JAG1_HUMAN / 234-284 , sw : JAG1_MOUSE / 234-284 , sw : JAG2_MOUSE / 245-295 , sw : JAG2_HUMAN / 245-295 , tr : Q90Y55_DANRE / 237-287 , sw : SERR_DROME / 284-335 , tr : O45750_CAEEL / 205-253 , tr : Q60YH7_CAEBR / 205-253 , tr : Q21149_CAEEL / 127-175 , tr : Q60JE9_CAEBR / 385-433 , sw : YOO4_CAEEL / 130-179 , tr : Q614N0_CAEBR / 135-180 , tr : O45346_CAEEL / 136-181 , and tr : Q60Y06_CAEBR / 130-177 .
+PMC2504490	false	s4f	94	444	DOS-motif proteins were clustered using CLUSTALW in the MegAlign package ( Lasergene ) with an identity matrix and the following default parameters : gap penalty 20.0 , gap length penalty 0.2 , delay divergent sequences 30 % , and DNA transition weight 0.5 .
+PMC2504490	false	s4f	94	445	The N- and C-terminal boundaries of the amino acid sequences used for the alignment began at the first cysteine residue of the first EGF repeat , and ended at the cysteine residue immediately preceding the conserved CXC motif of the second EGF repeat .
+PMC2504490	false	s4f	94	446	The only exceptions to this were the sequences used for MmJagged1 and HsJagged1 ; in these proteins , a gap between EGF repeats 1 and 2 contained cysteine and tryptophan residues that followed the spacing of the DOS motif consensus sequence but were clearly not part of EGF repeat 2 .
+PMC2504490	false	s4f	94	447	Amino acid sequence from the gap instead of from EGF repeat 2 was used for these two proteins .
+PMC2504490	false	s4f	94	448	Two outgroups were used in the alignment : EGF repeats 1 and 2 from CeAPX-1 and CeLAG-2 , which lack the SELCT motif and have been previously shown to be phylogenetically distinct from EGF repeats 1 and 2 of other DSL ligands     ; and EGF repeats 3 and 4 ( EGF3-4 ) of selected DOS motif containing proteins ( using the same N- and C-terminal boundaries as above ) , as examples of canonical EGF repeats .
+PMC2504490	false	s4f	94	449	DmSerrate EGF repeat 4 contains a phylogenetically unique insertion ; for the purposes of sequence alignment , amino acids 407-470 were deleted     .
+PMC2504490	false	s4f	94	450	Accession numbers used are : CeT05D4 .4 , O45750 ; Cezk507 .4 , P34636 ; CeSEL-14 , O45346 ; CeK10G6 .2 , O16627 ; CeAPX-1 , P41990 ; CeLAG-2 , P45442 ; DrDeltaA , AAC41249 ; DrDeltaB , AAH76414 ; DrDeltaD , Q8UWJ4 ; DrJagged1 , Q90Y57 ; DrJagged2 , CAH69088 ; DrSerrateB , AAC98354 ; DmDelta , P10041 ; DmSerrate , P18168 ; DmC901 , CAA72010 ; HsDll1 , O00548 ; HsEgfl9 , Q6UY11 ; HsJagged1 , P78504 ; HsJagged2 , Q9Y219 ; MmDlk1 , NP_034182 ; MmDll1 , Q61483 ; MmJagged1 , Q9QXX0 ; and MmJagged2 , Q9QYE5 .
+PMC2504490	false	s4f	94	451	Species designations are : Ce , Caenorhabditis elegans ; Dr , Danio rerio ; Dm , Drosophila melanogaster ; Hs , Homo sapiens ; Mm , Mus musculus .
+PMC2504490	false	s4e	95	452	We are grateful for advice and and or reagents from members of the Hart , Vidal , van den Heuvel , and Artavanis-Tsakonas laboratories , Steven Blacklow , and numerous generous members of the C. elegans community .
+PMC2504490	false	s4e	95	453	We thank Yuji Kohara for sharing NEXTDB in situ hybridization results , Victoriano Baladron and Jorge Laborda for two-hybrid reagents , and Jonathan Whetstine , Ketu Mishra-Gorur , and Spyros Artavanis-Tsakonas for help with tissue culture studies .
+PMC2504490	false	s4e	95	454	Assistance and advice from Li Na , Adriana Jones , and John Satterlee was deeply appreciated .
+PMC2504490	false	s4c	96	455	anchor cell
+PMC2504490	false	s4a	97	456	anterior pharynx defective
+PMC2504490	false	s2h	98	457	Delta and OSM-11
+PMC2504490	false	s2g	99	458	Delta , Serrate , and LAG-2
+PMC2504490	false	fig-5	100	459	epidermal growth factor
+PMC2504490	false	s2e	101	460	fetal antigen 1
+PMC2504490	false	s2	102	461	green fluorescent protein
+PMC2504490	false	s1	103	462	Lin and Glp

@@ -1,0 +1,355 @@
+Paper ID	Is title?	Section ID	Passage ID	Line Num	Text
+PMC3182062	true	article-title	0	0	Notch signaling inhibits hepatocellular carcinoma following inactivation of the RB pathway
+PMC3182062	false	abstract	1	1	Mice lacking all three Rb genes in the liver develop tumors resembling specific subgroups of human hepatocellular carcinomas , and Notch activity appears to suppress the growth and progression of these tumors .
+PMC3182062	false	abstract	2	2	Hepatocellular carcinoma ( HCC ) is the third cancer killer worldwide with > 600,000 deaths every year .
+PMC3182062	false	abstract	2	3	Although the major risk factors are known , therapeutic options in patients remain limited in part because of our incomplete understanding of the cellular and molecular mechanisms influencing HCC development .
+PMC3182062	false	abstract	2	4	Evidence indicates that the retinoblastoma ( RB ) pathway is functionally inactivated in most cases of HCC by genetic , epigenetic , and and or viral mechanisms .
+PMC3182062	false	abstract	2	5	To investigate the functional relevance of this observation , we inactivated the RB pathway in the liver of adult mice by deleting the three members of the Rb ( Rb1 ) gene family : Rb , p107 , and p130 .
+PMC3182062	false	abstract	2	6	Rb family triple knockout mice develop liver tumors with histopathological features and gene expression profiles similar to human HCC .
+PMC3182062	false	abstract	2	7	In this mouse model , cancer initiation is associated with the specific expansion of populations of liver stem and progenitor cells , indicating that the RB pathway may prevent HCC development by maintaining the quiescence of adult liver progenitor cells .
+PMC3182062	false	abstract	2	8	In addition , we show that during tumor progression , activation of the Notch pathway via E2F transcription factors serves as a negative feedback mechanism to slow HCC growth .
+PMC3182062	false	abstract	2	9	The level of Notch activity is also able to predict survival of HCC patients , suggesting novel means to diagnose and treat HCC .
+PMC3182062	true	sec-2	3	10	Genetic ablation of the Rb gene family in the liver of adult mice results in the development of tumors similar to human HCC
+PMC3182062	false	sec-2	4	11	To model the functional inactivation of the RB pathway found in human HCC , we specifically deleted the three Rb family genes in the liver of adult mice by performing intrasplenic injection of adenovirus expressing the Cre recombinase ( Ad-Cre ) in conditional TKO ( cTKO ; Rblox and lox ; p130lox and lox ; p107-/- ;                       adult mice .
+PMC3182062	false	sec-2	4	12	In this protocol , the adenovirus predominantly delivers the Cre recombinase to hepatocytes as well as nonparenchymal cells in the liver            .
+PMC3182062	false	sec-2	4	13	All of the Ad-Cre-infected cTKO mice analyzed and none of the control mice infected with Ad-GFP developed multiple liver lesions after a latency of 3-4 mo and had to be euthanized within 5-8 mo because of tumor burden           ; these mice did not develop any other visible pathology outside the liver ( not depicted ) .
+PMC3182062	false	sec-2	4	14	Quantitative RT-PCR ( RT-qPCR ) analysis with RNA extracted from macro-dissected tumors showed decreased expression of Rb and p130 , confirming deletion of these two genes           .
+PMC3182062	false	sec-2	4	15	The presence of one p130 or p107 allele was sufficient to prevent the development of liver tumors at the same time points                             .
+PMC3182062	false	sec-2	4	16	Cells in these lesions were actively cycling , as visualized by immunostaining for BrdU incorporation            and by immunoblot analysis for known markers of proliferation            .
+PMC3182062	false	sec-2	4	17	Finally , TKO liver tumors could be serially transplanted in immunocompromised mice , confirming their tumorigenic potential               .
+PMC3182062	false	fig-1	5	18	Genetic inactivation of the Rb gene family in the mouse liver results in HCC development .
+PMC3182062	false	fig-1	5	19	( A ) One representative ( n > 20 ) TKO mouse with tumors ( asterisks ) in the liver is shown 4 mo after intrasplenic Ad-Cre injection .
+PMC3182062	false	fig-1	5	20	All experiments were performed on TKO mice 3-4 mo after Ad-Cre injection .
+PMC3182062	false	fig-1	5	21	( B ) RT-qPCR analysis of Rb and p130 messenger RNA ( mRNA ) expression in TKO tumors ( n = 9 ) and control livers ( n = 5 ; CTRL , Rblox and lox ; p130lox and lox ; p107-/- ) .
+PMC3182062	false	fig-1	5	22	( C ) Immunostaining on TKO liver sections for the DNA replication marker BrdU .
+PMC3182062	false	fig-1	5	23	Areas of proliferation are circled with dashed lines .
+PMC3182062	false	fig-1	5	24	( D ) RT-qPCR analysis of Afp mRNA levels in TKO tumors ( n = 9 ) and CTRL livers ( n = 5 ) .
+PMC3182062	false	fig-1	5	25	( E ) H&E staining of TKO liver sections with multiple independent tumors ( delineated by dashed lines ) .
+PMC3182062	false	fig-1	5	26	( F ) At higher magnification , tumor cells resemble small hepatocytes .
+PMC3182062	false	fig-1	5	27	( G ) Representative sections ( n > 20 ) from CTRL and TKO livers were stained with DAPI , CK19 , and Albumin ( Alb ) .
+PMC3182062	false	fig-1	5	28	The white arrows point to a bile duct .
+PMC3182062	false	fig-1	5	29	Merged pictures are shown on the right .
+PMC3182062	false	fig-1	5	30	( H ) Nonsupervised hierarchical clustering of gene expression profiles from human HCCs and mouse TKO tumors ( blue asterisks ) .
+PMC3182062	false	fig-1	5	31	The black bar marks human tumors in the group G3 , which are characterized in part by methylation of the CDKN2A locus .
+PMC3182062	false	fig-1	5	32	The green bar marks normal human liver samples , and the red bar marks CTRL mouse livers .
+PMC3182062	false	fig-1	5	33	Error bars indicate SEM .
+PMC3182062	false	fig-1	5	34	* , P < 0.05 ; ** , P < 0.01 ; *** , P < 0.001 .
+PMC3182062	false	fig-1	5	35	Bars : ( C , E , and G ) 50 microm ; ( F ) 5 microm .
+PMC3182062	false	sec-2	6	36	TKO tumors expressed high levels of Afp , a molecular marker of HCC           , and were classified histopathologically as trabecular lesions with features of hepatocytes                  .
+PMC3182062	false	sec-2	6	37	Immunostaining experiments further indicated that TKO tumors were composed of cells expressing heterogeneous levels of Albumin ( a hepatocyte marker ) but undetectable levels of CK19 or EpCAM ( cholangiocyte markers ;          and Fig .
+PMC3182062	false	sec-2	6	38	S1 G ) , similar to most human HCCs .
+PMC3182062	false	sec-2	6	39	To further assess the relevance of the TKO model to human HCC , we performed a microarray analysis comparing TKO tumors to human HCCs .
+PMC3182062	false	sec-2	6	40	A previous analysis of gene expression profiles from a large set of human HCCs identified six HCC subgroups ( G1-G6 ) , each with different molecular features                       .
+PMC3182062	false	sec-2	6	41	We found that TKO tumors clustered preferentially with the G1-G3 groups           .
+PMC3182062	false	sec-2	6	42	Interestingly , some TKO tumors clustered with human G3 tumors , which are characterized in part by the expression of several genes implicated in cell cycle control , including E2F target genes , and by the methylation of the CDKN2A locus , which codes for p16INK4a , an upstream regulator of the entire RB family .
+PMC3182062	false	sec-2	6	43	Together , these observations indicate that the tumors growing in the liver of TKO mice provide a novel model for human HCC .
+PMC3182062	true	sec-3	7	44	Expansion of the stem and progenitor compartment upon deletion of Rb family genes in the liver of adult mice
+PMC3182062	false	sec-3	8	45	The early stages of cancer initiation are challenging to study in HCC patients , who are often diagnosed with advanced disease , but are readily accessible to in vivo analysis in mouse models .
+PMC3182062	false	sec-3	8	46	We examined tumor development 1-5 wk after Cre mediated inactivation of Rb family genes in the liver of adult cTKO mice .
+PMC3182062	false	sec-3	8	47	At these time points , the mutant liver appeared macroscopically normal ( not depicted ) , but liver sections showed the progressive appearance of foci of small cells growing next to the portal triad ; these cells had a high nuclear and cytoplasm ratio and often displayed an oval shape as well as some histopathological features of hepatocytes                         .
+PMC3182062	false	sec-3	8	48	Immunostaining for glutamine synthase ( GS ) , a marker of centrilobular hepatocytes                                  , confirmed that the small lesions were growing next to portal triads , away from central veins           .
+PMC3182062	false	sec-3	8	49	The adult liver is a quiescent organ , and very few cells stained positive for the cell cycle marker Ki67 on liver sections from control mice 2-4 wk after Ad-Cre infection ( not depicted ) .
+PMC3182062	false	sec-3	8	50	In contrast , immunostaining for Ki67 on liver sections from TKO mice showed that cells in the small lesions were proliferative ; strikingly , very little proliferation was observed in populations of mature hepatocytes surrounding the early lesions                                                     .
+PMC3182062	false	sec-3	8	51	Little , if any apoptotic cell death was observed by immunostaining for cleaved caspase 3 on sections from control and TKO mice at these early time points ( not depicted ) .
+PMC3182062	false	sec-3	8	52	This analysis suggested that loss of RB family members in the liver of adult mice leads rapidly and specifically to the proliferation of progenitor like cells                                             .
+PMC3182062	false	fig-2	9	53	Inactivation of the Rb gene family in the adult liver results in the expansion of cells with features of stem and progenitor cells .
+PMC3182062	false	fig-2	9	54	( A ) Representative H&E staining ( n > 20 ) of the liver of a cTKO mouse infected with Ad-Cre ( 4 wk after the injection ) shows that TKO early liver lesions are composed of small cells .
+PMC3182062	false	fig-2	9	55	White dashed lines indicate lesions .
+PMC3182062	false	fig-2	9	56	All mice used were between 2 and 4 mo of age at the time of injection .
+PMC3182062	false	fig-2	9	57	PT , portal triad .
+PMC3182062	false	fig-2	9	58	( B ) Sections from TKO liver were stained antibodies against GS ( green ) , a marker of hepatocytes around the central vein ( CV ) .
+PMC3182062	false	fig-2	9	59	Immunofluorescence images were merged with DAPI ( blue ) images .
+PMC3182062	false	fig-2	9	60	The white arrows indicate early TKO lesions .
+PMC3182062	false	fig-2	9	61	( C ) Early lesions in cTKO ; Rosa26LSL-YFP mice infected with Ad-Cre were immunostained for Ki67 and GFP .
+PMC3182062	false	fig-2	9	62	White dashed lines indicate lesions .
+PMC3182062	false	fig-2	9	63	( D ) Control ( CTRL ) and TKO liver sections were stained with Sca1 antibodies .
+PMC3182062	false	fig-2	9	64	The white arrows point to Sca1 positive cells .
+PMC3182062	false	fig-2	9	65	( E ) CTRL and TKO livers were stained with C3 , C7 , and E10 antibodies .
+PMC3182062	false	fig-2	9	66	Immunofluorescence images were merged with DAPI images .
+PMC3182062	false	fig-2	9	67	White arrows indicate early lesions .
+PMC3182062	false	fig-2	9	68	Bars : ( A-D and E , top ) 5 microm ; ( E , bottom ) 50 microm .
+PMC3182062	false	sec-3	10	69	Evidence suggests that CK19 and EpCAM , which are markers of normal cholangiocytes , may also be expressed in certain populations of liver progenitor cells                                                                                                         .
+PMC3182062	false	sec-3	10	70	However , we did not detect expression of these markers by immunostaining in the small lesions growing in the liver of TKO mice .
+PMC3182062	false	sec-3	10	71	The A6 antigen is also a marker of both liver progenitor cells and bile duct cells                                                 , and we found an expansion of A6+ cells around the portal triad of cTKO mice 2-3 wk after Cre induction               .
+PMC3182062	false	sec-3	10	72	Several cells in the TKO lesions were also positive for Sox9 , a recently identified marker of liver progenitors                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  treatment was recently developed                       .
+PMC3182062	false	sec-3	10	73	Among the nine monoclonal antibodies that we tested , only MIC1-1C3 ( C3 ) , OC2-3C7 ( C7 ) , and OC2-6E10 ( E10 ) consistently stained TKO early lesions , albeit with variable frequency and intensity                            .
+PMC3182062	false	sec-3	10	74	The difference in signal intensity suggests that progenitor cells expanding in the DDC and TKO models are only partially overlapping , which is supported by the different histological structures developed in the two models                   .
+PMC3182062	false	sec-3	10	75	Thus , cells expanding in the liver of TKO mice express markers that are characteristic of subpopulations of adult liver stem and progenitor cells , providing additional support to a model in which loss of RB family function leads to the expansion of populations of liver progenitor cells .
+PMC3182062	false	sec-2	11	76	To control for reactive effects to the adenoviral infection in the liver , we used intraperitoneal injection of tamoxifen ( Tam ) in Rosa26CreER cTKO mice to delete Rb and p130 .
+PMC3182062	false	sec-2	11	77	In this model , the CreER fusion protein is broadly expressed and can be activated upon Tam injection to inactivate the RB family in multiple tissues and organs                                              .
+PMC3182062	false	sec-2	11	78	We found that induction of Cre activity by Tam in this system was often more efficient than with Ad-Cre , as judged by the analysis of a YFP reporter               ; we also found an expansion of cells with progenitor cell markers in Rosa26CreER TKO mice                             .
+PMC3182062	false	sec-2	11	79	In this Rosa26CreER cTKO system as with Ad-Cre cTKO mice , we did not observe any increase in liver size at preneoplastic stages ( not depicted ) .
+PMC3182062	false	sec-1	12	80	Rosa26CreER TKO and Ad-Cre TKO mice were used interchangeably to measure the expression of the Sca1 , C3 , C7 , and E10 surface markers by flow cytometry .
+PMC3182062	false	sec-1	12	81	These experiments confirmed that both Sca1+ cells and C3/C7/E10+ cells ( where the three antibodies were pooled in the FACS analysis ) increased in frequency in TKO livers shortly after Cre activation                  .
+PMC3182062	false	sec-1	12	82	Interestingly , only a minor fraction of cells were double positive for Sca1 and C3/C7/E10           , indicating that these antigens marked distinct populations of cells .
+PMC3182062	false	sec-1	12	83	Because the expansion of progenitor cells in TKO mice could be caused by a non cell autonomous , reactive activation of these cells , we measured p130 levels in Sca1+ and and or C3/C7/E10+ cells isolated from TKO mice compared with control mice .
+PMC3182062	false	sec-1	12	84	We found decreased levels of p130 , suggesting that the expanding progenitor cells were indeed mutant for the Rb family           .
+PMC3182062	false	sec-1	12	85	These data confirmed the observation made with the inducible GFP reporter that Cre had been activated in cells within early lesions           .
+PMC3182062	false	sec-1	12	86	We next sought to gain more insights into the biology of the TKO progenitor cells by examining some characteristics of stem and progenitor cells in these populations .
+PMC3182062	false	sec-1	12	87	Compared with C3/C7/E10+ cells , we found that Sca1+ cells were cycling more slowly                                , had higher expression levels of the stem cell marker Bmi1                                       , and expressed lower levels of the Ck19 and Albumin differentiation markers           .
+PMC3182062	false	fig-3	13	88	HCC development is associated with an expansion of the progenitor compartment in TKO mice .
+PMC3182062	false	fig-3	13	89	( A ) Representative FACS analysis ( n = 4 ) of nonparenchymal cells 2 wk after Cre mediated recombination in TKO mice compared with controls ( CTRL ) .
+PMC3182062	false	fig-3	13	90	The nonhematopoietic fraction ( CD45low ) was analyzed for Sca1 and C3/C7/E10 expression .
+PMC3182062	false	fig-3	13	91	( B ) Numbers of Sca1+ and C3/C7/E10+ cells in the nonparenchymal fractions of TKO livers ( n = 4 for each genotype ) .
+PMC3182062	false	fig-3	13	92	( C ) The expression of p130 was assessed by RT-qPCR in Sca1+ and C3/C7/E10+ subsets of control and TKO nonparenchymal cells ( n = 3 ) .
+PMC3182062	false	fig-3	13	93	( D ) Cell cycle activity in TKO C3/C7/E10+ cells compared with TKO Sca1+ cells was measured by propidium iodide staining of fixed cells isolated by FACS ( n = 4 ) .
+PMC3182062	false	fig-3	13	94	( E ) Expression of Bmi1 in Sca1+ and C3/C7/E10+ populations from control and TKO mice in early lesions , as assessed by RT-qPCR ( n = 3 ) .
+PMC3182062	false	fig-3	13	95	( F ) Expression of Albumin and CK19 in C3/C7/E10+ or Sca1+ TKO cells ( n = 3 ) .
+PMC3182062	false	fig-3	13	96	( G ) Colony forming activity of unfractioned nonparenchymal cells from either control or TKO mice .
+PMC3182062	false	fig-3	13	97	Colonies were either grown in the presence or absence of EGF and HGF .
+PMC3182062	false	fig-3	13	98	Plates were stained with crystal violet after 8 d before counting ( mean of four independent experiments ) .
+PMC3182062	false	fig-3	13	99	( H and I ) Colony forming activity of control and TKO Sca1+ and C3/C7/E10+ populations .
+PMC3182062	false	fig-3	13	100	Colony assay was performed in 24-well plates with sorted CTRL and TKO cells 2 wk after Cre mediated recombination .
+PMC3182062	false	fig-3	13	101	( H ) Representative pictures of colonies formed by C3/C7/E10+ ( top ) and Sca1+ ( bottom ) TKO cells .
+PMC3182062	false	fig-3	13	102	( I ) Quantification of H. Colonies were fixed and stained after 8 d before counting ( mean of three independent experiments ) .
+PMC3182062	false	fig-3	13	103	Error bars indicate SEM .
+PMC3182062	false	fig-3	13	104	* , P < 0.05 ; ** , P < 0.01 ; ns , not significant .
+PMC3182062	false	sec-1	14	105	One common characteristic of stem and progenitor cells is their ability to form colonies in defined culture conditions .
+PMC3182062	false	sec-1	14	106	When placed in culture , TKO nonparenchymal cells produced more colonies than nonparenchymal cells from control mice           .
+PMC3182062	false	sec-1	14	107	Under these conditions , although control cells absolutely required epidermal growth factor ( EGF ) and hepatocyte growth factor ( HGF ) to form colonies , cells from TKO livers formed colonies in the absence of these growth factors , although not to the extent of cells with EGF and HGF .
+PMC3182062	false	sec-1	14	108	Nonparenchymal TKO cells were able to form lesions resembling the lesions growing in the liver of TKO mice when transplanted into the liver of immunodeficient mice            , but they failed to form tumors when transplanted under the skin ( not depicted ) .
+PMC3182062	false	sec-1	14	109	This observation and the partial growth factor independence suggest that , at this early stage , TKO liver cells in the small lesions still require an appropriate microenvironment to expand .
+PMC3182062	false	sec-1	14	110	When we used flow cytometry to further identify the cells in the liver of TKO mice that had the ability to form colonies in culture , we found that Sca1/C3/C7 / E10- cells from TKO mice reproducibly failed to produce colonies under these conditions ( unpublished data ) .
+PMC3182062	false	sec-1	14	111	In contrast , both Sca1+ and and or C3/C7/E10+ TKO cells formed colonies , although Sca1+ cells formed fewer and smaller colonies                  , which could be related to their slower cell cycle           .
+PMC3182062	false	sec-1	14	112	Together , these data show that inactivation of the RB pathway in the liver of adult mice specifically leads to the expansion of populations of stem and progenitor cells , suggesting that these cells initiate HCC development .
+PMC3182062	true	sec-4	15	113	Up regulation of E2F and Myc activities in TKO HCC cells
+PMC3182062	false	sec-4	16	114	To understand the molecular changes that occur during the development of HCC in TKO mice , we first ran the SAM ( significance analysis of microarrays ) statistical method to compare the TKO dataset with a control liver dataset .
+PMC3182062	false	sec-4	16	115	The three most induced genes in TKO tumors , H19 , Tff3 , and Rrm2 , are molecular markers of human HCC                                                             .
+PMC3182062	false	sec-4	16	116	This analysis also showed increased expression of genes involved in the regulation of cell cycle , DNA synthesis , and DNA repair in the TKO dataset , including known E2F target genes                                                                   .
+PMC3182062	false	sec-4	16	117	DAVID ( Database for Annotation , Visualization , and Integrated Discovery ) analysis indicated that many of the genes up regulated in the TKO dataset have a known role in cell cycle progression , DNA repair , and chromosome maintenance           .
+PMC3182062	false	sec-4	16	118	Nonsupervised hierarchical clustering showed that TKO HCC tumors clustered closely with mouse liver tumors initiated by the overexpression of E2F1 and c-Myc                                                  .
+PMC3182062	false	sec-4	16	119	Accordingly , c-Myc levels were higher in TKO liver tumors than in control livers           , and a gene set enrichment analysis ( GSEA ) showed significant enrichment in the TKO dataset for genes in a Myc centered regulatory network independent of a core embryonic stem cell program                                                        q-value 0.045 ;                   .
+PMC3182062	false	sec-4	16	120	GSEA with the TKO dataset and a library of curated gene sets ( see Materials and methods and Table S3 ) also showed significant enrichments for c-Myc , E2F1 , and E2F3                                 .
+PMC3182062	false	sec-4	16	121	Together , the observations that E2F and Myc activities are elevated in TKO tumors , previous findings that ectopic expression of either E2F1 or c-Myc is sufficient to initiate HCC                                        , and the rapid appearance of multiple lesions in the liver of TKO mice suggest that loss of RB family function is sufficient to initiate HCC development in the liver of mice by promoting the proliferation of the mutant cells .
+PMC3182062	false	fig-4	17	122	Activation of cellular signaling pathways in TKO HCC cells .
+PMC3182062	false	fig-4	17	123	( A ) Nonsupervised hierarchical clustering of datasets from various mouse HCC models ( TKO , c-Myc overexpression , and E2F1 overexpression ) .
+PMC3182062	false	fig-4	17	124	Datasets from different platforms were first normalized before analysis ( see Materials and methods ) .
+PMC3182062	false	fig-4	17	125	A cluster of genes specifically up regulated in the TKO dataset was identified ( cluster M ; supplemental text ) .
+PMC3182062	false	fig-4	17	126	The color scale is drawn relative to each gene ( each row ) with blue representing the lowest expression and red the highest .
+PMC3182062	false	fig-4	17	127	( B ) RT-qPCR of c-Myc expression in five control livers ( CTRL ) and nine TKO HCC samples .
+PMC3182062	false	fig-4	17	128	( C ) GSEA shows a significant enrichment in the TKO dataset of a predefined gene list that is specific for a core Myc signature ( Myc module ) .
+PMC3182062	false	fig-4	17	129	( D ) GSEA analysis was performed by comparing the TKO dataset            with the entire list of curated gene sets available .
+PMC3182062	false	fig-4	17	130	The entire list of gene sets enriched in the TKO dataset is displayed in Table S3 .
+PMC3182062	false	fig-4	17	131	The gene sets ( pathways ) are ranked from the highest to the lowest score ( NES : most significant , left ) .
+PMC3182062	false	fig-4	17	132	Significant p-value is < 0.05 , and significant FDR is < 0.25 .
+PMC3182062	false	fig-4	17	133	( E ) The genes in cluster M were processed through DAVID analysis for GO annotations , and the top enrichment scores and p-values are shown .
+PMC3182062	false	fig-4	17	134	( F ) RT-qPCR analysis of Notch1 and the Notch pathway target Nrarp in TKO HCCs compared with c-Myc-induced HCCs and control liver samples ( n = 3 ) .
+PMC3182062	false	fig-4	17	135	Error bars indicate SEM .
+PMC3182062	false	fig-4	17	136	* , P < 0.05 ; ** , P < 0.01 .
+PMC3182062	true	sec-5	18	137	Transcriptional up regulation of the Notch signaling pathway in TKO HCC cells
+PMC3182062	false	sec-5	19	138	GSEA also identified enrichment for signaling pathways other than E2F and Myc in TKO HCCs compared with control livers           , including pathways such as the Wnt , p38 MAPK ( mitogen activated protein kinase ) , and Ras pathways , which are known to be involved in human HCC development                                                                                                          and could cooperate with E2F and c-Myc activities in the development of TKO tumors .
+PMC3182062	false	sec-5	19	139	Potential changes in the Notch signaling pathway were also detected by GSEA .
+PMC3182062	false	sec-5	19	140	Although Notch signaling has been shown to play a critical role in cell fate decisions during liver development , little is known regarding its possible role in liver cancer development                                                                                                  .
+PMC3182062	false	sec-5	19	141	Changes in the expression of genes in the Notch pathway in TKO HCCs were supported by the presence of Notch pathway members in a cluster of genes that are specifically up regulated in the TKO HCC model compared with other HCC mouse models ; this cluster includes Notch receptors ( Notch1-4 ) , as well as a downstream transcriptional target of the Notch pathway ( Nrarp ;                ; and supplemental text ;                    .
+PMC3182062	false	sec-5	19	142	RT-qPCR analysis confirmed that Notch1 and Nrarp were specifically up regulated in TKO tumors compared with c-Myc-induced HCC           , suggesting that this up regulation was specific to tumors with inactivation of the RB pathway .
+PMC3182062	false	sec-5	20	143	RT-qPCR analysis further showed that the expression of several components of the Notch pathway , including Notch1 , Notch3 , and Notch4 , as well as two other canonical Notch target genes , Hes1 and Hey1 , was significantly increased in TKO HCC cells compared with control liver cells           .
+PMC3182062	false	sec-5	20	144	This increase in the transcription of several genes in the Notch pathway in Rb family mutant cells raised the possibility that it was a direct consequence of the activation of E2F transcription factors .
+PMC3182062	false	sec-5	20	145	Indeed , reporter gene assays showed that promoters of the mouse Hes1 gene and the human NOTCH1 gene could be activated by E2F1 and E2F3 , two transactivating members of the E2F family           .
+PMC3182062	false	sec-5	20	146	Chromatin immunoprecipitation ( ChIP ) assays showed direct binding of E2F1 and E2F3 to the proximal promoter regions of Dtx3 , Dtx4 , Notch1 , Notch3 , Hes1 , and Hey1 in a cell line derived from a TKO HCC                            .
+PMC3182062	false	sec-5	20	147	E2F binding to the promoter region of Notch pathway genes was also observed in WT mouse adult livers ; in particular , we found increased binding of E2F4 , a repressor E2F , to several of the promoters tested in these quiescent liver cells           , correlating with the lower transcription of Notch pathway genes in normal liver           .
+PMC3182062	false	sec-5	20	148	To determine whether this finding was specific to mouse cells , we performed similar experiments with the human HCC cell lines Hep3B and SNU-449 and found binding of E2F1 , E2F3 , and E2F4 to the same Notch pathway gene promoters                            .
+PMC3182062	false	sec-5	20	149	Reintroduction of RB in mouse HCC cells led to the repression of the E2F target gene Ccna2 as well as the Notch pathway member Hey1 , although not all Notch pathway members responded to RB reintroduction under these specific conditions           .
+PMC3182062	false	sec-5	20	150	Together , these experiments indicate a direct control of the Notch signaling pathway in HCC cells by the RB and E2F axis , providing one explanation why loss of Rb family genes results in the enhanced transcription of Notch pathway genes in these tumor cells .
+PMC3182062	false	fig-5	21	151	Notch signaling is regulated in HCC cells by E2F transcription factors .
+PMC3182062	false	fig-5	21	152	( A ) RT-qPCR analysis was performed on five control livers ( CTRL ) and nine TKO HCC samples to detect the expression of members of the Notch pathway .
+PMC3182062	false	fig-5	21	153	( B ) Reporter gene assays to measure the transactivation of the murine Hes1 promoter ( left ; light gray ) and the human NOTCH1 promoter ( right ; gray ) by 0.2 and 1 microg E2F1 or 1 microg E2F3 .
+PMC3182062	false	fig-5	21	154	Data are representative of three independent experiments performed in Saos cells .
+PMC3182062	false	fig-5	21	155	( C-E ) ChIP analysis for E2F1 , E2F3 ( activating E2Fs ) , and E2F4 ( repressor E2F ) binding to the promoter of members of the Notch pathway in a cell line derived from a TKO HCC ( C ) , WT primary mouse liver cells ( D ) , and a human HCC cell line , Hep3B ( E ) .
+PMC3182062	false	fig-5	21	156	A p16 antibody was used as a negative control .
+PMC3182062	false	fig-5	21	157	Binding to the Cyclin A ( Ccna2 ) promoter , a well-known E2F target , was used as a positive control .
+PMC3182062	false	fig-5	21	158	Displayed images are representative of three independent experiments .
+PMC3182062	false	fig-5	21	159	( F ) Reintroduction of RB in mouse HCC cells .
+PMC3182062	false	fig-5	21	160	Two cell lines derived from TKO HCCs were transfected with a plasmid expressing GFP ( empty vector ) or a fusion protein composed of GFP and the large pocket domain of RB ( RB reintroduction ) .
+PMC3182062	false	fig-5	21	161	GFP positive cells were isolated by FACS 40 h after transfection , and the expression of Ccna2 , Hey1 , and Hes1 was assessed by RT-qPCR ( n = 3 ) .
+PMC3182062	false	fig-5	21	162	Error bars indicate SEM .
+PMC3182062	false	fig-5	21	163	* , P < 0.05 ; ** , P < 0.01 ; *** , P < 0.001 ; ns , not significant .
+PMC3182062	true	sec-6	22	164	Notch signaling inhibits the expansion of HCC cells
+PMC3182062	false	sec-6	23	165	Potentially as a result of this transcriptional activation by E2F , Notch signaling was activated in TKO HCC , as illustrated by the increased level of the cleaved active form of the Notch1 ( intracellular domain [ ICD ] of Notch [ NICD ] ) protein compared with control liver cells            and the induction of the Notch target Nrarp in TKO tumor cells           .
+PMC3182062	false	sec-6	23	166	Furthermore , immunostaining on tumor sections revealed that the Notch target HES1 and Notch1 itself ( but not Notch2 ) were expressed in the nucleus of TKO HCC cells in vivo , which is a sign of Notch pathway activation          .
+PMC3182062	false	fig-6	24	167	The Notch signaling pathway inhibits the expansion of HCC cells .
+PMC3182062	false	fig-6	24	168	( A ) Immunoblotting analysis of activated Notch1 ( Notch1ICD ) in three control livers ( CTRL ) and eight independent TKO tumors .
+PMC3182062	false	fig-6	24	169	GAPDH serves as a loading control .
+PMC3182062	false	fig-6	24	170	( B ) H&E staining of liver sections from TKO mice treated with DAPT ( n = 4 ) or vehicle control ( n = 4 ) .
+PMC3182062	false	fig-6	24	171	Bar , 50 microm .
+PMC3182062	false	fig-6	24	172	( C ) Quantification of tumor area compared with the total area in DAPT- and vehicle treated ( Veh ) TKO mice ( n = 4 ) .
+PMC3182062	false	fig-6	24	173	( D ) Quantification of tumor numbers by surface area ( n = 4 ) .
+PMC3182062	false	fig-6	24	174	( E ) Quantification of small and large tumors .
+PMC3182062	false	fig-6	24	175	The cutoff was arbitrarily set at 10,000 microm2 , which corresponds to the size of early TKO lesions ( n = 4 ) .
+PMC3182062	false	fig-6	24	176	( F ) Analysis of Nrarp mRNA levels in tumors upon DAPT treatment by RT-qPCR ( n = 4 ) .
+PMC3182062	false	fig-6	24	177	( G ) Four HCC cell lines ( two TKO cell lines , human cells SNU-449 and HepG2 ) were infected with MigR1-IRES-GFP retroviruses either empty ( CTRL ) or expressing NICD , and GFPhigh cells were isolated by FACS .
+PMC3182062	false	fig-6	24	178	( left ) GFP expression in control and NICD expressing cells .
+PMC3182062	false	fig-6	24	179	( right ) Sorted cells were analyzed for propidium iodide incorporation and growth in culture .
+PMC3182062	false	fig-6	24	180	The number of cells was quantified 90 h after plating 20,000 cells .
+PMC3182062	false	fig-6	24	181	Data are representative of two independent experiments .
+PMC3182062	false	fig-6	24	182	( H ) Five HCC cell lines ( TKO1 , TKO2 , C3a , HepG2 , and SNU-449 ) were infected with MigR1-IRES-GFP either empty ( CTRL ) or expressing NICD .
+PMC3182062	false	fig-6	24	183	GFPhigh cells were isolated by FACS and allowed to rest in culture for 72 h , after which survival was measured by Annexin V staining .
+PMC3182062	false	fig-6	24	184	Data are representative of two independent experiments .
+PMC3182062	false	fig-6	24	185	( I ) C3/C7/E10+ nonparenchymal cells were FACS sorted , and 5,000 cells were plated in culture .
+PMC3182062	false	fig-6	24	186	Cells were infected with MigR1-IRES-GFP either empty ( CTRL ) or expressing NICD and counted 7 d after infection ( n = 4 ) .
+PMC3182062	false	fig-6	24	187	( J ) The TKO dataset clusters with the subgroup B of human HCC after nonsupervised hierarchical clustering analysis of 3,497 mouse and human orthologues .
+PMC3182062	false	fig-6	24	188	( K ) Nonsupervised hierarchical clustering of a curated gene set representing the Notch pathway ( 17 genes , including ligands , receptors , and target genes ) .
+PMC3182062	false	fig-6	24	189	Expression of Notch pathway genes was retrieved from a dataset of 53 primary human HCCs with good ( group B ) and bad ( group A ) prognosis .
+PMC3182062	false	fig-6	24	190	( L ) A curated set of 17 genes in the Notch pathway ( same as in K ) predicts survival in HCC patients ( OS , overall survival in months over a 5-yr period ) .
+PMC3182062	false	fig-6	24	191	Error bars indicate SEM .
+PMC3182062	false	fig-6	24	192	* , P < 0.05 ; ** , P < 0.01 ; *** , P < 0.001 .
+PMC3182062	false	sec-6	25	193	To determine the functional role of the Notch pathway in TKO mice , we treated TKO mice 75 d after Ad-Cre injection , at a time when small tumors were present , with DAPT , a gamma-secretase inhibitor which blocks the Notch pathway by preventing the cleavage of the internal domain of the Notch receptor                         .
+PMC3182062	false	sec-6	25	194	12 d after the beginning of treatment , we found that the liver from mice treated with DAPT exhibited macroscopically visible tumors that were not present in vehicle treated mice ( not depicted ) .
+PMC3182062	false	sec-6	25	195	Sections from vehicle treated and DAPT treated mice showed a significant increase in tumor area and tumor numbers              .
+PMC3182062	false	sec-6	25	196	Nrarp expression was decreased in DAPT treated tumors compared with vehicle treated tumors , indicating that DAPT treatment did inhibit Notch signaling , as expected           .
+PMC3182062	false	sec-6	25	197	To directly test whether activation of Notch signaling was sufficient to block the proliferation of HCC cells in a cell intrinsic manner , we overexpressed the constitutively active ICD of Notch1 in liver tumor cell lines derived either from TKO mice ( TKO1 and TKO2 ) or from human HCC ( C3a , SNU-449 , and HepG2 ) .
+PMC3182062	false	sec-6	25	198	We found that expression of Notch1 ICD was sufficient to inhibit the proliferation of three out of the four cell lines tested ( TKO1 , TKO2 , and SNU-449 but not HepG2 ;          and not depicted ) and also induced an apoptotic response in four out of the five cell lines tested ( TKO1 , C3a , HepG2 , and SNU-449 but not TKO2 ;          .
+PMC3182062	false	sec-6	25	199	These findings indicate that activation of the Notch signaling pathway after activation of E2F in RB family mutant HCC cells serves as a negative feedback mechanism to slow the expansion of the tumor cells .
+PMC3182062	false	fig-5	26	200	Activation of Notch signaling is critical for biliary differentiation of liver progenitors                                                                                                          .
+PMC3182062	false	fig-5	26	201	This observation raised the question of the status of Notch signaling in the liver progenitor populations from which TKO HCCs may arise .
+PMC3182062	false	fig-5	26	202	RT-qPCR analysis from FACS sorted Sca1+ and C3/C7/E10+ liver progenitor cells and hepatocytes showed that Notch1 signaling was significantly higher in progenitor cell populations compared with mature liver cells            .
+PMC3182062	false	fig-5	26	203	Immunostaining for HES1 and nuclear Notch1 confirmed the activation of the Notch pathway in early TKO lesions          .
+PMC3182062	false	fig-5	26	204	However , although the Notch pathway is transcriptionally activated in TKO hepatocytes compared with their controls , loss of the three RB family proteins did not further induce the expression of Notch1 , Hes1 , Hey1 , or Nrarp in TKO progenitors            .
+PMC3182062	false	fig-5	26	205	These findings suggest that transcriptional control of Notch pathway genes by RB family members is cell type dependent and evolves during tumor progression , being more apparent in cells with low Notch pathway activity .
+PMC3182062	false	fig-5	26	206	We found no differences in TKO progenitor cell numbers or in their cell cycle activity upon treatment with DAPT in vivo               , possibly because high Notch activity in these cells renders them less sensitive to partial inhibition of the Notch pathway by DAPT .
+PMC3182062	false	fig-5	26	207	However , the colony forming activity of TKO liver progenitor cells in culture was significantly impaired when these cells were sorted from mice and infected with a Notch1 ICD retrovirus           , similar to what we had observed with HCC cells           .
+PMC3182062	false	fig-5	26	208	This observation suggests that hyperactivation of Notch signaling also inhibits the proliferation of liver progenitor cells .
+PMC3182062	false	sec-5	27	209	To address the relevance of the findings that activation of Notch signaling may serve as a mechanism to dampen the proliferation of HCC cells to HCC patients , we took advantage of a dataset in which gene expression profiles are linked to patient survival                   .
+PMC3182062	false	sec-5	27	210	In this study , clustering analysis had led to the identification of two major HCC molecular groups , with group B patients showing a better survival than group A patients .
+PMC3182062	false	sec-5	27	211	We found that the TKO dataset preferentially clustered with human tumors of the B subgroup           , similar to what had been previously observed for tumors expressing Myc and E2F1                   .
+PMC3182062	false	sec-5	27	212	Interestingly , the expression level of the human NOTCH1 and HES1 genes was significantly higher in group B versus group A ( P < 0.05 ) .
+PMC3182062	false	sec-5	27	213	However , removal of these Notch pathway genes from the analysis did not change the clustering of TKO tumors to group B ( unpublished data ) , indicating that other genes or pathways may be involved in the enhanced survival of patients in group B .
+PMC3182062	false	sec-5	27	214	The analysis of recent genome-wide ChIP experiments indicates that RB may directly bind to the promoters of other genes in the Notch pathway such as JAG1 and PSEN2 in senescent fibroblasts                                        .
+PMC3182062	false	sec-5	27	215	These observations and our data in HCC cells led us to test the role of a broader Notch pathway signature in HCC .
+PMC3182062	false	sec-5	27	216	We found that a curated list of 17 genes used as a signature of the Notch pathway independently predicted increased survival in HCC patients                                 .
+PMC3182062	false	sec-5	27	217	Therefore , activation of Notch signaling in HCC may act as a mechanism to limit the expansion of HCC cells in patients .
+PMC3182062	false	sec-7	28	218	In this study , we describe the consequences of genetically inactivating the Rb gene family in the liver of adult mice .
+PMC3182062	false	sec-7	28	219	We found that Rb family TKO mice develop HCC , providing a novel tractable mouse model for this deadly human cancer .
+PMC3182062	false	sec-7	28	220	Using this genetically defined model , we identified adult progenitor cells as initiating populations in HCC development upon inactivation of the RB pathway and we uncovered a potential tumor suppressor role for Notch signaling in human HCC .
+PMC3182062	false	sec-7	29	221	RB family members display extensive functional overlap in many cell types , including in liver cells                    .
+PMC3182062	false	sec-7	29	222	In fact , we found that the presence of one WT allele of p107 or p130 was sufficient to prevent HCC development for at least 6-8 mo after Cre activation , similar to our observation in the hematopoietic compartment , indicating that reintroduction of one Rb family allele significantly impairs tumor development                       .
+PMC3182062	false	sec-7	29	223	We can not exclude the possibility that these mice will eventually develop HCC at later time points ; indeed two of the cell lines that we have isolated thus far from TKO mice have retained a WT p130 allele ( unpublished data ) .
+PMC3182062	false	sec-7	29	224	Although it is difficult to directly compare the genetic deletion of Rb family genes in the mouse system to the protein inactivation by degradation or phosphorylation observed in human HCC , these results support the observation that most events targeting the RB pathway in HCC simultaneously inactivate the three RB family proteins ( see introduction ) .
+PMC3182062	false	sec-7	30	225	An important question in the liver cancer field is whether HCC initiates from hepatocytes and and or earlier progenitors in the adult liver , a question which is challenging to address in patients .
+PMC3182062	false	sec-7	30	226	Cre activation in cTKO mice results in the proliferation and rapid expansion of cells with characteristics of liver stem and progenitor cells , including their morphology , their localization close to the portal triad , and their expression of specific markers .
+PMC3182062	false	sec-7	30	227	At the same time point , we observed only limited DNA replication in mature hepatocytes and no evidence of clonal expansion .
+PMC3182062	false	sec-7	30	228	These observations , together with the fact that a fraction enriched for nonparenchymal progenitor cells can recapitulate tumor development upon transplantation , strongly suggest that TKO HCC tumors initiate from the stem and progenitor compartment in the liver of mice .
+PMC3182062	false	sec-7	30	229	The stem and progenitor cell hypothesis is supported by evidence that Cullin 3 , a regulator of Cyclin E ( an inhibitor of the RB family ) , prevents liver cancer development from liver progenitors                       .
+PMC3182062	false	sec-7	31	230	Although EpCAM and CK19 have been proposed to mark some liver progenitors                                             , immunostaining and FACS analysis ( unpublished data ) for these markers did not identify EpCAM+ or CK19+ cells in TKO early lesions .
+PMC3182062	false	sec-7	31	231	One interpretation of this observation is that TKO lesions initiate from progenitors that are distinct from EpCAM+ or CK19+ progenitors , which would underscore the heterogeneity of liver stem and progenitor cell populations .
+PMC3182062	false	sec-7	31	232	This idea is supported by the observation that progenitor cells expanding upon inactivation of the NF2 tumor suppressor display different characteristics than progenitor cells expanding in TKO mice                           .
+PMC3182062	false	sec-7	31	233	In addition , we found that some TKO liver progenitors are positive for markers that were originally developed in a model of DDC induced liver progenitor expansion .
+PMC3182062	false	sec-7	31	234	However , the paucity of C3+ , C7+ , or E10+ cells in TKO mice compared with DDC treatment ( compare          with Fig .
+PMC3182062	false	sec-7	31	235	S2 , L-N ) , as well as the lack of organized structure in TKO livers versus the formation of atypical bile ducts in the DDC model                    further suggest that the populations of progenitor cells involved in the expansion in the two models are not equivalent .
+PMC3182062	false	sec-7	31	236	Nevertheless , the observation that some cells in early TKO lesions express Sox9 indicates that there are some similarities between the two systems .
+PMC3182062	false	sec-7	31	237	Future experiments will continue to compare markers expressed by adult liver progenitor cells identified in different systems to better define distinct subpopulations of these cells .
+PMC3182062	false	sec-7	32	238	In the TKO model , we found that the colony forming potential was restricted to two distinct mutant stem and progenitor cell populations in TKO mice , C3/C7/E10+ cells and Sca1+ cells .
+PMC3182062	false	sec-7	32	239	The decreased expression of Bmi1 and the increased expression of lineage markers , as well as the increased cell cycle and colony forming activities observed in TKO C3/C7/E10+ cells suggest that these cells may represent a more mature population of progenitors when compared with Sca1+ cells .
+PMC3182062	false	sec-7	32	240	C3/C7/E10+ or Sca1+ cells were not able to recapitulate tumors upon transplantation , suggesting that either they do not represent the cell of origin or that transplantation protocols need to be improved to allow a small number of purified stem and progenitor cells to colonize recipient liver .
+PMC3182062	false	sec-7	33	241	Our data strongly suggest that TKO liver tumors arise from subpopulations of stem and progenitor cells .
+PMC3182062	false	sec-7	33	242	After exiting quiescence and an initial phase of expansion , these TKO cells undergo some differentiation , and these fairly differentiated proliferating cells represent the bulk of the HCC tumors .
+PMC3182062	false	sec-7	33	243	This model fits with increasing evidence suggesting that loss of RB function initiates cancer from specific populations of stem and progenitor cells                                                                                                   , providing a general model for tumor suppression by the RB pathway .
+PMC3182062	false	sec-7	33	244	However , we can not formally exclude at this point that an intermediate cell population ( i.e. , very late progenitor or early hepatocyte ) could also be the cell of origin in TKO HCC .
+PMC3182062	false	sec-7	33	245	The recent identification of Cre expressing mouse strains in liver progenitor populations                                           may provide novel means to perform lineage tracing experiments and to formerly identify the cell of origin of the TKO tumors , including its differentiation potential and the role of the RB pathway in its cell fate .
+PMC3182062	false	sec-7	34	246	Previous studies in neural progenitors have reported repression of Notch signaling by p107                                .
+PMC3182062	false	sec-7	34	247	In this study , we found that RB family members directly control the transcription of multiple components of the Notch pathway in human and mouse cells , identifying a strong link between these two central cellular pathways in liver cells .
+PMC3182062	false	sec-7	34	248	However , the lack of induction of Notch pathway genes in TKO liver progenitor cells suggests that this link is context dependent .
+PMC3182062	false	sec-7	34	249	More work is needed to understand the regulation of Notch pathway genes by E2F family members in different cell types .
+PMC3182062	false	sec-7	34	250	Functionally , our data showing that increased Notch activity leads to cell cycle arrest in G2 and and or cell death might be related to observations that inactivation of Rb family genes induces a G2 arrest in TKO fibroblasts                        .
+PMC3182062	false	sec-7	35	251	In vivo modulation of Notch pathway activity with DAPT , a gamma-secretase inhibitor and potent inhibitor of Notch signaling , resulted in accelerated cancer development in TKO mice .
+PMC3182062	false	sec-7	35	252	Interestingly , liver specific inactivation of Notch1 expression , although not sufficient to promote HCC , leads to the proliferation of hepatocytes in mice                          .
+PMC3182062	false	sec-7	35	253	In contrast , in vivo DAPT treatment failed to increase proliferation in TKO progenitor cells , either because these cells have already reached a very high level of cell cycle activity or because DAPT treatment is not sufficient to block Notch signaling in progenitor cells .
+PMC3182062	false	sec-7	35	254	In vitro , we found that activation of Notch signaling in mouse and human HCC cells was sufficient to block their expansion , as was reported in one human cell line before                  .
+PMC3182062	false	sec-7	35	255	We further show that HCC cells with enforced expression of NICD undergo cell cycle arrest in G2 and display increased apoptotic activity .
+PMC3182062	false	sec-7	35	256	The Notch pathway interacts with multiple molecular effectors , and there are probably multiple mechanisms involved in inhibiting tumor cell progression .
+PMC3182062	false	sec-7	35	257	In the future , thorough investigation of Notch effectors should bring more mechanistic insights into HCC development .
+PMC3182062	false	sec-7	36	258	Our findings suggest a model in which Notch signaling acts as a tumor suppressor feedback mechanism in response to activation of E2F transcription factors in TKO liver cells .
+PMC3182062	false	sec-7	36	259	Although this negative feedback is clearly not sufficient to prevent cancer initiation , activation of Notch may significantly slow the expansion of tumor cells in vivo , and we found that expression of a Notch pathway signature of 17 genes strongly predicts survival in HCC patients .
+PMC3182062	false	sec-7	36	260	Because signaling downstream of Notch1 may play a tumor-suppressor role in different cancer types                                                                      , our observations indicate that local activation of the Notch pathway may provide novel treatment approaches in a large group of human cancers of epithelial origin .
+PMC3182062	true	sec-10	37	261	Mice and tumor experiments .
+PMC3182062	false	sec-10	38	262	Rb family cTKO mice were described previously                        and were maintained in a mixed 129Sv and J ; C57 and BL6 background .
+PMC3182062	false	sec-10	38	263	For intrasplenic injections , mice were anesthetized and surgically opened on the upper left quadrant of the abdomen , followed by injection of adenovirus into the spleen .
+PMC3182062	false	sec-10	38	264	In Rosa26CreER TKO mice , Cre was induced by four consecutive injections of 1 mg Tam ( T-5648 ; Sigma-Aldrich ) in corn oil .
+PMC3182062	false	sec-10	38	265	Tam injected Rosa26CreER TKO mice were euthanized and analyzed before their health deteriorated ; although the exact cause of death in TKO mice is not known , it may be caused by metabolic and food absorption problems .
+PMC3182062	false	sec-10	38	266	Injections were performed in mice that were between 2 and 6 mo of age , most of the mice being 10-12 wk old .
+PMC3182062	false	sec-10	38	267	Rosa26LSL-YFP mice were obtained from the Jackson Laboratory ( Gt ( ROSA ) 26Sortm1 ( EYFP ) Cos and J ) .
+PMC3182062	false	sec-10	38	268	Subcutaneous serial transplantation of cells was performed in SCID mice , obtained from the Stanford mouse colony .
+PMC3182062	false	sec-10	38	269	Limiting dilution transplantation experiments were performed by injecting a 50:50 mix of cells and Matrigel ( Invitrogen ) into the flank of SCID and Il2r-/- mice ( The Jackson Laboratory ) .
+PMC3182062	false	sec-10	38	270	DAPT was solubilized in corn oil and injected at a concentration of 10 mg/kg/d in the peritoneal cavity .
+PMC3182062	false	sec-10	38	271	All the experiments with mice were approved by Stanford Institutional Animal Care and Use Committee .
+PMC3182062	false	sec-11	39	272	For paraffin sections , organs were fixed in 4 % paraformaldehyde overnight at room temperature and then transferred to 70 % ethanol before processing and embedding .
+PMC3182062	false	sec-11	39	273	For cryosections , organs were embedded and frozen in OCT using liquid nitrogen cooled isopentane .
+PMC3182062	false	sec-11	39	274	For pathological analysis , paraffin sections were stained with hematoxylin and eosin ( H&E ) .
+PMC3182062	false	sec-11	39	275	Tumor quantification was performed with the BIOQUANT Life Science software ( BIOQUANT Image Analysis Corp. ) .
+PMC3182062	false	sec-11	39	276	Antigen retrieval on paraffin sections was performed using the Trilogy solution ( Cell Marque ) for 15 min in a pressure cooker .
+PMC3182062	false	sec-11	39	277	Cryosections were thawed at room temperature for at least 20 min and fixed with 4 % formaldehyde for 15 min .
+PMC3182062	false	sec-11	39	278	Sections labeled with C3 , C7 , and E10 antibodies were fixed in 100 % acetone at -20 degreesC for 10 min .
+PMC3182062	false	sec-11	39	279	All sections were then in brief washed in PBS + 0.1 % Tween 20 ( PBST ) and then blocked for 1 h at room temperature in PBST with 10 % normal horse serum and 1 % bovine serum Albumin .
+PMC3182062	false	sec-11	39	280	Sections were incubated with primary antibodies in block solution overnight at room temperature , washed in PBST , and then incubated with secondary antibodies diluted 1:500 in block solution for 1 h at room temperature .
+PMC3182062	false	sec-11	39	281	Primary antibodies used were anti-Ki67 ( BD ) , anti-CK19 ( Dako ) , anti-Albumin ( Bethyl Laboratories , Inc. ) , anti-A6 ( a gift from V. Factor , National Cancer Institute , National Institutes of Health , Bethesda , MD ) , anti-Sca1 ( eBioscience ) , anti-EpCAM ( BD ) , anti-GS ( BD ) , and rat antibodies marking oval cells                       .
+PMC3182062	false	sec-11	39	282	Immunohistochemistry for Notch pathway components was performed as described previously                         using antibodies recognizing active Notch1 ( Abcam ) , Notch2 ( Development Studies Hybridoma Bank ) , and HES1 ( gift from T. Sudo , Toray Industries , Inc. , Kamakura , Japan ) .
+PMC3182062	false	sec-11	39	283	Protein expression was analyzed by immunoblotting , as described previously                  .
+PMC3182062	false	sec-11	39	284	Primary antibodies used were anti-GAPDH ( Santa Cruz Biotechnology , Inc. ) and anti-cleaved Notch1 ( Cell Signaling Technology ) .
+PMC3182062	true	sec-12	40	285	Cell preparation and culture .
+PMC3182062	false	sec-12	41	286	To obtain single cell suspensions , livers were first perfused with a mixture of 1 mg and ml Collagenase A and D and 1 mg and ml DNaseI ( Roche ) , mechanically minced in small pieces , and allowed to incubate for 1 h with the Collagenase and DNaseI mixture .
+PMC3182062	false	sec-12	41	287	Cells were then dispersed by manual pipetting and filtered , and red blood cells were lysed with the ACK buffer ( NH4Cl and KHCO3 ) .
+PMC3182062	false	sec-12	41	288	Liver cells were cultured as described previously                        in 6- or 24-well plates coated with Collagen IV ( BD ) .
+PMC3182062	false	sec-12	41	289	EGF was added at 20 microg and ml and HGF at 5 microg and ml .
+PMC3182062	false	sec-12	41	290	Colonies were stained with 1 % crystal violet 8 d after plating .
+PMC3182062	false	sec-12	41	291	To obtain nonparenchymal cells , single cell suspensions were centrifuged at low speed ( 400 rpm ) ; the pellet , enriched for mature hepatocytes ( parenchymal fraction ) , was discarded .
+PMC3182062	false	sec-12	41	292	The supernatant was then collected and processed for centrifugation at normal speed ( 1,200 rpm ) to pellet nonparenchymal cells .
+PMC3182062	false	sec-12	41	293	Tumor cell lines were derived from subcutaneously transplanted primary tumors from TKO mice and grown in RPMI supplemented with bovine growth serum ; one cell line was confirmed to be TKO by RT-PCR , whereas one WT p130 allele was retained in the second line .
+PMC3182062	false	sec-12	41	294	HepG2 , SNU-449 , and Hep3B human cell lines were grown in RPMI supplemented with bovine growth serum .
+PMC3182062	false	sec-12	41	295	Retroviral infection of liver cells was performed by transfecting 293T cells with MigR1-IRES-GFP or MigR1-ICN-IRES-GFP ( a gift of W.S. Pear , University of Pennsylvania , Philadelphia , PA ) , together with packaging plasmids                              .
+PMC3182062	false	sec-12	41	296	Infected HCC cells were sorted on a FACSVantage cell sorter ( BD ) for GFP expression 1 wk after infection .
+PMC3182062	false	sec-12	41	297	Reporter assays were performed by transfecting 1 microg of reporter plasmid ( mHes1-Luc [ a gift from R.S. Slack , University of Ottawa , Ottawa , Ontario , Canada ] and hNotch1-Luc [ a gift from T. Kiyono , National Cancer Center Research Institute , Tokyo , Japan ] ;                      in SNU-449 cells , together with 0.2 or 1 microg of expression vectors for E2F1 and E2F3 in 12-wells plates .
+PMC3182062	false	sec-12	41	298	Transfection efficiency was normalized by cotransfection of the Renilla vector , and luminescence was detected with the Dual Reporter Assay System kit ( Promega ) .
+PMC3182062	false	sec-12	41	299	Each experiment was performed in triplicate , and three independent experiments were conducted .
+PMC3182062	false	sec-12	41	300	The RB reintroduction experiment was performed using a plasmid expressing a fusion protein between GFP and a large pocket fragment of RB with mutations in seven CDK phosphorylation sites ( GFP-RB7LP [ a gift of E.S. Knudsen , Thomas Jefferson University , Philadelphia , PA ] ;                   .
+PMC3182062	true	sec-13	42	301	ChIP analysis .
+PMC3182062	false	sec-13	43	302	ChIP was performed as described previously                       with cultured hepatic TKO tumor cells .
+PMC3182062	false	sec-13	43	303	Antibodies used for immunoprecipitations were as follows : E2F1 ( sc-193X ) , E2F3 ( sc-878X ) , E2F4 ( sc-1082X ) , and p16 ( sc-467 ) .
+PMC3182062	false	sec-13	43	304	Cyclin A , Notch1 , Notch3 , Notch4 , Dtx3 , Dtx4 , and Jag2 promoter binding was assessed by quantitative PCR using SYBR green ER Master mix ( Invitrogen ) .
+PMC3182062	false	sec-14	44	305	RNA was extracted either from frozen tumors or from cells sorted directly in TRIZOL .
+PMC3182062	false	sec-14	44	306	RNAs were processed , and qPCR reactions were prepared as described previously                       .
+PMC3182062	false	sec-14	44	307	Microarray data were normalized with Expression Console software ( Affymetrix ) , using robust means analysis algorithms .
+PMC3182062	false	sec-14	44	308	Low signals ( < 50 ) were filtered out using the PreprocessDataset module in GenePattern ( http://www.broadinstitute.org/cancer/software/genepattern/ ) .
+PMC3182062	false	sec-14	44	309	Differentially expressed genes in TKO mice were identified using SAM software                       with the cutoff FDR of 5 % .
+PMC3182062	false	sec-14	44	310	Array files are available on the GEO DataSets database under accession no .
+PMC3182062	false	sec-14	44	311	GSE19004 .
+PMC3182062	false	sec-14	45	312	To compare TKO array ( Affymetrix oligo ) with mouse arrays from                  , TKO data were collapsed to gene symbols and then converted to the format equivalent to two-color array by taking the log2 of expression ratio ( TKO signal vs. mean of control signal ) .
+PMC3182062	false	sec-14	45	313	Log ratio data of genes present in both platforms were used in subsequent analysis .
+PMC3182062	false	sec-14	45	314	To further compare TKO arrays with human HCC microarrays                                         , we selected orthologous genes that were present in both arrays by using the mammalian orthology from the Mouse Genome Informatics database .
+PMC3182062	false	sec-14	45	315	In each tissue set , gene expression ratios were median centered for each gene .
+PMC3182062	false	sec-14	45	316	Hierarchical clustering                      was used to compare median centered array data , using Pearson correlation in sample distance measure .
+PMC3182062	false	sec-14	45	317	DAVID analysis was performed as described previously                     .
+PMC3182062	false	sec-14	45	318	GSEA                            was performed using GSEA version 2.0 software .
+PMC3182062	false	sec-14	45	319	Curated gene sets for GSEA analysis were obtained from http://www.broadinstitute.org/gsea/msigdb/collections.jsp#C2 .
+PMC3182062	false	sec-14	45	320	Enrichment is considered significant when the p-value is < 0.05 and the FDR is < 0.25 .
+PMC3182062	false	sec-14	46	321	For the survival analysis , RNA from 53 human HCCs was obtained from Caucasian and Chinese patients , representing survival group A and B HCC patients .
+PMC3182062	false	sec-14	46	322	The HCC samples were hybridized to Illumina bead chips HumanRef8v2 and analyzed according to the manufacturer 's recommendation .
+PMC3182062	false	sec-14	46	323	All human tissue samples were obtained with approval by the Institutional Review Board of the National Institutes of Health and collaborating institutions on the condition that all samples were anonymized .
+PMC3182062	false	sec-14	46	324	The ability of the Notch family genes to predict overall survival of HCC patients were analyzed by retrieving the 17 genes in the Notch signature from the HCC dataset .
+PMC3182062	false	sec-14	46	325	Hierarchical cluster analysis identified two clinically relevant distinct subgroups of human HCCs based on the 17 gene expression profile .
+PMC3182062	false	sec-14	46	326	Kaplan-Meier plots and Mantel-Cox statistical analysis were applied in the survival analysis ( Prism 5.01 ; GraphPad Software ) .
+PMC3182062	false	sec-15	47	327	Single cell suspensions were stained with Annexin V ( Roche ) or antibodies against Ter119 , CD45 , and Sca1 ( eBioscience ) , as well as unconjugated antibodies recognizing oval cells                       .
+PMC3182062	false	sec-15	47	328	Anti-rat PE ( eBioscience ) was used as a secondary antibody .
+PMC3182062	false	sec-15	47	329	All analysis and sorting were performed as described previously                       .
+PMC3182062	false	sec-17	48	330	Fig .
+PMC3182062	false	sec-17	48	331	S1 is related to        and further characterizes the tumors that develop in the liver of TKO mice after the inactivation of the Rb gene family .
+PMC3182062	false	sec-17	48	332	Fig .
+PMC3182062	false	sec-17	48	333	S2 is related to        and further defines the lesions that appear around the portal triad shortly after the inactivation of the Rb gene family .
+PMC3182062	false	sec-17	48	334	Fig .
+PMC3182062	false	sec-17	48	335	S3 is related to        and focuses on the proliferation and transplantation potential of liver progenitor cells in TKO mice .
+PMC3182062	false	sec-17	48	336	Fig .
+PMC3182062	false	sec-17	48	337	S4 is related to         and   and describes the expression of Notch pathway members in TKO and WT liver cells .
+PMC3182062	false	sec-17	48	338	Fig .
+PMC3182062	false	sec-17	48	339	S5 is related to        and shows the expression of Notch pathway members in early lesion and established tumors , the consequence of Notch signaling inhibition in early lesions , and clinical features of HCC patients based on Notch pathway expression .
+PMC3182062	false	sec-17	48	340	Table S1 displays a list of genes of interest that are dysregulated in TKO tumors versus control livers .
+PMC3182062	false	sec-17	48	341	Table S2 , included as a separate Excel file , shows the entire list of genes that are dysregulated in TKO tumors versus control livers .
+PMC3182062	false	sec-17	48	342	Table S3 , included as a separate Excel file , indicates the gene sets that are enriched in the TKO dataset .
+PMC3182062	false	sec-17	48	343	The supplemental text lists the genes included in the gene sets mentioned in          and shows the genes that are included in group M in         .
+PMC3182062	false	sec-17	48	344	Online supplemental material is available at http://www.jem.org/cgi/content/full/jem.20110198/DC1 .
+PMC3182062	false	sec-16	49	345	We thank Drs. S.E. Artandi , D.W. Felsher , T.A. Rando , D.I. Bellovin , and M. Cleary for critical reading and helpful discussions , Drs. V. Factor , T. Kiyono , W.S. Pear , R.S. Slack , and E.S. Knudsen for the generous gift of the A6 antibody , the hNotch1-Luc , the MigR1-ICN-GFP , the mHes1-Luc , and the RB-GFP constructs , respectively , and Dr. T. Sudo for the kind gift of the HES1 antibody .
+PMC3182062	false	sec-16	49	346	The Notch2 antibody was developed by Dr. S. Artavanis-Tsakonas .
+PMC3182062	false	sec-15	50	347	This work was supported by the Lucile Packard Foundation for Children 's Health , the Damon Runyon Cancer Research Foundation , and National Institutes of Health-National Cancer Institute grant RO1 CA114102 ( to J. Sage ) , as well as fellowships from Human Frontier Science Program , European Molecular Biology Organization , the Fonds de la Recherche Scientifique , and the Leon Fredericq Foundation ( to P. Viatour ) and a Dr. Mildred Scheel fellowship from the Deutsche Krebshilfe ( to U. Ehmer ) .
+PMC3182062	false	sec-13	51	348	Abbreviations used : CDK Cyclin dependent kinase ChIP chromatin immunoprecipitation cTKO conditional TKO DDC 3,5-diethoxycarbonyl-1 ,4 - dihydrocollidine EGF epidermal growth factor FDR false discovery rate GS glutamine synthase GSEA gene set enrichment analysis HCC hepatocellular carcinoma HGF hepatocyte growth factor ICD intracellular domain mRNA messenger RNA RB retinoblastoma RT-qPCR quantitative RT-PCR Tam tamoxifen TKO triple KO
+PMC3182062	false	sec-11	52	349	Cyclin dependent kinase
+PMC3182062	false	sec-8	53	350	3,5-diethoxycarbonyl-1 ,4 - dihydrocollidine
+PMC3182062	false	sec-7	54	351	epidermal growth factor
+PMC3182062	false	fig-4	55	352	glutamine synthase
+PMC3182062	false	sec-1	56	353	hepatocellular carcinoma

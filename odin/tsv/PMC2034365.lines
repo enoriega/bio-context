@@ -1,0 +1,124 @@
+Paper ID	Is title?	Section ID	Passage ID	Line Num	Text
+PMC2034365	true	article-title	0	0	The integrin effector PINCH regulates JNK activity and epithelial migration in concert with Ras suppressor 1
+PMC2034365	false	abstract	1	1	Cell adhesion and migration are dynamic processes requiring the coordinated action of multiple signaling pathways , but the mechanisms underlying signal integration have remained elusive .
+PMC2034365	false	abstract	1	2	Drosophila embryonic dorsal closure ( DC ) requires both integrin function and c-Jun amino-terminal kinase ( JNK ) signaling for opposed epithelial sheets to migrate , meet , and suture .
+PMC2034365	false	abstract	1	3	Here , we show that PINCH , a protein required for integrin dependent cell adhesion and actin-membrane anchorage , is present at the leading edge of these migrating epithelia and is required for DC .
+PMC2034365	false	abstract	1	4	By analysis of native protein complexes , we identify RSU-1 , a regulator of Ras signaling in mammalian cells , as a novel PINCH binding partner that contributes to PINCH stability .
+PMC2034365	false	abstract	1	5	Mutation of the gene encoding RSU-1 results in wing blistering in Drosophila , demonstrating its role in integrin dependent cell adhesion .
+PMC2034365	false	abstract	1	6	Genetic interaction analyses reveal that both PINCH and RSU-1 antagonize JNK signaling during DC .
+PMC2034365	false	abstract	1	7	Our results suggest that PINCH and RSU-1 contribute to the integration of JNK and integrin functions during Drosophila development .
+PMC2034365	false	sec-1	2	8	Adhesion and migration of epithelial sheets are critical for wound healing , organ integrity , and morphogenetic movements during development .
+PMC2034365	false	sec-1	2	9	Cellular circuits that orchestrate these processes require coordination of integrin function with multiple signaling pathways .
+PMC2034365	false	sec-1	2	10	Integrins are transmembrane heterodimeric receptors for ECM that convey information bi-directionally between the extracellular environment and intracellular signaling machinery                        .
+PMC2034365	false	sec-1	2	11	Engagement of integrins leads to the concentration of tyrosine kinases and their substrates at focal adhesions , a type of adherens junction that acts as a signaling nexus , a tethering site for actin filaments , and a region for generation of traction force during cell migration .
+PMC2034365	false	sec-1	3	12	During Drosophila embryogenesis , lateral epidermal sheets migrate to close a hole in the dorsal epidermis in the process of dorsal closure ( DC ) .
+PMC2034365	false	sec-1	3	13	DC is executed through cytoskeletal rearrangements and cell shape changes with no accompanying cell division               .
+PMC2034365	false	sec-1	3	14	Because many proteins involved in DC also function in epithelial migration in other organisms , DC has emerged as an ideal model system to dissect the mechanisms driving migration and fusion of epithelial sheets .
+PMC2034365	false	sec-1	3	15	During DC , structures related to focal adhesions are assembled at the leading edge ( LE ) of advancing lateral epithelial cells and integrins are concentrated at these sites                                  .
+PMC2034365	false	sec-1	3	16	Moreover , genetic analysis has revealed that integrins are essential for normal DC                                  .
+PMC2034365	false	sec-1	3	17	Based on the established roles of integrins in mammalian systems , these adhesion receptors could influence DC by supporting cell-substratum interactions , modulating signaling pathways , or both .
+PMC2034365	false	sec-1	3	18	One signaling cascade that is essential for successful execution of DC results in activation of c-Jun amino-terminal kinase ( JNK ) .
+PMC2034365	false	sec-1	3	19	Fine tuning of JNK output is critical , as both attenuation and hyper-activation of JNK signaling result in a failure of DC .
+PMC2034365	false	sec-1	3	20	The formation of focal adhesion complexes at the apical borders of the LE cells during DC depends on proper modulation of the JNK cascade                                  , highlighting the potential importance of crosstalk between integrin and JNK signaling .
+PMC2034365	false	sec-1	4	21	Several cytoplasmic proteins that colocalize with integrins are known to be essential mediators of integrin function in mammalian systems                         .
+PMC2034365	false	sec-1	4	22	One of these , the LIM protein PINCH , interacts with the integrin linked kinase ( ILK ) and is critical for adhesion and spreading of mammalian cells                                      .
+PMC2034365	false	sec-1	4	23	To elucidate the in vivo role and mechanism of action of PINCH , we undertook a genetic analysis of PINCH function .
+PMC2034365	false	sec-1	4	24	Drosophila PINCH is encoded by the steamer duck ( stck ) locus .
+PMC2034365	false	sec-1	4	25	Mosaic analysis has revealed a critical role for PINCH in integrin dependent epithelial cell adhesion in the adult wing                     .
+PMC2034365	false	sec-1	4	26	Homozygous zygotic stck mutants die late in embryogenesis , exhibiting deficits in both muscle cell adhesion and actin-membrane anchorage                     .
+PMC2034365	false	sec-1	4	27	Involvement of PINCH in both integrin mediated adhesion and actin-membrane linkages makes it an attractive candidate for coordination of integrin and JNK functions during DC .
+PMC2034365	false	sec-2	5	28	To determine if PINCH could contribute to DC , we examined its localization in stage 14 embryos .
+PMC2034365	false	sec-2	5	29	PINCH and beta-PS integrin are colocalized in both the LE and the amnioserosa           , consistent with PINCH 's established role as an integrin effector .
+PMC2034365	false	sec-2	5	30	The amnioserosa is an extraembryonic tissue present on the dorsal surface of the embryo .
+PMC2034365	false	sec-2	5	31	As it has been established that coordinated signaling between the amnioserosa and migrating epithelium is key to formation of LE focal complexes                    , PINCH could exert an effect in the LE epithelium , the amnioserosa , or both tissues .
+PMC2034365	false	sec-2	5	32	stck homozygous mutant embryos rescued with a PINCH : GFP transgene under the control of the endogenous PINCH promoter display PINCH-GFP at the LE of the advancing epithelial sheets .
+PMC2034365	false	sec-2	5	33	Within the LE , PINCH is precisely localized to areas of active phosphotyrosine signaling at triangular nodes corresponding to apical adherens junctions                  .
+PMC2034365	false	fig-1	6	34	PINCH functions in DC and colocalizes with beta-PS integrin and phosphotyrosine .
+PMC2034365	false	fig-1	6	35	( A ) Confocal image of w1118 embryo shows PINCH ( green ) , beta-integrin ( magenta ) , and their merge ( white ) highlighting the LE ( arrow ) and amnioserosa ( asterisk ) .
+PMC2034365	false	fig-1	6	36	Inset shows a single z-slice and confirms colocalization .
+PMC2034365	false	fig-1	6	37	( B ) Confocal image of P [ w+ GFP-PINCH ] stck18 and l ( 3 ) 097 embryo shows PINCH : GFP ( green ) , phosphotyrosine ( magenta ) , and their merge ( white ) .
+PMC2034365	false	fig-1	6	38	Inset : magnification of the LE illustrating concentration of PINCH at apical junctions .
+PMC2034365	false	fig-1	6	39	( C ) Cuticles of embryos carrying stck17 loss-of-function allele both maternally and zygotically display puckers ( left , arrow ) and dorsal holes ( right , arrows ) .
+PMC2034365	false	fig-1	6	40	Analogous stck18 embryos have the same array of phenotypes .
+PMC2034365	false	fig-1	6	41	Control FLP-FRT embryos with wild-type PINCH are fully viable .
+PMC2034365	false	fig-1	6	42	Bars : 20 mum ( A ) , 100 mum ( B and C ) .
+PMC2034365	false	sec-2	7	43	Zygotic stck mutants proceed normally through DC with complete lethality arising at the embryo-to-larval transition .
+PMC2034365	false	sec-2	7	44	When maternal PINCH contribution is eliminated , only 12 % of cuticles have wild-type morphology .
+PMC2034365	false	sec-2	7	45	Dorsal puckers and dorsal holes            characteristic of aberrant DC are observed at a 36 and 23 % frequency , respectively ( n = 180 ) , indicating that maternally inherited PINCH is a key contributor to the process of DC .
+PMC2034365	false	sec-2	7	46	Moreover , in the absence of maternal PINCH , we also observe epithelial defects in ventral patterning and head involution                                                                              , indicating that PINCH may have additional functions in the developing embryo .
+PMC2034365	false	sec-2	7	47	Cuticles from embryos lacking both maternal and zygotic PINCH have the same array of phenotypes .
+PMC2034365	false	sec-1	8	48	PINCH is composed of five LIM domains , each of which could serve as a protein binding interface .
+PMC2034365	false	sec-1	8	49	The SH2-SH3 adaptor protein , Nck2 , has been reported to interact with mammalian PINCH                  .
+PMC2034365	false	sec-1	8	50	This association is intriguing because the Drosophila homologue of Nck2 , Dreadlocks , interacts directly with Misshapen ( Msn ) , a MAP4K in the JNK signaling cascade                    .
+PMC2034365	false	sec-1	8	51	As with other components of the JNK pathway , null mutations in msn result in embryonic lethality due to failure of DC .
+PMC2034365	false	sec-1	8	52	Although we were unable to detect direct binding of PINCH to Dreadlocks in Drosophila , we uncovered a link between PINCH 's role in DC and the JNK cascade by testing for genetic interaction between stck and msn .
+PMC2034365	false	sec-1	8	53	Reduction of PINCH protein levels by introduction of a single copy of the loss-of-function allele , stck18 , into the msn102 homozygous null background allows partial restoration of DC ( P = 0.003 ;        A ) , suggesting that PINCH functions as a negative regulator of JNK signaling .
+PMC2034365	false	fig-2	9	54	PINCH regulates JNK signaling .
+PMC2034365	false	fig-2	9	55	( A ) Representative dorsal open msn102 ( dorsal view ) and dorsal rescued msn102stck18 and msn102 ( lateral view ) embryos .
+PMC2034365	false	fig-2	9	56	Arrows mark the LE or dorsal suture .
+PMC2034365	false	fig-2	9	57	Graph shows percentage of dorsal open embryos observed in the sample size reported above each bar .
+PMC2034365	false	fig-2	9	58	( B ) Inverted confocal images of stage 14 ( top ) and stage 15 ( bottom ) pucE69 /+ embryos showing Puc : LacZ expression ( black ) .
+PMC2034365	false	fig-2	9	59	Genetic backgrounds are wild type ( left ) or maternally stck deficient ( right ) .
+PMC2034365	false	fig-2	9	60	( C ) Confocal image of a pucE69 third instar larval wing disc showing Puc : LacZ ( green ) , PINCH ( magenta ) , and their merge ( white ) .
+PMC2034365	false	fig-2	9	61	Arrow indicates the proximal stalk region .
+PMC2034365	false	fig-2	9	62	( D ) Comparison of msn3349 and rescued msn3349stck18 and msn3349 adult flies showing defective versus normal thorax .
+PMC2034365	false	fig-2	9	63	Graph reflects percent eclosure of the indicated genotype calculated from the sample size shown above each bar .
+PMC2034365	false	fig-2	9	64	Bars , 100 muM .
+PMC2034365	false	sec-1	10	65	Puckered ( Puc ) is a JNK phosphatase whose expression is up regulated in response to JNK activation , setting up a negative feedback loop                             .
+PMC2034365	false	sec-1	10	66	During DC , JNK regulated expression of a Puc-LacZ fusion reporter is restricted to the LE cells           .
+PMC2034365	false	sec-1	10	67	In embryos lacking maternal PINCH , expression of the Puc-LacZ fusion protein is disorganized and present in an expanded number of cells , including those beyond the LE border           .
+PMC2034365	false	sec-1	10	68	This phenotype is similar to Puc-LacZ expression observed in puc loss-of-function mutants and further supports a role for PINCH in the negative regulation of the JNK cascade .
+PMC2034365	false	fig-3	11	69	PINCH and RSU-1 physically interact and colocalize .
+PMC2034365	false	fig-3	11	70	( A ) Quantitative anti-PINCH Western analysis of PINCH levels in wild-type flies ( lane 1 ) versus TAP-PINCH-rescued flies ( lane 2 ) .
+PMC2034365	false	fig-3	11	71	( B ) Silver stained gel of purified proteins from S2R+ stably transfected with empty vector ( lane 1 ) or pMT and TAP-PINCH ( lane 2 ) .
+PMC2034365	false	fig-3	11	72	( C ) Western blots of Ni-NTA purified His tagged complexes from S2 cells .
+PMC2034365	false	fig-3	11	73	RSU-1 interacts with full-length PINCH , but not LIM1-3 .
+PMC2034365	false	fig-3	11	74	( D ) Yeast two-hybrid reporter activity : growth on medium lacking histidine and adenine ( + / - ) and beta-galactosidase activity relative to empty vector bait and RSU -1 prey .
+PMC2034365	false	fig-3	11	75	( E ) Confocal images of P [ w+ GFP-PINCH ] stck18 and l ( 3 ) 097 stage 16 embryo shows that PINCH : GFP ( green ) and RSU-1 ( magenta ) colocalize ( white ) at muscle attachment sites ( arrows ) and in the pharynx ( arrowhead ) and gut ( asterisk ) .
+PMC2034365	false	fig-3	11	76	Bar , 100 mum .
+PMC2034365	false	fig-4	12	77	ics encodes RSU-1 .
+PMC2034365	false	fig-4	12	78	( A ) The gene encoding RSU-1 , located on chromosome 2 at cytological position 34C6 , comprises three exons ( coding regions shaded ) .
+PMC2034365	false	fig-4	12	79	Location of the peptide antigens used for antibody production ( bars ) and P-element insertion allele ( triangle ; Drosophila Gene Disruption Project , http://www.fruitfly.org/p_disrupt/index.html ) are indicated .
+PMC2034365	false	fig-4	12	80	( B ) Western blots of third instar larval extracts using antibodies directed against the amino or carboxy termini of RSU-1 .
+PMC2034365	false	fig-4	12	81	( C ) PINCH and RSU-1 are expressed in wing discs .
+PMC2034365	false	fig-4	12	82	( D ) ics homozygotes display wing blisters .
+PMC2034365	false	fig-5	13	83	RSU-1 modulates JNK signaling and forms a stabilized complex with PINCH .
+PMC2034365	false	fig-5	13	84	( A ) Comparison of DC defects in msn102 versus ics ; msn102 embryos as in        A. ( B ) Comparison of percent eclosure in msn3349 and ics ; msn3349 flies as in        D. ( C ) Comparison of DC defects in bsk1 versus bsk1 ; ics embryos .
+PMC2034365	false	fig-5	13	85	( D ) Quantification from Western blots ( n = 6 ) of phospho-JNK levels in third instar larval wing discs .
+PMC2034365	false	fig-5	13	86	Total JNK levels were unchanged ( not depicted ) .
+PMC2034365	false	fig-5	13	87	( E ) Quantitative anti-PINCH and anti-RSU-1 Western blots of w1118 ( lane 1 ) , stck germ line clone ( lane 2 ) , and ics ( lane 3 ) stage 13 whole embryo lysates .
+PMC2034365	false	fig-5	13	88	Coomassie staining confirms equal loading .
+PMC2034365	false	fig-5	13	89	( F ) Proposed model for PINCH action in JNK and integrin signaling .
+PMC2034365	false	sec-4	14	90	PINCH : GFP and PINCH : TAP transgenics used standard methods .
+PMC2034365	false	sec-4	14	91	For msn102 dorsal open rescue , msn102 and TM3 , Sb flies were crossed to same and to msn102 stck18 and TM3 , Sb , or ics ; msn102 and TM3 , Sb flies were crossed to same .
+PMC2034365	false	sec-4	14	92	For of the bsk1 dorsal open rescue , bsk1 and CyO or bsk1 ; ics and CyO flies were crossed to same .
+PMC2034365	false	sec-4	14	93	For rescue of msn3349 , msn3349 and TM3 , Sb flies were crossed to same and to msn3349 stck18 and TM3 , Sb , or ics ; msn3349 and TM3 , Sb flies were crossed to same .
+PMC2034365	false	sec-4	14	94	Embryos lacking maternal PINCH were generated using the FLP-FRT system                          .
+PMC2034365	false	sec-5	15	95	Rabbit polyclonal antisera were generated ( Harlan Bioproducts ) using antigens of the first and last 15 amino acids of Drosophila RSU-1 .
+PMC2034365	false	sec-5	15	96	Antibodies used were rabbit anti-ACTIVE-JNK ( Promega ) , anti-JNK                    , and anti-PINCH ; mouse anti-ILK ( BD Scientific ) , anti-phosphotyrosine 4G10 ( Upstate Biotechnology ) , anti-penta His ( QIAGEN ) , anti-beta-PS integrin ( CF6G11 ) , and anti-LacZ ( 40-1a ) ( DSHB , University of Iowa , Iowa City , IA ) .
+PMC2034365	false	sec-5	15	97	Drosophila embryos and third instar larval wing discs were prepared as described previously                     .
+PMC2034365	false	sec-5	15	98	Confocal images were acquired at RT on an confocal microscope ( model FV300 ; Olympus ) , using 20x 0.7 NA dry and 60x 1.4 NA oil immersion objectives , and were assembled using ImageJ and Adobe Photoshop 7.0 .
+PMC2034365	false	sec-5	15	99	Third instar larval wing discs ( n = 10-25 ) were homogenized and quantitatively immunoblotted for JNK and activated JNK as described previously                    .
+PMC2034365	false	sec-6	16	100	Plasmids for expression of tagged PINCH or RSU-1 were constructed by standard molecular biology techniques .
+PMC2034365	false	sec-6	16	101	for details ( available at http://www.jcb.org/cgi/content/full/jcb.200408090/DC1 ) .
+PMC2034365	true	sec-7	17	102	PINCH complex purifications
+PMC2034365	false	sec-7	18	103	10 g pCaspin-TAP-rescued stck embryos or 5 x 108 Drosophila S2R+ cells stably transfected with pMT and TAP-PINCH were washed and homogenized in lysis buffer ( TBS , pH 7.9 , plus 0.1 % Triton X-100 and protease inhibitors ) and 125,000 g soluble portion was used as described below .
+PMC2034365	false	sec-7	18	104	S2R+ cells were grown as recommended ( Invitrogen ) and lysed , and 30,000 g supernatant was batch bound to 100 mul IgG Sepharose ( Amersham Biosciences ) prepared per manufacturer 's recommendations and equilibrated in lysis buffer .
+PMC2034365	false	sec-7	18	105	After washing extensively with lysis buffer , proteins were eluted with a step gradient of 100 mM glycine from pH 5.0-2 .75 .
+PMC2034365	false	sec-7	18	106	Ni-NTA agarose ( QIAGEN ) purifications of His tagged proteins used standard techniques .
+PMC2034365	false	sec-8	19	107	TAP-PINCH complexes were TCA precipitated and resuspended in Tris buffer , 8M urea , pH 8.6 , reduced , and alkylated .
+PMC2034365	false	sec-8	19	108	Complexes were endoproteinase Lys-C digested ( 4 h ) , diluted to 2M urea , and digested with trypsin overnight                        .
+PMC2034365	false	sec-8	19	109	Peptide mixtures were loaded onto a triphasic LC and LC column and analyzed as described previously                         .
+PMC2034365	false	sec-8	19	110	Tandem mass spectra were analyzed using SEQUEST and the Drosophila sequence database with threshold values of 1.8 ( +1 ) , 2.8 ( +2 ) , and 3.5 ( +3 )                        .
+PMC2034365	false	sec-8	19	111	Identities of specific bands were confirmed by sequence analysis .
+PMC2034365	true	sec-9	20	112	Yeast two-hybrid
+PMC2034365	false	sec-9	21	113	PINCH baits depicted in        C were constructed in pGBD-C1                     .
+PMC2034365	false	sec-9	21	114	The full-length RSU-1 prey is cloned in pACT2 .
+PMC2034365	false	sec-9	21	115	The yeast host strain , PJ69-2a , was transformed with bait and prey , and then reporter activities were assayed as described previously                     .
+PMC2034365	false	sec-10	22	116	Fig .
+PMC2034365	false	sec-10	22	117	S1 shows pleitropic phenotypes of maternally deficient stck cuticles .
+PMC2034365	false	sec-10	22	118	Details of plasmid construction are provided in Fig .
+PMC2034365	false	sec-10	22	119	S2 .
+PMC2034365	false	sec-10	22	120	Online supplemental material available at http://www.jcb.org/cgi/content/full/jcb.200408090/DC1 .
+PMC2034365	false	sec-9	23	121	We thank A. Letsou , K. Bates , S. Noselli , M. Cutler , M. Cobb ( GM56498 ) , B. Seraphin and Cellzome , J. Bland , L. Pan , and D. Lim for their contributions .
+PMC2034365	false	sec-8	24	122	This work was supported by the Huntsman Cancer Institute , National Institutes of Health ( R01 GM50877 to M.C. Beckerle , RR11823-08 to J.R. Yates , and T32 GM07464-27 to M.A. Smith ) , and the Cancer Center Support grant P30CA42014 for shared resources .

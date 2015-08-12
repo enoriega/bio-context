@@ -1,0 +1,25 @@
+Paper ID	Line Num	Master ID	Dependent ID	Text	Type
+PMC3182062	5	uniprot:O89094	uazid:UA-ORG-520	liver of adult mice	ContextPossesive
+PMC3182062	10	uniprot:O89094	uazid:UA-ORG-520	liver of adult mice	ContextPossesive
+PMC3182062	11	uniprot:O89094	uazid:UA-ORG-520	liver of adult mice	ContextPossesive
+PMC3182062	12	uniprot:UNRESOLVED ID	uniprot:UNRESOLVED ID	Cre recombinase to hepatocytes	ContextDirection
+PMC3182062	43	uniprot:O89094	uazid:UA-ORG-520	liver of TKO mice	ContextPossesive
+PMC3182062	44	uniprot:O89094	uazid:UA-ORG-520	liver of adult mice	ContextPossesive
+PMC3182062	46	uniprot:O89094	uazid:UA-ORG-520	liver of adult cTKO mice	ContextPossesive
+PMC3182062	52	uniprot:O89094	uazid:UA-ORG-520	liver of adult mice	ContextPossesive
+PMC3182062	54	ncbitax:species:ncbi:10090	uazid:UA-ORG-520	liver of a cTKO mouse	ContextPossesive
+PMC3182062	70	uniprot:O89094	uazid:UA-ORG-520	liver of TKO mice	ContextPossesive
+PMC3182062	75	uniprot:O89094	uazid:UA-ORG-520	liver of TKO mice	ContextPossesive
+PMC3182062	108	uniprot:O89094	uazid:UA-ORG-520	liver of TKO mice	ContextPossesive
+PMC3182062	108	uniprot:O89094	uazid:UA-ORG-520	liver of immunodeficient mice	ContextPossesive
+PMC3182062	110	uniprot:O89094	uazid:UA-ORG-520	liver of TKO mice	ContextPossesive
+PMC3182062	112	uniprot:O89094	uazid:UA-ORG-520	liver of adult mice	ContextPossesive
+PMC3182062	121	uniprot:O89094	uazid:UA-ORG-520	liver of TKO mice	ContextPossesive
+PMC3182062	121	uniprot:O89094	uazid:UA-ORG-520	liver of mice	ContextPossesive
+PMC3182062	168	uazid:UA-ORG-520	uniprot:P46531	Notch1 (Notch1ICD) in three control livers	ContextLocation
+PMC3182062	194	uniprot:O89094	uazid:UA-ORG-520	liver from mice	ContextDirection
+PMC3182062	214	uazid:UA-CT-100023	uniprot:P78504	JAG1 and PSEN2 in senescent fibroblasts	ContextLocation
+PMC3182062	218	uniprot:O89094	uazid:UA-ORG-520	liver of adult mice	ContextPossesive
+PMC3182062	228	uniprot:O89094	uazid:UA-ORG-520	liver of mice	ContextPossesive
+PMC3182062	252	uniprot:O89094	uniprot:UNRESOLVED ID	hepatocytes in mice	ContextLocation
+PMC3182062	331	uniprot:O89094	uazid:UA-ORG-520	liver of TKO mice	ContextPossesive

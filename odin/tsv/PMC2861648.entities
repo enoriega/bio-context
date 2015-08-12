@@ -1,0 +1,610 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2861648	0	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	0	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	1	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	1	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	1	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	2	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	3	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	4	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	4	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	4	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	5	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	5	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	6	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	6	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	6	uniprot:O89094	mice	Species
+PMC2861648	7	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	8	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	8	uniprot:UNRESOLVED ID	retinoblastoma	CellType
+PMC2861648	8	ncbitax:species:ncbi:9606	children	Species
+PMC2861648	9	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	9	ncbitax:species:ncbi:9606	human	Species
+PMC2861648	10	ncbitax:species:ncbi:10633	SV40	Species
+PMC2861648	10	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2861648	10	ncbitax:species:ncbi:10535	adenovirus	Species
+PMC2861648	10	ncbitax:species:ncbi:10566	human papilloma virus	Species
+PMC2861648	10	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	12	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	12	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	12	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	13	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	16	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	17	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	18	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	18	ncbitax:species:ncbi:9606	humans	Species
+PMC2861648	18	uniprot:O89094	mice	Species
+PMC2861648	18	ncbitax:species:ncbi:9031	chickens	Species
+PMC2861648	19	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	20	ncbitax:species:ncbi:3055	Chlamydomonas reinhardtii	Species
+PMC2861648	20	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	20	uniprot:P50303	mat3	Gene_or_gene_product
+PMC2861648	21	ncbitax:species:ncbi:4932	yeast	Species
+PMC2861648	21	uniprot:UNRESOLVED ID	gene Whi5	Gene_or_gene_product
+PMC2861648	21	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	22	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	22	ncbitax:species:ncbi:4577	maize	Species
+PMC2861648	22	ncbitax:species:ncbi:4530	rice	Species
+PMC2861648	23	ncbitax:species:ncbi:6239	Caenorhabditis elegans	Species
+PMC2861648	23	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	23	uniprot:UNRESOLVED ID	lin-35	Gene_or_gene_product
+PMC2861648	23	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	24	uniprot:UNRESOLVED ID	scale	CellType
+PMC2861648	24	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	24	uniprot:Q5ABZ2	RBF1	Gene_or_gene_product
+PMC2861648	24	uniprot:UNRESOLVED ID	RBF2	Gene_or_gene_product
+PMC2861648	25	uniprot:UNRESOLVED ID	lin35	Gene_or_gene_product
+PMC2861648	25	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2861648	25	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	25	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	25	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	26	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	26	ncbitax:species:ncbi:9031	Gallus gallus	Species
+PMC2861648	26	ncbitax:species:ncbi:9031	chicken	Species
+PMC2861648	26	ncbitax:species:ncbi:7955	Danio rerio	Species
+PMC2861648	26	ncbitax:species:ncbi:7955	zebrafish	Species
+PMC2861648	26	ncbitax:species:ncbi:28377	Anolis carolinensis	Species
+PMC2861648	27	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	31	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	31	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	31	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	32	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	32	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	32	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	33	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	33	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	33	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	34	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	35	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	36	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	37	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	39	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	41	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	43	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	44	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	45	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	45	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	45	uniprot:P28749	Rbl1	Gene_or_gene_product
+PMC2861648	45	ncbitax:species:ncbi:10633	SV40	Species
+PMC2861648	45	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2861648	45	ncbitax:species:ncbi:10535	adenovirus	Species
+PMC2861648	46	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	46	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	46	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	47	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	47	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	48	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	48	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	48	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	48	uniprot:P12004	Cyclin	Gene_or_gene_product
+PMC2861648	49	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	49	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	49	uniprot:O05982	Cdk	Gene_or_gene_product
+PMC2861648	49	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	50	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	50	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	50	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	51	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	51	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	51	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	51	uniprot:P12004	Cyclin	Gene_or_gene_product
+PMC2861648	51	uniprot:O05982	Cdk	Gene_or_gene_product
+PMC2861648	52	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	53	uniprot:P08047	Sp1	Gene_or_gene_product
+PMC2861648	53	uniprot:P10244	B-myb	Gene_or_gene_product
+PMC2861648	54	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	54	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	54	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	55	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	56	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	56	uniprot:Q16254	E2F4	Gene_or_gene_product
+PMC2861648	57	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	57	uniprot:UNRESOLVED ID	E2Fs	Gene_or_gene_product
+PMC2861648	57	uniprot:UNRESOLVED ID	HDAC proteins	Gene_or_gene_product
+PMC2861648	59	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	59	uniprot:Q16254	E2F4	Gene_or_gene_product
+PMC2861648	59	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	60	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	61	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	61	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	62	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	63	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	63	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	64	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	64	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	65	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	65	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	65	uniprot:UNRESOLVED ID	E2Fs	Gene_or_gene_product
+PMC2861648	66	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	66	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	66	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	68	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	68	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	68	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	68	uniprot:P12004	Cyclin	Gene_or_gene_product
+PMC2861648	68	uniprot:UNRESOLVED ID	Cdk kinase	Gene_or_gene_product
+PMC2861648	69	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	69	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	69	uniprot:P12004	Cyclin	Gene_or_gene_product
+PMC2861648	69	uniprot:P11802	Cdk4	Gene_or_gene_product
+PMC2861648	70	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	71	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	71	uniprot:Q13127	rest	Gene_or_gene_product
+PMC2861648	72	uniprot:UNRESOLVED ID	E2Fs	Gene_or_gene_product
+PMC2861648	72	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	73	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	73	uniprot:Q13547	HDAC1	Gene_or_gene_product
+PMC2861648	73	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	73	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	73	uniprot:O43557	light	Gene_or_gene_product
+PMC2861648	74	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	74	uniprot:Q13309	F-box protein Skp2	Gene_or_gene_product
+PMC2861648	75	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	75	uniprot:Q13309	Skp2	Gene_or_gene_product
+PMC2861648	75	uniprot:P40305	p27	Gene_or_gene_product
+PMC2861648	76	uniprot:P40305	p27	Gene_or_gene_product
+PMC2861648	76	uniprot:P12004	Cyclin	Gene_or_gene_product
+PMC2861648	76	uniprot:P24941	Cdk2	Gene_or_gene_product
+PMC2861648	77	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	78	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	78	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	79	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	79	uniprot:P84022	Smad3	Gene_or_gene_product
+PMC2861648	79	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC2861648	80	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	80	uniprot:Q9HFQ2	protein phosphatase 2A	Gene_or_gene_product
+PMC2861648	81	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	81	uniprot:Q9HCI5	damage	Gene_or_gene_product
+PMC2861648	81	uniprot:P04637	p53	Gene_or_gene_product
+PMC2861648	81	uniprot:P38936	p21	Gene_or_gene_product
+PMC2861648	82	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	82	uniprot:Q9HCI5	damage	Gene_or_gene_product
+PMC2861648	83	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	83	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	83	uniprot:P12004	Cyclin	Gene_or_gene_product
+PMC2861648	83	uniprot:P24941	Cdk2	Gene_or_gene_product
+PMC2861648	83	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	84	uniprot:P12004	Cyclin	Gene_or_gene_product
+PMC2861648	84	uniprot:O05982	Cdk	Gene_or_gene_product
+PMC2861648	85	uniprot:UNRESOLVED ID	pl07	Gene_or_gene_product
+PMC2861648	85	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	85	uniprot:P12004	Cyclin	Gene_or_gene_product
+PMC2861648	85	uniprot:UNRESOLVED ID	Cdk kinase	Gene_or_gene_product
+PMC2861648	85	uniprot:P38936	p21	Gene_or_gene_product
+PMC2861648	85	uniprot:P40305	p27	Gene_or_gene_product
+PMC2861648	86	uniprot:UNRESOLVED ID	p107/Cyclin/Cdk complexes	Gene_or_gene_product
+PMC2861648	86	uniprot:Q16254	E2F4	Gene_or_gene_product
+PMC2861648	86	uniprot:P15924	DP	Gene_or_gene_product
+PMC2861648	87	uniprot:P12004	Cyclin	Gene_or_gene_product
+PMC2861648	87	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	88	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	88	uniprot:P08047	transcription factor Sp1	Gene_or_gene_product
+PMC2861648	88	uniprot:P08047	Sp1	Gene_or_gene_product
+PMC2861648	88	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	89	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	89	uniprot:P08047	Sp1	Gene_or_gene_product
+PMC2861648	89	uniprot:UNRESOLVED ID	Sp1/p107/E2F4 complexes	Gene_or_gene_product
+PMC2861648	89	uniprot:P11362	Fgfr1	Gene_or_gene_product
+PMC2861648	89	ncbitax:species:ncbi:9031	chick	Species
+PMC2861648	90	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	90	uniprot:P10244	B-myb	Gene_or_gene_product
+PMC2861648	90	uniprot:P12004	Cyclin	Gene_or_gene_product
+PMC2861648	90	uniprot:O05982	Cdk	Gene_or_gene_product
+PMC2861648	91	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	91	uniprot:P84022	Smad3	Gene_or_gene_product
+PMC2861648	91	uniprot:UNRESOLVED ID	E2F4-5	Gene_or_gene_product
+PMC2861648	91	uniprot:P15924	DP	Gene_or_gene_product
+PMC2861648	92	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	92	uniprot:Q16254	E2F4	Gene_or_gene_product
+PMC2861648	92	uniprot:P84022	Smad3	Gene_or_gene_product
+PMC2861648	92	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC2861648	93	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC2861648	93	uniprot:P12004	Cyclin	Gene_or_gene_product
+PMC2861648	93	uniprot:O05982	Cdk	Gene_or_gene_product
+PMC2861648	93	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	93	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	93	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	93	uniprot:P84022	Smad3	Gene_or_gene_product
+PMC2861648	94	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	94	uniprot:P52160	c-Myc	Gene_or_gene_product
+PMC2861648	95	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	96	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	96	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	96	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	97	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	97	uniprot:O89094	mice	Species
+PMC2861648	99	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	100	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	100	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	101	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	102	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	103	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	103	uniprot:O89094	mice	Species
+PMC2861648	103	uniprot:Q64331	Sv	Gene_or_gene_product
+PMC2861648	103	uniprot:P12877	BL6	Gene_or_gene_product
+PMC2861648	103	uazid:UA-CT-100028	mouse embryonic fibroblasts	CellType
+PMC2861648	104	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	104	uniprot:O89094	mice	Species
+PMC2861648	104	uazid:UA-ORG-903	spleen	Organ
+PMC2861648	104	uazid:UA-ORG-520	liver	Organ
+PMC2861648	105	uniprot:P12004	Cyclin	Gene_or_gene_product
+PMC2861648	106	uniprot:O89094	mice	Species
+PMC2861648	106	uniprot:UNRESOLVED ID	white adipose	CellType
+PMC2861648	106	uniprot:P28749	p107-/-	Gene_or_gene_product
+PMC2861648	106	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	106	uniprot:Q9UBK2	Pgc1alpha	Gene_or_gene_product
+PMC2861648	107	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	107	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	107	ncbitax:species:ncbi:10090	mouse	Species
+PMC2861648	107	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	108	uniprot:P28749	p107-/-	Gene_or_gene_product
+PMC2861648	108	uniprot:Q08999	p130-/-	Gene_or_gene_product
+PMC2861648	108	uazid:UA-CT-200003	embryos	Organ
+PMC2861648	109	uniprot:P28749	p107-/-	Gene_or_gene_product
+PMC2861648	109	uniprot:UNRESOLVED ID	p130-/- newborns	Gene_or_gene_product
+PMC2861648	109	uazid:UA-ORG-248	epidermis	Organ
+PMC2861648	109	uazid:UA-CT-34	hair	CellType
+PMC2861648	109	uazid:UA-ORG-966	tooth	Organ
+PMC2861648	110	uniprot:P35855	BMP	Gene_or_gene_product
+PMC2861648	110	uniprot:Q07065	p63	Gene_or_gene_product
+PMC2861648	110	uazid:UA-ORG-248	epidermis	Organ
+PMC2861648	110	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	110	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	111	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	111	uazid:UA-ORG-100	bone	Organ
+PMC2861648	111	uazid:UA-ORG-141	cartilage	Organ
+PMC2861648	112	uniprot:P28749	p107-/-	Gene_or_gene_product
+PMC2861648	112	uniprot:Q08999	p130-/-	Gene_or_gene_product
+PMC2861648	112	uazid:UA-CT-200003	embryos	Organ
+PMC2861648	112	uniprot:P40305	p27-/-	Gene_or_gene_product
+PMC2861648	112	uazid:UA-ORG-527	long bones	Organ
+PMC2861648	112	uniprot:UNRESOLVED ID	chondrocyte	CellType
+PMC2861648	113	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	113	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	113	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	114	uniprot:P12004	Cyclin	Gene_or_gene_product
+PMC2861648	114	uniprot:O05982	Cdk	Gene_or_gene_product
+PMC2861648	114	uniprot:UNRESOLVED ID	chondrocytes	CellType
+PMC2861648	114	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	115	uniprot:UNRESOLVED ID	protein phosphatase	Gene_or_gene_product
+PMC2861648	115	uniprot:Q9XZE5	PP2A	Gene_or_gene_product
+PMC2861648	115	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	116	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	117	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	117	uazid:UA-ORG-100	bone	Organ
+PMC2861648	118	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	118	uniprot:UNRESOLVED ID	E2Fs	Gene_or_gene_product
+PMC2861648	118	uniprot:P30042	Hes1	Gene_or_gene_product
+PMC2861648	118	uniprot:P09038	Fgf2	Gene_or_gene_product
+PMC2861648	118	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2861648	119	uazid:UA-ORG-100	bone	Organ
+PMC2861648	119	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	119	uniprot:Q9XZE5	PP2A	Gene_or_gene_product
+PMC2861648	120	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	120	uniprot:Q01094	E2F1	Gene_or_gene_product
+PMC2861648	120	uniprot:Q13950	Cbfa1	Gene_or_gene_product
+PMC2861648	120	uazid:UA-ORG-100	bone	Organ
+PMC2861648	120	uniprot:UNRESOLVED ID	chondrocyte	CellType
+PMC2861648	120	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	121	ncbitax:species:ncbi:10090	mouse	Species
+PMC2861648	121	uazid:UA-CT-200001	brain	Organ
+PMC2861648	121	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	121	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	121	uazid:UA-ORG-623	neurons	Organ
+PMC2861648	122	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	122	uazid:UA-ORG-623	neuron	Organ
+PMC2861648	122	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	123	uniprot:UNRESOLVED ID	cortex	CellType
+PMC2861648	123	uazid:UA-CT-200001	brain	Organ
+PMC2861648	123	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	123	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2861648	123	uniprot:UNRESOLVED ID	VZ	Gene_or_gene_product
+PMC2861648	124	uniprot:O89094	mice	Species
+PMC2861648	124	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	124	uazid:UA-ORG-623	neurons	Organ
+PMC2861648	124	uniprot:UNRESOLVED ID	frontal cortex	CellType
+PMC2861648	125	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	125	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2861648	126	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	126	uniprot:P30042	Hes1	Gene_or_gene_product
+PMC2861648	127	uniprot:P30042	Hes1	Gene_or_gene_product
+PMC2861648	127	uazid:UA-ORG-114	brains	Organ
+PMC2861648	128	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	128	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	128	uniprot:P30042	Hes1	Gene_or_gene_product
+PMC2861648	128	uniprot:Q26304	luciferase	Gene_or_gene_product
+PMC2861648	129	uniprot:P30042	Hes1	Gene_or_gene_product
+PMC2861648	129	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	130	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	130	uazid:UA-ORG-114	brains	Organ
+PMC2861648	131	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	131	uniprot:O00716	E2F3	Gene_or_gene_product
+PMC2861648	131	uniprot:P09038	Fgf2	Gene_or_gene_product
+PMC2861648	131	uazid:UA-CT-200001	brain	Organ
+PMC2861648	132	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	132	uniprot:P28749	p107-/-	Gene_or_gene_product
+PMC2861648	132	uazid:UA-ORG-114	brains	Organ
+PMC2861648	132	uniprot:P09038	FGF2	Gene_or_gene_product
+PMC2861648	133	uniprot:P09038	FGF2	Gene_or_gene_product
+PMC2861648	134	uniprot:UNRESOLVED ID	chondrocytes	CellType
+PMC2861648	134	uazid:UA-ORG-623	neurons	Organ
+PMC2861648	134	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	135	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	136	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	136	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	137	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	137	uniprot:P06400	Rb-/-	Gene_or_gene_product
+PMC2861648	137	uazid:UA-CT-200003	embryos	Organ
+PMC2861648	137	uazid:UA-ORG-147	central nervous system	Organ
+PMC2861648	137	uazid:UA-ORG-506	lens	Organ
+PMC2861648	137	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	138	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	138	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	138	uazid:UA-ORG-385	heart	Organ
+PMC2861648	138	uazid:UA-CT-200003	embryos	Organ
+PMC2861648	139	uazid:UA-ORG-385	heart	Organ
+PMC2861648	139	uazid:UA-ORG-92	blood	Organ
+PMC2861648	139	uniprot:UNRESOLVED ID	endothelium	CellType
+PMC2861648	139	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	139	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	140	uniprot:UNRESOLVED ID	cerebellar	CellType
+PMC2861648	140	uniprot:O89094	mice	Species
+PMC2861648	140	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	140	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	140	uazid:UA-CT-200001	brain	Organ
+PMC2861648	141	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	141	uazid:UA-ORG-623	neuron	Organ
+PMC2861648	141	uniprot:Q13562	NeuroD1	Gene_or_gene_product
+PMC2861648	141	uniprot:UNRESOLVED ID	basic helix-loop-helix transcription factor	Gene_or_gene_product
+PMC2861648	141	uazid:UA-ORG-623	neurons	Organ
+PMC2861648	142	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	142	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	143	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	143	ncbitax:species:ncbi:9606	human	Species
+PMC2861648	143	uniprot:UNRESOLVED ID	retinoblastoma	CellType
+PMC2861648	143	uniprot:UNRESOLVED ID	osteosarcoma	CellType
+PMC2861648	144	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	144	ncbitax:species:ncbi:9606	human	Species
+PMC2861648	145	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	146	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	146	ncbitax:species:ncbi:9606	human	Species
+PMC2861648	146	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	147	uniprot:Q77JX3	p16	Gene_or_gene_product
+PMC2861648	147	uniprot:P12004	Cyclin	Gene_or_gene_product
+PMC2861648	147	uniprot:O05982	Cdk	Gene_or_gene_product
+PMC2861648	147	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	147	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	147	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	148	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	149	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	149	uniprot:O89094	mice	Species
+PMC2861648	150	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	150	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	150	uniprot:O89094	mice	Species
+PMC2861648	151	uniprot:UNRESOLVED ID	p107+	Gene_or_gene_product
+PMC2861648	151	uniprot:Q08999	p130-/-	Gene_or_gene_product
+PMC2861648	151	uniprot:P28749	p107-/-	Gene_or_gene_product
+PMC2861648	151	uniprot:UNRESOLVED ID	p130+	Gene_or_gene_product
+PMC2861648	151	uniprot:O89094	mice	Species
+PMC2861648	151	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	151	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	152	uniprot:P28749	p107-/-	Gene_or_gene_product
+PMC2861648	152	uniprot:Q08999	p130-/-	Gene_or_gene_product
+PMC2861648	152	uniprot:O89094	mice	Species
+PMC2861648	152	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	152	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	152	ncbitax:species:ncbi:10090	mouse	Species
+PMC2861648	153	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	153	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	154	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	154	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	155	uniprot:O89094	Mice	Species
+PMC2861648	155	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	155	uazid:UA-ORG-248	epidermis	Organ
+PMC2861648	155	uniprot:O89094	mice	Species
+PMC2861648	156	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	156	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	156	uniprot:UNRESOLVED ID	squamous cell	CellType
+PMC2861648	157	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	158	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	158	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	158	uniprot:O89094	mice	Species
+PMC2861648	159	uazid:UA-ORG-537	lung	Organ
+PMC2861648	159	uazid:UA-ORG-252	epithelium	Organ
+PMC2861648	159	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	159	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	160	uniprot:P06400	Rb-/-	Gene_or_gene_product
+PMC2861648	160	uazid:UA-ORG-537	lungs	Organ
+PMC2861648	160	uazid:UA-ORG-537	lung	Organ
+PMC2861648	161	uniprot:P06400	Rb-/-	Gene_or_gene_product
+PMC2861648	161	uniprot:Q08999	p130-/-	Gene_or_gene_product
+PMC2861648	161	uazid:UA-ORG-537	lungs	Organ
+PMC2861648	161	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	161	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	161	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	161	uazid:UA-ORG-537	lung	Organ
+PMC2861648	161	uazid:UA-ORG-252	epithelium	Organ
+PMC2861648	162	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	162	ncbitax:species:ncbi:10090	mouse	Species
+PMC2861648	163	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	163	ncbitax:species:ncbi:9606	human	Species
+PMC2861648	163	uniprot:UNRESOLVED ID	retinoblastoma	CellType
+PMC2861648	163	uniprot:UNRESOLVED ID	osteosarcoma	CellType
+PMC2861648	163	uniprot:O89094	mice	Species
+PMC2861648	163	uazid:UA-ORG-997	thyroid	Organ
+PMC2861648	164	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	164	uniprot:O89094	mice	Species
+PMC2861648	164	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	164	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	165	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	165	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	165	uazid:UA-ORG-805	retinas	Organ
+PMC2861648	166	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	166	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	166	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	167	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	168	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	168	uazid:UA-ORG-381	hand	Organ
+PMC2861648	168	uazid:UA-ORG-623	neurons	Organ
+PMC2861648	169	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	169	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	169	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	170	ncbitax:species:ncbi:10090	mouse	Species
+PMC2861648	170	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	170	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	170	uazid:UA-ORG-805	retina	Organ
+PMC2861648	171	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	171	uniprot:UNRESOLVED ID	retinoblastoma	CellType
+PMC2861648	171	uniprot:O89094	mice	Species
+PMC2861648	172	ncbitax:species:ncbi:10090	mouse	Species
+PMC2861648	172	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	173	uazid:UA-ORG-805	Retina	Organ
+PMC2861648	173	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	173	uniprot:UNRESOLVED ID	Pax6alpha -Cre	Gene_or_gene_product
+PMC2861648	173	uniprot:O89094	mice	Species
+PMC2861648	174	uniprot:P06400	Rb-/-	Gene_or_gene_product
+PMC2861648	174	uniprot:Q08999	p130-/-	Gene_or_gene_product
+PMC2861648	174	uazid:UA-ORG-805	retinas	Organ
+PMC2861648	175	uniprot:P06400	Rb-/-	Gene_or_gene_product
+PMC2861648	175	uazid:UA-ORG-805	retinas	Organ
+PMC2861648	175	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	176	uniprot:P06400	Rb-/-	Gene_or_gene_product
+PMC2861648	176	uniprot:P28749	p107-/-	Gene_or_gene_product
+PMC2861648	176	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	177	ncbitax:species:ncbi:10090	mouse	Species
+PMC2861648	177	uazid:UA-ORG-805	retinas	Organ
+PMC2861648	177	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	177	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	177	uniprot:P04637	p53	Gene_or_gene_product
+PMC2861648	177	uniprot:UNRESOLVED ID	retinoblastoma	CellType
+PMC2861648	178	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	178	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	178	ncbitax:species:ncbi:10090	mouse	Species
+PMC2861648	178	uazid:UA-ORG-805	retina	Organ
+PMC2861648	179	uazid:UA-ORG-623	neurons	Organ
+PMC2861648	179	uniprot:UNRESOLVED ID	INL	Gene_or_gene_product
+PMC2861648	179	uazid:UA-ORG-805	retina	Organ
+PMC2861648	179	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	179	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	180	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	180	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	180	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	180	uniprot:UNRESOLVED ID	retinoblastoma	CellType
+PMC2861648	181	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	181	uniprot:UNRESOLVED ID	retinoblastoma	CellType
+PMC2861648	182	uniprot:UNRESOLVED ID	Rblox	Gene_or_gene_product
+PMC2861648	182	uniprot:P28300	lox	Gene_or_gene_product
+PMC2861648	182	uniprot:Q08999	p130-/-	Gene_or_gene_product
+PMC2861648	182	uniprot:UNRESOLVED ID	p107+	Gene_or_gene_product
+PMC2861648	182	uazid:UA-ORG-623	neurons	Organ
+PMC2861648	182	uazid:UA-ORG-805	retinas	Organ
+PMC2861648	183	uazid:UA-ORG-805	retina	Organ
+PMC2861648	183	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	185	uniprot:UNRESOLVED ID	retinoblastoma	CellType
+PMC2861648	185	ncbitax:species:ncbi:9606	humans	Species
+PMC2861648	185	uniprot:O89094	mice	Species
+PMC2861648	186	uniprot:O89094	mice	Species
+PMC2861648	186	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	186	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	187	ncbitax:species:ncbi:9606	human	Species
+PMC2861648	187	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	187	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	187	ncbitax:species:ncbi:10090	mouse	Species
+PMC2861648	188	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	188	ncbitax:species:ncbi:10090	mouse	Species
+PMC2861648	188	ncbitax:species:ncbi:9606	human	Species
+PMC2861648	188	uazid:UA-ORG-805	retinas	Organ
+PMC2861648	189	ncbitax:species:ncbi:10090	mouse	Species
+PMC2861648	189	uniprot:UNRESOLVED ID	3' E2F site	Gene_or_gene_product
+PMC2861648	189	uniprot:UNRESOLVED ID	E2Fs	Gene_or_gene_product
+PMC2861648	190	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	190	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	191	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	192	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	192	ncbitax:species:ncbi:9606	human	Species
+PMC2861648	192	uniprot:UNRESOLVED ID	retinoblastoma	CellType
+PMC2861648	193	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	193	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	194	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	194	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	194	ncbitax:species:ncbi:10090	mouse	Species
+PMC2861648	194	uniprot:UNRESOLVED ID	hepatocytes	CellType
+PMC2861648	194	uazid:UA-ORG-537	lung	Organ
+PMC2861648	195	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	195	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	195	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	196	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	196	ncbitax:species:ncbi:9606	human	Species
+PMC2861648	197	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	198	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	199	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	199	uniprot:O43557	light	Gene_or_gene_product
+PMC2861648	200	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	201	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	201	uniprot:P08047	Sp1	Gene_or_gene_product
+PMC2861648	201	uniprot:P10244	B-myb	Gene_or_gene_product
+PMC2861648	201	uniprot:P52160	c-myc	Gene_or_gene_product
+PMC2861648	201	uniprot:P84022	Smad3	Gene_or_gene_product
+PMC2861648	203	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	203	uniprot:UNRESOLVED ID	E2Falpha One	Gene_or_gene_product
+PMC2861648	203	uniprot:UNRESOLVED ID	E2Fs	Gene_or_gene_product
+PMC2861648	204	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	205	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	205	uniprot:Q08999	p130	Gene_or_gene_product
+PMC2861648	205	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	206	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	207	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	208	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	209	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	209	uniprot:Q9XZE5	PP2A	Gene_or_gene_product
+PMC2861648	210	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	210	uniprot:P40305	p27	Gene_or_gene_product
+PMC2861648	210	uniprot:P12004	Cyclin	Gene_or_gene_product
+PMC2861648	210	uniprot:O05982	Cdk	Gene_or_gene_product
+PMC2861648	211	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	211	uniprot:O43557	light	Gene_or_gene_product
+PMC2861648	212	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	212	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	213	uniprot:O89094	mice	Species
+PMC2861648	213	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	213	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	214	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	215	uniprot:P28749	p107	Gene_or_gene_product
+PMC2861648	215	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	216	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	217	ncbitax:species:ncbi:10090	mouse	Species
+PMC2861648	218	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	219	uniprot:P06400	Rb	Gene_or_gene_product
+PMC2861648	219	uniprot:UNRESOLVED ID	Retinoblastoma	CellType
+PMC2861648	219	uniprot:O05982	Cdk	Gene_or_gene_product
+PMC2861648	219	uniprot:P12004	Cyclin	Gene_or_gene_product
+PMC2861648	219	uniprot:P00374	DHFR	Gene_or_gene_product
+PMC2861648	219	uniprot:P00374	dihydrofolate reductase	Gene_or_gene_product
+PMC2861648	219	uniprot:P35855	BMP	Gene_or_gene_product
+PMC2861648	219	uazid:UA-ORG-100	bone	Organ
+PMC2861648	219	uniprot:UNRESOLVED ID	VZ	Gene_or_gene_product
+PMC2861648	219	uniprot:Q9UNE7	ChIP	Gene_or_gene_product
+PMC2861648	220	uniprot:Q24246	SW	Gene_or_gene_product
+PMC2861648	220	uniprot:UNRESOLVED ID	JS	Gene_or_gene_product
+PMC2861648	223	ncbitax:species:ncbi:9606	Children	Species
+PMC2861648	223	uniprot:UNRESOLVED ID	NIH-NCI RO1 CA114102	Gene_or_gene_product

@@ -1,0 +1,252 @@
+Paper ID	Is title?	Section ID	Passage ID	Line Num	Text
+PMC2193067	true	article-title	0	0	Role of the Scavenger Receptor MARCO in Alveolar Macrophage Binding of Unopsonized Environmental Particles
+PMC2193067	false	abstract	1	1	Alveolar macrophages ( AMs ) avidly bind and ingest unopsonized environmental particles and bacteria through scavenger-type receptors ( SRs ) .
+PMC2193067	false	abstract	1	2	AMs from mice with a genetic deletion of the major macrophage SR ( types AI and AII ; SR-/- ) showed no decrease in particle binding compared with SR+ /+ mice , suggesting that other SRs are involved .
+PMC2193067	false	abstract	1	3	To identify these receptors , we generated a monoclonal antibody ( mAb ) , PAL-1 , that inhibits hamster AM binding of unopsonized particles ( TiO2 , Fe2O3 , and latex beads ; 66 + /- 5 , 77 + /- 2 , and 85 + /- 2 % inhibition , respectively , measured by flow cytometry ) .
+PMC2193067	false	abstract	1	4	This antibody identifies a protein of ~ 70 kD on the AM surface ( immunoprecipitation ) that is expressed by AMs and other macrophages in situ .
+PMC2193067	false	abstract	1	5	A cDNA clone encoding the mAb PAL-1-reactive protein isolated by means of COS cell expression was found to be 84 and 77 % homologous to mouse and human scavenger receptor MARCO mRNA , respectively .
+PMC2193067	false	abstract	1	6	Transfection of COS cells with MARCO cDNA conferred mAb-inhibitable TiO2 binding .
+PMC2193067	false	abstract	1	7	Hamster MARCO also mediates AM binding of unopsonized bacteria ( 67 + /- 5 and 47 + /- 4 % inhibition of Escherichia coli and Staphylococcus aureus binding by mAb PAL-1 ) .
+PMC2193067	false	abstract	1	8	A polyclonal antibody to human MARCO identified the expected ~ 70-kD band on Western blots of lysates of normal bronchoalveolar lavage ( BAL ) cells ( > 90 % AMs ) and showed strong immunolabeling of human AMs in BAL cytocentrifuge preparations and within lung tissue specimens .
+PMC2193067	false	abstract	1	9	In normal mouse AMs , the anti-MARCO mAb ED31 also showed immunoreactivity and inhibited binding of unopsonized particles ( e.g. , TiO2 ~ 40 % ) and bacteria .
+PMC2193067	false	abstract	1	10	The novel function of binding unopsonized environmental dusts and pathogens suggests an important role for MARCO in the lungs ' response to inhaled particles .
+PMC2193067	false	sec-2	2	11	TiO2 and Fe2O3 were provided by Dr. J. Brain ( Harvard School of Public Health , Boston , MA ) .
+PMC2193067	false	sec-2	2	12	These particles have been shown to be heterogeneous in size , with a median diameter of 1.3 mum     .
+PMC2193067	false	sec-2	2	13	Latex beads ( 1.0 mum in diameter ; sulfated polystyrene ) that show green fluorescence after excitation at 488 nm were obtained from Interfacial Dynamics Co. .
+PMC2193067	false	sec-2	2	14	All particles were suspended in balanced salt solution ( BSS- [ 124 mM NaCl , 5.8 mM KCl , 10 mM dextrose , and 20 mM Hepes ] ) as stock solutions and sonicated ~ 30 s before use .
+PMC2193067	false	sec-2	2	15	Anti-TNP ( PharMingen ) , anti-heparan sulfate mAbs ( Seikagaku Corp. ) , anti- human beta2 microglobulin mAb ( PharMingen ) , and a nonspecific rat IgG1 ( PharMingen ) were used as isotype matched controls .
+PMC2193067	false	sec-2	2	16	The anti-human MARCO antibody was raised in rabbits as described     .
+PMC2193067	false	sec-2	2	17	The anti-mouse MARCO mAb , ED31 ( IgG1 ) , was provided by Dr. G. Kraal ( Vrije Universiteit , Amsterdam , The Netherlands )     .
+PMC2193067	false	sec-2	2	18	All reagents not otherwise specified were obtained from Sigma Chemical Co. .
+PMC2193067	true	sec-3	3	19	Cell Isolation and Flow Cytometric Assay of Particulate Binding .
+PMC2193067	false	sec-3	4	20	SR-A-deficient mice were prepared as reported     .
+PMC2193067	false	sec-3	4	21	Mice or hamsters were killed by intraperitoneal pentobarbital injection .
+PMC2193067	false	sec-3	4	22	AMs obtained by repeated lung lavage with BSS- were centrifuged at 150 g and resuspended in BSS+ .
+PMC2193067	false	sec-3	4	23	AMs ( 2 x 105 in 100 mul BSS+ ) were preincubated with mAbs ( 100 mul hybridoma supernatant or 10 mug and ml mAb ) or inhibitors ( 10 mug and ml ) and 2.5 mug and ml cytochalasin D for 5 min on ice in a 1-ml microfuge tube .
+PMC2193067	false	sec-3	4	24	After the addition of probe sonicated particles or beads , the tubes were rotated at 37degreesC for 30 min , placed on ice , and analyzed by flow cytometry .
+PMC2193067	false	sec-3	4	25	Flow cytometry was performed using an Ortho 2150 cytofluorograph as previously described     .
+PMC2193067	false	sec-3	4	26	AM uptake of particles was measured using the increase in the mean right angle scatter ( RAS ) caused by these granular materials     .
+PMC2193067	false	sec-3	4	27	Latex bead binding is expressed as relative fluorescence .
+PMC2193067	false	sec-4	5	28	Fluorescent labeled , heat killed bacteria ( Escherichia coli and Staphylococcus aureus ) and yeast ( Zymosan ) were purchased from PharMingen .
+PMC2193067	false	sec-4	5	29	The bacteria binding assay was performed exactly as described above , except that AMs were incubated with either bacteria ( 5 x 107 ) or yeast ( 2 x 105 ) instead of particles .
+PMC2193067	false	sec-4	5	30	Binding was measured by detecting AM associated fluorescence by flow cytometry .
+PMC2193067	false	sec-5	6	31	Mice were anaesthetized with halothane ( 4 % ) , and 125 mul TiO2 ( 50 mug and ml ) in BSS+ was instilled into the lungs using a 22-gauge canula .
+PMC2193067	false	sec-5	6	32	Bronchoalveolar lavage ( BAL ) was performed 30 min after instillation , and aliquots of BAL were immediately analyzed by flow cytometry to quantitate cell associated particles .
+PMC2193067	true	sec-6	7	33	Production of mAb .
+PMC2193067	false	sec-6	8	34	BALB and c mice were immunized by intraperitoneal injection of 2 x 107 hamster AMs .
+PMC2193067	false	sec-6	8	35	After 3 wk , mice received another injection of 2 x 107 AMs i.p. , and 3 d later , spleens of the mice were removed .
+PMC2193067	false	sec-6	8	36	The splenocytes were fused with a nonsecreting mouse myeloma , P3U1 , using polyethylene glycol 4000 and cultured in DMEM containing hypoxanthine , aminopterin , and thymidine .
+PMC2193067	false	sec-6	8	37	After 2 wk , supernatants from hybridoma cultures were screened for their ability to inhibit the adhesion of TiO2 to AMs .
+PMC2193067	false	sec-7	9	38	Hamster AM cell surface proteins were labeled with sulfo-NHS-LC-biotin ( Pierce Chemical Co. ) as per the manufacturer 's suggested protocol and resuspended at a concentration of 4 x 107 cells and ml in a 1 % extraction buffer ( 1 % Triton X-100 , 50 mM Tris-HCl , 150 mM NaCl , 2 mM CaCl2 , 2 mM MgCl2 , and 5 mM iodoacetamide supplemented with 40 mug and ml PMSF , 2 mug and ml aprotinin , and 10 mug and ml phenanthroline as protease inhibitors ) .
+PMC2193067	false	sec-7	9	39	The lysates were precleared with rat anti-mouse IgM magnetic beads ( Dynabeads ( R ) ; Dynal Inc. ) .
+PMC2193067	false	sec-7	9	40	Aliquots of lysate were incubated with mAbs PAL-1 or RP-3 bound to rat anti-mouse IgM magnetic beads overnight at 4degreesC .
+PMC2193067	false	sec-7	9	41	The immunoprecipitates were washed in cold lysis buffer ( without protease inhibitors ) , subjected to SDS-PAGE , electroblotted to membrane filters , probed with avidin- HRP conjugate ( Pierce Chemical Co. ) , and developed using chemiluminence reagent ( Supersignal ( R ) ; Pierce Chemical Co. ) .
+PMC2193067	false	sec-8	10	42	Cryostat sections of hamster tissues were fixed in buffered 2 % paraformaldehyde for 10 min , followed by 10 min in 100 % cold ( -20 degreesC ) methanol .
+PMC2193067	false	sec-8	10	43	After rinsing , immunostaining was performed by sequential application of primary antibody ( mAb PAL-1 [ 5 mug and ml ] or anti-heparan sulfate mAb [ 5 mug and ml ] , goat anti-mouse IgG [ 1:50 ; Sternberger Monoclonals , Inc. ] , and mouse peroxidase and antiperoxidase complex [ 1:100 ; Sternberger Monoclonals , Inc. ] ) , followed by labeling with chromogen diaminobenzidine and H2O2 .
+PMC2193067	false	sec-8	10	44	To increase sensitivity , an additional cycle of secondary and peroxidase and antiperoxidase complex was applied to sections , followed by a second chromogen reaction .
+PMC2193067	false	sec-8	10	45	Paraffin sections of human lung tissue were immunostained using an avidin and biotin complex protocol as previously described     .
+PMC2193067	false	sec-8	10	46	The slides were washed with water , counterstained with hematoxylin , dehydrated , and mounted for light microscopy .
+PMC2193067	false	sec-9	11	47	A hamster AM cDNA library prepared in the pcDM8 vector ( provided by Dr. B. Seed , Harvard Medical School , Boston , MA ; Paulauskis , J. , unpublished data ) was divided into small pools and transfected into COS cells .
+PMC2193067	false	sec-9	11	48	The transiently transfected COS cells were isolated by " panning " on mAb PAL-1-coated plates , and plasmid DNA was reisolated and amplified as described     .
+PMC2193067	false	sec-9	11	49	A receptor positive pool was identified by PAL-1 immunostaining of transfected COS cells after six rounds of screening .
+PMC2193067	false	sec-9	11	50	This pool was subdivided repeatedly until we obtained a single functional plasmid that upon transfection conferred mAb PAL-1 reactivity to COS cells .
+PMC2193067	false	sec-9	11	51	Both strands of the cDNA insert were sequenced at the Harvard University Biopolymers Laboratory .
+PMC2193067	true	sec-10	12	52	Western Blot Analysis .
+PMC2193067	false	sec-10	13	53	Human AMs were collected by BAL from healthy adults under an institutionally reviewed and approved protocol .
+PMC2193067	false	sec-10	13	54	AMs were washed and lysates prepared as described above ( see Immunoprecipitation ) .
+PMC2193067	false	sec-10	13	55	The lysates were mixed with 6x reducing or nonreducing SDS solubilization buffer , subjected to SDS-PAGE , electroblotted to membrane filters , probed with either control rabbit IgG or purified rabbit anti-human MARCO antibody followed by avidin-HRP conjugate ( Pierce Chemical Co. ) , and developed using chemiluminence reagent ( Supersignal ( R ) ; Pierce Chemical Co ) .
+PMC2193067	false	sec-11	14	56	Data were analyzed using ANOVA and paired t test components of a statistical software package ( Statview ; Abacus Concepts ) .
+PMC2193067	false	sec-11	14	57	Significance was accepted when P < 0.05 .
+PMC2193067	false	sec-13	15	58	To determine whether SR-A ( I and II ) receptors mediate AM binding of unopsonized particles , the binding of TiO2 by SR-A ( I and II ) - deficient AMs ( SR-A-/- ) was tested and compared with the binding of TiO2 by AMs from wild-type mice ( SR-A+ /+ ) .
+PMC2193067	false	sec-13	15	59	Microscopic evaluation of treated AMs showed similar robust binding of TiO2 by both SR-A-/- and SR-A+ /+ AMs           .
+PMC2193067	false	sec-13	15	60	Quantitation by flow cytometric analysis of RAS increases showed that SR-A-/- and SR-A+ /+ AMs demonstrated essentially identical particle binding           .
+PMC2193067	false	sec-13	15	61	SR-A-/- AMs also bound unopsonized ferric oxide and fluorescent latex beads with comparable avidity ( data not shown ) .
+PMC2193067	false	sec-13	15	62	The SR ligand PI inhibited the adhesion of TiO2 to both SR-A-/- and SR+ /+ AMs by 59 + /- 1 % and 58 + /- 4 % , respectively .
+PMC2193067	false	sec-13	15	63	The control polyanion , chondroitin sulfate ( CS ) , had no effect on particle adhesion .
+PMC2193067	false	sec-13	15	64	To determine if the in vitro particle binding reflected in vivo events , we measured particle binding to AMs after intratracheal instillation of TiO2 .
+PMC2193067	false	sec-13	15	65	SR-A-deficient or wild-type mice were instilled with buffer alone or buffer containing TiO2 .
+PMC2193067	false	sec-13	15	66	After 30 min , mice were killed , BAL performed , and AM uptake of TiO2 quantified by flow cytometry .
+PMC2193067	false	sec-13	15	67	As shown in Fig .
+PMC2193067	false	sec-13	15	68	C , both SR-A-deficient AMs and wild-type AMs bound TiO2 in vivo to a comparable degree .
+PMC2193067	false	sec-13	15	69	Thus , SR-A deficiency does not alter unopsonized particle binding by AMs .
+PMC2193067	false	sec-13	15	70	These results suggested that SRs other than SR-A are involved in unopsonized particle binding to AMs .
+PMC2193067	true	sec-14	16	71	Effect of mAb PAL-1 on AM Binding of Particles .
+PMC2193067	false	sec-14	17	72	To develop an mAb to the receptor that mediates particle binding , mice were immunized with hamster AMs , and hybridomas were prepared and screened for mAbs that block AM binding of TiO2 .
+PMC2193067	false	sec-14	17	73	As shown in Fig .
+PMC2193067	false	sec-14	17	74	and reported previously     , the scavenger receptor ligand , PI , blocked AM binding of TiO2 and served as a positive control for these assays .
+PMC2193067	false	sec-14	17	75	A new mAb , PAL-1 , inhibited AM binding of TiO2 by 67 + /- 5 % ( n = 10 ) .
+PMC2193067	false	sec-14	17	76	An isotype matched control mAb ( anti-TNP ) had no effect on AM binding of TiO2 .
+PMC2193067	false	sec-14	17	77	We next examined the effect of mAb PAL-1 on AM binding of other environmental particles such as Fe2O3 or quartz ( SiO2 ) and the surrogate particle , latex beads .
+PMC2193067	false	sec-14	17	78	As shown in Table  , PAL-1 inhibited AM binding of Fe2O3 , SiO2 , and latex beads by 78 + /- 2 , 52 + /- 24 , and 85 + /- 4 % , respectively .
+PMC2193067	false	sec-14	17	79	Thus , mAb PAL-1 substantially inhibits AM binding of a broad range of particles .
+PMC2193067	true	sec-15	18	80	Immunoprecipitation of a Cell Surface Protein by mAb PAL-1 .
+PMC2193067	false	sec-15	19	81	To identify the protein ( s ) recognized by mAb PAL-1 , immunoprecipitation experiments were carried out .
+PMC2193067	false	sec-15	19	82	AMs were surface labeled by sulfo-NHS-biotin ( Pierce Chemical Co. ) , and the cell surface molecules bound by PAL-1 were analyzed by SDS-PAGE                                                                                                                                                                                                                                           negative control antibody .
+PMC2193067	true	sec-16	20	83	Tissue Localization of the PAL-1 Antigen .
+PMC2193067	false	sec-16	21	84	Immunostaining of frozen sections from a range of normal hamster tissues with PAL-1 showed that it reacted strongly with most or all AMs , macrophages of lymph node sinuses , and von Kupffer cells of the liver           .
+PMC2193067	false	sec-16	21	85	Macrophages in other sites were also positive ( e.g. , splenic red pulp , intestinal Peyer 's patch , thymus ) .
+PMC2193067	false	sec-16	21	86	Cross-reactions with other tissue structures such as endothelial cells were not observed ; numerous other nonlymphoid tissues were negative ( skin , brain , heart , stomach , prostate , and kidney ; data not shown ) .
+PMC2193067	false	sec-16	21	87	Flow cytometric analysis showed that PAL-1 staining is detected on AMs .
+PMC2193067	false	sec-16	21	88	Lymphocytes isolated from different lymph nodes and thymocytes were negative           .
+PMC2193067	false	sec-16	21	89	Peritoneal macrophages , neutrophils , and monocytes were predominantly negative ( data not shown ) .
+PMC2193067	true	sec-17	22	90	Expression Cloning of the Particle Adhesion Receptor .
+PMC2193067	false	sec-17	23	91	An expression cloning protocol was used to identify the receptor mediating AM binding of particles .
+PMC2193067	false	sec-17	23	92	When transfected into COS cells , a cDNA clone conferred mAb PAL-1 reactivity                  .
+PMC2193067	false	sec-17	23	93	Both strands of the 1.6-kb insert were sequenced .
+PMC2193067	false	sec-17	23	94	The sequence , including part of the 5 '- and 3 ' - untranslated regions , is shown in Fig .
+PMC2193067	false	sec-17	23	95	A. From the first ATG , we predict an open reading frame of 1452 bp , which yields a protein of 483 amino acid residues with a predicted molecular mass of 49.5 kD .
+PMC2193067	false	sec-17	23	96	GenBank searches of the nucleotide and protein sequences revealed significant homology to murine and human MARCO ( 84 and 77 % nucleotide identity with mouse and human MARCO cDNA , respectively ; 18 , 19 ) .
+PMC2193067	false	sec-17	23	97	We refer to this clone as hamster MARCO .
+PMC2193067	false	sec-17	23	98	Amino acid identity between hamster , murine , and human MARCO was 77 and 65 % , respectively           .
+PMC2193067	false	sec-17	23	99	As shown in Table   , amino acid identity between hamster , mouse , and human MARCO was highest in the collagenous domain .
+PMC2193067	false	sec-17	23	100	The intracellular domain had 80 % identity between hamster and mouse MARCO , as compared with 50 % identity between hamster and human MARCO .
+PMC2193067	false	sec-17	23	101	Hamster MARCO , like human MARCO , does not have a cysteine residue in the spacer domain , but like mouse MARCO , it retains two cysteines in the cytoplasmic domain .
+PMC2193067	false	sec-17	23	102	The two potential carbohydrate attachment sites in the spacer domain , the interruption of Gly-Xaa-Yaa repeats in the collagenous domain , and all six cysteine residues in the scavenger receptor cysteine rich domain ( SRCR ) are conserved between all three species           .
+PMC2193067	false	sec-17	23	103	Hamster MARCO differs from both murine and human MARCO in containing a shorter collagenous domain ( 237 amino acids ) .
+PMC2193067	true	sec-18	24	104	MARCO Expression Confers mAb PAL-1-inhibitable TiO2 Binding to COS Cells .
+PMC2193067	false	sec-18	25	105	To confirm the role of MARCO in particle binding , we transfected COS cells with hamster MARCO cDNA .
+PMC2193067	false	sec-18	25	106	As shown in Fig .
+PMC2193067	false	sec-18	25	107	C , COS cells transfected with MARCO cDNA bound TiO2 ( 4.6-fold increase in RAS ) .
+PMC2193067	false	sec-18	25	108	TiO2 binding by MARCO transfected COS cells but not untransfected COS cells was significantly inhibited by the anti-MARCO mAb PAL-1 ( 47 + /- 6 % inhibition ; Fig .
+PMC2193067	false	sec-18	25	109	C ) .
+PMC2193067	false	sec-18	25	110	Controls , including untransfected COS cells and COS cells transfected with a plasmid encoding the cDNA for hamster CD44 , exhibited binding of TiO2 that was inhibited by both PI and heparin ( an agent that does not inhibit AM binding of TiO2 [ 10 ] ) but not mAb PAL-1 ( data not shown ) .
+PMC2193067	false	sec-18	25	111	The constitutive heparin sensitive particle binding receptor on COS cells is different from MARCO and remains to be identified ( see Discussion ) .
+PMC2193067	true	sec-19	26	112	Hamster MARCO Mediates AM Binding of Bacteria .
+PMC2193067	false	sec-19	27	113	To further investigate the range of ligands for hamster MARCO , we tested the effect of mAb PAL-1 on AM binding of unopsonized microorganisms .
+PMC2193067	false	sec-19	27	114	As shown in Fig .
+PMC2193067	false	sec-19	27	115	, mAb PAL-1 inhibited AM binding of E. coli and S. aureus by 67 + /- 5 % and 47 + /- 4 % , respectively .
+PMC2193067	false	sec-19	27	116	PAL-1 had no effect on AM binding of Zymosan .
+PMC2193067	false	sec-19	27	117	An isotype matched control antibody did not inhibit bacteria and yeast binding .
+PMC2193067	false	sec-19	27	118	Thus hamster MARCO , like human and mouse MARCO         , mediates AM binding of bacteria but not yeast .
+PMC2193067	true	sec-20	28	119	Expression of MARCO on Human Cells .
+PMC2193067	false	sec-20	29	120	The original report of human MARCO did not detect MARCO expression in the lungs of a limited number of perinatal autopsy specimens     .
+PMC2193067	false	sec-20	29	121	To evaluate whether adult human AMs express MARCO , we performed immunologic analysis using a polyclonal antibody to a peptide from domain V of human MARCO     .
+PMC2193067	false	sec-20	29	122	Histochemical analysis of human BAL cells ( > 90 % AMs ) and lung tissue showed that the anti-MARCO antibody detects antigen on AMs but not on other cells or surrounding tissue structures              .
+PMC2193067	false	sec-20	29	123	We prepared lysates from human AMs ( n = 5 ) and performed SDS and Western blot analysis .
+PMC2193067	false	sec-20	29	124	The anti-human MARCO antibody reacted specifically with a discrete band in all AM lysates , which ran at a relative molecular mass of ~ 70 kD ( results from two samples are shown in Fig .
+PMC2193067	false	sec-20	29	125	E ) .
+PMC2193067	false	sec-20	29	126	No reactivity was seen with an irrelevant control antibody .
+PMC2193067	false	sec-20	29	127	The same pattern was repeated when the analysis was performed in nonreducing conditions ( data not shown ) .
+PMC2193067	false	sec-20	29	128	Thus , adult human AMs express MARCO .
+PMC2193067	true	sec-21	30	129	SR-A-deficient AM Binding of TiO2 Is Inhibited by an Antibody to MARCO .
+PMC2193067	false	sec-21	31	130	An mAb to mouse MARCO has been shown to block bacteria binding by mouse macrophages     .
+PMC2193067	false	sec-21	31	131	Although expression of MARCO was not detected in mouse lungs in the original report , we found significant immunostaining ( albeit weaker than that seen in human and hamster AMs ) of normal mouse AMs by the anti-MARCO mAb ED31 ( data not shown ; see Discussion )     .
+PMC2193067	false	sec-21	31	132	We therefore examined whether ED31 would block TiO2 binding by mouse AMs .
+PMC2193067	false	sec-21	31	133	In these experiments , the SR inhibitor , PI , reduced TiO2 binding by 44 + /- 12 and 52 + /- 11 % in SR-/- and SR+ /+ mice , respectively ; the control polyanion CS had no significant effect ( n > = 3 ) .
+PMC2193067	false	sec-21	31	134	Treatment of SR-/- AMs with ED31 blocked binding of TiO2 by 40 + /- 11 % ( n = 4 ) .
+PMC2193067	false	sec-21	31	135	TiO2 binding by SR+ /+ was also inhibited by anti-MARCO mAb treatment by 25 + /- 4 % ( n = 3 ) .
+PMC2193067	false	sec-21	31	136	Control IgG1 had no effect on binding .
+PMC2193067	false	sec-21	31	137	Similar inhibition of mouse AM binding of unopsonized fluorescent latex beads and bacteria was seen ( data not shown ) .
+PMC2193067	false	sec-21	31	138	Thus , MARCO also functions to bind environmental particles and bacteria in mouse AMs .
+PMC2193067	false	sec-22	32	139	In this study , we have identified MARCO as a major receptor on AMs for binding of unopsonized environmental particles and certain microorganisms .
+PMC2193067	false	sec-22	32	140	The lung is constantly exposed to environmental substances such as microbes , pollutant particles , and allergens .
+PMC2193067	false	sec-22	32	141	The levels of ambient air particles in the environment have been correlated with increased morbidity and mortality        .
+PMC2193067	false	sec-22	32	142	The clearance of inhaled particulate matter is primarily mediated by AMs through the process of phagocytosis       .
+PMC2193067	false	sec-22	32	143	AMs have been previously shown to avidly phagocytose unopsonized particles       .
+PMC2193067	false	sec-22	32	144	However , the receptors on the AMs that recognize and bind particles are not known .
+PMC2193067	false	sec-22	32	145	Here we have generated an mAb , PAL-1 , that blocked particle and bacteria binding by AMs .
+PMC2193067	false	sec-22	32	146	Using mAb PAL-1 as a probe , we have cloned the cDNA encoding for the receptor from an AM cDNA library .
+PMC2193067	false	sec-22	32	147	Transfection of COS cells conferred mAb PAL-1 reactivity and mAb PAL-1-inhibitable binding of TiO2 .
+PMC2193067	false	sec-22	32	148	By sequence homology and functional similarity , we conclude that the receptor is the hamster homologue of MARCO .
+PMC2193067	false	sec-22	33	149	The recognition of phagocytic targets is mediated by specific receptors on the phagocytes that either recognize serum components ( opsonins ) bound to the particle or directly recognize molecular determinants on the target .
+PMC2193067	false	sec-22	33	150	Thus , based on the mechanism of particle recognition , phagocytosis is either opsonin dependent or opsonin independent .
+PMC2193067	false	sec-22	33	151	The best characterized opsonin dependent phagocytosis receptors are the Fcgamma receptor and the complement receptor CR3        .
+PMC2193067	false	sec-22	33	152	Recent advances have highlighted the significance of other receptors , such as the collectin receptor , C1q , in opsonin dependent phagocytosis         .
+PMC2193067	false	sec-22	33	153	The opsonin independent recognition of microorganisms and apoptotic cells is mediated by receptors such as the scavenger receptor , mannose receptor , vitronectin receptor , asialoglycoprotein receptor , and the beta2 integrins ( 35- 37 ) .
+PMC2193067	false	sec-22	33	154	Based on the high expression of SRs on macrophages and their broad specificity , we considered this class of receptors as likely suspects for interaction with inhaled particles .
+PMC2193067	false	sec-22	33	155	Indeed , we found that AM phagocytosis of unopsonized environmental dusts ( TiO2 , Fe2O3 , SiO2 ) or fluorescent latex beads is strongly inhibited by the SR blocker , PI     .
+PMC2193067	false	sec-22	33	156	To more precisely determine the role of SR-A in this interaction , we examined the ability of AMs from SR-A ( I and II ) - deficient mice      to bind particles .
+PMC2193067	false	sec-22	33	157	We showed that both wild-type and SR-A-deficient macrophages bound unopsonized TiO2                                                                          .
+PMC2193067	false	sec-22	33	158	The scavenger receptor ligand PI inhibited the binding of particles to SR-A-deficient macrophages , suggesting that AMs express additional SR like molecules that mediate opsonin independent phagocytosis of particulate matter .
+PMC2193067	false	sec-22	33	159	To identify this receptor , we generated a monoclonal antibody , PAL-1 , which blocked AM binding of particles                                                                                                                                                                                  .
+PMC2193067	false	sec-22	33	160	Importantly , transfection confers PAL-1-inhibitable binding of TiO2 by COS cells           .
+PMC2193067	false	sec-22	34	161	Interpretation of the COS cell transfection experiments was complicated by the observation that COS cells constitutively bind particles to a substantial degree .
+PMC2193067	false	sec-22	34	162	This indicated the presence of endogenous particle adhesion receptor ( s ) .
+PMC2193067	false	sec-22	34	163	However , transfection of COS cells with MARCO but not control plasmid or cDNA resulted in mAb PAL-1-inhibitable particle binding           .
+PMC2193067	false	sec-22	34	164	Importantly , the constitutive COS cell receptor ( s ) for particles is sensitive to heparin inhibition , whereas AM receptor mediated particle binding is not heparin sensitive     .
+PMC2193067	false	sec-22	34	165	Interestingly , transfection with MARCO , in addition to conferring mAb PAL-1-inhibitable particle binding , substantially diminished the component that was heparin inhibitable ( data not shown ) .
+PMC2193067	false	sec-22	34	166	We speculate that the transfected cDNA competes with the endogenous COS cell particle receptor ( s ) for either surface expression or binding function .
+PMC2193067	false	sec-22	34	167	Existence of a particle binding receptor on nonphagocytes such as COS cells is not unprecedented .
+PMC2193067	false	sec-22	34	168	The lung epithelial cell line A549 binds and ingests unopsonized TiO2 , and this binding can also be inhibited by PI and heparin     .
+PMC2193067	false	sec-22	35	169	The particle binding receptor on hamster AMs is similar to murine and human MARCO                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       than both human and mouse MARCO .
+PMC2193067	false	sec-22	35	170	Also , like human MARCO , hamster MARCO does not have a cysteine residue in the spacer domain .
+PMC2193067	false	sec-22	35	171	The six cysteines in the cysteine rich domain are conserved in all three species ( Fig .
+PMC2193067	false	sec-22	35	172	.
+PMC2193067	false	sec-22	35	173	The cysteine rich domain defines a recently identified family of proteins     .
+PMC2193067	false	sec-22	35	174	The true function of the SRCR is not clear .
+PMC2193067	false	sec-22	35	175	Hamster MARCO , like mouse and human MARCO , binds bacteria but not yeast ( Fig .
+PMC2193067	false	sec-22	35	176	; references   ,    .
+PMC2193067	false	sec-22	36	177	The expression of MARCO on normal AMs merits discussion .
+PMC2193067	false	sec-22	36	178	Initially , both human and mouse MARCO were not detected in normal lung         .
+PMC2193067	false	sec-22	36	179	Using Western blot and immunolabeling techniques , we detected MARCO expression in normal lavaged AMs and AMs presented in diseased lungs ( surgical specimens )                                                                                                                                                                                                                                                                                                                                                                  are present and functional on these cells .
+PMC2193067	false	sec-22	36	180	In these studies , we used normal , healthy looking mice housed in conventional facilities , not a " clean room " barrier facility .
+PMC2193067	false	sec-22	36	181	Expression of MARCO is induced on lung and liver macrophages in mice infected with Klebsiella pneumoniae     .
+PMC2193067	false	sec-22	36	182	It is possible that our mice expressed MARCO because of low-level activation from their less clean environmental surroundings , a possibility yet to be formally tested .
+PMC2193067	false	sec-22	36	183	It is also noteworthy that both PI and anti-MARCO ( ED31 ) cause lower levels of inhibition of unopsonized particle binding by mouse AMs compared with that seen with hamster AMs .
+PMC2193067	false	sec-22	36	184	Whether this reflects a significant difference ( e.g. , the presence of other receptor [ s ] ) , minor species , or technical variables remains to be determined .
+PMC2193067	false	sec-22	37	185	Our finding that MARCO mediates AM binding of particles defines a novel and immunologically important function for MARCO .
+PMC2193067	false	sec-22	37	186	As MARCO mediates binding of both inert particles and potentially pathogenic microorganisms , it will be interesting to determine how binding by MARCO modulates AM bactericidal functions .
+PMC2193067	false	sec-22	37	187	Specifically , the laudable absence of AM activation that accompanies binding ( and ingestion ) of inert environmental dusts may prove harmful for encounters with viable pathogens .
+PMC2193067	false	sec-22	37	188	Additional studies of the function of MARCO may provide more insight into the role of AMs in the initial , innate response of the lung to inhaled particles and pathogens .
+PMC2193067	false	fig-1	38	189	SR-A-deficient and -sufficient AMs bind TiO2 equally .
+PMC2193067	false	fig-1	38	190	( A ) Representative photomicrograph showing approximately similar binding of particles by SR-A-deficient ( SR-/- ) and wild-type ( SR+ /+ ) AMs incubated with unopsonized TiO2 ( original magnification 400 ) .
+PMC2193067	false	fig-1	38	191	( B ) SR-/- and SR+ /+ AMs were pretreated with the SR blocker PI or the control polyanion CS or left untreated , and their binding of TiO2 was determined by flow cytometry .
+PMC2193067	false	fig-1	38	192	( C ) SR-/- and SR+ /+ AMs show similar binding of TiO2 in vivo as determined by intratracheal instillation of TiO2 followed by BAL and flow cytometric analysis .
+PMC2193067	false	fig-1	38	193	TiO2 binding is expressed as increase in flow cytometric RAS .
+PMC2193067	false	fig-1	38	194	The data represent the mean ( + /- SEM ) of three separate experiments ( B ) and three mice per treated group compared with one control ( C ) .
+PMC2193067	false	fig-1	38	195	* Significantly different from TiO2 alone , P < 0.006 .
+PMC2193067	false	fig-2	39	196	The mAb PAL-1 blocks AM binding of TiO2 .
+PMC2193067	false	fig-2	39	197	Hamster AMs were untreated or pretreated with PI , CS , mAb PAL-1 , and an isotype matched control mAb ( IgM ) , and their binding of TiO2 was determined by flow cytometry as described in Materials and Methods .
+PMC2193067	false	fig-2	39	198	TiO2 binding is expressed as increase in flow cytometric RAS .
+PMC2193067	false	fig-2	39	199	The data represent mean ( + /- SEM ) of 10 separate experiments .
+PMC2193067	false	fig-2	39	200	* Significantly different from TiO2 alone , P < 0.001 .
+PMC2193067	false	fig-1	40	201	mAb PAL-1 Inhibits AM Binding of a Panel of Unopsonized Particles
+PMC2193067	false	sec-23	41	202	Hamster AMs were left untreated or pretreated with mAb PAL-1 or an isotype matched control mAb and their binding of particles determined as described in Materials and Methods .
+PMC2193067	false	sec-23	41	203	Particle binding is expressed as percent inhibition of TiO2 ( n = 10 ) , Fe2O3 ( n = 2 ) , latex bead ( n = 2 ) , and SiO2 ( n = 3 ) binding by mAb PAL-1 .
+PMC2193067	false	sec-23	41	204	No significant inhibition of particle binding was observed with a control IgM ( range is from -18 to 7 % inhibition ) .
+PMC2193067	false	fig-3	42	205	Immunoprecipitation of the AM surface protein recognized by mAb PAL-1 .
+PMC2193067	false	fig-3	42	206	Hamster AMs were surface labeled with sulfo-NHS-biotin , extracted with Triton X-100 , precleared with anti-mouse IgM magnetic beads , and immunoprecipitated with mAb PAL-1 or a control IgM bound to anti-mouse magnetic beads .
+PMC2193067	false	fig-3	42	207	Immunoprecipitates were analyzed using reducing ( R ) or nonreducing ( NR ) SDS-PAGE as described in Materials and Methods .
+PMC2193067	false	fig-3	42	208	Relative molecular mass is indicated ( kD ) .
+PMC2193067	false	fig-4	43	209	Immunohistochemical detection of the molecule recognized by PAL-1 .
+PMC2193067	false	fig-4	43	210	( A ) Photomicrographs of cytospins of hamster BAL cells .
+PMC2193067	false	fig-4	43	211	Frozen sections of lung , liver , and lymph nodes were stained with mAb PAL-1 or an irrelevant control mAb .
+PMC2193067	false	fig-4	43	212	Original magnification : 400 for BAL cells , 200 for tissue sections .
+PMC2193067	false	fig-4	43	213	( B ) The expression of the molecule recognized by mAb PAL-1 was analyzed by flow cytometry .
+PMC2193067	false	fig-4	43	214	Single-cell suspensions prepared from the indicated organs ( CLN , cervical lymph node ; MLN , mesenteric lymph node ; PP , Peyer 's patch ; PMN , neutrophils ) or hamster BAL ( AM ) were incubated with either mAb PAL-1 or an isotype matched control mAb followed by goat anti-mouse IgM- FITC and analyzed by flow cytometry .
+PMC2193067	false	fig-4	43	215	The data are presented as relative fluorescence intensity ( mean channel number from flow cytometric analysis ) .
+PMC2193067	false	fig-4	43	216	White bar , control ; hatched bar , IgM ; black bar , PAL-1 .
+PMC2193067	false	fig-5	44	217	( A and B ) Transfection of COS cells with a cDNA clone ( isolated by an expression cloning strategy ) confers PAL-1 reactivity .
+PMC2193067	false	fig-5	44	218	COS cells were transfected with the isolated cDNA clone ( A ) or the empty vector ( B ) ; cytospins prepared 48 h later , and they were immunostained with mAb PAL-1 .
+PMC2193067	false	fig-5	44	219	Control IgM antibody showed no labeling ( not shown ) .
+PMC2193067	false	fig-5	44	220	( C ) Transfection of COS cells with MARCO cDNA ( for sequence identification ,                     mAb PAL-1 inhibitable TiO2 binding .
+PMC2193067	false	fig-5	44	221	COS cells , transfected with MARCO cDNA , were pretreated with mAb PAL-1 and a control mAb and their binding of TiO2 determined using a flow cytometric assay .
+PMC2193067	false	fig-5	44	222	The data represent mean ( + /- SEM ) RAS increase of five separate experiments .
+PMC2193067	false	fig-5	44	223	* Significantly different from TiO2 alone , P < 0.01 .
+PMC2193067	false	fig-6	45	224	( A ) Nucleotide and deduced protein sequences of hamster MARCO .
+PMC2193067	false	fig-6	45	225	Conserved cysteine residues in the SRCRs are boxed .
+PMC2193067	false	fig-6	45	226	Putative carbohydrate attachment sites are circled .
+PMC2193067	false	fig-6	45	227	The consensus polyadenylation signal is underlined .
+PMC2193067	false	fig-6	45	228	The start ATG is indicated with an arrow .
+PMC2193067	false	fig-6	45	229	A kink in the collagenous domain is indicated by dotted underline .
+PMC2193067	false	fig-6	45	230	( B ) Comparison of hamster , mouse , and human MARCO .
+PMC2193067	false	fig-6	45	231	Amino acids were aligned using the Align program ( GeneWorks package ; Intelligenetics ) .
+PMC2193067	false	fig-6	45	232	Regions of identity are boxed .
+PMC2193067	false	fig-6	45	233	These sequence data are available from GenBank/EMBL/DDBJ under accession number AF125191 .
+PMC2193067	false	fig-5	46	234	Amino Acid Identity between Hamster , Mouse , and Human MARCO
+PMC2193067	false	fig-4	47	235	Amino acid identity was determined by comparing the indicated putative domains with each other using the Align program in the Biology Workbench ( http://biology.ncsa.uiuc.edu ) .
+PMC2193067	false	fig-7	48	236	Effect of mAb PAL-1 on bacteria and yeast binding by AMs .
+PMC2193067	false	fig-7	48	237	Hamster AMs were left untreated or pretreated with PI , CS , mAb PAL-1 , and a control mAb ( IgM ) .
+PMC2193067	false	fig-7	48	238	Following pretreatment , AM binding of E. coli , S. aureus , and the yeast particle Saccharomyces cerevisiae ( Zymosan ) was determined by flow cytometry .
+PMC2193067	false	fig-7	48	239	The data represent mean ( + /- SEM ) green fluorescence of four separate experiments .
+PMC2193067	false	fig-7	48	240	* Significantly different from particle alone , P < 0.05 .
+PMC2193067	false	fig-8	49	241	( A-D ) Human AMs express MARCO .
+PMC2193067	false	fig-8	49	242	Immunostaining of normal volunteer BAL cytocentrifuge preparations ( A ) and surgical lung tissue specimens ( C ) showed strong labeling by a rabbit anti-human MARCO antibody ; control rabbit IgG showed only minimal nonspecific background staining ( B , D ) ( original magnification 400 ) .
+PMC2193067	false	fig-8	49	243	( E ) Lysates prepared from BAL cells collected from adult volunteers ( 2 and 5 similar results shown ) were analyzed by reducing SDS-PAGE and immunoblotted with a rabbit anti-human MARCO antibody or control rabbit IgG ( Ctrl ) .
+PMC2193067	false	fig-8	49	244	Relative molecular mass standards are indicated ( kD ) .
+PMC2193067	false	fig-7	50	245	We thank Dr. Scott Shepard and Marshall Katler for assistance in sequencing and Dr. G. Kraal for providing anti-mouse MARCO antibodies .
+PMC2193067	false	sec-23	51	246	alveolar macrophage
+PMC2193067	false	sec-20	52	247	chondroitin sulfate
+PMC2193067	false	sec-19	53	248	polyinosinic acid
+PMC2193067	false	sec-17	54	249	scavenger receptor
+PMC2193067	false	sec-16	55	250	scavenger receptor cysteine rich domain

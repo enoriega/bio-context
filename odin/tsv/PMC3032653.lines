@@ -1,0 +1,126 @@
+Paper ID	Is title?	Section ID	Passage ID	Line Num	Text
+PMC3032653	true	article-title	0	0	Spatially restricted activation of RhoA at epithelial junctions by p114RhoGEF drives junction formation and morphogenesis
+PMC3032653	false	abstract	1	1	Signalling by the GTPase RhoA , a key regulator of epithelial cell behaviour , can stimulate opposing processes : RhoA can promote junction formation and apical constriction , as well as reduced adhesion and cell spreading ,  .
+PMC3032653	false	abstract	1	2	Molecular mechanisms are thus required that ensure spatially restricted and process specific RhoA activation .
+PMC3032653	false	abstract	1	3	For many fundamental processes , including assembly of the epithelial junctional complex , such mechanisms are still unknown .
+PMC3032653	false	abstract	1	4	Here we show that p114RhoGEF is a junction associated protein that drives RhoA signalling at the junctional complex and regulates tight junction assembly and epithelial morphogenesis .
+PMC3032653	false	abstract	1	5	p114RhoGEF is required for RhoA activation at cell-cell junctions , and its depletion stimulates non junctional Rho signalling and induction of myosin phosphorylation along the basal domain .
+PMC3032653	false	abstract	1	6	Depletion of GEF-H1 , a RhoA activator inhibited by junctional recruitment , does not reduce junction associated RhoA activation .
+PMC3032653	false	abstract	1	7	p114RhoGEF associates with a complex containing myosin II , Rock II and the junctional adaptor cingulin , indicating that p114RhoGEF is a component of a junction associated Rho signalling module that drives spatially restricted activation of RhoA to regulate junction formation and epithelial morphogenesis .
+PMC3032653	false	S3	2	8	A construct containing the human p114RhoGEF cDNA sequence was kindly provided by T. Voyno-Yasenetskaya ( University of Illinois at Chicago , Chicago , Illinois , USA )  .
+PMC3032653	false	S3	2	9	The cDNA was used to generate VSV tagged constructs that were cloned into pCDNA4 and TO ( Invitrogen ) .
+PMC3032653	false	S3	2	10	The point mutation Y260 A was introduced with the Quickchange mutagenesis kit ( Stratagene ) and the primers 5 ' - CGCATAACCAAAGCCCCAGTGCTGGTGG-3 ' and 5 ' - CACCAGCACTGGGGCTTTGGTTATGCG -3 ' .
+PMC3032653	false	S3	2	11	For p114RhoGEF GST fusion proteins the sequences encoding the indicated domains were cloned into pGEX-4T-3 ( GE Lifesciences ) to generate GST-N-terminally-tagged fusion proteins .
+PMC3032653	false	S3	2	12	The tetracycline repressor was expressed with pcDNA6 and TR ( Invitrogen ) .
+PMC3032653	false	S3	2	13	The GEF-H1-VSV and myc-cingulin cDNAs were as described .
+PMC3032653	false	S3	2	14	For RNAi experiments cells were transfected with individual or pools of siGenome or On-Target plus siRNAs for p114RhoGEF ( ARHGEF18 ) , Cingulin ( CGNL1 ) and GEF-H1 ( ARHGEF2 ) as well as non targeting control siRNAs ( Thermo Scientific , Dharmacon ) .
+PMC3032653	false	S3	2	15	All experiments shown using GEF-H1 siRNAs were performed with the siGenome version as they were more effective than On-Target plus siRNAs .
+PMC3032653	false	S3	2	16	The sequences were 5 ' - GGACAAGCCUUCAGUGGUA-3 ' , 5 ' - CAACAUUGCUGGACAUUUC-3 ' , 5 ' - GAAUUAAGAUGGAGUUGCA-3 ' and 5 ' - GUGCGGAGCAGAUGUGUAA-3 ' .
+PMC3032653	false	S3	2	17	Sequences for individual p114RhoGEF siGenome siRNAs were 5 ' - UCAGGCGCUUGAAAGAUA-3 ' and 5 ' - GGACGCAACUCGGACCAAU-3 ' .
+PMC3032653	false	S3	2	18	For MDCK cells , the sequences 5 ' - AAGACCACGTCGGGACGCTTG-3 ' and 5 ' - AACTACGTCATCCAGAAAATC-3 ' were targeted using either siRNAs or by expressing shRNAs using a plasmid with a tetracycline regulated mouse U6 promoter .
+PMC3032653	false	S3	2	19	For cingulin , the sequences were 5 ' - GGACCAGGGUGAAGAUUUA-3 ' and 5 '- GGACACAGGAGGAGCUUAA-3 ' .
+PMC3032653	false	S3	2	20	For siRNA transfections , Interferin transfection reagent ( Polyplus-transfection Inc. ) was used according to the manufacturer 's instructions using a total final siRNA concentration of 40 nM .
+PMC3032653	false	S3	2	21	Caco-2 cells were transfected one day after plating , and HCE and MDCK cells 1 hour after seeding .
+PMC3032653	false	S3	2	22	Samples were collected and processed 3 - 4 days after transfection or , for the morphogenesis experiments , after 5 days .
+PMC3032653	false	S3	2	23	For DNA transfections 0.3 mug and ml plasmid DNA and JetPEI transfection reagent ( Polyplus-transfection Inc. ) were used according to the manufacturer 's instructions .
+PMC3032653	false	S3	2	24	Samples were collected and processed after 24 hours .
+PMC3032653	false	S4	3	25	Antibodies used were as follows : goat anti-p114 RhoGEF ( ARHGEF18 ) ( immunoblotting , 1 and 1000 ; immunofluorescence , 1:200 ) , Everest Biotech ; mouse anti-occludin ( 1 and 1000 ) , mouse anti-ZO-1 ( immunofluorescence , 1:1000 ) and rabbit anti-cingulin ( immunoblotting , 1 and 5000 ; immunofluorescence , 1:1000 ) , Invitrogen ; goat anti-beta-catenin ( immunofluorescence , 1:100 ) and rabbit anti-cingulin ( 1:1000 ) , Santa Cruz Biotech ; guinea pig anti-occludin ( immunofluorescence , 1:200 ) , Hycult Biotech ; rabbit anti-myosin IIA ( 1:1000 ) , anti-beta-catenin ( 1:1000 ) and alpha-catenin ( 1:1000 ) , Sigma-Aldrich ; mouse anti-E-cadherin ( immunoblotting , 1 and 1000 ; immunofluorescence , 1:500 ) , anti-p120catenin ( immunoblotting , 1 and 1000 ; immunofluorescence , 1:500 ) , anti-cofilin ( immunoblotting , 1 and 500 ) , anti-Rock II ( immunoblotting , 1 and 1000 ; immunofluorescence , 1:200 ) , BD Biosciences ; rabbit anti-MLC ( immunoblotting , 1 and 500 ; immunofluorescence , 1:200 ) , anti-ppMLC ( T18 , S19 ) ( immunoblotting , 1 and 500 ; immunofluorescence , 1:200 ) and phospholyated Cofilin ( immunoblotting , 1 and 500 ) , Cell signalling Technologies ; total ( immunoblotting , 1 and 5000 ) and phosphorylated ( T696 ) ( immunoblotting , 1 and 1000 ) myosin light chain phosphotase MYPT1 , Millipore .
+PMC3032653	false	S4	3	26	Antibodies against ZO-1 ( rabbit : immunoblotting , 1 and 1000 ; immunofluorescence , 1:500 ; note , this antibody crossreacts with a nuclear antigen in human cells . )
+PMC3032653	false	S4	3	27	, alpha-tubulin ( mouse : immunoblotting , 1 and 400 ) , GEF-H1 ( mouse : immunofluorescence , 1 and 10 ; rabbit : immunoblotting , 1 and 500 ) , VSV ( mouse : immunofluorescence , 1 and 10 ; immunoblotting , 1 and 20 ) and myc ( mouse : immunofluorescence , 1 and 100 ) epitpes were described previously  .
+PMC3032653	true	S5	4	28	Cell culture and cell lines
+PMC3032653	false	S5	5	29	Human adenocarcinoma colon cells ( Caco-2 )    and human corneal epithelial cells ( HCE ) , transformed with SV-40 T antigen , ( Gift from M.S. Chang , Vanderbilt University , Nashville , Tennessee , USA )    and Madin-Darby Canine Kidney cells ( MDCK ) were cultured in DMEM containing 10 % heat inactivated FBS ( 20 % FBS for Caco-2 ) with 100mug and ml streptomycin and 100mug and ml penicillin ( PAA cell culture ) at 37degreesC in a 5 % CO2 atmosphere .
+PMC3032653	false	S5	5	30	Stable MDCK cell lines were generated as described .
+PMC3032653	false	S5	5	31	The three dimensional cultures of MDCK cells were generated as previously  , and , for Caco-2 cells , a recently described method was used  .
+PMC3032653	true	S6	6	32	Calcium switch and permeability assays
+PMC3032653	false	S6	7	33	Caco-2 cells were cultured in six well plates for the siRNA transfections and , after 24 hours , were trypsinised and replated in low calcium medium containing dialysed FBS  .
+PMC3032653	false	S6	7	34	After another 24 hours , normal medium was added to induce junction formation .
+PMC3032653	false	S6	7	35	Samples were fixed at various time points for immunostaining .
+PMC3032653	false	S6	7	36	Transepithelial electrical resistance ( TER ) measurements were taken using an AC square wave current of + /- 20 muA at 12.5 Hz with a silver electrode and measuring the voltage deflection elicited with a silver and silver-chloride electrode using an EVOM ( World Precision Instruments , Sarasota , FL ) as previously described  .
+PMC3032653	false	S6	7	37	Paracellular permeability was determined using 4 kD FITC conjugated Dextran and 70 kD Rhodamine B conjugated dextran over a time of 3 hours   .
+PMC3032653	false	S6	7	38	Fluorescence was then determined with a FLUOstar OPTIMA microplate reader ( BMGLabTech , Offenburg , Germany ) .
+PMC3032653	false	S7	8	39	Cells were fixed in methanol or 3 % PFA as previously described   and stained with the appropriate fluorescent secondary antibodies conjugated to either FITC , Cy3 , Cy5 or AMCA ( 1:600 dilutions ; Jackson ImmunoResearch Inc. ) or incubated with FITC or TRITC conjugated Phalloidin ( Sigma ) or DNA stain Hoechst 33258 ( Invitrogen ) .
+PMC3032653	false	S7	8	40	Slides were observed under a Leica DMIRB fluorescent microscope , and Zeiss LSM 510 and 700 confocal laser scanning microscopes using 63x immersion oil lenses .
+PMC3032653	false	S7	8	41	Images were acquired using simple PCI and LSM510 and ZEN operating softwares , respectively .
+PMC3032653	false	S7	8	42	Image were adjusted for brightness and contrast with Adobe Photoshop .
+PMC3032653	false	S7	8	43	For FRET experiments , siRNA transfected cells were plated into ibid multi-well chamber slides and then transfected with pRaichu-RhoA ( kindly provided by M. Matsuda , Osaka University , Japan )  .
+PMC3032653	false	S7	8	44	The FRET analysis was performed at 37degreesC with a Leica SP2 microscope using the manufacturer 's software measuring donor recovery after acceptor bleaching ( YFP was bleached to 30 % ) .
+PMC3032653	false	S7	8	45	FRET efficiency maps were then produced with the Leica software .
+PMC3032653	false	S7	8	46	For quantification , CFP images were subtracted and then quantified with ImageJ .
+PMC3032653	false	S7	8	47	For each image , all cell-cell contacts were quantified and as many internal areas ; averages of all cell-cell contacts and all internal areas then gave one value each per image , and these values were used for the final statistical analysis .
+PMC3032653	false	S7	8	48	Normalisations were performed by dividing values obtained for specific fields by the values obtained for the entire field imaged .
+PMC3032653	true	S8	9	49	Immunoblotting , immunoprecipitations , GST pull downs , RhoGTPase activation assays
+PMC3032653	false	S8	10	50	Whole cell lysates were collected by washing twice with PBS before adding SDS-PAGE sample buffer and heating at 70degreesC for 10 minutes before homogenising with a 23G needle .
+PMC3032653	false	S8	10	51	Samples were processed using standard western blotting techniques .
+PMC3032653	false	S8	10	52	Protein bound antibodies were detected with horseradish peroxidase conjugated secondary antibodies using enhanced chemiluminescence detection system ( ECL , Amersham , Corp. .
+PMC3032653	false	S8	10	53	Arlington Heights , IL ) , or IRDye-680- and IRDye-800CW-conjugated secondary antibodies and an Odyssey detector ( LI-COR ) .
+PMC3032653	false	S8	10	54	For immunoprecipitations , Caco2 cells were extracted at 4degreesC with 10 mM Hepes ( pH 7.4 ) , containing 150 mM NaCl , 1 % Triton X-100 , 0.5 % sodium deoxycholate , 0.2 % SDS and a cocktail of protease and phosphotase inhibitors as previously described   .
+PMC3032653	false	S8	10	55	Extracts were pre-adsorbed with inactive sepharose beads for 15 minutes prior to incubation with antibodies conjugated to Protein G sepharose beads for 2 hours at 4degreesC .
+PMC3032653	false	S8	10	56	Samples were washed twice with 0.5 % Triton X-100 in PBS and once with PBS before adding SDS-PAGE sample buffer .
+PMC3032653	false	S8	10	57	For GST pull-down experiments with p114RhoGEF fusion proteins , cells were extracted with the same buffer at 4degreesC and preadsorbed with inactive beads as above for immunoprecipitations .
+PMC3032653	false	S8	10	58	Extracts were incubated with glutathione-agarose beads coated with 15 mug of fusion proteins and incubated for 2 hours at 4degreesC before washing as described for immunoprecipitations .
+PMC3032653	false	S8	10	59	For RhoGTPase activation assays , cells were transfected with the appropriate siRNAs in 12-well plates and , after 72 hours , protein was harvested and analysed for levels of active RhoA , Cdc42 and Rac1 using the respective G-LISA assay kits from Cytoskeleton Inc. .
+PMC3032653	false	S8	10	60	Protein concentrations were equilibrated before incubation with the coated 96-well plates and HRP conjugated secondary antibodies were used for detection .
+PMC3032653	false	S8	10	61	Samples of cell extracts were immunoblotted for the GTPases to exclude altered expression levels .
+PMC3032653	false	fig-1	11	62	p114RhoGEF is a TJ associated RhoA GEF that regulates junction formation and the actin cytoskeleton .
+PMC3032653	false	fig-1	11	63	( a ) Caco-2 and HCE cells transfected with non targeting ( Control ) or siRNAs directed against p114RhoGEF ( p114RG ) .
+PMC3032653	false	fig-1	11	64	Lysates were analysed by immunoblotting p114RhoGEF and alpha-tubulin .
+PMC3032653	false	fig-1	11	65	Uncropped images are shown          .
+PMC3032653	false	fig-1	11	66	( b - e ) HCE and Caco-2 cells were processed for immunofluorescence using antibodies against the proteins indicated .
+PMC3032653	false	fig-1	11	67	In c , cells were transfected with siRNAs targeting p114RhoGEF prior to immunofluorescence .
+PMC3032653	false	fig-1	11	68	Panels b and c are epifluorescence images whereas d and e are confocal xy and z line scans .
+PMC3032653	false	fig-1	11	69	( f ) Levels of active Rho GTPases in HCE cells were measured after transfection of either control or p114RhoGEF targeting siRNAs .
+PMC3032653	false	fig-1	11	70	Shown are averages + /- 1SD , n = 3 .
+PMC3032653	false	fig-1	11	71	( g , h ) Caco-2 and HCE cells were transfected with siRNAs ( for p114RhoGEF , a pool containing siRNA1 and 2 were used ) and then processed for immunofluorescence using antibodies against the indicated proteins ( g ) or fluorescent phalloidin to label f-actin ( h ) .
+PMC3032653	false	fig-1	11	72	For the columnar Caco-2 cells , two epifluorescence images are shown for the actin staining , one taken focusing on the apical region and one from the base of the cells .
+PMC3032653	false	fig-1	11	73	For the flat HCE cells , a single epifluorescence image is shown that includes lateral and basal actin staining .
+PMC3032653	false	fig-1	11	74	See           for other tight junction markers and experiments with individual siRNAs .
+PMC3032653	false	fig-1	11	75	Bars , 10 mum .
+PMC3032653	false	fig-2	12	76	p114RhoGEF regulates epithelial barrier formation .
+PMC3032653	false	fig-2	12	77	( a-c ) Caco-2 cells transfected with control or two different pools of p114RhoGEF specific siRNAs ( OnT refers to the On-Target pool ) were trypsinised and plated onto filters in low calcium media for 24 hours to prevent forming of cell-cell contacts .
+PMC3032653	false	fig-2	12	78	Expression of p114RhoGEF and other junctional proteins was assayed at the end of the experiment by immunoblotting ( a ) .
+PMC3032653	false	fig-2	12	79	Uncropped images are shown          .
+PMC3032653	false	fig-2	12	80	Normal calcium containing medium was added and cell contact formation was monitored during the next 48 hours by measuring transepithelial electrical resistance ( b , shown are averages + /- 1SD , n = 3 ) .
+PMC3032653	false	fig-2	12	81	Paracellular tracer permeability was then determined using fluorescently labelled dextrans ( c , shown are averages + /- 1SD , n = 3 ) .
+PMC3032653	false	fig-2	12	82	( d - h ) Cells transfected with siRNAs and plated in low calcium followed by incubations in normal calcium were processed for immunoblotting ( d , 24 hours of calcium , uncropped images are shown            or fixed at the indicated times and processed for immunofluorescence analysis using an epifluorescence microscope ( e , ZO-1 ; f , f-actin ; g , p114RhoGEF and myosin IIA ) .
+PMC3032653	false	fig-2	12	83	See           for additional junctional markers analysed .
+PMC3032653	false	fig-2	12	84	Focal planes for the epifluorescence images in panels f , g and h were chosen so that they include lateral and basal staining .
+PMC3032653	false	fig-2	12	85	Note , p114RhoGEF depleted cells , in contrast to GEF-H1 depleted , spread normally but did not assemble morphologically normal junctions .
+PMC3032653	false	fig-2	12	86	Bars , 10 mum .
+PMC3032653	false	fig-3	13	87	p114RhoGEF regulates epithelial morphogenesis in three-dimensional cultures .
+PMC3032653	false	fig-3	13	88	p114RhoGEF was depleted by transfecting siRNAs into Caco-2 cells ( a-c ) or by generating MDCK cells expressing shRNAs ( d-e ) .
+PMC3032653	false	fig-3	13	89	The cells were then cultured in three-dimensional gels .
+PMC3032653	false	fig-3	13	90	After 5 days , the cultures were analysed by phase contrast microscopy ( a , d ) and quantified by counting cysts with a single lumen or structures with a disorganised appearance and multiple lumens ( b , e ; averages + /- 1SD ; b , n = 3 ; e , n = 5 ) .
+PMC3032653	false	fig-3	13	91	The cultures were then fixed and processed for analysis by confocal microscopy using the indicated antibodies and fluorescent labels ( c , f ) .
+PMC3032653	false	fig-3	13	92	Bars , 30 mum ( a , d ) and 10 mum ( c , f ) .
+PMC3032653	false	fig-3	13	93	See            for immunoblot analysis of p114RhoGEF expression .
+PMC3032653	false	fig-4	14	94	p114RhoGEF regulates RhoA signalling at cell junctions .
+PMC3032653	false	fig-4	14	95	( a-b ) Cells were transfected with siRNAs and , after 2 days , with a RhoA FRET biosensor .
+PMC3032653	false	fig-4	14	96	RhoA activity was then imaged by gain of CFP fluorescence after acceptor bleaching .
+PMC3032653	false	fig-4	14	97	Shown are images of control , p114RhoGEF and GEF-H1 depleted cells taken from the apical part of the cells that contains the junctional complex ( a ; see          for basal sections ) .
+PMC3032653	false	fig-4	14	98	Images to monitor Rho activity during junction formation were taken between 1 and 2 hours after adding calcium ( Ca-Switch ) .
+PMC3032653	false	fig-4	14	99	Images were quantified by normalising FRET signals in specific regions ( cell-cell contacts or interior cytoplasm ) with the total FRET signal in the quantified fields ( b ; averages + /- 1SD ; n : Caco-2 , 30 for control and p114RhoGEF and 12 for GEF-H1 ; HCE , 20 for control , 14 for p114RhoGEF , 12 for GEF-H1 ; Ca-Switch , 10 ) .
+PMC3032653	false	fig-4	14	100	( c-d ) Caco-2 cells ( c ) and HCE cells ( d ) , transfected with the specified siRNAs , were processed for immunofluorescence as indicated and analysed by epifluorescence microscopy .
+PMC3032653	false	fig-4	14	101	For Caco-2 cells , images taken form the apical and the basal regions are shown whereas a single image is shown for HCE cells that includes lateral and basal staining .
+PMC3032653	false	fig-4	14	102	( e ) Levels of active RhoA were measured after tetracycline induced expression of p114RhoGEF-VSV , labelled as WT , or p114RhoGEFY260A-VSV , labelled as Y260A , in MDCK cells .
+PMC3032653	false	fig-4	14	103	Shown are averages + /- 1SD , n = 3 .
+PMC3032653	false	fig-4	14	104	( f ) HCE ells were transfected with the indicated constructs for p114RhoGEF and GEF-H1 expression and then processed for immunofluorescence and confocal microscopy .
+PMC3032653	false	fig-4	14	105	Shown are z line scans and xy sections .
+PMC3032653	false	fig-4	14	106	Note , the contracted appearance of cells expressing active p114RhoGEF .
+PMC3032653	false	fig-4	14	107	( g ) Images from samples as those in panel f for HCE cells and analogous samples generated with Caco-2 cells            were quantified by counting transfected cells with a rounded and contracted appearance and cells that remained normal and flat .
+PMC3032653	false	fig-4	14	108	Shown are averages + /- 1SD , n = 3 .
+PMC3032653	false	fig-4	14	109	( h ) HCE cells transfected as in panel f were stained for ZO-1 and beta-catenin , and imaged by epifluorescence microscopy ( the used antibody against ZO-1 crossreacts with a nuclear antigen in human cells ) .
+PMC3032653	false	fig-4	14	110	The overlay shows ZO-1 in green , beta-catenin in blue and VSV in red .
+PMC3032653	false	fig-4	14	111	Bars , 10 mum .
+PMC3032653	false	fig-5	15	112	114RhoGEF forms a complex with myosin II , cingulin and Rock II .
+PMC3032653	false	fig-5	15	113	( a ) p114RhoGEF was immuoprecipitated from cell extracts of normally cultured Caco-2 cells or cells kept in low calcium to prevent junction formation .
+PMC3032653	false	fig-5	15	114	Beads conjugated with a non related goat IgG were used as negative control .
+PMC3032653	false	fig-5	15	115	Coprecipitating proteins were analysed by immunoblotting as indicated .
+PMC3032653	false	fig-5	15	116	Uncropped images are shown          .
+PMC3032653	false	fig-5	15	117	( b ) GST fusion proteins containing different domains of p114RhoGEF were bound to beads and used for pull down experiments with Caco-2 cell extract .
+PMC3032653	false	fig-5	15	118	Pull downs were analysed by immunoblotting .
+PMC3032653	false	fig-5	15	119	( c ) Cells were transfected with control or cingulin targeting siRNAs and expression of the indicated proteins was analysed by immunoblotting .
+PMC3032653	false	fig-5	15	120	( d , e ) Caco-2 and HCE cells were transfected with siRNAs as in panel c and then fixed and processed for immunofluorescence to localise p114RhoGEF and junctional proteins .
+PMC3032653	false	fig-5	15	121	Shown are fields from depleted samples that still express some cingulin ( labelled with asterisks ) .
+PMC3032653	false	fig-5	15	122	( f ) HCE cells were transfected with siRNAs as indicated and then processed for immunofluorescence .
+PMC3032653	false	fig-5	15	123	All immunofluorescence images shown were acquired by epifluorescence microscopy and include lateral and basal structures .
+PMC3032653	false	fig-5	15	124	Bars , 10 mum .

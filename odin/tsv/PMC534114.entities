@@ -1,0 +1,769 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC534114	0	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	0	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	0	uniprot:P42348	PI-3K	Gene_or_gene_product
+PMC534114	0	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	1	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	1	uazid:UA-KB-FAM-00004	phosphatidylinositol-3 kinase	Gene_or_gene_product
+PMC534114	1	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	1	uniprot:UNRESOLVED ID	RTKs	Gene_or_gene_product
+PMC534114	2	interpro:IPR016245	EGF-receptor	Gene_or_gene_product
+PMC534114	2	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	2	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	2	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	2	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	3	uazid:UA-CT-100023	fibroblasts	CellType
+PMC534114	3	ncbitax:species:ncbi:10090	mouse	Species
+PMC534114	3	uazid:UA-CT-200003	embryos	Organ
+PMC534114	3	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	3	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	3	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	4	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	4	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	4	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	4	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	4	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	5	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	5	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	5	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	5	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	5	interpro:IPR016245	EGF-receptor	Gene_or_gene_product
+PMC534114	6	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	6	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	6	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	6	uniprot:UNRESOLVED ID	Gab1-/- MEFs	Gene_or_gene_product
+PMC534114	7	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	7	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	7	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	7	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	8	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	8	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	8	uniprot:UNRESOLVED ID	neuroregulin	Gene_or_gene_product
+PMC534114	8	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	8	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	8	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	9	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	9	uazid:UA-KB-FAM-00004	phosphatidylinositol-3 kinase	Gene_or_gene_product
+PMC534114	9	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	9	uniprot:UNRESOLVED ID	RTKs	Gene_or_gene_product
+PMC534114	10	interpro:IPR016245	EGF-receptor	Gene_or_gene_product
+PMC534114	10	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	10	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	10	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	10	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	11	uazid:UA-CT-100023	fibroblasts	CellType
+PMC534114	11	ncbitax:species:ncbi:10090	mouse	Species
+PMC534114	11	uazid:UA-CT-200003	embryos	Organ
+PMC534114	11	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	11	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	11	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	12	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	12	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	12	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	12	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	12	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	13	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	13	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	13	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	13	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	13	interpro:IPR016245	EGF-receptor	Gene_or_gene_product
+PMC534114	14	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	14	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	14	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	14	uniprot:UNRESOLVED ID	Gab1-/- MEFs	Gene_or_gene_product
+PMC534114	15	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	15	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	15	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	15	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	16	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	16	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	16	uniprot:UNRESOLVED ID	neuroregulin	Gene_or_gene_product
+PMC534114	16	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	16	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	16	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	17	uniprot:P01133	epidermal growth factor	Gene_or_gene_product
+PMC534114	17	uniprot:P00533	epidermal growth factor receptor	Gene_or_gene_product
+PMC534114	17	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	17	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC534114	17	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	17	uniprot:Q15303	ErbB4	Gene_or_gene_product
+PMC534114	18	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	18	uazid:UA-KB-FAM-00004	phosphatidylinositol-3 kinase	Gene_or_gene_product
+PMC534114	18	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	18	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	19	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	19	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	19	uniprot:UNRESOLVED ID	p110 subunit	Gene_or_gene_product
+PMC534114	20	uniprot:UNRESOLVED ID	PDGF	Gene_or_gene_product
+PMC534114	20	uazid:UA-CT-100033	platelet	Organ
+PMC534114	20	uniprot:UNRESOLVED ID	c-kit	Gene_or_gene_product
+PMC534114	20	uniprot:P41252	IRS	Gene_or_gene_product
+PMC534114	20	uniprot:P01308	insulin	Gene_or_gene_product
+PMC534114	20	uniprot:P06213	insulin receptor	Gene_or_gene_product
+PMC534114	20	uniprot:Q9Y4H2	IRS2	Gene_or_gene_product
+PMC534114	20	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	21	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	21	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	21	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	21	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	22	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	22	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	22	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	22	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	23	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	23	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	24	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	24	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	24	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	24	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	25	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	25	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	25	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	25	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC534114	26	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	26	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	26	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	27	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	27	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC534114	28	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	28	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC534114	28	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	28	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	29	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	29	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	29	uniprot:UNRESOLVED ID	Met-binding-domain	Gene_or_gene_product
+PMC534114	29	uniprot:UNRESOLVED ID	MBD	Gene_or_gene_product
+PMC534114	29	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC534114	30	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	30	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	30	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	30	uniprot:Q966Y3	JNK	Gene_or_gene_product
+PMC534114	30	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	30	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC534114	31	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	31	uniprot:Q02574	PIP3	Gene_or_gene_product
+PMC534114	31	uniprot:P08567	pleckstrin	Gene_or_gene_product
+PMC534114	31	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	31	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	32	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	32	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	32	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	32	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	32	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	33	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	33	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	33	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	33	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	33	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	34	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	34	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	34	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	35	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	35	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	35	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	35	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	35	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	36	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	36	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	36	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	36	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	37	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	37	uniprot:Q02574	PIP3	Gene_or_gene_product
+PMC534114	37	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC534114	37	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	37	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	37	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	39	uazid:UA-CT-100023	fibroblasts	CellType
+PMC534114	39	ncbitax:species:ncbi:10090	mouse	Species
+PMC534114	39	uazid:UA-CT-200003	embryos	Organ
+PMC534114	39	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	39	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	39	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	39	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	40	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	40	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	40	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	41	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	41	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	41	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	42	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	42	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	42	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	42	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	43	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	43	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	43	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	43	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	44	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	44	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	44	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	44	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	45	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	45	uazid:UA-CT-200003	embryos	Organ
+PMC534114	45	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	45	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	45	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	45	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	46	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	46	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	46	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	46	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	47	uniprot:Q13480	Gab1-/-	Gene_or_gene_product
+PMC534114	47	uazid:UA-CT-200003	embryos	Organ
+PMC534114	47	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	47	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	47	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	47	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	48	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	48	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	49	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	49	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	49	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	50	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	50	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	51	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	51	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	51	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	52	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	52	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	52	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	52	uniprot:UNRESOLVED ID	WT MEFs	Gene_or_gene_product
+PMC534114	53	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	55	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	56	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	57	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	57	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	58	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	58	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	58	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	59	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	59	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	59	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	60	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	60	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	61	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC534114	61	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	61	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	61	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	62	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	62	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	62	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	62	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	63	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	63	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	63	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	63	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	63	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	64	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	64	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	64	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	64	uniprot:UNRESOLVED ID	Y446F/Y472F/Y589F	Gene_or_gene_product
+PMC534114	64	uniprot:UNRESOLVED ID	Gab1F446/472/589	Gene_or_gene_product
+PMC534114	64	uniprot:O15553	MEF	Gene_or_gene_product
+PMC534114	65	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	65	uniprot:UNRESOLVED ID	Gab1F446/472/589 protein	Gene_or_gene_product
+PMC534114	65	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	66	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	66	uniprot:UNRESOLVED ID	Gab1F446/472/589	Gene_or_gene_product
+PMC534114	66	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	67	uniprot:UNRESOLVED ID	Gab1F446/472/589	Gene_or_gene_product
+PMC534114	67	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	67	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	68	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	68	uniprot:UNRESOLVED ID	anti-Gab1 antibodies	Gene_or_gene_product
+PMC534114	69	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	69	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	69	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	69	uniprot:UNRESOLVED ID	Gab1F446/472/589 mutant protein	Gene_or_gene_product
+PMC534114	69	uniprot:UNRESOLVED ID	Gab1F446/472/589 protein	Gene_or_gene_product
+PMC534114	70	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	70	uniprot:UNRESOLVED ID	anti-Gab1 antibodies	Gene_or_gene_product
+PMC534114	71	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	72	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	72	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	72	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	72	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	72	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	73	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	73	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	73	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	73	uniprot:UNRESOLVED ID	Gab1F446/472/589 mutant	Gene_or_gene_product
+PMC534114	74	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	74	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	74	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	74	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	75	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	75	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	75	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	75	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	76	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	76	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	77	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	77	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	77	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	78	uniprot:UNRESOLVED ID	Gab1F446/472/589	Gene_or_gene_product
+PMC534114	78	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	78	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	79	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	79	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	79	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	79	uniprot:UNRESOLVED ID	Gab1F446/472/589	Gene_or_gene_product
+PMC534114	79	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	80	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	80	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	80	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	80	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	81	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	81	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	81	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	81	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	81	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	82	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	82	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	82	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	82	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	83	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	83	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	83	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	83	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	84	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	84	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	84	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	84	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	84	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	85	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	85	uniprot:UNRESOLVED ID	anti-Gab1 antibodies	Gene_or_gene_product
+PMC534114	86	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC534114	86	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	86	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	86	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	86	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	87	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	87	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	87	uniprot:UNRESOLVED ID	Gab1F446/472/589	Gene_or_gene_product
+PMC534114	87	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	88	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	88	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	88	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	88	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	88	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	89	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	89	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	89	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	90	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	90	uniprot:UNRESOLVED ID	Gab1F627	Gene_or_gene_product
+PMC534114	90	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	90	uniprot:UNRESOLVED ID	Gab1F446/472/589	Gene_or_gene_product
+PMC534114	91	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	91	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	92	uniprot:UNRESOLVED ID	top panel	Gene_or_gene_product
+PMC534114	92	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	92	uniprot:UNRESOLVED ID	Gab1F627/659 protein	Gene_or_gene_product
+PMC534114	92	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	93	uniprot:UNRESOLVED ID	Gab1F627	Gene_or_gene_product
+PMC534114	93	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	94	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	94	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	94	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	95	uniprot:UNRESOLVED ID	Gab1F446/472/589	Gene_or_gene_product
+PMC534114	95	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	95	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	96	uniprot:UNRESOLVED ID	anti-Gab1 antibodies	Gene_or_gene_product
+PMC534114	96	uniprot:UNRESOLVED ID	anti-Shp2 antibodies	Gene_or_gene_product
+PMC534114	96	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	96	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	96	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	96	uniprot:UNRESOLVED ID	Gab1F627/659 mutant proteins	Gene_or_gene_product
+PMC534114	96	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC534114	97	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	97	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	97	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	97	uniprot:UNRESOLVED ID	Gab1F627	Gene_or_gene_product
+PMC534114	98	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	98	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	98	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	99	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC534114	99	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	99	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	100	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	100	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	100	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	101	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	102	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	102	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	102	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	102	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	102	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	102	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	103	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	103	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	103	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	103	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	103	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	104	uniprot:UNRESOLVED ID	Gab1F627	Gene_or_gene_product
+PMC534114	104	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	104	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	104	uniprot:Q02574	PIP3	Gene_or_gene_product
+PMC534114	105	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	105	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	105	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	105	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	106	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	107	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	107	uniprot:UNRESOLVED ID	Gab1F627	Gene_or_gene_product
+PMC534114	107	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	107	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	108	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	108	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	108	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	109	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	109	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	109	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	109	uniprot:UNRESOLVED ID	P-Ser473 Akt antibodies	Gene_or_gene_product
+PMC534114	110	uniprot:UNRESOLVED ID	Gab1F627	Gene_or_gene_product
+PMC534114	110	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	110	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	111	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	111	uniprot:UNRESOLVED ID	Gab1F446/472/589	Gene_or_gene_product
+PMC534114	111	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	111	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	111	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	111	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	112	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	112	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	112	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	112	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	112	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	113	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	113	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	113	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	114	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	114	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	114	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	115	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	115	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	115	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	115	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	115	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	116	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	116	uniprot:UNRESOLVED ID	ErbB3 receptor	Gene_or_gene_product
+PMC534114	116	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	116	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	116	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	116	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	117	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	117	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	117	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	118	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	118	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	118	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	118	uniprot:UNRESOLVED ID	ErbB3 receptor	Gene_or_gene_product
+PMC534114	118	uniprot:P20241	NRG	Gene_or_gene_product
+PMC534114	119	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC534114	119	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	119	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	119	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	120	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	120	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	121	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	121	uniprot:P20241	NRG	Gene_or_gene_product
+PMC534114	122	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	122	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	123	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	123	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	123	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	124	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	124	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	124	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	125	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	125	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	125	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	125	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	125	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	126	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	127	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	127	uniprot:Q02574	PIP3	Gene_or_gene_product
+PMC534114	128	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	128	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	128	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	129	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	129	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	129	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	129	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	130	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	130	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	130	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	131	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	131	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	131	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	131	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	132	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	133	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	133	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	133	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	133	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	134	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	135	uniprot:P54644	AKT	Gene_or_gene_product
+PMC534114	135	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	135	uniprot:P20241	NRG	Gene_or_gene_product
+PMC534114	135	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC534114	135	uniprot:Q15303	ErbB4	Gene_or_gene_product
+PMC534114	137	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	137	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	137	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	137	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	137	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	138	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	138	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	138	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	138	uniprot:P20241	NRG	Gene_or_gene_product
+PMC534114	139	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	139	uniprot:P20241	NRG	Gene_or_gene_product
+PMC534114	139	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	139	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	139	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	140	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	140	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	140	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	140	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	141	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	141	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	141	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	141	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	141	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	142	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	142	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	142	uniprot:UNRESOLVED ID	EGFR-Gab1	Gene_or_gene_product
+PMC534114	143	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	143	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	143	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	143	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	143	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	144	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	144	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	144	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	144	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	144	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	144	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	145	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	145	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	145	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	146	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	146	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	147	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	147	uniprot:UNRESOLVED ID	Gab1Deltap85	Gene_or_gene_product
+PMC534114	147	uniprot:UNRESOLVED ID	Y446F/Y472F/Y589F	Gene_or_gene_product
+PMC534114	148	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	148	uniprot:UNRESOLVED ID	pcDNA3-Gab1-WT	Gene_or_gene_product
+PMC534114	148	uniprot:UNRESOLVED ID	Gab1F446/472/589	Gene_or_gene_product
+PMC534114	148	uniprot:UNRESOLVED ID	pcDNA3-Gab1-3YF	Gene_or_gene_product
+PMC534114	148	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	148	uniprot:UNRESOLVED ID	pcDNA3-ErbB3	Gene_or_gene_product
+PMC534114	149	uniprot:UNRESOLVED ID	Gab1F627	Gene_or_gene_product
+PMC534114	149	uniprot:UNRESOLVED ID	Gab1F446/472/589	Gene_or_gene_product
+PMC534114	149	uniprot:UNRESOLVED ID	pBabe-Gab1-WT	Gene_or_gene_product
+PMC534114	149	uniprot:UNRESOLVED ID	pBabe-Gab1F446	Gene_or_gene_product
+PMC534114	151	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	151	uazid:UA-CT-100028	mouse embryonic fibroblasts	CellType
+PMC534114	152	uniprot:UNRESOLVED ID	Gab1-/- MEFs	Gene_or_gene_product
+PMC534114	152	uniprot:UNRESOLVED ID	serum	CellType
+PMC534114	153	uniprot:UNRESOLVED ID	pBabe-Gab1	Gene_or_gene_product
+PMC534114	153	uniprot:UNRESOLVED ID	pBabe-Gab1-Gab1F446	Gene_or_gene_product
+PMC534114	153	uniprot:UNRESOLVED ID	pBabe-ErbB3	Gene_or_gene_product
+PMC534114	153	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	155	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	156	uniprot:UNRESOLVED ID	serum	CellType
+PMC534114	157	ncbitax:species:ncbi:9606	human	Species
+PMC534114	157	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	160	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	160	uniprot:P02810	Protein A	Gene_or_gene_product
+PMC534114	161	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	162	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	163	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	164	uniprot:P02810	Protein A	Gene_or_gene_product
+PMC534114	165	uniprot:P20132	SDS	Gene_or_gene_product
+PMC534114	166	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	166	uniprot:P20132	SDS	Gene_or_gene_product
+PMC534114	169	uniprot:UNRESOLVED ID	Anti-Gab1	Gene_or_gene_product
+PMC534114	169	uniprot:UNRESOLVED ID	anti-EGFR	Gene_or_gene_product
+PMC534114	169	uniprot:UNRESOLVED ID	anti-ErbB3	Gene_or_gene_product
+PMC534114	170	uniprot:UNRESOLVED ID	Anti-Shp2	Gene_or_gene_product
+PMC534114	170	uniprot:UNRESOLVED ID	Santa Cruz	Gene_or_gene_product
+PMC534114	173	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	174	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	175	uniprot:UNRESOLVED ID	serum	CellType
+PMC534114	175	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	176	uniprot:UNRESOLVED ID	anti-Gab1 polyclonal antibodies	Gene_or_gene_product
+PMC534114	176	uniprot:UNRESOLVED ID	monoclonal anti-phosphotyrosine antibody PY20	Gene_or_gene_product
+PMC534114	176	uniprot:UNRESOLVED ID	Santa Cruz	Gene_or_gene_product
+PMC534114	177	uniprot:P02810	Protein A	Gene_or_gene_product
+PMC534114	178	uniprot:UNRESOLVED ID	Buffer 1	Gene_or_gene_product
+PMC534114	178	uniprot:UNRESOLVED ID	1X PBS	Gene_or_gene_product
+PMC534114	178	uniprot:UNRESOLVED ID	Buffer 2	Gene_or_gene_product
+PMC534114	178	uniprot:UNRESOLVED ID	0.5 M LiCl	Gene_or_gene_product
+PMC534114	178	uniprot:UNRESOLVED ID	Tris pH	Gene_or_gene_product
+PMC534114	178	uniprot:UNRESOLVED ID	TNE	Gene_or_gene_product
+PMC534114	178	uniprot:P01298	pH	Gene_or_gene_product
+PMC534114	179	uniprot:P01298	pH	Gene_or_gene_product
+PMC534114	179	uniprot:UNRESOLVED ID	Tris pH	Gene_or_gene_product
+PMC534114	183	uniprot:P31025	TLC	Gene_or_gene_product
+PMC534114	183	uniprot:UNRESOLVED ID	CHCl3/CH3OH/NH4OH	Gene_or_gene_product
+PMC534114	183	uniprot:UNRESOLVED ID	H2O	Gene_or_gene_product
+PMC534114	184	uniprot:P31025	TLC	Gene_or_gene_product
+PMC534114	186	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	187	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	192	uniprot:Q13480	Gab1-/-	Gene_or_gene_product
+PMC534114	193	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	193	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	193	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	193	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	195	uniprot:UNRESOLVED ID	serum	CellType
+PMC534114	195	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	196	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	197	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	197	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	199	uniprot:UNRESOLVED ID	serum	CellType
+PMC534114	199	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	200	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	201	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	201	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	201	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	203	uniprot:UNRESOLVED ID	serum	CellType
+PMC534114	203	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	204	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	205	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	206	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	206	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	206	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	207	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	207	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	207	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	207	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	207	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	209	uniprot:UNRESOLVED ID	serum	CellType
+PMC534114	209	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	210	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	210	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	210	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	211	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	211	uniprot:UNRESOLVED ID	Gab1F446/472/589	Gene_or_gene_product
+PMC534114	211	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	211	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	212	uniprot:UNRESOLVED ID	Gab1F446/472/589	Gene_or_gene_product
+PMC534114	212	uniprot:O43439	p85	Gene_or_gene_product
+PMC534114	212	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	213	uniprot:UNRESOLVED ID	anti-Gab1 antibodies	Gene_or_gene_product
+PMC534114	213	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	215	uniprot:UNRESOLVED ID	serum	CellType
+PMC534114	215	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	216	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	217	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	217	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	218	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	219	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	221	uniprot:UNRESOLVED ID	serum	CellType
+PMC534114	221	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	222	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	222	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	223	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	223	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	223	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	223	uniprot:UNRESOLVED ID	Gab1F446/472/589	Gene_or_gene_product
+PMC534114	225	uniprot:UNRESOLVED ID	serum	CellType
+PMC534114	225	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	226	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	227	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	228	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	228	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	228	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	228	uniprot:UNRESOLVED ID	Gab1F446/472/589	Gene_or_gene_product
+PMC534114	229	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	229	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	229	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	229	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	229	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	231	uniprot:UNRESOLVED ID	serum	CellType
+PMC534114	231	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	232	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	232	uniprot:UNRESOLVED ID	Gab1-Shp2	Gene_or_gene_product
+PMC534114	233	uniprot:UNRESOLVED ID	Gab1F627	Gene_or_gene_product
+PMC534114	233	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	233	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	233	uniprot:UNRESOLVED ID	Gab1F446/472/589	Gene_or_gene_product
+PMC534114	234	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	234	uniprot:Q06124	Shp2	Gene_or_gene_product
+PMC534114	234	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	234	uniprot:UNRESOLVED ID	Gab1F627	Gene_or_gene_product
+PMC534114	234	uniprot:UNRESOLVED ID	Gab1F446/472/589	Gene_or_gene_product
+PMC534114	236	uniprot:UNRESOLVED ID	serum	CellType
+PMC534114	236	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	237	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	238	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	238	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	239	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	240	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	242	uniprot:UNRESOLVED ID	serum	CellType
+PMC534114	242	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	243	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	243	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	244	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	244	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	245	uniprot:UNRESOLVED ID	Gab1F446/472/589	Gene_or_gene_product
+PMC534114	245	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	245	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	245	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	247	uniprot:UNRESOLVED ID	serum	CellType
+PMC534114	247	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	248	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	249	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	250	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	250	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	251	uniprot:UNRESOLVED ID	Gab1F446/472/589	Gene_or_gene_product
+PMC534114	251	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	251	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	251	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	252	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	252	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	252	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	252	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	252	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	254	uniprot:UNRESOLVED ID	serum	CellType
+PMC534114	254	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	255	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	255	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	256	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	257	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC534114	257	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	258	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	258	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	261	uniprot:UNRESOLVED ID	serum	CellType
+PMC534114	261	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	262	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	263	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	263	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	263	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	265	uniprot:UNRESOLVED ID	serum	CellType
+PMC534114	265	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	266	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	267	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	267	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	267	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	268	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	268	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	268	uniprot:P19957	PI-3	Gene_or_gene_product
+PMC534114	268	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	270	uniprot:UNRESOLVED ID	serum	CellType
+PMC534114	270	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	271	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	272	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	273	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	273	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	273	uniprot:P01133	EGF	Gene_or_gene_product
+PMC534114	273	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	275	uniprot:UNRESOLVED ID	serum	CellType
+PMC534114	276	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	277	uniprot:P54644	Akt	Gene_or_gene_product
+PMC534114	278	uniprot:Q13480	Gab1	Gene_or_gene_product
+PMC534114	278	uniprot:P21860	ErbB3	Gene_or_gene_product
+PMC534114	278	uniprot:P20241	NRG	Gene_or_gene_product
+PMC534114	278	uniprot:P54644	Akt	Gene_or_gene_product

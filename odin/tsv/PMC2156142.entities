@@ -1,0 +1,368 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2156142	0	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	1	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	1	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	1	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	2	ncbitax:species:ncbi:4932	yeast	Species
+PMC2156142	3	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	4	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2156142	5	ncbitax:species:ncbi:4932	yeast	Species
+PMC2156142	5	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	7	uazid:UA-ORG-382	head	Organ
+PMC2156142	7	uniprot:Q6P988	notum	Gene_or_gene_product
+PMC2156142	7	uniprot:UNRESOLVED ID	scutellum	CellType
+PMC2156142	7	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	8	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	9	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	11	uniprot:UNRESOLVED ID	wrtER1	Gene_or_gene_product
+PMC2156142	11	uniprot:UNRESOLVED ID	wrtAM4	Gene_or_gene_product
+PMC2156142	11	uniprot:UNRESOLVED ID	wrtAS1	Gene_or_gene_product
+PMC2156142	11	uniprot:UNRESOLVED ID	AM4	Gene_or_gene_product
+PMC2156142	11	uniprot:Q8N108	ER1	Gene_or_gene_product
+PMC2156142	11	uniprot:P34737	AS1	Gene_or_gene_product
+PMC2156142	12	uniprot:UNRESOLVED ID	wrtMEF allele	Gene_or_gene_product
+PMC2156142	12	uniprot:UNRESOLVED ID	2R	Gene_or_gene_product
+PMC2156142	13	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	14	uniprot:UNRESOLVED ID	P2352 allele	Gene_or_gene_product
+PMC2156142	14	uniprot:UNRESOLVED ID	P2352	Gene_or_gene_product
+PMC2156142	14	uniprot:D4GUZ4	CyO	Gene_or_gene_product
+PMC2156142	14	uniprot:UNRESOLVED ID	ry- virgins	Gene_or_gene_product
+PMC2156142	15	uniprot:UNRESOLVED ID	P2352	Gene_or_gene_product
+PMC2156142	15	uniprot:UNRESOLVED ID	P2352 stock	Gene_or_gene_product
+PMC2156142	18	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	18	uniprot:UNRESOLVED ID	P2352 allele	Gene_or_gene_product
+PMC2156142	18	N/A	wrt screen alleles	Gene_or_gene_product
+PMC2156142	18	uniprot:UNRESOLVED ID	D17B	Gene_or_gene_product
+PMC2156142	18	uniprot:UNRESOLVED ID	D39B	Gene_or_gene_product
+PMC2156142	18	uniprot:UNRESOLVED ID	D40B	Gene_or_gene_product
+PMC2156142	18	uniprot:UNRESOLVED ID	wrtAM4	Gene_or_gene_product
+PMC2156142	18	uniprot:UNRESOLVED ID	wrtER1	Gene_or_gene_product
+PMC2156142	18	uniprot:UNRESOLVED ID	wrtAS1	Gene_or_gene_product
+PMC2156142	18	uniprot:UNRESOLVED ID	wrtMEF	Gene_or_gene_product
+PMC2156142	18	uniprot:UNRESOLVED ID	P2352	Gene_or_gene_product
+PMC2156142	18	uniprot:UNRESOLVED ID	D2B	Gene_or_gene_product
+PMC2156142	19	uniprot:UNRESOLVED ID	P2352 allele	Gene_or_gene_product
+PMC2156142	19	uniprot:UNRESOLVED ID	D1B	Gene_or_gene_product
+PMC2156142	19	uniprot:UNRESOLVED ID	D6B	Gene_or_gene_product
+PMC2156142	19	uniprot:UNRESOLVED ID	D28B	Gene_or_gene_product
+PMC2156142	19	uniprot:UNRESOLVED ID	D31B	Gene_or_gene_product
+PMC2156142	20	uniprot:UNRESOLVED ID	P2352	Gene_or_gene_product
+PMC2156142	21	uniprot:UNRESOLVED ID	wrtP2352	Gene_or_gene_product
+PMC2156142	21	uniprot:UNRESOLVED ID	wrtER1	Gene_or_gene_product
+PMC2156142	21	uniprot:UNRESOLVED ID	wrtAS1	Gene_or_gene_product
+PMC2156142	21	uniprot:UNRESOLVED ID	wrtD17B	Gene_or_gene_product
+PMC2156142	21	uniprot:UNRESOLVED ID	36F	Gene_or_gene_product
+PMC2156142	21	uniprot:UNRESOLVED ID	hs-neo	Gene_or_gene_product
+PMC2156142	21	uniprot:P17948	FRT	Gene_or_gene_product
+PMC2156142	22	uniprot:UNRESOLVED ID	flipase stocks 40y+F	Gene_or_gene_product
+PMC2156142	22	uniprot:UNRESOLVED ID	phs-FLP	Gene_or_gene_product
+PMC2156142	22	uniprot:UNRESOLVED ID	hs-neo	Gene_or_gene_product
+PMC2156142	22	uniprot:P17948	FRT	Gene_or_gene_product
+PMC2156142	22	uniprot:UNRESOLVED ID	40-2pM F	Gene_or_gene_product
+PMC2156142	22	uniprot:UNRESOLVED ID	w phs-FLP	Gene_or_gene_product
+PMC2156142	22	uniprot:UNRESOLVED ID	hs-pM]21C	Gene_or_gene_product
+PMC2156142	22	uniprot:UNRESOLVED ID	36F	Gene_or_gene_product
+PMC2156142	23	uniprot:UNRESOLVED ID	phs-FLP/+	Gene_or_gene_product
+PMC2156142	25	uniprot:P14222	P1	Gene_or_gene_product
+PMC2156142	25	uniprot:P08842	STS	Gene_or_gene_product
+PMC2156142	26	uniprot:UNRESOLVED ID	ctc gct ccg ctc cgc tct cac c	Gene_or_gene_product
+PMC2156142	26	uniprot:UNRESOLVED ID	D: gat tcc cgct ctg gtc aca cac aac]	Gene_or_gene_product
+PMC2156142	26	uniprot:P14222	P1	Gene_or_gene_product
+PMC2156142	27	uniprot:P14222	P1	Gene_or_gene_product
+PMC2156142	28	uniprot:P14222	P1	Gene_or_gene_product
+PMC2156142	31	uniprot:UNRESOLVED ID	imaginal disc	CellType
+PMC2156142	31	uniprot:UNRESOLVED ID	T. Xu and G. Rubin	Gene_or_gene_product
+PMC2156142	32	uniprot:Q9GZY6	Lab	Gene_or_gene_product
+PMC2156142	34	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	34	uniprot:UNRESOLVED ID	EcoRI	Gene_or_gene_product
+PMC2156142	34	uniprot:UNRESOLVED ID	BamHI	Gene_or_gene_product
+PMC2156142	35	uniprot:P14222	P1	Gene_or_gene_product
+PMC2156142	36	uniprot:UNRESOLVED ID	SacII	Gene_or_gene_product
+PMC2156142	36	uniprot:P00995	PstI	Gene_or_gene_product
+PMC2156142	36	uniprot:Q39528	ClaI	Gene_or_gene_product
+PMC2156142	37	uniprot:UNRESOLVED ID	D17B	Gene_or_gene_product
+PMC2156142	37	uniprot:UNRESOLVED ID	D40B	Gene_or_gene_product
+PMC2156142	40	uniprot:UNRESOLVED ID	wrtAM4	Gene_or_gene_product
+PMC2156142	40	uniprot:UNRESOLVED ID	wrtMEF	Gene_or_gene_product
+PMC2156142	40	uniprot:UNRESOLVED ID	wrtAS1	Gene_or_gene_product
+PMC2156142	40	uniprot:P00746	Df	Gene_or_gene_product
+PMC2156142	40	uniprot:UNRESOLVED ID	wrtER1	Gene_or_gene_product
+PMC2156142	40	uniprot:UNRESOLVED ID	CS-T7-2	Gene_or_gene_product
+PMC2156142	40	uniprot:P04040	cat	Species
+PMC2156142	40	uniprot:UNRESOLVED ID	CS-T3-7	Gene_or_gene_product
+PMC2156142	40	uniprot:Q2F7J2	gag	Species
+PMC2156142	40	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	43	uniprot:D4GUZ4	CyO	Gene_or_gene_product
+PMC2156142	43	uniprot:A3M3H0	ata	Species
+PMC2156142	43	uniprot:Q2F7J2	gag	Species
+PMC2156142	48	uniprot:UNRESOLVED ID	4.5-kb EcoRI-EcoRI fragment	Gene_or_gene_product
+PMC2156142	48	uniprot:UNRESOLVED ID	9B4	Gene_or_gene_product
+PMC2156142	48	uniprot:UNRESOLVED ID	EcoRI-XhOI fragment	Gene_or_gene_product
+PMC2156142	48	uniprot:UNRESOLVED ID	RX11	Gene_or_gene_product
+PMC2156142	48	uniprot:P14222	P1	Gene_or_gene_product
+PMC2156142	49	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	49	uniprot:Q52982	Phae1	Gene_or_gene_product
+PMC2156142	49	uniprot:UNRESOLVED ID	Phae2	Gene_or_gene_product
+PMC2156142	50	uniprot:UNRESOLVED ID	P1 DS	Gene_or_gene_product
+PMC2156142	51	uniprot:UNRESOLVED ID	9-6 construct	Gene_or_gene_product
+PMC2156142	51	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	52	uniprot:UNRESOLVED ID	X-X5 construct	Gene_or_gene_product
+PMC2156142	52	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	52	uniprot:Q96JE9	STOP	Gene_or_gene_product
+PMC2156142	52	uniprot:O43772	CAC	Gene_or_gene_product
+PMC2156142	53	uniprot:UNRESOLVED ID	SacII-RI construct	Gene_or_gene_product
+PMC2156142	53	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	53	uniprot:UNRESOLVED ID	RX11 construct	Gene_or_gene_product
+PMC2156142	55	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	56	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	57	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	57	uniprot:UNRESOLVED ID	AM4 allele	Gene_or_gene_product
+PMC2156142	58	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	59	uniprot:Q2F7J2	gag	Species
+PMC2156142	59	uniprot:UNRESOLVED ID	Q71L-AS	Gene_or_gene_product
+PMC2156142	59	uniprot:Q2F7J2	GAG	Species
+PMC2156142	60	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	62	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	64	uazid:UA-ORG-248	epidermis	Organ
+PMC2156142	64	uniprot:UNRESOLVED ID	cuticulin	Gene_or_gene_product
+PMC2156142	70	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	70	uniprot:UNRESOLVED ID	wrtAM4	Gene_or_gene_product
+PMC2156142	70	uniprot:UNRESOLVED ID	wrtER1	Gene_or_gene_product
+PMC2156142	70	uniprot:UNRESOLVED ID	wrtAS1	Gene_or_gene_product
+PMC2156142	70	uniprot:UNRESOLVED ID	wrtBU1	Gene_or_gene_product
+PMC2156142	70	uniprot:UNRESOLVED ID	wrtBN7	Gene_or_gene_product
+PMC2156142	71	uniprot:Q6P988	notum	Gene_or_gene_product
+PMC2156142	71	uniprot:UNRESOLVED ID	scutellum	CellType
+PMC2156142	71	uniprot:UNRESOLVED ID	wing	CellType
+PMC2156142	72	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	75	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	76	uniprot:UNRESOLVED ID	wrt locus	Gene_or_gene_product
+PMC2156142	78	uniprot:UNRESOLVED ID	P2352	Gene_or_gene_product
+PMC2156142	80	uniprot:UNRESOLVED ID	Patsas	Gene_or_gene_product
+PMC2156142	80	uniprot:UNRESOLVED ID	GenBank number AF163011	Gene_or_gene_product
+PMC2156142	80	uniprot:UNRESOLVED ID	ankyrin-like repeats	Gene_or_gene_product
+PMC2156142	80	ncbitax:species:ncbi:10090	mouse	Species
+PMC2156142	80	ncbitax:species:ncbi:9606	human	Species
+PMC2156142	80	uniprot:UNRESOLVED ID	BAA7679.1	Gene_or_gene_product
+PMC2156142	81	uniprot:A2RTX5	threonyl-tRNA synthetase	Gene_or_gene_product
+PMC2156142	81	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	82	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	83	uniprot:UNRESOLVED ID	Phaedra1	Gene_or_gene_product
+PMC2156142	83	uniprot:Q52982	Phae1	Gene_or_gene_product
+PMC2156142	83	uniprot:UNRESOLVED ID	Phaedra2	Gene_or_gene_product
+PMC2156142	83	uniprot:UNRESOLVED ID	Phae2	Gene_or_gene_product
+PMC2156142	83	uniprot:UNRESOLVED ID	kallikrein family	Gene_or_gene_product
+PMC2156142	83	uniprot:UNRESOLVED ID	Drosophila trypsin proteins	Gene_or_gene_product
+PMC2156142	83	uniprot:UNRESOLVED ID	mammalian NGF-g subunit	Gene_or_gene_product
+PMC2156142	83	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2156142	85	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	85	uniprot:UNRESOLVED ID	wrtAM4	Gene_or_gene_product
+PMC2156142	85	uniprot:UNRESOLVED ID	wrtMEF	Gene_or_gene_product
+PMC2156142	85	uniprot:UNRESOLVED ID	wrtER1	Gene_or_gene_product
+PMC2156142	85	uniprot:UNRESOLVED ID	wrtAS1	Gene_or_gene_product
+PMC2156142	86	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	87	uniprot:UNRESOLVED ID	imaginal disc	CellType
+PMC2156142	89	uazid:UA-ORG-81	base pair	Organ
+PMC2156142	90	ncbitax:species:ncbi:9606	human	Species
+PMC2156142	90	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	90	ncbitax:species:ncbi:4932	yeast	Species
+PMC2156142	90	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	91	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2156142	92	uniprot:UNRESOLVED ID	wrt gene	Gene_or_gene_product
+PMC2156142	92	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	94	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	95	uniprot:UNRESOLVED ID	eAS1	Gene_or_gene_product
+PMC2156142	95	uniprot:Q38845	eER1	Gene_or_gene_product
+PMC2156142	95	uniprot:UNRESOLVED ID	eAM4	Gene_or_gene_product
+PMC2156142	96	uazid:UA-ORG-81	base pair	Organ
+PMC2156142	100	uniprot:UNRESOLVED ID	wrtMEF	Gene_or_gene_product
+PMC2156142	101	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	102	uniprot:UNRESOLVED ID	P2352 allele	Gene_or_gene_product
+PMC2156142	102	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	103	uniprot:UNRESOLVED ID	P2352 allele	Gene_or_gene_product
+PMC2156142	105	uniprot:UNRESOLVED ID	P2352	Gene_or_gene_product
+PMC2156142	106	uniprot:UNRESOLVED ID	P2352 allele	Gene_or_gene_product
+PMC2156142	107	uniprot:UNRESOLVED ID	P2352 allele	Gene_or_gene_product
+PMC2156142	108	uniprot:UNRESOLVED ID	P2352	Gene_or_gene_product
+PMC2156142	109	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	110	uniprot:UNRESOLVED ID	phs Drab6 cDNA transformants	Gene_or_gene_product
+PMC2156142	111	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	112	N/A	screen alleles	Gene_or_gene_product
+PMC2156142	112	uniprot:P34737	AS1	Gene_or_gene_product
+PMC2156142	112	uniprot:Q8N108	ER1	Gene_or_gene_product
+PMC2156142	112	uniprot:UNRESOLVED ID	AM4	Gene_or_gene_product
+PMC2156142	112	uniprot:O15553	MEF	Gene_or_gene_product
+PMC2156142	112	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	112	uniprot:UNRESOLVED ID	P2352	Gene_or_gene_product
+PMC2156142	113	uniprot:UNRESOLVED ID	Drab6 cDNA	Gene_or_gene_product
+PMC2156142	114	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	115	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	117	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	117	uniprot:UNRESOLVED ID	Phaedra1	Gene_or_gene_product
+PMC2156142	118	uniprot:UNRESOLVED ID	PZ construct	Gene_or_gene_product
+PMC2156142	118	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	120	uniprot:UNRESOLVED ID	wrtP2352	Gene_or_gene_product
+PMC2156142	122	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	124	uniprot:Q52982	Phae1	Gene_or_gene_product
+PMC2156142	124	uniprot:Q96JE9	STOP	Gene_or_gene_product
+PMC2156142	125	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	126	uniprot:Q52982	Phae1	Gene_or_gene_product
+PMC2156142	129	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	130	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	130	uniprot:UNRESOLVED ID	homozygotic P2352	Gene_or_gene_product
+PMC2156142	130	uniprot:UNRESOLVED ID	P2352	Gene_or_gene_product
+PMC2156142	131	uniprot:UNRESOLVED ID	pupae	CellType
+PMC2156142	132	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	134	uniprot:UNRESOLVED ID	genotype P2352	Gene_or_gene_product
+PMC2156142	134	uniprot:UNRESOLVED ID	P2352	Gene_or_gene_product
+PMC2156142	134	uniprot:UNRESOLVED ID	wrtP2352	Gene_or_gene_product
+PMC2156142	135	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	136	uniprot:UNRESOLVED ID	P2352/+	Gene_or_gene_product
+PMC2156142	136	uniprot:UNRESOLVED ID	P2352	Gene_or_gene_product
+PMC2156142	137	uniprot:UNRESOLVED ID	wing	CellType
+PMC2156142	138	uniprot:UNRESOLVED ID	wrtR62C mutants	Gene_or_gene_product
+PMC2156142	139	uazid:UA-ORG-382	head	Organ
+PMC2156142	139	uazid:UA-ORG-993	thorax	Organ
+PMC2156142	140	uniprot:UNRESOLVED ID	Drab6-R62C mutants	Gene_or_gene_product
+PMC2156142	141	uniprot:UNRESOLVED ID	wrtP2352	Gene_or_gene_product
+PMC2156142	142	uniprot:UNRESOLVED ID	P2352	Gene_or_gene_product
+PMC2156142	142	uniprot:UNRESOLVED ID	P2352 tissue	Gene_or_gene_product
+PMC2156142	143	uniprot:UNRESOLVED ID	rab proteins	Gene_or_gene_product
+PMC2156142	144	uniprot:UNRESOLVED ID	ras mutations	Gene_or_gene_product
+PMC2156142	144	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2156142	145	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2156142	145	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	146	uniprot:UNRESOLVED ID	GTPase	Gene_or_gene_product
+PMC2156142	146	uniprot:P20936	GAP	Gene_or_gene_product
+PMC2156142	147	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	150	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2156142	151	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	151	uniprot:UNRESOLVED ID	Drab6 Q71L	Gene_or_gene_product
+PMC2156142	153	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	154	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	157	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2156142	158	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	159	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	159	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	160	ncbitax:species:ncbi:4932	yeast	Species
+PMC2156142	161	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	161	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2156142	162	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2156142	162	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	163	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	163	N/A	rab6	Gene_or_gene_product
+PMC2156142	164	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	164	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2156142	165	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2156142	168	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	168	uniprot:UNRESOLVED ID	beta-amyloid precursor protein	Gene_or_gene_product
+PMC2156142	169	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	169	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	170	uniprot:P09958	furin	Gene_or_gene_product
+PMC2156142	171	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	171	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	172	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	173	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	174	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	175	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	178	uniprot:UNRESOLVED ID	ras-like proteins	Gene_or_gene_product
+PMC2156142	178	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2156142	178	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	179	uniprot:UNRESOLVED ID	wild-type Drab6	Gene_or_gene_product
+PMC2156142	181	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	181	uniprot:UNRESOLVED ID	rab-interacting proteins	Gene_or_gene_product
+PMC2156142	182	uniprot:UNRESOLVED ID	Rabphilin	Gene_or_gene_product
+PMC2156142	182	uniprot:P25228	rab3	Gene_or_gene_product
+PMC2156142	182	uniprot:UNRESOLVED ID	alpha-actinin	Gene_or_gene_product
+PMC2156142	182	uniprot:UNRESOLVED ID	rab3-GTP	Gene_or_gene_product
+PMC2156142	183	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	183	uniprot:O95235	rabkinesin-6	Gene_or_gene_product
+PMC2156142	183	uniprot:A3DIJ8	ATPase	Gene_or_gene_product
+PMC2156142	184	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	184	uniprot:UNRESOLVED ID	sn3	Gene_or_gene_product
+PMC2156142	184	uniprot:UNRESOLVED ID	f 36a	Gene_or_gene_product
+PMC2156142	184	uniprot:O60020	Pr1	Gene_or_gene_product
+PMC2156142	184	uniprot:P37268	ss	Gene_or_gene_product
+PMC2156142	184	uniprot:P21478	Bsb	Gene_or_gene_product
+PMC2156142	184	uniprot:P06401	Pr	Gene_or_gene_product
+PMC2156142	185	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	185	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	187	ncbitax:species:ncbi:4932	yeast	Species
+PMC2156142	187	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	188	uniprot:P52594	Rab	Gene_or_gene_product
+PMC2156142	189	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	189	uniprot:UNRESOLVED ID	GDP	Gene_or_gene_product
+PMC2156142	189	uniprot:UNRESOLVED ID	ras-like molecules	Gene_or_gene_product
+PMC2156142	191	uniprot:UNRESOLVED ID	GTPases	Gene_or_gene_product
+PMC2156142	191	uniprot:UNRESOLVED ID	DX2G	Gene_or_gene_product
+PMC2156142	192	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2156142	192	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	193	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	196	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	197	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	198	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	199	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	199	uniprot:UNRESOLVED ID	wing	CellType
+PMC2156142	200	ncbitax:species:ncbi:4932	yeast	Species
+PMC2156142	200	uniprot:Q99260	Ypt6	Gene_or_gene_product
+PMC2156142	200	uniprot:UNRESOLVED ID	rhy1	Gene_or_gene_product
+PMC2156142	201	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	201	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2156142	204	uniprot:O73683	beta-APP	Gene_or_gene_product
+PMC2156142	204	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	204	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2156142	205	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	205	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	206	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	207	uniprot:UNRESOLVED ID	Drab6 Q71L	Gene_or_gene_product
+PMC2156142	209	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	211	uniprot:UNRESOLVED ID	Notch receptor	Gene_or_gene_product
+PMC2156142	212	uniprot:O43252	SAT	Gene_or_gene_product
+PMC2156142	213	uazid:UA-ORG-385	heart	Organ
+PMC2156142	213	uniprot:UNRESOLVED ID	Wart	CellType
+PMC2156142	215	uniprot:UNRESOLVED ID	NS26084	Gene_or_gene_product
+PMC2156142	217	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	218	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	219	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	219	uniprot:UNRESOLVED ID	wrtMEF	Gene_or_gene_product
+PMC2156142	220	uniprot:UNRESOLVED ID	Nnucl/+	Gene_or_gene_product
+PMC2156142	220	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	220	uniprot:UNRESOLVED ID	NnuclwrtMEF/+	Gene_or_gene_product
+PMC2156142	221	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	222	uniprot:Q6P988	notum	Gene_or_gene_product
+PMC2156142	222	uniprot:UNRESOLVED ID	scutellum	CellType
+PMC2156142	224	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	227	uniprot:Q86YQ2	base	Gene_or_gene_product
+PMC2156142	230	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	231	uniprot:UNRESOLVED ID	Patsas	Gene_or_gene_product
+PMC2156142	231	uniprot:UNRESOLVED ID	tRNA-synthetase	Gene_or_gene_product
+PMC2156142	231	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	231	uniprot:UNRESOLVED ID	Phaedra1	Gene_or_gene_product
+PMC2156142	231	uniprot:Q52982	Phae1	Gene_or_gene_product
+PMC2156142	231	uniprot:UNRESOLVED ID	Phadra2	Gene_or_gene_product
+PMC2156142	231	uniprot:UNRESOLVED ID	Phae2	Gene_or_gene_product
+PMC2156142	233	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	233	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	233	uniprot:UNRESOLVED ID	Drab6 cDNA	Gene_or_gene_product
+PMC2156142	234	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	235	uniprot:UNRESOLVED ID	GTPases	Gene_or_gene_product
+PMC2156142	235	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	235	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2156142	236	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	236	uniprot:UNRESOLVED ID	GTPase	Gene_or_gene_product
+PMC2156142	237	uniprot:UNRESOLVED ID	Drab6-R62C mutation	Gene_or_gene_product
+PMC2156142	237	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	239	uniprot:P20340	rab6	Gene_or_gene_product
+PMC2156142	240	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	240	uniprot:P10265	protease	Gene_or_gene_product
+PMC2156142	241	uniprot:UNRESOLVED ID	Drab6 ORF	Gene_or_gene_product
+PMC2156142	242	uniprot:UNRESOLVED ID	Drab6 alleles	Gene_or_gene_product
+PMC2156142	243	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	243	uniprot:UNRESOLVED ID	wrtP2352	Gene_or_gene_product
+PMC2156142	246	uniprot:UNRESOLVED ID	P2352	Gene_or_gene_product
+PMC2156142	246	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	248	uniprot:UNRESOLVED ID	GTPase	Gene_or_gene_product
+PMC2156142	248	uniprot:UNRESOLVED ID	Drab6	Gene_or_gene_product
+PMC2156142	249	uniprot:UNRESOLVED ID	GTP	Gene_or_gene_product
+PMC2156142	249	ncbitax:species:ncbi:41426	warthog	Species
+PMC2156142	250	uniprot:Q86YQ2	base	Gene_or_gene_product

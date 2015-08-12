@@ -1,0 +1,623 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2211846	0	uazid:UA-CLine-100061	Mast Cell	CellType
+PMC2211846	0	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211846	0	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	1	uniprot:UNRESOLVED ID	Fcepsilon receptor I	Gene_or_gene_product
+PMC2211846	1	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	1	uazid:UA-ORG-83	basophils	Organ
+PMC2211846	2	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	2	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2211846	2	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	2	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211846	2	uniprot:Q9GZY6	Wbscr5	Gene_or_gene_product
+PMC2211846	3	uazid:UA-ORG-100	bone	Organ
+PMC2211846	3	uniprot:UNRESOLVED ID	marrow	CellType
+PMC2211846	3	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	3	uniprot:O89094	mice	Species
+PMC2211846	4	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	4	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211846	4	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	4	uniprot:O89094	mice	Species
+PMC2211846	5	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	5	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	5	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2211846	6	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	6	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2211846	8	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	8	uniprot:P12931	Src	Gene_or_gene_product
+PMC2211846	9	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	9	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	10	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	10	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	12	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2211846	12	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211846	12	uniprot:UNRESOLVED ID	Fcepsilon receptor I	Gene_or_gene_product
+PMC2211846	12	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	12	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211846	13	uniprot:P12931	Src	Gene_or_gene_product
+PMC2211846	13	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2211846	14	uniprot:P12931	Src	Gene_or_gene_product
+PMC2211846	14	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2211846	14	uniprot:UNRESOLVED ID	FcepsilonRI beta and gamma subunits	Gene_or_gene_product
+PMC2211846	15	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2211846	15	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	16	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	16	uniprot:P12931	Src	Gene_or_gene_product
+PMC2211846	16	uniprot:P33496	SH	Gene_or_gene_product
+PMC2211846	16	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211846	16	uniprot:P98160	PLC	Gene_or_gene_product
+PMC2211846	16	uniprot:UNRESOLVED ID	gamma1	Gene_or_gene_product
+PMC2211846	16	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2211846	17	uniprot:P01009	PI	Gene_or_gene_product
+PMC2211846	17	uniprot:UNRESOLVED ID	3-OH kinase	Gene_or_gene_product
+PMC2211846	17	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2211846	18	uniprot:P54644	Akt	Gene_or_gene_product
+PMC2211846	18	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2211846	18	uniprot:P08567	pleckstrin	Gene_or_gene_product
+PMC2211846	19	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2211846	19	uniprot:P01009	PI	Gene_or_gene_product
+PMC2211846	19	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC2211846	19	uniprot:UNRESOLVED ID	IP3 receptor Ca2+ channel	Gene_or_gene_product
+PMC2211846	19	uniprot:P03372	ER	Gene_or_gene_product
+PMC2211846	21	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	22	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	22	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2211846	22	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	23	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	23	uniprot:Q9GZY6	LAB	Gene_or_gene_product
+PMC2211846	23	uazid:UA-CT-24	monocytes	CellType
+PMC2211846	23	uazid:UA-CT-22	lymphocytes	CellType
+PMC2211846	24	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	24	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	24	uniprot:UNRESOLVED ID	tail	CellType
+PMC2211846	25	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	26	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	26	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	26	uniprot:P12314	FcgammaRI	Gene_or_gene_product
+PMC2211846	26	uazid:UA-CT-100001	B cell	CellType
+PMC2211846	27	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	27	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	27	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2211846	28	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	28	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2211846	28	uniprot:O89094	mice	Species
+PMC2211846	29	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	29	uazid:UA-CT-100001	B cell	CellType
+PMC2211846	29	uniprot:UNRESOLVED ID	mitogen-activated protein	Gene_or_gene_product
+PMC2211846	29	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2211846	29	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	29	ncbitax:species:ncbi:9606	human	Species
+PMC2211846	30	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211846	30	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	30	uniprot:O89094	mice	Species
+PMC2211846	31	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2211846	31	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	32	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2211846	32	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	32	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC2211846	32	uniprot:UNRESOLVED ID	Gab2 adaptor	Gene_or_gene_product
+PMC2211846	33	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	33	uniprot:O89094	mice	Species
+PMC2211846	33	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	34	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	34	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	35	uniprot:UNRESOLVED ID	anti-FcepsilonRI beta subunit	Gene_or_gene_product
+PMC2211846	35	uniprot:O75564	JRK	Gene_or_gene_product
+PMC2211846	35	uniprot:UNRESOLVED ID	NAP-07	Gene_or_gene_product
+PMC2211846	35	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211846	35	uniprot:UNRESOLVED ID	IGEL b4 1	Gene_or_gene_product
+PMC2211846	36	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2211846	36	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	36	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	36	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211846	36	ncbitax:species:ncbi:9986	rabbits	Species
+PMC2211846	37	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2211846	37	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2211846	37	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2211846	37	uniprot:UNRESOLVED ID	phospho-ERK	Gene_or_gene_product
+PMC2211846	37	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211846	37	uniprot:Q15466	SHP	Gene_or_gene_product
+PMC2211846	37	ncbitax:species:ncbi:3704	horseradish	Species
+PMC2211846	37	uniprot:Q08168	HRP	Gene_or_gene_product
+PMC2211846	37	ncbitax:species:ncbi:9793	donkey	Species
+PMC2211846	37	uniprot:UNRESOLVED ID	IgG	Gene_or_gene_product
+PMC2211846	37	uniprot:Q96T53	goat	Species
+PMC2211846	38	ncbitax:species:ncbi:9986	Rabbit	Species
+PMC2211846	38	uniprot:O43439	p85	Gene_or_gene_product
+PMC2211846	38	uniprot:UNRESOLVED ID	N-SH2 region	Gene_or_gene_product
+PMC2211846	38	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2211846	39	uniprot:UNRESOLVED ID	mAb	Gene_or_gene_product
+PMC2211846	39	uniprot:UNRESOLVED ID	PY-20	Gene_or_gene_product
+PMC2211846	39	uniprot:Q08168	HRP	Gene_or_gene_product
+PMC2211846	40	uniprot:Q2G0B1	rat	Species
+PMC2211846	40	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211846	40	uniprot:UNRESOLVED ID	phycoerythrin	Gene_or_gene_product
+PMC2211846	40	uniprot:P22629	streptavidin	Gene_or_gene_product
+PMC2211846	41	uniprot:Q96T53	Goat	Species
+PMC2211846	41	uniprot:UNRESOLVED ID	IgG	Gene_or_gene_product
+PMC2211846	45	ncbitax:species:ncbi:55581	name	Species
+PMC2211846	45	uniprot:Q9GZY6	Wbscr5	Gene_or_gene_product
+PMC2211846	50	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	50	uniprot:UNRESOLVED ID	neor	Gene_or_gene_product
+PMC2211846	52	uniprot:O89094	mice	Species
+PMC2211846	54	uniprot:UNRESOLVED ID	WT Ntal gene	Gene_or_gene_product
+PMC2211846	56	uniprot:UNRESOLVED ID	EcoRI	Gene_or_gene_product
+PMC2211846	56	uniprot:UNRESOLVED ID	Hind III	Gene_or_gene_product
+PMC2211846	57	uniprot:Q96JE9	stop	Gene_or_gene_product
+PMC2211846	59	uniprot:P29401	TK	Gene_or_gene_product
+PMC2211846	60	uniprot:P28300	Lox	Gene_or_gene_product
+PMC2211846	62	uniprot:UNRESOLVED ID	neor gene	Gene_or_gene_product
+PMC2211846	63	uniprot:O89094	mice	Species
+PMC2211846	64	uniprot:UNRESOLVED ID	ES cell	CellType
+PMC2211846	67	uniprot:UNRESOLVED ID	Embryonic Stem Cell	CellType
+PMC2211846	67	uniprot:O89094	Mice	Species
+PMC2211846	68	uniprot:UNRESOLVED ID	CK35	Gene_or_gene_product
+PMC2211846	68	uniprot:UNRESOLVED ID	stem	CellType
+PMC2211846	69	uniprot:UNRESOLVED ID	EcoRI-XbaI	Gene_or_gene_product
+PMC2211846	70	uniprot:UNRESOLVED ID	EcoRI	Gene_or_gene_product
+PMC2211846	70	uniprot:UNRESOLVED ID	8-kb WT fragment	Gene_or_gene_product
+PMC2211846	71	uniprot:UNRESOLVED ID	XbaI-EcoRI	Gene_or_gene_product
+PMC2211846	72	uniprot:UNRESOLVED ID	HindIII	Gene_or_gene_product
+PMC2211846	72	uniprot:UNRESOLVED ID	9.5-kb WT fragment	Gene_or_gene_product
+PMC2211846	73	uniprot:P00552	neo	Gene_or_gene_product
+PMC2211846	74	uniprot:UNRESOLVED ID	ES cell	CellType
+PMC2211846	75	ncbitax:species:ncbi:10090	mouse	Species
+PMC2211846	75	uniprot:O89094	mice	Species
+PMC2211846	76	uniprot:O89094	mice	Species
+PMC2211846	76	uniprot:UNRESOLVED ID	CTACGGAGCTGAGTGTTCTCA-3', b: 5'-GAACGGCTAGAACTACACAGAG-3', c: 5'-GAGAGGAGGATAAAGTGGACCTC-3'	Gene_or_gene_product
+PMC2211846	77	uniprot:UNRESOLVED ID	WT Ntal allele	Gene_or_gene_product
+PMC2211846	78	uniprot:O89094	mice	Species
+PMC2211846	79	uniprot:O89094	mice	Species
+PMC2211846	79	uniprot:Q9GZY6	NTAL-/-	Gene_or_gene_product
+PMC2211846	79	uniprot:O43561	LAT-/-	Gene_or_gene_product
+PMC2211846	80	uniprot:O89094	mice	Species
+PMC2211846	81	uazid:UA-ORG-303	femurs	Organ
+PMC2211846	81	uazid:UA-ORG-1002	tibias	Organ
+PMC2211846	81	uniprot:O89094	mice	Species
+PMC2211846	82	uniprot:UNRESOLVED ID	RPMI-1640	Gene_or_gene_product
+PMC2211846	82	uniprot:P01298	pH	Gene_or_gene_product
+PMC2211846	82	ncbitax:species:ncbi:41568	muM	Species
+PMC2211846	82	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2211846	82	uniprot:Q16769	EC	Gene_or_gene_product
+PMC2211846	82	uniprot:P21583	stem cell factor	Gene_or_gene_product
+PMC2211846	82	uniprot:P21583	SCF	Gene_or_gene_product
+PMC2211846	83	uniprot:UNRESOLVED ID	NTAL+/+	Gene_or_gene_product
+PMC2211846	83	uniprot:UNRESOLVED ID	NTAL+	Gene_or_gene_product
+PMC2211846	83	uniprot:Q9GZY6	NTAL-/-	Gene_or_gene_product
+PMC2211846	83	uniprot:O43561	LAT-/-	Gene_or_gene_product
+PMC2211846	83	uniprot:O89094	mice	Species
+PMC2211846	84	uniprot:P21583	SCF	Gene_or_gene_product
+PMC2211846	84	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211846	85	uniprot:P01298	pH	Gene_or_gene_product
+PMC2211846	85	uniprot:UNRESOLVED ID	TNP-BSA	Gene_or_gene_product
+PMC2211846	86	uniprot:UNRESOLVED ID	Flow Cytometry Analyses	Gene_or_gene_product
+PMC2211846	86	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	87	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	87	uniprot:UNRESOLVED ID	c-kit	Gene_or_gene_product
+PMC2211846	87	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211846	88	uniprot:P08758	annexin V	Gene_or_gene_product
+PMC2211846	89	uniprot:O89094	Mice	Species
+PMC2211846	89	uniprot:UNRESOLVED ID	tail	CellType
+PMC2211846	89	uazid:UA-ORG-1067	vein	Organ
+PMC2211846	89	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211846	89	ncbitax:species:ncbi:10090	mouse	Species
+PMC2211846	89	uniprot:UNRESOLVED ID	TNP-BSA	Gene_or_gene_product
+PMC2211846	90	uazid:UA-ORG-92	blood	Organ
+PMC2211846	90	uniprot:UNRESOLVED ID	serum	CellType
+PMC2211846	91	uniprot:UNRESOLVED ID	Serum	CellType
+PMC2211846	93	uniprot:P08236	beta-glucuronidase	Gene_or_gene_product
+PMC2211846	93	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211846	94	uniprot:P01298	pH	Gene_or_gene_product
+PMC2211846	94	uniprot:UNRESOLVED ID	10 mM beta-glycerophosphate, 1 mM Na3VO4, 1 mM PMSF	Gene_or_gene_product
+PMC2211846	94	uniprot:UNRESOLVED ID	leupeptin	Gene_or_gene_product
+PMC2211846	94	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	94	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	94	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2211846	94	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	96	uniprot:P02810	protein A	Gene_or_gene_product
+PMC2211846	98	uniprot:O43766	LAS	Gene_or_gene_product
+PMC2211846	98	uniprot:UNRESOLVED ID	Fuji Photo Film Co.	Gene_or_gene_product
+PMC2211846	102	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211846	102	uniprot:P21583	SCF	Gene_or_gene_product
+PMC2211846	102	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2211846	106	uniprot:O42043	TM	Gene_or_gene_product
+PMC2211846	107	uniprot:UNRESOLVED ID	Immune Complex PI3K	Gene_or_gene_product
+PMC2211846	107	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2211846	107	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2211846	107	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC2211846	108	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2211846	108	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2211846	108	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC2211846	109	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2211846	110	uniprot:UNRESOLVED ID	In-gel Phosphatase	Gene_or_gene_product
+PMC2211846	111	uniprot:Q06124	SHP-2	Gene_or_gene_product
+PMC2211846	111	uniprot:UNRESOLVED ID	in-gel phosphatase	Gene_or_gene_product
+PMC2211846	112	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211846	113	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211846	114	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	114	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	114	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	118	uniprot:UNRESOLVED ID	Hopkins	Gene_or_gene_product
+PMC2211846	119	uniprot:Q9Y5R8	mum2	Gene_or_gene_product
+PMC2211846	119	uazid:UA-ORG-725	plasma	Organ
+PMC2211846	120	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	120	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211846	120	uniprot:O89094	mice	Species
+PMC2211846	121	uniprot:O89094	Mice	Species
+PMC2211846	121	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	122	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	123	uniprot:UNRESOLVED ID	serum	CellType
+PMC2211846	123	uniprot:O89094	mice	Species
+PMC2211846	124	uniprot:UNRESOLVED ID	serum	CellType
+PMC2211846	124	uniprot:O89094	mice	Species
+PMC2211846	125	uniprot:UNRESOLVED ID	serum	CellType
+PMC2211846	125	uniprot:O89094	mice	Species
+PMC2211846	125	uniprot:P46060	SD	Gene_or_gene_product
+PMC2211846	126	uniprot:UNRESOLVED ID	c-kit	Gene_or_gene_product
+PMC2211846	126	uniprot:O89094	mice	Species
+PMC2211846	126	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	127	uniprot:UNRESOLVED ID	serum	CellType
+PMC2211846	127	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211846	127	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	128	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	128	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	129	uniprot:O89094	mice	Species
+PMC2211846	129	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211846	129	uniprot:UNRESOLVED ID	TNP-BSA	Gene_or_gene_product
+PMC2211846	129	uniprot:UNRESOLVED ID	serum	CellType
+PMC2211846	130	uniprot:O89094	mice	Species
+PMC2211846	131	uniprot:O89094	mice	Species
+PMC2211846	132	uniprot:O89094	mice	Species
+PMC2211846	132	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	132	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211846	132	uniprot:Q7Z859	PBS	Gene_or_gene_product
+PMC2211846	132	uniprot:UNRESOLVED ID	IgG-FITC	Gene_or_gene_product
+PMC2211846	134	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	134	uniprot:UNRESOLVED ID	IB	Gene_or_gene_product
+PMC2211846	134	uniprot:UNRESOLVED ID	IgG-HRP	Gene_or_gene_product
+PMC2211846	135	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2211846	135	uniprot:UNRESOLVED ID	IgG-HRP	Gene_or_gene_product
+PMC2211846	136	uniprot:O89094	mice	Species
+PMC2211846	136	uniprot:P08700	IL-3	Gene_or_gene_product
+PMC2211846	136	uniprot:P21583	SCF	Gene_or_gene_product
+PMC2211846	137	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	137	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	137	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	138	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211846	139	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	139	uniprot:P08236	beta-glucuronidase	Gene_or_gene_product
+PMC2211846	141	uniprot:P08236	beta-glucuronidase	Gene_or_gene_product
+PMC2211846	141	uniprot:P46060	SD	Gene_or_gene_product
+PMC2211846	144	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	146	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211846	146	uniprot:UNRESOLVED ID	TNP-BSA	Gene_or_gene_product
+PMC2211846	147	uniprot:P08236	beta-Glucuronidase	Gene_or_gene_product
+PMC2211846	148	uniprot:P46060	SD	Gene_or_gene_product
+PMC2211846	148	uniprot:O43561	LAT-/-	Gene_or_gene_product
+PMC2211846	148	uniprot:Q9GZY6	NTAL-/-	Gene_or_gene_product
+PMC2211846	149	uniprot:P46060	SD	Gene_or_gene_product
+PMC2211846	151	uniprot:UNRESOLVED ID	PY-20-HRP	Gene_or_gene_product
+PMC2211846	152	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	152	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	156	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	156	uniprot:UNRESOLVED ID	FITC	Gene_or_gene_product
+PMC2211846	156	uniprot:P08758	annexin V	Gene_or_gene_product
+PMC2211846	157	uniprot:P08758	annexin V	Gene_or_gene_product
+PMC2211846	160	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	161	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	162	uniprot:UNRESOLVED ID	PY-20 mAb	Gene_or_gene_product
+PMC2211846	162	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	163	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	164	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211846	164	uniprot:UNRESOLVED ID	IgE receptor	Gene_or_gene_product
+PMC2211846	164	uniprot:UNRESOLVED ID	FcepsilonRI beta and gamma subunits	Gene_or_gene_product
+PMC2211846	165	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2211846	166	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2211846	166	uniprot:UNRESOLVED ID	saponin	Gene_or_gene_product
+PMC2211846	167	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2211846	167	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	168	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	169	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2211846	169	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	170	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	170	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2211846	170	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	170	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2211846	171	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211846	171	uniprot:UNRESOLVED ID	TNP-BSA	Gene_or_gene_product
+PMC2211846	173	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	173	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2211846	173	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	173	uniprot:P21912	IP	Gene_or_gene_product
+PMC2211846	174	uniprot:UNRESOLVED ID	PY-20-HRP	Gene_or_gene_product
+PMC2211846	175	uniprot:UNRESOLVED ID	protein-specific antibodies	Gene_or_gene_product
+PMC2211846	176	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2211846	176	uniprot:Q9NZJ5	pERK	Gene_or_gene_product
+PMC2211846	176	uniprot:UNRESOLVED ID	anti-pERK antibody	Gene_or_gene_product
+PMC2211846	179	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	179	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	179	uniprot:UNRESOLVED ID	Ras-MAP kinase	Gene_or_gene_product
+PMC2211846	180	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2211846	181	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	181	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2211846	182	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	182	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2211846	183	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	183	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2211846	183	uniprot:Q9UQC2	Gab2	Gene_or_gene_product
+PMC2211846	184	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2211846	185	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2211846	185	uniprot:UNRESOLVED ID	saponin	Gene_or_gene_product
+PMC2211846	186	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2211846	186	uniprot:P01009	PI	Gene_or_gene_product
+PMC2211846	186	uniprot:O95861	PIP	Gene_or_gene_product
+PMC2211846	187	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2211846	188	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2211846	188	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	189	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2211846	190	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	190	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2211846	191	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2211846	191	uniprot:Q06124	SHP-2	Gene_or_gene_product
+PMC2211846	191	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211846	192	uniprot:O89094	mice	Species
+PMC2211846	192	uniprot:UNRESOLVED ID	TNP-BSA	Gene_or_gene_product
+PMC2211846	192	uniprot:UNRESOLVED ID	saponin	Gene_or_gene_product
+PMC2211846	192	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2211846	192	uniprot:Q06124	SHP-2	Gene_or_gene_product
+PMC2211846	192	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211846	193	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2211846	193	uniprot:P01009	PI	Gene_or_gene_product
+PMC2211846	193	uniprot:P31025	TLC	Gene_or_gene_product
+PMC2211846	193	uniprot:O95861	PIP	Gene_or_gene_product
+PMC2211846	193	uniprot:UNRESOLVED ID	anti-PI3K-p85	Gene_or_gene_product
+PMC2211846	194	uniprot:Q06124	SHP-2	Gene_or_gene_product
+PMC2211846	194	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2211846	194	uniprot:UNRESOLVED ID	anti-SHP-2 antibody	Gene_or_gene_product
+PMC2211846	194	uniprot:UNRESOLVED ID	in-gel phosphatase	Gene_or_gene_product
+PMC2211846	195	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211846	195	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	198	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2211846	198	uniprot:Q06124	SHP-2	Gene_or_gene_product
+PMC2211846	199	uniprot:Q06124	SHP-2	Gene_or_gene_product
+PMC2211846	199	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2211846	199	uniprot:UNRESOLVED ID	SHP-2-associated PI3K	Gene_or_gene_product
+PMC2211846	200	uniprot:Q06124	SHP-2	Gene_or_gene_product
+PMC2211846	200	uniprot:UNRESOLVED ID	saponin	Gene_or_gene_product
+PMC2211846	200	uniprot:UNRESOLVED ID	SHP-2-coprecipitated PI3K	Gene_or_gene_product
+PMC2211846	201	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2211846	201	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	202	uniprot:Q06124	SHP-2	Gene_or_gene_product
+PMC2211846	202	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	203	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	203	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211846	204	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	204	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	204	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211846	205	uniprot:UNRESOLVED ID	Anti-NTAL	Gene_or_gene_product
+PMC2211846	205	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211846	205	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	205	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	206	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	206	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211846	206	uniprot:UNRESOLVED ID	PY-20	Gene_or_gene_product
+PMC2211846	207	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	207	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211846	208	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2211846	209	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	209	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2211846	210	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2211846	211	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2211846	212	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2211846	213	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2211846	214	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2211846	214	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	215	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2211846	215	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC2211846	216	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2211846	217	uniprot:O89094	mice	Species
+PMC2211846	217	uniprot:UNRESOLVED ID	TNP-BSA	Gene_or_gene_product
+PMC2211846	218	uniprot:UNRESOLVED ID	saponin	Gene_or_gene_product
+PMC2211846	218	uniprot:P19174	PLCgamma1	Gene_or_gene_product
+PMC2211846	218	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2211846	218	uniprot:UNRESOLVED ID	PY-20-HRP	Gene_or_gene_product
+PMC2211846	221	uniprot:P16885	PLCgamma2	Gene_or_gene_product
+PMC2211846	221	uniprot:UNRESOLVED ID	immune complex PLCgamma	Gene_or_gene_product
+PMC2211846	222	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC2211846	223	uniprot:P46060	SD	Gene_or_gene_product
+PMC2211846	224	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2211846	224	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC2211846	224	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	225	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211846	229	uniprot:Q7MHF3	A-D	Gene_or_gene_product
+PMC2211846	229	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211846	229	uniprot:UNRESOLVED ID	Fura-2-AM	Gene_or_gene_product
+PMC2211846	229	uniprot:UNRESOLVED ID	TNP-BSA	Gene_or_gene_product
+PMC2211846	229	uniprot:Q13510	A-C	Gene_or_gene_product
+PMC2211846	230	uniprot:UNRESOLVED ID	TNP-BSA	Gene_or_gene_product
+PMC2211846	230	uniprot:O43561	LAT-/-	Gene_or_gene_product
+PMC2211846	230	uniprot:Q9GZY6	NTAL-/-	Gene_or_gene_product
+PMC2211846	232	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211846	232	uniprot:UNRESOLVED ID	TNP-BSA	Gene_or_gene_product
+PMC2211846	233	uniprot:P46060	SD	Gene_or_gene_product
+PMC2211846	234	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	235	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	237	uniprot:UNRESOLVED ID	TNP-BSA	Gene_or_gene_product
+PMC2211846	240	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	240	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	240	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	242	uniprot:O89094	mice	Species
+PMC2211846	243	uniprot:Q9UJV9	Abs	Gene_or_gene_product
+PMC2211846	244	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	245	uniprot:Q9GZY6	NTAL-/-	Gene_or_gene_product
+PMC2211846	249	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	249	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	250	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	250	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	252	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	252	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	253	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	254	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	255	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	256	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	257	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	257	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	258	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	258	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	259	uniprot:O89094	mice	Species
+PMC2211846	259	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211846	259	uniprot:UNRESOLVED ID	TNP-BSA	Gene_or_gene_product
+PMC2211846	261	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	261	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	261	uniprot:UNRESOLVED ID	PY-20	Gene_or_gene_product
+PMC2211846	262	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	262	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	263	uniprot:O43557	light	Gene_or_gene_product
+PMC2211846	263	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	263	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	263	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211846	263	uniprot:UNRESOLVED ID	RBL-2H3	Gene_or_gene_product
+PMC2211846	264	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	264	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	264	uniprot:UNRESOLVED ID	FcepsilonRI beta subunits	Gene_or_gene_product
+PMC2211846	265	uniprot:UNRESOLVED ID	Hopkins	Gene_or_gene_product
+PMC2211846	266	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	266	uniprot:UNRESOLVED ID	FcepsilonRI beta subunits	Gene_or_gene_product
+PMC2211846	267	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	267	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	267	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	268	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	268	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	268	uniprot:UNRESOLVED ID	FcepsilonRI beta subunit	Gene_or_gene_product
+PMC2211846	269	uniprot:UNRESOLVED ID	IgE	Gene_or_gene_product
+PMC2211846	269	uniprot:UNRESOLVED ID	FcepsilonRI beta subunit	Gene_or_gene_product
+PMC2211846	269	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	269	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	270	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	270	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	270	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	271	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	271	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	272	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	272	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	274	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	274	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	275	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	275	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	276	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	276	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	277	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	277	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	278	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	278	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	279	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	279	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	280	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	280	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	282	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	282	uazid:UA-CT-100002	B cells	CellType
+PMC2211846	282	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	283	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	283	uniprot:O89094	mice	Species
+PMC2211846	283	uniprot:UNRESOLVED ID	T cell	CellType
+PMC2211846	283	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2211846	284	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	284	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	284	uniprot:O89094	mice	Species
+PMC2211846	285	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	285	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211846	286	uniprot:O89094	mice	Species
+PMC2211846	286	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2211846	286	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2211846	287	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	287	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2211846	287	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC2211846	288	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211846	289	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	289	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	289	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	290	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	290	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	290	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	290	ncbitax:species:ncbi:10090	mouse	Species
+PMC2211846	291	uniprot:O89094	mice	Species
+PMC2211846	293	uniprot:O89094	mice	Species
+PMC2211846	294	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	295	uniprot:P43405	Syk	Gene_or_gene_product
+PMC2211846	295	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	295	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2211846	295	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2211846	296	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	296	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2211846	296	uniprot:P42348	PI3K	Gene_or_gene_product
+PMC2211846	296	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC2211846	296	uniprot:P01009	PI	Gene_or_gene_product
+PMC2211846	299	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	299	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	300	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	300	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2211846	301	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	301	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	302	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	302	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	302	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2211846	303	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	303	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	303	interpro:IPR016279	PLCgamma	Gene_or_gene_product
+PMC2211846	303	uniprot:UNRESOLVED ID	IP3	Gene_or_gene_product
+PMC2211846	304	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	304	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	305	uniprot:A2KF29	TCR	Gene_or_gene_product
+PMC2211846	305	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211846	305	uniprot:Q06124	SHP-2	Gene_or_gene_product
+PMC2211846	306	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	306	uniprot:P62993	Grb2	Gene_or_gene_product
+PMC2211846	307	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	307	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	308	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	308	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	308	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	309	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	309	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	310	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	311	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	311	ncbitax:species:ncbi:9606	human	Species
+PMC2211846	311	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	312	ncbitax:species:ncbi:9606	human	Species
+PMC2211846	312	ncbitax:species:ncbi:10090	mouse	Species
+PMC2211846	313	ncbitax:species:ncbi:9606	human	Species
+PMC2211846	313	ncbitax:species:ncbi:10090	mouse	Species
+PMC2211846	314	uazid:UA-CLine-100061	Mast cell	CellType
+PMC2211846	314	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	315	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2211846	315	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	315	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC2211846	316	ncbitax:species:ncbi:9606	human	Species
+PMC2211846	316	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	316	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC2211846	317	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	317	ncbitax:species:ncbi:10090	mouse	Species
+PMC2211846	317	uniprot:P06241	Fyn	Gene_or_gene_product
+PMC2211846	317	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2211846	318	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	318	uniprot:P07948	Lyn	Gene_or_gene_product
+PMC2211846	318	uazid:UA-CLine-100061	mast cell	CellType
+PMC2211846	319	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	319	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	320	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	320	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	323	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	323	uniprot:UNRESOLVED ID	FcepsilonRI beta subunits	Gene_or_gene_product
+PMC2211846	324	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	324	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	325	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	325	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	326	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	326	uniprot:UNRESOLVED ID	clathrin	Gene_or_gene_product
+PMC2211846	327	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	327	uniprot:O43561	LAT	Gene_or_gene_product
+PMC2211846	328	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	328	uniprot:UNRESOLVED ID	FcepsilonRI	Gene_or_gene_product
+PMC2211846	330	uniprot:UNRESOLVED ID	FcepsilonRI beta chain-specific antibody	Gene_or_gene_product
+PMC2211846	332	uniprot:Q9GZY6	NTAL	Gene_or_gene_product
+PMC2211846	332	uniprot:O89094	mice	Species

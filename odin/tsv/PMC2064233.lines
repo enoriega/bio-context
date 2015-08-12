@@ -1,0 +1,267 @@
+Paper ID	Is title?	Section ID	Passage ID	Line Num	Text
+PMC2064233	true	article-title	0	0	Identification of Golgi localized acyl transferases that palmitoylate and regulate endothelial nitric oxide synthase
+PMC2064233	false	abstract	1	1	Lipid modifications mediate the subcellular localization and biological activity of many proteins , including endothelial nitric oxide synthase ( eNOS ) .
+PMC2064233	false	abstract	1	2	This enzyme resides on the cytoplasmic aspect of the Golgi apparatus and in caveolae and is dually acylated by both N myristoylation and S palmitoylation .
+PMC2064233	false	abstract	1	3	Palmitoylation deficient mutants of eNOS release less nitric oxide ( NO ) .
+PMC2064233	false	abstract	1	4	We identify enzymes that palmitoylate eNOS in vivo .
+PMC2064233	false	abstract	1	5	Transfection of human embryonic kidney 293 cells with the complementary DNA ( cDNA ) for eNOS and 23 cDNA clones encoding the Asp-His-His-Cys motif ( DHHC ) palmitoyl transferase family members showed that five clones ( 2 , 3 , 7 , 8 , and 21 ) enhanced incorporation of [ 3H ] - palmitate into eNOS .
+PMC2064233	false	abstract	1	6	Human endothelial cells express all five of these enzymes , which colocalize with eNOS in the Golgi and plasma membrane and interact with eNOS .
+PMC2064233	false	abstract	1	7	Importantly , inhibition of DHHC-21 palmitoyl transferase , but not DHHC-3 , in human endothelial cells reduces eNOS palmitoylation , eNOS targeting , and stimulated NO production .
+PMC2064233	false	abstract	1	8	Collectively , our data describe five new Golgi targeted DHHC enzymes in human endothelial cells and suggest a regulatory role of DHHC-21 in governing eNOS localization and function .
+PMC2064233	false	sec-1	2	9	The production of nitric oxide ( NO ) by the vascular endothelium is important for cardiovascular homeostasis , as endogenous NO regulates many fundamental cellular processes , including growth , mitochondrial respiration , differentiation , and migration .
+PMC2064233	false	sec-1	2	10	Endothelial NO synthase ( eNOS or NOS3 ) synthesizes NO in the endothelium lining all blood vessels , and genetic deletion of eNOS causes many cardiovascular phenotypes , including increased blood pressure , impaired angiogenesis , abnormal vascular remodeling , and accelerated atherosclerosis                      .
+PMC2064233	false	sec-1	2	11	eNOS is a peripheral membrane protein that is modified by dual acylation ( N myristoylation and S palmitoylation ) , which targets it to specific biological membranes                           .
+PMC2064233	false	sec-1	2	12	All dually acylated proteins , including eNOS , src family members , and certain G protein alpha subunits are cotranslationally N myristoylated on cytoplasmic ribosomes followed by posttranslational cysteine palmitoylation .
+PMC2064233	false	sec-1	2	13	eNOS is N myristoylated at glycine-2 and posttranslational S palmitoylated on cysteines 15 and 26                                                                                   .
+PMC2064233	false	sec-1	2	14	N myristoylation and S palmitoylation mediate localization of eNOS to the Golgi complex and cholesterol rich microdomains of the plasma membranes , including caveolae and lipid rafts                                                                    .
+PMC2064233	false	sec-1	2	15	Acylation defective mutants of eNOS that can not target either domain impair basal and agonist stimulated NO release                         .
+PMC2064233	false	sec-1	3	16	Little is known about the enzymatic mechanisms for dual palmitoylation in mammalian cells .
+PMC2064233	false	sec-1	3	17	This fatty acid modification is reversible , unlike N myristoylation , which is permanent                      .
+PMC2064233	false	sec-1	3	18	In the context of eNOS , palmitate turnover is 45 min , whereas myristate turnover occurs with the protein backbone ( both ~ 20 h ;                  .
+PMC2064233	false	sec-1	3	19	Palmitoylation and depalmitoylation of proteins may be regulated by extracellular signals , providing a mechanism for dynamic regulation of protein localization                                                                    .
+PMC2064233	false	sec-1	4	20	Recently , a new family of acyl transferase enzymes that catalyzed the protein palmitoylation was discovered                      .
+PMC2064233	false	sec-1	4	21	Genetic screens in yeast identified Erf2 and 4                     and Akr1p                     as palmitoyl transferases for yeast Ras2 and casein kinase2 ( Yck2 ) .
+PMC2064233	false	sec-1	4	22	Deletion of Erf2 and 4 or Ark1 reduces palmitoylation of Ras2 or Yck2 , respectively .
+PMC2064233	false	sec-1	4	23	Erf2 and 4 or Ark1 share a common region , the Asp-His-His-Cys motif ( DHHC ) , within a cysteine rich domain ( CRD ) .
+PMC2064233	false	sec-1	4	24	The DHHC and CRD domains are essential for palmitoyl acyl transferase ( PAT ) activity                                         .
+PMC2064233	false	sec-1	4	25	The human homologues of the yeast Erf2 and Erf4 complex are DHHC-9 and a Golgi localized protein designated GCP16 .
+PMC2064233	false	sec-1	4	26	This complex has been shown to palmitoylate H- and N-Ras in vitro                         .
+PMC2064233	false	sec-1	4	27	23 genes encoding proteins with DHHC-CRD domains have been identified in mouse and human databases                      .
+PMC2064233	false	sec-1	4	28	Some of these proteins are known as Golgi specific DHHC zinc finger protein ( GODZ and DHHC -3 ;                     , the c-Abl-associated protein Abl-philin2 ( Aph2 and DHHC -16 ;                 , Sertoli cell DHHC protein ( SERZ-beta and DHHC -7 ;                             , Huntingtin interacting protein 14 ( HIP14 and DHHC -17 ;                    , and DHHC-15 , which palmitoylates the neuronal scaffold protein PSD-95                      .
+PMC2064233	false	sec-1	5	29	In the present work , we screened the 23 known DHHCs to examine which isoforms can palmitoylate eNOS .
+PMC2064233	false	sec-1	5	30	We found that five mammalian DHHC proteins ( DHHC-2 , -3 , -7 , -8 , and -21 ) palmitoylate eNOS , are present in human umbilical vein endothelial cells ( HUVECs ) , and colocalize with eNOS on the Golgi apparatus .
+PMC2064233	false	sec-1	5	31	Finally , inhibition of DHHC-21 reduces eNOS palmitoylation , mislocalizes eNOS , and antagonizes NO release from endothelial cells .
+PMC2064233	true	sec-3	6	32	Identification of candidate eNOS PATs
+PMC2064233	false	sec-3	7	33	Human embryonic kidney ( HEK ) 293 cells were cotransfected with each of the palmitoyl transferase cDNAs together with eNOS and the biosynthetic incorporation of 3 [ H ] - palmitate into eNOS examined by fluorography .
+PMC2064233	false	sec-3	7	34	As shown in         , only five clones ( DHHC-2 , -3 , -7 , -8 , and -21 ) markedly enhanced incorporation of 3 [ H ] - palmitate into eNOS                                                                   , defining them as putative eNOS PATs .
+PMC2064233	false	sec-3	7	35	The incorporation of palmitate into thioester linkages is sensitive to the strong base hydroxylamine .
+PMC2064233	false	sec-3	7	36	As shown in         , the incorporation of 3 [ H ] - palmitate into eNOS is reduced by hydroxylamine , demonstrating that this occurs via a thioester linkage similar to the palmitoylation of PSD-95 by DHHC-3 , which was recently described                      .
+PMC2064233	false	sec-3	7	37	In addition , mutation in the core DHHC domain of these enzymes ( mutation of DHHC to DHHS ) reduces the incorporation of 3 [ H ] - palmitate into eNOS           , consistent with previous reports                                         .
+PMC2064233	false	sec-3	7	38	Next , we examined the expression of the five candidate eNOS PATs by RT-PCR in different human cell lines , including HUVECs , human aortic smooth muscle cells ( HASMCs ) , HEK 293 , lung carcinoma ( A549 ) , and prostate carcinoma cells ( LnCAP ) .
+PMC2064233	false	sec-3	7	39	As shown in         , all of tested DHHCs are expressed in the cell lines studied .
+PMC2064233	false	sec-3	7	40	However , in HUVEC , the major cell type that expresses eNOS , DHHC-21 was the most highly expressed , followed by DHHC-2 and -3 .
+PMC2064233	false	sec-3	7	41	Cysteines 15 and 26 have been identified as the major sites of palmitoylation of eNOS                                          .
+PMC2064233	false	sec-3	7	42	As displayed in         , transfection of DHHC-21 , but not -11 ( as a control ) , increases the incorporation of 3 [ H ] - palmitate into eNOS , an effect eliminated by mutation of cysteines 15 and 26 to serine ( C15 and 26S eNOS ) .
+PMC2064233	false	fig-1	8	43	Screening for potential eNOS PATs .
+PMC2064233	false	fig-1	8	44	( A ) Individual DHHC clones were cotransfected with eNOS into HEK 293 cells .
+PMC2064233	false	fig-1	8	45	After metabolic labeling with 3 [ H ] - palmitic acid , proteins were separated by SDS-PAGE , followed by fluorography ( top ; 3 [ H ] - eNOS ) .
+PMC2064233	false	fig-1	8	46	The same samples were analyzed by Western blotting ( bottom ; eNOS WB ) .
+PMC2064233	false	fig-1	8	47	Note that several DHHC enzymes enhance the incorporation of 3 [ H ] - palmitic acid into eNOS ( bold numbers ) .
+PMC2064233	false	fig-1	8	48	The bottom blots depicts the level of the HA tagged DHHC .
+PMC2064233	false	fig-1	8	49	( B ) Treatment with hydroxylamine ( NH2OH ) reduces 3 [ H ] - palmitate incorporation into eNOS after cotransfection of eNOS and several DHHC enzymes .
+PMC2064233	false	fig-1	8	50	The NH2OH sensitivity of PSD-95 was used as control .
+PMC2064233	false	fig-1	8	51	( C ) Mutagenesis of DHHC-3 and -7 abolishes the 3 [ H ] - palmitate incorporation into eNOS .
+PMC2064233	false	fig-1	8	52	( D ) Total mRNA was isolated from different human cell lines , and the expression of DHHC isoforms was analyzed by RT-PCR .
+PMC2064233	false	fig-1	8	53	( E ) The palmitoylation of WT eNOS by DHHC-21 is diminished by mutation of the two sites of eNOS palmitoylation , cysteines 15 and 26 .
+PMC2064233	true	sec-4	9	54	DHHC-2 , -3 , -7 , -8 , and -21 localize to the Golgi region and plasma membrane in a pattern similar to eNOS
+PMC2064233	false	sec-4	10	55	We expressed the HA tagged DHHC proteins in COS-7 cells and localized them by immunofluorescence microscopy .
+PMC2064233	false	sec-4	10	56	As shown in         , DHHC-21 ( middle ) colocalized with the Golgi matrix protein GM-130 ( left ) , as did DHHC-2 , -3 , -7 , and -8                                                                              .
+PMC2064233	false	sec-4	10	57	Increasing the magnification of these images by 4x                    depicts clear colocalization of DHHC-21 with GM130 and a lesser amount of protein in the plasma membrane                   .
+PMC2064233	false	sec-4	10	58	Next , we determined the proportional distribution of these enzymes in sodium carbonate using a discontinuous sucrose gradient .
+PMC2064233	false	sec-4	10	59	In this method , tightly embedded membrane proteins are buoyant ( at the 5-30 % sucrose interface in fractions 2-4 ) , whereas soluble proteins remain at the bottom of the gradient ( in fractions 7-10 ) .
+PMC2064233	false	sec-4	10	60	In all the gradients , the distribution of caveolin-1 , the coat protein of caveolae , and beta-COP , a marker of Golgi and post-Golgi vesicles were used to confirm adequate fractionation .
+PMC2064233	false	sec-4	10	61	As shown in         , the DHHCs and eNOS cofractionated into two pools , light membranes enriched in caveolin-1 and heavy membranes enriched in beta-COP and beta-actin ( not depicted ) .
+PMC2064233	false	sec-4	10	62	Densitometric quantification                   of protein localization showed that a fraction of all DHHCs sediment as integral membrane proteins , with the greatest proportional amount for DHHC-2 and -21 .
+PMC2064233	false	fig-2	11	63	DHHC-PATs colocalize with GM130 and eNOS and cosediment with eNOS .
+PMC2064233	false	fig-2	11	64	( A ) COS-7 cells were transfected with HA tagged DHHC cDNAs .
+PMC2064233	false	fig-2	11	65	After 48 h , cells were fixed , incubated with antibodies against GM-130 ( Golgi marker ; green ) and HA ( red ) , and mounted on glass slides with medium containing nuclear dye DAPI ( blue ) .
+PMC2064233	false	fig-2	11	66	Merged images with DAPI are shown .
+PMC2064233	false	fig-2	11	67	Bars , 10 mum .
+PMC2064233	false	fig-2	11	68	( B ) COS-7 cells were transfected with plasmids encoding DHHC-HA enzymes and eNOS , and lysates were fractionated as described ( see Materials and methods ) .
+PMC2064233	false	fig-2	11	69	Equal volumes of each fraction were separated by SDS-PAGE and Western blotted for eNOS , HA , caveolin-1 , and beta-COP .
+PMC2064233	false	fig-2	11	70	Results are representative of two separate experiments that gave similar results .
+PMC2064233	false	fig-2	11	71	Quantitative analysis shows that DHHC-2 and -21 are enriched in light membrane fractions .
+PMC2064233	false	fig-2	11	72	In region of interest 1 , the arrow is pointing to Golgi localized DHHC-21 , whereas in region of interest 2 , the arrow is pointing to DHHC-21 in plasma membrane .
+PMC2064233	true	sec-5	12	73	Colocalization and coimmunoprecipitation of DHHC enzymes with eNOS
+PMC2064233	false	sec-5	13	74	Next , we examined colocalization of eNOS with DHHC enzymes by immunofluorescence microscopy in transfected cells .
+PMC2064233	false	sec-5	13	75	COS-7 cells were cotransfected with the cDNAs for eNOS and HA tagged DHHC-21 and localized with antibodies against eNOS and the HA epitope .
+PMC2064233	false	sec-5	13	76	As shown in         , eNOS and DHHC-21 ( other DHHCs are shown in Fig .
+PMC2064233	false	sec-5	13	77	S2 , available at http://www.jcb.org/cgi/content/full/jcb.200601051/DC1 ) colocalized in the Golgi region and to a lesser extent in plasma membrane .
+PMC2064233	false	sec-5	13	78	Because palmitoylation is a cytoplasmic event and eNOS is a peripheral membrane protein , we determined whether DHHC enzymes and eNOS can interact .
+PMC2064233	false	sec-5	13	79	As seen in          ( left ) , the HA tagged DHHCs and eNOS were well expressed in total cell lysates prepared from the cells .
+PMC2064233	false	sec-5	13	80	Immunoprecipitation of HA tagged DHHC enzymes using an anti-HA monoclonal antibody detected the coassociation with eNOS                                           with the DHHCs , whereas no immunoreactive protein was observed after immunoprecipitation of lysates from cells expressing eNOS alone                              .
+PMC2064233	false	fig-3	14	81	DHHC-PATs colocalize with eNOS and interact in coprecipitation experiments .
+PMC2064233	false	fig-3	14	82	( A ) COS-7 cells were transfected with eNOS and HA tagged DHHC-21 cDNAs .
+PMC2064233	false	fig-3	14	83	After 48 h , cells were fixed , incubated with antibodies against eNOS ( green ) and HA ( red ) , and mounted on glass slides with medium containing nuclear dye DAPI ( blue ) .
+PMC2064233	false	fig-3	14	84	Bars , 10 mum .
+PMC2064233	false	fig-3	14	85	( B ) Coexpression of eNOS and DHHCs in COS-7 cell lysates ( left ) and the interaction between eNOS and the DHHC-HA after purification of the HA tagged DHHC ( right ) .
+PMC2064233	false	fig-3	14	86	( C ) Coexpression of Golgi targeted eNOS ( S17 eNOS ) or plasma membrane targeted eNOS ( S25 eNOS ) and DHHCs in COS-7 cell lysates ( left ) and the coprecipitation of eNOS isoforms with DHHC-HA enzymes ( right ) .
+PMC2064233	false	fig-3	14	87	( D ) WT and eNOS phosphomutants ( S1179A and S1179D eNOS ) and DHHC-PATs were coexpressed in COS-7 cells ( left ) , and the interaction between these proteins was studied after immunoprecipitation using anti-HA antibody ( right ) .
+PMC2064233	false	fig-3	14	88	These experiments are representative of three separate experiments that gave similar results .
+PMC2064233	false	sec-5	15	89	Previously , we targeted eNOS to the Golgi versus the plasma membrane using different domains of syntaxin-3                                              .
+PMC2064233	false	sec-5	15	90	To determine the importance of localization on the interaction between eNOS and DHHC enzymes , we cotransfected Golgi targeted eNOS ( eNOS S17 ) or plasma membrane targeted eNOS ( eNOS S25 ) and DHHC-3 , -7 , and -21 .
+PMC2064233	false	sec-5	15	91	As shown in         , the interaction between the Golgi targeted eNOS and the DHHC enzymes was stronger than the plasma membrane targeted isoform , consistent with the majority of DHHCs and eNOS present on the Golgi of transfected cells         .
+PMC2064233	false	fig-2	16	92	Next , we assessed whether the phosphorylation state could affect the interaction of eNOS with DHHCs .
+PMC2064233	false	fig-2	16	93	To address this question , DHHCs were cotransfected with wild-type ( WT ) eNOS and two eNOS phosphomutants , eNOS S1179A and S1179D .
+PMC2064233	false	fig-2	16	94	Serine 1179 is a key phosphorylation site for several kinases , including Akt , AMP kinase , and cAMP protein kinase                      , and phosphorylation of this site is associated with eNOS activation .
+PMC2064233	false	fig-2	16	95	Mutation of S1179 to D renders eNOS constitutively active , whereas S1179 to A is less activated                                                                  .
+PMC2064233	false	fig-2	16	96	As seen in         , in all cases , WT and phosphomutants were associated with DHHC enzymes , indicating that phosphorylation of this particular residue was not critical for the interaction of eNOS with DHHC-3 and -21 .
+PMC2064233	true	sec-6	17	97	eNOS fatty acylation is required for an efficient interaction with DHHC proteins and NO release
+PMC2064233	false	sec-6	18	98	To examine whether the localization of eNOS is important for the interaction of eNOS with DHHCs , COS cells were transfected with WT and different mutants of eNOS that influence eNOS acylation and targeting           .
+PMC2064233	false	sec-6	18	99	Cells were transfected with WT eNOS ( N myristoylated and S palmitoylated , Golgi , and plasmalemma targeted ) , G2A eNOS ( neither N myristoylated nor S palmitoylated and cytosolic ) , C15 and 26S eNOS ( N myristoylated but not S palmitoylated ; diffuse perinuclear localization ) , or L2S eNOS ( N myristoylated but not palmitoylated because of the mutation of the intervening leucines between the two palmitoylation sites , C15 and C26 ; diffuse perinuclear pattern ;                 ,     ;                     with DHHC-3-HA .
+PMC2064233	false	sec-6	18	100	As shown in          ( left ) , WT eNOS is primarily Golgi targeted and G2A eNOS is diffusely distributed throughout the cells , whereas the palmitoylation deficient mutants , C15 and 26S and L2S eNOS , were retained in the perinuclear region but are more diffusely distributed compared with WT eNOS .
+PMC2064233	false	sec-6	18	101	WT eNOS clearly colocalized with HA tagged DHHC-3 , whereas G2A eNOS did not , and the palmitoylation mutants ( C15 and 26S and L2S eNOS ) had a partially overlapping perinuclear pattern .
+PMC2064233	false	fig-4	19	102	eNOS palmitoylation state regulates the interaction of eNOS with DHHC-PATs and NO release .
+PMC2064233	false	fig-4	19	103	( A ) Schematic illustration of eNOS constructs .
+PMC2064233	false	fig-4	19	104	WT eNOS ( both myristoylated and palmitoylated ) , G2A eNOS ( neither myristoylated nor palmitoylated ) , and C15 and 26S and L2S eNOS ( myristoylated but not palmitoylated ) .
+PMC2064233	false	fig-4	19	105	( B ) COS-7 cells were transfected with HA tagged DHHC and eNOS cDNAs .
+PMC2064233	false	fig-4	19	106	After 48 h , cells were fixed , incubated with antibodies against eNOS ( green ) and HA ( red ) , and mounted on glass slides with medium containing nuclear dye DAPI ( blue ) .
+PMC2064233	false	fig-4	19	107	Merged images with DAPI are shown .
+PMC2064233	false	fig-4	19	108	Bars , 10 muM .
+PMC2064233	false	fig-4	19	109	( C ) COS-7 cells transfected with plasmids encoding DHHC-3 ( top ) or -21 ( bottom ) and eNOS mutants were subjected to immunoprecipitation with anti-HA monoclonal antibody and Western blotted for eNOS to determine relative coassociation with DHHC enzymes .
+PMC2064233	false	fig-4	19	110	The left panels show expression of eNOS ( top ) and DHHC-PPATs ( bottom ) in total cell lysates , the middle panels show the quantitative recovery of the HA tagged DHHC , and the right panels show the specific coassociation of WT eNOS with DHHC-3 and -21 .
+PMC2064233	false	fig-4	19	111	The Western blots are representative of two separate experiments that gave similar results .
+PMC2064233	false	fig-4	19	112	NO release from COS-7 cells cotransfected with WT eNOS ( D ) , G2A eNOS ( E ) , C15 and C26 eNOS ( F ) , and DHHC ( D-F ) cDNAs .
+PMC2064233	false	fig-4	19	113	The nitrite accumulation in the medium was quantified after 24 h. All of the data represent the mean + /- SEM in three separate experiments .
+PMC2064233	false	fig-4	19	114	* , P < 0.05 compared with eNOS alone .
+PMC2064233	false	sec-6	20	115	Next , we performed coimmunoprecipitation experiments to determine the role of acylation and subcellular localization on the coassociation of eNOS with DHHC .
+PMC2064233	false	sec-6	20	116	The eNOS constructs and DHHC-3 or -21 were equally expressed based on Western blotting of the proteins in cell lysates                 , and immunoprecipitation of DHHC-3-HA resulted in ample recovery                    of DHHC-3 and -21 .
+PMC2064233	false	sec-6	20	117	Interestingly , immunoprecipitation of DHHC-3 and -21 resulted in the coassociation with WT eNOS but not with the other acylation defective eNOS mutants                  .
+PMC2064233	false	sec-6	20	118	These results indicate that the fatty acylation and targeting are important for the interaction between eNOS and the DHHC-PATs .
+PMC2064233	false	fig-2	21	119	Finally , we examined whether the DHHCs can influence eNOS function by measuring NO release ( as nitrite after 24 h of accumulation ) .
+PMC2064233	false	fig-2	21	120	Cotransfection of COS-7 cells with WT eNOS and DHHC-3 , -7 , and -21 increased the basal accumulation of NO2- into the media           .
+PMC2064233	false	fig-2	21	121	However , this effect was eliminated in cells cotransfected with acylation defective G2A or C15 and 26S eNOS                  .
+PMC2064233	true	sec-7	22	122	Knock down of endogenous DHHC-21 , but not -3 , levels in endothelial cells impairs eNOS palmitoylation , cellular targeting , and NO release
+PMC2064233	false	sec-7	23	123	Although several DHHC enzymes can palmitoylate eNOS , DHHC-21 mRNA was the most highly expressed in endothelial cells , and the protein localized on the Golgi and interacted with eNOS .
+PMC2064233	false	sec-7	23	124	To determine the role of DHHC-21 in palmitoylating eNOS in endothelial cells , an RNAi approach was used .
+PMC2064233	false	sec-7	23	125	As shown in         , transfection of endothelial cells with DHHC-21 siRNA duplex RNAs ( at 12.5 nM ) reduced the expression of DHHC-21 ( via quantitative RT-PCR ) expression in a time dependent manner , with maximal reduction at 48 h , where nonsilencing RNA as a control was ineffective .
+PMC2064233	false	sec-7	23	126	The reduction in DHHC-21 mRNA levels resulted in a marked diminution in the incorporation of 3 [ H ] - palmitate into eNOS by ~ 60 %           .
+PMC2064233	false	sec-7	23	127	Because eNOS palmitoylation is crucial for the perinuclear targeting of eNOS onto the Golgi , we performed an immunofluorescence analysis of eNOS in DHHC-21-depleted endothelial cells .
+PMC2064233	false	sec-7	23	128	As shown in          ( middle ) , knock down of DHHC-21 resulted in a more diffuse , perinuclear pattern of eNOS immunoreactivity compared with cells treated with nonsilencing RNA ( left ) .
+PMC2064233	false	sec-7	23	129	In addition , treatment of endothelial cells with 2-bromopalmitate , a substrate based inhibitor of palmitoylation , resulted in a similar but more extensive mislocalization of eNOS                  .
+PMC2064233	false	fig-5	24	130	Depletion of DHHC-21 expression in endothelial cells reduces eNOS palmitoylation , localization , and NO release .
+PMC2064233	false	fig-5	24	131	( A ) DHHC-21 siRNA down-regulates DHHC-21 mRNA expression .
+PMC2064233	false	fig-5	24	132	EA.hy .926 cells were transfected with a control ( nonsilencing [ NS ] ) or DHHC-21 siRNA duplex .
+PMC2064233	false	fig-5	24	133	The DHHC-21 expression at the indicated time points was determined by real-time PCR .
+PMC2064233	false	fig-5	24	134	( B ) EA.hy .926 cells were transfected with a control ( nonsilencing ) or DHHC-21 siRNA , and cells were labeled with 3 [ H ] - palmitate for 4 h and eNOS immunoprecipitated .
+PMC2064233	false	fig-5	24	135	The percentage of labeled eNOS and total eNOS from two experiments was then quantified .
+PMC2064233	false	fig-5	24	136	( C ) EA.hy .926 cells were transfected with nonsilencing or DHHC-21 siRNA or treated with 100 muM 2-bromopalmitate , and cells were fixed and stained for eNOS ( green ) and nuclei ( DAPI ; blue ) and analyzed by immunofluorescence microscopy .
+PMC2064233	false	fig-5	24	137	Arrows indicate a significant decrease in NO2- release after DHHC-21 knockdown .
+PMC2064233	false	fig-5	24	138	Bars , 15 mum .
+PMC2064233	false	fig-5	24	139	( D ) NO release from control EA.hy .926 cells or cells transfected with nonsilencing or DHHC-21 siRNAs .
+PMC2064233	false	fig-5	24	140	The nitrite accumulation was quantified for 8 h ( basal ; left ) and after the stimulation with ionomycin ( middle ) or ATP ( right ) for 30 min .
+PMC2064233	false	fig-5	24	141	( E ) DHHC-3 siRNA down-regulates DHHC-3 mRNA expression .
+PMC2064233	false	fig-5	24	142	EA.hy .926 cells were transfected with a control ( nonsilencing ) or DHHC-3 siRNA duplex .
+PMC2064233	false	fig-5	24	143	The DHHC-3 expression at the indicated time points was determined by real-time PCR .
+PMC2064233	false	fig-5	24	144	( F ) NO release from control EA.hy .926 cells or cells transfected with nonsilencing or DHHC-3 siRNAs .
+PMC2064233	false	fig-5	24	145	The nitrite accumulation was quantified for 8 h ( basal ) and after the stimulation with ATP for 30 min .
+PMC2064233	false	fig-5	24	146	The data represent the mean + /- SEM of triplicate samples repeated in three separate experiments .
+PMC2064233	false	fig-5	24	147	* , P < 0.05 compared with control .
+PMC2064233	false	sec-7	25	148	We next examined the effect of DHHC-21 knockdown on basal and agonist stimulated NO release from endothelial cells .
+PMC2064233	false	sec-7	25	149	In endothelial cells , increases in cytoplasmic calcium activate calmodulin , which binds to the canonical CaM binding domain in eNOS and serves as an allosteric regulator of electron flux through eNOS , leading to a burst of NO release                                                                    .
+PMC2064233	false	sec-7	25	150	Reduction of DHHC-21 , but not treatment with nonsilencing RNA , caused a slight decrease the basal accumulation of NO2- into the media                 .
+PMC2064233	false	sec-7	25	151	More important , reduction in DHHC-21 reduced the release of NO2- stimulated by both ionomycin ( middle ) and ATP ( right ) , indicating the importance of eNOS palmitoylation via DHHC-21 for eNOS activation .
+PMC2064233	false	sec-7	25	152	To examine the specificity of DHHC-21 knockdown on eNOS function , we also reduced the levels of DHHC-3 with RNAi .
+PMC2064233	false	sec-7	25	153	As seen in         , transfection of endothelial cells with DHHC-3 siRNA ( at 12.5 nM ) reduced the expression of DHHC-3 ( via quantitative RT-PCR ) expression where nonsilencing RNA as a control was ineffective .
+PMC2064233	false	sec-7	25	154	However , under these conditions , basal and ATP stimulated NO2- was not affected           .
+PMC2064233	false	sec-8	26	155	The most salient feature of this paper is the identification of five DHHC-PAT cDNAs that can palmitoylate the dually acylated , peripheral membrane protein eNOS in vivo .
+PMC2064233	false	sec-8	26	156	DHHC-2 , -3 , -7 , -8 , and -21 colocalize with GM-130 , a peripheral membrane protein of the Golgi in transfected cells , suggesting that palmitoylation can occur on the cytoplasmic aspect of the Golgi complex .
+PMC2064233	false	sec-8	26	157	The aforementioned DHHC-PATs also colocalize and associate with eNOS , providing evidence for the compartmentalization of protein palmitoylation .
+PMC2064233	false	sec-8	26	158	Most critical , reduction of DHHC-21 in endothelial cells diminishes eNOS palmitoylation , mislocalizes eNOS , and impairs agonist stimulated NO release .
+PMC2064233	false	sec-8	27	159	Although cysteine palmitoylation has long been recognized as important for protein trafficking and function , enzymes responsible for this have been elusive .
+PMC2064233	false	sec-8	27	160	Genetic and biochemical studies in yeast initially identified that two genes containing CRDs are essential for palmitoylation of Ras2 and casein kinase                                       .
+PMC2064233	false	sec-8	27	161	This led to the discovery of mammalian DHHC genes and identification of their specific substrates .
+PMC2064233	false	sec-8	27	162	Out of the 23 independent mammalian genes encoding DHHC containing proteins , only a few enzyme substrates have been identified .
+PMC2064233	false	sec-8	27	163	DHHC-2 , -3 , -7 , and -15 can palmitoylate PSD-95                      , DHHC-3 ( GODZ ;                      can palmitoylate the GABA-A receptor                      , DHHC-17 can palmitoylate several neuronal substrates , including SNAP-25 and PSD-95                     , and DHHC-9 can palmitoylate H- and N-Ras                         .
+PMC2064233	false	sec-8	27	164	In the present study , only DHHC-2 , -3 , -7 , -8 , and -21 significantly increased the incorporation of palmitate into eNOS , suggesting some degree of substrate specificity of the DHHCs .
+PMC2064233	false	sec-8	27	165	As DHHC-2 , -3 , and -7 can palmitoylate the nonmyristoylated proteins PSD95 and GalphaS , these candidates are less likely to be specific N-myristoyl-requiring PATs                      .
+PMC2064233	false	sec-8	27	166	RNAi mediated knockdown of endogenous DHHC-21 in endothelial cells reduces the incorporation of 3 [ H ] - palmitate into eNOS , mislocalizes eNOS , and reduces agonist stimulated NO release , whereas knock down of DHHC-3 did not reduce NO release , suggesting that although at least five DHHCs can significantly palmitoylate eNOS in transfected cells , DHHC-21 may be a more specific eNOS PAT .
+PMC2064233	false	sec-8	27	167	The reasons for the apparent specificity of DHHC-21 toward eNOS in endothelial cells are not known , but it may be due to the amount of DHHC-21 protein relative to other DHHCs expressed in endothelial cells or to the posttranslational modification of DHHCs that may determine its substrate specificity or regulate its activity in a cell specific context .
+PMC2064233	false	sec-8	27	168	In addition , we can not rule the possibility that other DHHCs palmitoylate eNOS in endothelial cells , as a substantial knock down of DHHC-21 reduced palmitoylation by only 50 % and NO release by 70 % .
+PMC2064233	false	sec-8	27	169	Additional experiments using isoform selective antibodies and recombinant DHHC proteins with various substrates will help deconvolve DHHC substrate specificity and kinetics in more detail .
+PMC2064233	false	sec-8	28	170	Other interesting findings are that DHHC-2 , -3 , -7 , -8 , and -21 all enhance the transfer of palmitate into eNOS and are strongly colocalized with GM130 , a Golgi matrix protein localized to the cytoplasmic face of the Golgi , consistent with our previous suggestion that the Golgi is the site for eNOS palmitoylation                              .
+PMC2064233	false	sec-8	28	171	Palmitoylation of substrates on the Golgi would stabilize protein association via kinetic trapping                     and allow for protein localization either on the Golgi or movement to the plasma membrane , as recently confirmed for Ras                     .
+PMC2064233	false	sec-8	28	172	Supporting this are data showing that DHHC-9 , an H- and N-Ras PAT , colocalizes and interacts with GCP16 , which is a Golgi localized cosubunit                          that appears necessary for DHHC-9 activity toward Ras and movement of Ras to the plasma membrane .
+PMC2064233	false	sec-8	29	173	For most dually acylated proteins , N myristoylation is a cotranslational modification that favors posttranslational cysteine palmitoylation .
+PMC2064233	false	sec-8	29	174	For eNOS , mutation of the palmitoylation sites does not affect N myristoylation but blocks tight perinuclear targeting and NO release from cells                               .
+PMC2064233	false	sec-8	29	175	The mistargeting and dysfunction of these mutants may reflect a structural change or lack of palmitoylation ; however , our RNAi experiments , which show that reduction in DHHC-21 decreases eNOS palmitoylation and impairs targeting , indicate that palmitoylation of eNOS is crucial for proper targeting and function .
+PMC2064233	false	sec-8	30	176	The discovery of DHHC-PATs in vascular cells represents a new , exciting area .
+PMC2064233	false	sec-8	30	177	Many proteins involved in signal transduction are palmitoylated , and this fatty acid modification is often necessary for function .
+PMC2064233	false	sec-8	30	178	Understanding the tissue and cellular distribution of DHHCs and their substrates is critical for identification of PAT inhibitors that may be therapeutically useful .
+PMC2064233	false	sec-8	30	179	Our data showing that DHHC-21 is a major eNOS PAT suggests that antagonizing this enzyme may be useful for reducing NO dependent changes in vascular permeability and tumor angiogenesis .
+PMC2064233	false	sec-10	31	180	Mouse monoclonal antibodies against caveolin-1 , GM 130 , and eNOS were provided by BD Biosciences .
+PMC2064233	false	sec-10	31	181	Rabbit polyclonal antibody anti-beta-COP was purchased from Affinity BioReagents , Inc. .
+PMC2064233	false	sec-10	31	182	Mouse monoclonal against beta-actin antibody was provided by Sigma-Aldrich .
+PMC2064233	false	sec-10	31	183	Rat monoclonal antibody anti-HA high affinity ( 3F10 ) was purchased from Roche .
+PMC2064233	false	sec-10	31	184	Rabbit polyclonal antibody against phospho-eNOS ( Ser 1179 ) was obtained from Zymed Laboratories .
+PMC2064233	false	sec-10	31	185	Goat anti-mouse IRDye 800 conjugated antibody was purchased from Rockland .
+PMC2064233	false	sec-10	31	186	Goat anti-rabbit Alexa fluor 680 antibody was provided by Invitrogen , and goat anti-rat Texas red dye conjugated antibody was purchased from Jackson ImmunoResearch Laboratories .
+PMC2064233	false	sec-10	31	187	The chemical products were provided by Sigma-Aldrich .
+PMC2064233	true	sec-11	32	188	Cell culture
+PMC2064233	false	sec-11	33	189	HEK 293 , COS-7 , HASMC , A 459 , LnCap , and EA.hy .926 cells were grown in high-glucose DME ( Invitrogen ) supplemented with FBS ( Hyclone ) , penicillin-streptomycin ( Sigma-Aldrich ) , and HAT ( EA.hy .926 only ; Sigma-Aldrich ) at 37degreesC in a humidified atmosphere of 5 % CO2 .
+PMC2064233	false	sec-11	33	190	HUVECs were grown in EGM-2 media ( Clonetics ) .
+PMC2064233	true	sec-12	34	191	Plasmid constructions and cell transfections
+PMC2064233	false	sec-12	35	192	cDNAs encoding DHHC proteins were cloned in PEF-Bos-HA ( BD Biosciences ) as previously described                      .
+PMC2064233	false	sec-12	35	193	WT , C15 and 26S , G2A , and L2S eNOS cDNAs were constructed and subcloned into the mammalian expression vector pcDNA3 ( Invitrogen ) as previously described                   .
+PMC2064233	false	sec-12	35	194	S17 , S25 , S1179A , and S1179D eNOS cDNAs were constructed and subcloned in pcDNA3 vector ( Invitrogen ) as previously described                                                    .
+PMC2064233	false	sec-12	35	195	The sequences of the PCR fragments cloned were verified by DNA sequencing .
+PMC2064233	false	sec-12	35	196	For cell transfection , semiconfluent ( 60 % ) COS-7 and HEK 293 cells were grown in 6-well plates and transfected with the different plasmids using Lipofectamine 2000 .
+PMC2064233	false	sec-12	35	197	A beta-gal plasmid was used to normalize DNA quantities .
+PMC2064233	false	sec-13	36	198	COS-7 and EA.hy .926 cells grown on coverslips were fixed with 4 % PFA for 5 min at room temperature and rinsed twice with PBS .
+PMC2064233	false	sec-13	36	199	The cells were then permeabilized with 0.1 % Triton X-100 for 10 min , washed twice with PBS , and incubated with blocking solution ( 5 % normal goat serum in PBS ) for 45 min at room temperature .
+PMC2064233	false	sec-13	36	200	Next , the cells were incubated with the primary antibodies ( diluted 1:500 ) overnight at 4degreesC and washed twice with blocking solution , followed by a 45-min incubation with fluorophore conjugated secondary antibody ( FITC or TRITC ; diluted 1:250 ) at room temperature .
+PMC2064233	false	sec-13	36	201	The coverslips were then mounted on glass slides with Gelvatol and DAPI ( Sigma-Aldrich ) and analyzed with an epifluorescence microscope ( Axiovert ; Carl Zeiss MicroImaging , Inc. ) with a 63x objective .
+PMC2064233	false	sec-13	36	202	Images were acquired using a charge coupled device camera ( Axio ; Carl Zeiss MicroImaging , Inc. ) .
+PMC2064233	false	sec-13	36	203	Analysis of different images was performed using Openlab software ( Improvision ) after subtracting background .
+PMC2064233	false	sec-14	37	204	48 h after transfection of eNOS and DHHC plasmids into COS-7 cells , the media was removed and the cells were supplemented with serum-free DME for 24 h .
+PMC2064233	false	sec-14	37	205	The media was then processed for the measurement of nitrite ( NO2 - ) by a NO specific chemiluminescence analyzer ( Sievers ) as described previously                      .
+PMC2064233	false	sec-14	37	206	The same cells were then incubated with fresh , serum-free DME for 30 min to calculate the preagonist nitrite accumulation .
+PMC2064233	false	sec-14	37	207	Subsequently , the cells were incubated with 1 muM ionomicin for another 30 min to allow postagonist nitrite accumulation .
+PMC2064233	false	sec-14	37	208	The medium was then harvested , and nitrite accumulation was measured .
+PMC2064233	false	sec-14	37	209	In other experiments , DHHC-21 and -3 were silenced after treatment with specific siRNAs for 48 h , and EA.hy .926 cells were analyzed for basal and stimulated NO release as described .
+PMC2064233	true	sec-15	38	210	Sucrose gradient
+PMC2064233	false	sec-15	39	211	Transfected COS-7 cells ( 150-mm dish ) were washed twice with PBS and scrapped into 2 ml of ice-cold 500 mM sodium carbonate , pH 11 , supplemented with 1 mg and ml protease inhibitor cocktail ( Roche ) , Dounce homogenized , and sonicated ( three 20-s bursts at 30 % of maximal power ) .
+PMC2064233	false	sec-15	39	212	The homogenate was then adjusted to 42.5 % sucrose by the addition of 2 ml 85 % sucrose prepared in MBS ( 25 mM MES , pH 6.5 , and 0.5 M NaCl ) and placed at the bottom of an ultracentrifuge tube .
+PMC2064233	false	sec-15	39	213	A 5-30 % discontinuous sucrose gradient was formed ( 3 ml of 5 % sucrose and 5 ml of 30 % sucrose , both in MES containing 250 mM sodium carbonate ) and centrifuged at 35,000 rpm for 18 h in a rotor ( SW40 ; Beckman Coulter ) .
+PMC2064233	false	sec-15	39	214	Gradient fractions ( 1 ml ) were collected from the top of the tube , and 50 mul of each fraction ( 1-12 ) was used for Western blotting analysis as described previously                    .
+PMC2064233	false	sec-15	39	215	The percentage of total proteins in different fractions was determined by densitometry and plotted as percentage of total protein ( NIH program ) .
+PMC2064233	false	sec-16	40	216	EA.hy .926 and COS-7 cells were lysed in ice-cold buffer containing 50 mM Tris-HCl , pH 7.5 , 10 % glycerol , 125 mM NaCl , 1 % NP-40 , 5.3 mM NaF , 1.5 mM NaP , 1mM orthovanadate , 1 mg and ml protease inhibitor cocktail ( Roche ) , and 0.25 mg and ml AEBSF ( Roche ) .
+PMC2064233	false	sec-16	40	217	Cell lysates were rotated at 4degreesC for 30 min before the insoluble material was removed by centrifugation at 12,000 g for 10 min .
+PMC2064233	false	sec-16	40	218	After normalizing for equal protein concentration , lysates were precleared by incubation with protein G-agarose for 45 min at 4degreesC with rocking .
+PMC2064233	false	sec-16	40	219	Precleared samples were then immunoprecipitated with anti-HA and anti-eNOS antibodies .
+PMC2064233	false	sec-16	40	220	Proteins in both the cell lysates and immunoprecipitates were heated in SDS sample buffer before separation by SDS-PAGE .
+PMC2064233	false	sec-16	40	221	After overnight transfer of the proteins onto nitrocellulose membranes , Western blots were performed using the antibodies described above ( see Chemicals and antibodies ) .
+PMC2064233	false	sec-17	41	222	Transfected HEK 293 cells were preincubated for 30 min in serum-free DME with 10 mg and ml of fatty acid-free BSA ( Sigma-Aldrich ) .
+PMC2064233	false	sec-17	41	223	Cells were then labeled with 0.5 mCi and ml 3 [ H ] - palmitic acid ( PerkinElmer ) for 4 h in the preincubation medium .
+PMC2064233	false	sec-17	41	224	Cells were washed with PBS , scraped with SDS-PAGE sample buffer ( 62.5 mM Tris-HCl , pH 6.8 , 10 % glycerol , 2 % SDS , 0,001 % bromophenol blue , and 10 mM DTT ) , and boiled for 2 min .
+PMC2064233	false	sec-17	41	225	In other experiments , EA.hy .926 cells were solubilized by incubation in 1 ml of lysis buffer containing 50 mM Tris-HCl , pH 7.5 , 10 % glycerol , 125 mM NaCl , 1 % NP-40 , 5.3 mM NaF , 1.5 mM NaP , 1 mM orthovanadate , 1 mg and ml protease inhibitor cocktail , and 0.25 mg and ml AEBSF and subjected to eNOS immunoprecipitation as described above ( see Immunoprecipitation and immunoblotting ) .
+PMC2064233	false	sec-17	41	226	For fluorography , protein samples were separated by SDS-PAGE .
+PMC2064233	false	sec-17	41	227	Gels were treated with Amplify ( GE Healthcare ) for 30 min , dried under vacuum , and exposed to a film ( Biomax MS ; Kodak ) .
+PMC2064233	false	sec-17	41	228	Autoradiographs were scanned with a scanner ( Canon ) and quantified using the IMAGE J ( NIH ) program .
+PMC2064233	false	sec-18	42	229	DHHC-21 ( available from GenBank/EMBL/DDBJ under accession no .
+PMC2064233	false	sec-18	42	230	NM_178566 ) DNA and DHHC-3 ( accession no .
+PMC2064233	false	sec-18	42	231	NM_016598 ) target sequences were designed by QIAGEN ( HP guaranteed siRNA ) .
+PMC2064233	false	sec-18	42	232	In all experiments , we used the same concentration of each of the four siRNAs ( 12.5 nM ) .
+PMC2064233	false	sec-18	42	233	The target sequences for DHHC-21 were 5 ' - CAGGCAGTTATAAGATTGCAA-3 ' ( siRNA-1 ) , 5 ' - CTAGTATAACTAGATAGTATA-3 ' ( siRNA-2 ) , 5 ' - TAGCTAGTGTTAGGAAGTGAA-3 ' ( siRNA-3 ) , and 5 ' - CACCTTCTTATAGTATAGGTA-3 ' ( siRNA-4 ) .
+PMC2064233	false	sec-18	42	234	The target sequences for DHHC-3 were 5 ' - ACGGGAATAGAACAATTGAAA-3 ' ( siRNA-1 ) , 5 ' AACATTGAGCGGAAACCAGAA-3 ' ( siRNA-2 ) , 5 ' - AAAGGAAATGCCACTAAAGAA-3 ' ( siRNA-3 ) , and 5 ' - CTACGTGTATAGCATCATCAA ( siRNA-4 ) .
+PMC2064233	false	sec-18	42	235	Our nonsilencing DNA target was 5 ' - AATTCTCCGAACGTGTCACGT-3 ' .
+PMC2064233	false	sec-18	42	236	siRNA duplexes were formed according to the manufacturer 's protocol .
+PMC2064233	false	sec-18	42	237	For cell transfection , EA.hy .926 cells were grown to 30 % of confluence in 6-well plates .
+PMC2064233	false	sec-18	42	238	150 mul of Opti-MEM-1 medium ( Invitrogen ) was incubated for 5 min with siRNA sequences ( 50 nM final concentration ) .
+PMC2064233	false	sec-18	42	239	In addition , 150 mul of Opti-MEM-1 was incubated with 5 mul of Oligofectamine ( Invitrogen ) for 5 min .
+PMC2064233	false	sec-18	42	240	The two solutions were combined and incubated at room temperature for 30 min and then added to cells ( 1.5 ml of total volume ) for 6 h .
+PMC2064233	false	sec-18	42	241	After transfection , cells were supplemented with 1.5 ml of DME with 10 % FBS and antibiotics .
+PMC2064233	false	sec-19	43	242	Total RNA was extracted with Trizol reagent ( Invitrogen ) .
+PMC2064233	false	sec-19	43	243	cDNA was synthesized from 5 mug using SuperScript first-strand synthesis system for RT-PCR ( Invitrogen ) .
+PMC2064233	false	sec-19	43	244	A 1-mul aliquot of the reverse transcription reaction was then used for subsequent PCR amplification with specific primers .
+PMC2064233	false	sec-19	43	245	Each 25-mul PCR contained 1 mul of the reverse transcription reaction , 1 mM dNTPs ( Roche ) , 20 pmol of each primer , and 1.25 U of Taq DNA polymerase ( QIAGEN ) .
+PMC2064233	false	sec-19	43	246	The primers sequences used were as follows : GAPDH ( available from GenBank/EMBL/DDBJ under accession no .
+PMC2064233	false	sec-19	43	247	BC_013310 ) , 5 ' - CCACCCATGGCCAAATTCCATGGCA-3 ' and 5 ' - TCTAGACGGCAGGTCAGGTCCACC-3 ' ; DHHC-2 ( accession no .
+PMC2064233	false	sec-19	43	248	NM_016353 ) , 5 ' - CGCCATCCAGCTGTGCATAGTG-3 ' and 5 ' - GAGCAGTGATGGCAGCGATCTG-3 ' ; DHHC-3 ( accession no .
+PMC2064233	false	sec-19	43	249	NM_016598 ) , 5 ' - TGTTTGTAAGCGGTGCATTCGG-3 ' and 5 ' - TTGGTCTGGCGTGGCAAAGG-3 ' ; DHHC-7 ( accession no .
+PMC2064233	false	sec-19	43	250	NM_017740 ) , 5 ' - TGCGATGGGAAGGGATGAAGTC-3 ' and 5 ' - GGCGTTTGGCTTCTTCGTGTG-3 ' ; DHHC-8 ( accession no .
+PMC2064233	false	sec-19	43	251	NM_013373 ) , 5 ' - TCAAACCCGCCAAGTACATCCC-3 ' and 5 ' - ACGCCCGATGCAGTTGTTGAC-3 ' ; and DHHC-21 ( accession no .
+PMC2064233	false	sec-19	43	252	NM_178566 ) 5 ' - AAGCGTTCCCATCACTGCAGC-3 ' and 5 ' - GAACTCGCAGTGGTTGCCTCTG-3 ' .
+PMC2064233	false	sec-19	43	253	Each cycle of PCR consisted of denaturation at 90degreesC for 1 min , primer annealing at 60degreesC for 1 min , and primer extension at 72degreesC for 2 min .
+PMC2064233	false	sec-19	43	254	PCR products were separated on a 2 % agarose gel and stained with ethidium bromide .
+PMC2064233	false	sec-19	43	255	Quantitative real-time PCR was performed by using iQ SYBR green supermix on iCycler real-time detection system ( Bio-Rad Laboratories ) .
+PMC2064233	false	sec-20	44	256	The results are expressed as mean + /- SD .
+PMC2064233	false	sec-20	44	257	Statistical comparisons between groups were done by the t test , using the Statgraphics Plus 5.0 program ( Statistical Graphics Corp. ) .
+PMC2064233	false	sec-21	45	258	Fig .
+PMC2064233	false	sec-21	45	259	S1 shows the colocalization between DHHC-CRD enzymes ( DHHC-2 , -3 , -7 , and -8 ) and GM-130 , a Golgi marker .
+PMC2064233	false	sec-21	45	260	Fig .
+PMC2064233	false	sec-21	45	261	S2 demonstrates the colocalization between eNOS and different acyl transferases ( DHHC-2 , -3 , -7 , and -8 ) .
+PMC2064233	false	sec-21	45	262	Online supplemental material is available at http://www.jcb.org/cgi/content/full/jcb.200601051/DC1 .
+PMC2064233	false	sec-22	46	263	This work was supported by grants R01 HL64793 , R01 HL 61371 , R01 HL 57665 , and P01 HL 70295 from the National Institutes of Health to W.C. Sessa .
+PMC2064233	false	sec-22	46	264	C. Fernandez-Hernando is supported by a fellowship from the Spanish Ministry of Education and Science .
+PMC2064233	false	sec-22	46	265	P.N. Bernatchez is supported by fellowships from the Canadian Institutes of Health Research and the American Heart Association .

@@ -1,0 +1,235 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2364174	0	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	0	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	0	ncbitax:species:ncbi:9606	human	Species
+PMC2364174	0	uazid:UA-ORG-116	breast	Organ
+PMC2364174	1	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	1	uniprot:P01133	epidermal growth factor	Gene_or_gene_product
+PMC2364174	1	uniprot:UNRESOLVED ID	epidermal growth factor receptors	Gene_or_gene_product
+PMC2364174	2	uniprot:P01133	epidermal growth factor	Gene_or_gene_product
+PMC2364174	2	uniprot:P00533	epidermal growth factor receptor	Gene_or_gene_product
+PMC2364174	2	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	3	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	3	uazid:UA-ORG-116	breast	Organ
+PMC2364174	3	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	3	uniprot:UNRESOLVED ID	MCF7-B2	Gene_or_gene_product
+PMC2364174	4	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	4	uniprot:UNRESOLVED ID	p21WAF	Gene_or_gene_product
+PMC2364174	4	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2364174	4	uniprot:P10415	Bcl2	Gene_or_gene_product
+PMC2364174	5	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	5	uniprot:UNRESOLVED ID	MCF7-B2	Gene_or_gene_product
+PMC2364174	5	uniprot:UNRESOLVED ID	Deltap53	Gene_or_gene_product
+PMC2364174	6	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	6	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	6	uazid:UA-ORG-116	breast	Organ
+PMC2364174	7	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	7	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	10	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2364174	10	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2364174	10	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2364174	11	uniprot:P01133	epidermal growth factor	Gene_or_gene_product
+PMC2364174	11	uniprot:P00533	epidermal growth factor receptor	Gene_or_gene_product
+PMC2364174	11	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2364174	11	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	11	uniprot:P04626	HER2	Gene_or_gene_product
+PMC2364174	11	uniprot:P04626	neu	Gene_or_gene_product
+PMC2364174	12	ncbitax:species:ncbi:9606	human	Species
+PMC2364174	12	uazid:UA-ORG-116	breast	Organ
+PMC2364174	13	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	13	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2364174	14	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2364174	14	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2364174	14	uniprot:P01135	transforming growth factor-alpha	Gene_or_gene_product
+PMC2364174	14	uniprot:P01135	TGFalpha	Gene_or_gene_product
+PMC2364174	14	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	15	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	15	uniprot:P01135	TGFalpha	Gene_or_gene_product
+PMC2364174	15	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2364174	16	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2364174	16	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	16	uniprot:P12872	MAP	Gene_or_gene_product
+PMC2364174	17	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	17	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2364174	18	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	18	ncbitax:species:ncbi:9606	human	Species
+PMC2364174	18	uazid:UA-ORG-116	breast	Organ
+PMC2364174	18	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	19	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	19	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	22	ncbitax:species:ncbi:9606	human	Species
+PMC2364174	22	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2364174	22	uniprot:P01135	TGFalpha	Gene_or_gene_product
+PMC2364174	23	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2364174	23	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	23	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2364174	23	uniprot:P10415	Bcl2	Gene_or_gene_product
+PMC2364174	23	uniprot:UNRESOLVED ID	p21WAF	Gene_or_gene_product
+PMC2364174	24	uniprot:UNRESOLVED ID	Tyr1248-	Gene_or_gene_product
+PMC2364174	24	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	25	uniprot:UNRESOLVED ID	Tris base pH	Gene_or_gene_product
+PMC2364174	27	uniprot:P50991	SRB	Gene_or_gene_product
+PMC2364174	28	uniprot:P04053	Tdt	Gene_or_gene_product
+PMC2364174	34	uniprot:Q9NTI2	ml-1	Gene_or_gene_product
+PMC2364174	36	uniprot:Q9UJT0	tube	Gene_or_gene_product
+PMC2364174	36	uniprot:UNRESOLVED ID	2xBBS	Gene_or_gene_product
+PMC2364174	36	uniprot:P01298	pH	Gene_or_gene_product
+PMC2364174	36	uniprot:UNRESOLVED ID	125 mul of 1 M CaCl2	Gene_or_gene_product
+PMC2364174	38	uniprot:P01298	pH	Gene_or_gene_product
+PMC2364174	39	uniprot:Q9UJT0	tube	Gene_or_gene_product
+PMC2364174	40	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	41	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	42	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	42	uniprot:UNRESOLVED ID	leukaemia	CellType
+PMC2364174	42	uniprot:O60235	HAT	Gene_or_gene_product
+PMC2364174	43	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	43	uniprot:UNRESOLVED ID	Deltap53	Gene_or_gene_product
+PMC2364174	43	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	43	uniprot:O60235	HAT	Gene_or_gene_product
+PMC2364174	44	uniprot:O60235	HAT	Gene_or_gene_product
+PMC2364174	48	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2364174	48	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	49	uniprot:UNRESOLVED ID	x104 ml-1	Gene_or_gene_product
+PMC2364174	49	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2364174	49	uniprot:P01135	TGFalpha	Gene_or_gene_product
+PMC2364174	52	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2364174	52	uniprot:P01135	TGFalpha	Gene_or_gene_product
+PMC2364174	52	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	54	uniprot:O43557	light	Gene_or_gene_product
+PMC2364174	56	uniprot:O43557	light	Gene_or_gene_product
+PMC2364174	58	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	58	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2364174	60	uniprot:O43557	light	Gene_or_gene_product
+PMC2364174	60	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2364174	61	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2364174	61	uniprot:P01135	TGFalpha	Gene_or_gene_product
+PMC2364174	61	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	62	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	63	uniprot:UNRESOLVED ID	x104 ml-1	Gene_or_gene_product
+PMC2364174	63	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2364174	63	uniprot:P01135	TGFalpha	Gene_or_gene_product
+PMC2364174	66	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2364174	66	uniprot:P01135	TGFalpha	Gene_or_gene_product
+PMC2364174	66	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	68	uniprot:O43557	light	Gene_or_gene_product
+PMC2364174	70	uniprot:O43557	light	Gene_or_gene_product
+PMC2364174	71	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	72	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2364174	72	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	73	ncbitax:species:ncbi:9606	human	Species
+PMC2364174	73	uazid:UA-ORG-116	breast	Organ
+PMC2364174	73	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	73	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	74	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	75	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	76	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	77	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2364174	77	uniprot:P01133	epidermal growth factor	Gene_or_gene_product
+PMC2364174	77	uniprot:P00533	epidermal growth factor receptor	Gene_or_gene_product
+PMC2364174	77	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	78	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	78	ncbitax:species:ncbi:9606	human	Species
+PMC2364174	78	uazid:UA-ORG-116	breast	Organ
+PMC2364174	79	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	81	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	81	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2364174	81	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	81	uniprot:UNRESOLVED ID	p21WAF	Gene_or_gene_product
+PMC2364174	81	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2364174	82	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	82	uniprot:P10415	Bcl2	Gene_or_gene_product
+PMC2364174	82	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	83	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	84	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	85	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	86	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	87	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	88	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2364174	88	uniprot:P01133	epidermal growth factor	Gene_or_gene_product
+PMC2364174	88	uniprot:P00533	epidermal growth factor receptor	Gene_or_gene_product
+PMC2364174	88	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	89	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	89	ncbitax:species:ncbi:9606	human	Species
+PMC2364174	89	uazid:UA-ORG-116	breast	Organ
+PMC2364174	90	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	92	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	92	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	93	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	93	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	94	uniprot:UNRESOLVED ID	MCF7	Gene_or_gene_product
+PMC2364174	94	uniprot:P41348	B2	Gene_or_gene_product
+PMC2364174	94	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	94	uniprot:UNRESOLVED ID	p53Delta	Gene_or_gene_product
+PMC2364174	94	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	95	uniprot:UNRESOLVED ID	p21WAF	Gene_or_gene_product
+PMC2364174	96	uniprot:P10266	RT	Gene_or_gene_product
+PMC2364174	97	uniprot:Q8TAX0	Odd	Gene_or_gene_product
+PMC2364174	98	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	98	uniprot:UNRESOLVED ID	Deltap53	Gene_or_gene_product
+PMC2364174	99	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	99	uniprot:UNRESOLVED ID	p21WAF	Gene_or_gene_product
+PMC2364174	100	uniprot:UNRESOLVED ID	p21WAF	Gene_or_gene_product
+PMC2364174	100	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	101	uniprot:UNRESOLVED ID	p21WAF	Gene_or_gene_product
+PMC2364174	101	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	102	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	102	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	102	uniprot:UNRESOLVED ID	p21WAF	Gene_or_gene_product
+PMC2364174	103	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	104	uniprot:UNRESOLVED ID	MCF7	Gene_or_gene_product
+PMC2364174	104	uniprot:P41348	B2	Gene_or_gene_product
+PMC2364174	104	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	104	uniprot:UNRESOLVED ID	p53Delta	Gene_or_gene_product
+PMC2364174	104	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	105	uniprot:UNRESOLVED ID	p21WAF	Gene_or_gene_product
+PMC2364174	106	uniprot:P10266	RT	Gene_or_gene_product
+PMC2364174	107	uniprot:Q8TAX0	Odd	Gene_or_gene_product
+PMC2364174	108	uniprot:UNRESOLVED ID	MCF7-B2	Gene_or_gene_product
+PMC2364174	108	uniprot:UNRESOLVED ID	MCF7-Deltap53	Gene_or_gene_product
+PMC2364174	108	uniprot:UNRESOLVED ID	Deltap53	Gene_or_gene_product
+PMC2364174	109	uniprot:O43557	light	Gene_or_gene_product
+PMC2364174	110	uniprot:UNRESOLVED ID	MCF7	Gene_or_gene_product
+PMC2364174	110	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	110	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	111	uniprot:UNRESOLVED ID	MCF7 variants	Gene_or_gene_product
+PMC2364174	115	uniprot:UNRESOLVED ID	MCF7-Deltap53	Gene_or_gene_product
+PMC2364174	115	uniprot:UNRESOLVED ID	MCF7-B2	Gene_or_gene_product
+PMC2364174	115	uniprot:UNRESOLVED ID	Deltap53	Gene_or_gene_product
+PMC2364174	117	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	117	uniprot:Q969F0	fate	Gene_or_gene_product
+PMC2364174	117	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	118	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	118	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	119	uniprot:O43557	light	Gene_or_gene_product
+PMC2364174	120	uniprot:UNRESOLVED ID	MCF7	Gene_or_gene_product
+PMC2364174	120	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	120	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	121	uniprot:UNRESOLVED ID	MCF7 variants	Gene_or_gene_product
+PMC2364174	124	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	124	uniprot:P01133	EGF	Gene_or_gene_product
+PMC2364174	124	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2364174	125	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	125	uniprot:UNRESOLVED ID	tail	CellType
+PMC2364174	126	ncbitax:species:ncbi:9606	human	Species
+PMC2364174	126	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	127	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	127	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	128	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	128	uazid:UA-ORG-116	breast	Organ
+PMC2364174	129	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	129	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	130	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	131	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	131	ncbitax:species:ncbi:9606	human	Species
+PMC2364174	135	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	136	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	136	uniprot:P00533	EGFR	Gene_or_gene_product
+PMC2364174	137	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	138	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	138	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	139	ncbitax:species:ncbi:9606	Human	Species
+PMC2364174	139	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	139	uniprot:P04637	p53	Gene_or_gene_product
+PMC2364174	140	ncbitax:species:ncbi:9606	human	Species
+PMC2364174	140	uniprot:P04626	ErbB2	Gene_or_gene_product
+PMC2364174	141	uniprot:P04637	p53	Gene_or_gene_product

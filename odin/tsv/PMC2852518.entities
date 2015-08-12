@@ -1,0 +1,350 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2852518	0	uazid:UA-ORG-116	breast	Organ
+PMC2852518	1	uazid:UA-ORG-116	breast	Organ
+PMC2852518	3	uniprot:UNRESOLVED ID	aCGH	Gene_or_gene_product
+PMC2852518	5	uniprot:UNRESOLVED ID	aCGH	Gene_or_gene_product
+PMC2852518	5	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	5	uniprot:O43684	BUB3	Gene_or_gene_product
+PMC2852518	5	uniprot:Q9NX57	RAB20	Gene_or_gene_product
+PMC2852518	5	uniprot:UNRESOLVED ID	13q34	Gene_or_gene_product
+PMC2852518	5	uniprot:Q16512	PKN1	Gene_or_gene_product
+PMC2852518	5	uniprot:Q9UM47	NOTCH3	Gene_or_gene_product
+PMC2852518	6	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	7	uniprot:UNRESOLVED ID	PD173074	Gene_or_gene_product
+PMC2852518	7	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	8	uniprot:UNRESOLVED ID	PD173074	Gene_or_gene_product
+PMC2852518	8	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC2852518	9	uniprot:UNRESOLVED ID	aCGH datasets	Gene_or_gene_product
+PMC2852518	9	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	9	uniprot:UNRESOLVED ID	TNBC	Gene_or_gene_product
+PMC2852518	10	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	11	uazid:UA-ORG-116	breast	Organ
+PMC2852518	11	uniprot:P04626	HER2	Gene_or_gene_product
+PMC2852518	12	uniprot:UNRESOLVED ID	hormone receptors	Gene_or_gene_product
+PMC2852518	12	uniprot:P03372	ER	Gene_or_gene_product
+PMC2852518	12	uniprot:P06401	progesterone receptor	Gene_or_gene_product
+PMC2852518	12	uniprot:P06401	PR	Gene_or_gene_product
+PMC2852518	12	uniprot:P04626	HER2	Gene_or_gene_product
+PMC2852518	12	uazid:UA-ORG-116	breast	Organ
+PMC2852518	12	uazid:UA-ORG-381	hand	Organ
+PMC2852518	12	uniprot:UNRESOLVED ID	TNBC	Gene_or_gene_product
+PMC2852518	13	uazid:UA-ORG-116	breast	Organ
+PMC2852518	14	uniprot:UNRESOLVED ID	IDC-NST	Gene_or_gene_product
+PMC2852518	15	ncbitax:species:ncbi:9606	women	Species
+PMC2852518	16	uniprot:UNRESOLVED ID	TNBCs	Gene_or_gene_product
+PMC2852518	17	ncbitax:species:ncbi:9606	women	Species
+PMC2852518	18	uniprot:UNRESOLVED ID	TNBCs	Gene_or_gene_product
+PMC2852518	20	uniprot:UNRESOLVED ID	aCGH	Gene_or_gene_product
+PMC2852518	25	uniprot:P21802	fibroblast growth factor receptor 2	Gene_or_gene_product
+PMC2852518	25	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	27	uniprot:P03372	ER	Gene_or_gene_product
+PMC2852518	27	uniprot:P06401	PR	Gene_or_gene_product
+PMC2852518	27	uniprot:P04626	HER2	Gene_or_gene_product
+PMC2852518	29	uniprot:P03372	ER	Gene_or_gene_product
+PMC2852518	29	uniprot:P06401	PR	Gene_or_gene_product
+PMC2852518	29	uniprot:P04626	HER2	Gene_or_gene_product
+PMC2852518	29	uniprot:UNRESOLVED ID	antigen	Gene_or_gene_product
+PMC2852518	30	uniprot:UNRESOLVED ID	haematoxiylin-eosin	Gene_or_gene_product
+PMC2852518	31	uniprot:UNRESOLVED ID	needle	CellType
+PMC2852518	34	uniprot:UNRESOLVED ID	aCGH	Gene_or_gene_product
+PMC2852518	37	ncbitax:species:ncbi:9606	patient	Species
+PMC2852518	39	uniprot:UNRESOLVED ID	Picogreen	Gene_or_gene_product
+PMC2852518	40	uniprot:UNRESOLVED ID	CHORI	Gene_or_gene_product
+PMC2852518	40	uazid:UA-ORG-116	Breast	Organ
+PMC2852518	43	uniprot:UNRESOLVED ID	R script	Gene_or_gene_product
+PMC2852518	43	uniprot:UNRESOLVED ID	BACE.R	Gene_or_gene_product
+PMC2852518	44	uniprot:Q9Y2P5	BACs	Gene_or_gene_product
+PMC2852518	44	ncbitax:species:ncbi:9606	human	Species
+PMC2852518	45	uniprot:Q9Y2P5	BACs	Gene_or_gene_product
+PMC2852518	45	uniprot:Q9S752	Log2	Gene_or_gene_product
+PMC2852518	52	uniprot:Q9Y2P5	BACs	Gene_or_gene_product
+PMC2852518	53	uniprot:UNRESOLVED ID	aCGH cbs	Gene_or_gene_product
+PMC2852518	58	uniprot:Q9Y2H6	HUGO	Gene_or_gene_product
+PMC2852518	62	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2852518	64	uniprot:UNRESOLVED ID	PD173074	Gene_or_gene_product
+PMC2852518	65	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	65	uniprot:UNRESOLVED ID	siFGFR2	Gene_or_gene_product
+PMC2852518	65	uniprot:UNRESOLVED ID	M-003132-04	Gene_or_gene_product
+PMC2852518	65	uniprot:UNRESOLVED ID	siGENOME Non-Targeting siRNA Pool #1	Gene_or_gene_product
+PMC2852518	65	uniprot:UNRESOLVED ID	siCON	Gene_or_gene_product
+PMC2852518	65	uniprot:UNRESOLVED ID	D-001206-13	Gene_or_gene_product
+PMC2852518	66	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	66	uniprot:UNRESOLVED ID	sc-122	Gene_or_gene_product
+PMC2852518	66	uniprot:UNRESOLVED ID	Santa-Cruz	Gene_or_gene_product
+PMC2852518	66	uniprot:UNRESOLVED ID	phospho-FRS2-Tyr196	Gene_or_gene_product
+PMC2852518	66	uniprot:UNRESOLVED ID	phospho-AKT-Ser473	Gene_or_gene_product
+PMC2852518	66	uniprot:UNRESOLVED ID	phospho-ERK1	Gene_or_gene_product
+PMC2852518	66	uniprot:UNRESOLVED ID	2-Thr202	Gene_or_gene_product
+PMC2852518	66	uniprot:P60709	beta-Actin	Gene_or_gene_product
+PMC2852518	66	uniprot:UNRESOLVED ID	sc-1616	Gene_or_gene_product
+PMC2852518	68	uniprot:UNRESOLVED ID	Lipofectamine RNAiMax	Gene_or_gene_product
+PMC2852518	69	uniprot:P53350	PLK1	Gene_or_gene_product
+PMC2852518	71	uniprot:UNRESOLVED ID	PD173074	Gene_or_gene_product
+PMC2852518	72	uniprot:UNRESOLVED ID	SF50	Gene_or_gene_product
+PMC2852518	72	uniprot:Q96FA3	prism	Gene_or_gene_product
+PMC2852518	73	uniprot:UNRESOLVED ID	PD173074	Gene_or_gene_product
+PMC2852518	73	uniprot:UNRESOLVED ID	BEZ235	Gene_or_gene_product
+PMC2852518	73	uniprot:Q89330	CI	Gene_or_gene_product
+PMC2852518	74	uniprot:P9WQ36	FACS	Gene_or_gene_product
+PMC2852518	75	uniprot:UNRESOLVED ID	serum	CellType
+PMC2852518	77	uniprot:O14656	TA	Gene_or_gene_product
+PMC2852518	78	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	79	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	79	uazid:UA-ORG-116	breast	Organ
+PMC2852518	79	uniprot:Q9Y2P5	BACs	Gene_or_gene_product
+PMC2852518	79	uniprot:UNRESOLVED ID	RP11-300A10	Gene_or_gene_product
+PMC2852518	79	uniprot:UNRESOLVED ID	RP11-753P11	Gene_or_gene_product
+PMC2852518	80	uniprot:UNRESOLVED ID	50Kb	Gene_or_gene_product
+PMC2852518	83	uniprot:UNRESOLVED ID	TNBCs	Gene_or_gene_product
+PMC2852518	84	uniprot:UNRESOLVED ID	3q22-q26	Gene_or_gene_product
+PMC2852518	84	uniprot:UNRESOLVED ID	6p25-p21	Gene_or_gene_product
+PMC2852518	84	uniprot:UNRESOLVED ID	7q32-q36	Gene_or_gene_product
+PMC2852518	84	uniprot:UNRESOLVED ID	8p11-q24	Gene_or_gene_product
+PMC2852518	84	uniprot:UNRESOLVED ID	10p15.3-p11.21	Gene_or_gene_product
+PMC2852518	84	uniprot:UNRESOLVED ID	12p13-p11	Gene_or_gene_product
+PMC2852518	89	uniprot:UNRESOLVED ID	array CGH	Gene_or_gene_product
+PMC2852518	91	uazid:UA-ORG-116	breast	Organ
+PMC2852518	93	uniprot:P04637	p53	Gene_or_gene_product
+PMC2852518	93	uniprot:Q28ER3	survivin	Gene_or_gene_product
+PMC2852518	93	uniprot:O15392	BIRC5	Gene_or_gene_product
+PMC2852518	95	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	95	uniprot:UNRESOLVED ID	10q26	Gene_or_gene_product
+PMC2852518	95	uniprot:O43684	BUB3	Gene_or_gene_product
+PMC2852518	95	uniprot:Q9NX57	RAB20	Gene_or_gene_product
+PMC2852518	95	uniprot:UNRESOLVED ID	13q34	Gene_or_gene_product
+PMC2852518	95	uniprot:Q9UM47	NOTCH3	Gene_or_gene_product
+PMC2852518	95	uniprot:UNRESOLVED ID	19p13	Gene_or_gene_product
+PMC2852518	95	uniprot:Q16512	PKN1	Gene_or_gene_product
+PMC2852518	96	uniprot:Q9Y6Q6	rank	Gene_or_gene_product
+PMC2852518	99	uniprot:Q9UM47	NOTCH3	Gene_or_gene_product
+PMC2852518	99	uniprot:O43684	BUB3	Gene_or_gene_product
+PMC2852518	100	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	100	uazid:UA-ORG-116	breast	Organ
+PMC2852518	101	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	101	uniprot:UNRESOLVED ID	FGFRs	Gene_or_gene_product
+PMC2852518	102	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	103	ncbitax:species:ncbi:76720	Fisher	Species
+PMC2852518	105	uazid:UA-ORG-116	breast	Organ
+PMC2852518	105	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	106	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	106	uniprot:UNRESOLVED ID	SUM52PE	Gene_or_gene_product
+PMC2852518	107	uniprot:UNRESOLVED ID	MFM223	Gene_or_gene_product
+PMC2852518	107	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	107	uniprot:UNRESOLVED ID	aCGH	Gene_or_gene_product
+PMC2852518	108	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	108	uniprot:UNRESOLVED ID	FGFR2 FISH	Gene_or_gene_product
+PMC2852518	108	uniprot:UNRESOLVED ID	MFM223	Gene_or_gene_product
+PMC2852518	109	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	110	uniprot:UNRESOLVED ID	MFM223	Gene_or_gene_product
+PMC2852518	110	uniprot:UNRESOLVED ID	SUM52	Gene_or_gene_product
+PMC2852518	110	uniprot:P03372	ER	Gene_or_gene_product
+PMC2852518	110	uniprot:P06401	PR	Gene_or_gene_product
+PMC2852518	110	uniprot:P04626	HER2	Gene_or_gene_product
+PMC2852518	111	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	112	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	113	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	114	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	115	uniprot:UNRESOLVED ID	PD173074	Gene_or_gene_product
+PMC2852518	116	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	116	uniprot:UNRESOLVED ID	PD173074	Gene_or_gene_product
+PMC2852518	117	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	118	uniprot:UNRESOLVED ID	Fibroblast	CellType
+PMC2852518	118	uniprot:Q8WU20	FRS2	Gene_or_gene_product
+PMC2852518	118	uniprot:UNRESOLVED ID	FRS2-SOS-GRB2 complex	Gene_or_gene_product
+PMC2852518	118	uniprot:P27638	MAPK	Gene_or_gene_product
+PMC2852518	118	uniprot:UNRESOLVED ID	FRS2-SOS-GAB1 complex	Gene_or_gene_product
+PMC2852518	118	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC2852518	119	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	119	uniprot:UNRESOLVED ID	serum	CellType
+PMC2852518	119	uniprot:UNRESOLVED ID	PD173074	Gene_or_gene_product
+PMC2852518	120	uniprot:Q8WU20	FRS2	Gene_or_gene_product
+PMC2852518	120	uniprot:UNRESOLVED ID	serum	CellType
+PMC2852518	120	uniprot:UNRESOLVED ID	PD173074	Gene_or_gene_product
+PMC2852518	121	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	121	uniprot:P27361	ERK1	Gene_or_gene_product
+PMC2852518	121	uniprot:UNRESOLVED ID	MFM223	Gene_or_gene_product
+PMC2852518	122	uniprot:UNRESOLVED ID	SUM52PE	Gene_or_gene_product
+PMC2852518	122	uniprot:P29323	ERK	Gene_or_gene_product
+PMC2852518	123	uniprot:P54644	AKT	Gene_or_gene_product
+PMC2852518	123	uniprot:P27361	ERK1	Gene_or_gene_product
+PMC2852518	123	uniprot:UNRESOLVED ID	SKBR3	Gene_or_gene_product
+PMC2852518	123	uniprot:UNRESOLVED ID	HCC1143	Gene_or_gene_product
+PMC2852518	124	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	124	uniprot:UNRESOLVED ID	MFM223	Gene_or_gene_product
+PMC2852518	125	uniprot:UNRESOLVED ID	MFM223	Gene_or_gene_product
+PMC2852518	125	uniprot:UNRESOLVED ID	PD173074	Gene_or_gene_product
+PMC2852518	126	uniprot:UNRESOLVED ID	PD173074	Gene_or_gene_product
+PMC2852518	126	uniprot:UNRESOLVED ID	MCF7	Gene_or_gene_product
+PMC2852518	127	uniprot:P08758	Annexin V	Gene_or_gene_product
+PMC2852518	127	uniprot:P01009	PI	Gene_or_gene_product
+PMC2852518	127	uniprot:UNRESOLVED ID	PD173074	Gene_or_gene_product
+PMC2852518	128	uniprot:P08758	Annexin V	Gene_or_gene_product
+PMC2852518	128	uniprot:P01009	PI	Gene_or_gene_product
+PMC2852518	128	uniprot:UNRESOLVED ID	PD173074	Gene_or_gene_product
+PMC2852518	128	uniprot:Q9BVP2	NS	Gene_or_gene_product
+PMC2852518	128	uniprot:UNRESOLVED ID	MFM223	Gene_or_gene_product
+PMC2852518	129	uniprot:UNRESOLVED ID	MFM223	Gene_or_gene_product
+PMC2852518	129	uniprot:UNRESOLVED ID	serum	CellType
+PMC2852518	130	uniprot:UNRESOLVED ID	serum	CellType
+PMC2852518	131	uniprot:UNRESOLVED ID	serum	CellType
+PMC2852518	131	uniprot:UNRESOLVED ID	PD173074	Gene_or_gene_product
+PMC2852518	132	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	132	uniprot:P19957	PI3	Gene_or_gene_product
+PMC2852518	133	uniprot:P54644	AKT	Gene_or_gene_product
+PMC2852518	133	uniprot:UNRESOLVED ID	MFM223	Gene_or_gene_product
+PMC2852518	134	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC2852518	134	uniprot:UNRESOLVED ID	MFM223	Gene_or_gene_product
+PMC2852518	135	uniprot:P19957	PI3	Gene_or_gene_product
+PMC2852518	135	ncbitax:species:ncbi:9606	human	Species
+PMC2852518	136	uniprot:P19957	PI3	Gene_or_gene_product
+PMC2852518	137	uniprot:UNRESOLVED ID	MFM223	Gene_or_gene_product
+PMC2852518	137	uniprot:P19957	PI3	Gene_or_gene_product
+PMC2852518	137	uniprot:P42345	mTOR	Gene_or_gene_product
+PMC2852518	137	uniprot:UNRESOLVED ID	BEZ235	Gene_or_gene_product
+PMC2852518	137	uniprot:P54644	AKT	Gene_or_gene_product
+PMC2852518	138	uniprot:UNRESOLVED ID	BEZ235	Gene_or_gene_product
+PMC2852518	138	uniprot:UNRESOLVED ID	PD173074	Gene_or_gene_product
+PMC2852518	140	uniprot:UNRESOLVED ID	SUM52	Gene_or_gene_product
+PMC2852518	140	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC2852518	140	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC2852518	140	uniprot:UNRESOLVED ID	PD173074	Gene_or_gene_product
+PMC2852518	140	uniprot:UNRESOLVED ID	BEZ235	Gene_or_gene_product
+PMC2852518	140	uniprot:UNRESOLVED ID	CI 0.985	Gene_or_gene_product
+PMC2852518	141	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	141	uniprot:P42336	PIK3CA	Gene_or_gene_product
+PMC2852518	142	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	142	uniprot:UNRESOLVED ID	TNBC	Gene_or_gene_product
+PMC2852518	144	uniprot:P05452	TN	Gene_or_gene_product
+PMC2852518	146	uniprot:P04049	RAF1	Gene_or_gene_product
+PMC2852518	146	uniprot:Q05397	PTK2	Gene_or_gene_product
+PMC2852518	146	uniprot:O75747	PIK3C2G	Gene_or_gene_product
+PMC2852518	146	uniprot:P48730	CSNK1D	Gene_or_gene_product
+PMC2852518	146	uniprot:P45984	MAPK9	Gene_or_gene_product
+PMC2852518	146	uniprot:P62993	GRB2	Gene_or_gene_product
+PMC2852518	146	uniprot:Q13480	GAB1	Gene_or_gene_product
+PMC2852518	147	uniprot:P05452	TN	Gene_or_gene_product
+PMC2852518	147	uazid:UA-ORG-116	breast	Organ
+PMC2852518	148	uniprot:UNRESOLVED ID	TNBC	Gene_or_gene_product
+PMC2852518	149	uniprot:UNRESOLVED ID	TNBCs	Gene_or_gene_product
+PMC2852518	149	uniprot:UNRESOLVED ID	1p	Gene_or_gene_product
+PMC2852518	149	uniprot:UNRESOLVED ID	2q	Gene_or_gene_product
+PMC2852518	149	uniprot:UNRESOLVED ID	3p	Gene_or_gene_product
+PMC2852518	149	uniprot:UNRESOLVED ID	4p	Gene_or_gene_product
+PMC2852518	149	uniprot:UNRESOLVED ID	5q	Gene_or_gene_product
+PMC2852518	149	uniprot:UNRESOLVED ID	8p 9q	Gene_or_gene_product
+PMC2852518	149	uniprot:UNRESOLVED ID	23p	Gene_or_gene_product
+PMC2852518	149	uniprot:UNRESOLVED ID	3q	Gene_or_gene_product
+PMC2852518	149	uniprot:UNRESOLVED ID	6p	Gene_or_gene_product
+PMC2852518	149	uniprot:UNRESOLVED ID	9p	Gene_or_gene_product
+PMC2852518	149	uniprot:UNRESOLVED ID	7q	Gene_or_gene_product
+PMC2852518	149	uniprot:UNRESOLVED ID	8p	Gene_or_gene_product
+PMC2852518	149	uniprot:UNRESOLVED ID	10p	Gene_or_gene_product
+PMC2852518	149	uniprot:UNRESOLVED ID	12p	Gene_or_gene_product
+PMC2852518	150	uniprot:P03372	ER	Gene_or_gene_product
+PMC2852518	150	uazid:UA-ORG-116	breast	Organ
+PMC2852518	151	uniprot:UNRESOLVED ID	4p	Gene_or_gene_product
+PMC2852518	151	uniprot:UNRESOLVED ID	5q	Gene_or_gene_product
+PMC2852518	151	uniprot:UNRESOLVED ID	17p	Gene_or_gene_product
+PMC2852518	151	uniprot:UNRESOLVED ID	8p	Gene_or_gene_product
+PMC2852518	151	uniprot:P38398	BRCA1	Gene_or_gene_product
+PMC2852518	152	uniprot:P38398	BRCA1	Gene_or_gene_product
+PMC2852518	153	uniprot:P04626	HER2	Gene_or_gene_product
+PMC2852518	153	uniprot:P05452	TN	Gene_or_gene_product
+PMC2852518	153	uazid:UA-ORG-116	breast	Organ
+PMC2852518	154	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	154	uniprot:UNRESOLVED ID	10q26	Gene_or_gene_product
+PMC2852518	154	uniprot:O43684	BUB3	Gene_or_gene_product
+PMC2852518	154	uniprot:Q9NX57	RAB20	Gene_or_gene_product
+PMC2852518	154	uniprot:UNRESOLVED ID	13q34	Gene_or_gene_product
+PMC2852518	154	uniprot:Q9UM47	NOTCH3	Gene_or_gene_product
+PMC2852518	154	uniprot:UNRESOLVED ID	19p13	Gene_or_gene_product
+PMC2852518	154	uniprot:Q16512	PKN1	Gene_or_gene_product
+PMC2852518	155	uazid:UA-ORG-116	breast	Organ
+PMC2852518	156	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	156	uazid:UA-ORG-116	breast	Organ
+PMC2852518	156	uniprot:P03372	ER	Gene_or_gene_product
+PMC2852518	157	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	157	uniprot:P03372	ER	Gene_or_gene_product
+PMC2852518	158	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	159	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	159	uazid:UA-ORG-116	breast	Organ
+PMC2852518	160	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	160	uniprot:UNRESOLVED ID	PI3K-AKT	Gene_or_gene_product
+PMC2852518	161	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	161	uniprot:P54644	AKT	Gene_or_gene_product
+PMC2852518	162	uniprot:UNRESOLVED ID	MFM223	Gene_or_gene_product
+PMC2852518	162	uniprot:P54644	AKT	Gene_or_gene_product
+PMC2852518	162	uniprot:UNRESOLVED ID	PI3KCA kinase mutation	Gene_or_gene_product
+PMC2852518	162	uniprot:UNRESOLVED ID	PI3KCA kinase domain mutation	Gene_or_gene_product
+PMC2852518	163	uniprot:UNRESOLVED ID	SUM52	Gene_or_gene_product
+PMC2852518	163	uniprot:P60484	PTEN	Gene_or_gene_product
+PMC2852518	163	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	164	uniprot:UNRESOLVED ID	HCC1143	Gene_or_gene_product
+PMC2852518	164	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	165	uniprot:UNRESOLVED ID	HCC1143	Gene_or_gene_product
+PMC2852518	166	uniprot:P05452	TN	Gene_or_gene_product
+PMC2852518	169	uniprot:UNRESOLVED ID	TNBC	Gene_or_gene_product
+PMC2852518	171	uniprot:UNRESOLVED ID	TNBCs	Gene_or_gene_product
+PMC2852518	172	uazid:UA-ORG-116	Breast	Organ
+PMC2852518	173	uniprot:UNRESOLVED ID	CRUK clinician scientist	Gene_or_gene_product
+PMC2852518	174	uniprot:Q6T4R5	NHS	Gene_or_gene_product
+PMC2852518	175	uazid:UA-ORG-116	breast	Organ
+PMC2852518	176	uniprot:UNRESOLVED ID	aCGH	Gene_or_gene_product
+PMC2852518	177	uazid:UA-ORG-75	axis	Organ
+PMC2852518	178	uazid:UA-ORG-75	axis	Organ
+PMC2852518	179	uniprot:Q9S752	log2	Gene_or_gene_product
+PMC2852518	186	uniprot:UNRESOLVED ID	aCGH	Gene_or_gene_product
+PMC2852518	187	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	188	uazid:UA-ORG-116	breast	Organ
+PMC2852518	188	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	188	uniprot:UNRESOLVED ID	MFM223	Gene_or_gene_product
+PMC2852518	189	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	190	uniprot:UNRESOLVED ID	MFM223	Gene_or_gene_product
+PMC2852518	190	uniprot:UNRESOLVED ID	SUM52PE	Gene_or_gene_product
+PMC2852518	190	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	191	uniprot:Q5TCZ1	FISH	Gene_or_gene_product
+PMC2852518	191	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	192	uniprot:UNRESOLVED ID	MFM223	Gene_or_gene_product
+PMC2852518	192	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	193	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	194	uazid:UA-ORG-116	breast	Organ
+PMC2852518	194	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	194	uniprot:UNRESOLVED ID	MFM223	Gene_or_gene_product
+PMC2852518	195	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	196	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	196	uniprot:UNRESOLVED ID	siCON	Gene_or_gene_product
+PMC2852518	198	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	198	uniprot:Q13123	Red	Gene_or_gene_product
+PMC2852518	200	uazid:UA-ORG-116	breast	Organ
+PMC2852518	200	uniprot:UNRESOLVED ID	PD173074	Gene_or_gene_product
+PMC2852518	201	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	202	uniprot:UNRESOLVED ID	serum	CellType
+PMC2852518	202	uniprot:UNRESOLVED ID	1muM PD173074	Gene_or_gene_product
+PMC2852518	203	uniprot:P21802	FGFR2	Gene_or_gene_product
+PMC2852518	203	uniprot:UNRESOLVED ID	FRS2-Tyr196	Gene_or_gene_product
+PMC2852518	203	uniprot:UNRESOLVED ID	AKT1-Ser473	Gene_or_gene_product
+PMC2852518	203	uniprot:P27361	ERK1	Gene_or_gene_product
+PMC2852518	203	uniprot:UNRESOLVED ID	2-Thr202	Gene_or_gene_product
+PMC2852518	203	uniprot:P24385	CCND1	Gene_or_gene_product
+PMC2852518	203	uniprot:P60709	beta-Actin	Gene_or_gene_product
+PMC2852518	204	uniprot:UNRESOLVED ID	MFM223	Gene_or_gene_product
+PMC2852518	204	uniprot:UNRESOLVED ID	serum	CellType
+PMC2852518	204	uniprot:UNRESOLVED ID	1muM PD173074	Gene_or_gene_product
+PMC2852518	205	uniprot:UNRESOLVED ID	MFM223	Gene_or_gene_product
+PMC2852518	205	uniprot:P54644	AKT	Gene_or_gene_product
+PMC2852518	206	uniprot:P01009	PI	Gene_or_gene_product
+PMC2852518	206	uniprot:UNRESOLVED ID	MCF7	Gene_or_gene_product
+PMC2852518	206	uniprot:UNRESOLVED ID	MFM223	Gene_or_gene_product
+PMC2852518	207	uniprot:P08758	Annexin V	Gene_or_gene_product
+PMC2852518	207	uniprot:P01009	PI	Gene_or_gene_product
+PMC2852518	207	uniprot:UNRESOLVED ID	MCF7	Gene_or_gene_product
+PMC2852518	207	uniprot:UNRESOLVED ID	MFM223	Gene_or_gene_product
+PMC2852518	208	uniprot:P08758	Annexin V	Gene_or_gene_product
+PMC2852518	208	uniprot:P01009	PI	Gene_or_gene_product
+PMC2852518	208	uniprot:UNRESOLVED ID	PD173074	Gene_or_gene_product
+PMC2852518	208	uniprot:Q9BVP2	NS	Gene_or_gene_product
+PMC2852518	208	uniprot:UNRESOLVED ID	MFM223	Gene_or_gene_product
+PMC2852518	209	uniprot:P01009	PI	Gene_or_gene_product
+PMC2852518	209	uniprot:UNRESOLVED ID	1muM PD173074	Gene_or_gene_product
+PMC2852518	209	uniprot:UNRESOLVED ID	BEZ235 250nM	Gene_or_gene_product
+PMC2852518	211	uniprot:UNRESOLVED ID	Error bars SEM	Gene_or_gene_product

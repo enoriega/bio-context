@@ -1,0 +1,474 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2132836	0	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	0	uniprot:UNRESOLVED ID	Robo	Gene_or_gene_product
+PMC2132836	0	uniprot:O42043	Surface Protein	Gene_or_gene_product
+PMC2132836	1	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	1	uniprot:UNRESOLVED ID	Ig	Gene_or_gene_product
+PMC2132836	1	uniprot:UNRESOLVED ID	Robo	Gene_or_gene_product
+PMC2132836	1	uniprot:UNRESOLVED ID	ras oncogene	Gene_or_gene_product
+PMC2132836	2	uniprot:UNRESOLVED ID	cdo mRNA	Gene_or_gene_product
+PMC2132836	3	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	3	uniprot:UNRESOLVED ID	myoblast	CellType
+PMC2132836	3	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2132836	4	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	5	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	6	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	6	uniprot:UNRESOLVED ID	C2C12	Gene_or_gene_product
+PMC2132836	6	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	7	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	7	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	7	uniprot:UNRESOLVED ID	C2C12	Gene_or_gene_product
+PMC2132836	8	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	8	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	9	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	9	uazid:UA-ORG-599	muscle	Organ
+PMC2132836	10	ncbitax:species:ncbi:10090	Mouse	Species
+PMC2132836	11	ncbitax:species:ncbi:10090	mouse	Species
+PMC2132836	11	uniprot:Q2G0B1	rat	Species
+PMC2132836	12	ncbitax:species:ncbi:10090	mouse	Species
+PMC2132836	12	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	12	uniprot:Q2G0B1	rat	Species
+PMC2132836	12	ncbitax:species:ncbi:9606	human	Species
+PMC2132836	13	ncbitax:species:ncbi:10090	mouse	Species
+PMC2132836	13	uniprot:UNRESOLVED ID	AF090866	Gene_or_gene_product
+PMC2132836	14	ncbitax:species:ncbi:10090	mouse	Species
+PMC2132836	18	uniprot:P54829	step	Gene_or_gene_product
+PMC2132836	20	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2132836	21	ncbitax:species:ncbi:9796	horse	Species
+PMC2132836	21	uniprot:UNRESOLVED ID	serum	CellType
+PMC2132836	24	uniprot:Q9HAH7	FBS	Gene_or_gene_product
+PMC2132836	26	uniprot:P01106	Myc	Gene_or_gene_product
+PMC2132836	26	uniprot:P15172	myoD	Gene_or_gene_product
+PMC2132836	26	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2132836	26	ncbitax:species:ncbi:10090	mouse	Species
+PMC2132836	31	uniprot:P15172	myoD	Gene_or_gene_product
+PMC2132836	31	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2132836	31	uniprot:P13349	myf-5	Gene_or_gene_product
+PMC2132836	33	uniprot:P01298	pH	Gene_or_gene_product
+PMC2132836	33	uniprot:P20132	SDS	Gene_or_gene_product
+PMC2132836	33	uniprot:UNRESOLVED ID	mM EGTA	Gene_or_gene_product
+PMC2132836	33	uniprot:UNRESOLVED ID	mM PMSF	Gene_or_gene_product
+PMC2132836	33	uniprot:P10145	NaF	Gene_or_gene_product
+PMC2132836	34	uniprot:UNRESOLVED ID	anti-myosin heavy chain	Gene_or_gene_product
+PMC2132836	34	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2132836	34	uniprot:UNRESOLVED ID	MF20	Gene_or_gene_product
+PMC2132836	34	uniprot:P13805	TnT	Gene_or_gene_product
+PMC2132836	34	uniprot:UNRESOLVED ID	anti-myogenin	Gene_or_gene_product
+PMC2132836	35	uniprot:P01298	pH	Gene_or_gene_product
+PMC2132836	35	ncbitax:species:ncbi:3704	horseradish	Species
+PMC2132836	36	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2132836	36	uniprot:UNRESOLVED ID	monoclonal antibody MF20	Gene_or_gene_product
+PMC2132836	37	uniprot:Q96T53	goat	Species
+PMC2132836	37	uniprot:UNRESOLVED ID	IgG	Gene_or_gene_product
+PMC2132836	37	uniprot:Q05855	peroxidase	Gene_or_gene_product
+PMC2132836	37	uniprot:P22629	streptavidin	Gene_or_gene_product
+PMC2132836	38	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	39	uniprot:Q2G0B1	rat	Species
+PMC2132836	39	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	39	uniprot:UNRESOLVED ID	Aptag-2	Gene_or_gene_product
+PMC2132836	39	uniprot:UNRESOLVED ID	Igtag	Gene_or_gene_product
+PMC2132836	39	uniprot:UNRESOLVED ID	CDO-alkaline phosphatase	Gene_or_gene_product
+PMC2132836	39	uniprot:UNRESOLVED ID	CDO-Fc	Gene_or_gene_product
+PMC2132836	42	uniprot:UNRESOLVED ID	Aptag-4	Gene_or_gene_product
+PMC2132836	43	uniprot:UNRESOLVED ID	CDO-AP	Gene_or_gene_product
+PMC2132836	44	uniprot:UNRESOLVED ID	CDO-Fc	Gene_or_gene_product
+PMC2132836	44	uniprot:Q96T53	goat	Species
+PMC2132836	48	uniprot:UNRESOLVED ID	cdo mRNA	Gene_or_gene_product
+PMC2132836	49	uniprot:UNRESOLVED ID	Ig	Gene_or_gene_product
+PMC2132836	49	uniprot:UNRESOLVED ID	FNIII family	Gene_or_gene_product
+PMC2132836	49	uniprot:UNRESOLVED ID	Robo	Gene_or_gene_product
+PMC2132836	49	uniprot:UNRESOLVED ID	cdo mRNA	Gene_or_gene_product
+PMC2132836	50	uniprot:Q16878	cdo	Gene_or_gene_product
+PMC2132836	51	uniprot:UNRESOLVED ID	neural tube	CellType
+PMC2132836	52	uazid:UA-ORG-518	lips	Organ
+PMC2132836	52	uniprot:UNRESOLVED ID	neural tube	CellType
+PMC2132836	52	uniprot:UNRESOLVED ID	cdo mRNA	Gene_or_gene_product
+PMC2132836	53	uniprot:UNRESOLVED ID	mesoderm	CellType
+PMC2132836	54	uniprot:Q16878	cdo	Gene_or_gene_product
+PMC2132836	55	uniprot:Q16878	cdo	Gene_or_gene_product
+PMC2132836	56	uniprot:Q16878	cdo	Gene_or_gene_product
+PMC2132836	57	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	57	uniprot:UNRESOLVED ID	myoblast	CellType
+PMC2132836	58	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	58	uniprot:UNRESOLVED ID	Myoblast	CellType
+PMC2132836	59	uniprot:UNRESOLVED ID	serum	CellType
+PMC2132836	59	uazid:UA-ORG-599	muscle	Organ
+PMC2132836	60	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2132836	60	uniprot:Q9W4S7	DM	Gene_or_gene_product
+PMC2132836	60	uniprot:UNRESOLVED ID	MHC 24	Gene_or_gene_product
+PMC2132836	61	uniprot:Q9W4S7	DM	Gene_or_gene_product
+PMC2132836	61	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2132836	63	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	63	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2132836	65	uniprot:Q2G0B1	Rat	Species
+PMC2132836	65	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2132836	65	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	67	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	68	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	68	uniprot:UNRESOLVED ID	myoblast	CellType
+PMC2132836	69	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	70	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	70	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2132836	72	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	73	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2132836	74	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	74	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2132836	76	uniprot:Q9W4S7	DM	Gene_or_gene_product
+PMC2132836	76	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	77	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2132836	77	uniprot:P13805	TnT	Gene_or_gene_product
+PMC2132836	77	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	78	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	78	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2132836	78	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	80	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	81	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	81	uniprot:UNRESOLVED ID	myoblast	CellType
+PMC2132836	82	uniprot:UNRESOLVED ID	C2C12	Gene_or_gene_product
+PMC2132836	82	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	83	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2132836	83	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2132836	85	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	87	uniprot:UNRESOLVED ID	C2C12	Gene_or_gene_product
+PMC2132836	88	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	88	uniprot:UNRESOLVED ID	serum	CellType
+PMC2132836	88	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2132836	89	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	90	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	90	uniprot:UNRESOLVED ID	v-H-ras	Gene_or_gene_product
+PMC2132836	91	uniprot:UNRESOLVED ID	myoblast	CellType
+PMC2132836	91	uniprot:P15172	myoD	Gene_or_gene_product
+PMC2132836	91	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2132836	91	uniprot:UNRESOLVED ID	myogenic bHLH factors	Gene_or_gene_product
+PMC2132836	92	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	92	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2132836	93	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	95	uniprot:UNRESOLVED ID	C2C12	Gene_or_gene_product
+PMC2132836	95	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	96	uazid:UA-ORG-599	muscle	Organ
+PMC2132836	97	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	97	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2132836	98	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	99	uazid:UA-ORG-599	muscle	Organ
+PMC2132836	99	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2132836	99	uniprot:P13805	TnT	Gene_or_gene_product
+PMC2132836	100	uazid:UA-ORG-599	muscle	Organ
+PMC2132836	100	uniprot:P13349	myf-5	Gene_or_gene_product
+PMC2132836	100	uniprot:UNRESOLVED ID	myogenic bHLH factors	Gene_or_gene_product
+PMC2132836	101	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	101	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	101	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2132836	101	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2132836	101	uniprot:P13805	TnT	Gene_or_gene_product
+PMC2132836	103	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	104	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	104	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2132836	104	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2132836	104	uniprot:P13805	TnT	Gene_or_gene_product
+PMC2132836	106	uniprot:Q9W4S7	DM	Gene_or_gene_product
+PMC2132836	106	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	107	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	107	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	108	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	108	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	110	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	111	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	112	uniprot:UNRESOLVED ID	C2C12	Gene_or_gene_product
+PMC2132836	112	uniprot:P00552	neo	Gene_or_gene_product
+PMC2132836	115	uniprot:Q2G0B1	Rat	Species
+PMC2132836	115	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2132836	115	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	116	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	117	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	118	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2132836	119	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	119	uniprot:UNRESOLVED ID	C2C12	Gene_or_gene_product
+PMC2132836	120	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	123	uniprot:UNRESOLVED ID	C2C12	Gene_or_gene_product
+PMC2132836	123	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	125	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	125	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	127	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	127	uniprot:UNRESOLVED ID	C2C12	Gene_or_gene_product
+PMC2132836	127	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	128	uniprot:UNRESOLVED ID	C2C12	Gene_or_gene_product
+PMC2132836	128	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	128	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	128	uniprot:P15172	myoD	Gene_or_gene_product
+PMC2132836	128	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2132836	129	uniprot:UNRESOLVED ID	myogenic bHLH factors	Gene_or_gene_product
+PMC2132836	129	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	130	uniprot:P01106	myc	Gene_or_gene_product
+PMC2132836	130	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	130	uniprot:UNRESOLVED ID	C2C12	Gene_or_gene_product
+PMC2132836	130	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	131	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2132836	132	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	132	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2132836	133	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	133	uazid:UA-ORG-599	muscle	Organ
+PMC2132836	133	uniprot:Q7Z2V1	protein TnT	Gene_or_gene_product
+PMC2132836	134	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	134	uniprot:UNRESOLVED ID	C2C12	Gene_or_gene_product
+PMC2132836	134	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	134	uniprot:UNRESOLVED ID	myogenic bHLH factors	Gene_or_gene_product
+PMC2132836	135	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2132836	135	uniprot:UNRESOLVED ID	C2C12	Gene_or_gene_product
+PMC2132836	136	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2132836	136	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	137	uazid:UA-CT-200002	embryo	Organ
+PMC2132836	137	uniprot:UNRESOLVED ID	fibroblast	CellType
+PMC2132836	137	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	138	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	138	uniprot:UNRESOLVED ID	myoblast	CellType
+PMC2132836	139	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2132836	140	uniprot:Q16878	cdo	Gene_or_gene_product
+PMC2132836	141	uniprot:UNRESOLVED ID	myogenic bHLH factors	Gene_or_gene_product
+PMC2132836	141	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	141	uazid:UA-ORG-599	muscle	Organ
+PMC2132836	141	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2132836	142	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	143	uniprot:UNRESOLVED ID	Ig	Gene_or_gene_product
+PMC2132836	143	uniprot:UNRESOLVED ID	FNIII family	Gene_or_gene_product
+PMC2132836	144	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	144	uniprot:UNRESOLVED ID	recombinant soluble fusion proteins	Gene_or_gene_product
+PMC2132836	144	uniprot:UNRESOLVED ID	Fc region	Gene_or_gene_product
+PMC2132836	144	ncbitax:species:ncbi:9606	human	Species
+PMC2132836	144	uniprot:UNRESOLVED ID	CDO-AP	Gene_or_gene_product
+PMC2132836	144	uniprot:UNRESOLVED ID	CDO-Fc	Gene_or_gene_product
+PMC2132836	144	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2132836	146	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	147	uniprot:UNRESOLVED ID	CDO-AP	Gene_or_gene_product
+PMC2132836	147	uniprot:UNRESOLVED ID	CDO-Fc	Gene_or_gene_product
+PMC2132836	148	uniprot:UNRESOLVED ID	CDO-AP	Gene_or_gene_product
+PMC2132836	148	uniprot:UNRESOLVED ID	CDO-Fc	Gene_or_gene_product
+PMC2132836	150	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2132836	151	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2132836	152	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	152	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2132836	152	uniprot:Q9HD26	Fig	Gene_or_gene_product
+PMC2132836	154	uniprot:UNRESOLVED ID	CDO-AP	Gene_or_gene_product
+PMC2132836	154	uniprot:UNRESOLVED ID	CDO-Fc	Gene_or_gene_product
+PMC2132836	154	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2132836	154	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2132836	154	uniprot:P13805	TnT	Gene_or_gene_product
+PMC2132836	155	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	155	uniprot:UNRESOLVED ID	CDO-AP	Gene_or_gene_product
+PMC2132836	155	uniprot:UNRESOLVED ID	CDO-Fc	Gene_or_gene_product
+PMC2132836	155	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	156	uniprot:UNRESOLVED ID	CDO-AP	Gene_or_gene_product
+PMC2132836	156	uniprot:UNRESOLVED ID	CDO-Fc	Gene_or_gene_product
+PMC2132836	156	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	157	uniprot:UNRESOLVED ID	CDO-Fc	Gene_or_gene_product
+PMC2132836	158	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	158	uniprot:UNRESOLVED ID	CDO-AP	Gene_or_gene_product
+PMC2132836	158	uniprot:UNRESOLVED ID	CDO-Fc	Gene_or_gene_product
+PMC2132836	158	uazid:UA-ORG-599	muscle	Organ
+PMC2132836	158	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2132836	159	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	160	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	161	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	161	ncbitax:species:ncbi:31931	retrovirus	Species
+PMC2132836	161	uniprot:UNRESOLVED ID	murine cdo cDNA	Gene_or_gene_product
+PMC2132836	163	ncbitax:species:ncbi:31931	retrovirus	Species
+PMC2132836	164	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	164	uniprot:UNRESOLVED ID	myoblast	CellType
+PMC2132836	165	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	166	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	166	uniprot:UNRESOLVED ID	Ig	Gene_or_gene_product
+PMC2132836	166	uniprot:UNRESOLVED ID	FNIII	Gene_or_gene_product
+PMC2132836	167	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	167	uniprot:UNRESOLVED ID	myoblast	CellType
+PMC2132836	168	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	168	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2132836	169	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	169	uniprot:UNRESOLVED ID	myogenic bHLH factor	Gene_or_gene_product
+PMC2132836	170	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	170	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	171	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	171	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	172	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	172	uniprot:UNRESOLVED ID	C2C12	Gene_or_gene_product
+PMC2132836	172	uniprot:P15172	myoD	Gene_or_gene_product
+PMC2132836	173	uniprot:UNRESOLVED ID	C2C12	Gene_or_gene_product
+PMC2132836	173	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	173	uniprot:P13349	Myf-5	Gene_or_gene_product
+PMC2132836	174	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	174	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	174	uniprot:P13349	Myf-5	Gene_or_gene_product
+PMC2132836	174	uniprot:UNRESOLVED ID	myogenic bHLH factors	Gene_or_gene_product
+PMC2132836	174	uniprot:Q02078	MEF-2	Gene_or_gene_product
+PMC2132836	177	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	177	uniprot:UNRESOLVED ID	C2C12	Gene_or_gene_product
+PMC2132836	177	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	177	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2132836	178	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	178	uniprot:UNRESOLVED ID	myogenic bHLH factors	Gene_or_gene_product
+PMC2132836	179	uniprot:Q16878	cdo	Gene_or_gene_product
+PMC2132836	179	uniprot:UNRESOLVED ID	Sonic hedgehog	Gene_or_gene_product
+PMC2132836	179	uniprot:UNRESOLVED ID	ectoderm	CellType
+PMC2132836	180	uazid:UA-ORG-599	muscle	Organ
+PMC2132836	181	uniprot:Q16878	cdo	Gene_or_gene_product
+PMC2132836	181	uniprot:P13349	myf-5	Gene_or_gene_product
+PMC2132836	181	uniprot:UNRESOLVED ID	myogenic bHLH factor	Gene_or_gene_product
+PMC2132836	182	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	183	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	183	uazid:UA-CT-200002	embryo	Organ
+PMC2132836	183	uniprot:UNRESOLVED ID	fibroblast	CellType
+PMC2132836	183	uniprot:UNRESOLVED ID	J.-S	Gene_or_gene_product
+PMC2132836	185	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	186	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	187	uniprot:UNRESOLVED ID	serum	CellType
+PMC2132836	188	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	189	uniprot:UNRESOLVED ID	Cadherins	Gene_or_gene_product
+PMC2132836	189	uniprot:P13591	N-CAM	Gene_or_gene_product
+PMC2132836	189	uniprot:UNRESOLVED ID	myoblast	CellType
+PMC2132836	190	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	190	uniprot:P62158	CAM	Gene_or_gene_product
+PMC2132836	190	uniprot:UNRESOLVED ID	C2C12	Gene_or_gene_product
+PMC2132836	191	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	193	uniprot:UNRESOLVED ID	myogenic bHLH factors	Gene_or_gene_product
+PMC2132836	194	uniprot:Q9W4S7	DM	Gene_or_gene_product
+PMC2132836	196	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	196	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	196	uniprot:UNRESOLVED ID	C2C12	Gene_or_gene_product
+PMC2132836	197	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	197	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	197	uniprot:UNRESOLVED ID	C2C12	Gene_or_gene_product
+PMC2132836	198	uniprot:UNRESOLVED ID	Myogenic bHLH factors	Gene_or_gene_product
+PMC2132836	198	uniprot:Q02078	MEF-2	Gene_or_gene_product
+PMC2132836	198	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	200	uniprot:P04049	Raf	Gene_or_gene_product
+PMC2132836	200	uniprot:UNRESOLVED ID	Ras12V,35S	Gene_or_gene_product
+PMC2132836	200	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	200	uazid:UA-CT-100023	fibroblasts	CellType
+PMC2132836	201	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	201	uniprot:UNRESOLVED ID	J.-S	Gene_or_gene_product
+PMC2132836	203	uniprot:UNRESOLVED ID	Ig	Gene_or_gene_product
+PMC2132836	203	uniprot:UNRESOLVED ID	FNIII Repeat Proteins	Gene_or_gene_product
+PMC2132836	204	uniprot:UNRESOLVED ID	Ig	Gene_or_gene_product
+PMC2132836	204	uniprot:UNRESOLVED ID	FNIII repeat proteins	Gene_or_gene_product
+PMC2132836	204	uniprot:UNRESOLVED ID	Robo	Gene_or_gene_product
+PMC2132836	204	ncbitax:species:ncbi:6239	Caenorhabditis elegans	Species
+PMC2132836	204	ncbitax:species:ncbi:10116	rats	Species
+PMC2132836	204	ncbitax:species:ncbi:9606	humans	Species
+PMC2132836	204	ncbitax:species:ncbi:6239	nematodes	Species
+PMC2132836	204	ncbitax:species:ncbi:7227	fruit flies	Species
+PMC2132836	205	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	206	uniprot:UNRESOLVED ID	sole 5 + 3 protein	Gene_or_gene_product
+PMC2132836	206	ncbitax:species:ncbi:6239	C. elegans	Species
+PMC2132836	206	uniprot:G5EBF1	SAX-3	Gene_or_gene_product
+PMC2132836	206	uniprot:UNRESOLVED ID	Robo	Gene_or_gene_product
+PMC2132836	206	uazid:UA-ORG-599	muscle	Organ
+PMC2132836	207	uniprot:G5EBF1	sax-3	Gene_or_gene_product
+PMC2132836	208	uniprot:UNRESOLVED ID	sax-3 mutants	Gene_or_gene_product
+PMC2132836	209	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	209	uniprot:Q16878	cdo	Gene_or_gene_product
+PMC2132836	210	uniprot:Q16878	cdo	Gene_or_gene_product
+PMC2132836	210	uniprot:UNRESOLVED ID	nervous system	CellType
+PMC2132836	211	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	211	uniprot:UNRESOLVED ID	neuroblastoma	CellType
+PMC2132836	212	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	213	uniprot:Q16878	cdo	Gene_or_gene_product
+PMC2132836	213	ncbitax:species:ncbi:10090	mouse	Species
+PMC2132836	214	uazid:UA-CT-200002	embryo	Organ
+PMC2132836	214	uniprot:Q16878	cdo	Gene_or_gene_product
+PMC2132836	214	uniprot:UNRESOLVED ID	neural tube	CellType
+PMC2132836	215	uniprot:UNRESOLVED ID	mesoderm	CellType
+PMC2132836	216	uazid:UA-CT-200002	embryo	Organ
+PMC2132836	216	uniprot:Q16878	cdo	Gene_or_gene_product
+PMC2132836	219	uniprot:Q16878	cdo	Gene_or_gene_product
+PMC2132836	220	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	222	uniprot:UNRESOLVED ID	cdo mRNA	Gene_or_gene_product
+PMC2132836	223	uniprot:UNRESOLVED ID	28S	Gene_or_gene_product
+PMC2132836	223	uniprot:UNRESOLVED ID	18S ribosomal RNA bands	Gene_or_gene_product
+PMC2132836	224	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	224	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2132836	224	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2132836	225	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	226	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	226	uniprot:UNRESOLVED ID	myotube	CellType
+PMC2132836	226	uazid:UA-ORG-599	muscle	Organ
+PMC2132836	227	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	230	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2132836	232	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	232	uniprot:UNRESOLVED ID	C2C12	Gene_or_gene_product
+PMC2132836	233	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2132836	233	ncbitax:species:ncbi:41568	mum	Species
+PMC2132836	234	uazid:UA-ORG-599	muscle	Organ
+PMC2132836	235	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	235	uniprot:UNRESOLVED ID	C2C12	Gene_or_gene_product
+PMC2132836	236	uniprot:UNRESOLVED ID	v-H-ras	Gene_or_gene_product
+PMC2132836	236	uniprot:Q16878	cdo	Gene_or_gene_product
+PMC2132836	238	uniprot:Q16878	cdo	Gene_or_gene_product
+PMC2132836	238	uniprot:P13349	myf-5	Gene_or_gene_product
+PMC2132836	238	uniprot:P15172	myoD	Gene_or_gene_product
+PMC2132836	238	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2132836	239	uniprot:UNRESOLVED ID	28S	Gene_or_gene_product
+PMC2132836	239	uniprot:UNRESOLVED ID	18S ribosomal RNA bands	Gene_or_gene_product
+PMC2132836	240	uniprot:UNRESOLVED ID	cdo mRNAs	Gene_or_gene_product
+PMC2132836	241	uniprot:P13349	myf-5	Gene_or_gene_product
+PMC2132836	242	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	242	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	242	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2132836	242	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2132836	242	uniprot:P13805	TnT	Gene_or_gene_product
+PMC2132836	243	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	244	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	244	uniprot:UNRESOLVED ID	C2C12	Gene_or_gene_product
+PMC2132836	244	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	245	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	249	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2132836	249	ncbitax:species:ncbi:41568	mum	Species
+PMC2132836	250	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	250	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	251	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	251	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	251	uniprot:P13805	TnT	Gene_or_gene_product
+PMC2132836	252	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	252	uniprot:P01106	myc	Gene_or_gene_product
+PMC2132836	253	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	253	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	253	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2132836	254	ncbitax:species:ncbi:31931	retrovirus	Species
+PMC2132836	254	uniprot:UNRESOLVED ID	myoblast	CellType
+PMC2132836	255	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	255	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	255	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2132836	256	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	256	uniprot:UNRESOLVED ID	C2C12	Gene_or_gene_product
+PMC2132836	257	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	258	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	258	uniprot:UNRESOLVED ID	+ adhesion	Gene_or_gene_product
+PMC2132836	259	uniprot:UNRESOLVED ID	C2C12	Gene_or_gene_product
+PMC2132836	259	uniprot:Q0W6S4	puro	Gene_or_gene_product
+PMC2132836	259	uniprot:UNRESOLVED ID	C2C12/Ras/CDO	Gene_or_gene_product
+PMC2132836	260	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2132836	260	ncbitax:species:ncbi:41568	mum	Species
+PMC2132836	261	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	262	uniprot:Q16878	CDO	Gene_or_gene_product
+PMC2132836	262	uniprot:UNRESOLVED ID	CDO-AP	Gene_or_gene_product
+PMC2132836	262	uniprot:UNRESOLVED ID	CDO-Fc	Gene_or_gene_product
+PMC2132836	263	uniprot:UNRESOLVED ID	CDO-AP	Gene_or_gene_product
+PMC2132836	263	uniprot:UNRESOLVED ID	CDO-Fc	Gene_or_gene_product
+PMC2132836	264	uniprot:UNRESOLVED ID	CDO-AP	Gene_or_gene_product
+PMC2132836	264	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2132836	265	uniprot:Q96RI1	Bar	Gene_or_gene_product
+PMC2132836	265	ncbitax:species:ncbi:41568	mum	Species
+PMC2132836	266	uniprot:P15172	MyoD	Gene_or_gene_product
+PMC2132836	266	uniprot:P15173	myogenin	Gene_or_gene_product
+PMC2132836	266	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2132836	266	uniprot:P13805	TnT	Gene_or_gene_product
+PMC2132836	267	uniprot:UNRESOLVED ID	CDO-Fc	Gene_or_gene_product
+PMC2132836	268	uniprot:Q16878	cdo	Gene_or_gene_product
+PMC2132836	268	uniprot:UNRESOLVED ID	Jeff Huang and Kirstin Lindermayer	Gene_or_gene_product
+PMC2132836	269	uazid:UA-ORG-385	Heart	Organ
+PMC2132836	275	uniprot:Q95RI5	Fax	Gene_or_gene_product
+PMC2132836	278	uniprot:E3SXU5	bHLH	Gene_or_gene_product
+PMC2132836	278	uniprot:UNRESOLVED ID	basic helix-loop-helix	Gene_or_gene_product
+PMC2132836	278	uniprot:UNRESOLVED ID	FNIII	Gene_or_gene_product
+PMC2132836	278	uniprot:Q02078	MEF-2	Gene_or_gene_product
+PMC2132836	278	uniprot:UNRESOLVED ID	myocyte enhancer binding factor-2	Gene_or_gene_product
+PMC2132836	278	uniprot:P05661	MHC	Gene_or_gene_product
+PMC2132836	278	uniprot:Q05000	myosin heavy chain	Gene_or_gene_product
+PMC2132836	278	uniprot:P13805	TnT	Gene_or_gene_product

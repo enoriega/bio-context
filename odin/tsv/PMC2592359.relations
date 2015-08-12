@@ -1,0 +1,11 @@
+Paper ID	Line Num	Master ID	Dependent ID	Text	Type
+PMC2592359	74	uazid:UA-CT-100023	uniprot:P10599	SASP of Human Fibroblasts	ContextPossesive
+PMC2592359	115	uazid:UA-ORG-337	uniprot:Q8TD91	HCA2 from neonatal foreskin	ContextDirection
+PMC2592359	115	uazid:UA-ORG-537	uniprot:UNRESOLVED ID	IMR90 and Wi-38 from fetal lung	ContextDirection
+PMC2592359	131	ncbitax:species:ncbi:9606	uniprot:P10599	SASP of Human	ContextPossesive
+PMC2592359	134	uazid:UA-CT-100023	uniprot:P10599	SASP of SEN(XRA) fibroblasts	ContextPossesive
+PMC2592359	151	uazid:UA-CT-100023	uniprot:P10599	SASP of fibroblasts	ContextPossesive
+PMC2592359	222	uazid:UA-ORG-537	uniprot:UNRESOLVED ID	IMR-90 from embryonic lung	ContextDirection
+PMC2592359	228	uazid:UA-ORG-537	uazid:UA-CT-100023	fibroblasts from embryonic lung	ContextDirection
+PMC2592359	258	uazid:UA-ORG-537	uniprot:UNRESOLVED ID	IMR-90 from embryonic lung	ContextDirection
+PMC2592359	308	uazid:UA-CT-100023	uniprot:P04637	p53 in fibroblasts	ContextLocation

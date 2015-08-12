@@ -1,0 +1,187 @@
+Paper ID	Line Num	Grounded ID	Text	Type
+PMC2364253	0	uniprot:Q70JA7	N-acetylgalactosaminyl transferase-3	Gene_or_gene_product
+PMC2364253	0	uazid:UA-ORG-537	lung	Organ
+PMC2364253	1	uniprot:Q70JA7	N-acetylgalactosaminyl transferase-3	Gene_or_gene_product
+PMC2364253	1	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	1	uniprot:UNRESOLVED ID	mucin-type O-linked proteins	Gene_or_gene_product
+PMC2364253	2	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	2	uazid:UA-ORG-537	lung	Organ
+PMC2364253	3	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	4	uazid:UA-ORG-360	gland	Organ
+PMC2364253	4	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	5	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	5	uniprot:UNRESOLVED ID	squamous cell	CellType
+PMC2364253	6	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	6	uniprot:UNRESOLVED ID	squamous cell	CellType
+PMC2364253	7	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	8	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	8	uazid:UA-ORG-537	lung	Organ
+PMC2364253	9	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	9	uazid:UA-ORG-537	lung	Organ
+PMC2364253	10	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	10	uazid:UA-ORG-537	lung	Organ
+PMC2364253	13	uazid:UA-ORG-537	Lung	Organ
+PMC2364253	14	uazid:UA-ORG-537	lung	Organ
+PMC2364253	16	uniprot:UNRESOLVED ID	NSCLC	Gene_or_gene_product
+PMC2364253	20	uniprot:UNRESOLVED ID	glycosyltransferase	Gene_or_gene_product
+PMC2364253	21	uniprot:UNRESOLVED ID	mucin-type O-linked proteins	Gene_or_gene_product
+PMC2364253	21	uniprot:UNRESOLVED ID	GalNAc-transferase family	Gene_or_gene_product
+PMC2364253	22	ncbitax:species:ncbi:9606	human	Species
+PMC2364253	22	uniprot:Q10472	GalNAc-T1	Gene_or_gene_product
+PMC2364253	22	uniprot:Q10471	GalNAc-T2	Gene_or_gene_product
+PMC2364253	22	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	23	uniprot:Q8N4A0	GalNAc-T4	Gene_or_gene_product
+PMC2364253	23	uniprot:Q7Z7M9	GalNAc-T5	Gene_or_gene_product
+PMC2364253	23	uniprot:Q8NCL4	GalNAc-T6	Gene_or_gene_product
+PMC2364253	24	uniprot:Q10472	GalNAc-T1	Gene_or_gene_product
+PMC2364253	24	uniprot:Q10471	GalNAc-T2	Gene_or_gene_product
+PMC2364253	24	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	25	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	25	uazid:UA-ORG-360	glands	Organ
+PMC2364253	26	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	27	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	27	ncbitax:species:ncbi:9606	human	Species
+PMC2364253	27	uazid:UA-ORG-537	lung	Organ
+PMC2364253	28	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	29	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	31	ncbitax:species:ncbi:9606	men	Species
+PMC2364253	31	ncbitax:species:ncbi:9606	women	Species
+PMC2364253	33	uniprot:UNRESOLVED ID	squamous cell	CellType
+PMC2364253	34	uniprot:UNRESOLVED ID	carcinoma	CellType
+PMC2364253	35	uniprot:UNRESOLVED ID	Stage I, 18 Stage II, 70 Stage IIIa	Gene_or_gene_product
+PMC2364253	35	uniprot:UNRESOLVED ID	Stage IIIb	Gene_or_gene_product
+PMC2364253	36	uniprot:UNRESOLVED ID	TNM stage	Gene_or_gene_product
+PMC2364253	36	uniprot:UNRESOLVED ID	pTNM	Gene_or_gene_product
+PMC2364253	36	uazid:UA-ORG-460	Joint	Organ
+PMC2364253	37	uazid:UA-ORG-537	lung	Organ
+PMC2364253	38	uazid:UA-ORG-537	lung	Organ
+PMC2364253	39	uniprot:UNRESOLVED ID	squamous cell	CellType
+PMC2364253	43	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2364253	44	uniprot:UNRESOLVED ID	GalNAcT3 cDNA	Gene_or_gene_product
+PMC2364253	45	uniprot:UNRESOLVED ID	EcoRI-Eco47III fragment	Gene_or_gene_product
+PMC2364253	45	uniprot:UNRESOLVED ID	EcoRI-SmaI sites	Gene_or_gene_product
+PMC2364253	45	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2364253	45	uniprot:UNRESOLVED ID	GST-GalNAcT3N	Gene_or_gene_product
+PMC2364253	46	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2364253	47	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2364253	47	uniprot:UNRESOLVED ID	GST-GalNAcT3N	Gene_or_gene_product
+PMC2364253	48	uniprot:UNRESOLVED ID	anti-GST antibody	Gene_or_gene_product
+PMC2364253	48	uniprot:UNRESOLVED ID	anti-GalNAcT3 antibody	Gene_or_gene_product
+PMC2364253	48	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2364253	48	ncbitax:species:ncbi:9606	human	Species
+PMC2364253	48	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	49	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	50	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	52	uniprot:P01298	pH	Gene_or_gene_product
+PMC2364253	53	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2364253	53	uniprot:UNRESOLVED ID	serum	CellType
+PMC2364253	54	ncbitax:species:ncbi:9986	rabbit	Species
+PMC2364253	54	ncbitax:species:ncbi:9606	human	Species
+PMC2364253	54	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	54	uniprot:UNRESOLVED ID	serum	CellType
+PMC2364253	55	uniprot:UNRESOLVED ID	biotin-streptavidin immunoperoxidase	Gene_or_gene_product
+PMC2364253	57	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	57	uazid:UA-ORG-360	gland	Organ
+PMC2364253	58	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	59	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	60	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	61	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	61	ncbitax:species:ncbi:76720	Fisher	Species
+PMC2364253	62	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	62	uniprot:P26205	LI	Species
+PMC2364253	63	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	65	uniprot:P36551	Cox	Gene_or_gene_product
+PMC2364253	68	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2364253	68	uniprot:UNRESOLVED ID	GST-GalNAcT3N	Gene_or_gene_product
+PMC2364253	69	uniprot:UNRESOLVED ID	anti-GalNAcT3 antibody	Gene_or_gene_product
+PMC2364253	69	uniprot:UNRESOLVED ID	anti-GST antibody	Gene_or_gene_product
+PMC2364253	72	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2364253	72	uniprot:UNRESOLVED ID	anti-GalNAc-T3 polyclonal antibody	Gene_or_gene_product
+PMC2364253	72	uniprot:UNRESOLVED ID	anti-GST antibody	Gene_or_gene_product
+PMC2364253	74	uniprot:UNRESOLVED ID	GST-GalNAcT3N	Gene_or_gene_product
+PMC2364253	75	uniprot:UNRESOLVED ID	Scale	CellType
+PMC2364253	75	ncbitax:species:ncbi:41568	mum	Species
+PMC2364253	77	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2364253	78	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2364253	78	uniprot:UNRESOLVED ID	GST-GalNAcT3N	Gene_or_gene_product
+PMC2364253	79	uniprot:UNRESOLVED ID	anti-GalNAcT3 antibody	Gene_or_gene_product
+PMC2364253	79	uniprot:UNRESOLVED ID	anti-GST antibody	Gene_or_gene_product
+PMC2364253	82	uniprot:Q86UG4	GST	Gene_or_gene_product
+PMC2364253	82	uniprot:UNRESOLVED ID	GST-GalNAcT3N	Gene_or_gene_product
+PMC2364253	83	uniprot:UNRESOLVED ID	Scale	CellType
+PMC2364253	83	ncbitax:species:ncbi:41568	mum	Species
+PMC2364253	84	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	85	uazid:UA-ORG-360	gland	Organ
+PMC2364253	85	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	86	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	86	uniprot:UNRESOLVED ID	squamous cell	CellType
+PMC2364253	86	uniprot:UNRESOLVED ID	carcinoma	CellType
+PMC2364253	87	uniprot:UNRESOLVED ID	Scale	CellType
+PMC2364253	87	ncbitax:species:ncbi:41568	mum	Species
+PMC2364253	89	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	90	uazid:UA-ORG-360	gland	Organ
+PMC2364253	90	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	91	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	92	uazid:UA-ORG-360	gland	Organ
+PMC2364253	92	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	93	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	93	uniprot:UNRESOLVED ID	squamous cell	CellType
+PMC2364253	93	uniprot:UNRESOLVED ID	carcinoma	CellType
+PMC2364253	94	uniprot:UNRESOLVED ID	Scale	CellType
+PMC2364253	94	ncbitax:species:ncbi:41568	mum	Species
+PMC2364253	95	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	96	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	97	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	97	ncbitax:species:ncbi:9606	men	Species
+PMC2364253	97	ncbitax:species:ncbi:9606	women	Species
+PMC2364253	98	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	98	uniprot:UNRESOLVED ID	squamous cell	CellType
+PMC2364253	99	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	100	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	100	uniprot:UNRESOLVED ID	squamous cell	CellType
+PMC2364253	101	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	102	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	102	uniprot:P26205	LI	Species
+PMC2364253	103	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	103	uniprot:P26205	LI	Species
+PMC2364253	104	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	105	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	106	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	107	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	108	uniprot:UNRESOLVED ID	carcinoma	CellType
+PMC2364253	110	uniprot:UNRESOLVED ID	103 pStage I NSCLCs	Gene_or_gene_product
+PMC2364253	110	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	111	uniprot:UNRESOLVED ID	squamous cell	CellType
+PMC2364253	111	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	112	uniprot:UNRESOLVED ID	carcinoma	CellType
+PMC2364253	112	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	113	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	114	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	115	uniprot:UNRESOLVED ID	carcinoma	CellType
+PMC2364253	116	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	116	uniprot:P36551	Cox	Gene_or_gene_product
+PMC2364253	117	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	118	uniprot:Q14435	GalNAC-T3	Gene_or_gene_product
+PMC2364253	118	uniprot:UNRESOLVED ID	squamous cell	CellType
+PMC2364253	119	uniprot:P36551	Cox	Gene_or_gene_product
+PMC2364253	119	uniprot:UNRESOLVED ID	pStage I NSCLCsA Overall NSCLCs	Gene_or_gene_product
+PMC2364253	120	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	120	uazid:UA-ORG-360	gland	Organ
+PMC2364253	121	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	122	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	122	uniprot:UNRESOLVED ID	squamous cell	CellType
+PMC2364253	122	uazid:UA-ORG-360	glands	Organ
+PMC2364253	123	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	124	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	124	uazid:UA-ORG-360	gland	Organ
+PMC2364253	124	uazid:UA-ORG-172	colon	Organ
+PMC2364253	125	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	126	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	127	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	128	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	129	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	130	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	131	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	131	uniprot:P26205	LI	Species
+PMC2364253	132	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
+PMC2364253	133	uniprot:Q14435	GalNAc-T3	Gene_or_gene_product
