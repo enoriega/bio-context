@@ -8,3 +8,4 @@ output
 *.sed
 *.xls
 odin/numbers
+file_list.txt
