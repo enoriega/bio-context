@@ -3,6 +3,8 @@ species-proxy
 corenlp
 *.pyc
 workspace
-    output
+output
 *.jar
 *.sed
+*.xls
+odin/numbers
