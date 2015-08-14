@@ -9,3 +9,6 @@ output
 *.xls
 odin/numbers
 file_list.txt
+brat/*.txt
+brat/*.csv
+brat/*.pickle
