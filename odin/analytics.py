@@ -2,6 +2,7 @@ import glob
 import pandas as pd
 import numpy as np
 import itertools as it
+import utils as ut
 import matplotlib
 import matplotlib.pyplot as plt
 from  matplotlib.colors import *
@@ -110,7 +111,7 @@ def affinity_prop_clustering(sim):
 
     return centroids, labels
 
-def document_heatmap(X, docs, clustering=None):
+def document_heatmap(X, docs, feature_instances, clustering=None):
     ''' Displays (modaly) a heatmap of features in documents.
         The optional clustering parameter changes the color of
         the documents rows'''
@@ -157,14 +158,13 @@ def document_heatmap(X, docs, clustering=None):
     plt.ion()
     fig, ax = plt.subplots()
     ax.set_yticks(np.arange(0,len(sorted_rows))+0.5)
-    ax.set_yticklabels([docs[i] for i in sorted_rows])
+    ax.set_yticklabels(['%i - %s' % (feature_instances[docs[i]], docs[i]) for i in sorted_rows])
     if clustering is not None:
-        import utils as ut
-
         annotated_docs = ut.all_annotated()
 
         for l in ax.get_yticklabels():
             txt = l.get_text()
+            txt = txt.split(' - ')[1]
             if txt in representatives and txt in annotated_docs:
                 l.set_color("purple")
             elif txt in representatives:
@@ -244,18 +244,20 @@ for k in entity_dicts:
 dv = DictVectorizer(sparse=False)
 X = dv.fit_transform([compound_dicts[k] for k in compound_dicts]).astype(np.int32)
 
+docs = entity_dicts.keys()
+feature_instances = {d:r.sum() for d, r in it.izip(docs, (X[i, :] for i in xrange(X.shape[0])))}
 
 # Binarize X
 X[X > 1] = 1
 
-voc = dv.vocabulary_
-docs = entity_dicts.keys()
+voc = dv.get_feature_names()
 design_frame = pd.DataFrame(X, index=docs, columns=voc)
 
 print 'Available data:'
 print 'X\t-\tFeature ocurrences matrix'
 print 'voc\t-\tFeature vocabulary'
 print 'docs\t-\tDocuments\' names'
+print 'feature_instances\t-\tCount of feature instances per document'
 print 'entity_dicts\t-\tNER dictionaries per documents'
 print 'relation_dicts\t-\tRelation dictionaries per documents'
 print 'compound_dicts\t-\tNER and relation dictionaries per documents'
