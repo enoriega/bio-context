@@ -4,6 +4,7 @@ import numpy as np
 import itertools as it
 import matplotlib
 import matplotlib.pyplot as plt
+from  matplotlib.colors import *
 from collections import defaultdict, Counter
 from sklearn.feature_extraction import DictVectorizer
 from sklearn.cluster import AffinityPropagation
@@ -100,20 +101,34 @@ def feature_document_frequency(design_matrix, vocabulary, descriptions=None):
 
     return frame
 
-def affinity_prop_clustering(X):
+def affinity_prop_clustering(sim):
     ''' Takes in a design matrix and clusters using affinity propagation.
         Returns the labeling and the clusters' centers '''
 
-    af = AffinityPropagation().fit(X)
-    cluster_centers_indices = af.cluster_centers_indices_
-    labels = pd.Series(af.labels_)
+    af = AffinityPropagation(affinity='precomputed').fit(sim)
+    centroids, labels = af.cluster_centers_indices_, af.labels_
 
-    return labels, cluster_centers_indices
+    return centroids, labels
 
-def document_heatmap(X, docs):
-    ''' Displays (modaly) a heatmap of features in documents '''
+def document_heatmap(X, docs, clustering=None):
+    ''' Displays (modaly) a heatmap of features in documents.
+        The optional clustering parameter changes the color of
+        the documents rows'''
+
+    if clustering is not None:
+        centroids, labels = clustering
+
     ## Give an index to each document
     docs = {k:v for k, v in enumerate(docs)}
+
+    # Set the colors
+    if clustering is not None:
+        for i in xrange(X.shape[0]):
+            X[i, :] *= (labels[i]+1)
+
+        representatives = [docs[i] for i in centroids]
+    else:
+        representatives = []
 
     ## Sort X features by number of ocurrences
     sorted_columns = sorted(enumerate(X.sum(axis=0)), key=lambda x: x[1], reverse=True)
@@ -123,25 +138,44 @@ def document_heatmap(X, docs):
     def bits2decimal(bits):
         ret = long(0)
         for i in xrange(bits.shape[0]-1, -1, -1):
-            ret += bits[bits.shape[0]-1-i]*(long(2**i))
+            ret += long(bits[bits.shape[0]-1-i])*long(2**i)
         return ret
 
     # Load the knowledge bases
     kb = load_kb_files(*glob.glob("kb/*.tsv"))
 
     # Sort X documents by decimal value value
-    sorted_rows = [x[0] for x in sorted(enumerate([bits2decimal(X[i, :]) for i in xrange(X.shape[0])]), key=lambda x: x[1], reverse=True)] #sort(X)
+    if clustering is None:
+        sorted_rows = [x[0] for x in sorted(enumerate([bits2decimal(X[i, :]) for i in xrange(X.shape[0])]), key=lambda x: x[1], reverse=True)] #sort(X)
+    else:
+        sorted_rows = [x[0] for x in sorted(zip(xrange(X.shape[0]), labels), key=lambda x: x[1])]
+
     X = X[sorted_rows, :]
     #X = X[:, :129]
 
+    cmap=ListedColormap(['gray','yellow', 'orange', 'red', 'green', 'purple', 'violet', 'blue', 'indigo', 'black'])
     plt.ion()
     fig, ax = plt.subplots()
     ax.set_yticks(np.arange(0,len(sorted_rows))+0.5)
     ax.set_yticklabels([docs[i] for i in sorted_rows])
+    if clustering is not None:
+        import utils as ut
+
+        annotated_docs = ut.all_annotated()
+
+        for l in ax.get_yticklabels():
+            txt = l.get_text()
+            if txt in representatives and txt in annotated_docs:
+                l.set_color("purple")
+            elif txt in representatives:
+                l.set_color("red")
+            elif txt in annotated_docs:
+                l.set_color("blue")
+
     ax.set_ylabel("Document")
     ax.set_xlabel("Feature number")
     ax.set_title("Feature heat map")
-    plt.pcolor(X)
+    plt.pcolor(X, cmap=cmap)
 
 
 # This runs when imported. It loads and parses the data ready to be used by something
@@ -161,7 +195,7 @@ lent = lent[lent['Grounded ID'] != 'uniprot:UNRESOLVED ID']
 lent = lent[pd.notnull(lent['Grounded ID'])]
 
 # Comment this line if you want to include proteins in the context
-#lent = lent[(lent['Grounded ID'].str.startswith('uniprot')) == False]
+lent = lent[(lent['Grounded ID'].str.startswith('uniprot')) == False]
 
 # Get the entity counts
 def make_ent_dicts(frame):
