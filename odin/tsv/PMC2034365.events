@@ -1,0 +1,4 @@
+Paper ID	Line Num	Type	Trigger
+PMC2034365	73	Binding	interacts	theme,uniprot:Q15404|theme,uniprot:P48059
+PMC2034365	73	Binding	interacts	theme,uniprot:Q15404|theme,uniprot:UNRESOLVED ID
+PMC2034365	83	Positive_activation	modulates	controlled,uniprot:Q966Y3|controller,uniprot:Q15404

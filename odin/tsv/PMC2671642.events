@@ -1,0 +1,21 @@
+Paper ID	Line Num	Type	Trigger
+PMC2671642	5	Methylation	methylation	theme,uniprot:P16455
+PMC2671642	69	Negative_activation	disrupt	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P27986
+PMC2671642	70	Methylation	methylation	theme,uniprot:P16455
+PMC2671642	70	Methylation	methylation	theme,uniprot:P22897
+PMC2671642	73	Methylation	methylation	theme,uniprot:P16455
+PMC2671642	74	Methylation	methylation	theme,uniprot:P16455
+PMC2671642	75	Methylation	methylation	theme,uniprot:P16455
+PMC2671642	76	Methylation	methylation	theme,uniprot:P16455
+PMC2671642	77	Methylation	methylation	theme,uniprot:P16455
+PMC2671642	79	Methylation	methylation	theme,uniprot:P16455
+PMC2671642	80	Methylation	methylation	theme,uniprot:P16455
+PMC2671642	81	Methylation	methylated	theme,uniprot:P16455
+PMC2671642	82	Methylation	methylation	theme,uniprot:P22897
+PMC2671642	82	Methylation	methylation	theme,uniprot:P16455
+PMC2671642	111	Methylation	methylation	theme,uniprot:P16455
+PMC2671642	114	Methylation	methylation	theme,uniprot:P16455
+PMC2671642	205	Binding	binding	theme,uniprot:A0PDV5|theme,uniprot:UNRESOLVED ID|site,uniprot:P06681
+PMC2671642	209	Methylation	methylation	theme,uniprot:P16455
+PMC2671642	209	Methylation	methylation	theme,uniprot:P22897
+PMC2671642	212	Methylation	methylated	theme,uniprot:Q7MHB1

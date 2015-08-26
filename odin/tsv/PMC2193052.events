@@ -1,0 +1,30 @@
+Paper ID	Line Num	Type	Trigger
+PMC2193052	66	Binding	associated	theme,uniprot:O75791|theme,uniprot:Q13094
+PMC2193052	66	Binding	associated	theme,uniprot:O75791|theme,uniprot:O43561
+PMC2193052	75	Binding	coimmunoprecipitated	theme,uniprot:UNRESOLVED ID|theme,uniprot:Q13094
+PMC2193052	76	Binding	coimmunoprecipitated	theme,uniprot:Q13094|theme,uniprot:UNRESOLVED ID
+PMC2193052	80	Binding	coimmunoprecipitated	theme,uniprot:O75791|theme,uniprot:UNRESOLVED ID
+PMC2193052	84	Phosphorylation	phosphorylated	theme,uniprot:O75791
+PMC2193052	94	Binding	coimmunoprecipitated	theme,uniprot:P62993|theme,uniprot:Q13094
+PMC2193052	95	Binding	binding	theme,uniprot:P62993|theme,uniprot:Q13094
+PMC2193052	96	Positive_activation	increase	controlled,uniprot:P60568|controller,uniprot:UNRESOLVED ID
+PMC2193052	99	Binding	interacts	theme,uniprot:O75791|theme,uniprot:Q13094
+PMC2193052	99	Positive_activation	stimulation	controlled,uniprot:P60568|controller,uniprot:A2KF29
+PMC2193052	99	Positive_activation	stimulation	controlled,uniprot:UNRESOLVED ID|controller,uniprot:A2KF29
+PMC2193052	100	Negative_activation	induced	controlled,uniprot:P60568|controller,uniprot:UNRESOLVED ID
+PMC2193052	105	Positive_activation	stimulation	controlled,uniprot:P60568|controller,uniprot:A2KF29
+PMC2193052	119	Positive_activation	direct	controlled,uniprot:A0PDV5|controller,uniprot:O75791
+PMC2193052	120	Positive_activation	activation	controlled,uniprot:P60568|controller,uniprot:A2KF29
+PMC2193052	120	Positive_activation	activation	controlled,uniprot:UNRESOLVED ID|controller,uniprot:A2KF29
+PMC2193052	120	Positive_activation	promoter	controlled,uniprot:A2KF29|controller,uniprot:P60568
+PMC2193052	121	Binding	binds	theme,uniprot:Q13094|theme,uniprot:P15498
+PMC2193052	121	Binding	binds	theme,uniprot:Q13094|theme,uniprot:P31749
+PMC2193052	121	Binding	binds	theme,uniprot:Q13094|theme,uniprot:Q8N1W1
+PMC2193052	121	Binding	associated	theme,uniprot:Q13094|theme,uniprot:O75791
+PMC2193052	121	Binding	interaction	theme,uniprot:Q13094|theme,uniprot:P15498
+PMC2193052	122	Phosphorylation	phosphorylates	theme,uniprot:Q13094
+PMC2193052	122	Binding	binds	theme,uniprot:O43561|theme,uniprot:UNRESOLVED ID
+PMC2193052	122	Phosphorylation	phosphorylates	theme,uniprot:O43561
+PMC2193052	149	Positive_activation	activation	controlled,uniprot:P60568|controller,uniprot:A2KF29
+PMC2193052	149	Positive_activation	activation	controlled,uniprot:UNRESOLVED ID|controller,uniprot:A2KF29
+PMC2193052	154	Positive_activation	stimulation	controlled,uniprot:P60568|controller,uniprot:A2KF29

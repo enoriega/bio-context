@@ -1,0 +1,19 @@
+Paper ID	Line Num	Type	Trigger
+PMC2195994	19	Binding	binding	theme,uniprot:P60953|theme,uniprot:UNRESOLVED ID
+PMC2195994	19	Binding	binding	theme,uniprot:UNRESOLVED ID|theme,uniprot:P60953
+PMC2195994	19	Positive_activation	activated	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P38936
+PMC2195994	69	Binding	binding	theme,uniprot:UNRESOLVED ID|theme,uniprot:Q9UQB8
+PMC2195994	131	Binding	binding	theme,uniprot:P60953|theme,uniprot:UNRESOLVED ID
+PMC2195994	139	Binding	bind	theme,uniprot:UNRESOLVED ID|theme,uniprot:P63000
+PMC2195994	139	Binding	bind	theme,uniprot:UNRESOLVED ID|theme,uniprot:P61586
+PMC2195994	143	Binding	interaction	theme,uniprot:UNRESOLVED ID|theme,uniprot:Q9UQB8
+PMC2195994	187	Positive_activation	induce	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P41252
+PMC2195994	235	Binding	interaction	theme,uniprot:UNRESOLVED ID|theme,uniprot:Q9UQB8
+PMC2195994	236	Binding	interacted	theme,uniprot:UNRESOLVED ID|theme,uniprot:Q9UQB8
+PMC2195994	246	Positive_activation	induce	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P42768
+PMC2195994	246	Positive_activation	induce	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P15882
+PMC2195994	246	Positive_activation	induce	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P63000
+PMC2195994	246	Positive_activation	induce	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P61586
+PMC2195994	249	Positive_activation	induces	controlled,uniprot:Q2U7A3|controller,uniprot:P01042
+PMC2195994	249	Positive_activation	induces	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P01042
+PMC2195994	278	Binding	interaction	theme,uniprot:P61586|theme,uniprot:Q9UQB8

@@ -1,0 +1,35 @@
+Paper ID	Line Num	Type	Trigger
+PMC2198812	5	Negative_activation	inhibit	controlled,uniprot:UNRESOLVED ID|controller,uniprot:O43609
+PMC2198812	8	Phosphorylation	phosphorylated	site,uniprot:UNRESOLVED ID|theme,uniprot:Q03135
+PMC2198812	32	Binding	binding	theme,uniprot:O10284|theme,uniprot:P15692
+PMC2198812	71	Positive_activation	activated	controlled,uniprot:Q8NFH3|controller,uniprot:P12872
+PMC2198812	71	Positive_activation	activated	controlled,uniprot:Q8NFH3|controller,uazid:UA-KB-FAM-00001
+PMC2198812	71	Positive_activation	activated	controlled,uniprot:Q8NFH3|controller,uniprot:P35222
+PMC2198812	71	Positive_activation	activated	controlled,uniprot:Q8NFH3|controller,uniprot:Q03135
+PMC2198812	71	Positive_activation	activated	controlled,uniprot:Q8NFH3|controller,uniprot:P29038
+PMC2198812	71	Positive_activation	activated	controlled,uniprot:Q8NFH3|controller,uniprot:P07355
+PMC2198812	71	Positive_activation	activated	controlled,uniprot:Q8NFH3|controller,uniprot:P02787
+PMC2198812	71	Positive_activation	activated	controlled,uniprot:P12872|controller,uazid:UA-KB-FAM-00001
+PMC2198812	71	Positive_activation	activated	controlled,uniprot:P12872|controller,uniprot:P35222
+PMC2198812	71	Positive_activation	activated	controlled,uniprot:P12872|controller,uniprot:Q03135
+PMC2198812	71	Positive_activation	activated	controlled,uniprot:P12872|controller,uniprot:P29038
+PMC2198812	71	Positive_activation	activated	controlled,uniprot:P12872|controller,uniprot:P07355
+PMC2198812	71	Positive_activation	activated	controlled,uniprot:P12872|controller,uniprot:P02787
+PMC2198812	111	Negative_activation	Inhibit	controlled,uniprot:P12872|controller,uniprot:UNRESOLVED ID
+PMC2198812	119	Negative_activation	inhibition	controlled,uniprot:Q8NFH3|controller,uniprot:UNRESOLVED ID
+PMC2198812	119	Negative_activation	inhibition	controlled,uniprot:P12872|controller,uniprot:UNRESOLVED ID
+PMC2198812	120	Negative_activation	induced	controlled,uniprot:Q8NFH3|controller,uniprot:P15692
+PMC2198812	120	Negative_activation	induced	controlled,uniprot:P12872|controller,uniprot:P15692
+PMC2198812	120	Positive_activation	activation	controlled,uniprot:P12872|controller,uniprot:P09038
+PMC2198812	148	Binding	associate	theme,uniprot:UNRESOLVED ID|theme,uniprot:Q03135
+PMC2198812	154	Binding	association	theme,uniprot:UNRESOLVED ID|theme,uniprot:Q03135
+PMC2198812	174	Phosphorylation	Phosphorylated	theme,uniprot:UNRESOLVED ID
+PMC2198812	184	Positive_activation	induced	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P19147
+PMC2198812	188	Phosphorylation	phosphorylated	theme,uniprot:UNRESOLVED ID|site,uniprot:UNRESOLVED ID
+PMC2198812	203	Positive_activation	mediated	controller,uniprot:P01133|controlled,uniprot:Q8NFH3
+PMC2198812	209	Binding	association	theme,uniprot:O43597|theme,uniprot:Q03135
+PMC2198812	217	Positive_activation	induced	controlled,uazid:UA-KB-FAM-00001|controller,uniprot:UNRESOLVED ID
+PMC2198812	223	Positive_activation	induced	controlled,uniprot:P12872|controller,uniprot:P01133
+PMC2198812	232	Phosphorylation	phosphorylation	theme,uniprot:O43609
+PMC2198812	234	Binding	associate	theme,uniprot:UNRESOLVED ID|theme,uniprot:Q03135
+PMC2198812	313	Phosphorylation	phosphorylated	theme,uniprot:UNRESOLVED ID|site,uniprot:UNRESOLVED ID

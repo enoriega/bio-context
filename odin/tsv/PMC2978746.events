@@ -1,0 +1,19 @@
+Paper ID	Line Num	Type	Trigger
+PMC2978746	53	Phosphorylation	phosphorylated	theme,uniprot:A0PDV5|site,uniprot:P14132
+PMC2978746	53	Phosphorylation	phosphorylated	theme,uniprot:A0PDV5|site,uniprot:UNRESOLVED ID
+PMC2978746	54	Positive_activation	enhanced	controlled,uniprot:A0PDV5|controller,uniprot:P12004
+PMC2978746	55	Positive_activation	stimulated	controlled,uniprot:UNRESOLVED ID|controller,uniprot:A0PDV5
+PMC2978746	55	Positive_activation	stimulated	controlled,uniprot:P11831|controller,uniprot:A0PDV5
+PMC2978746	64	Positive_activation	upregulates	controlled,uniprot:P05231|controller,uniprot:UNRESOLVED ID
+PMC2978746	66	Negative_activation	negatively regulated	controlled,uniprot:UNRESOLVED ID|controller,uniprot:A0PDV5
+PMC2978746	113	Negative_activation	negatively regulates	controlled,uniprot:UNRESOLVED ID|controller,uniprot:A0PDV5
+PMC2978746	122	Positive_activation	induces	controlled,uniprot:P05231|controller,uniprot:UNRESOLVED ID
+PMC2978746	131	Positive_activation	induces	controlled,uniprot:P05231|controller,uniprot:UNRESOLVED ID
+PMC2978746	154	Positive_activation	activates	controlled,uniprot:P24941|controller,uniprot:A0PDV5
+PMC2978746	170	Positive_activation	induce	controlled,uniprot:P05231|controller,uniprot:UNRESOLVED ID
+PMC2978746	176	Positive_activation	induce	controlled,uniprot:P05231|controller,uniprot:A0PDV5
+PMC2978746	185	Negative_activation	suppresses	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P24941
+PMC2978746	282	Positive_activation	activator	controller,uniprot:Q00859|controlled,uniprot:P29323
+PMC2978746	282	Positive_activation	is the upstream activator	controller,uazid:UA-KB-FAM-00001|controlled,uniprot:P29323
+PMC2978746	295	Phosphorylation	phosphorylated	theme,uniprot:UNRESOLVED ID
+PMC2978746	298	Negative_activation	degraded	controlled,uniprot:UNRESOLVED ID|controller,uniprot:A0PDV5

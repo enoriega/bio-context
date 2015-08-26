@@ -1,0 +1,42 @@
+Paper ID	Line Num	Type	Trigger
+PMC2504490	5	Binding	interact	theme,uniprot:P22749|theme,uniprot:UNRESOLVED ID
+PMC2504490	7	Positive_activation	activate	controlled,uniprot:P46530|controller,uniprot:UNRESOLVED ID
+PMC2504490	34	Positive_activation	produces	controlled,uniprot:P01133|controller,uniprot:Q13510
+PMC2504490	34	Positive_activation	induces	controlled,uniprot:Q969F0|controller,uniprot:P01133
+PMC2504490	49	Negative_activation	inhibits	controlled,uniprot:P46530|controller,uniprot:P80370
+PMC2504490	52	Negative_activation	inhibits	controlled,uniprot:P46530|controller,uniprot:P80370
+PMC2504490	53	Positive_activation	activate	controlled,uniprot:P46530|controller,uniprot:P80370
+PMC2504490	53	Positive_activation	activate	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P80370
+PMC2504490	58	Positive_activation	increases	controlled,uniprot:P46530|controller,uniprot:UNRESOLVED ID
+PMC2504490	59	Positive_activation	activate	controlled,uniprot:P46530|controller,uniprot:UNRESOLVED ID
+PMC2504490	116	Positive_activation	activate	controlled,uniprot:P46530|controller,uniprot:P80370
+PMC2504490	116	Positive_activation	activate	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P80370
+PMC2504490	125	Positive_activation	produces	controlled,uniprot:P01133|controller,uniprot:Q13510
+PMC2504490	199	Negative_activation	decrease	controlled,uniprot:P46530|controller,uniprot:UNRESOLVED ID
+PMC2504490	199	Negative_activation	decrease	controlled,uniprot:Q969F0|controller,uniprot:UNRESOLVED ID
+PMC2504490	199	Positive_activation	signaling	controlled,uniprot:Q969F0|controller,uniprot:P46530
+PMC2504490	229	Positive_activation	rescued	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P80370
+PMC2504490	239	Positive_activation	increase	controlled,uniprot:P46530|controller,uniprot:UNRESOLVED ID
+PMC2504490	239	Negative_activation	decrease	controlled,uniprot:P46530|controller,uniprot:UNRESOLVED ID
+PMC2504490	240	Negative_activation	suppressed	controlled,uniprot:P14585|controller,uniprot:UNRESOLVED ID
+PMC2504490	257	Positive_activation	increases	controlled,uniprot:P46530|controller,uniprot:UNRESOLVED ID
+PMC2504490	272	Binding	interactions	theme,uniprot:UNRESOLVED ID|theme,uniprot:P53847
+PMC2504490	281	Positive_activation	Increase	controlled,uniprot:P46530|controller,uniprot:UNRESOLVED ID
+PMC2504490	284	Positive_activation	activate	controlled,uniprot:P46530|controller,uniprot:UNRESOLVED ID
+PMC2504490	290	Binding	interactions	theme,uniprot:UNRESOLVED ID|theme,uniprot:P53847
+PMC2504490	292	Positive_activation	increase	controlled,uniprot:P46530|controller,uniprot:UNRESOLVED ID
+PMC2504490	297	Binding	binding	theme,uniprot:UNRESOLVED ID|theme,uniprot:P14585
+PMC2504490	304	Binding	interactions	theme,uniprot:P22749|theme,uniprot:P53847
+PMC2504490	309	Binding	interaction	theme,uniprot:P01133|theme,uniprot:O10284
+PMC2504490	314	Binding	interactions	theme,uniprot:P80370|theme,uniprot:P46530
+PMC2504490	321	Positive_activation	increasing	controlled,uniprot:P14585|controller,uniprot:P80370
+PMC2504490	328	Positive_activation	increases	controlled,uniprot:P46530|controller,uniprot:UNRESOLVED ID
+PMC2504490	333	Positive_activation	activate	controlled,uniprot:P46530|controller,uniprot:UNRESOLVED ID
+PMC2504490	350	Binding	bind	theme,uniprot:UNRESOLVED ID|theme,uniprot:P46530
+PMC2504490	353	Positive_activation	activates	controlled,uniprot:P14585|controller,uniprot:UNRESOLVED ID
+PMC2504490	356	Negative_activation	inhibits	controlled,uniprot:P46530|controller,uniprot:Q9NYJ7
+PMC2504490	356	Negative_activation	inhibits	controlled,uniprot:Q9NR61|controller,uniprot:Q9NYJ7
+PMC2504490	356	Positive_activation	increases	controlled,uniprot:Q9NR61|controller,uniprot:P46530
+PMC2504490	361	Positive_activation	increase	controlled,uniprot:P46530|controller,uniprot:UNRESOLVED ID
+PMC2504490	368	Positive_activation	signaling	controlled,uniprot:Q969F0|controller,uniprot:P46530
+PMC2504490	424	Positive_activation	rescues	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P22749

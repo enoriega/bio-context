@@ -1,0 +1,36 @@
+Paper ID	Line Num	Type	Trigger
+PMC2172498	7	Binding	binds	theme,uniprot:Q92859|theme,uniprot:Q16878
+PMC2172498	14	Positive_activation	induce	controlled,uniprot:P15173|controller,uniprot:Q9W4S7
+PMC2172498	30	Positive_activation	modulate	controlled,uniprot:P08100|controller,uniprot:P43146
+PMC2172498	35	Positive_activation	enhance	controlled,uniprot:UNRESOLVED ID|controller,uniprot:Q92859
+PMC2172498	37	Binding	form a complex	theme,uniprot:Q92859|theme,uniprot:Q16878
+PMC2172498	37	Positive_activation	modulates	controlled,uniprot:UNRESOLVED ID|controller,uniprot:Q16878
+PMC2172498	45	Positive_activation	induced	controlled,uniprot:Q16878|controller,uniprot:P15172
+PMC2172498	145	Positive_activation	enhance	controlled,uniprot:UNRESOLVED ID|controller,uniprot:Q16878
+PMC2172498	148	Binding	heterodimeric	theme,uniprot:P15172|theme,uniprot:Q92859
+PMC2172498	150	Positive_activation	enhances	controlled,uniprot:UNRESOLVED ID|controller,uniprot:Q92859
+PMC2172498	157	Phosphorylation	phosphorylated	theme,uniprot:Q12968
+PMC2172498	161	Positive_activation	enhanced	controlled,uniprot:UNRESOLVED ID|controller,uniprot:Q92859
+PMC2172498	163	Positive_activation	activate	controlled,uniprot:Q12968|controller,uniprot:UNRESOLVED ID
+PMC2172498	171	Binding	bind	theme,uniprot:UNRESOLVED ID|theme,uniprot:P43146
+PMC2172498	171	Binding	bind	theme,uniprot:UNRESOLVED ID|theme,uniprot:Q16878
+PMC2172498	171	Binding	binds	theme,uniprot:Q9BWV1|theme,uniprot:Q16878
+PMC2172498	172	Binding	interact	theme,uniprot:Q92859|theme,uniprot:Q16878
+PMC2172498	176	Binding	associates	theme,uniprot:Q16878|theme,uniprot:UNRESOLVED ID
+PMC2172498	189	Binding	association	theme,uniprot:Q92859|theme,uniprot:Q16878
+PMC2172498	209	Binding	interaction	theme,uniprot:Q92859|theme,uniprot:Q16878
+PMC2172498	213	Phosphorylation	phosphorylated	theme,uniprot:Q12968
+PMC2172498	225	Positive_activation	increase	controlled,uniprot:Q9W4S7|controller,uniprot:O00634
+PMC2172498	227	Binding	associated	theme,uniprot:UNRESOLVED ID|theme,uniprot:Q13201
+PMC2172498	232	Binding	co-immunoprecipitated	theme,uniprot:O00634|theme,uniprot:Q92859
+PMC2172498	232	Binding	bind	theme,uniprot:O00634|theme,uniprot:Q92859
+PMC2172498	237	Positive_activation	enhanced	controlled,uniprot:UNRESOLVED ID|controller,uniprot:Q92859
+PMC2172498	247	Positive_activation	activate	controlled,uniprot:P15172|controller,uniprot:Q16878
+PMC2172498	249	Binding	binds	theme,uniprot:Q92859|theme,uniprot:Q16878
+PMC2172498	250	Binding	co-immunoprecipitated	theme,uniprot:O00634|theme,uniprot:Q92859
+PMC2172498	250	Binding	co-immunoprecipitated	theme,uniprot:UNRESOLVED ID|theme,uniprot:Q92859
+PMC2172498	251	Binding	binds	theme,uniprot:O00634|theme,uniprot:Q92859
+PMC2172498	251	Binding	binding	theme,uniprot:Q92859|theme,uniprot:Q16878
+PMC2172498	258	Binding	interact	theme,uniprot:Q16878|theme,uniprot:Q92859
+PMC2172498	258	Binding	interact	theme,uniprot:Q9BWV1|theme,uniprot:Q92859
+PMC2172498	295	Binding	complex	theme,uniprot:Q92859|theme,uniprot:Q16878

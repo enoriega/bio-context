@@ -1,0 +1,11 @@
+Paper ID	Line Num	Type	Trigger
+PMC2185068	102	Binding	bound	theme,uniprot:UNRESOLVED ID|theme,uniprot:Q15223|site,uniprot:UNRESOLVED ID
+PMC2185068	103	Binding	binding	theme,uniprot:UNRESOLVED ID|theme,uniprot:Q15223
+PMC2185068	157	Binding	bind	theme,uniprot:Q91D83|theme,uniprot:P18206
+PMC2185068	157	Binding	bind	theme,uniprot:Q91D83|theme,uniprot:UNRESOLVED ID
+PMC2185068	159	Binding	bind	theme,uniprot:UNRESOLVED ID|theme,uniprot:Q91D83
+PMC2185068	168	Binding	interacts	theme,uniprot:Q0ZGT2|theme,uniprot:UNRESOLVED ID
+PMC2185068	170	Binding	binding	theme,uniprot:UNRESOLVED ID|theme,uniprot:Q15223
+PMC2185068	170	Binding	binding	theme,uniprot:UNRESOLVED ID|theme,uniprot:Q91D83
+PMC2185068	175	Binding	bind	theme,uniprot:UNRESOLVED ID|theme,uniprot:Q91D83
+PMC2185068	179	Binding	binds	theme,uniprot:Q9BX66|theme,uniprot:P18206

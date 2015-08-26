@@ -1,0 +1,26 @@
+Paper ID	Line Num	Type	Trigger
+PMC2592359	82	Positive_activation	induced	controlled,uniprot:P13925|controller,uniprot:UNRESOLVED ID
+PMC2592359	82	Positive_activation	induced	controlled,uniprot:P13925|controller,uniprot:O93831
+PMC2592359	183	Positive_activation	induced	controlled,uniprot:O75751|controller,uniprot:P10599
+PMC2592359	189	Positive_activation	increased	controlled,uniprot:P08670|controller,uniprot:UNRESOLVED ID
+PMC2592359	189	Positive_activation	increased	controlled,uniprot:O75751|controller,uniprot:UNRESOLVED ID
+PMC2592359	198	Positive_activation	Induction	controlled,uniprot:P08670|controller,uniprot:UNRESOLVED ID
+PMC2592359	209	Positive_activation	Induces	controlled,uniprot:P10599|controller,uniprot:A0PDV5
+PMC2592359	214	Positive_activation	induced	controlled,uniprot:P10599|controller,uniprot:A0PDV5
+PMC2592359	242	Positive_activation	induced	controlled,uniprot:P10599|controller,uniprot:A0PDV5
+PMC2592359	243	Positive_activation	induced	controlled,uniprot:P10599|controller,uniprot:A0PDV5
+PMC2592359	244	Positive_activation	promote	controlled,uniprot:P10599|controller,uniprot:A0PDV5
+PMC2592359	277	Positive_activation	induced	controlled,uniprot:P10599|controller,uniprot:A0PDV5
+PMC2592359	299	Positive_activation	induce	controlled,uniprot:P10599|controller,uniprot:P04637
+PMC2592359	300	Positive_activation	induced	controlled,uniprot:P10599|controller,uniprot:A0PDV5
+PMC2592359	308	Negative_activation	reduces	controlled,uniprot:P42771|controller,uniprot:UNRESOLVED ID
+PMC2592359	366	Positive_activation	induced	controlled,uniprot:P10599|controller,uniprot:A0PDV5
+PMC2592359	370	Positive_activation	induce	controlled,uniprot:P10599|controller,uniprot:A0PDV5
+PMC2592359	372	Positive_activation	induce	controlled,uniprot:P10599|controller,uniprot:A0PDV5
+PMC2592359	372	Positive_activation	induce	controlled,uniprot:P12872|controller,uniprot:A0PDV5
+PMC2592359	373	Positive_activation	induced	controlled,uniprot:P10599|controller,uniprot:A0PDV5
+PMC2592359	381	Positive_activation	activated	controlled,uniprot:P10599|controller,uniprot:Q9HCI5
+PMC2592359	385	Positive_activation	response	controlled,uniprot:Q9HCI5|controller,uniprot:P10599
+PMC2592359	437	Phosphorylation	phosphorylated	theme,uniprot:P04637|site,uniprot:UNRESOLVED ID
+PMC2592359	437	Phosphorylation	phosphorylated	theme,uniprot:UNRESOLVED ID|site,uniprot:UNRESOLVED ID
+PMC2592359	462	Negative_activation	allow	controlled,uniprot:P10599|controller,uniprot:P04637

@@ -1,0 +1,3 @@
+Paper ID	Line Num	Type	Trigger
+PMC3398920	1	Hydrolysis	hydrolysis	theme,uniprot:UNRESOLVED ID
+PMC3398920	5	Binding	complex	theme,uniprot:P63000|theme,uniprot:O14224

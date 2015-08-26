@@ -1,0 +1,4 @@
+Paper ID	Line Num	Type	Trigger
+PMC2743561	88	Positive_activation	accelerates	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P04637
+PMC2743561	88	Positive_activation	accelerates	controlled,uniprot:P05231|controller,uniprot:P04637
+PMC2743561	111	Positive_activation	modulates	controlled,uniprot:P10599|controller,uniprot:Q13315

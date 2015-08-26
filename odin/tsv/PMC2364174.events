@@ -1,0 +1,18 @@
+Paper ID	Line Num	Type	Trigger
+PMC2364174	1	Negative_activation	prolongs	controlled,uniprot:P01133|controller,uniprot:P04626
+PMC2364174	1	Negative_activation	prolongs	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P04626
+PMC2364174	2	Phosphorylation	phosphorylation	theme,uniprot:P04626|site,uniprot:UNRESOLVED ID
+PMC2364174	6	Negative_activation	limits	controlled,uniprot:P04626|controller,uniprot:P04637
+PMC2364174	28	Positive_activation	mediated	controller,uniprot:P04053|controlled,uniprot:P70583
+PMC2364174	48	Phosphorylation	phosphorylation	theme,uniprot:P04626|site,uniprot:UNRESOLVED ID
+PMC2364174	52	Phosphorylation	phosphorylation	theme,uniprot:P04626|site,uniprot:UNRESOLVED ID
+PMC2364174	58	Phosphorylation	phosphorylation	theme,uniprot:P04626|site,uniprot:UNRESOLVED ID
+PMC2364174	61	Phosphorylation	phosphorylation	theme,uniprot:P04626|site,uniprot:UNRESOLVED ID
+PMC2364174	62	Phosphorylation	phosphorylation	theme,uniprot:P04626|site,uniprot:UNRESOLVED ID
+PMC2364174	66	Phosphorylation	phosphorylation	theme,uniprot:P04626|site,uniprot:UNRESOLVED ID
+PMC2364174	77	Phosphorylation	phosphorylated	theme,uniprot:P04626
+PMC2364174	81	Positive_activation	increased	controlled,uniprot:P00533|controller,uniprot:P04626
+PMC2364174	88	Phosphorylation	phosphorylated	theme,uniprot:P04626
+PMC2364174	93	Positive_activation	induces	controlled,uniprot:P04637|controller,uniprot:P04626
+PMC2364174	98	Positive_activation	overexpress	controlled,uniprot:P04637|controller,uniprot:UNRESOLVED ID
+PMC2364174	136	Negative_activation	impairment	controlled,uniprot:P00533|controller,uniprot:P04626

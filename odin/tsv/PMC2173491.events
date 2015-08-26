@@ -1,0 +1,19 @@
+Paper ID	Line Num	Type	Trigger
+PMC2173491	3	Negative_activation	suppress	controlled,uniprot:P20936|controller,uniprot:UNRESOLVED ID
+PMC2173491	5	Negative_activation	blocks	controlled,uniprot:P20936|controller,uniprot:UNRESOLVED ID
+PMC2173491	8	Ribosylation	ribosylation	theme,uniprot:P02783
+PMC2173491	12	Hydrolysis	hydrolysis	theme,uniprot:UNRESOLVED ID
+PMC2173491	15	Hydrolysis	hydrolysis	theme,uniprot:UNRESOLVED ID
+PMC2173491	18	Hydrolysis	hydrolysis	theme,uniprot:UNRESOLVED ID
+PMC2173491	19	Negative_activation	suppress	controlled,uniprot:P20936|controller,uniprot:UNRESOLVED ID
+PMC2173491	20	Hydrolysis	hydrolysis	theme,uniprot:UNRESOLVED ID
+PMC2173491	96	Binding	recruitment	theme,uniprot:P20936|theme,uniprot:UNRESOLVED ID
+PMC2173491	105	Binding	interacts	theme,uniprot:P20936|theme,uniprot:UNRESOLVED ID
+PMC2173491	105	Binding	recruitment	theme,uniprot:P20936|theme,uniprot:UNRESOLVED ID
+PMC2173491	112	Negative_activation	blocks	controller,uniprot:UNRESOLVED ID|controlled,uniprot:P54829
+PMC2173491	126	Negative_activation	deactivate	controlled,uniprot:P84077|controller,uniprot:P20936
+PMC2173491	127	Positive_activation	allowed	controlled,uniprot:Q9NR83|controller,uniprot:UNRESOLVED ID
+PMC2173491	127	Binding	recruitment	theme,uniprot:P84077|theme,uniprot:UNRESOLVED ID
+PMC2173491	130	Hydrolysis	hydrolysis	theme,uniprot:UNRESOLVED ID
+PMC2173491	133	Positive_activation	stimulates	controlled,uniprot:P20936|controller,uniprot:UNRESOLVED ID
+PMC2173491	194	Ribosylation	ribosylation	theme,uniprot:P02783

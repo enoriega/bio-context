@@ -1,0 +1,24 @@
+Paper ID	Line Num	Type	Trigger
+PMC3242165	22	Hydrolysis	hydrolysis	theme,uniprot:P06858
+PMC3242165	41	Hydrolysis	hydrolyzes	theme,uniprot:Q5TKA1
+PMC3242165	74	Binding	bind	theme,uniprot:P06858|theme,uniprot:UNRESOLVED ID
+PMC3242165	74	Binding	bind	theme,uniprot:P06858|theme,uniprot:Q8IV16
+PMC3242165	74	Binding	bind	theme,uniprot:P06858|theme,uniprot:Q07954
+PMC3242165	74	Binding	bind	theme,uniprot:P11150|theme,uniprot:UNRESOLVED ID
+PMC3242165	74	Binding	bind	theme,uniprot:P11150|theme,uniprot:Q8IV16
+PMC3242165	74	Binding	bind	theme,uniprot:P11150|theme,uniprot:Q07954
+PMC3242165	79	Hydrolysis	hydrolyzes	theme,uniprot:Q5TKA1
+PMC3242165	89	Hydrolysis	hydrolysis	theme,uniprot:UNRESOLVED ID
+PMC3242165	126	Binding	bound	theme,uniprot:UNRESOLVED ID|theme,uniprot:P02753
+PMC3242165	127	Positive_activation	stimulated	controlled,uniprot:P02753|controller,uniprot:UNRESOLVED ID
+PMC3242165	127	Binding	complexes	theme,uniprot:UNRESOLVED ID|theme,uniprot:P02753
+PMC3242165	141	Hydrolysis	hydrolyzed	theme,uniprot:UNRESOLVED ID
+PMC3242165	166	Negative_activation	attenuated	controlled,uniprot:UNRESOLVED ID|controller,uniprot:Q64176
+PMC3242165	169	Positive_activation	promotes	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P23141
+PMC3242165	169	Positive_activation	promotes	controlled,uniprot:P02753|controller,uniprot:P23141
+PMC3242165	217	Hydrolysis	hydrolyze	theme,uniprot:Q5TKA1
+PMC3242165	246	Hydrolysis	hydrolysis	theme,uniprot:UNRESOLVED ID
+PMC3242165	262	Negative_activation	inhibited	controlled,uniprot:P23141|controller,uniprot:Q68DA7
+PMC3242165	280	Hydrolysis	hydrolysis	theme,uniprot:UNRESOLVED ID
+PMC3242165	305	Hydrolysis	hydrolysis	theme,uniprot:UNRESOLVED ID
+PMC3242165	333	Positive_activation	produces	controlled,uniprot:UNRESOLVED ID|controller,uniprot:A9C3R9

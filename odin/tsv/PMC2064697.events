@@ -1,0 +1,9 @@
+Paper ID	Line Num	Type	Trigger
+PMC2064697	79	Phosphorylation	phosphorylation	theme,uniprot:Q2U5A9|site,uniprot:UNRESOLVED ID
+PMC2064697	183	Binding	binding	theme,uniprot:P69208|theme,uniprot:UNRESOLVED ID
+PMC2064697	209	Positive_activation	induces	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P52926
+PMC2064697	216	Positive_activation	induces	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P52926
+PMC2064697	265	Phosphorylation	phosphorylation	theme,uniprot:Q2U5A9|site,uniprot:UNRESOLVED ID
+PMC2064697	265	Phosphorylation	phosphorylation	theme,uniprot:Q2U5A9|site,uniprot:Q0JCT1
+PMC2064697	269	Methylation	methylation	theme,uniprot:UNRESOLVED ID
+PMC2064697	312	Positive_activation	induce	controlled,uniprot:Q77JX3|controller,uniprot:UNRESOLVED ID

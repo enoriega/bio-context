@@ -1,0 +1,38 @@
+Paper ID	Line Num	Type	Trigger
+PMC420486	5	Positive_activation	activates	controlled,uniprot:UNRESOLVED ID|controller,uniprot:Q9BRC7
+PMC420486	5	Positive_activation	upregulates	controlled,uniprot:P01133|controller,uniprot:Q9BRC7
+PMC420486	5	Positive_activation	upregulates	controlled,uniprot:UNRESOLVED ID|controller,uniprot:Q9BRC7
+PMC420486	14	Positive_activation	activates	controlled,uniprot:UNRESOLVED ID|controller,uniprot:Q9BRC7
+PMC420486	14	Positive_activation	upregulates	controlled,uniprot:P01133|controller,uniprot:Q9BRC7
+PMC420486	14	Positive_activation	upregulates	controlled,uniprot:UNRESOLVED ID|controller,uniprot:Q9BRC7
+PMC420486	25	Positive_activation	activated	controlled,uniprot:UNRESOLVED ID|controller,interpro:IPR001019
+PMC420486	28	Hydrolysis	hydrolysis	theme,uniprot:P01009
+PMC420486	72	Positive_activation	activates	controlled,uniprot:UNRESOLVED ID|controller,uniprot:Q9BRC7
+PMC420486	73	Hydrolysis	hydrolysis	theme,uniprot:P01009
+PMC420486	75	Phosphorylation	phosphorylation	theme,uniprot:P13678
+PMC420486	77	Phosphorylation	phosphorylated	theme,uniprot:Q9BRC7
+PMC420486	81	Positive_activation	activates	controlled,uniprot:UNRESOLVED ID|controller,uniprot:Q9BRC7
+PMC420486	87	Phosphorylation	phosphorylated	theme,uniprot:P10666|site,uniprot:UNRESOLVED ID
+PMC420486	89	Positive_activation	activates	controlled,uniprot:P29323|controller,uniprot:Q9BRC7
+PMC420486	89	Positive_activation	activates	controlled,uniprot:Q8TCB0|controller,uniprot:Q9BRC7
+PMC420486	90	Positive_activation	activates	controlled,uniprot:P27361|controller,uniprot:Q9BRC7
+PMC420486	98	Phosphorylation	phosphorylated	theme,uniprot:P00533|site,uniprot:UNRESOLVED ID
+PMC420486	99	Positive_activation	upregulates	controlled,uniprot:P00533|controller,uniprot:Q9BRC7
+PMC420486	100	Positive_activation	upregulates	controlled,uniprot:P00533|controller,uniprot:Q9BRC7
+PMC420486	101	Phosphorylation	phosphorylated	theme,uniprot:P03372
+PMC420486	101	Phosphorylation	phosphorylated	theme,uniprot:P00533
+PMC420486	130	Phosphorylation	phosphorylation	theme,uniprot:P00533
+PMC420486	130	Phosphorylation	phosphorylation	theme,uniprot:P27361
+PMC420486	151	Positive_activation	upregulates	controlled,uniprot:P01133|controller,uniprot:Q9BRC7
+PMC420486	151	Positive_activation	upregulates	controlled,uniprot:UNRESOLVED ID|controller,uniprot:Q9BRC7
+PMC420486	151	Positive_activation	upregulates	controlled,uniprot:P00533|controller,uniprot:Q9BRC7
+PMC420486	151	Positive_activation	upregulates	controlled,uniprot:P04626|controller,uniprot:Q9BRC7
+PMC420486	152	Positive_activation	activate	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P05371
+PMC420486	157	Negative_activation	inhibitor	controlled,uazid:UA-KB-FAM-00001|controller,uniprot:UNRESOLVED ID
+PMC420486	157	Negative_activation	inhibitor	controlled,uniprot:P29323|controller,uazid:UA-KB-FAM-00001
+PMC420486	157	Negative_activation	inhibitor	controlled,uniprot:P29323|controller,uniprot:UNRESOLVED ID
+PMC420486	158	Positive_activation	activate	controlled,uniprot:P98160|controller,uniprot:P00533
+PMC420486	209	Hydrolysis	hydrolysis	theme,uniprot:P01009
+PMC420486	210	Hydrolysis	hydrolysis	theme,uniprot:P01009
+PMC420486	217	Hydrolysis	hydrolysis	theme,uniprot:P01009
+PMC420486	229	Hydrolysis	hydrolysis	theme,uniprot:P01009

@@ -1,0 +1,21 @@
+Paper ID	Line Num	Type	Trigger
+PMC3182062	31	Methylation	methylation	theme,uniprot:P42771
+PMC3182062	42	Methylation	methylation	theme,uniprot:P42771
+PMC3182062	78	Positive_activation	induction	controlled,uniprot:P16961|controller,uniprot:B1JHA2
+PMC3182062	146	Binding	binding	theme,uniprot:Q01094|theme,uniprot:O00716
+PMC3182062	148	Binding	binding	theme,uniprot:Q01094|theme,uniprot:O00716
+PMC3182062	148	Binding	binding	theme,uniprot:Q01094|theme,uniprot:Q16254
+PMC3182062	148	Binding	binding	theme,uniprot:O00716|theme,uniprot:Q16254
+PMC3182062	148	Binding	binding	theme,uniprot:Q01094|theme,uniprot:P46530
+PMC3182062	148	Binding	binding	theme,uniprot:O00716|theme,uniprot:P46530
+PMC3182062	148	Binding	binding	theme,uniprot:Q16254|theme,uniprot:P46530
+PMC3182062	164	Negative_activation	inhibits	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P46530
+PMC3182062	167	Negative_activation	inhibits	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P46530
+PMC3182062	193	Positive_activation	blocks	controlled,uniprot:P46530|controller,uniprot:UNRESOLVED ID
+PMC3182062	196	Negative_activation	inhibit	controlled,uniprot:P46530|controller,uniprot:UNRESOLVED ID
+PMC3182062	198	Negative_activation	inhibit	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P46531
+PMC3182062	229	Negative_activation	inhibitor	controller,uniprot:P12004|controlled,uniprot:P06400
+PMC3182062	251	Negative_activation	inhibitor	controlled,uniprot:P46530|controller,uniprot:UNRESOLVED ID
+PMC3182062	254	Negative_activation	block	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P46530
+PMC3182062	259	Negative_activation	slow	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P46530
+PMC3182062	300	Phosphorylation	phosphorylation	theme,uniprot:O05982

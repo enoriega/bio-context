@@ -1,0 +1,3 @@
+Paper ID	Line Num	Type	Trigger
+PMC3032653	5	Phosphorylation	phosphorylation	theme,uniprot:UNRESOLVED ID
+PMC3032653	7	Binding	associated	theme,uniprot:Q6ZSZ5|theme,uniprot:P08100

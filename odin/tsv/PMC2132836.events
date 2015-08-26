@@ -1,0 +1,15 @@
+Paper ID	Line Num	Type	Trigger
+PMC2132836	6	Positive_activation	induces	controlled,uniprot:P15172|controller,uniprot:Q16878
+PMC2132836	6	Positive_activation	induces	controlled,uniprot:Q16878|controller,uniprot:P15172
+PMC2132836	7	Positive_activation	rescues	controlled,uniprot:UNRESOLVED ID|controller,uniprot:Q16878
+PMC2132836	7	Positive_activation	rescues	controlled,uniprot:A0PDV5|controller,uniprot:Q16878
+PMC2132836	7	Positive_activation	rescues	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P15172
+PMC2132836	7	Positive_activation	rescues	controlled,uniprot:A0PDV5|controller,uniprot:P15172
+PMC2132836	127	Positive_activation	Induces	controlled,uniprot:Q16878|controller,uniprot:P15172
+PMC2132836	179	Positive_activation	initiated	controlled,uniprot:UNRESOLVED ID|controller,interpro:IPR005817
+PMC2132836	196	Positive_activation	reactivate	controlled,uniprot:UNRESOLVED ID|controller,uniprot:Q16878
+PMC2132836	196	Positive_activation	reactivate	controlled,uniprot:A0PDV5|controller,uniprot:Q16878
+PMC2132836	196	Positive_activation	reactivate	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P15172
+PMC2132836	196	Positive_activation	reactivate	controlled,uniprot:A0PDV5|controller,uniprot:P15172
+PMC2132836	232	Positive_activation	overexpressing	controlled,uniprot:UNRESOLVED ID|controller,uniprot:Q16878
+PMC2132836	250	Positive_activation	induces	controlled,uniprot:Q16878|controller,uniprot:P15172

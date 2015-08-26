@@ -1,0 +1,21 @@
+Paper ID	Line Num	Type	Trigger
+PMC2064233	7	Positive_activation	reduces	controlled,uniprot:P29474|controller,uniprot:Q8IVQ6
+PMC2064233	7	Positive_activation	reduces	controlled,uniprot:P29474|controller,uniprot:Q9NYG2
+PMC2064233	22	Negative_activation	reduces	controlled,uniprot:P34726|controller,uniprot:P47974
+PMC2064233	22	Negative_activation	reduces	controlled,uniprot:P23292|controller,uniprot:P47974
+PMC2064233	22	Negative_activation	reduces	controlled,uniprot:P34726|controller,uniprot:O14965
+PMC2064233	22	Negative_activation	reduces	controlled,uniprot:P23292|controller,uniprot:O14965
+PMC2064233	25	Binding	complex	theme,uniprot:P47974|theme,uniprot:Q758G1
+PMC2064233	31	Positive_activation	reduces	controlled,uniprot:P29474|controller,uniprot:Q8IVQ6
+PMC2064233	42	Positive_activation	increases	controlled,uniprot:UNRESOLVED ID|controller,uniprot:Q8IVQ6
+PMC2064233	42	Positive_activation	increases	controlled,uniprot:P29474|controller,uniprot:Q8IVQ6
+PMC2064233	94	Phosphorylation	phosphorylation	theme,uniprot:P54644
+PMC2064233	94	Phosphorylation	phosphorylation	theme,uniprot:Q7M1T6
+PMC2064233	94	Phosphorylation	phosphorylation	theme,uniprot:P49913
+PMC2064233	130	Negative_activation	reduces	controlled,uniprot:P29474|controller,uniprot:Q8IVQ6
+PMC2064233	158	Positive_activation	diminishes	controlled,uniprot:P29474|controller,uniprot:Q8IVQ6
+PMC2064233	164	Positive_activation	increased	controlled,uniprot:UNRESOLVED ID|controller,uniprot:Q9UIJ5
+PMC2064233	166	Positive_activation	reduces	controlled,uniprot:P29474|controller,uniprot:Q8IVQ6
+PMC2064233	166	Positive_activation	reduces	controlled,uniprot:O73622|controller,uniprot:Q8IVQ6
+PMC2064233	170	Positive_activation	enhance	controlled,uniprot:UNRESOLVED ID|controller,uniprot:Q9UIJ5
+PMC2064233	175	Positive_activation	decreases	controlled,uniprot:P29474|controller,uniprot:Q8IVQ6

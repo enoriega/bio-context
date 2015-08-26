@@ -1,0 +1,8 @@
+Paper ID	Line Num	Type	Trigger
+PMC2139800	142	Binding	complex	theme,uniprot:Q2U7A3|theme,uniprot:UNRESOLVED ID
+PMC2139800	151	Binding	binding	theme,uniprot:UNRESOLVED ID|theme,uniprot:Q2U7A3
+PMC2139800	157	Positive_activation	stimulated	controller,uniprot:P06396|controlled,uniprot:Q2U7A3
+PMC2139800	222	Binding	interacts	theme,interpro:IPR001033|theme,uniprot:UNRESOLVED ID
+PMC2139800	222	Binding	interacts	theme,interpro:IPR001033|theme,uniprot:Q07157
+PMC2139800	234	Binding	bound	theme,uniprot:UNRESOLVED ID|theme,uniprot:A0PDV5
+PMC2139800	234	Binding	bound	theme,uniprot:UNRESOLVED ID|theme,uniprot:P15153

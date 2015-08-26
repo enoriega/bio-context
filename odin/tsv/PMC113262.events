@@ -1,0 +1,12 @@
+Paper ID	Line Num	Type	Trigger
+PMC113262	4	Negative_activation	suppresses	controlled,uniprot:P15692|controller,uniprot:P04637
+PMC113262	4	Negative_activation	suppresses	controlled,uniprot:P35228|controller,uniprot:P04637
+PMC113262	17	Negative_activation	suppresses	controlled,uniprot:P15692|controller,uniprot:P04637
+PMC113262	17	Negative_activation	suppresses	controlled,uniprot:P35228|controller,uniprot:P04637
+PMC113262	37	Negative_activation	suppresses	controlled,uniprot:P15692|controller,uniprot:P04637
+PMC113262	37	Negative_activation	suppresses	controlled,uniprot:P35228|controller,uniprot:P04637
+PMC113262	38	Positive_activation	potentiates	controlled,uniprot:Q25378|controller,uniprot:P04637
+PMC113262	38	Positive_activation	potentiates	controlled,uniprot:P15692|controller,uniprot:P04637
+PMC113262	38	Positive_activation	induction	controlled,uniprot:P15692|controller,uniprot:Q25378
+PMC113262	70	Binding	complex	theme,uniprot:P02701|theme,uniprot:UNRESOLVED ID
+PMC113262	132	Positive_activation	promote	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P35228

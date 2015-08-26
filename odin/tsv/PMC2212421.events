@@ -1,0 +1,7 @@
+Paper ID	Line Num	Type	Trigger
+PMC2212421	60	Binding	binds	theme,uniprot:P17927|theme,uniprot:UNRESOLVED ID
+PMC2212421	60	Binding	binds	theme,uniprot:P17927|theme,uniprot:P0C0L5
+PMC2212421	64	Binding	binding	theme,uniprot:P17927|theme,uniprot:O24585
+PMC2212421	92	Positive_activation	reduced	controlled,uniprot:P01009|controller,uniprot:P94854
+PMC2212421	92	Positive_activation	reduced	controlled,uniprot:P01009|controller,uniprot:O24585
+PMC2212421	104	Binding	interacts	theme,uniprot:Q14185|theme,uniprot:P46108

@@ -1,0 +1,46 @@
+Paper ID	Line Num	Type	Trigger
+PMC2193139	4	Binding	associates	theme,uniprot:Q9UN19|theme,uniprot:P16885|site,uniprot:UNRESOLVED ID
+PMC2193139	4	Binding	ligation	theme,uniprot:UNRESOLVED ID|theme,uniprot:P11274
+PMC2193139	4	Phosphorylation	phosphorylated	theme,uniprot:UNRESOLVED ID
+PMC2193139	4	Phosphorylation	phosphorylated	theme,uniprot:P11274
+PMC2193139	5	Translocation	recruited	theme,uniprot:Q9UN19|destination,uazid:UAI-CT-725
+PMC2193139	17	Positive_activation	produce	controlled,uniprot:UNRESOLVED ID|controller,N/A
+PMC2193139	17	Hydrolysis	hydrolyzes	theme,uniprot:UNRESOLVED ID
+PMC2193139	117	Phosphorylation	Phosphorylated	theme,uniprot:Q9UN19|site,uniprot:UNRESOLVED ID
+PMC2193139	129	Translocation	Recruited	theme,uniprot:Q9UN19|destination,uazid:UAI-CT-725
+PMC2193139	152	Translocation	recruited	theme,uniprot:Q9UN19|destination,uazid:UAI-CT-725
+PMC2193139	153	Positive_activation	Modulate	controlled,uniprot:P11274|controller,uniprot:Q9UN19
+PMC2193139	156	Negative_activation	inhibited	controlled,uniprot:P11274|controller,uniprot:Q9UN19
+PMC2193139	156	Negative_activation	inhibited	controlled,uniprot:UNRESOLVED ID|controller,uniprot:Q9UN19
+PMC2193139	156	Positive_activation	activation	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P11274
+PMC2193139	158	Positive_activation	induced	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P11274
+PMC2193139	159	Positive_activation	induced	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P11274
+PMC2193139	160	Negative_activation	induced	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P42348
+PMC2193139	161	Positive_activation	induced	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P11274
+PMC2193139	162	Positive_activation	induced	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P42348
+PMC2193139	181	Negative_activation	negatively regulate	controlled,uniprot:UNRESOLVED ID|controller,uniprot:Q9UN19
+PMC2193139	182	Phosphorylation	Phosphorylation	theme,uniprot:Q9UN19|site,uniprot:UNRESOLVED ID
+PMC2193139	183	Phosphorylation	phosphorylated	theme,uniprot:P11274
+PMC2193139	187	Phosphorylation	phosphorylated	theme,uniprot:Q9UN19
+PMC2193139	187	Phosphorylation	phosphorylation	theme,uniprot:Q9UN19
+PMC2193139	189	Phosphorylation	phosphorylation	theme,uniprot:Q9UN19
+PMC2193139	197	Binding	association	theme,uniprot:Q9UN19|theme,uniprot:P19174
+PMC2193139	201	Ribosylation	ribosylation	theme,uniprot:P02783
+PMC2193139	223	Positive_activation	induced	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P11274
+PMC2193139	226	Positive_activation	activation	controlled,uniprot:P16885|controller,uniprot:Q06187
+PMC2193139	226	Binding	associates	theme,uniprot:Q9UN19|theme,uniprot:P16885
+PMC2193139	228	Positive_activation	modulate	controlled,uniprot:UNRESOLVED ID|controller,uniprot:Q9UN19
+PMC2193139	228	Positive_activation	modulate	controlled,uniprot:P42348|controller,uniprot:Q9UN19
+PMC2193139	229	Phosphorylation	phosphorylation	theme,uniprot:B1JHY0
+PMC2193139	230	Positive_activation	enhances	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P54644
+PMC2193139	230	Positive_activation	induced	controlled,uniprot:UNRESOLVED ID|controller,uniprot:A2KF29
+PMC2193139	234	Positive_activation	activation	controlled,uniprot:UNRESOLVED ID|controller,uniprot:Q9UN19
+PMC2193139	234	Binding	ligation	theme,uniprot:P11274|theme,uniprot:P25942
+PMC2193139	267	Phosphorylation	phosphorylated	theme,uniprot:Q9UN19|site,uniprot:UNRESOLVED ID
+PMC2193139	275	Phosphorylation	phosphorylation	theme,uniprot:Q9UN19
+PMC2193139	282	Binding	bind	theme,uniprot:Q9UN19|theme,interpro:IPR016279|site,uniprot:UNRESOLVED ID
+PMC2193139	285	Translocation	recruited	theme,uniprot:Q9UN19|destination,uazid:UAI-CT-725
+PMC2193139	302	Negative_activation	inhibits	controlled,uniprot:UNRESOLVED ID|controller,uniprot:Q9UN19
+PMC2193139	302	Positive_activation	induced	controlled,uniprot:UNRESOLVED ID|controller,uniprot:P11274
+PMC2193139	314	Positive_activation	induced	controlled,uniprot:UNRESOLVED ID|controller,uniprot:Q9UN19
+PMC2193139	318	Positive_activation	induced	controlled,uniprot:P42348|controller,uniprot:P11274
